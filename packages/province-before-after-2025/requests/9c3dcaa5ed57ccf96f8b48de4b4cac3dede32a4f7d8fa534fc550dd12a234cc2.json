@@ -1,0 +1,26 @@
+{
+  "request_url": "https://vi.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&inprop=url&maxlag=5&ppprop=wikibase_item%7Cdisambiguation&prop=info%7Cpageprops&redirects=1&titles=Gia+Lai%7CGia+Lai+%28t%E1%BB%89nh%29%7CGia+Lai+%28t%E1%BB%89nh+c%C5%A9%29%7CGia+Lai+%28tr%C6%B0%E1%BB%9Bc+2025%29",
+  "params": {
+    "format": "json",
+    "formatversion": "2",
+    "maxlag": 5,
+    "action": "query",
+    "titles": "Gia Lai|Gia Lai (tỉnh)|Gia Lai (tỉnh cũ)|Gia Lai (trước 2025)",
+    "redirects": 1,
+    "prop": "info|pageprops",
+    "inprop": "url",
+    "ppprop": "wikibase_item|disambiguation"
+  },
+  "retrieved_at": "2026-09-29T15:20:09.431787Z",
+  "http_status": 200,
+  "headers": {
+    "date": "Tue, 29 Sep 2026 15:20:09 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1661"
+  },
+  "path": "sources/responses/38b736131e5ca2dbb16f0fcb29d4f89b0799c7ab3c422488c394a545fe1a966d.json",
+  "sha256": "38b736131e5ca2dbb16f0fcb29d4f89b0799c7ab3c422488c394a545fe1a966d",
+  "byte_length": 1661,
+  "media_type": "application/json",
+  "representation": "unmodified MediaWiki HTTP response body bytes"
+}

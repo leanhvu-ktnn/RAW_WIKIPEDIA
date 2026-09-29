@@ -1,0 +1,1096 @@
+{{Chú thích trong bài|date=tháng 7/2026}}
+{{other|Tuyên Quang (định hướng)}}
+{{Thông tin đơn vị hành chính Việt Nam | Tỉnh
+| tên = Tuyên Quang
+| tên khác = Xứ Tuyên
+| biệt danh = *Địa đầu tổ quốc
+*Miền gái đẹp (cùng với [[Thái Nguyên]])
+*Nơi đá nở hoa
+*Thủ đô kháng chiến
+*Trung tâm chiến khu cách mạng
+*Vùng đất sáng
+*Xứ sở hoa tam giác mạch
+| logo = Logo tỉnh Tuyên Quang.png
+| ghi chú logo = Biểu trưng
+| nhiều hình = {{multiple image
+| border = infobox
+| total_width = 300
+| image_style = border:1;
+| perrow = 1/2/2/2
+| image1 = Cột_Cờ.jpg
+| image2 = Cây Đa lịch sử Tân Trào.JPG
+| image3 = Đình Tân Trào.jpg
+| image4 = Thành phố Tuyên Quang.jpg
+| image5 = Cot buoc trau.jpg
+| image6 = Hong Thai.jpg
+| image7 = Hà_Giang_City.jpg
+}}
+| ghi chú hình = Từ trái sang phải:
+[[Cột cờ Lũng Cú]], [[Chiến khu Tân Trào|Cây đa Tân Trào, đình Hồng Thái]], phường [[Minh Xuân]], [[Khu bảo tồn thiên nhiên Na Hang – Lâm Bình|thắng cảnh Cọc Vài]], ruộng bậc thang [[Hồng Thái, Tuyên Quang|Hồng Thái]], địa phận phường [[Hà Giang 1]] & [[Hà Giang 2]]
+| vĩ độ = 21.777355
+| kinh độ = 105.228424
+| bản đồ 1 = {{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=2|stroke-color=#000000}}
+| diện tích = 13.795,50 km²<ref name="202/2025/QH15"/><ref name=TT/><ref name="DT">{{Chú thích web |url= https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm |tựa đề= Dự kiến chi tiết diện tích, dân số, quy mô kinh tế của 34 tỉnh, thành mới |tác giả= Lê Hoa |ngày= 2025-06-09 |website= Báo Dân Trí |url lưu trữ= https://web.archive.org/web/20250610031809/https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm |ngày lưu trữ= 2025-06-10 |ngày truy cập= 2025-06-09 |url-status= dead }}</ref>
+| dân số = 1.865.270 người<ref name="202/2025/QH15"/><ref name=TT/><ref name="DT"/>
+| thời điểm dân số = 31/12/2024 
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:1.865.270|R}}/{{formatnum:13.795,50|R}})}} }} người/km²<ref name="202/2025/QH15"/><ref name=TT/><ref name="DT"/>
+| dân tộc = [[Người Việt|Kinh]], [[Người Tày|Tày]], [[H'Mông]], [[Người Dao|Dao]], [[Người Nùng|Nùng]], [[Người Sán Chay|Sán Chay]],...
+| vùng = 
+*[[Đông Bắc Bộ]] (địa lý)
+*[[Trung du và miền núi phía Bắc]] (kinh tế)
+| tỉnh lỵ = Phường [[Minh Xuân]]
+| phân chia hành chính = 7 phường, 117 xã
+| chủ tịch UBND = [[Phan Huy Ngọc]]
+| chủ tịch HĐND = [[Nguyễn Văn Sơn (Tuyên Quang)|Nguyễn Văn Sơn]]
+| chủ tịch UBMTTQ = [[Ma Thế Hồng]]
+| chánh án TAND = Bùi Đức Thuận 
+| viện trưởng VKSND = [[Lý Văn Huấn]]
+| bí thư = [[Hầu A Lềnh]]
+| thành lập = 4/11/1831
+| trụ sở UBND = Số 160, đường Trần Hưng Đạo, phường [[Minh Xuân]]
+| thời điểm kinh tế = 2025
+| GRDP = 95.634 tỉ đồng (3.6 tỉ USD)<ref name=TT/><ref name="DT"/>
+| GRDP bình quân đầu người = 51,3 triệu đồng (1.949 USD)<ref name=TT>{{Chú thích web|url=https://tuoitre.vn/chi-tiet-du-kien-quy-mo-dan-so-dien-tich-kinh-te-cua-34-tinh-thanh-sau-sap-nhap-20250513081155167.htm|tựa đề= Chi tiết dự kiến quy mô dân số, diện tích, kinh tế của 34 tỉnh, thành sau sáp nhập |tác giả= Thành Chung |ngày= 2025-05-13 |website= Tuổi Trẻ Online |url lưu trữ=https://web.archive.org/web/20250513080219/https://tuoitre.vn/chi-tiet-du-kien-quy-mo-dan-so-dien-tich-kinh-te-cua-34-tinh-thanh-sau-sap-nhap-20250513081155167.htm|ngày lưu trữ= 2025-05-13 |ngày truy cập= 2025-05-13 |url-status= dead }}</ref><ref name="DT"/>
+| biển số xe = [[Biển xe cơ giới Việt Nam|22]], [[Biển xe cơ giới Việt Nam|23]]
+| mã điện thoại = [[Mã điện thoại Việt Nam|207]]
+| mã địa lý = [[ISO 3166-2:VN|VN-07]]
+| mã hành chính = 08<ref>{{Chú thích web|url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf|tựa đề= Quyết định số 19/2025/QĐ-TTg về việc ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |ngày= 2025-06-30 |website= Cổng Thông tin điện tử Chính phủ |url lưu trữ=https://web.archive.org/web/20251224142347/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf|ngày lưu trữ= 2025-12-24 |ngày truy cập= 2025-12-24 |url-status= dead }}</ref>
+| mã bưu chính = [[Mã bưu chính Việt Nam|30xxxx]]
+| web = {{url|tuyenquang.gov.vn}}
+| tên cũ = [[Hà Tuyên]] <br> [[Hà Giang]]
+}}
+'''Tuyên Quang''' là một [[Tỉnh (Việt Nam)|tỉnh]] miền núi nằm ở cực bắc thuộc vùng [[Đông Bắc Bộ]], [[Bắc Bộ|miền Bắc]] [[Việt Nam]].
+
+Theo dữ liệu [[Sáp nhập tỉnh, thành Việt Nam 2025]], Tuyên Quang có diện tích: 13.796&nbsp;km², xếp thứ 7; dân số: 1.865.270 người, xếp thứ 24; GRDP 2024: 86.246.356 triệu VNĐ, xếp thứ 28; thu ngân sách 2024: 6.657.963 triệu VNĐ, xếp thứ 30; thu nhập bình quân: 36,51 triệu VNĐ/năm, xếp thứ 30.<ref>{{Chú thích web |tiêu đề=Danh sách dự kiến tên gọi của 34 tỉnh, thành phố và trung tâm chính trị - hành chính |url=https://vtv.vn/chinh-tri/danh-sach-du-kien-ten-goi-cua-34-tinh-thanh-pho-va-trung-tam-chinh-tri-hanh-chinh-20250413230809506.htm |ngày truy cập=14 tháng 4 năm 2025 |website=vtv.vn |ngôn ngữ=vi}}</ref>
+
+== Tên gọi ==
+Vào thế kỷ XIII đến thế kỷ XIV thời nhà Trần, vùng đất này có tên hành chính là Lộ Tuyên Quang. Sau đó, vào cuối thời Trần, được đổi thành Trấn Tuyên Quang. Vào thời nhà Minh sang xâm lược & đô hộ đặt ách thống trị lên [[Đại Việt]] thì tên gọi Trấn Tuyên Quang được đổi thành Phủ Tuyên Hóa. Sau khi [[Khởi nghĩa Lam Sơn]] diễn ra thành công quân dân [[Đại Việt]] đánh bại nhà Minh xâm lược tháo chạy về [[Hướng bắc|phía Bắc]], Lê Lợi lên ngôi vua lập ra nhà Hậu Lê lấy hiệu là Lê Thái Tổ, ông ra quyết định Tuyên Quang thuộc Tây Đạo. Đến năm 1466, vua Lê Thánh Tông ra quyết định đưa Tuyên Quang trở thành một trong 12 đạo thừa tuyên, có tên là Đạo Thừa Tuyên Tuyên Quang. Sau đó, được đổi thành xứ Tuyên Quang. Thế kỷ XIX vào thời nhà Nguyễn, vua Gia Long đổi xứ Tuyên Quang thành Trấn Tuyên Quang. Đến năm 1831, vua Minh Mạng tiến hành cải cách hành chính lần đầu tiên trong lịch sử, tỉnh Tuyên Quang được thành lập như một đơn vị hành chính chính thức. Thời Pháp thuộc tỉnh Tuyên Quang có sự thay đổi về đơn vị hành chính, có lúc sáp nhập với tỉnh [[Hà Giang]] thành tỉnh [[Hà Giang]], rồi lại tách ra. Sau năm 1975, tỉnh Tuyên Quang được hợp nhất với tỉnh [[Hà Giang]] thành tỉnh [[Hà Tuyên]]. Đến năm 1991, tỉnh [[Hà Tuyên]] lại được chia tách trở lại thành hai tỉnh Tuyên Quang và [[Hà Giang]]. Ngày nay, tên gọi "Tuyên Quang" mang nghĩa như sau: "Tuyên" nghĩa là lan tỏa và mở rộng; "Quang" nghĩa là ánh sáng; "Tuyên Quang" có ý nghĩa là "nơi ánh sáng được lan tỏa & mở rộng".
+
+==Địa lý==
+Tỉnh Tuyên Quang có vị trí địa lý:
+*Phía đông giáp các tỉnh [[Cao Bằng]] và [[Thái Nguyên]].
+*Phía tây giáp tỉnh [[Lào Cai]].
+*Phía nam giáp tỉnh [[Phú Thọ]].
+*Phía bắc giáp tỉnh [[Vân Nam]] và khu tự trị [[Quảng Tây]] ([[Trung Quốc]]).
+
+Trung tâm hành chính của tỉnh là phường [[Minh Xuân]], cách trung tâm thủ đô [[Hà Nội]] 131&nbsp;km.
+
+Các điểm cực của tỉnh Tuyên Quang:
+*Điểm cực đông tại xã [[Hồng Thái, Tuyên Quang|Hồng Thái]].
+*Điểm cực tây tại xã [[Pà Vầy Sủ]].
+*Điểm cực nam tại xã [[Phú Lương, Tuyên Quang|Phú Lương]].
+*Điểm cực bắc tại xã [[Lũng Cú]].
+
+Tuyên Quang nằm ở trung tâm của lưu vực [[sông Lô]]. [[Sông Gâm]] chảy qua tỉnh theo hướng Bắc – Nam và nhập vào sông Lô ở chỗ giáp ranh giữa xã [[Yên Sơn, Tuyên Quang|Yên Sơn]], xã Xuân Vân và xã Tân Long.
+
+Tuyên Quang là cực điểm của cả nước với các danh thắng như: [[Cột cờ Lũng Cú|Cột Cờ Lũng Cú]], [[Đèo Mã Pí Lèng]] - một trong tứ đại đỉnh đèo của Việt Nam.<ref>{{Chú thích web |last=Số 219 |first=© 2020 Báo Tuyên Quang Online-Cơ quan chủ quản: Tỉnh uỷ tỉnh Tuyên QuangGiấy phép hoạt động báo điện tử số 140/GP-BTTTT cấp ngày 17/03/2022 Tổng Biên tập: Mai Đức Thông Trụ sở tòa soạn: Trụ sở Tòa soạn: |last2=Trào |first2=đường Tân |last3=Xuân |first3=phường Minh |last4=Quang |first4=tỉnh Tuyên |title=Lễ công bố sáp nhập tỉnh Tuyên Quang, Hà Giang, hợp nhất xã, kết thúc hoạt động cấp huyện và chỉ định công tác cán bộ |url=https://baotuyenquang.com.vn/thoi-su-chinh-tri/202506/le-cong-bo-sap-nhap-tinh-tuyen-quang-ha-giang-hop-nhat-xa-ket-thuc-hoat-dong-cap-huyen-va-chi-dinh-cong-tac-can-bo-a4e6d5e/ |access-date=2025-07-01 |website=baotuyenquang.com.vn}}</ref>
+
+==Lịch sử==
+{{main|Lịch sử hành chính Tuyên Quang}}
+Tuyên Quang nguyên cũng là một vùng đất thuộc [[xứ Thái]], nhưng từ [[thế kỷ 13]] đã chịu sự kiểm soát của triều đình Việt Nam dưới đời nhà Trần. [[Nhà Trần|Triều Trần]] gọi là lộ Quốc Oai, sau đổi là châu Tuyên Quang. Dưới đời vua [[Trần Hiến Tông]] (niên hiệu [[Khai Hữu]], 1329-1341), châu Tuyên Quang đổi thành trấn, rồi thành phủ [[Tuyên Hóa (huyện)|Tuyên Hóa]] dưới thời Minh thuộc.
+
+Sau khi vua [[Lê Thái Tổ]] đuổi xong [[nhà Minh|giặc Minh]], ngài đặt phủ Tuyên Hóa thuộc [[Tây Đạo]]. Đời vua [[Lê Thánh Tông]], Tuyên Quang gồm một [[phủ (định hướng)|phủ]] và năm [[huyện]] và trở thành tỉnh [[Minh Quang (tỉnh)|Minh Quang]] dưới triều vua [[Lê Uy Mục]]. Đời [[Lê Trang Tông]], đổi [[Minh Quang (tỉnh)|Minh Quang]] thành doanh [[An Tại]], cho dòng họ [[Vũ]] người [[Thái (dân tộc)|Thái]] làm doanh trưởng.
+
+===Tuyên Quang thời nhà Nguyễn===
+Vào đầu thế kỷ 19, Tuyên Quang gồm 1 phủ là phủ Yên Bình. Phủ này quản lý 1 huyện và 5 châu:<ref>{{chú thích sách|nhà xuất bản=Khoa học – xã hội|year=1981|isbn=|doi=|id=|tựa đề=Tên làng xã Việt Nam đầu thế kỷ XIX|tác giả=Dương Thị The|trang=87, 88, 89}}</ref>
+* Huyện [[Phúc Yên (thành phố)|Phúc Yên]] (nay là phần đất thuộc khu vực trung tâm và các khu vực [[Yên Sơn (huyện)|Yên Sơn]], [[Chiêm Hóa (huyện)|Chiêm Hóa]] của tỉnh Tuyên Quang) gồm 10 tổng: Trung Môn, Yên Lũng, Yên Lĩnh, Hằng Túc, Hùng Dị, Kim Đô, Hoàng Sơn, Đồng Yên, Lăng Quán, Bình Ca.
+* Châu [[Lục Yên (huyện)|Lục Yên]] (nay là phần đất phía đông tỉnh [[Lào Cai]]).
+* Châu [[Thu Vật]] (năm 1823 đổi tên là châu Thu (Thu Châu), nay là phần đất phía đông nam của tỉnh [[Lào Cai]]) gồm 7 tổng: Vĩnh Kiên, Đại Đồng, Ẩm Phúc, Cẩm Nhân, Mông Sơn, Ngọc Chấn, Thì Ngạn.
+* Châu [[Vị Xuyên (huyện)|Vị Xuyên]] (nay là phần đất ở phía bắc tỉnh Tuyên Quang).
+* Châu [[Bảo Lạc (huyện)|Bảo Lạc]] (nay là phần đất phía đông bắc của tỉnh Tuyên Quang và khu vực phía tây của tỉnh [[Cao Bằng]]).
+* Châu [[Đại Man]] (nay là phần đất thuộc khu vực [[Na Hang]], [[Lâm Bình (huyện)|Lâm Bình]],.. của tỉnh Tuyên Quang).
+
+Ngày 4 tháng 11 năm 1831, thành lập tỉnh Tuyên Quang.<ref name="ĐBTTQ">{{Chú thích web|url=https://tuyenquang.dcs.vn/DetailView/145311/43/Ky-niem-192-nam-thanh-lap-tinh-Tuyen-Quang-(04/11/1831---04/11/2023).html|tựa đề=Kỷ niệm 192 năm thành lập tỉnh Tuyên Quang (04/11/1831 - 04/11/2023)|tác giả=Yến Chi|ngày=2024-11-04|website=Cổng thông tin điện tử Đảng bộ tỉnh Tuyên Quang|url lưu trữ=https://web.archive.org/web/20240906132424/https://tuyenquang.dcs.vn/DetailView/145311/43/Ky-niem-192-nam-thanh-lap-tinh-Tuyen-Quang-(04/11/1831---04/11/2023).html|ngày lưu trữ=2024-09-06|url-status=dead|ngày truy cập=2024-09-06}}</ref><ref>{{Chú thích web|url=https://daibieunhandan.vn/Su-kien-noi-bat/Chu-tich-QH-Nguyen-Sinh-Hung-du-Le-ky-niem-180-nam-thanh-lap-tinh-Tuyen-Quang-va-don-nhan-Huan-chuong-Ho-Chi-Minh-i3191/|tựa đề=Chủ tịch Quốc hội Nguyễn Sinh Hùng dự Lễ kỷ niệm 180 năm thành lập tỉnh Tuyên Quang (4/11/1831 – 4/11/2011) và đón nhận Huân chương Hồ Chí Minh|tác giả=Lâm Hiển|ngày=2011-10-29|website=Báo Điện tử Đại biểu Nhân Dân|url lưu trữ=https://web.archive.org/web/20240906132424/https://daibieunhandan.vn/Su-kien-noi-bat/Chu-tich-QH-Nguyen-Sinh-Hung-du-Le-ky-niem-180-nam-thanh-lap-tinh-Tuyen-Quang-va-don-nhan-Huan-chuong-Ho-Chi-Minh-i3191/|ngày lưu trữ=2024-09-06|url-status=dead|ngày truy cập=2024-09-06}}</ref><ref>{{Chú thích web|url=https://tuyenquangtv.vn/xa-hoi/201611/ttv-ky-niem-185-nam-thanh-lap-tinh-tuyen-quang-459751c/|tựa đề=Kỷ niệm 185 năm thành lập tỉnh Tuyên Quang (4/11/1831 – 4/11/2016)|tác giả=Thái Văn – Viết Kiều|ngày=2016-11-11|website=Trang thông tin điện tử tổng hợp của Đài Phát thanh và Truyền hình tỉnh Tuyên Quang|url lưu trữ=https://web.archive.org/web/20240906132424/https://tuyenquangtv.vn/xa-hoi/201611/ttv-ky-niem-185-nam-thanh-lap-tinh-tuyen-quang-459751c/|ngày lưu trữ=2024-09-06|url-status=dead|ngày truy cập=2024-09-06}}</ref><ref>{{Chú thích web|url=https://tuyenquang.dcs.vn/DetailView/55104/2/Ky-niem-190-nam-thanh-lap-tinh-30-nam-tai-lap-tinh-Tuyen-Quang-va-don-nhan-Huan-chuong-Doc-lap-hang-Ba.html|tựa đề=Kỷ niệm 190 năm thành lập tỉnh (4/11/1831 – 4/11/2011), 30 năm tái lập tỉnh Tuyên Quang (1991 – 2021) và đón nhận Huân chương Độc lập hạng Ba|tác giả=Thanh Phúc: Báo Tuyên Quang|ngày=2021-11-04|website=Cổng thông tin điện tử Đảng bộ tỉnh Tuyên Quang|url lưu trữ=https://web.archive.org/web/20240906132424/https://tuyenquang.dcs.vn/DetailView/55104/2/Ky-niem-190-nam-thanh-lap-tinh-30-nam-tai-lap-tinh-Tuyen-Quang-va-don-nhan-Huan-chuong-Doc-lap-hang-Ba.html|ngày lưu trữ=2024-09-06|url-status=dead|ngày truy cập=2024-09-06}}</ref><ref>{{Chú thích web|url=http://nld.com.vn/20111029112119994p0c1002/ky-niem-180-nam-thanh-lap-tinh-tuyen-quang.htm|tựa đề=Kỷ niệm 180 năm thành lập tỉnh Tuyên Quang (4.11.1831 - 4.11.2011)|tác giả=P.Hồ|ngày=2011-10-29|website=Báo Người Lao Động|url lưu trữ=https://web.archive.org/web/20240907141138/http://nld.com.vn/20111029112119994p0c1002/ky-niem-180-nam-thanh-lap-tinh-tuyen-quang.htm|ngày lưu trữ=2024-09-07|url-status=dead|ngày truy cập=2024-09-07}}</ref><ref name="01/PA-UBND" /> Năm 1842, nhà Nguyễn chia Tuyên Quang thành 3 hạt: Hà Giang, Bắc Quang, Tuyên Quang.
+
+[[Gia Long|Vua Gia Long]] lại đổi thành trấn Tuyên Quang, rồi trở thành tỉnh dưới triều [[Minh Mạng]]. Khi Pháp mới xâm chiếm Việt Nam, [[phủ Yên Bình]] là căn cứ kháng chiến chống giặc Pháp. Người [[Người Thái (Việt Nam)|Thái]], [[Người Mường|Mường]], [[H'Mông|Mèo]], [[Người Thổ|Thổ]], [[Người Nùng|Nùng]] cùng với dân quân các tỉnh lân cận đánh quân Pháp nhiều trận khốn đốn vào những năm 1884, 1885; thêm vào đó, [[quân Cờ Đen]] quấy nhiễu vùng Tuyên Quang khá lâu.<ref>''Avenir du Tonkin'' (1885 - 1899) ghi nhận quân Pháp kết hợp đặt quan cai trị và đưa quân sang "bình định" Tuyên Quang. Năm 1884 - 1885, Pháp đặt được Sorel quản lý Tuyên Quang. Kế tiếp Sorel gồm các phó công sứ Traubé (1889), Bonnetain (1891). Nhưng năm 1892, Pháp lại đặt tướng Baudart quản lý tiểu khu Tuyên Quang (kế tiếp là Bertrand). Năm 1894, Pháp đặt Viala làm phó công sứ, bên cạnh Thomasset (tư lệnh đạo quan binh số 3)</ref> Mãi tới năm 1894, Pháp mới hoàn toàn chiếm được tỉnh này.
+
+Ngày 9 tháng 9 năm 1891, Toàn quyền Đông Dương ban hành Nghị định<ref>Nghị định về việc thành lập 4 đạo quan binh ở Bắc Kỳ.</ref> về việc chia địa bàn tỉnh Tuyên Quang vào đạo Quan binh 2 và đạo Quan binh 3. Ngày 17 tháng 9 năm 1895, Toàn quyền Đông Dương ban hành Quyết định số 1432 về việc chia khu quân sự thứ ba thành 3 tỉnh: Tuyên Quang, Bắc Quang, Hà Giang.<ref>Tờ ''Avenir du Tonkin'' 1895 ghi nhận Quyết định vào tháng 9/1895 đã cử Coytier làm phó công sứ tỉnh Tuyên Quang, Chenagon làm phó công sứ tỉnh Bắc Quang, Cibaud làm phó công sứ tỉnh Hà Giang</ref> Ngày 11 tháng 4 năm 1900, Toàn quyền Đông Dương ban hành Nghị định về việc tái thành lập tỉnh Tuyên Quang trên cơ sở Phủ Yên Bình và huyện Sơn Dương của tỉnh Sơn Tây,<ref>Tạp chí ''Annuaire general de l'Indochine'' 1900 ghi nhận De Goy làm công sứ đầu tiên của tỉnh Tuyên Quang. Theo tài liệu ''Avenir du Tonkin'', De Goy làm phó công sứ các tỉnh Hải Ninh (1887), Thái Bình (1890), Mường (1891), Hưng Hóa (1892), Ninh Bình (1898)</ref> tỉnh lỵ đặt tại xã Ỷ La.
+[[Tập tin:Tuyen Quang 1891.jpg|220px|nhỏ|Bản đồ tỉnh Tuyên Quang năm 1891]]
+
+Năm 1916, Toàn quyền Đông Dương ban hành Nghị định về việc:
+*Chia huyện Hàm Yên thành huyện Yên Sơn và châu Hàm Yên.
+*Thành lập tỉnh Hà Giang trên cơ sở cắt phủ Tương An (Yên Ninh cũ) và 3 huyện: Bảo Lạc (cũ), Vị Xuyên, Vĩnh Tuy.
+*Cắt châu Lục Yên sáp nhập vào tỉnh Yên Bái.
+
+Trước [[Cách mạng tháng Tám]] năm 1945, Tuyên Quang có 1 phủ Yên Bình và 4 huyện: Yên Sơn, Hàm Yên, Chiêm Hóa, Sơn Dương. Tỉnh lỵ đặt ở xã Ỷ La.
+
+Năm 1945–tháng 11 năm 1975, tỉnh Tuyên Quang có 6 đơn vị hành chính, bao gồm 5 huyện: Na Hang, Chiêm Hóa, Hàm Yên, Yên Sơn, Sơn Dương, thị xã Tuyên Quang và 134 đơn vị hành chính cấp xã. Ngày 4 tháng 11 năm 1949, Chủ tịch Chính phủ ban hành Sắc lệnh số 127-SL.<ref name="127-SL">{{Chú thích web|url=https://vbpl.vn/TW/Pages/vbpq-print.aspx?ItemID=178|tựa đề=Sắc lệnh số 127-SL của Chủ tịch Chính phủ Việt Nam Dân chủ Cộng hòa ngày 4-11-1949 về việc hợp nhất Liên khu 1 và Liên khu 10 thành Liên khu Việt Bắc|tác giả=|ngày=1949-11-04|website=Cơ sở dữ liệu Quốc gia về Văn bản Pháp luật|url lưu trữ=https://web.archive.org/web/20240907141138/https://vbpl.vn/TW/Pages/vbpq-print.aspx?ItemID=178|ngày lưu trữ=2024-09-07|url-status=dead|ngày truy cập=2024-09-07}}</ref> Theo đó, tỉnh Tuyên Quang thuộc Liên khu Việt Bắc mới thành lập quản lý.
+
+=== Tỉnh Tuyên Quang sau năm 1954–1991 ===
+Sau năm 1954, tỉnh Tuyên Quang có 7 đơn vị hành chính cấp huyện, bao gồm: thị xã [[Tuyên Quang (thành phố)|Tuyên Quang]] (tỉnh lỵ) và 6 huyện: [[Yên Bình (huyện)|Yên Bình]], [[Yên Sơn (huyện)|Yên Sơn]], [[Na Hang]], [[Hàm Yên (huyện)|Hàm Yên]], [[Sơn Dương (huyện)|Sơn Dương]], [[Chiêm Hóa (huyện)|Chiêm Hóa]].
+
+Ngày 1 tháng 7 năm 1956, Chủ tịch nước Việt Nam Dân chủ Cộng hòa ban hành Sắc lệnh số 268-SL<ref name="268-SL">[https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Sac-lenh-268-SL-ban-hanh-ban-quy-dinh-thanh-lap-khu-tu-tri-Viet-bac-36774.aspx Sắc lệnh số 268-SL năm 1956 về việc thành lập Khu tự trị Việt Bắc]</ref> về việc tỉnh Tuyên Quang thuộc [[Khu tự trị Việt Bắc]] mới thành lập. Ngoài ra, huyện Yên Bình thuộc tỉnh Tuyên Quang được chuyển về tỉnh Yên Bái quản lý (khi đó nằm ở khu Lao – Hà – Yên).
+
+Ngày 27 tháng 12 năm 1975, Quốc hội ban hành Nghị quyết<ref name="1975/NQ-QH">{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-hop-nhat-mot-so-tinh-42732.aspx|tựa đề=Nghị quyết về việc hợp nhất một số tỉnh|tác giả=|ngày=1975-12-27|website=Thư viện Pháp luật|url lưu trữ=|ngày lưu trữ=|url-status=live|ngày truy cập=}}</ref> về việc thành lập tỉnh [[Hà Tuyên]] trên cơ sở tỉnh Tuyên Quang và tỉnh [[Hà Giang]].
+
+=== 1991–nay: Tuyên Quang ngày nay ===
+Ngày 12 tháng 8 năm 1991, Quốc hội ban hành Nghị quyết<ref name="1991/NQ-QH">{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-dieu-chinh-dia-gioi-hanh-chinh-mot-so-tinh-thanh-pho-truc-thuoc-Trung-uong-42808.aspx|tựa đề=Nghị quyết về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc trung ương|tác giả=|ngày=1991-08-12|website=Thư viện Pháp luật|url lưu trữ=https://web.archive.org/web/20200422032413/https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-dieu-chinh-dia-gioi-hanh-chinh-mot-so-tinh-thanh-pho-truc-thuoc-Trung-uong-42808.aspx|ngày lưu trữ=2020-04-22|url-status=dead|ngày truy cập=}}</ref> về việc chia tỉnh [[Hà Tuyên]] thành tỉnh Tuyên Quang và tỉnh [[Hà Giang]]. Tỉnh Tuyên Quang có 6 đơn vị hành chính, bao gồm thị xã [[Tuyên Quang (thành phố)|Tuyên Quang]] và 5 huyện: [[Chiêm Hóa (huyện)|Chiêm Hóa]], [[Hàm Yên (huyện)|Hàm Yên]], [[Na Hang]], [[Sơn Dương (huyện)|Sơn Dương]], [[Yên Sơn (huyện)|Yên Sơn]].
+
+Ngày 2 tháng 7 năm 2010, Chính phủ ban hành Nghị quyết số 27/NQ-CP<ref name="27/NQ-CP">{{Chú thích web |url=http://thuvienphapluat.vn/archive/Nghi-quyet/Nghi-quyet-27-NQ-CP-thanh-lap-thanh-pho-Tuyen-Quang-vb108274t13.aspx |title=Nghị quyết số 27/NQ-CP năm 2010 về việc thành lập thành phố Tuyên Quang thuộc tỉnh Tuyên Quang |access-date=2013-12-31 |archive-date=2013-12-13 |archive-url=https://web.archive.org/web/20131213135959/http://thuvienphapluat.vn/archive/Nghi-quyet/Nghi-quyet-27-NQ-CP-thanh-lap-thanh-pho-Tuyen-Quang-vb108274t13.aspx |url-status=dead }}</ref> về việc thành lập thành phố [[Tuyên Quang (thành phố)|Tuyên Quang]] thuộc tỉnh Tuyên Quang trên cơ sở toàn bộ thị xã Tuyên Quang.
+
+Ngày 28 tháng 1 năm 2011, Chính phủ ban hành Nghị quyết số 07/NQ-CP<ref name="07/NQ-CP">[http://thuvienphapluat.vn/archive/Nghi-quyet/Nghi-quyet-07-NQ-CP-dieu-chinh-dia-gioi-hanh-chinh-huyen-Na-Hang-vb118329t13.aspx Nghị quyết số 07/NQ-CP năm 2011 về việc điều chỉnh địa giới hành chính huyện Na Hang và huyện Chiêm Hóa để thành lập huyện Lâm Bình thuộc tỉnh Tuyên Quang]</ref> về việc thành lập huyện [[Lâm Bình (huyện)|Lâm Bình]] trên cơ sở điều chỉnh một phần diện tích và dân số của huyện Na Hang và huyện Chiêm Hóa.
+
+Từ đó, tỉnh Tuyên Quang có 1 thành phố Tuyên Quang (tỉnh lị) và 6 huyện: Chiêm Hóa, Hàm Yên, Lâm Bình, Na Hang, Sơn Dương, Yên Sơn.
+
+Ngày 12 tháng 6 năm 2025, Quốc hội ban hành Nghị quyết số 202/2025/QH15<ref name="202/2025/QH15">{{Chú thích web|url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94532|tựa đề= Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh |ngày= 2025-06-12 |website= Cổng thông tin điện tử Quốc hội Việt Nam |url lưu trữ=https://web.archive.org/web/20250612150244/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94532|ngày lưu trữ= 2025-06-12 |ngày truy cập= 2025-06-12 |url-status=live}}</ref> về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày 12 tháng 6 năm 2025). Theo đó, sáp nhập tỉnh [[Hà Giang]] vào tỉnh Tuyên Quang.
+
+Sau khi sáp nhập, tỉnh Tuyên Quang có 13.795,50&nbsp;km² diện tích tự nhiên và quy mô dân số là 1.865.270 người.
+
+Ngày 16 tháng 6 năm 2025, theo nghị quyết sửa đổi Hiến pháp năm 2013, toàn bộ các đơn vị hành chính cấp huyện tại tỉnh Tuyên Quang được giải thể. Cùng ngày, theo nghị quyết sắp xếp đơn vị hành chính cấp xã, tỉnh Tuyên Quang có 124 đơn vị hành chính cấp xã, gồm 7 phường và 117 xã.<ref>Nghị quyết số 203/2025/QH15 ban hành ngày 16/06/2025 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa Xã hội chủ nghĩa Việt Nam</ref><ref>Nghị quyết 1684/NQ-UBTVQH15 năm 2025 về việc sắp xếp các đơn vị hành chính cấp xã của tỉnh Tuyên Quang</ref>
+
+==Hành chính==
+{{Bài chi tiết|Danh sách đơn vị hành chính thuộc tỉnh Tuyên Quang}}
+
+Tỉnh Tuyên Quang có 124 đơn vị hành chính cấp xã, bao gồm 7 phường và 117 xã.<ref name=NQ1684>{{Chú thích web|url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1684-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-tuyen-quang-nam-2025-119250616211706973.htm|tựa đề=Nghị quyết số 1684/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Tuyên Quang năm 2025}}</ref>
+
+{| class="wikitable sortable" cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các đơn vị hành chính trực thuộc tỉnh Tuyên Quang<ref>Căn cứ theo Đề án số 367/ĐA-CP ngày 09/05/2025 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh Tuyên Quang năm 2025</ref>
+|-
+| valign="top" width="25%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Diện tích<br>(km²)
+! style="border-bottom: 2px solid #CCCCFF;" |Dân số<br>(người)
+|-
+| colspan="3" align="left" style="background: #F5F5DC; padding-left: 30px;" |'''Phường (07)'''
+|-
+| align="left" |[[An Tường]]
+|53,44
+|42.952
+|-
+| align="left" |[[Bình Thuận, Tuyên Quang|Bình Thuận]]
+|46,34
+|18.626
+|-
+| align="left" |[[Hà Giang 1]]
+|82,69
+|21.652
+|-
+| align="left" |[[Hà Giang 2]]
+|60,62
+|33.100
+|-
+| align="left" |[[Minh Xuân]]
+|34,90
+|72.000
+|-
+| align="left" |[[Mỹ Lâm]]
+|80,20
+|31.446
+|-
+| align="left" |[[Nông Tiến]]
+|26,99
+|15.393
+|-
+| colspan="3" align="left" style="background: #F5F5DC; padding-left: 30px;" |'''Xã (117)'''
+|-
+| align="left" |[[Bạch Đích]]
+|95,17
+|12.747
+|-
+| align="left" |[[Bạch Ngọc, Tuyên Quang|Bạch Ngọc]]
+|184,51
+|9.660
+|-
+| align="left" |[[Bạch Xa]]
+|127,41
+|15.309
+|-
+| align="left" |[[Bản Máy]]
+|76,17
+|9.792
+|-
+| align="left" |[[Bắc Mê (xã)|Bắc Mê]]
+|154,30
+|13.043
+|-
+| align="left" |[[Bắc Quang (xã)|Bắc Quang]]
+|141,93
+|33.644
+|-
+| align="left" |[[Bằng Hành]]
+|151,72
+|16.560
+|-
+| align="left" |[[Bằng Lang]]
+|115,66
+|12.167
+|-
+| align="left" |[[Bình An, Tuyên Quang|Bình An]]
+|121,40
+|10.225
+|-
+| align="left" |[[Bình Ca]]
+|69,48
+|24.339
+|-
+| align="left" |[[Bình Xa]]
+|91,17
+|17.998
+|-
+| align="left" |[[Cán Tỷ]]
+|85,13
+|9.824
+|-
+| align="left" |[[Cao Bồ]]
+|111,18
+|4.211
+|-
+| align="left" |[[Chiêm Hóa (xã)|Chiêm Hóa]]
+|111,65
+|30.329
+|-
+| align="left" |[[Côn Lôn (xã)|Côn Lôn]]
+|160,76
+|5.734
+|-
+| align="left" |[[Du Già]]
+|126,94
+|15.829
+|-
+| align="left" |[[Đồng Tâm, Tuyên Quang|Đồng Tâm]]
+|156,97
+|10.629
+|-
+| align="left" |[[Đông Thọ]]
+|74,86
+|18.085
+|-
+| align="left" |[[Đồng Văn (xã)|Đồng Văn]]
+|122,49
+|26.015
+|-
+| align="left" |[[Đồng Yên]]
+|79,36
+|18.326
+|-
+| align="left" |[[Đường Hồng]]
+|135,42
+|11.645
+|-
+| align="left" |[[Đường Thượng]]
+|103,25
+|14.376
+|-
+| align="left" |[[Giáp Trung]]
+|73,21
+|6.220
+|}
+| valign="top" width="25%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Diện tích<br>(km²)
+! style="border-bottom: 2px solid #CCCCFF;" |Dân số<br>(người)
+|-
+| align="left" |[[Hàm Yên (xã)|Hàm Yên]]
+|126,19
+|29.508
+|-
+| align="left" |[[Hòa An, Tuyên Quang|Hòa An]]
+|66,71
+|13.208
+|-
+| align="left" |[[Hoàng Su Phì (xã)|Hoàng Su Phì]]
+|86,65
+|15.806
+|-
+| align="left" |[[Hồ Thầu, Tuyên Quang|Hồ Thầu]]
+|136,83
+|8.709
+|-
+| align="left" |[[Hồng Sơn, Tuyên Quang|Hồng Sơn]]
+|44,22
+|19.417
+|-
+| align="left" |[[Hồng Thái, Tuyên Quang|Hồng Thái]]
+|222,59
+|11.296
+|-
+| align="left" |[[Hùng An]]
+|118,57
+|17.224
+|-
+| align="left" |[[Hùng Đức]]
+|63,63
+|10.368
+|-
+| align="left" |[[Hùng Lợi]]
+|168,93
+|10.882
+|-
+| align="left" |[[Khâu Vai]]
+|107,46
+|22.755
+|-
+| align="left" |[[Khuôn Lùng]]
+|120,28
+|8.016
+|-
+| align="left" |[[Kiên Đài]]
+|130,82
+|9.351
+|-
+| align="left" |[[Kiến Thiết]]
+|109,48
+|6.783
+|-
+| align="left" |[[Kim Bình]]
+|92,09
+|16.873
+|-
+| align="left" |[[Lao Chải, Tuyên Quang|Lao Chải]]
+|98,87
+|4.568
+|-
+| align="left" |[[Lâm Bình (xã)|Lâm Bình]]
+|327,65
+|12.399
+|-
+| align="left" |[[Liên Hiệp]]
+|166,67
+|10.566
+|-
+| align="left" |[[Linh Hồ]]
+|181,44
+|21.725
+|-
+| align="left" |[[Lũng Cú]]
+|95,20
+|15.115
+|-
+| align="left" |[[Lũng Phìn]]
+|69,46
+|16.476
+|-
+| align="left" |[[Lùng Tám]]
+|124,14
+|10.971
+|-
+| align="left" |[[Lực Hành]]
+|87,97
+|11.022
+|-
+| align="left" |[[Mậu Duệ]]
+|163,31
+|19.005
+|-
+| align="left" |[[Mèo Vạc (xã)|Mèo Vạc]]
+|92,21
+|19.675
+|-
+| align="left" |[[Minh Ngọc]]
+|159,34
+|7.878
+|-
+| align="left" |[[Minh Quang, Tuyên Quang|Minh Quang]]
+|191,34
+|20.122
+|-
+| align="left" |[[Minh Sơn, Tuyên Quang|Minh Sơn]]
+|146,96
+|7.737
+|-
+| align="left" |[[Minh Tân, Tuyên Quang|Minh Tân]]
+|105,70
+|7.485
+|-
+| align="left" |[[Minh Thanh]]
+|78,57
+|13.453
+|-
+| align="left" |[[Nà Hang]]
+|256,53
+|17.364
+|-
+| align="left" |[[Nấm Dẩn]]
+|86,11
+|11.929
+|-
+| align="left" |[[Nậm Dịch]]
+|97,78
+|8.540
+|}
+| valign="top" width="25%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Diện tích<br>(km²)
+! style="border-bottom: 2px solid #CCCCFF;" |Dân số<br>(người)
+|-
+| align="left" |[[Nghĩa Thuận]]
+|80,12
+|9.900
+|-
+| align="left" |[[Ngọc Đường]]
+|98,07
+|7.858
+|-
+| align="left" |[[Ngọc Long]]
+|84,26
+|9.989
+|-
+| align="left" |[[Nhữ Khê]]
+|59,04
+|21.799
+|-
+| align="left" |[[Niêm Sơn]]
+|81,73
+|12.255
+|-
+| align="left" |[[Pà Vầy Sủ]]
+|83,30
+|15.806
+|-
+| align="left" |[[Phố Bảng]]
+|77,71
+|15.593
+|-
+| align="left" |[[Phú Linh]]
+|112,37
+|12.270
+|-
+| align="left" |[[Phú Lương, Tuyên Quang|Phú Lương]]
+|85,65
+|27.300
+|-
+| align="left" |[[Phù Lưu]]
+|120,45
+|16.154
+|-
+| align="left" |[[Pờ Ly Ngài]]
+|49,34
+|6.239
+|-
+| align="left" |[[Quản Bạ (xã)|Quản Bạ]]
+|102,87
+|18.436
+|-
+| align="left" |[[Quang Bình, Tuyên Quang|Quang Bình]]
+|130,14
+|10.635
+|-
+| align="left" |[[Quảng Nguyên (xã)|Quảng Nguyên]]
+|99,48
+|5.949
+|-
+| align="left" |[[Sà Phìn]]
+|83,50
+|16.816
+|-
+| align="left" |[[Sơn Dương (xã)|Sơn Dương]]
+|123,17
+|41.954
+|-
+| align="left" |[[Sơn Thủy, Tuyên Quang|Sơn Thủy]]
+|76,13
+|28.259
+|-
+| align="left" |[[Sơn Vĩ]]
+|110,62
+|19.975
+|-
+| align="left" |[[Sủng Máng]]
+|76,15
+|12.568
+|-
+| align="left" |[[Tát Ngà]]
+|90,60
+|7.765
+|-
+| align="left" |[[Tân An, Tuyên Quang|Tân An]]
+|133,27
+|11.075
+|-
+| align="left" |[[Tân Long, Tuyên Quang|Tân Long]]
+|95,32
+|10.976
+|-
+| align="left" |[[Tân Mỹ, Tuyên Quang|Tân Mỹ]]
+|137,31
+|15.201
+|-
+| align="left" |[[Tân Quang]]
+|174,14
+|12.425
+|-
+| align="left" |[[Tân Thanh, Tuyên Quang|Tân Thanh]]
+|114,42
+|18.856
+|-
+| align="left" |[[Tân Tiến, Tuyên Quang|Tân Tiến]]
+|84,40
+|10.385
+|-
+| align="left" |[[Tân Trào]]
+|98,57
+|14.911
+|-
+| align="left" |[[Tân Trịnh]]
+|114,75
+|10.780
+|-
+| align="left" |[[Thái Bình, Tuyên Quang|Thái Bình]]
+|102,59
+|13.803
+|-
+| align="left" |[[Thái Hòa, Tuyên Quang|Thái Hòa]]
+|55,60
+|18.289
+|-
+| align="left" |[[Thái Sơn (xã)|Thái Sơn]]
+|93,54
+|16.385
+|-
+| align="left" |[[Thàng Tín]]
+|70,78
+|7.638
+|}
+| valign="top" width="25%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Diện tích<br>(km²)
+! style="border-bottom: 2px solid #CCCCFF;" |Dân số<br>(người)
+|-
+| align="left" |[[Thắng Mố]]
+|67,71
+|16.397
+|-
+| align="left" |[[Thanh Thủy, Tuyên Quang|Thanh Thủy]]
+|101,77
+|6.394
+|-
+| align="left" |[[Thông Nguyên]]
+|108,70
+|6.255
+|-
+| align="left" |[[Thuận Hòa, Tuyên Quang|Thuận Hòa]]
+|108,40
+|7.915
+|-
+| align="left" |[[Thượng Lâm]]
+|277,16
+|9.886
+|-
+| align="left" |[[Thượng Nông]]
+|79,83
+|7.204
+|-
+| align="left" |[[Thượng Sơn]]
+|142,60
+|6.144
+|-
+| align="left" |[[Tiên Nguyên]]
+|90,13
+|5.027
+|-
+| align="left" |[[Tiên Yên, Tuyên Quang|Tiên Yên]]
+|97,18
+|14.241
+|-
+| align="left" |[[Tri Phú]]
+|170,26
+|8.686
+|-
+| align="left" |[[Trung Hà, Tuyên Quang|Trung Hà]]
+|103,18
+|8.303
+|-
+| align="left" |[[Trung Sơn, Tuyên Quang|Trung Sơn]]
+|134,29
+|10.952
+|-
+| align="left" |[[Trung Thịnh]]
+|72,11
+|12.277
+|-
+| align="left" |[[Trường Sinh]]
+|53,36
+|17.615
+|-
+| align="left" |[[Tùng Bá]]
+|120,49
+|8.225
+|-
+| align="left" |[[Tùng Vài]]
+|149,98
+|11.221
+|-
+| align="left" |[[Vị Xuyên (xã)|Vị Xuyên]]
+|80,44
+|23.898
+|-
+| align="left" |[[Việt Lâm]]
+|92,66
+|6.419
+|-
+| align="left" |[[Vĩnh Tuy, Tuyên Quang|Vĩnh Tuy]]
+|115,85
+|12.054
+|-
+| align="left" |[[Xín Mần (xã)|Xín Mần]]
+|125,24
+|19.596
+|-
+| align="left" |[[Xuân Giang, Tuyên Quang|Xuân Giang]]
+|86,06
+|9.234
+|-
+| align="left" |[[Xuân Vân]]
+|104,25
+|19.020
+|-
+| align="left" |[[Yên Cường, Tuyên Quang|Yên Cường]]
+|116,90
+|9.741
+|-
+| align="left" |[[Yên Hoa]]
+|143,83
+|7.323
+|-
+| align="left" |[[Yên Lập, Tuyên Quang|Yên Lập]]
+|103,59
+|10.280
+|-
+| align="left" |[[Yên Minh, Tuyên Quang|Yên Minh]]
+|154,70
+|26.556
+|-
+| align="left" |[[Yên Nguyên]]
+|97,36
+|16.024
+|-
+| align="left" |[[Yên Phú, Tuyên Quang|Yên Phú]]
+|222,57
+|14.890
+|-
+| align="left" |[[Yên Sơn, Tuyên Quang|Yên Sơn]]
+|117,92
+|31.560
+|-
+| align="left" |[[Yên Thành, Tuyên Quang|Yên Thành]]
+|78,59
+|5.748
+|}
+|}
+
+== Kinh tế ==
+{{Chính|Danh sách đơn vị hành chính Việt Nam theo GRDP}}{{Chính|Danh sách đơn vị hành chính Việt Nam theo GRDP bình quân đầu người}} Tuyên Quang là tỉnh miền núi, nền kinh tế nông-lâm nghiệp chiếm ưu thế, mô hình kinh tế trang trại kết hợp nông lâm. Trong bảng xếp hạng về [[Chỉ số năng lực cạnh tranh cấp tỉnh]] của Việt Nam năm 2011, tỉnh Tuyên Quang xếp ở vị trí thứ 56/63 tỉnh thành.<ref>{{Chú thích web| url = http://www.pcivietnam.org/rankings_general.php| tiêu đề = PCI 2011: Lào Cai và Bắc Ninh 'vượt vũ môn' ngoạn mục| ngày truy cập = ngày 23 tháng 2 năm 2012 | nhà xuất bản = Phòng thương mại và Công nghiệp Việt Nam}}</ref>
+
+[[Tập tin:Province de Tuyen-Quang (1909).jpg|220px|nhỏ|Bản đồ tỉnh Tuyên Quang năm 1909]]Nông nghiệp: [[lúa]] là cây lương thực chính, sau đó là các cây [[ngô]], [[sắn]], [[khoai lang]]. [[Cây công nghiệp]] gồm có: [[chè]] (nhà máy chè Tuyên Quang, Tháng Mười, Tân Trào), cây [[sả]] làm [[tinh dầu sả]], [[lạc]], [[đậu]], [[tương]]. [[Cây ăn quả]] có: [[cam]], [[quýt]], [[nhãn]], [[vải]], [[chanh]]. [[Ngành chăn nuôi|Chăn nuôi]] có [[trâu]], [[bò]], [[chi Lợn|lợn]], [[dê]], [[gia cầm]]...
+
+Công nghiệp: có quặng [[kẽm]], quặng [[mangan]], quặng [[thiếc]], bột kẽm, khai thác ăntimoan... Sản xuất [[giấy]], bột giấy, [[xi măng]], [[canxi hiđroxit|vôi]].
+
+Có nhà máy [[Nhà máy thủy điện Tuyên Quang|thủy điện Tuyên Quang]] được đưa vào sử dụng chính thức ngày [[30 tháng 1]] năm [[2008]], công suất thiết kế đạt 342 [[Watt|MW]]. Nhà máy thủy điện Chiêm Hóa có công suất lắp máy 48 MW, hoàn thành tháng 3/2013.
+
+Năm 2024, tổng sản phẩm trên địa bàn (GRDP, theo giá so sánh 2010) của tỉnh Tuyên Quang (trước sáp nhập) tăng 9,04% so với năm 2023; trong đó khu vực nông, lâm nghiệp và thủy sản tăng 4,25%, khu vực công nghiệp và xây dựng tăng 14,0%, khu vực dịch vụ tăng 8,92%. Quy mô GRDP đạt 50.423,57 tỷ đồng, tương đương khoảng 1.978,6 triệu USD. GRDP bình quân đầu người năm 2024 đạt 61,5 triệu đồng, tương đương 2.412 USD, tăng 6,5 triệu đồng so với năm 2023.<ref name="ngtk-tq">{{chú thích sách|tác giả=Chi cục Thống kê tỉnh Tuyên Quang|tiêu đề=Niên giám thống kê tỉnh Tuyên Quang 2024|nhà xuất bản=Nhà xuất bản Thống kê|năm=2025}}</ref>
+
+Về cơ cấu kinh tế năm 2024, khu vực nông, lâm nghiệp và thủy sản chiếm 25,62%; khu vực công nghiệp và xây dựng chiếm 28,66%; khu vực dịch vụ chiếm 41,89%<ref name="ngtk-tq" />
+
+Năm 2025, tốc độ tăng trưởng tổng sản phẩm trên địa bàn (GRDP, theo giá so sánh 2010) của tỉnh tăng 6,40% so với năm 2024; trong đó khu vực nông, lâm nghiệp và thủy sản tăng 3,94%, khu vực công nghiệp và xây dựng tăng 7,17%.<ref name="ctk-dv">{{chú thích web|url=https://thongketuyenquang.nso.gov.vn/tinh-hinh-kinh-te-xa-hoi/47|tiêu đề=Tình hình kinh tế - xã hội năm 2025 tỉnh Tuyên Quang|website=Chi cục Thống kê tỉnh Tuyên Quang|ngày truy cập=ngày 25 tháng 6 năm 2026}}</ref> Về cơ cấu kinh tế, khu vực nông, lâm nghiệp và thủy sản chiếm 25,77%; công nghiệp và xây dựng chiếm 27,99%; dịch vụ chiếm 41,79%.<ref name="ctk-dv"/>
+
+Tổng thu ngân sách nhà nước trên địa bàn năm 2025 ước đạt 6.684,6 tỷ đồng, giảm 4,3% so với năm trước.<ref name="ctk-dv"/> Kim ngạch xuất khẩu hàng hóa năm 2025 ước đạt 801,8 triệu USD, tăng 116,1% so với năm 2024; kim ngạch nhập khẩu đạt khoảng 230 triệu USD.<ref name="kttc">{{chú thích web|url=https://tapchikinhtetaichinh.vn/kinh-te-tuyen-quang-nam-2025-tang-truong-on-dinh-tao-nen-tang-but-pha-giai-doan-moi-139285.html|tiêu đề=Kinh tế Tuyên Quang năm 2025 tăng trưởng ổn định, tạo nền tảng bứt phá giai đoạn mới|website=Tạp chí Kinh tế và Tài chính|ngày truy cập=ngày 25 tháng 6 năm 2026}}</ref>
+
+Trong năm 2025, ngành công nghiệp tiếp tục là động lực tăng trưởng, với xu hướng giảm dần tỷ trọng công nghiệp khai thác và tăng tỷ trọng công nghiệp chế biến, chế tạo. Về dịch vụ, du lịch là ngành quan trọng của tỉnh; riêng 6 tháng đầu năm 2025, Tuyên Quang đón khoảng 2,09 triệu lượt khách du lịch.<ref name="sapnhap">{{chú thích web|url=https://doanhnghiephoinhap.vn/mot-nam-sau-sap-nhap-tuyen-quang-tao-da-tang-truong-tu-cuoc-cai-to-bo-may-142048.html|tiêu đề=Một năm sau sáp nhập: Tuyên Quang tạo đà tăng trưởng từ cuộc cải tổ bộ máy|website=Doanh nghiệp và Hội nhập|ngày truy cập=ngày 25 tháng 6 năm 2026}}</ref>
+
+=== Nông nghiệp và lâm nghiệp ===
+[[Tập tin:Dongluatuyenquang.jpg|nhỏ|250px|phải|Đồng lúa ở Tuyên Quang]]
+Nông nghiệp là một trong những trụ cột kinh tế của tỉnh Tuyên Quang. Năm 2025, giá trị sản xuất nông, lâm nghiệp và thủy sản (theo giá so sánh 2010) của tỉnh ước tăng 5,4% so với năm 2024.<ref name="nn-2025">{{chú thích web|url=https://nongnghiepmoitruong.vn/nganh-nong-nghiep-va-moi-truong-tuyen-quang-ghi-nhan-nhieu-dau-an-d791490.html|tiêu đề=Ngành Nông nghiệp và Môi trường Tuyên Quang ghi nhận nhiều dấu ấn|website=Báo Nông nghiệp và Môi trường|ngày truy cập=ngày 25 tháng 6 năm 2026}}</ref> Tỉnh đang phát triển các vùng cây trồng hàng hóa chủ lực như chè, cam, bưởi và mía, gắn với chỉ dẫn địa lý, mã số vùng trồng và truy xuất nguồn gốc. Đến năm 2025, diện tích cây trồng áp dụng tiêu chuẩn VietGAP, hữu cơ đối với cam, chè, bưởi đạt 4.293 ha; toàn tỉnh được cấp 149 mã số vùng trồng, trong đó có 25 mã phục vụ xuất khẩu sang thị trường EU và Trung Quốc, cùng 3 cơ sở đóng gói đủ điều kiện xuất khẩu.<ref name="nn-2025" />
+
+Lâm nghiệp là thế mạnh đặc trưng của tỉnh. Theo công bố hiện trạng rừng năm 2025, tổng diện tích đất lâm nghiệp của tỉnh là 1.008.064,35 ha, gồm đất rừng đặc dụng 106.043,77 ha, đất rừng phòng hộ 352.643,73 ha và đất rừng sản xuất 549.376,85 ha; tỷ lệ che phủ rừng đạt 62,2%, thuộc nhóm cao nhất khu vực miền núi phía Bắc.<ref name="hien-trang-rung">{{chú thích web|url=https://bqlckcn.tuyenquang.gov.vn/vi/tin-bai/tuyen-quang-cong-bo-hien-trang-rung-nam-2025-ty-le-che-phu-dat-622?type=NEWS&id=213270|tiêu đề=Tuyên Quang công bố hiện trạng rừng năm 2025, tỷ lệ che phủ đạt 62,2%|website=Cổng thông tin điện tử tỉnh Tuyên Quang|ngày truy cập=ngày 25 tháng 6 năm 2026}}</ref>
+
+Trước khi hợp nhất, tỉnh Tuyên Quang cũ có tỷ lệ che phủ rừng duy trì trên 65%, đứng thứ ba cả nước, và là địa phương có diện tích rừng được cấp chứng chỉ quản lý rừng bền vững (FSC) lớn nhất cả nước với trên 83.231 ha.<ref name="lam-nghiep-cu">{{chú thích web|url=https://www.tuyenquang.gov.vn/vi/post/phan-dau-nam-2025-gia-tri-san-xuat-nong-lam-nghiep-thuy-san-tang-tren-53?type=NEWS&id=135531|tiêu đề=Phấn đấu năm 2025, giá trị sản xuất nông, lâm nghiệp, thủy sản tăng trên 5,3%|website=Cổng thông tin điện tử tỉnh Tuyên Quang|ngày truy cập=ngày 25 tháng 6 năm 2026}}</ref>
+
+Tuyên Quang nổi tiếng với nhiều mặt hàng nông sản nổi tiếng gắn liền với thương hiệu địa phương. Nổi bật nhất là cam sành Hàm Yên – vùng đất được mệnh danh là "vương quốc" của cây cam sành – cùng chè Shan tuyết, bưởi và rượu ngô men lá. Sau khi hợp nhất với tỉnh [[Hà Giang]] năm 2025, danh mục đặc sản của tỉnh mở rộng thêm các sản vật của vùng cao nguyên đá như mật ong bạc hà, hồng không hạt, thịt trâu gác bếp và miến dong.<ref name="ocop-2025">{{chú thích web|url=https://sonnmt.tuyenquang.gov.vn/vi/tin-bai/ocop-tuyen-quang-danh-thuc-gia-tri-dac-san-ban-dia-kien-tao-dong-luc-phat-trien-ben-vung?type=NEWS&id=203287|tiêu đề=OCOP Tuyên Quang: Đánh thức giá trị đặc sản bản địa, kiến tạo động lực phát triển bền vững|website=Sở Nông nghiệp và Môi trường tỉnh Tuyên Quang|ngày truy cập=ngày 25 tháng 6 năm 2026}}</ref>
+
+Trước khi hợp nhất, tỉnh Tuyên Quang cũ có bốn sản phẩm được Cục Sở hữu trí tuệ cấp Giấy chứng nhận chỉ dẫn địa lý, gồm: cam sành Hàm Yên, chè Shan tuyết Na Hang, bưởi Soi Hà (Yên Sơn) và rượu ngô men lá Na Hang.<ref name="cay-an-qua">{{chú thích web|url=https://nhandan.vn/tuyen-quang-nang-cao-gia-tri-cay-an-qua-post796113.html|tiêu đề=Tuyên Quang nâng cao giá trị cây ăn quả|website=Báo Nhân Dân điện tử|ngày truy cập=ngày 25 tháng 6 năm 2026}}</ref> Trong đó, cam sành Hàm Yên được cấp chỉ dẫn địa lý năm 2020 và nhiều năm được bình chọn vào tốp các loại trái cây nổi tiếng của Việt Nam.<ref name="cay-an-qua" />
+
+Về Chương trình mỗi xã một sản phẩm (OCOP), tính đến đầu tháng 11 năm 2025, toàn tỉnh có khoảng 450–500 sản phẩm đạt chuẩn OCOP từ 3 sao trở lên, trong đó có 2 sản phẩm OCOP 5 sao cấp quốc gia và 12 sản phẩm được cấp chứng nhận chỉ dẫn địa lý.<ref name="ocop-2025" />
+
+=== Công nghiệp ===
+Công nghiệp của tỉnh Tuyên Quang tập trung vào chế biến nông, lâm sản (đặc biệt là gỗ, giấy và bột giấy), sản xuất điện, vật liệu xây dựng, khai khoáng và may mặc. Năm 2025, chỉ số sản xuất toàn ngành công nghiệp (IIP) của tỉnh tăng 7,17% so với năm trước; trong đó ngành sản xuất và phân phối điện tăng 11,41% nhờ lượng mưa dồi dào giúp các nhà máy thủy điện tích nước tối đa, còn ngành khai khoáng giảm 8,74% do một số cơ sở khai thác quặng kim loại tạm ngừng hoạt động.<ref name="ctk-dv"/>
+
+Chế biến lâm sản là ngành công nghiệp thế mạnh, gắn với vùng nguyên liệu rừng trồng lớn của tỉnh. Trên địa bàn tỉnh có nhiều nhà máy chế biến gỗ, tiêu biểu là Nhà máy Bột giấy và Giấy An Hòa của Công ty cổ phần Giấy An Hòa (công suất bột giấy 130.000 tấn/năm, giấy tráng phấn 140.000 tấn/năm) và Nhà máy chế biến gỗ của Công ty cổ phần Woodsland Tuyên Quang (công suất 150.000 m³/năm).<ref name="cn-2021-2025">{{chú thích web|url=https://www.tuyenquang.gov.vn/vi/post/phat-trien-cong-nghiep-tinh-tuyen-quang-giai-doan-2021-2025-nhieu-ket-qua-khoi-sac?type=NEWS&id=38903|tiêu đề=Phát triển công nghiệp tỉnh Tuyên Quang giai đoạn 2021-2025: Nhiều kết quả khởi sắc|website=Cổng thông tin điện tử tỉnh Tuyên Quang|ngày truy cập=ngày 25 tháng 6 năm 2026}}</ref>
+
+Nhờ hệ thống sông ngòi dày đặc chảy qua địa hình dốc, tỉnh có tiềm năng thủy điện lớn, với các nhà máy thủy điện tiêu biểu như Na Hang (Tuyên Quang) và Chiêm Hóa, cùng nhiều nhà máy thủy điện vừa và nhỏ trên địa bàn Hà Giang cũ. Tỉnh khai thác và chế biến các loại khoáng sản như [[felspat]], [[barit]], [[mangan]] và quặng kim loại, ngoài ra còn có các nhà máy sản xuất vật liệu xây dựng (xi măng, đá).<ref name="cn-2021-2025" />
+
+Trước khi hợp nhất, tỉnh Tuyên Quang có 2 khu công nghiệp được Thủ tướng Chính phủ phê duyệt với tổng diện tích 320 ha và 6 cụm công nghiệp với tổng diện tích 375 ha.<ref name="cn-2021-2025" /> Khu công nghiệp Long Bình An (thành phố Tuyên Quang) là khu công nghiệp lớn nhất thuộc tỉnh Tuyên Quang cũ.<ref name="quy-hoach-cn">{{chú thích web|url=https://baotuyenquang.com.vn/phat-trien-cong-nghiep-gan-voi-quy-hoach-tinh-187654.html|tiêu đề=Phát triển công nghiệp gắn với quy hoạch tỉnh|website=Báo Tuyên Quang điện tử|ngày truy cập=ngày 25 tháng 6 năm 2026}}</ref>
+
+=== Dịch vụ ===
+[[Tập_tin:Đèo_Mã_Pì_Lèng.jpg|nhỏ|280x280px|[[Đèo Mã Pí Lèng|Đèo Mã Pì Lèng]] ở [[Đồng Văn (xã)|Đồng Văn]] và [[Mèo Vạc (xã)|Mèo Vạc]].]]
+Dịch vụ là khu vực chiếm tỷ trọng lớn nhất trong cơ cấu kinh tế của tỉnh (41,79% năm 2025), với các ngành chủ yếu gồm thương mại, du lịch, vận tải và tài chính – ngân hàng.<ref name="ctk-dv"/>
+
+Năm 2025, doanh thu bán lẻ hàng hóa trên địa bàn tỉnh ước đạt 51.425 tỷ đồng, tăng 12,20% so với năm 2024.<ref name="ctk-dv" />
+
+Du lịch được tỉnh xác định là ngành kinh tế mũi nhọn, với các loại hình du lịch lịch sử – cách mạng, du lịch sinh thái, du lịch nghỉ dưỡng và du lịch cộng đồng. Các điểm đến tiêu biểu gồm [[Khu di tích Tân Trào|Khu di tích lịch sử quốc gia đặc biệt Tân Trào]], [[Khu bảo tồn thiên nhiên Na Hang – Lâm Bình]], [[Suối nước khoáng Mỹ Lâm|suối khoáng Mỹ Lâm;]] sau khi hợp nhất, tỉnh còn có thêm [[Cao nguyên đá Đồng Văn|Công viên địa chất toàn cầu UNESCO Cao nguyên đá Đồng Văn]] cùng các danh thắng của vùng Hà Giang cũ như [[Đèo Mã Pí Lèng|đèo Mã Pì Lèng]] và [[Cột cờ Lũng Cú]].<ref name="du-lich-2024">{{chú thích web|url=https://www.tuyenquang.gov.vn/vi/post/tuyen-quang-but-pha-kinh-te-va-du-lich-khoi-day-tiem-nang-phat-trien?type=NEWS&id=127833|tiêu đề=Tuyên Quang: Bứt phá kinh tế và du lịch, khơi dậy tiềm năng phát triển|website=Cổng thông tin điện tử tỉnh Tuyên Quang|ngày truy cập=ngày 25 tháng 6 năm 2026}}</ref> Năm 2025, toàn tỉnh đón 3.926.027 lượt khách du lịch; tổng chi tiêu của khách du lịch đạt 10.633 tỷ đồng.<ref name="ctk-dv" />
+
+Năm 2025, khối lượng hành khách vận chuyển trên địa bàn tỉnh ước đạt 20,54 triệu lượt, tăng 14,14% so với năm trước; doanh thu vận tải hàng hóa ước đạt 4.991,58 tỷ đồng và doanh thu vận tải hành khách ước đạt 1.276,55 tỷ đồng.<ref name="ctk-dv" />
+
+==Nhân khẩu==
+===Dân số===
+{{Lịch sử dân số
+|title = Lịch sử phát triển dân số tỉnh Tuyên Quang qua các năm
+|type = 
+|align = 
+|direction =
+| cols = 2
+|width = 12em
+|state = 
+|shading = 
+|pop_name =
+|percentages = 
+|footnote = 
+|source = Niên giám thống kê tỉnh Tuyên Quang, Tổng cục Thống kê
+|[[1990]] | 584.100
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[1990]] | 564.528
+|[[1991]] | 594.900
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[1991]] | 593.888
+|[[1992]] | 605.600
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[1992]] | 606.656
+|[[1993]] | 616.800
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[1993]] | 618.061
+|[[1994]] | 627.300
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[1994]] | 628.623
+|[[1995]] | 638.800
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[1995]] | 638.731
+|[[1996]] | 648.900
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[1996]] | 648.950
+|[[1997]] | 659.000
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[1997]] | 659.008
+|[[1998]] | 668.000
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[1998]] | 668.062
+|[[1999]] | 677.300
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[1999]] | 677.476
+|[[2000]] | 684.100
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2000]] | 684.120
+|[[2001]] | 690.200
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2001]] | 690.206
+|[[2002]] | 696.300
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2002]] | 696.301
+|[[2003]] | 701.900
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2003]] | 701.905
+|[[2004]] | 707.500
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2004]] | 707.451
+|[[2005]] | 712.100
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2005]] | 712.131
+|[[2006]] | 715.700
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2006]] | 715.685
+|[[2007]] | 719.400
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2007]] | 719.742
+|[[2008]] | 723.500
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2008]] | 723.463
+|[[2009]] | 725.200
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2009]] | 727.105
+|[[2010]] | 729.750
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2010]] | 730.690
+|[[2011]] | 733.600
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2011]] | 734.908
+|[[2012]] | 738.530
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2012]] | 739.892
+|[[2013]] | 743.370
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2013]] | 744.179
+|[[2014]] | 749.590
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2014]] | 753.800
+|[[2015]] | 756.200
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2015]] | 760.300
+|[[2016]] | 763.400
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2016]] | 766.900
+|[[2017]] | 770.500
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2017]] | 773.500
+|[[2018]] | 778.300
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2018]] | 780.100
+|[[2019]] | 786.300
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2019]] | 888.888
+|[[2020]] | 792.900
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2020]] | 892.900
+|[[2021]] | 801.670
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2021]] | 901.700
+|[[2022]] | 805.780
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2022]] | 908.797
+|[[1 tháng 4|01]]/[[Tháng tư|04]]/[[2023]] | 809.646
+|[[2023]] | 812.210
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2023]] | 914.992
+|[[2024]] | 820.900
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2024]] | 921.187
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2024]] | 1.865.270
+|[[2025]] | 
+}}
+
+Tính đến ngày [[1 tháng 4]] năm [[2019]], toàn tỉnh có 6 [[tôn giáo]] khác nhau đạt 42.761 người, nhiều nhất là [[Công giáo tại Việt Nam|Công giáo]] có 25.626 người, tiếp theo là [[Kháng Cách|đạo Tin Lành]] đạt 10.996 người, [[Phật giáo Việt Nam|Phật giáo]] có 6.116 người. Còn lại các tôn giáo khác như [[Hồi giáo tại Việt Nam|Hồi giáo]] có 13 người, [[Phật giáo Hòa Hảo]] có sáu người và [[đạo Cao Đài]] có bốn người.<ref name="dstcdtvn">[http://www.gso.gov.vn/Modules/Doc_Download.aspx?DocID=12724 Kết quả toàn bộ Tổng điều tra Dân số và Nhà ở Việt Nam năm 2009], Tổng cục Thống kê Việt Nam.</ref>
+
+Tỉnh Tuyên Quang có diện tích 5.868&nbsp;km², dân số thường trú tính đến ngày 31/12/2022 là 805.782 người,<ref>{{Chú thích web|url=https://thongketuyenquang.gso.gov.vn/Upload/DieutraTK/NGTK%20tuyen%20Quang%202022%20(Can2_IN%2026.7.23)%20(1).pdf|tựa đề= Niên giám thống kê tỉnh Tuyên Quang năm 2022 |tác giả= Cục thống kê tỉnh Tuyên Quang |ngày= 2023-08-22 |website= Cổng thông tin điện tử Cục thống kê tỉnh Tuyên Quang |url lưu trữ=https://web.archive.org/web/20240906132424/https://tuyenquang.gov.vn/vi/post/gioi-thieu-chung-ve-tinh-tuyen-quang?type=NEWS&id=122924|ngày lưu trữ= 2024-09-06 |ngày truy cập= 2024-09-06 |url-status=dead}}</ref> mật độ dân số đạt {{formatnum:{{#expr:floor({{formatnum:805.782|R}}/{{formatnum:5.868|R}})}} }} người/km². Dân số thành thị là 120.543 người (chiếm 14,96%). Dân số nông thôn là 685.239 người (chiếm 85,04%).
+
+Tỉnh Tuyên Quang có diện tích 5.867,95&nbsp;km², dân số quy đổi tính đến ngày 31/12/2022 là 908.797 người,<ref name="01/PA-UBND">{{Chú thích web|url=https://pbgdpl.tuyenquang.gov.vn/Vanban/142024_941_DA.zip|tựa đề= Đề án số 01/ĐA-UBND về việc sắp xếp đơn vị hành chính cấp xã thuộc tỉnh Tuyên Quang giai đoạn 2023 – 2025 |tác giả=|ngày= 2024-03-30 |website= Trang thông tin điện tử phổ biến giáo dục pháp luật tỉnh Tuyên Quang|url lưu trữ=https://web.archive.org/web/20240501000000/https://pbgdpl.tuyenquang.gov.vn/Vanban/142024_941_DA.zip|ngày lưu trữ= 2024-05-01 |ngày truy cập= 2024-05-01 |url-status=dead}}</ref> mật độ dân số đạt {{formatnum:{{#expr:floor({{formatnum:908.797|R}}/{{formatnum:5.867,95|R}})}} }} người/km².
+
+Tỉnh Tuyên Quang có diện tích 5.867&nbsp;km², dân số thường trú năm 2023 là 812.215 người, mật độ dân số đạt {{formatnum:{{#expr:floor({{formatnum:812.215|R}}/{{formatnum:5.867|R}})}} }} người/km², với 22 dân tộc anh em cùng chung sống.<ref name=TTQ>{{Chú thích web|url=https://tuyenquang.gov.vn/vi/post/gioi-thieu-chung-ve-tinh-tuyen-quang?type=NEWS&id=122924|tựa đề= Giới thiệu chung về tỉnh Tuyên Quang |tác giả= Ban Biên tập Cổng TTĐT tỉnh Tuyên Quang |ngày= 2024-08-13 |website= Cổng thông tin điện tử tỉnh Tuyên Quang |url lưu trữ=https://web.archive.org/web/20240906132424/https://tuyenquang.gov.vn/vi/post/gioi-thieu-chung-ve-tinh-tuyen-quang?type=NEWS&id=122924|ngày lưu trữ= 2024-09-06 |ngày truy cập= 2024-09-06 |url-status=dead}}</ref>
+
+Tỉnh Tuyên Quang có diện tích 5.867,95&nbsp;km²,<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương">[https://www.nso.gov.vn/px-web-2/?pxid=V0203-07&theme=D%C3%A2n%20s%E1%BB%91%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng Diện tích, dân số và mật độ dân số phân theo địa phương], Trang Thông tin điện tử Cục Thống kê - Bộ Tài chính</ref> dân số trung bình tính đến năm 2024 là 820.300 người,<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương"/> trong đó dân số nam ước tính đạt khoảng 413.240 người chiếm ({{formatnum:{{#expr:413240/820300*100round2}}}}%),<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương"/> dân số nữ ước tính đạt khoảng 407.070 người chiếm ({{formatnum:{{#expr:407070/820300*100round2}}}}%),<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương"/> dân số thành thị ước tính đạt khoảng 159.170 người chiếm ({{formatnum:{{#expr:159170/820300*100round2}}}}%),<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương"/> dân số nông thôn ước tính đạt khoảng 661.140 người chiếm ({{formatnum:{{#expr:661140/820300*100round2}}}}%),<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương"/> mật độ dân số đạt {{formatnum:{{#expr:floor({{formatnum:820.300|R}}/{{formatnum:5.867,95|R}})}} }} người/km².<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương"/>
+
+Tỉnh Tuyên Quang có diện tích 5.867,95&nbsp;km², dân số tính đến ngày 31 tháng 12 năm 2024 là 921.187 người, mật độ dân số đạt {{formatnum:{{#expr:floor({{formatnum:921.187|R}}/{{formatnum:5.867,95|R}})}} }} người/km².<ref name=TT/><ref name="DT">{{Chú thích web |url= https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm |tựa đề= Dự kiến chi tiết diện tích, dân số, quy mô kinh tế của 34 tỉnh, thành mới |tác giả= Lê Hoa |ngày= 2025-06-09 |website= Báo Dân Trí |url lưu trữ= https://web.archive.org/web/20250610031809/https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm |ngày lưu trữ= 2025-06-10 |ngày truy cập= 2025-06-09 |url-status= dead }}</ref>
+
+Tỉnh Tuyên Quang có diện tích 13.795,50&nbsp;km², dân số tính đến ngày 1 tháng 7 năm 2025 là 1.865.270 người, trong đó dân số thành thị là 235.169 người chiếm ({{formatnum:{{percentage|{{formatnum:235.169|R}}|{{formatnum:1.865.270|R}}|2}} }}), dân số nông thôn là 1.630.101 người chiếm ({{formatnum:{{percentage|{{formatnum:1.630.101|R}}|{{formatnum:1.865.270|R}}|2}} }}), mật độ dân số đạt {{formatnum:{{#expr:floor({{formatnum:1.865.270|R}}/{{formatnum:13.795,50|R}})}} }} người/km².<ref name="202/2025/QH15"/><ref name=TT>{{Chú thích web|url=https://tuoitre.vn/chi-tiet-du-kien-quy-mo-dan-so-dien-tich-kinh-te-cua-34-tinh-thanh-sau-sap-nhap-20250513081155167.htm|tựa đề= Chi tiết dự kiến quy mô dân số, diện tích, kinh tế của 34 tỉnh, thành sau sáp nhập |tác giả= Thành Chung |ngày= 2025-05-13 |website= Tuổi Trẻ Online |url lưu trữ=https://web.archive.org/web/20250513080219/https://tuoitre.vn/chi-tiet-du-kien-quy-mo-dan-so-dien-tich-kinh-te-cua-34-tinh-thanh-sau-sap-nhap-20250513081155167.htm|ngày lưu trữ= 2025-05-13 |ngày truy cập= 2025-05-13 |url-status= dead }}</ref><ref name="DT"/>
+
+=== Các dân tộc ===
+[[File:Hmong Girl in PhoCao HaGiang 2005.JPG|nhỏ|250px|phải|Một cô gái người Hmong tại Tuyên Quang]]
+Tuyên Quang là tỉnh miền núi có thành phần dân tộc đa dạng. Năm 2025, dân số toàn tỉnh là 1.865.270 người, với hơn 20 dân tộc cùng sinh sống, trong đó có các dân tộc [[Người Kinh|Kinh]], [[Người Tày|Tày]], [[Người Nùng|Nùng]], [[Người Dao|Dao]], [[H'Mông|Mông]], [[Người Sán Chay|Sán Chay]], [[Người Sán Dìu|Sán Dìu]], [[Người Hoa (Việt Nam)|Hoa]], [[Người Pà Thẻn|Pà Thẻn]], [[Người Lô Lô|Lô Lô]], [[Người Pu Péo|Pu Péo]]...<ref name="tong-quan">{{chú thích web|url=https://www.tuyenquang.gov.vn/vi/post/tong-quan-ve-tinh-tuyen-quang-moi?type=NEWS&id=152390|tiêu đề=Tổng quan về tỉnh Tuyên Quang mới|website=Cổng thông tin điện tử tỉnh Tuyên Quang|ngày truy cập=ngày 25 tháng 6 năm 2026}}</ref>
+
+Trước khi hợp nhất, tỉnh Tuyên Quang cũ có 22 dân tộc cùng sinh sống, trong đó người dân tộc thiểu số chiếm khoảng 56% và người Kinh chiếm 44%; tám dân tộc đông dân nhất là Kinh, Tày, Dao, Sán Chay (Cao Lan), Nùng, Hoa, Mông và Sán Dìu.<ref name="ban-sac">{{chú thích web|url=https://www.tuyenquang.gov.vn/vi/post/ban-sac-tuyen-quang?type=NEWS&id=426|tiêu đề=Bản sắc Tuyên Quang|website=Cổng thông tin điện tử tỉnh Tuyên Quang|ngày truy cập=ngày 25 tháng 6 năm 2026}}</ref> Tỉnh Hà Giang cũ có 19 dân tộc, với tỷ lệ dân tộc thiểu số chiếm hơn 87%, đông nhất là [[người Mông]].<ref name="hop-nhat">{{chú thích web|url=https://tcnnld.vn/news/detail/68576/Sau-hop-nhat-Tuyen-Quang-se-co-nhieu-loi-the-cho-mo-rong-do-thi-va-phat-trien-kinh-te.html|tiêu đề=Sau hợp nhất, Tuyên Quang sẽ có nhiều lợi thế cho mở rộng đô thị và phát triển kinh tế|website=Tạp chí Nhân lực Nhân tài|ngày truy cập=ngày 25 tháng 6 năm 2026}}</ref> Sau hợp nhất, tỉnh trở thành nơi cư trú của nhiều dân tộc, trong đó có những dân tộc rất ít người (dưới 10.000 người) như Bố Y, Pu Péo, Cờ Lao, Lô Lô và La Chí.<ref name="kho-bau">{{chú thích web|url=https://baotuyenquang.com.vn/van-hoa/202508/ky-1-mo-kho-bau-cac-dan-toc-tuyen-quang-65c0cf6/|tiêu đề=Kỳ 1: Mở kho báu các dân tộc Tuyên Quang|website=Báo Tuyên Quang điện tử|ngày truy cập=ngày 25 tháng 6 năm 2026}}</ref>
+
+Tiếng nói của các dân tộc trong tỉnh thuộc bốn nhóm ngôn ngữ chính: nhóm [[ngữ chi Việt|Việt – Mường]] (Kinh, Mường); nhóm Tày – Thái (Tày, Nùng, Sán Chay); nhóm [[ngữ hệ H'Mông-Miền|Mông – Dao]] (Mông, Dao, Pà Thẻn); và nhóm [[ngữ hệ Hán-Tạng|Hán]] (Sán Dìu, Hoa).<ref name="ban-sac" />
+
+Di sản văn hóa của các dân tộc trong tỉnh hết sức phong phú. Trong đó, Thực hành Then của người Tày, Nùng, Thái đã được [[UNESCO]] ghi danh vào [[Danh sách di sản văn hóa phi vật thể đại diện của nhân loại|Danh sách Di sản văn hóa phi vật thể đại diện của nhân loại]]. Nhiều lễ hội và nghi lễ đặc sắc được lưu giữ như [[Lễ hội Lồng tồng|lễ hội Lồng tông]] của người Tày, lễ Nhảy lửa của người Pà Thẻn, [[Lễ cấp sắc|lễ Cấp sắc]] của người Dao, [[Lễ hội gầu tào|lễ hội Gầu Tào]] của người Mông.<ref name="kho-bau" />
+{| class="wikitable mw-collapsible"
+! rowspan="3" |Dân tộc
+! colspan="6" |Thành phần dân tộc tỉnh Tuyên Quang và Hà Giang năm 2019.<ref name="ds19">{{Chú thích web |title= Kết quả toàn bộ Tổng điều tra dân số và nhà ở năm 2019 |url= https://www.nso.gov.vn/wp-content/uploads/2019/12/Ket-qua-toan-bo-Tong-dieu-tra-dan-so-va-nha-o-2019.pdf |website= Tổng cục Thống kê |access-date= 2026-07-15 |archive-date= 2026-04-25 |archive-url= https://web.archive.org/web/20260425173946/https://www.nso.gov.vn/wp-content/uploads/2019/12/Ket-qua-toan-bo-Tong-dieu-tra-dan-so-va-nha-o-2019.pdf |url-status= dead }}</ref>
+|-
+! colspan="2" |Tuyên Quang
+! colspan="2" |Hà Giang
+! colspan="2" |Tổng hợp
+|-
+!Dân số
+!%
+!Dân số
+!%
+!Dân số
+!%
+|-
+|
+|
+|
+|
+|
+|
+|
+|-
+!Toàn tỉnh
+!784.811
+!100%
+!854.679
+!100%
+!1.639.490
+!100%
+|-
+|[[Người Kinh|Kinh]]
+| 339.308 
+|43,23%
+|105.311
+|12,32%
+|444.619
+|27,18%
+|-style="background:#D0F0C0; color:#000"
+|[[Người Tày|Tày]]
+| 205.624 
+|26,20%
+|192.702
+|22,55%
+|398.326
+|24,35%
+|-
+|[[H'Mông]]
+| 21.310 
+|2,72%
+|292.677
+|34,24%
+|313.987
+|19,19%
+|-style="background:#D0F0C0; color:#000"
+|[[Người Dao|Dao]]
+| 105.359 
+|13,42%
+|127.181
+|14,88%
+|232.540
+|14,22%
+|-
+|[[Người Nùng|Nùng]]
+| 16.902 
+|2,15%
+|81.478
+|9,53%
+|98.380
+|6,01%
+|-style="background:#D0F0C0; color:#000"
+|[[Người Sán Chay|Sán Chay]]
+| 70.636 
+|9,0%
+|892
+|/
+|71.528
+|4,37%
+|-
+|[[Người Giáy|Giáy]]
+| 178 
+|/
+|17.392
+|2,03%
+|17.570
+|1,07%
+|-style="background:#D0F0C0; color:#000"
+|[[Người Sán Dìu|Sán Dìu]]
+| 15.440 
+|1,97%
+|122
+|/
+|15.562
+|0,95%
+|-
+|[[Người La Chí|La Chí]]
+| 143 
+|/
+|13.828
+|1,62%
+|13.971
+|0,85%
+|-style="background:#D0F0C0; color:#000"
+|[[Người Hoa (Việt Nam)|Hoa]]
+| 5.659 
+|0,72%
+|7.988
+|0,93%
+|13.647
+|0,83%
+|-
+|[[Người Pà Thẻn|Pà Thẻn]]
+| 1.258 
+|0,16%
+|6.502
+|0,76%
+|7.760
+|0,47%
+|}
+
+== Giáo dục ==
+[[File:Meo Vac Town Junior High School, Ha Giang Province.jpg|nhỏ|250px|phải|Một trường cấp 2 ở Mèo Vạc]]
+Năm học 2024–2025, tỷ lệ trường đạt chuẩn quốc gia toàn tỉnh Tuyên Quang đạt 64,7%. Toàn ngành giáo dục có hơn 31.000 cán bộ, giáo viên, nhân viên, trong đó gần 100% đạt chuẩn trình độ đào tạo; tỷ lệ giáo viên đạt trên chuẩn ở bậc mầm non là 99,3%, tiểu học là 80,7%, trung học cơ sở là 95% và trung học phổ thông là 100%.<ref name="gd-2024-2025">{{chú thích web|url=https://hdndtuyenquang.gov.vn/dien-dan-nghien-cuu-trao-doi/giao-duc-va-dao-tao-tinh-tuyen-quang-nam-hoc-2024-2025-thanh-cong-mo-ra-giai-doan-phat-trien-moi-sau-hop-nhat-7594.html|tiêu đề=Giáo dục và Đào tạo tỉnh Tuyên Quang: Năm học 2024–2025 thành công, mở ra giai đoạn phát triển mới sau hợp nhất|website=Hội đồng nhân dân tỉnh Tuyên Quang|ngày truy cập=ngày 25 tháng 6 năm 2026}}</ref>
+
+Kết quả năm học 2024–2025, ở cấp tiểu học có 98,3% học sinh hoàn thành chương trình, cấp trung học cơ sở có 96,2% và cấp trung học phổ thông có 97,7% học sinh đạt yêu cầu về học tập. Tại Kỳ thi tốt nghiệp trung học phổ thông năm 2025, điểm trung bình toàn tỉnh đạt 5,86 và tỷ lệ đỗ tốt nghiệp đạt 98,9%.<ref name="gd-2024-2025" />
+
+Do đặc thù miền núi, nhiều dân tộc, tỉnh chú trọng hệ thống trường phổ thông dân tộc nội trú và bán trú, với 20 trường nội trú và 236 trường bán trú, đáp ứng nhu cầu học tập của học sinh vùng sâu, vùng xa và biên giới.<ref name="gd-2024-2025" /> Trường Đại học Tân Trào (đặt tại phường Minh Xuân) là cơ sở giáo dục đại học công lập của tỉnh, đào tạo đa ngành ở các trình độ đại học và cao đẳng. Ở bậc phổ thông, Trường Trung học phổ thông Chuyên Tuyên Quang (thành lập năm 1989) và Trường Phổ thông Dân tộc nội trú Trung học phổ thông tỉnh là những trường có chất lượng dẫn đầu địa bàn.<ref name="dhtt">{{chú thích web|url=https://daihoctantrao.edu.vn/|tiêu đề=Trường Đại học Tân Trào|website=Trường Đại học Tân Trào|ngày truy cập=ngày 25 tháng 6 năm 2026}}</ref>
+
+Toàn tỉnh có 8 cơ sở giáo dục nghề nghiệp và 17 đơn vị có chức năng đào tạo nghề, quy mô đào tạo hơn 22.500 học viên mỗi năm với 52 ngành nghề. Tỷ lệ lao động qua đào tạo đạt 64,8% vào cuối năm 2024.<ref name="gd-2024-2025" />
+
+Sau khi [[Bộ Giáo dục và Đào tạo]] công bố kết quả Kỳ thi tốt nghiệp trung học phổ thông năm 2026 vào ngày 1 tháng 7 năm 2026, xuất hiện phản ánh về kết quả môn Toán cao bất thường tại Điểm thi [[Trường Trung học phổ thông chuyên Tuyên Quang|Trường Trung học phổ thông Chuyên Tuyên Quang.]]<ref name="tt-147">{{chú thích web|url=https://tuoitre.vn/cong-an-vao-cuoc-vu-truong-thpt-o-tuyen-quang-co-147-diem-10-toan-tot-nghiep-100260703142217977.htm|tiêu đề=Công an vào cuộc vụ trường THPT ở Tuyên Quang có 147 điểm 10 toán tốt nghiệp|website=Tuổi Trẻ Online|ngày truy cập=ngày 5 tháng 7 năm 2026}}</ref> Bộ Giáo dục và Đào tạo cho biết qua rà soát nhận thấy kết quả môn Toán của tỉnh có một số dấu hiệu cần kiểm tra, làm rõ, và từ ngày 2 tháng 7 đã cử đoàn công tác phối hợp với địa phương rà soát theo quy chế thi.<ref name="vnn-thutuong">{{chú thích web|url=https://vietnamnet.vn/tuyen-quang-bao-cao-thu-tuong-kiem-tra-toan-bo-bai-thi-toan-dat-diem-10-2532410.html|tiêu đề=Tuyên Quang báo cáo Thủ tướng, kiểm tra toàn bộ bài thi Toán đạt điểm 10|website=VietNamNet|ngày truy cập=ngày 5 tháng 7 năm 2026}}</ref>
+Ngày 17 tháng 7 năm 2026, Cơ quan An ninh điều tra Bộ Công an đã ra Quyết định rút vụ án “Lợi dụng chức vụ, quyền hạn trong khi thi hành công vụ” xảy ra tại Điểm thi tốt nghiệp trung học phổ thông Trường Trung học phổ thông Chuyên Tuyên Quang, phường [[Minh Xuân]], tỉnh Tuyên Quang về Cơ quan An ninh điều tra [[Bộ Công an (Việt Nam)|Bộ Công an]] để tiếp tục điều tra, xử lý theo quy định pháp luật.<ref>{{Chú thích web|title= Rút vụ án tại Trường THPT Chuyên Tuyên Quang về Cơ quan An ninh điều tra Bộ Công an|url= https://baochinhphu.vn/rut-vu-an-tai-truong-thpt-chuyen-tuyen-quang-ve-co-quan-an-ninh-dieu-tra-bo-cong-an-102260717192904729.htm |author= Anh Thơ}}</ref> Tính đến ngày 13 tháng 8 năm 2026, đã có 33 bị can gồm hiệu trưởng, trưởng điểm thi, phó trưởng điểm thi và các giáo viên thuộc các trường có liên quan bị khởi tố để phục vụ công tác điều tra.<ref>{{Chú thích web |url=https://laodong.vn/xa-hoi/them-4-nguoi-bi-khoi-to-trong-vu-sai-pham-thi-tot-nghiep-thpt-tai-tuyen-quang-1750786.ldo |access-date=2026-08-14 |website=laodong.vn|title=Thêm 4 người bị khởi tố trong vụ sai phạm thi tốt nghiệp THPT tại Tuyên Quang}}</ref>
+
+== Y tế ==
+
+Hệ thống y tế tỉnh Tuyên Quang gồm các bệnh viện tuyến tỉnh (trong đó Bệnh viện Đa khoa tỉnh là cơ sở khám, chữa bệnh lớn nhất), các bệnh viện chuyên khoa, trung tâm y tế khu vực và mạng lưới trạm y tế xã, phường. Sau khi hợp nhất với tỉnh [[Hà Giang]] năm 2025, Sở Y tế tỉnh có thêm cơ sở 2 đặt tại địa bàn Hà Giang cũ.<ref name="soyte-bhyt">{{chú thích web|url=https://soyte.tuyenquang.gov.vn/tin-tuc/hoi-nghi-truc-tuyen-ve-tinh-hinh-trien-khai-cong-tac-kham-benh-chua-benh-bao-hiem-y-te-tai-tram-y-te-cap-xa.html|tiêu đề=Hội nghị trực tuyến về tình hình triển khai công tác khám bệnh, chữa bệnh bảo hiểm y tế tại Trạm y tế cấp xã|website=Sở Y tế tỉnh Tuyên Quang|ngày truy cập=ngày 5 tháng 7 năm 2026}}</ref>
+
+Năm 2024, tỉnh Tuyên Quang (theo địa giới trước hợp nhất) đạt tỷ lệ 9,7 bác sĩ và 42 giường bệnh trên 10.000 dân; tỷ lệ dân số tham gia bảo hiểm y tế đạt 95,9%; tổng số lượt khám bệnh đạt trên 1 triệu lượt, công suất sử dụng giường bệnh tại bệnh viện tuyến tỉnh đạt trên 115% kế hoạch.<ref name="yte-2025">{{chú thích web|url=https://www.tuyenquang.gov.vn/vi/post/nganh-y-te-trien-khai-nhiem-vu-nam-2025?type=NEWS&id=135264|tiêu đề=Ngành Y tế triển khai nhiệm vụ năm 2025|website=Cổng thông tin điện tử tỉnh Tuyên Quang|ngày truy cập=ngày 5 tháng 7 năm 2026}}</ref>
+
+Bệnh viện Đa khoa tỉnh Tuyên Quang là cơ sở khám, chữa bệnh chất lượng cao, được xếp hạng cấp cơ bản và là một trong những đơn vị tiên phong về chuyển đổi số của ngành y tế tỉnh.<ref name="chuyendoiso">{{chú thích web|url=https://mst.gov.vn/tang-cuong-chuyen-doi-so-xay-dung-nen-y-te-thong-minh-197251031164335579.htm|tiêu đề=Tăng cường chuyển đổi số, xây dựng nền y tế thông minh|website=Bộ Khoa học và Công nghệ|ngày truy cập=ngày 5 tháng 7 năm 2026}}</ref>
+
+==Văn hóa==
+Thực hành Then của người Tày, Nùng, Thái và Thực hành tín ngưỡng thờ Mẫu Tam phủ của người Việt (mà Tuyên Quang là một trong các tỉnh có di sản) đều đã được [[UNESCO]] ghi danh vào Danh sách Di sản văn hóa phi vật thể đại diện của nhân loại.<ref name="tho-mau">{{chú thích web|url=https://dsvh.gov.vn/thuc-hanh-tin-nguong-tho-mau-tam-phu-cua-nguoi-viet-tro-thanh-di-san-van-hoa-phi-vat-the-dai-dien-cua-nhan-loai-1536|tiêu đề=Thực hành Tín ngưỡng Thờ Mẫu Tam phủ của người Việt trở thành Di sản văn hóa phi vật thể đại diện của nhân loại|website=Cục Di sản văn hóa|ngày truy cập=ngày 25 tháng 6 năm 2026}}</ref>
+
+===Ẩm thực===
+Các đặc sản, ẩm thực Tuyên Quang như: bánh nếp nhân trứng kiến, hồng ngâm Xuân Vân, rượu ngô men lá Na Hang, chè Kia Tăng, gà đỏ Đồng Dầy, cam Hàm Yên, rau dớn, mắm cá ruộng Chiêm Hóa, bánh dày vừng đen Lâm Bình, lê nâu Khâu Tràng, cơm lam, phở chua Tuyên Quang, bánh gai Chiêm Hóa, thịt trâu Hùng Mỹ, ngô nếp Soi Lâm, chả ốc ống nứa, lạp xưởng Na Hang, gỏi cá bỗng, hoa chuối nấu chân giò, na dai Lực Hành, thịt muối chua, bánh củ chuối Yên Lập, nhộng cọ Chiêm Hóa, bánh đúc Đà Vị, xôi màu Lâm Bình, mía, bánh chuối Na Hang, rau hôi, cà gai leo Hợp Hòa, gà Tân Tạo, bưởi Soi Hà, cốm Côn Lôn, măng vầu, thịt gác bếp Lâm Bình, hoa kè nhồi thịt, chè Khau Mút, rau bò khai, cháo ỉm Sơn Dương, gạo nếp Khẩu Láng, bánh lẳng Chiêm Hóa, rêu đá, vịt bầu Minh Hương, rượu chuối Kim Bình, măng nứa, măng khô, nhãn Bình Ca, lợn đen Lăng Can, chè xanh, cọ ỏm Chiêm Hóa, lạc Thổ Bình, giảo cổ lam Lâm Bình.
+
+===Lễ hội===
+[[File:PXL 20230923 152451111.MP.jpg|280px|nhỏ|phải|Lễ hội Thành Tuyên]]
+Tỉnh sở hữu gần 100 lễ hội truyền thống, trong đó nhiều lễ hội và nghi lễ đã được công nhận là Di sản văn hóa phi vật thể quốc gia như lễ hội Lồng tông của người Tày, lễ Nhảy lửa của người Pà Thẻn và người Dao, lễ Đại phan của người Sán Dìu, lễ cầu mưa của người Lô Lô, lễ cúng rừng của người Nùng, lễ hội Gầu Tào của người Mông và lễ hội Nàng Hai của người Tày.<ref name="kho-bau"/>
+
+[[Lễ hội Thành Tuyên]] là lễ hội Trung thu độc đáo, riêng có của tỉnh. Bắt nguồn từ năm 2004 từ phong trào tự phát làm đèn Trung thu ở các tổ dân phố, đến năm 2014 lễ hội được tổ chức với quy mô cấp tỉnh. Điểm nhấn của lễ hội là màn rước diễu hàng trăm mô hình đèn Trung thu khổng lồ do người dân tự thiết kế, chế tác tại Quảng trường Nguyễn Tất Thành, thành phố Tuyên Quang. Lễ hội đã được xác lập nhiều kỷ lục Guinness Việt Nam như "Đêm hội Trung thu có nhiều mô hình đèn lớn nhất Việt Nam", "Mâm cỗ Trung thu lớn nhất Việt Nam" và "Cặp đèn kéo quân lớn nhất Việt Nam"; năm 2024, thương hiệu "Lễ hội Thành Tuyên" được Cục Sở hữu trí tuệ cấp Giấy chứng nhận đăng ký nhãn hiệu.<ref name="thanh-tuyen">{{chú thích web|url=https://danviet.vn/le-hoi-thanh-tuyen-tu-dem-ram-dan-da-den-thuong-hieu-van-hoa-cua-tuyen-quang-d1365608.html|tiêu đề=Lễ hội Thành Tuyên: Từ đêm rằm dân dã đến thương hiệu văn hóa của Tuyên Quang|website=Báo điện tử Dân Việt|ngày truy cập=ngày 25 tháng 6 năm 2026}}</ref>
+
+==Du lịch==
+=== Di tích lịch sử===
+[[Tập tin:Lán Ná Lừa.JPG|nhỏ|250px|phải|Lán Nà Lừa - nơi ở và làm việc của Chủ tịch Hồ Chí Minh ở Tuyên Quang]]
+*[[Chiến khu Tân Trào|Di tích lịch sử Tân Trào]].
+*Khu di tích Kim Bình thuộc xã Kim Bình.
+*Khu di tích Kim Quan thuộc xã Tân Trào.
+*Khu di tích Đá Bàn thuộc phường Mỹ Lâm.
+*Khu di tích Làng Ngòi – Đá Bàn thuộc phường Mỹ Lâm.
+*Khu di tích Chiến thắng Khe Lau thuộc xã Xuân Vân và xã Yên Sơn.
+
+[[Tập tin:Cây Đa lịch sử Tân Trào.JPG|nhỏ|250px|phải|Cây đa lịch sử Tân Trào]]
+
+===Danh lam, thắng cảnh===
+*[[Hồ Na Hang]] thuộc xã Nà Hang.
+*Danh thắng quốc gia Quần thể hang động ở xã Yên Phú.
+*Danh thắng quốc gia Động Song Long ở xã Thượng Lâm.
+*Danh thắng quốc gia Hang Phia Vài ở xã Thượng Lâm.
+*[[Thác Mơ|Thác Mơ - Na Hang]] nằm giữa [[khu bảo tồn thiên nhiên Na Hang]].
+*[[Thành cổ Tuyên Quang|Thành cổ nhà Mạc]] nằm ở phường Minh Xuân.
+*[[Suối nước khoáng Mỹ Lâm]] nằm ở địa phận phường [[Mỹ Lâm]].
+*Động Tiên thuộc xã [[Yên Phú, Tuyên Quang|Yên Phú]].
+*Thác Bản Ba – xã Trung Hà.
+
+==Giao thông==
+Giao thông vận tải gồm có: Vận tải đường bộ và vận tải đường thủy.
+
+===Đường bộ===
+Các tuyến đường cao tốc:
+*[[Đường cao tốc Tuyên Quang – Hà Giang]]: Điểm đầu ở xã Nhữ Khê và điểm cuối ở xã Thanh Thủy.
+*[[Đường cao tốc Tuyên Quang – Phú Thọ]]: Điểm đầu ở phường An Tường và điểm cuối ở xã Nhữ Khê.
+
+Các tuyến Quốc lộ trên địa bàn tỉnh:
+*[[Quốc lộ 2]]: Điểm đầu tại km 115+000 (thuộc xã [[Nhữ Khê]]), điểm cuối km 205+000 (thuộc xã [[Thanh Thủy, Tuyên Quang|Thanh Thủy]]), chiều dài 188&nbsp;km.
+*[[Quốc lộ 2|Quốc lộ 2C]]: Điểm đầu từ xã [[Sơn Thủy, Tuyên Quang|Sơn Thủy]], điểm cuối đến xã [[Nà Hang, Tuyên Quang|Nà Hang]], [[chiều dài]] 201,24&nbsp;km (không kể 6,3&nbsp;km đi chung QL.37).
+*[[Quốc lộ 3B]]: Điểm đầu từ xã [[Thái Sơn, Tuyên Quang|Thái Sơn]], điểm cuối xã [[Yên Lập, Tuyên Quang|Yên Lập]].
+*[[Quốc lộ 37]]: Điểm đầu từ đỉnh Đèo Khế xã [[Sơn Dương, Tuyên Quang|Sơn Dương]], điểm cuối cầu Bỗng thuộc [[Mỹ Lâm|phường Mỹ Lâm]], chiều dài 64,5&nbsp;km (không kể 4&nbsp;km đi chung QL.2).
+*[[Quốc lộ 279]]: Từ xã [[Yên Thành, Tuyên Quang|Yên Thành]] đến xã [[Hồng Thái, Tuyên Quang|Hồng Thái]], [[chiều dài]] 168&nbsp;km.
+*[[Quốc lộ 280]]: Từ xã [[Hồng Thái, Tuyên Quang|Hồng Thái]] đến xã [[Yên Cường, Tuyên Quang|Yên Cường]].
+
+Các tuyến đường tỉnh với tổng chiều dài 392,6&nbsp;km trong đó:
+*Tuyến ĐT.185: Điểm đầu km 211 470 (thuộc [[Nông Tiến|phường Nông Tiến]], điểm cuối xã [[Chiêm Hóa (xã)|Chiêm Hóa]] dài 74,1&nbsp;km.
+*Tuyến ĐT.186: Điểm đầu km 55 Quốc lộ 2C (Ngã ba Sơn Nam, xã [[Sơn Thủy, Tuyên Quang|Sơn Thủy]]), điểm cuối km 234 400 Quốc lộ 37 (thuộc [[Mỹ Lâm|phường Mỹ Lâm]]), [[chiều dài]] 84&nbsp;km.
+*Tuyến ĐT.187: Điểm đầu đường ĐT.176 cũ (Đài Thị), điểm cuối đỉnh đèo Keo Mác xã [[Yên Lập, Tuyên Quang|Yên Lập]], [[chiều dài]]: 17&nbsp;km.
+*Tuyến ĐT.188: Điểm đầu từ xã Chiêm Hóa và điểm cuối xã [[Lâm Bình (xã)|Lâm Bình]], chiều dài là 40&nbsp;km (không kể 5&nbsp;km đi chung QL.279).
+*Tuyến ĐT.189: Điểm đầu km 5+700 thuộc xã [[Bình Xa]] và điểm cuối thôn Lục Khang xã [[Bạch Xa]], [[chiều dài]]: 61,5&nbsp;km.
+
+Các tuyến đường huyện: Là đường nối từ trung tâm hành chính của huyện với trung tâm hành chính của xã, cụm xã hoặc trung tâm hành chính của huyện lân cận; đường nối đường tỉnh với trung tâm hành chính của xã hoặc trung tâm cụm xã. Tổng chiều dài các tuyến đường huyện trong tỉnh là 579,8&nbsp;km, bao gồm:
+*huyện [[Na Hang]] có 11 tuyến với 5122,5&nbsp;km.
+*huyện [[Chiêm Hóa (huyện)|Chiêm Hóa]] có 11 tuyến với 146,0&nbsp;km.
+*huyện [[Hàm Yên (huyện)|Hàm Yên]] có 6 tuyến với 57,2&nbsp;km.
+*huyện [[Yên Sơn (huyện)|Yên Sơn]] có 14 tuyến với 129,5&nbsp;km.
+*huyện [[Sơn Dương (huyện)|Sơn Dương]] có 12 tuyến với 124,6&nbsp;km
+ 
+Các tuyến đường đô thị: Chiều dài 141,71&nbsp;km là các đường giao thông nằm trong phạm vi địa giới hành chính thành phố Tuyên Quang và các thị trấn huyện lỵ và khu [[Di tích lịch sử Tân Trào]].
+
+===Đường thủy===
+Sông khai thác vận tải được:
+*[[Sông Lô]]: dài 156&nbsp;km, TW quản lý: 85&nbsp;km (Phan Lương – N3 Lô Gâm) – Sà lan <200T hoạt động mùa nước, Tuyên Quang quản lý: 71&nbsp;km (N3 Lô Gâm – Bạch Xa) - Đò ngang.
+*[[Sông Gâm]]: dài 109+70&nbsp;km, TW quản lý: 33&nbsp;km (N3 Lô Gâm – Chiêm Hóa) 33&nbsp;km (tàu, thuyền <40T), Tuyên Quang quản lý: 76&nbsp;km (Chiêm Hóa - Thuý Loa) 37&nbsp;km (Chiêm Hóa - Na Hang) Thuyền <5T.
+
+Bến đò: Tổng số bến 44, trong đó: có giấy phép mở bến là 28.
+
+==Hình ảnh==
+<center><gallery>
+Hình: HaGiangricefield.jpg |Đồng lúa ở Tuyên Quang
+Hình: ThanhthuyCK.JPG |Cửa khẩu Thanh Thủy
+Hình: Súng thần công Hà Giang.JPG |Bảo tàng Hà Giang (phường Hà Giang 1)
+Hình: Song Lo @Nam TpHaGiang'2005.jpg |Sông Lô
+Hình: Thitrantamson.jpg |Xã Quản Bạ
+Hình: Quanba.jpg |Núi Đôi Quản Bạ
+Hình: Cao nguyên đá.JPG |Cao nguyên đá Đồng Văn
+Hình: Chợ tình Khau Vai.jpg |Chợ tình Khau Vai
+Hình: SaPhin HaGiang Vietnam.JPG |Dinh thự họ Vương trên đồi Con Rùa ở Sà Phìn
+Hình: Bentrongnhavuong.jpg |Bên trong Dinh thự họ Vương.
+Hình: Ha Giang Vietnam.JPG |Trang trại Nông-Lâm mô hình kết hợp
+Hình: Tt. Đồng Văn, Đồng Văn, Hà Giang, Vietnam - panoramio (9).jpg |Xã Đồng Văn
+Hình: Tt. Đồng Văn, Đồng Văn, Hà Giang, Vietnam - panoramio (7).jpg |Đường phố Đồng Văn
+Hình: Tt. Đồng Văn, Đồng Văn, Hà Giang, Vietnam - panoramio (1).jpg |Đình chợ Đồng Văn
+</gallery></center>
+
+==Kết nghĩa==
+{{flagicon|VIE}} tỉnh [[Bình Thuận (tỉnh)|Bình Thuận]] (cũ), nay là tỉnh [[Lâm Đồng]].<ref>{{Chú thích web|url=http://www.baotuyenquang.com.vn/comment.asp?id=16201&CatId=134 |ngày truy cập=2010-06-19 |tựa đề=Báo Tuyên Quang |archive-date=2015-07-03 |archive-url=https://web.archive.org/web/20150703183935/http://www.baotuyenquang.com.vn/comment.asp?id=16201&CatId=134 |url-status=dead }}</ref><ref>{{Chú thích web |url=http://www.binhthuan.gov.vn/hoituxanh/page.asp?p=pages%2Famthuca.htm |ngày truy cập=2021-04-01 |tựa đề=Trang chủ tỉnh Bình Thuận |archive-date = ngày 24 tháng 9 năm 2010 |archive-url=https://web.archive.org/web/20100924204915/http://binhthuan.gov.vn/hoituxanh/page.asp?p=pages%2Famthuca.htm }}</ref>
+
+==Chú thích==
+{{tham khảo|30em}}
+
+==Tham khảo==
+{{Địa phương lân cận
+| Giữa = Tuyên Quang
+| Đông Bắc = [[Cao Bằng]]
+| Đông =[[Thái Nguyên]]
+| Đông Nam = [[Thái Nguyên]]
+| Nam = [[Phú Thọ]]
+| Tây Nam =[[Lào Cai]]
+| Tây = [[Lào Cai]]
+| Tây Bắc = [[Trung Quốc]]
+| Bắc = [[Trung Quốc]]
+}}
+{{Sơ khai Tuyên Quang}}
+{{Commonscat|Tuyen Quang Province}}
+{{Đơn vị hành chính cấp tỉnh Việt Nam}}
+
+[[Thể loại:Tuyên Quang|Tuyên Quang]]
+[[Thể loại:Đông Bắc Bộ]]

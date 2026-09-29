@@ -1,0 +1,26 @@
+{
+  "request_url": "https://vi.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&inprop=url&maxlag=5&ppprop=wikibase_item%7Cdisambiguation&prop=info%7Cpageprops&redirects=1&titles=Qu%E1%BA%A3ng+Ninh%7CQu%E1%BA%A3ng+Ninh+%28t%E1%BB%89nh%29%7CQu%E1%BA%A3ng+Ninh+%28t%E1%BB%89nh+c%C5%A9%29%7CQu%E1%BA%A3ng+Ninh+%28tr%C6%B0%E1%BB%9Bc+2025%29",
+  "params": {
+    "format": "json",
+    "formatversion": "2",
+    "maxlag": 5,
+    "action": "query",
+    "titles": "Quảng Ninh|Quảng Ninh (tỉnh)|Quảng Ninh (tỉnh cũ)|Quảng Ninh (trước 2025)",
+    "redirects": 1,
+    "prop": "info|pageprops",
+    "inprop": "url",
+    "ppprop": "wikibase_item|disambiguation"
+  },
+  "retrieved_at": "2026-09-29T15:28:10.761358Z",
+  "http_status": 200,
+  "headers": {
+    "date": "Tue, 29 Sep 2026 15:28:10 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1467"
+  },
+  "path": "sources/responses/d11f9f89eeeb4b97fa0be6595c63e3f55b2a9cda1b84f3834d75d3a357dabdd6.json",
+  "sha256": "d11f9f89eeeb4b97fa0be6595c63e3f55b2a9cda1b84f3834d75d3a357dabdd6",
+  "byte_length": 1467,
+  "media_type": "application/json",
+  "representation": "unmodified MediaWiki HTTP response body bytes"
+}

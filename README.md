@@ -2,7 +2,7 @@
 
 Corpus Wikipedia tiếng Việt để **đối chiếu** địa bàn và cơ quan Việt Nam; không thay thế danh mục tên/mã hành chính chính thức.
 
-**Trạng thái 29/09/2026:** có dữ liệu legacy và công cụ kiểm kê offline; chưa có crawler độc lập, chưa đủ điều kiện crawl mở rộng. Có lỗi ghép thực thể và thiếu provenance cần xử lý. Skill là hướng dẫn cho agent, không phải crawler đã triển khai.
+**Trạng thái 29/09/2026:** đã triển khai downloader tối thiểu và thu thập 97 target tỉnh trước/sau NQ202/2025, có revision, trích đoạn và kiểm định checksum. [Gói bàn giao](packages/province-before-after-2025/report.md) độc lập với corpus legacy còn lỗi. Công cụ này có phạm vi tỉnh năm 2025; chưa phải crawler production tổng quát.
 
 - [Báo cáo nghiên cứu và đánh giá](context/nghien-cuu-2026-09-29.md)
 - [Mục tiêu, quy chuẩn và tiêu chí nghiệm thu](context/quy-chuan-crawl.md)

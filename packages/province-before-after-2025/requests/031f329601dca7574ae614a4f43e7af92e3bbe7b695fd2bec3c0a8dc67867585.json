@@ -1,0 +1,26 @@
+{
+  "request_url": "https://vi.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&inprop=url&maxlag=5&ppprop=wikibase_item%7Cdisambiguation&prop=info%7Cpageprops&redirects=1&titles=Th%C3%A0nh+ph%E1%BB%91+H%E1%BB%93+Ch%C3%AD+Minh%7CTh%C3%A0nh+ph%E1%BB%91+H%E1%BB%93+Ch%C3%AD+Minh+%28t%E1%BB%89nh%29%7CTh%C3%A0nh+ph%E1%BB%91+H%E1%BB%93+Ch%C3%AD+Minh+%28t%E1%BB%89nh+c%C5%A9%29%7CTh%C3%A0nh+ph%E1%BB%91+H%E1%BB%93+Ch%C3%AD+Minh+%28tr%C6%B0%E1%BB%9Bc+2025%29",
+  "params": {
+    "format": "json",
+    "formatversion": "2",
+    "maxlag": 5,
+    "action": "query",
+    "titles": "Thành phố Hồ Chí Minh|Thành phố Hồ Chí Minh (tỉnh)|Thành phố Hồ Chí Minh (tỉnh cũ)|Thành phố Hồ Chí Minh (trước 2025)",
+    "redirects": 1,
+    "prop": "info|pageprops",
+    "inprop": "url",
+    "ppprop": "wikibase_item|disambiguation"
+  },
+  "retrieved_at": "2026-09-29T15:26:46.768791Z",
+  "http_status": 200,
+  "headers": {
+    "date": "Tue, 29 Sep 2026 15:26:46 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2217"
+  },
+  "path": "sources/responses/87b100a7ab4ad678152bac6d81e10dddcc364e74536c01b252e114bbd2a3650b.json",
+  "sha256": "87b100a7ab4ad678152bac6d81e10dddcc364e74536c01b252e114bbd2a3650b",
+  "byte_length": 2217,
+  "media_type": "application/json",
+  "representation": "unmodified MediaWiki HTTP response body bytes"
+}

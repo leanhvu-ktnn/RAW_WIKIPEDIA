@@ -1,0 +1,897 @@
+{{otheruses|Hưng Yên (định hướng)}}
+{{Thông tin đơn vị hành chính Việt Nam|tỉnh
+| tên = Hưng Yên
+| logo = Logo Hưng Yên.svg
+| ghi chú logo = Biểu trưng
+| biệt danh = Xứ [[nhãn lồng]]
+| vĩ độ = 20.85432
+| kinh độ = 106.016006
+| bản đồ 1 = {{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=2|stroke-color=#000000}}
+| diện tích = 2.514,81 km²<ref name=202/2025/QH15/>
+| dân số = 3.576.943 người<ref name=202/2025/QH15/>
+| thời điểm dân số = 31/12/2024
+| dân số thành thị = 
+| dân số nông thôn = 
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:3.576.943|R}}/{{formatnum:2.514,81|R}})}} }} người/km²
+| dân tộc = [[người Việt|Kinh]]
+| vùng = [[Đồng bằng sông Hồng]] <small>(địa lý)</small><br>[[Vùng thủ đô Hà Nội]] <small>(đô thị)</small> 
+| tỉnh lỵ = Phường [[Phố Hiến]]
+| phân chia hành chính = 11 phường, 93 xã
+| thành lập = *1831: thành lập
+*6/11/1996: tái lập
+| trụ sở UBND = Số 10, đường Chùa Chuông, phường [[Phố Hiến]]
+| chủ tịch UBND = [[Nguyễn Khắc Thận]]
+| hội đồng nhân dân = 53 đại biểu
+| chủ tịch HĐND = [[Trần Quốc Văn]]
+| chủ tịch UBMTTQ = [[Nguyễn Mạnh Hùng]]
+| chánh án TAND = [[Lê Văn Tuấn]]
+| viện trưởng VKSND = [[Nguyễn Văn Viện]]
+| bí thư = [[Nguyễn Hữu Nghĩa]]
+| mã địa lý = [[ISO 3166-2:VN|VN-66]]
+| mã hành chính = 33<ref>[https://danhmuchanhchinh.gso.gov.vn/ Tổng cục Thống kê]</ref>
+| mã bưu chính = [[Mã bưu chính Việt Nam|16xxxx]]
+| mã điện thoại = [[Mã điện thoại Việt Nam|221]]
+| biển số xe = [[Biển xe cơ giới Việt Nam|17, 89]]
+| GRDP = 131.642 tỉ đồng (5,72 tỉ USD)
+| thời điểm kinh tế = 2022
+| GRDP đầu người = 102,3 triệu đồng (4.396 USD)
+| web = {{url|hungyen.gov.vn}}
+|nhiều hình={{multiple image
+| border = infobox
+| total_width = 300
+| caption_align = center
+| image_style = border:1;
+| perrow = 1/2/2/2/2
+| image1 = Pho Hien, Hung Yen.jpg
+| caption1 = Một góc [[Hưng Yên (thành phố)|thành phố Hưng Yên]] nhìn từ trên cao
+| image2 = Vong xuyen thanh pho hung yen.jpg
+| caption2 = Vòng xuyến [[Hưng Yên (thành phố)|thành phố Hưng Yên]]
+| width2 = 150
+| height2 = 90
+| image3 = Tuong dai tbt nguyen van linh 2.jpg
+| caption3 = Tượng đài [[Nguyễn Văn Linh]]
+| width3 = 150
+| height3 = 90
+| image4 = Van_mieu_xich_dang.jpg
+| caption4 = [[Văn miếu Xích Đằng]]
+| width4 = 150
+| height4 = 90
+| image5 = Den da hoa.jpg
+| caption5 = Đền Đa Hoà (Đền [[Chử Đồng Tử]] - [[Tiên Dung]])
+| width5 = 150
+| height5 = 90
+| image6 =Chua chuong.jpg
+| caption6 = [[Chùa Chuông]]
+| width6 = 150
+| height6 = 90
+| image7 = Nhà_thờ_bác_trạch.jpg
+| caption7 = [[Nhà thờ Bác Trạch]]
+| width7 = 150
+| height7 = 90
+| image8 = Swanlake onsen khu do thi ecopark.jpg
+| caption8 = Khu đô thị [[Ecopark]]
+| width8 = 150
+| height8 = 84
+| image9 = The_venice_vinhomes_ocean_park_3.jpg
+| caption9 = Khu đô thị [[Vinhomes]] Ocean Park 3
+| width9 = 150
+| height9 = 84
+}}}}
+'''Hưng Yên''' là một [[Tỉnh (Việt Nam)|tỉnh]] thuộc vùng [[đồng bằng sông Hồng]], nằm ở miền Bắc [[Việt Nam]], với trung tâm hành chính cách thủ đô [[Hà Nội]] khoảng hơn 55 km về phía Đông Nam.
+
+Hưng Yên là vùng đất lưu giữ nhiều di tích lịch sử với truyền thống và văn hóa lâu đời, là quê hương của nhiều danh nhân và nhà lãnh đạo như [[Triệu Việt Vương]], [[Trần Thủ Độ]], [[Phạm Ngũ Lão]], [[Hải Thượng Lãn Ông]], [[Lê Quý Đôn]], [[Hoàng Hoa Thám]], [[Hoàng Văn Thái]], [[Nguyễn Văn Linh]], [[Tô Lâm]]...
+
+[[Phố Hiến]], trung tâm hành chính của tỉnh ngày nay, là một thương cảng cổ vang danh xứ Bắc ở thế kỷ 17 - 18. Danh tiếng phồn hoa một thời được thể hiện qua câu ca: “''Thứ nhất Kinh Kỳ, thứ nhì Phố Hiến''”, nơi đây từng được sánh ngang với kinh đô [[Thăng Long]] về sự sầm uất với luồng thuyền bè, thương nhân đến từ hơn 10 quốc gia trên thế giới như [[Nhật Bản]], [[Trung Quốc]], [[Anh]], [[Pháp]], [[Hà Lan]], [[Bồ Đào Nha]]...
+
+Với vị trí địa lý thuận lợi, nằm trong [[Vùng kinh tế trọng điểm Bắc Bộ]], Hưng Yên đóng vai trò là cầu nối quan trọng giữa các trung tâm kinh tế lớn. Hưng Yên hiện nay cũng đang phát triển mạnh mẽ về công nghiệp và dịch vụ, hướng tới mục tiêu xây dựng đô thị văn minh và hiện đại, song vẫn giữ gìn nét đẹp văn hóa truyền thống của vùng đất "Phố Hiến xưa".
+
+Theo dữ liệu [[Sáp nhập tỉnh, thành Việt Nam 2025]], sau khi sáp nhập với tỉnh [[Thái Bình]], tỉnh Hưng Yên có diện tích: 2.514,81km² (xếp thứ 34); dân số: 3.567.943 người (xếp thứ 16); GRDP năm 2024: 292.602.496 triệu VNĐ (xếp thứ 12); thu ngân sách năm 2024: 53.112.677 triệu VNĐ (xếp thứ 10); thu nhập bình quân: 69,93 triệu VNĐ/năm (xếp thứ 6).<ref>{{Chú thích web |tiêu đề=Danh sách dự kiến tên gọi của 34 tỉnh, thành phố và trung tâm chính trị - hành chính |url=https://vtv.vn/chinh-tri/danh-sach-du-kien-ten-goi-cua-34-tinh-thanh-pho-va-trung-tam-chinh-tri-hanh-chinh-20250413230809506.htm |ngày truy cập=14 tháng 4 năm 2025 |website=vtv.vn |ngôn ngữ=vi}}</ref>
+
+==Lịch sử==
+{{main|Lịch sử hành chính Hưng Yên}}
+[[Tập tin:Hung Yen 1891.jpg|220px|nhỏ|trái|Bản đồ tỉnh Hưng Yên năm 1891]]
+[[Tập tin:Province de Hung-Yen (1909).jpg|220px|nhỏ|trái|Bản đồ tỉnh Hưng Yên năm 1909]]
+Tỉnh Hưng Yên phần  thuộc thừa tuyên Sơn Nam đặt vào năm Quang Thuận thứ 10 đời Lê (1466). Đến năm Cảnh Hưng thứ 2 (1741) thì chia thành [[Sơn Nam Thượng]] và [[Sơn Nam Hạ]]. Đời nhà Nguyễn năm Minh Mệnh thứ 3 (1822), Sơn Nam Thượng đổi thành trấn Sơn Nam còn Sơn Nam Hạ thì gọi là trấn Nam Định. Năm Minh Mệnh thứ 12 (1831), tỉnh Hưng Yên được thành lập gồm các huyện [[Khoái Châu|Đông Yên]], [[Kim Động]], [[Ân Thi|Thiên Thi]], [[Tiên Lữ]], [[Phù Cừ|Phù Dung]] của [[trấn Sơn Nam]]  và [[Tiên Hưng (huyện)|Thần Khê]], [[Hưng Nhân (huyện)|Hưng Nhân]], [[Duyên Hà (huyện)|Duyên Hà]] của [[trấn Nam Định]]. Năm 1842, đổi tên huyện Phù Dung thành huyện Phù Cừ.<ref>Đào Duy Anh. ''Đất Nước Việt Nam Qua Các Đời''. Huế: Thuận Hóa, 1995.</ref> Năm Tự Đức thứ 15 (1862), đổi huyện Thiên Thi thành huyện [[Ân Thi]].
+
+Ngày [[21 tháng 3]] năm [[1890]], Toàn quyền Đông Dương ra nghị định thành lập tỉnh Thái Bình, gồm các huyện Vũ Tiên, Thư Trì, Chân Định, Tiền Hải, Đông Quan, Thuỵ Anh, Thanh Quan, Quỳnh Côi và Phụ Dực tách từ tỉnh [[Nam Định]]) và huyện Thần Khê (tách từ tỉnh Hưng Yên).
+
+Ngày [[25 tháng 2]] năm [[1890]], Toàn quyền Đông Dương ra nghị định thành lập đạo Bãi Sậy, gồm 4 huyện:
+
+* Huyện Yên Mỹ: được thành lập từ một số tổng huyện Đông Yên, Ân Thi của tỉnh Hưng Yên; một số tổng của huyện Mỹ Hào của tỉnh Hải Dương, một số tổng của huyện Văn Giang, tỉnh Bắc Ninh
+* Huyện Mỹ Hào: gồm các tổng còn lại sau khi cắt sang huyện Yên Mỹ.
+* Huyện Cẩm Lương: gồm một số tổng thuộc huyện Cẩm Giàng của tỉnh Hải Dương, một số tổng thuộc huyện Lương Tài và Siêu Loại của tỉnh Bắc Ninh
+* Huyện Văn Lâm: chính thức được thành lập gồm một số tổng thuộc 3 huyện Văn Giang, Gia Lâm và Siêu Loại của tỉnh Bắc Ninh.
+
+Trong năm [[1891]], hai lần Toàn quyền Đông Dương ra nghị định (12-4) và quyết định (32-11) để bãi bỏ đạo Bãi Sậy, nhập các huyện Yên Mỹ, Mỹ Hào, Văn Lâm vào tỉnh Hưng Yên. 
+
+Ngày [[28 tháng 11]] năm [[1894]], Toàn quyền [[Bán đảo Đông Dương|Đông Dương]] ra nghị định cắt hai huyện Hưng Nhân và Duyên Hà tỉnh Hưng Yên sáp nhập vào tỉnh Thái Bình; lấy sông Luộc làm ranh giới giữa hai tỉnh Hưng Yên và Thái Bình.
+
+Ngày [[4 tháng 2]] năm [[1895]], Kinh lược sứ Bắc Kỳ ra quyết định sáp nhập các làng Kỳ Bá, Bồ Xuyên vào phủ lỵ Kiến Xương để lập thị xã Thái Bình. 
+
+Sau năm [[1945]], bỏ cấp phủ, các huyện có sở lỵ phủ thì đổi theo tên của phủ kiêm quản trước đó: Thanh Quan thành Thái Ninh, Trực Định thành Kiến Xương, Thần Khê thành Tiên Hưng, Đông Yên thành Khoái Châu.
+
+Khi đó, tỉnh [[Thái Bình (tỉnh)|Thái Bình]] có 13 đơn vị hành chính gồm [[Thái Bình (thành phố)|thị xã Thái Bình]] và 12 huyện: [[Đông Quan (huyện)|Đông Quan]], [[Duyên Hà (huyện)|Duyên Hà]], [[Hưng Nhân (huyện)|Hưng Nhân]], [[Kiến Xương]], [[Phụ Dực]], [[Quỳnh Côi (huyện)|Quỳnh Côi]], [[Thái Ninh (huyện cũ)|Thái Ninh]], [[Thư Trì]], [[Thụy Anh]], [[Tiền Hải]], [[Tiên Hưng (huyện)|Tiên Hưng]], [[Vũ Tiên (huyện)|Vũ Tiên]].
+
+Ngày [[15 tháng 8]] năm [[1946]], theo Nghị định số 1216 của Uỷ ban Hành chính Bắc Bộ thành lập thị xã Hưng Yên gồm 2 khu phố Đằng Giang và Đầu Lĩnh.
+
+[[Tháng 2]] năm [[1947]], huyện [[Văn Giang]] của tỉnh [[Lịch sử hành chính Bắc Ninh|Bắc Ninh]] được sáp nhập vào tỉnh Hưng Yên.
+
+Lúc này, tỉnh Hưng Yên gồm các thị xã Hưng Yên và các huyện Văn Lâm, Văn Giang, Mỹ Hào, Yên Mỹ, Khoái Châu, Kim Động, Ân Thi, Tiên Lữ và Phù Cừ.
+
+Ngày [[2 tháng 12]] năm [[1955]], điều chỉnh địa giới của các huyện Đông Quan, Phụ Dực, Quỳnh Côi, Thái Ninh, Thụy Anh, Tiên Hưng, Tiền Hải.<ref>{{Chú thích sách |title=Nghị định số 625-TTg năm 1955 của Thủ tướng Chính phủ.}}</ref>
+
+Ngày [[28 tháng 2]] năm [[1958]], điều chỉnh địa giới của ba huyện Phụ Dực, Quỳnh Côi và Thụy Anh.<ref>{{Chú thích sách |title=Nghị định 129-TTg năm 1958 của Thủ tướng Chính phủ.}}</ref>
+
+Ngày [[31 tháng 5]] năm [[1961]], xã [[Văn Đức (xã)|Văn Đức]] thuộc huyện Văn Giang được sáp nhập về huyện [[Gia Lâm]] của thành phố [[Hà Nội]].<ref>{{Chú thích sách |title=Nghị quyết của Quốc hội khóa II ngày 20-4-1961.}}</ref>
+
+Ngày [[19 tháng 4]] năm [[1963]], điều chỉnh địa giới hành chính huyện Vũ Tiên và Thư Trì để mở rộng thị xã Thái Bình.
+
+Ngày [[26 tháng 1]] năm [[1968]], tỉnh Hưng Yên và tỉnh [[Hải Dương]] được sáp nhập với nhau, lấy tên là tỉnh [[Hải Hưng (tỉnh)|Hải Hưng]], tỉnh lỵ được đặt tại thị xã Hải Dương (nay là thành phố [[Hải Dương (thành phố)|Hải Dương]]).<ref>{{Chú thích sách |title=Nghị quyết của Quốc hội khóa III ngày 27-1-1968.}}</ref>
+
+Ngày [[17 tháng 6]] năm [[1969]], 2 huyện Hưng Nhân, Duyên Hà và 5 xã: Bắc Sơn, Đông Đô, Hòa Bình, Chi Lăng và Tây Đô của huyện Tiên Hưng hợp nhất thành huyện [[Hưng Hà]]; huyện Đông Quan và phần còn lại của huyện Tiên Hưng hợp nhất thành huyện [[Đông Hưng]]; 2 huyện Quỳnh Côi và Phụ Dực hợp nhất thành huyện [[Quỳnh Phụ]]; 2 huyện Thái Ninh và Thụy Anh hợp nhất thành huyện [[Thái Thụy]]; 13 xã của huyện Vũ Tiên được sáp nhập vào huyện [[Kiến Xương|Kiến]] [[Kiến Xương|Xương]], phần còn lại của huyện Vũ Tiên và Thư Trì hợp nhất thành huyện [[Vũ Thư]].Tỉnh Thái Bình còn 1 thị xã và 7 huyện.<ref>{{Chú thích sách |title=Quyết định số 93-CP năm 1969 của Hội đồng Chính phủ.}}</ref>
+
+Ngày [[11 tháng 3]] năm [[1977]], hợp nhất 2 huyện Phù Cừ và Tiên Lữ thành huyện Phù Tiên; hợp nhất 2 huyện Văn Giang và Yên Mỹ thành huyện [[Văn Yên]]; hợp nhất 2 huyện Văn Lâm và Mỹ Hào thành huyện Văn Mỹ.<ref>[https://hethongphapluat.com/quyet-dinh-58-cp-nam-1977-ve-viec-hop-nhat-mot-so-huyen-thuoc-tinh-hai-hung-do-hoi-dong-chinh-phu-ban-hanh.html Quyết định 58-CP năm 1977 về việc hợp nhất một số huyện thuộc tỉnh Hải Hưng do Hội đồng Chính phủ ban hành]</ref>
+
+Ngày [[24 tháng 2]] năm [[1979]], hợp nhất 2 huyện Kim Động và Ân Thi thành huyện [[Kim Thi]]; hợp nhất huyện Văn Mỹ và 1 phần huyện Văn Yên thành huyện [[Mỹ Văn]]; hợp nhất phần còn lại của huyện Văn Yên và huyện Khoái Châu thành huyện [[Châu Giang]].<ref>[https://dulieuphapluat.vn/van-ban/hanh-chinh-van-ban/quyet-dinh-70-cp-nam-1979-ve-viec-hop-nhat-va-dieu-chinh-dia-gioi-mot-so-huyen-thuoc-tinh-hai-hung-do-hoi-dong-chinh-phu-ban-hanh-664207.html Quyết định 70-CP năm 1979 về việc hợp nhất và điều chỉnh địa giới một số huyện thuộc tỉnh Hải Hưng do Hội đồng Chính phủ ban hành]</ref>
+
+Ngày [[4 tháng 1]] năm [[1982]], điều chỉnh địa giới hành chính huyện Kim Thi để mở rộng thị xã Hưng Yên.
+
+Ngày [[8 tháng 4]] năm [[1982]], điều chỉnh địa giới hành chính huyện Vũ Thư để mở rộng thị xã Thái Bình.
+
+Ngày [[20 tháng 3]] năm [[1986]], điều chỉnh địa giới hành chính huyện Vũ Thư và Đông Hưng để mở rộng thị xã Thái Bình.
+
+Ngày [[27 tháng 1]] năm [[1996]], chia huyện Kim Thi thành 2 huyện: [[Kim Động]] và Ân Thi.<ref>[https://hethongphapluat.com/nghi-dinh-05-cp-nam-1996-ve-viec-chia-cac-huyen-tu-loc-ninh-thanh-kim-thi-thuoc-tinh-hai-hung.html Nghị định 05-CP năm 1996 về việc chia các huyện Tứ Lộc, Ninh Thanh, Kim Thi thuộc tỉnh Hải Hưng]</ref>
+
+Ngày [[6 tháng 11]] năm [[1996]], tái lập tỉnh Hưng Yên từ tỉnh [[Hải Hưng (tỉnh)|Hải Hưng]]. Sau khi tách ra, tỉnh Hưng Yên có 6 đơn vị hành chính gồm thị xã Hưng Yên và 5 huyện: Ân Thi, Châu Giang, Kim Động, Mỹ Văn, Phù Tiên.<ref>[https://hethongphapluat.com/nghi-quyet-ve-viec-chia-va-dieu-chinh-dia-gioi-hanh-chinh-mot-so-tinh-do-quoc-hoi-ban-hanh.html Nghị quyết về việc chia và điều chỉnh địa giới hành chính một số tỉnh do Quốc hội ban hành]</ref>
+
+Ngày [[24 tháng 2]] năm [[1997]], chia huyện Phù Tiên thành 2 huyện: [[Phù Cừ]] và [[Tiên Lữ]].<ref>[https://hethongphapluat.com/nghi-dinh-17-cp-nam-1997-ve-viec-chia-huyen-phu-tien-thanh-lap-mot-so-phuong-thi-tran-thuoc-thi-xa-hung-yen-va-huyen-my-van-tinh-hung-yen.html Nghị định 17-CP năm 1997 về việc chia huyện Phù Tiên, thành lập một số phường, thị trấn thuộc thị xã Hưng Yên và huyện Mỹ Văn, tỉnh Hưng Yên]</ref>
+
+Ngày [[24 tháng 7]] năm [[1999]], chia huyện Châu Giang thành 2 huyện: [[Khoái Châu]] và [[Văn Giang]]; chia huyện Mỹ Văn thành 3 huyện: [[Mỹ Hào]], [[Văn Lâm]], [[Yên Mỹ]].<ref>[https://hethongphapluat.com/nghi-dinh-60-1999-nd-cp-ve-viec-dieu-chinh-dia-gioi-hanh-chinh-va-chia-cac-huyen-my-van-va-chau-giang-tinh-hung-yen.html Nghị định 60/1999/NĐ-CP về việc điều chỉnh địa giới hành chính và chia các huyện Mỹ Văn và Châu Giang, tỉnh Hưng Yên]</ref>
+
+Ngày [[23 tháng 9]] năm [[2003]], điều chỉnh địa giới hành chính huyện [[Kim Động]] và [[Tiên Lữ]] để mở rộng thị xã Hưng Yên.<ref>{{Chú thích sách |title=Quyết định số 02-HĐBT năm 1982 của Hội đồng Bộ trưởng.}}</ref>
+
+Ngày [[18 tháng 4]] năm [[2003]], thị xã Thái Bình được công nhận là đô thị loại III.
+
+Ngày [[29 tháng 4]] năm [[2004]], chuyển thị xã Thái Bình thành [[Thái Bình (thành phố)|thành phố Thái Bình]]. Tỉnh Thái Bình có 1 thành phố và 7 huyện như hiện nay.
+
+Vào ngày [[30 tháng 7]] năm [[2007]], thị xã Hưng Yên đã chính thức trở thành đô thị loại III theo Quyết định số 1012/QĐ-BXD ngày [[17 tháng 7]] năm [[2007]] của [[Bộ Xây dựng (Việt Nam)|Bộ Xây dựng]].
+
+Ngày [[19 tháng 1]] năm [[2009]], chuyển thị xã Hưng Yên thành [[Hưng Yên (thành phố)|thành phố Hưng Yên]].<ref>[https://hethongphapluat.com/nghi-dinh-04-nd-cp-ve-viec-thanh-lap-thanh-pho-hung-yen-thuoc-tinh-hung-yen.html Nghị định 04/NĐ-CP về việc thành lập thành phố Hưng Yên thuộc tỉnh Hưng Yên]</ref>
+
+Ngày [[6 tháng 8]] năm [[2013]], điều chỉnh địa giới hành chính huyện [[Kim Động]] và [[Tiên Lữ]] để mở rộng thị xã Hưng Yên.
+
+Ngày [[12 tháng 12]] năm [[2013]], Thủ tướng Chính phủ ban hành Quyết định 2418/QĐ-TTg công nhận [[Thái Bình (thành phố)|thành phố Thái Bình]] là đô thị loại II.
+
+Ngày [[1 tháng 5]] năm [[2019]], chuyển huyện Mỹ Hào thành thị xã [[Mỹ Hào]].<ref name="NQ656">{{Chú thích web|url=https://hethongphapluat.com/nghi-quyet-656-nq-ubtvqh14-nam-2019-ve-thanh-lap-thi-xa-my-hao-thuoc-tinh-hung-yen-va-07-phuong-thuoc-thi-xa-my-hao-do-uy-ban-thuong-vu-quoc-hoi-ban-hanh.html|title=Nghị quyết 656/NQ-UBTVQH14 của Ủy ban Thường vụ Quốc hội về việc thành lập thị xã Mỹ Hào thuộc tỉnh Hưng Yên và 07 phường thuộc Mỹ Hào|last=|first=|date=|website=|archive-url=|archive-date=|url-status=|access-date=}}</ref>
+
+Ngày [[12 tháng 6]] năm [[2025]], Quốc hội ban hành Nghị quyết số 202/2025/QH15<ref name=202/2025/QH15>{{Chú thích web|url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94532|tựa đề= Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh |ngày= 2025-06-12 |website= Cổng thông tin điện tử Quốc hội Việt Nam |url lưu trữ=https://web.archive.org/web/20250612150244/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94532|ngày lưu trữ= 2025-06-12 |ngày truy cập= 2025-06-12 |url-status=live}}</ref> về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày 12 tháng 6 năm 2025). Theo đó, sáp nhập tỉnh [[Thái Bình]] vào tỉnh Hưng Yên, trung tâm hành chính đặt tại tỉnh Hưng Yên hiện nay.
+
+==Địa lý==
+===Vị trí và lãnh thổ===
+Tỉnh Hưng Yên nằm ở trung tâm vùng [[đồng bằng sông Hồng]], có vị trí địa lý:
+*Phía Đông giáp với [[Vịnh Bắc Bộ]] (thuộc [[Biển Đông]]) và thành phố [[Hải Phòng]].
+*Phía Tây giáp với thủ đô [[Hà Nội]].
+*Phía Nam giáp với tỉnh [[Ninh Bình]].
+*Phía Bắc giáp với thành phố [[Hải Phòng]] và tỉnh [[Bắc Ninh]].
+Tỉnh Hưng Yên thuộc quy hoạch [[Vùng thủ đô Hà Nội]]. Trung tâm hành chính của tỉnh đặt tại phường [[Phố Hiến]], nằm cách trung tâm thủ đô [[Hà Nội]] 60 km về phía Đông Nam, cách trung tâm thành phố [[Hải Phòng]] 112 km về hướng Tây Nam theo đường bộ.
+
+Sau khi hợp nhất với tỉnh [[Thái Bình]], diện tích của tỉnh Hưng Yên là 2.514,81 km², đứng hạng 34 trên tổng số 34 tỉnh/thành phố sau sáp nhập, là tỉnh có '''diện tích nhỏ nhất''' Việt Nam.
+
+===Điều kiện tự nhiên===
+====Địa hình====
+Địa hình của tỉnh Hưng Yên rất bằng phẳng, không có núi, đồi, chủ yếu là đất [[phù sa]] màu mỡ, đặc trưng của vùng [[đồng bằng sông Hồng|đồng bằng châu thổ sông Hồng]]. Độ cao trung bình dao động từ 2 đến 6 mét so với mực nước biển và có xu hướng thấp dần từ Bắc xuống Nam, từ Tây sang Đông. Địa hình không có đồi núi hay vùng cao, ít bị chia cắt, tạo điều kiện thuận lợi cho việc phát triển giao thông, xây dựng cơ sở hạ tầng và tổ chức sản xuất nông nghiệp quy mô lớn.
+
+[[Tập tin:Ho_ban_nguyet_o_phuong_pho_hien.jpg|350x350px|nhỏ|Hồ Bán Nguyệt ở phường [[Phố Hiến]], ở phía xa là [[sông Hồng]]]]
+Hưng Yên có mạng lưới ao, hồ, đầm và sông ngòi khá dày đặc với 4 hệ thống sông lớn chảy qua: [[sông Hồng]] (lớn nhất), [[sông Đuống]], [[sông Luộc]], [[sông Trà Lý]]. Bên cạnh đó, Hưng Yên còn có các hệ thống sông nhỏ hơn như: sông Cửu An, sông Kẻ Sặt, sông Hoan Ái, sông Nghĩa Trụ, sông Điện Biên, sông Kim Sơn (đều thuộc hệ thống [[Hệ thống thủy lợi Bắc Hưng Hải|sông Bắc Hưng Hải]]), sông Hóa, sông Diêm Hộ... là điều kiện thuận lợi không chỉ cho sản xuất nông nghiệp mà còn cho sự phát triển công nghiệp, sinh hoạt và giao thông đường thuỷ.
+
+Sau khi hợp nhất với tỉnh [[Thái Bình]], tỉnh Hưng Yên có khoảng hơn 52 km bờ biển, có nhiều cửa sông lớn đổ ra biển như cửa Thái Bình, cửa Diêm Hộ, cửa Ba Lạt, tạo nên vùng cửa sông - ven biển giàu phù sa.
+
+====Khí hậu====
+Hưng Yên thuộc vùng nhiệt đới gió mùa, có mùa đông lạnh. Nhiệt độ trung bình hàng năm là 23,2°C, nhiệt độ trung bình mùa hè 25°C, mùa đông dưới 20°C. Lượng mưa trung bình dao động trong khoảng 1.500 - 1.600 mm, trong đó tập trung vào tháng 5 đến tháng 10 mưa (chiếm 80 - 85% lượng mưa cả năm). Số giờ nắng trung bình hàng năm khoảng 1.400 giờ (116,7 giờ/tháng), trong đó từ tháng 5 đến tháng 10 trung bình 187 giờ nắng/tháng, từ tháng 11 đến tháng 4 năm sau, trung bình 86 giờ nắng/tháng.
+
+Khí hậu Hưng Yên có 2 mùa gió chính: [[Gió mùa Đông Bắc]] (từ tháng 9 đến tháng 2 năm sau) và gió mùa Đông Nam (tháng 3 đến tháng 5).
+
+{{Weather box|width=auto|Sep precipitation mm=261|Aug precipitation days=15.5|Jul precipitation days=13.1|Jun precipitation days=14.2|May precipitation days=13.1|Apr precipitation days=13.8|Mar precipitation days=16.6|Feb precipitation days=12.8|Jan precipitation days=9.1|year precipitation mm=1644|Dec precipitation mm=24|Nov precipitation mm=75|Oct precipitation mm=187|Aug precipitation mm=286|Oct precipitation days=11.2|Jul precipitation mm=219|Jun precipitation mm=229|May precipitation mm=172|Apr precipitation mm=92|Mar precipitation mm=48|Feb precipitation mm=25|Jan precipitation mm=26|precipitation colour=green|year record low C=4.8|year record high C=39.4|Dec record low C=4.8|Dec record high C=30.5|Nov record low C=8.4|Sep precipitation days=13.7|Nov precipitation days=7.3|Oct record low C=12.5|Jan sun=75|year sun=1625|Dec sun=127|Nov sun=139|Oct sun=173|Sep sun=179|Aug sun=179|Jul sun=205|Jun sun=178|May sun=187|Apr sun=93|Mar sun=49|Feb sun=42|year humidity=85.9|Dec precipitation days=5.5|Dec humidity=82.4|Nov humidity=82.6|Oct humidity=84.8|Sep humidity=86.9|Aug humidity=87.1|Jul humidity=84.0|Jun humidity=84.4|May humidity=86.2|Apr humidity=89.8|Mar humidity=90.1|Feb humidity=87.6|Jan humidity=85.2|year precipitation days=146.0|Nov record high C=34.5|Oct record high C=34.0|metric first=y|year high C=26.8|Dec mean C=17.8|Nov mean C=21.1|Oct mean C=24.5|Sep mean C=27.1|Aug mean C=28.4|Jul mean C=29.0|Jun mean C=28.6|May mean C=27.0|Apr mean C=23.5|Mar mean C=19.6|Feb mean C=16.9|Jan mean C=16.2|Dec high C=21.7|Jan low C=14.0|Nov high C=25.2|Oct high C=28.3|Sep high C=30.5|Aug high C=31.7|Jul high C=32.7|Jun high C=32.4|May high C=30.9|Apr high C=26.7|Mar high C=22.3|Feb high C=19.7|Jan high C=19.5|location=Hưng Yên|single line=y|year mean C=23.3|Feb low C=15.0|Sep record low C=16.5|Mar record high C=37.0|Sep record high C=35.2|Aug record low C=21.8|Aug record high C=37.5|Jul record low C=20.6|Jul record high C=38.4|Jun record low C=19.4|Jun record high C=39.4|May record low C=16.5|May record high C=38.5|Apr record low C=12.2|Apr record high C=37.4|Mar record low C=6.6|Feb record low C=5.3|Mar low C=17.8|Feb record high C=32.6|Jan record low C=4.9|Jan record high C=32.0|year low C=20.8|Dec low C=15.1|Nov low C=18.4|Oct low C=21.8|Sep low C=24.6|Aug low C=25.8|Jul low C=26.3|Jun low C=25.8|May low C=24.2|Apr low C=21.4|source 1=Vietnam Institute for Building Science and Technology<ref name=IBST>{{chú thích web
+| archive-url = https://web.archive.org/web/20180722172120/http://ibst.vn/DATA/nhyen/QCVN%2002-2009%20BXD%20So%20lieu%20tu%20nhien.pdf
+| archive-date = ngày 22 tháng 7 năm 2018
+| url = http://ibst.vn/DATA/nhyen/QCVN%2002-2009%20BXD%20So%20lieu%20tu%20nhien.pdf
+| title = Vietnam Building Code Natural Physical & Climatic Data for Construction
+| publisher = Vietnam Institute for Building Science and Technology
+| access-date = ngày 6 tháng 8 năm 2018}}</ref>}}
+
+====Tài nguyên và khoáng sản====
+Hưng Yên không có nhiều nguồn tài nguyên và khoáng sản. Các loại tài nguyên và khoáng sản chính gồm: [[cát đen]], [[đất sét]], [[nước khoáng]] và [[than nâu]]. Trong đó, cát đen là khoáng sản có trữ lượng lớn và được khai thác phổ biến nhất, tập trung ở ven [[sông Hồng]]  [[sông Luộc]] và [[sông Trà Lý]]. Ngoài ra, Hưng Yên còn có mỏ than nâu ở huyện [[Khoái Châu]] và nguồn nước khoáng ở huyện [[Văn Lâm]].
+
+==Kinh tế==
+[[Tập tin:Khu_Công_Nghiệp_Thăng_Long_II-_Hưng_Yên.jpg|phải|400x400px|nhỏ|Khu Công nghiệp Thăng Long II]]
+Hưng Yên là tỉnh thuộc [[Tam giác kinh tế Hà Nội - Hải Phòng - Quảng Ninh|tam giác kinh tế trọng điểm Hà Nội - Hải Phòng - Quảng Ninh]]. Cùng với sự phát triển kinh tế của cả nước, nền kinh tế Hưng Yên đang đổi thay từng ngày và được đánh giá là một trong những tỉnh có tốc độ tăng trưởng kinh tế tương đối nhanh và cao.
+
+===Công nghiệp và xây dựng===
+Cơ cấu kinh tế của tỉnh đang dần chuyển dịch theo hướng [[công nghiệp hoá]], hiện đại hoá. Công nghiệp và xây dựng có bước phát triển khá, tuy còn phải đối mặt với nhiều khó khăn, nhưng tỉnh vẫn đạt được những thành tích đáng khích lệ. Một số ngành hàng tiếp tục được củng cố phát triển, lựa chọn các mặt hàng ưu tiên và có lợi thế để đầu tư chiều sâu, đổi mới công nghệ, tạo ra những sản phẩm chất lượng cao. Các sản phẩm công nghiệp chính của tỉnh là dệt may, giày dép, thép xây dựng, ô tô, xe máy, điện tử, điện dân dụng, công nghiệp thực phẩm, cơ khí chính xác, công nghiệp hỗ trợ...
+[[Tập tin:Kcn_yen_my.jpg||trái|nhỏ|Khu Công nghiệp Yên Mỹ]]
+[[Tập tin:Kcn_minh_duc.jpg|trái|nhỏ|Khu Công nghiệp Minh Đức]]
+
+Hưng Yên là một trong những địa phương có hệ thống khu công nghiệp (KCN) phát triển năng động ở vùng đồng bằng sông Hồng, đóng vai trò quan trọng trong thu hút đầu tư và phát triển kinh tế. Tỉnh hiện có 11 KCN được quy hoạch với tổng diện tích hơn 3.000 ha, trong đó nhiều khu đã hoàn thiện hạ tầng hiện đại, đồng bộ như KCN Thăng Long II, Phố Nối A, Phố Nối B, Yên Mỹ, Minh Đức, Minh Quang... 
+
+Trong bối cảnh Việt Nam ngày càng khẳng định vị thế trên bản đồ kinh tế toàn cầu, Hưng Yên nổi lên như một điểm sáng thu hút các nhà đầu tư nước ngoài ([[FDI]]). Nhờ vị trí chiến lược, hạ tầng đồng bộ và chính sách thu hút đầu tư linh hoạt, tỉnh đang sẵn sàng đón nhận “làn sóng” đầu tư FDI mạnh mẽ, góp phần thúc đẩy kinh tế địa phương phát triển bền vững. Tính đến cuối năm 2024, Hưng Yên đã đăng ký 613 dự án FDI, với tổng vốn đạt gần 8,5 tỷ USD, trong đó Nhật Bản đóng góp lớn nhất (~ 3,8 tỷ USD), Hàn Quốc (~ 1,4 tỷ USD) và Trung Quốc (~ 1,3 tỷ USD).<ref>[https://en.qdnd.vn/economy/news/hung-yen-attracts-1-4-billion-usd-in-foreign-direct-investment-in-2024-573578 Hung Yen attracts 1.4 billion USD in foreign direct investment in 2024]</ref>
+
+Theo Quyết định 489/2024 của Thủ tướng, tỉnh có kế hoạch phát triển 35 KCN với quy mô hơn 12.000 ha, trong đó 12 khu đã được xây dựng với tổng diện tích khoảng 3.123 ha, 10 KCN đang hoạt động và tiếp nhận dự án thứ cấp, khoảng 2.500 ha đất công nghiệp sẵn sàng cho thuê.<ref>[https://tuyengiao.hungyen.dcs.vn/hung-yen-phat-trien-khu-cong-nghiep-thu-hut-dau-tu-c236034.html Hưng Yên phát triển khu công nghiệp, thu hút đầu tư]</ref>
+
+===Nông nghiệp, chăn nuôi và thủy sản===
+[[Tập tin:Nhan long hung yen.jpg|nhỏ|trái|Đặc sản [[nhãn lồng]] Hưng Yên]]
+[[Nông nghiệp]] của tỉnh Hưng Yên đóng vai trò quan trọng trong phát triển kinh tế - xã hội, mặc dù tỷ trọng trong cơ cấu kinh tế chỉ chiếm khoảng 6 - 7%. Với điều kiện tự nhiên thuận lợi, đất đai màu mỡ, hệ thống sông ngòi dày đặc, Hưng Yên phát triển nền nông nghiệp đa dạng và hiệu quả, nổi bật với các vùng chuyên canh trồng lúa, rau, cây ăn quả (nhãn, vải, chuối, ổi, cam, bưởi...) hay cây cảnh (hoa, quất, cam, bưởi...). Đặc biệt, [[nhãn lồng]] Hưng Yên từ lâu đã trở thành món đặc sản, là sản vật "tiến vua" có thương hiệu nổi tiếng cả nước và xuất khẩu ra nước ngoài.
+[[Tập tin:Quat_canh_hung_yen.jpg|nhỏ|Vườn trồng quất cảnh ở huyện [[Khoái Châu]]]]
+[[Tập tin:Vuon_hoa_van_giang.jpg|nhỏ|Vườn trồng hoa và cây cảnh ở huyện [[Văn Giang]]]]
+
+Về cây trồng, diện tích gieo cấy lúa là 48.976 ha với năng suất trung bình đạt hơn 59,3 tạ/ha, mặc dù giảm so với kế hoạch (94,2%) và thấp hơn năm 2023.<ref name="Sản xuất nông nghiệp vượt khó.">{{Chú thích web|url=https://baohungyen.vn/san-xuat-nong-nghiep-vuot-kho-3178263.html|tựa đề=Sản xuất nông nghiệp vượt khó|tác giả=Đào Ban|ngày=2025-01-01|website=Báo Hưng Yên}}</ref> Đáng chú ý, tổng diện tích cây ăn quả đạt 15.381 ha, bao gồm nhãn (5.000 ha, sản lượng 40 - 45 nghìn tấn), vải (1.300 ha, 17 nghìn tấn), chuối (2.500 ha, 50 - 70 nghìn tấn) và cam, bưởi với sản lượng từ 27 nghìn tấn trở lên.<ref name="Thu hút đầu tư lĩnh vực sản xuất, chế biến nông sản.">{{Chú thích web|url=https://baohungyen.vn/thu-hut-dau-tu-linh-vuc-san-xuat-che-bien-nong-san-3178106.html|tựa đề=Thu hút đầu tư lĩnh vực sản xuất, chế biến nông sản|tác giả=Đào Ban|ngày=2024-12-26|website=Báo Hưng Yên}}</ref>
+
+Về [[chăn nuôi]] gia súc, gia cầm của tỉnh cũng phát triển mạnh, góp phần nâng cao thu nhập cho người dân. Với đàn lợn đạt khoảng 520.000 con, gia cầm 9,4 triệu con, trâu bò 36.000 con; toàn tỉnh đạt sản lượng thịt hơi hơn 157,7 nghìn tấn và trứng trên 483 triệu quả.<ref name="Thu hút đầu tư lĩnh vực sản xuất, chế biến nông sản.">{{Chú thích web|url=https://baohungyen.vn/thu-hut-dau-tu-linh-vuc-san-xuat-che-bien-nong-san-3178106.html|tựa đề=Thu hút đầu tư lĩnh vực sản xuất, chế biến nông sản|tác giả=Đào Ban|ngày=2024-12-26|website=Báo Hưng Yên}}</ref>
+
+Trong [[thủy sản]], diện tích nuôi trồng khoảng 5.200 - 5.750 ha, với sản lượng đạt hơn 50 - 55 nghìn tấn; đến cuối năm 2024, quy mô nuôi chuyển từ hộ cá nhân sang mô hình hợp tác, ứng dụng kỹ thuật nuôi lồng bè, ao bán nổi nhằm nâng cao hiệu quả.<ref name="Nông nghiệp Hưng Yên hướng tới sản xuất hàng hóa theo chuỗi giá trị, hiệu quả và an toàn.">{{Chú thích web|url=https://nhandan.vn/nong-nghiep-hung-yen-huong-toi-san-xuat-hang-hoa-theo-chuoi-gia-tri-hieu-qua-va-an-toan-post755592.html|tựa đề=Nông nghiệp Hưng Yên hướng tới sản xuất hàng hóa theo chuỗi giá trị, hiệu quả và an toàn|tác giả=Phạm Hà|ngày=2023-06-01|website=Báo Nhân Dân}}</ref>
+
+Trong những năm gần đây, ngành nông nghiệp tỉnh đã đẩy mạnh ứng dụng khoa học kỹ thuật, chuyển đổi cơ cấu cây trồng vật nuôi, phát triển theo hướng “Mỗi xã một sản phẩm” (OCOP) và sản xuất theo chuỗi giá trị và [[VietGAP]], với hơn 3.100 ha rau củ quả áp dụng VietGAP, 198 mô hình cánh đồng lớn gần 3.500 ha, và chuyển đổi hơn 1.200 ha đất trồng kém hiệu quả sang cây lâu năm giá trị cao, từng bước nâng cao giá trị sản xuất và xây dựng thương hiệu cho nông sản địa phương.<ref name="Nông nghiệp Hưng Yên hướng tới sản xuất hàng hóa theo chuỗi giá trị, hiệu quả và an toàn.">{{Chú thích web|url=https://nhandan.vn/nong-nghiep-hung-yen-huong-toi-san-xuat-hang-hoa-theo-chuoi-gia-tri-hieu-qua-va-an-toan-post755592.html|tựa đề=Nông nghiệp Hưng Yên hướng tới sản xuất hàng hóa theo chuỗi giá trị, hiệu quả và an toàn|tác giả=Phạm Hà|ngày=2023-06-01|website=Báo Nhân Dân}}</ref> Tuy nhiên, tỷ lệ sản phẩm đạt chuẩn VietGAP chỉ chiếm khoảng 30 - 40% sản lượng và còn hạn chế trong khâu chế biến, liên kết giữa doanh nghiệp và nông dân.<ref name="Thu hút đầu tư lĩnh vực sản xuất, chế biến nông sản.">{{Chú thích web|url=https://baohungyen.vn/thu-hut-dau-tu-linh-vuc-san-xuat-che-bien-nong-san-3178106.html|tựa đề=Thu hút đầu tư lĩnh vực sản xuất, chế biến nông sản|tác giả=Đào Ban|ngày=2024-12-26|website=Báo Hưng Yên}}</ref>
+
+Năm 2024, ngành nông nghiệp và thủy sản của Hưng Yên đạt giá trị sản xuất khoảng 14.053 tỷ đồng, giảm 1,55% so với năm 2023 - trong đó nông nghiệp đạt 12.237 tỷ đồng (giảm 1,6%) và thủy sản đạt 1.571 tỷ đồng (giảm 0,8%).<ref name="Sản xuất nông nghiệp vượt khó.">{{Chú thích web|url=https://baohungyen.vn/san-xuat-nong-nghiep-vuot-kho-3178263.html|tựa đề=Sản xuất nông nghiệp vượt khó|tác giả=Đào Ban|ngày=2025-01-01|website=Báo Hưng Yên}}</ref> Dù gặp bất lợi do thiên tai như bão gây ngập úng gần 19.000 ha cây trồng và nhiều lồng bè, các biện pháp kỹ thuật và cơ chế hỗ trợ đã giúp tỉnh Hưng Yên phục hồi sản xuất nhanh chóng.
+
+===Thương mại và dịch vụ===
+[[Tập tin:Vcm mega mall ocean city.jpg|nhỏ|350x350px|phải|Vincom Mega Mall Ocean City (Hưng Yên)]]
+Để định hướng phát triển hệ thống hạ tầng thương mại theo quy hoạch, tỉnh đã thu hút, tạo điều kiện cho các doanh nghiệp đầu tư xây dựng các trung tâm thương mại, siêu thị, chợ đầu mối nông sản ở các địa phương trong tỉnh, nổi bật là các dự án Trung tâm thương mại Vincom Mega Mall Ocean City, Trung tâm thương mại GO! Hưng Yên, Trung tâm thương mại Như Quỳnh Center, Trung tâm hội nghị Lam Sơn, Chợ đầu mối nông sản sông Hồng...
+
+Trong 6 tháng đầu năm 2024, tổng mức bán lẻ hàng hóa và doanh thu dịch vụ tiêu dùng toàn tỉnh đạt trên 51,7 nghìn tỷ đồng. Trong đó, doanh thu bán lẻ hàng hóa đạt trên 16,5 nghìn tỷ đồng; doanh thu dịch vụ lưu trú, ăn uống đạt trên 1,4 nghìn tỷ đồng; doanh thu dịch vụ du lịch và lữ hành đạt 34 tỷ đồng; còn lại là doanh thu các ngành dịch vụ khác. Kim ngạch xuất khẩu đạt 3.250 triệu USD.<ref>[https://hungyen.dcs.vn/phat-trien-thuong-mai-dich-vu-theo-quy-hoach-c219681.html Hưng Yên: Phát triển thương mại – dịch vụ theo quy hoạch]</ref>
+
+Về [[thương mại điện tử]] (TMÐT) và kinh tế số, năm 2024, chỉ số TMĐT của tỉnh Hưng Yên vượt lên đứng thứ 10/58, tăng 2 bậc so với năm 2023. Các hoạt động xúc tiến thương mại của tỉnh cũng được sở kết hợp ứng dụng TMÐT nhằm quảng bá nông sản đặc trưng của tỉnh đến gần hơn với khách hàng. Tỉ lệ dân số trong tỉnh tham gia mua sắm trực tuyến đạt 55%; tỉ lệ thanh toán không dùng tiền mặt trong TMÐT đạt 55%; tỉ lệ giao dịch mua hàng trên website hoặc ứng dụng TMÐT có hóa đơn điện tử đạt 70%; tỉ lệ xã và các đơn vị hành chính tương đương có thương nhân thực hiện hoạt động bán hàng hoặc cung ứng dịch vụ trực tuyến đạt 90%.<ref>[https://hungyen.dcs.vn/nang-hang-chi-so-thuong-mai-dien-tu-c223534.html Hưng Yên: Nâng hạng chỉ số thương mại điện tử]</ref>
+
+===Tăng trưởng===
+Năm 2022, Hưng Yên có quy mô [[GRDP]] đạt 132.176 tỉ [[Đồng (đơn vị tiền tệ)|đồng]], GRDP bình quân đầu người đạt 102,3 triệu đồng/người tương ứng với 4.396 USD (xếp thứ 12 cả nước và thứ 6 khu vực Bắc Bộ), tốc độ tăng trưởng GRDP trung bình hàng năm giai đoạn 2011-2020 trên 7,5%.<ref name=":06">{{Chú thích web|url=http://hungyen.gov.vn/portal/VanBan/2019-12/4fd485c584138fdd215_signed.pdf|title=Tình hình kinh tế, xã hội Hưng Yên năm 2018|tác giả=|last=|first=|date=|website=Cục Thống kê tỉnh Hưng Yên|archive-url=|archive-date=|url-status=|access-date=Ngày 12 tháng 10 năm 2019}}{{Liên kết hỏng|date=2025-05-27 |bot=InternetArchiveBot }}</ref> Năm 2022, tăng trưởng GRDP đạt 13,4%, đứng thứ 5 toàn quốc.<ref>{{Chú thích web|url=https://consosukien.vn/tong-cuc-thong-ke-lam-viec-voi-ubnd-tinh-hung-yen.htm|tựa đề=tình hình phát triển kinh tế xã hội năm 2022|website=|ngôn ngữ=en|url-status=live|ngày truy cập=2022-08-02}}</ref>
+
+[[Tập tin:Cau_dong_tay_vhm_ocean_park_3_2.jpg|nhỏ|350x350px|trái|Cầu Đông Tây Mega Grand World]]
+Năm 2024, kinh tế tỉnh Hưng Yên tiếp tục đà phát triển vững mạnh bất chấp những khó khăn từ thiên tai như [[Bão Yagi (2024)|bão Yagi]] và mưa lũ; GRDP tăng 7,7% so với năm trước, cơ cấu kinh tế chuyển dịch mạnh mẽ: công nghiệp - xây dựng chiếm khoảng 62,7%, nông‑lâm‑thủy sản 6,7%, thương mại‑dịch vụ 24,9% và thuế sản phẩm 5,8%. Bình quân GRDP đầu người đạt 121,27 triệu đồng (tăng gần 8,8 triệu đồng so với năm 2023). Tổng vốn đầu tư phát triển đạt 75.200 tỷ đồng, tăng 10,03%. Thu ngân sách Nhà nước trên địa bàn tỉnh đạt 40.477 tỷ đồng, tăng 24,8% so với năm 2023 và đạt 123,32% kế hoạch năm, trong đó nội địa 35.811 tỷ và xuất‑nhập khẩu 4.666 tỷ đồng, vượt 23 - 26% so với kế hoạch. Quy mô nền kinh tế của tỉnh đạt 159.844 tỷ đồng, là một trong những tỉnh có mật độ kinh tế cao của vùng và của cả nước, đạt 172 tỷ đồng/km².<ref>[https://baohungyen.vn/hung-yen-nam-2024-thu-ngan-sach-nha-nuoc-dat-tren-40-000-ty-dong-3178331.html Hưng Yên: Năm 2024, thu ngân sách Nhà nước đạt trên 40.000 tỷ đồng]</ref>
+
+Đây là những minh chứng rõ ràng cho thấy Hưng Yên không chỉ giữ vững ổn định kinh tế vĩ mô mà còn tăng trưởng nhanh về quy mô, năng suất lao động, nguồn thu ngân sách và đổi mới môi trường đầu tư - nền tảng quan trọng để địa phương này hướng đến mục tiêu tăng trưởng 8% năm 2025.
+
+==Xã hội==
+===Dân cư===
+Tính đến ngày 31 tháng 12 năm 2021, tỉnh Hưng Yên có diện tích là 930,20km², dân số đạt 1.284,600 người. Dân số thành thị là 213.600 người (16,63%), dân số nông thôn là 1.071.000 người (83,37%). Dân số nam là 644.100 người, dân số nữ là 640.400 người.<ref name="HUNGYEN2020" />
+
+Năm 2024, Hưng Yên có dân số toàn tỉnh đạt khoảng 1.313.800 người, theo kết quả Tổng điều tra dân số giữa kỳ tính đến ngày 1 tháng 4 năm 2024. Trong đó, khu vực đô thị chiếm khoảng 250.000 người, còn lại hơn 1.060.000 người sống ở nông thôn. Tỉnh nằm trong top 28 tỉnh có quy mô dân số lớn (chiếm khoảng 1,3% dân số cả nước) , với mật độ dân số cao - khoảng 1.412 người/km², đứng thứ 4 cả nước.<ref>[https://baocaovien.vn/tin-tuc/lich-su-tinh-hung-yen-manh-dat-phu-sa-mau-mo-dam-truyen-thong-van-hoa/199272.html Lịch sử tỉnh Hưng Yên - mảnh đất phù sa màu mỡ, đậm truyền thống văn hóa]</ref>
+
+Về cơ cấu dân số, đồng bào [[Người Việt|Kinh]] chiếm áp đảo với tỷ lệ lên tới 99,15%, phần nhỏ còn lại gồm một số dân tộc thiểu số như Tày, Thái, Mường… (mỗi nhóm dưới 0,3%). Tỷ lệ tăng dân số tự nhiên và di cư giữ ở mức ổn định, tăng trưởng dân số bình quân ~0,98%, với tỷ số giới tính khoảng 100,9 nam trên 100 nữ.<ref>[https://danso.info/en/dan-so-hung-yen/ Hung Yen population (old)]</ref> Về lao động, tỉnh có hơn 51% dân số trong độ tuổi lao động, trong đó khoảng 57.000 lao động trẻ, có trình độ cao, và khoảng 25% người lao động được đào tạo, qua đó cung cấp nguồn nhân lực cho khu công nghiệp và dịch vụ địa phương.
+
+===Hành chính===
+Tỉnh Hưng Yên chia thành 104 đơn vị hành chính cấp xã, gồm 11 phường và 93 xã.<ref name="1248/NQ-UBTVQH15">{{Chú thích web |tác giả= |ngày=2024-10-24 |tựa đề=Công văn 2896 BNV CQĐP 2025 cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã |url=https://danh-muc-cap-xa.pdf |website=}}</ref>
+
+{|cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+!colspan="3" style="background: #E6E6FA; font-size: 95%;" | Danh sách các đơn vị hành chính trực thuộc tỉnh Hưng Yên
+|-
+| valign="top" |
+| valign="top" |
+| valign="top" |
+|-
+| valign="top" width="50%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" style="background: #f9f9f9; font-size: 90%; text-align: right;" width="100%"
+|-
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" | Tên
+|'''Diện tích (km²)'''
+! style="border-bottom: 2px solid #CCCCFF;" |Dân số năm 2025 (người)
+!Mật độ dân số (người/km²)
+|-
+| colspan="4" align="left" style="background: #F5F5DC; padding-left: 30px;" | '''Phường (11)'''
+|-
+| align="left" |Phố Hiến
+|21,50
+|68.982
+| align="right" |3.208
+|-
+| align="left" |Sơn Nam 
+|23,62
+|30.471 
+| align="right" |1.290
+|-
+| align="left" |Hồng Châu
+|15,41
+|18.714
+| align="right" |1.214
+|-
+| align="left" |Mỹ Hào
+|28,36
+|57.676
+| align="right" |2.034
+|-
+| align="left" |Đường Hào
+|25,62
+|39.028
+| align="right" |1.523
+|-
+| align="left" |Thượng Hồng
+|25,61
+|37.153
+| align="right" |1.451
+|-
+| align="left" |Thái Bình
+|28,03
+|67.922
+| align="right" |2.423
+|-
+| align="left" |Trần Lãm
+|34,63
+|92.136
+| align="right" |2.661
+|-
+| align="left" |Trần Hưng Đạo
+|9,32
+|45.657
+| align="right" |4.899
+|-
+| align="left" |Trà Lý
+|20,94
+|43.929
+| align="right" |2.098
+|-
+| align="left" |Vũ Phúc
+|35,50
+|51.837
+| align="right" |1.460
+|-
+| colspan="4" align="left" style="background: #F5F5DC; padding-left: 30px;" | '''Xã (93)'''
+|-
+| align="left" | Tân Hưng 
+|19,20
+|27.118 
+| align="right" |1.412
+|-
+| align="left" |Hoàng Hoa Thám
+|31,85
+|46.868
+| align="right" |1.472
+|-
+| align="left" |Tiên Lữ
+|19,51
+|27.405
+| align="right" |1.405
+|-
+| align="left" |Tiên Hoa
+|21,65
+|26.152
+| align="right" |1.208
+|-
+| align="left" |Quang Hưng
+|25,73
+|29.462
+| align="right" |1.145
+|-
+| align="left" |Đoàn Đào
+|22,39
+|22.781
+| align="right" |1.017
+|-
+| align="left" |Tiên Tiến
+|25,80
+|28.936
+| align="right" |1.122
+|-
+| align="left" |Tống Trân
+|20,73
+|19.937
+| align="right" |962
+|-
+| align="left" |Lương Bằng
+|29,08
+|39.420
+| align="right" |1.356
+|-
+| align="left" |Nghĩa Dân
+|23,29
+|34.669
+| align="right" |1.489
+|-
+| align="left" |Hiệp Cường
+|28,37
+|32.364
+| align="right" |1.141
+|-
+| align="left" |Đức Hợp
+|22,37
+|29.424
+| align="right" |1.315
+|-
+| align="left" |Ân Thi
+|24,39
+|30.582
+| align="right" |1.254
+|-
+| align="left" |Xuân Trúc
+|20,04
+|25.770
+| align="right" |1.286
+|-
+| align="left" |Phạm Ngũ Lão
+|29,32
+|37.053
+| align="right" |1.264
+|-
+| align="left" |Nguyễn Trãi
+|30,68
+|31.648
+| align="right" |1.032
+|-
+| align="left" |Hồng Quang
+|25,53
+|31.590
+| align="right" |1.237
+|-
+| align="left" |Khoái Châu
+|29,35
+|48.795
+| align="right" |1.663
+|-
+| align="left" |Triệu Việt Vương
+|27,15
+|44.554
+| align="right" |1.641
+|-
+| align="left" |Việt Tiến
+|20,18
+|35.161
+| align="right" |1.742
+|-
+| align="left" |Chí Minh
+|20,73
+|35.259
+| align="right" |1.701
+|-
+| align="left" |Châu Ninh
+|22,22
+|36.218
+| align="right" |1.630
+|-
+| align="left" |Yên Mỹ
+|33,12
+|75.876
+| align="right" |2.291
+|-
+| align="left" |Việt Yên
+|23,99
+|43.502
+| align="right" |1.813
+|-
+| align="left" |Hoàn Long
+|19,60
+|32.997
+| align="right" |1.684
+|-
+| align="left" |Nguyễn Văn Linh
+|20,90
+|47.867
+| align="right" |2.290
+|-
+| align="left" |Như Quỳnh
+|27,32
+|77.703
+| align="right" |2.844
+|-
+| align="left" |Lạc Đạo
+|22,22
+|42.213
+| align="right" |1.900
+|-
+| align="left" |Đại Đồng
+|25,68
+|32.724
+| align="right" |1.274
+|-
+| align="left" |Nghĩa Trụ
+|22,80
+|46.561
+| align="right" |2.042
+|-
+| align="left" |Phụng Công
+|14,62
+|31.524
+| align="right" |2.156
+|-
+| align="left" |Văn Giang
+|22,96
+|40.599
+| align="right" |1.768
+|-
+| align="left" |Mễ Sở
+|17,51
+|30.138
+| align="right" |1.721
+|-
+| align="left" |Thái Thuỵ
+|35,50
+|51.837
+| align="right" |1.460
+|-
+| align="left" |Đông Thuỵ Anh
+|34,90
+|38.299
+| align="right" |1.097
+|-
+| align="left" |Bắc Thuỵ Anh
+|17,38
+|19.194
+| align="right" |1.104
+|-
+| align="left" |Thuỵ Anh
+|20,07
+|23.489
+| align="right" |1.170
+|-
+| align="left" |Nam Thuỵ Anh
+|17,40
+|22.260
+| align="right" |1.279
+|-
+| align="left" |Bắc Thái Ninh
+|23,12
+|17.908
+| align="right" |775
+|-
+| align="left" |Thái Ninh
+|27,57
+|31.269
+| align="right" |1.134
+|-
+| align="left" |<nowiki>[[Đông Thái Ninh]]</nowiki>
+|31,08
+|27.130
+| align="right" |873
+|-
+| align="left" |Nam Thái Ninh
+|26,40
+|19.959
+| align="right" |756
+|-
+| align="left" |Tây Thái Ninh
+|16,56
+|17.388
+| align="right" |1.050
+|-
+| align="left" |Tây Thuỵ Anh
+|16,68
+|16.565
+| align="right" |993
+|}
+| valign="top" width="50%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" style="background: #f9f9f9; font-size: 90%; text-align: right;" width="100%"
+|-
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" | Tên
+|'''Diện tích (km²)'''
+! style="border-bottom: 2px solid #CCCCFF;" | Dân số năm 2025 (người)
+!Mật độ dân số (người/km²)
+|-
+| align="left" | Tiền Hải 
+|32,99
+|42.707 
+| align="right" |1.295
+|-
+| align="left" |Tây Tiền Hải
+|17,56
+|25.235
+| align="right" |1.437
+|-
+| align="left" |Ái Quốc 
+|14,98
+|16.704 
+| align="right" |1.115
+|-
+| align="left" |Đồng Châu
+|30,67
+|30.501
+| align="right" |994
+|-
+| align="left" | Đông Tiền Hải 
+|38,64
+|37.027 
+| align="right" |958
+|-
+| align="left" |Nam Cường
+|28,77
+|37.759
+| align="right" |1.312
+|-
+| align="left" |Hưng Phú
+|45,08
+|25.802
+| align="right" |572
+|-
+| align="left" |Nam Tiền Hải
+|22,62
+|30.698
+| align="right" |1.357
+|-
+| align="left" |Quỳnh Phụ
+|31,68
+|51.820
+| align="right" |1.636
+|-
+| align="left" |Minh Thọ
+|22,11
+|24.659
+| align="right" |1.115
+|-
+| align="left" |Nguyễn Du
+|16,75
+|22.374
+| align="right" |1.336
+|-
+| align="left" |Quỳnh An
+|26,00
+|35.570
+| align="right" |1.368
+|-
+| align="left" |Ngọc Lâm
+|19,82
+|24.482
+| align="right" |1.235
+|-
+| align="left" |Đồng Bằng
+|20,04
+|25.000
+| align="right" |1.248
+|-
+| align="left" |A Sào
+|20,46
+|27.967
+| align="right" |1.367
+|-
+| align="left" |Phụ Dực
+|33,16
+|42.522
+| align="right" |1.282
+|-
+| align="left" |Tân Tiến 
+|19,66
+|23.123
+| align="right" |1.176
+|-
+| align="left" |Hưng Hà
+|38,93
+|54.891
+| align="right" |1.410
+|-
+| align="left" |Tiên La
+|22,54
+|32.805
+| align="right" |1.455
+|-
+| align="left" |Lê Quý Đôn
+|21,72
+|23.534
+| align="right" |1.084
+|-
+| align="left" |Hồng Minh
+|23,32
+|24.579
+| align="right" |1.054
+|-
+| align="left" |Thần Khê
+|20,39
+|29.648
+| align="right" |1.454
+|-
+| align="left" |Diên Hà
+|27,30
+|40.167
+| align="right" |1.471
+|-
+| align="left" |Ngự Thiên
+|22,41
+|31.109
+| align="right" |1.388
+|-
+| align="left" |Long Hưng
+|33,67
+|48.593
+| align="right" |1.443
+|-
+| align="left" |Đông Hưng
+|24,95
+|49.134
+| align="right" |1.969
+|-
+| align="left" |Bắc Tiên Hưng
+|28,03
+|40.641
+| align="right" |1.450
+|-
+| align="left" |Đông Tiên Hưng
+|16,32
+|23.495
+| align="right" |1.440
+|-
+| align="left" |Nam Đông Hưng
+|16,25
+|25.296
+| align="right" |1.557
+|-
+| align="left" |Bắc Đông Quan
+|20,67
+|25.263
+| align="right" |1.222
+|-
+| align="left" |Bắc Đông Hưng
+|20,84
+|23.729
+| align="right" |1.139
+|-
+| align="left" |Đông Quan
+|23,62
+|25.167
+| align="right" |1.065
+|-
+| align="left" |Nam Tiên Hưng
+|23,94
+|30.738
+| align="right" |1.284
+|-
+| align="left" |Tiên Hưng
+|22,41
+|26.172
+| align="right" |1.168
+|-
+| align="left" |Lê Lợi
+|21,39
+|25.505
+| align="right" |1.192
+|-
+| align="left" |Kiến Xương
+|36,73
+|47.950
+| align="right" |1.305
+|-
+| align="left" |Quang Lịch
+|14,92
+|18.832
+| align="right" |1.262
+|-
+| align="left" |Vũ Quý
+|15,09
+|27.127
+| align="right" |1.798
+|-
+| align="left" |Bình Thanh
+|22,37
+|24.517
+| align="right" |1.096
+|-
+| align="left" |Bình Định
+|24,47
+|22.133
+| align="right" |904
+|-
+| align="left" |Hồng Vũ
+|18,77
+|23.172
+| align="right" |1.235
+|-
+| align="left" |Bình Nguyên
+|17,21
+|19.268
+| align="right" |1.120
+|-
+| align="left" |Trà Giang
+|21,31
+|19.144
+| align="right" |898
+|-
+| align="left" |Vũ Thư
+|29,07
+|43.920
+| align="right" |1.511
+|-
+| align="left" |Thư Trì
+|20,97
+|27.218
+| align="right" |1.298
+|-
+| align="left" |Tân Thuận
+|22,11
+|29.462
+| align="right" |1.333
+|-
+| align="left" |Thư Vũ
+|24,99
+|35.540
+| align="right" |1.422
+|-
+| align="left" |Vũ Tiên
+|32,68
+|37.469
+| align="right" |1.147
+|-
+| align="left" |Vạn Xuân
+|30,36
+|36.551
+| align="right" |1.204
+|}
+| valign="top" style="background: #f9f9f9; font-size: 90%" |
+|-
+| colspan="14" style="text-align: center; font-size:90%;" |''Nguồn: Dân số tỉnh Hưng Yên năm 2025<ref name="HUNGYEN2020">{{Chú thích web|url=https://www.gso.gov.vn/bai-top/2022/08/nien-giam-thong-ke-2021-2/|tựa đề=niên giám thống kê Việt Nam 2021|ngày=1 tháng 8 năm 2022|website=Tổng Cục Thống Kê|url-status=live}}</ref>''
+|}
+
+===Tôn giáo===
+[[Tập tin:Nha tho bac trach.jpg|nhỏ|phải|[[Nhà thờ Bác Trạch]]]]
+
+Tính đến ngày [[1 tháng 4]] năm [[2019]], toàn tỉnh có 40.858 người theo tôn giáo với 5 [[tôn giáo]] khác nhau, nhiều nhất là [[Công giáo tại Việt Nam|Công giáo]] có 26.226 người, tiếp theo là [[Phật giáo Việt Nam|Phật giáo]] có 4.556 người. Còn lại các tôn giáo khác như [[Kháng Cách|đạo Tin Lành]] có 72 người, [[Hồi giáo tại Việt Nam|Hồi giáo]] có 3 người và [[Phật giáo Hòa Hảo]] có 1 người.<ref name="dstcdtvn">[http://www.gso.gov.vn/Modules/Doc_Download.aspx?DocID=12724 Kết quả toàn bộ Tổng điều tra Dân số và Nhà ở Việt Nam năm 2009], Tổng cục Thống kê Việt Nam.</ref>
+
+===Giáo dục===
+
+Tính đến năm 2024, toàn tỉnh có 486 trường ở các cấp học, trong đó 398 trường đạt chuẩn quốc gia (~ 82%) và 78 trường kiểm định chất lượng giáo dục. Hưng Yên đặc biệt chú trọng giáo dục mũi nhọn và giáo dục toàn diện, với nhiều học sinh đạt giải cao trong các kỳ thi học sinh giỏi cấp quốc gia. Năm 2024, tỉnh có 60/90 thí sinh dự thi đạt giải trong kỳ thi chọn học sinh giỏi quốc gia, tỉ lệ học sinh đỗ tốt nghiệp THPT của tỉnh Hưng Yên là 99,53%.<ref>{{Chú thích báo |title=Triển khai nhiệm vụ năm học 2024 - 2025 |url=https://hungyen.gov.vn/trien-khai-nhiem-vu-nam-hoc-2024-2025-c28814.html |archive-url=http://web.archive.org/web/20250623233658/https://hungyen.gov.vn/trien-khai-nhiem-vu-nam-hoc-2024-2025-c28814.html |archive-date=2025-06-23 |access-date=2025-06-29}}</ref>  Tỉnh còn đẩy mạnh công tác phổ cập giáo dục, xây dựng trường học thông minh và số hóa giáo dục với hệ thống trường, lớp học được đầu tư đồng bộ, hiện đại, chuẩn hóa, đáp ứng tốt nhu cầu giảng dạy và học tập, góp phần nâng cao chất lượng nguồn nhân lực cho địa phương và đất nước.
+[[Tập tin: Truong dh spkt hung yen.jpg|nhỏ||[[Trường Đại học Sư phạm Kỹ thuật Hưng Yên]]]]
+[[Tập tin: Truong dai hoc chu van an.jpg|nhỏ|[[Trường Đại học Chu Văn An]]]]
+
+Bên cạnh hệ thống giáo dục phổ thông, tỉnh còn là nơi đặt trụ sở của nhiều cơ sở và chi nhánh đào tạo đại học và cao đẳng như:
+
+* [[Trường Đại học Sư phạm Kỹ thuật Hưng Yên]]
+* [[Đại học Bách Khoa Hà Nội]] (cơ sở Hưng Yên)
+* [[Trường Đại học Mở Hà Nội]] (cơ sở Hưng Yên)
+* [[Trường Đại học Thủy lợi|Trường Đại học Thủy Lợi]] (cơ sở Hưng Yên)
+* [[Trường Đại học Y Dược Thái Bình]]
+* [[Trường Đại học Tài chính – Quản trị kinh doanh]]
+* [[Trường Đại học Anh Quốc Việt Nam]]
+* Trường Đại học Y khoa Tokyo Việt Nam
+* [[Trường Đại học Thái Bình]]
+* [[Trường Đại học Chu Văn An]]
+* [[Trường Cao đẳng Văn hóa Nghệ thuật Thái Bình]]
+* [[Cao đẳng Y tế Thái Bình|Trường Cao đẳng Y tế Thái Bình]]
+* Trường Hải quan Việt Nam
+
+[[Trường Đại học Sư phạm Kỹ thuật Hưng Yên]] là một trong những đội tuyển Robocon thường xuyên góp mặt trong trận chung kết và đạt thành tích cao tại các cuộc thi trong nước và quốc tế. Đây là một sân chơi truyền thống, nơi sinh viên thể hiện kỹ năng lập trình, chế tạo, cơ khí và áp dụng trí tuệ nhân tạo vào robot. Đặc biệt, năm 2015, đội tuyển của trường đã giành chức vô địch [[Việt Nam tại Robocon|Robocon Việt Nam]] (lần đầu, lần thứ 2 vào năm 2024) để giành vé đại diện cho Việt Nam tham dự vòng chung kết [[ABU Robocon|Robocon Châu Á Thái Bình Dương]] 2015 tại [[Indonesia]], nơi họ trở thành quán quân để mang chức vô địch lần thứ 5 về cho Việt Nam.
+
+===Y tế===
+Đến năm 2024, toàn tỉnh có 2 bệnh viện đa khoa, 6 bệnh viện chuyên khoa cấp tỉnh, 10 trung tâm y tế cấp huyện và 155 trạm y tế xã, phường, thị trấn. Tính đến hết năm 2023, 100% trạm y tế xã thực hiện tối thiểu 90% kỹ thuật tuyến cơ sở, góp phần nâng cao chất lượng chăm sóc sức khỏe ban đầu cho người dân; tỷ lệ người dân tham gia [[bảo hiểm y tế]] đạt gần 94%, giúp giảm gánh nặng chi phí khám chữa bệnh; tỷ lệ suy dinh dưỡng thể thấp còi của trẻ em dưới 5 tuổi đạt dưới 19,4%; tuổi thọ trung bình đạt 75,50 tuổi; tổng tỷ suất sinh đạt 2,3 con/1 phụ nữ trong độ tuổi sinh đẻ; duy trì mức sinh thay thế, tỷ lệ tăng dân số tự nhiên 0,63%; tỷ lệ khám sức khỏe định kỳ cho người cao tuổi đạt 85%.<ref name="Hưng Yên tăng cường bảo vệ, chăm sóc sức khỏe nhân dân">{{Chú thích web|url=https://nhandan.vn/hung-yen-tang-cuong-bao-ve-cham-soc-suc-khoe-nhan-dan-post832935.html|tựa đề=Hưng Yên tăng cường bảo vệ, chăm sóc sức khỏe nhân dân|tác giả=Phạm Hà|ngày=2024-09-24|website=Báo Nhân Dân}}</ref>
+[[Tập tin:Benh vien da khoa tinh hung yen.jpg|nhỏ|Bệnh viện Đa khoa tỉnh Hưng Yên]]
+Năm 2024, UBND tỉnh Hưng Yên cũng đã ký kết hợp tác chuyển giao kỹ thuật chuyên sâu và hỗ trợ y tế với [[Bệnh viện Bạch Mai]]; trong đó trọng tâm chuyển giao chuyên môn, kỹ thuật y học thực hành, bao gồm các lĩnh vực: Tim mạch; Tiết niệu và Lọc máu; Hồi sức cấp cứu, Xét nghiệm, Chống độc; Thần kinh, Cơ - xương khớp; Nội tiết, Tiêu hóa, Hô hấp, Dị ứng miễn dịch lâm sàng, Huyết học - Truyền máu, Phục hồi chức năng, Tâm thần, Ngoại khoa, Nhi khoa, Sản khoa, Dinh dưỡng, Truyền nhiễm, Chẩn đoán hình ảnh... Bệnh viện cam kết hỗ trợ ứng dụng công nghệ thông tin, chuyển đổi số và marketing; hỗ trợ, tư vấn dịch vụ y tế kỹ thuật cao; tư vấn, hỗ trợ thành lập và triển khai các dịch vụ y tế chất lượng cao tại các đơn vị y tế tỉnh Hưng Yên.<ref name="Hưng Yên tăng cường bảo vệ, chăm sóc sức khỏe nhân dân">{{Chú thích web|url=https://nhandan.vn/hung-yen-tang-cuong-bao-ve-cham-soc-suc-khoe-nhan-dan-post832935.html|tựa đề=Hưng Yên tăng cường bảo vệ, chăm sóc sức khỏe nhân dân|tác giả=Phạm Hà|ngày=2024-09-24|website=Báo Nhân Dân}}</ref>
+
+Tuy vậy, ngành Y tế của tỉnh vẫn phải đối mặt với một số vấn đề và hạn chế như tỷ lệ mất cân bằng giới tính khi sinh vẫn cao; đầu tư khoa học kỹ thuật và quản lý nhân lực tại tuyến cơ sở chưa tương xứng; thiếu nguồn nhân lực đội ngũ bác sĩ chuyên sâu thuộc các chuyên ngành; thiếu thuốc, vật tư y tế trong khám, điều trị. Để khắc phục những vấn đề này, tỉnh Hưng Yên cần tiếp tục nâng cao công tác chỉ đạo - điều hành; nâng cao chất lượng khám - chữa bệnh, chăm sóc sức khỏe cho nhân dân; nâng cao nhận thức về bình đẳng giới, dân số - kế hoạch hóa gia đình và chăm sóc sức khỏe sinh sản; đẩy mạnh phát triển nguồn nhân lực; tiếp tục củng cố và hoàn thiện tổ chức mạng lưới y tế các tuyến; đầu tư nâng cao năng lực hệ thống y tế, ưu tiên phát triển mạng lưới y tế cơ sở…
+
+==Văn hóa và Du lịch==
+===Lễ hội===
+* '''Lễ hội [[Chử Đồng Tử]] - [[Tiên Dung]]''', còn gọi là Lễ hội Đền Đa Hòa - Dạ Trạch, là một trong 16 lễ hội lớn nhất cả nước và đã được ghi danh là [[di sản văn hóa phi vật thể]] quốc gia. Lễ hội được tổ chức 3 năm một lần vào các ngày 10 đến 12 tháng Hai âm lịch tại hai địa điểm chính: Đền Đa Hòa (xã [[Bình Minh, Khoái Châu|Bình Minh]]) và Đền Dạ Trạch (xã [[Dạ Trạch]], huyện [[Khoái Châu]]). Sự kiện nhằm tôn vinh công lao của đức thánh [[Chử Đồng Tử]] - một trong [[tứ bất tử]] của [[tín ngưỡng Việt Nam]] và công chúa [[Tiên Dung]] - con gái [[Hùng Vương thứ 18]], đã có công giúp dân làng mở mang bờ cõi, chữa bệnh cứu người. Bên cạnh đó, lễ hội không chỉ ca ngợi tình yêu vĩnh cửu, thiêng liêng, vượt lên trên mọi hoàn cảnh mà còn đề cao những giá trị nhân văn sâu sắc như lòng hiếu thảo, đức độ, sự khoan dung và nhân ái trong cuộc sống.
+
+* '''Lễ hội Văn hóa dân gian [[Phố Hiến]]''', là một trong những sự kiện văn hoá lớn và lâu đời của tỉnh Hưng Yên, tổ chức hằng năm vào tháng Giêng âm lịch tại không gian di tích đặc biệt Phố Hiến như [[Văn miếu Xích Đằng]], Đền Mẫu, Đền Trần, Đền Thiên Hậu, Chùa Chuông... với sự tham gia của 17 xã, phường thuộc [[thành phố Hưng Yên]]. Lễ hội nhằm giới thiệu và quảng bá các nét đẹp về văn hóa của đất và người Phố Hiến xưa. Đồng thời, góp phần bảo tồn, phát huy các giá trị văn hóa của địa phương, đáp ứng nhu cầu hưởng thụ văn hóa tín ngưỡng, tâm linh, tham quan các di tích lịch sử - văn hóa, công trình kiến trúc nghệ thuật của người dân.
+
+* '''Lễ hội Đền Phù Ủng''', là một lễ hội truyền thống được tổ chức hàng năm từ ngày 11 đến ngày 13 tháng Giêng âm lịch tại xã [[Phù Ủng]], huyện [[Ân Thi]]. Lễ hội nhằm tưởng niệm và tri ân công lao to lớn của danh tướng [[Phạm Ngũ Lão]] - vị tướng kiệt xuất dưới triều nhà Trần, người đã lập nhiều chiến công trong hai cuộc [[Chiến tranh Nguyên Mông – Đại Việt|kháng chiến chống quân Mông - Nguyên]] lần thứ hai và thứ ba. Không chỉ mang ý nghĩa lịch sử sâu sắc, lễ hội còn góp phần giáo dục lòng yêu nước và tự hào dân tộc cho các thế hệ. Đền Phù Ủng - nơi diễn ra lễ hội đã được công nhận là di tích lịch sử - văn hóa cấp Quốc gia từ năm 1988.
+
+* '''Lễ hội Cầu mưa''', còn gọi là Lễ hội Tứ Pháp, được tổ chức từ ngày 6 đến ngày 8 tháng Ba âm lịch hàng năm tại xã [[Lạc Hồng (xã)|Lạc Hồng]], huyện [[Văn Lâm]]. Đây là lễ hội truyền thống tiêu biểu gắn với tín ngưỡng thờ [[Tứ Pháp]] (Pháp Vân, Pháp Vũ, Pháp Lôi và Pháp Điện) - những vị thần gắn liền với mưa gió, sấm chớp trong văn hóa nông nghiệp lúa nước. Được công nhận là [[di sản văn hóa phi vật thể]] quốc gia, lễ hội thể hiện lòng thành kính, biết ơn các vị thần đã che chở, phù hộ dân làng, đồng thời khẳng định nguồn cội và bản sắc văn hóa của cộng đồng làng xã. Thông qua các nghi lễ và hoạt động truyền thống, lễ hội truyền tải ước vọng về mưa thuận gió hòa, mùa màng tươi tốt, cuộc sống no ấm, đồng thời góp phần giáo dục thế hệ sau về đạo lý “uống nước nhớ nguồn”, “ăn quả nhớ người trồng cây”.
+
+* '''Lễ hội Đền Mẫu''', là một hoạt động văn hóa - tâm linh tiêu biểu trong quần thể di tích [[Phố Hiến]], được tổ chức hằng năm từ ngày 10 đến 15 tháng Ba âm lịch. Lễ hội nhằm tưởng niệm và tôn vinh [[Dương Quý Phi]] - người được nhân dân địa phương kính trọng và thờ phụng sau khi bà đến sinh sống tại vùng đất này dưới thời [[Trần Nhân Tông]]. Với giá trị lịch sử sâu sắc, lễ hội không chỉ phản ánh đời sống tín ngưỡng phong phú của người dân thành phố mà còn góp phần gìn giữ và phát huy bản sắc văn hóa truyền thống của địa phương.
+
+* '''Lễ hội Làng Nôm''', được tổ chức hàng năm từ ngày 10 đến 12 tháng Giêng âm lịch tại làng Nôm, xã [[Đại Đồng]], huyện [[Văn Lâm]]. Làng Nôm là một ngôi làng cổ tiêu biểu còn giữ được gần như nguyên vẹn kiến trúc truyền thống vùng đồng bằng Bắc Bộ, với đình làng, chùa Nôm, cầu đá 9 nhịp, giếng cổ và hệ thống nhà thờ họ đặc trưng. Lễ hội nhằm tưởng nhớ [[Thánh Tam Giang|Đức Thánh Tam Giang]] - Thành hoàng làng, đồng thời là dịp thể hiện lòng biết ơn tổ tiên và khẳng định truyền thống đoàn kết, hiếu nghĩa, trọng đạo lý của cộng đồng cư dân. Lễ hội Làng Nôm không chỉ mang giá trị tín ngưỡng mà còn góp phần bảo tồn, phát huy di sản văn hóa truyền thống và quảng bá hình ảnh quê hương đến với bạn bè trong và ngoài nước.
+
+===Di tích lịch sử - văn hóa===
+
+===Làng nghề truyền thống===
+
+===Ẩm thực===
+
+===Thể thao===
+
+==Giao thông==
+
+==Hình ảnh==
+<center><gallery>
+Tập tin:Water park vhm ocean park 2.jpg|Công viên Sóng VinWonders (Vinhomes Ocean Park 2)
+Tập tin:PVF Hưng Yên.jpg|[[Trung tâm đào tạo bóng đá trẻ PVF|Trung tâm Đào tạo Bóng đá trẻ PVF - Bộ Công an]]
+Tập tin:PVF_Stadium_2023.jpg|Sân vận động PVF
+Tập tin:Khu Công Nghiệp Phố Nói A- Hưng Yên.jpg|Khu Công nghiệp Phố Nối A
+Tập tin:Chua Nom.jpg|Chùa Nôm
+Tập tin:Chuakeothaibinh.jpg|[[Chùa Keo (Thái Bình)|Chùa Keo]]
+Tập tin:Chua-Phuc-Lam-hung-yen-1.jpg|Chùa Phúc Lâm
+Tập tin:Nha_tho_chinh_toa_Thai_Binh_2.jpg|[[Nhà thờ chính tòa Thái Bình|Nhà thờ Chính Tòa Thái Bình]]
+Tập tin:Dai tuong niem liet si.jpg|Đài tưởng niệm liệt sĩ thành phố Hưng Yên
+</gallery></center>
+
+==Chú thích==
+{{Tham khảo|30em}}
+
+==Tham khảo==
+{{Thể loại Commons|Hung Yen Province}}
+{{Đơn vị hành chính cấp tỉnh Việt Nam}}
+
+[[Thể loại:Hưng Yên| ]]
+[[Thể loại:Tỉnh ven biển Việt Nam]]
+[[Thể loại:Bài viết chứa nhận dạng WORLDCATID]]

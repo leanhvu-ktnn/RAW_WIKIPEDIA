@@ -1,0 +1,1602 @@
+{{nhiều vấn đề|
+{{Chú thích trong bài|date=tháng 7/2026}}
+{{cần biên tập|date=tháng 7/2026}}
+}}
+{{other|Lâm Đồng (định hướng)}}
+{{Thông tin đơn vị hành chính Việt Nam | Tỉnh
+| tên = Lâm Đồng
+| tên cũ = [[Tuyên Đức]], [[Quảng Đức (tỉnh)|Quảng Đức]],  [[Bình Tuy]], [[Bình Thuận (tỉnh)|Bình Thuận]], [[Thuận Hải]], [[Lâm Viên (tỉnh)|Lâm Viên]], [[Đồng Nai Thượng]], [[Đắk Nông]]
+| biệt danh = 
+*Xứ ngàn thông
+*Xứ ngàn hoa
+*Thiên đường của thắng cảnh đẹp
+*Xứ sở của những âm điệu
+*Thủ phủ [[hồ tiêu]]
+*Thủ phủ [[cà phê]] (cùng với [[Đắk Lắk]]) 
+*Thủ phủ [[thanh long]]
+| logo =
+| ghi chú logo =
+| nhiều hình = {{multiple image
+| caption1
+| border = infobox
+| total_width = 300
+| image_style = border:1;
+| caption_align = center
+| perrow = 1/2/2/2
+| image1 = Da Lat - Xuan Huong Lake.jpg
+| caption1 = [[Hồ Xuân Hương (Đà Lạt)|Hồ Xuân Hương]], [[Xuân Hương – Đà Lạt]]
+| image2 = Bao Dai's Summer Palace 02.jpg
+| caption2 = [[Dinh III|Dinh Hoàng Đế Bảo Đại]]
+| image3 = Draysap03.JPG
+| caption3 = [[Thác Đray Sáp]]
+| image4 = Tháp Po Sah Inu, Phan Thiết, Bình Thuận.JPG
+| caption4 = [[Tháp Po Sah Inư]]
+| image5 = Chualinhsonphuquy.jpg
+| caption5 = Khung cảnh đảo [[Phú Quý]]
+}}
+| vĩ độ = 11.684514
+| kinh độ = 108.141174
+| bản đồ 1 = {{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=2|stroke-color=#000000}}
+| diện tích = 24.239,10 km²<ref name="202/2025/QH15"/><ref name=TT/><ref name="DT">{{Chú thích web|url=https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm|tựa đề= Dự kiến chi tiết diện tích, dân số, quy mô kinh tế của 34 tỉnh, thành mới |tác giả= Lê Hoa |ngày= 2025-06-09 |website= Báo Dân Trí |url lưu trữ=https://web.archive.org/web/20250609217756/https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm|ngày lưu trữ= 2025-06-09 |ngày truy cập= 2025-06-09 |url-status= dead }}</ref>
+| dân số = 4.356.400 người<ref name="202/2025/QH15"/><ref name=TT/><ref name="DT">{{Chú thích web|url=https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm|tựa đề= Dự kiến chi tiết diện tích, dân số, quy mô kinh tế của 34 tỉnh, thành mới |tác giả= Lê Hoa |ngày= 2025-06-09 |website= Báo Dân Trí |url lưu trữ=https://web.archive.org/web/20250609217756/https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm|ngày lưu trữ= 2025-06-09 |ngày truy cập= 2025-06-09 |url-status= dead }}</ref>
+| dân số thành thị = 1.290.900 người ({{formatnum:{{percentage|{{formatnum:1.290.900|R}}|{{formatnum:4.356.400|R}}|2}} }})
+| dân số nông thôn = 3.065.500 người ({{formatnum:{{percentage|{{formatnum:3.065.500|R}}|{{formatnum:4.356.400|R}}|2}} }})
+| thời điểm dân số = 31/12/2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:4.356.400|R}}/{{formatnum:24.239,10|R}})}} }} người/km²<ref name="202/2025/QH15"/><ref name=TT>{{Chú thích web|url=https://tuoitre.vn/chi-tiet-du-kien-quy-mo-dan-so-dien-tich-kinh-te-cua-34-tinh-thanh-sau-sap-nhap-20250513081155167.htm|tựa đề= Chi tiết dự kiến quy mô dân số, diện tích, kinh tế của 34 tỉnh, thành sau sáp nhập |tác giả= Thành Chung |ngày= 2025-05-13 |website= Tuổi Trẻ Online |url lưu trữ=https://web.archive.org/web/20250513080219/https://tuoitre.vn/chi-tiet-du-kien-quy-mo-dan-so-dien-tich-kinh-te-cua-34-tinh-thanh-sau-sap-nhap-20250513081155167.htm|ngày lưu trữ= 2025-05-13 |ngày truy cập= 2025-05-13 |url-status= dead }}</ref><ref name="DT">{{Chú thích web|url=https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm|tựa đề= Dự kiến chi tiết diện tích, dân số, quy mô kinh tế của 34 tỉnh, thành mới |tác giả= Lê Hoa |ngày= 2025-06-09 |website= Báo Dân Trí |url lưu trữ=https://web.archive.org/web/20250609217756/https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm|ngày lưu trữ= 2025-06-09 |ngày truy cập= 2025-06-09 |url-status= dead }}</ref>
+| dân tộc = [[Người Việt|Kinh]], [[Người Cơ Ho|K'ho]], [[Người Mạ|Mạ]], [[Người Nùng|Nùng]], [[Người Chăm|Chăm]], [[Người Hoa (Việt Nam)|Hoa]], [[Người Chu Ru|Chu Ru]], [[Người Mạ|Mạ]], [[Người Ra Glai|Ra Glai]],...
+| vùng = [[Duyên hải Nam Trung Bộ và Tây Nguyên]]
+| tỉnh lỵ = Phường [[Xuân Hương – Đà Lạt]]
+| thành lập = 19/5/1958
+| phân chia hành chính = 20 phường, 103 xã, 1 đặc khu
+| trụ sở UBND = Số 01 Trần Phú, phường [[Xuân Hương – Đà Lạt]]
+| đại biểu quốc hội = 19 đại biểu
+| chủ tịch UBND = [[Hồ Văn Mười]]
+| hội đồng nhân dân = 90 đại biểu
+| chủ tịch HĐND = [[Lưu Văn Trung]]
+| chủ tịch UBMTTQ = [[Phạm Thị Phúc]]
+| chánh án TAND = [[Nguyễn Văn Thanh]]
+| viện trưởng VKSND = [[Nguyễn Thành Minh]]
+| bí thư = [[Y Thanh Hà Niê Kđăm]]
+| mã địa lý = [[ISO 3166-2:VN|VN-35]]
+| mã hành chính = 68<ref>{{Chú thích web|url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf|tựa đề= Quyết định số 19/2025/QĐ-TTg về việc ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |ngày= 2025-06-30 |website= Cổng Thông tin điện tử Chính phủ |url lưu trữ=https://web.archive.org/web/20251224142347/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf|ngày lưu trữ= 2025-12-24 |ngày truy cập= 2025-12-24 |url-status= dead }}</ref>
+| mã bưu chính = [[Mã bưu chính Việt Nam|67xxxx]]
+| mã điện thoại = [[Mã điện thoại Việt Nam|263]]
+| biển số xe = [[Biển xe cơ giới Việt Nam|48]], [[Biển xe cơ giới Việt Nam|49]], [[Biển xe cơ giới Việt Nam|86]]
+| thời điểm kinh tế = 2025<ref name="thongkelamdong.nso.gov.vn">{{ Chú thích web|url=https://thongkelamdong.nso.gov.vn/tin-tuc/10052|tựa đề = Thông cáo báo chí tình hình kinh tế xã hội tỉnh Lâm Đồng 2025| website= Thống kê tỉnh Lâm Đồng |ngày truy cập= 2026-04-01 }}</ref>
+| GRDP = 353.116 tỉ đồng (14,04 tỉ USD)<ref name=TT/><ref name="DT">{{Chú thích web|url=https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm|tựa đề= Dự kiến chi tiết diện tích, dân số, quy mô kinh tế của 34 tỉnh, thành mới |tác giả= Lê Hoa |ngày= 2025-06-09 |website= Báo Dân Trí |url lưu trữ=https://web.archive.org/web/20250609217756/https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm|ngày lưu trữ= 2025-06-09 |ngày truy cập= 2025-06-09 |url-status= dead }}</ref><ref name="thongkelamdong.nso.gov.vn"/> 
+| GRDP bình quân đầu người = 91,2 triệu đồng (3.626 USD)<ref name=TT>{{Chú thích web|url=https://tuoitre.vn/chi-tiet-du-kien-quy-mo-dan-so-dien-tich-kinh-te-cua-34-tinh-thanh-sau-sap-nhap-20250513081155167.htm|tựa đề= Chi tiết dự kiến quy mô dân số, diện tích, kinh tế của 34 tỉnh, thành sau sáp nhập |tác giả= Thành Chung |ngày= 2025-05-13 |website= Tuổi Trẻ Online |url lưu trữ=https://web.archive.org/web/20250513080219/https://tuoitre.vn/chi-tiet-du-kien-quy-mo-dan-so-dien-tich-kinh-te-cua-34-tinh-thanh-sau-sap-nhap-20250513081155167.htm|ngày lưu trữ= 2025-05-13 |ngày truy cập= 2025-05-13 |url-status= dead }}</ref><ref name="DT">{{Chú thích web|url=https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm|tựa đề= Dự kiến chi tiết diện tích, dân số, quy mô kinh tế của 34 tỉnh, thành mới |tác giả= Lê Hoa |ngày= 2025-06-09 |website= Báo Dân Trí |url lưu trữ=https://web.archive.org/web/20250609217756/https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm|ngày lưu trữ= 2025-06-09 |ngày truy cập= 2025-06-09 |url-status= dead }}</ref><ref name="thongkelamdong.nso.gov.vn"/> 
+| web = {{url|lamdong.gov.vn}}
+}}
+
+'''Lâm Đồng''' là một [[Tỉnh (Việt Nam)|tỉnh]] thuộc vùng [[Duyên hải Nam Trung Bộ và Tây Nguyên]], [[Việt Nam]] và là tỉnh có diện tích lớn nhất cả nước.
+
+== Tên gọi ==
+Ở phường [[Lang Biang – Đà Lạt|Lang Biang - Đà Lạt]] có một ngọn núi cao tên [[Lang Biang]], đỉnh cao nhất 2.163m. Về sau, tên núi trở thành tên cao nguyên. Thời phong kiến, người ta đã Hán Việt hóa tên cao nguyên này thành [[Lâm Viên]].
+
+Ngày 1-11-1899, Toàn quyền Đông Dương ra nghị định tách khu vực thượng lưu sông Đồng Nai ra khỏi tỉnh [[Bình Thuận (tỉnh)|Bình Thuận]] để thành lập tỉnh [[Đồng Nai Thượng]] (Province du Haut Donnai). Tỉnh lỵ đặt tại [[Di Linh]].
+Ngày 11-9-1903, Toàn quyền Đông Dương lại ra nghị định xóa bỏ tỉnh [[Đồng Nai Thượng]], địa bàn lại thuộc tỉnh [[Bình Thuận (tỉnh)|Bình Thuận]].
+
+Ngày 6-1-1916, Toàn quyền Đông Dương ra quyết định thành lập tỉnh [[Lâm Viên]], tỉnh lị đặt tại [[Đà Lạt]]. Ngày 31-10-1920, lại có nghị định xóa bỏ tỉnh [[Lâm Viên]]; địa bàn chia làm hai: một phần thành lập thành phố [[Đà Lạt]]; một phần tái lập tỉnh [[Đồng Nai Thượng]], tỉnh lỵ đặt tại [[Di Linh]] (Djiring).
+
+Ngày 8-1-1941, Toàn quyền Đông Dương lại ra nghị định tái lập tỉnh [[Lâm Viên]].
+
+Ngày 19 tháng 5 năm 1958, chính quyền [[Việt Nam Cộng hòa]] đổi tên tỉnh [[Đồng Nai Thượng]] thành tỉnh Lâm Đồng, đồng thời tách một phần đất sáp nhập với thành phố [[Đà Lạt]], thành lập tỉnh [[Tuyên Đức]]. Tỉnh Lâm Đồng gồm hai quận [[Di Linh]] và [[Bảo Lộc]]. Chính quyền [[Việt Nam Dân chủ Cộng hòa]] và [[Mặt trận Dân tộc Giải phóng miền Nam Việt Nam|Mặt trận Dân tộc Giải phóng Miền Nam Việt Nam]] nhập tỉnh [[Lâm Viên (tỉnh)|Lâm Viên]] với tỉnh [[Đồng Nai Thượng]] thành tỉnh Lâm Đồng. Như vậy tỉnh Lâm Đồng do Việt Nam Dân chủ Cộng hòa và Mặt trận Dân tộc Giải phóng miền Nam Việt Nam đặt bao gồm 2 tỉnh Lâm Đồng và Tuyên Đức do chính quyền [[Việt Nam Cộng hòa]] đặt.
+
+Tháng 2 năm 1976, 2 tỉnh Lâm Đồng và [[Tuyên Đức]] hợp nhất thành tỉnh Lâm Đồng.
+
+Tên tỉnh Lâm Đồng có nguồn gốc từ sự kết hợp của 2 tỉnh là: tỉnh [[Lâm Viên]] (còn được gọi là [[Langbiang]] hay [[Lâm Biên]]) và tỉnh [[Đồng Nai Thượng]].
+
+== Địa lý ==
+=== Vị trí địa lý ===
+[[Tập tin:Sông Đa Dưng, Lâm Hà, Lâm Đồng.jpg|nhỏ|trái|Sông Đa Dưng, Lâm Hà]]
+
+[[Tập tin:Đồi cây Cafe, Đam Rông, Lâm Đồng.jpg|nhỏ|trái|Đồi cây cà phê, Đam Rông]]
+
+[[Tập tin:Deo Bao Loc.jpg|nhỏ|trái|Đèo Bảo Lộc, Bảo Lộc]]
+
+Tỉnh Lâm Đồng thuộc vùng Nam Trung Bộ, có tọa độ địa lý từ ''11˚12'- 12˚15'' vĩ độ bắc và 107˚45 kinh độ đông, có vị trí địa lý.<ref>[http://www.lamdong.gov.vn/vi-VN/a/daihoidang/tdhd/lich-su/Pages/Ls-dang-lam-dong-30-75-phan-mo-dau.aspx Lâm Đồng là một tỉnh miền núi thuộc Nam Tây Nguyên] {{Webarchive|url=https://web.archive.org/web/20130715221642/http://www.lamdong.gov.vn/vi-VN/a/daihoidang/tdhd/lich-su/Pages/Ls-dang-lam-dong-30-75-phan-mo-dau.aspx |date = ngày 15 tháng 7 năm 2013}}, Cổng Thông tin Điện tử tỉnh Lâm Đồng</ref>
+*Phía đông giáp tỉnh [[Khánh Hòa]]
+*Phía tây giáp [[Thành phố Hồ Chí Minh]] và thành phố [[Đồng Nai]]
+*Phía nam giáp [[Biển Đông]]
+*Phía bắc giáp tỉnh [[Đắk Lắk]] và tỉnh [[Mondulkiri]] ([[Campuchia]]).
+
+Trung tâm hành chính của tỉnh là phường [[Xuân Hương – Đà Lạt]] nằm cách [[Thành phố Hồ Chí Minh]] 300&nbsp;km về [[hướng Đông Bắc]], cách thành phố [[Đà Nẵng]] 658&nbsp;km về phía nam, cách thủ đô [[Hà Nội]] 1.414&nbsp;km tính theo đường [[Quốc lộ 1|Quốc lộ 1A]]. Tỉnh tiếp giáp với [[Vùng động lực phía Nam Việt Nam|vùng kinh tế trọng điểm phía Nam]].
+
+Phía bắc là dãy núi Yang Bông có đỉnh cao 1749 mét. Dãy núi phía nam có đỉnh Đan Sê Na cao 1950 mét, [[đỉnh Langbiang]] cao 2163 mét, Hòn Giao cao 1948 mét, và đỉnh Lomburr cao khoảng 1800 mét. Phía nam hai dãy núi là [[cao nguyên Lâm Viên|cao nguyên Lang Biang]], trên đó có đô thị [[Đà Lạt]] ở độ cao 1475 mét. Phía nam tỉnh có [[cao nguyên Di Linh]] cao 1010 mét, phía tây nam có cao nguyên Bảo Lộc cao từ 900 – 1100m địa hình khá bằng phẳng và đông dân cư, là nơi đầu nguồn của [[sông La Ngà]], phía tây bắc có [[cao nguyên Mơ Nông]] cao trung bình khoảng 800m.<ref>''Non nước Việt Nam'', Vũ Thế Bình chủ biên, Nhà xuất bản Văn hóa Thông tin, Hà Nội 2005</ref>
+
+==== Những liên kết với Nam Bộ ====
+Tuy thuộc vùng Tây Nguyên nhưng Lâm Đồng vẫn có những liên kết nhất định với vùng Nam Bộ ở một vài lĩnh vực:
+* Về mặt quân sự, Lâm Đồng được xếp vào [[Quân khu 7, Quân đội Nhân dân Việt Nam|Quân khu 7]] (quân khu Đông Nam Bộ mở rộng).<ref>{{Chú thích web|url=http://baolamdong.vn/chinhtri/201606/tu-lenh-quan-khu-7-kiem-tra-tai-lam-dong-2710250/|tiêu đề=Tư lệnh Quân khu 7 kiểm tra tại Lâm Đồng}}</ref>
+* Về mặt công thương, Công ty Điện lực Lâm Đồng trực thuộc Tổng công ty Điện lực Miền Nam.
+
+===Địa hình===
+[[File:Cao nguyên Lâm Viên (nhìn từ Cao nguyên Mơ Nông).jpg|nhỏ|300px|Cao nguyên Lâm Viên, nhìn từ cao nguyên Mơ Nông]]
+Tỉnh Lâm Đồng hiện nay được thành lập năm 2025 trên cơ sở hợp nhất ba tỉnh Lâm Đồng, Đắk Nông và Bình Thuận, với tổng diện tích tự nhiên 24.233,07&nbsp;km², lớn nhất cả nước. Lãnh thổ tỉnh trải dài từ biên giới Việt Nam – Campuchia ở phía tây bắc, qua vùng cao nguyên trung tâm rồi hạ thấp dần xuống dải đồng bằng ven biển và Biển Đông ở phía đông nam. Đây là tỉnh hiếm hoi có đủ ba dạng không gian địa lý là [[cao nguyên]], duyên hải và hải đảo.
+
+Địa hình phân hóa thành ba bậc rõ rệt. Bậc cao nhất là hệ thống cao nguyên bazan ở phía bắc và tây. Bậc trung gian là vùng đồi núi thấp và trung du chuyển tiếp. Bậc thấp nhất là đồng bằng ven biển hẹp cùng dải cồn cát chạy dọc bờ biển.
+
+Phần lãnh thổ trung tâm (Lâm Đồng cũ) nằm trên ba cao nguyên là Lâm Viên, Di Linh và Bảo Lộc, độ cao trung bình khoảng 800 đến 1.500 m so với mực nước biển. Cao nguyên Lâm Viên, còn gọi là [[cao nguyên Lang Biang]], nằm ở phía bắc với độ cao phổ biến 1.500 đến 1.600 m, địa hình bị chia cắt mạnh, nhiều núi cao, rừng nguyên sinh và thác ghềnh; đây là nơi tọa lạc của [[Đà Lạt]]. [[Cao nguyên Di Linh – Bảo Lộc]] ở phía nam thấp hơn, độ cao khoảng 800 đến 1.000 m, với các đồi dốc thoai thoải thuận lợi cho việc trồng trọt các cây công nghiệp dài ngày.
+
+Phần lãnh thổ phía Bắc ([[Đắk Nông (tỉnh)|Đắk Nông]] cũ) nằm trọn trên [[cao nguyên M'Nông]], thấp dần về phía tây. Đây là vùng có lịch sử kiến tạo phức tạp, chịu ảnh hưởng của nhiều giai đoạn vận động tạo núi và hoạt động magma, tạo nên sự phân bậc độ cao với các đồi núi xen kẽ những bề mặt tương đối bằng phẳng. Dấu tích [[núi lửa]] trẻ còn khá rõ, tiêu biểu là dãy núi lửa Nâm Kar gồm một nón than chính và hai nón than phụ. Trong vùng còn có hệ thống hang động núi lửa được phát hiện năm 2017 với hơn 50 hang, tổng chiều dài gần 10.000 m, thuộc loại dài nhất Đông Nam Á và nằm trong [[Công viên địa chất Đắk Nông|Công viên địa chất toàn cầu UNESCO Đắk Nông]].<ref>{{Chú thích web |url=https://danviet.vn/sap-nhap-voi-binh-thuan-lam-dong-dak-nong-tro-thanh-tinh-co-bien-con-co-ca-mot-dac-khu-binh-thuan-co-them-nhung-khu-rung-ngon-nui-d1324895.html |tiêu đề=Sáp nhập với Bình Thuận, Lâm Đồng, Đắk Nông trở thành tỉnh có biển, còn có cả một đặc khu |website=Báo Dân Việt |ngày=2025-04-16 |ngày truy cập=2026-08-09}}</ref>
+
+Các đỉnh núi cao nhất của tỉnh đều nằm trên khối núi phía bắc, trong đó có đỉnh Bidoup và đỉnh Lang Biang.
+
+Phần duyên hải phía Nam (trước đây là [[Bình Thuận (tỉnh)|Bình Thuận]]) có địa hình đa dạng. Đồi núi thấp chiếm phần lớn diện tích, tập trung ở phía tây và tây bắc, tiếp nối với sườn đông nam của khối cao nguyên. Đồng bằng ven biển nhỏ hẹp, phát triển thành dải dọc theo bờ biển và bị các nhánh núi ăn ra sát biển chia cắt thành nhiều ô.<ref name="danviet.vn">{{Chú thích web |url=https://danviet.vn/sap-nhap-tinh-lam-dong-dak-nong-binh-thuan-ve-o-voi-nhau-tinh-moi-co-ho-to-bien-dep-hon-dao-quan-trong-d1324037.html |tiêu đề=Sáp nhập, tỉnh Lâm Đồng, Đắk Nông, Bình Thuận về ở với nhau, tỉnh mới có hồ to, biển đẹp, hòn đảo quan trọng |website=Báo Dân Việt |ngày=2025-04-13 |ngày truy cập=2026-08-09}}</ref>
+
+Nét địa hình đặc trưng nhất của dải ven biển là các đồi cát và cồn cát, hình thành do tác động của gió và biển. Chúng tạo nên cảnh quan riêng biệt, tiêu biểu là khu vực [[Bàu Trắng]] và các đồi cát ở [[Mũi Né]].<ref name="danviet.vn"/>
+
+Sau hợp nhất, tỉnh có đường bờ biển kéo dài và vùng biển rộng. Đảo lớn nhất là [[Phú Quý]], hiện là đặc khu duy nhất của tỉnh, nằm cách bờ khoảng 100&nbsp;km về phía đông nam.
+
+===Khí hậu===
+Tỉnh Lâm Đồng nằm trong vùng khí hậu [[nhiệt đới gió mùa]], song có sự phân hóa rất mạnh theo độ cao và theo hướng từ cao nguyên xuống ven biển. Sau khi hợp nhất ba tỉnh năm 2025, trên cùng một địa bàn tỉnh tồn tại đồng thời kiểu khí hậu mát mẻ quanh năm của vùng núi cao, kiểu khí hậu cao nguyên nhiệt đới của vùng bazan và kiểu khí hậu khô nóng, nhiều nắng của vùng duyên hải.
+
+Toàn tỉnh có hai mùa rõ rệt. Mùa mưa kéo dài từ khoảng tháng 5 đến tháng 10, do ảnh hưởng của [[gió mùa Tây Nam]], mưa thường tập trung vào buổi chiều và chiều tối. Mùa khô từ khoảng tháng 11 đến tháng 4 năm sau, chịu ảnh hưởng của gió mùa Đông Bắc, trời quang, ít mây và lượng mưa rất thấp.
+
+Khu vực cao nguyên Lâm Viên, nơi có [[Đà Lạt]] và các vùng có độ cao trên 1.400 m, mang tính chất khí hậu [[cận nhiệt đới]] núi cao. Nhiệt độ trung bình năm ở đây thường dưới 20&nbsp;°C và hiếm khi vượt quá 25&nbsp;°C. Biên độ nhiệt giữa ngày và đêm khá lớn, trời se lạnh vào sáng sớm và ban đêm. Hệ thống rừng thông bao quanh góp phần điều hòa không khí. Đây là cơ sở để khu vực này phát triển nghỉ dưỡng, du lịch và nông nghiệp ôn đới.
+
+Các khu vực thấp hơn thuộc cao nguyên Di Linh – Bảo Lộc có nền nhiệt cao hơn, phù hợp với việc trồng trọt cây công nghiệp dài ngày như [[cà phê]], [[chè]] và [[dâu tằm]].
+
+Phần lãnh thổ trên cao nguyên M'Nông mang khí hậu cao nguyên nhiệt đới gió mùa. Nền nhiệt cao hơn khu vực Đà Lạt nhưng vẫn ôn hòa hơn vùng đồng bằng. Mùa mưa ở đây đến sớm và kéo dài, lượng mưa lớn, tạo điều kiện cho rừng nguyên sinh và hệ thống thác nước phát triển.
+
+Phần lãnh thổ ven biển có khí hậu khô nóng, nhiều nắng và ít mưa, thuộc nhóm khô hạn nhất cả nước. Mùa khô ở đây kéo dài và gay gắt, thường gây thiếu nước cho sản xuất và sinh hoạt. Bù lại, số giờ nắng cao cùng chế độ gió ổn định là lợi thế để phát triển du lịch biển, [[điện gió]] và [[điện mặt trời]].
+{{Weather box
+| width = auto
+| metric first = y
+| single line = y
+| location = Phường Đông Gia Nghĩa
+| Jan high C = 28.4
+| Feb high C = 30.5
+| Mar high C = 31.9
+| Apr high C = 31.9
+| May high C = 30.6
+| Jun high C = 28.9
+| Jul high C = 28.3
+| Aug high C = 28.0
+| Sep high C = 28.4
+| Oct high C = 28.7
+| Nov high C = 28.0
+| Dec high C = 27.0
+| year high C = 29.2
+| Jan mean C = 20.5
+| Feb mean C = 21.8
+| Mar mean C = 23.3
+| Apr mean C = 24.2
+| May mean C = 24.2
+| Jun mean C = 23.6
+| Jul mean C = 23.1
+| Aug mean C = 23.0
+| Sep mean C = 23.1
+| Oct mean C = 22.8
+| Nov mean C = 22.2
+| Dec mean C = 20.8
+| year mean C = 22.7
+| Jan low C = 15.2
+| Feb low C = 15.8
+| Mar low C = 17.8
+| Apr low C = 19.6
+| May low C = 20.9
+| Jun low C = 20.8
+| Jul low C = 20.5
+| Aug low C = 20.6
+| Sep low C = 20.4
+| Oct low C = 19.5
+| Nov low C = 18.6
+| Dec low C = 16.8
+| year low C = 18.9
+| Jan record high C = 33.5
+| Jan record low C = 7.6
+| Feb record high C = 35.7
+| Feb record low C = 7.8
+| Mar record high C = 36.5
+| Mar record low C = 9.5
+| Apr record high C = 37.1
+| Apr record low C = 13.2
+| May record high C = 35.6
+| May record low C = 17.0
+| Jun record high C = 33.5
+| Jun record low C = 16.6
+| Jul record high C = 33.0
+| Jul record low C = 17.1
+| Aug record high C = 32.5
+| Aug record low C = 17.0
+| Sep record high C = 33.2
+| Sep record low C = 16.2
+| Oct record high C = 32.4
+| Oct record low C = 11.4
+| Nov record high C = 33.0
+| Nov record low C = 10.7
+| Dec record high C = 32.9
+| Dec record low C = 8.3
+| year record high C = 37.1
+| year record low C = 7.6
+| rain colour = green
+| Jan rain mm = 16.6
+| Feb rain mm = 34.6
+| Mar rain mm = 101.7
+| Apr rain mm = 171.7
+| May rain mm = 271.6
+| Jun rain mm = 319.4
+| Jul rain mm = 397.2
+| Aug rain mm = 439.1
+| Sep rain mm = 400.9
+| Oct rain mm = 256.7
+| Nov rain mm = 78.1
+| Dec rain mm = 20.3
+| year rain mm = 2511.0
+| Jan rain days = 2.8
+| Feb rain days = 4.3
+| Mar rain days = 10.2
+| Apr rain days = 14.8
+| May rain days = 22.2
+| Jun rain days = 24.6
+| Jul rain days = 26.8
+| Aug rain days = 28.0
+| Sep rain days = 26.8
+| Oct rain days = 21.1
+| Nov rain days = 9.7
+| Dec rain days = 3.9
+| year rain days = 196.3
+| Jan humidity = 76.1
+| Feb humidity = 74.5
+| Mar humidity = 75.7
+| Apr humidity = 80.4
+| May humidity = 85.5
+| Jun humidity = 88.8
+| Jul humidity = 88.5
+| Aug humidity = 90.2
+| Sep humidity = 89.9
+| Oct humidity = 86.3
+| Nov humidity = 82.5
+| Dec humidity = 79.0
+| year humidity = 83.1
+| Jan sun = 251.3
+| Feb sun = 240.6
+| Mar sun = 250.4
+| Apr sun = 222.7
+| May sun = 190.2
+| Jun sun = 146.3
+| Jul sun = 142.3
+| Aug sun = 126.5
+| Sep sun = 125.9
+| Oct sun = 163.6
+| Nov sun = 193.4
+| Dec sun = 223.5
+| year sun = 2279.0
+|source 1 = Vietnam Institute for Building Science and Technology<ref name=IBST>{{chú thích web
+| archiveurl = https://web.archive.org/web/20180722172120/http://ibst.vn/DATA/nhyen/QCVN%2002-2009%20BXD%20So%20lieu%20tu%20nhien.pdf
+| archive-date = ngày 22 tháng 7 năm 2018
+| url = http://ibst.vn/DATA/nhyen/QCVN%2002-2009%20BXD%20So%20lieu%20tu%20nhien.pdf
+| title = Vietnam Building Code Natural Physical & Climatic Data for Construction
+| publisher = Vietnam Institute for Building Science and Technology
+| accessdate = ngày 23 tháng 7 năm 2018}}</ref>
+}}
+
+{{Weather box
+|width = auto
+|location = Phường Xuân Hương – Đà Lạt
+|metric first = Y
+|single line = Y
+|Jan record high C = 30.0
+|Feb record high C = 31.7
+|Mar record high C = 31.5
+|Apr record high C = 32.1
+|May record high C = 30.6
+|Jun record high C = 30.5
+|Jul record high C = 32.0
+|Aug record high C = 30.0
+|Sep record high C = 30.2
+|Oct record high C = 30.0
+|Nov record high C = 29.2
+|Dec record high C = 29.4
+|year record high C = 32.1
+|Jan high C = 22.3
+|Feb high C = 24.0
+|Mar high C = 25.0
+|Apr high C = 25.2
+|May high C = 24.5
+|Jun high C = 23.4
+|Jul high C = 22.8
+|Aug high C = 22.5
+|Sep high C = 22.8
+|Oct high C = 22.5
+|Nov high C = 21.7
+|Dec high C = 21.4
+|year high C = 23.2
+|Jan mean C = 15.8
+|Feb mean C = 16.7
+|Mar mean C = 17.8
+|Apr mean C = 18.9
+|May mean C = 19.3
+|Jun mean C = 19.0
+|Jul mean C = 18.6
+|Aug mean C = 18.5
+|Sep mean C = 18.4
+|Oct mean C = 18.1
+|Nov mean C = 17.3
+|Dec mean C = 16.2
+|year mean C = 17.9
+|Jan low C = 11.3
+|Feb low C = 11.7
+|Mar low C = 12.6
+|Apr low C = 14.4
+|May low C = 16.0
+|Jun low C = 16.3
+|Jul low C = 16.0
+|Aug low C = 16.1
+|Sep low C = 15.8
+|Oct low C = 15.1
+|Nov low C = 14.3
+|Dec low C = 12.8
+|year low C = 14.4
+|Jan record low C = -0.1
+|Feb record low C = -0.6
+|Mar record low C = 4.2
+|Apr record low C = 4.0
+|May record low C = 10.0
+|Jun record low C = 10.9
+|Jul record low C = 10.4
+|Aug record low C = 10.6
+|Sep record low C = 10.0
+|Oct record low C = 8.1
+|Nov record low C = 4.4
+|Dec record low C = 2.6
+|year record low C = -0.6
+|Jan precipitation mm = 11
+|Feb precipitation mm = 24
+|Mar precipitation mm = 62
+|Apr precipitation mm = 170
+|May precipitation mm = 191
+|Jun precipitation mm = 213
+|Jul precipitation mm = 229
+|Aug precipitation mm = 214
+|Sep precipitation mm = 282
+|Oct precipitation mm = 239
+|Nov precipitation mm = 97
+|Dec precipitation mm = 36
+|precipitation colour = green
+|year precipitation mm = 1768
+|Jan humidity = 82
+|Feb humidity = 78
+|Mar humidity = 77
+|Apr humidity = 84
+|May humidity = 87
+|Jun humidity = 88
+|Jul humidity = 90
+|Aug humidity = 91
+|Sep humidity = 90
+|Oct humidity = 89
+|Nov humidity = 85
+|Dec humidity = 84
+|year humidity = 85
+|Jan rain days = 2
+|Feb rain days = 2
+|Mar rain days = 5
+|Apr rain days = 11
+|May rain days = 18
+|Jun rain days = 20
+|Jul rain days = 23
+|Aug rain days = 22
+|Sep rain days = 23
+|Oct rain days = 19
+|Nov rain days = 10
+|Dec rain days = 5
+|year rain days = 160
+|Jan sun = 255
+|Feb sun = 234
+|Mar sun = 255
+|Apr sun = 202
+|May sun = 190
+|Jun sun = 147
+|Jul sun = 157
+|Aug sun = 136
+|Sep sun = 133
+|Oct sun = 140
+|Nov sun = 172
+|Dec sun = 215
+|year sun = 2236
+|source 1 = Vietnam Institute for Building Science and Technology<ref name=IBST>{{chú thích web
+| archiveurl = https://web.archive.org/web/20180722172120/http://ibst.vn/DATA/nhyen/QCVN%2002-2009%20BXD%20So%20lieu%20tu%20nhien.pdf
+| archive-date = ngày 22 tháng 7 năm 2018
+| url = http://ibst.vn/DATA/nhyen/QCVN%2002-2009%20BXD%20So%20lieu%20tu%20nhien.pdf
+| title = Vietnam Building Code Natural Physical & Climatic Data for Construction
+| publisher = Vietnam Institute for Building Science and Technology
+| accessdate = ngày 23 tháng 7 năm 2018}}</ref>
+}}
+
+{{Weather box
+| location = Phường Phan Thiết
+| metric first = Y
+| single line = Y
+| Jan record high C = 35.4
+| Feb record high C = 34.0
+| Mar record high C = 35.8
+| Apr record high C = 37.2
+| May record high C = 37.8
+| Jun record high C = 37.6
+| Jul record high C = 35.9
+| Aug record high C = 36.0
+| Sep record high C = 36.1
+| Oct record high C = 34.7
+| Nov record high C = 34.5
+| Dec record high C = 34.5
+|year record high C = 37.7
+| Jan high C = 29.2
+| Feb high C = 29.4
+| Mar high C = 30.5
+| Apr high C = 31.9
+| May high C = 32.6
+| Jun high C = 32.1
+| Jul high C = 31.5
+| Aug high C = 31.4
+| Sep high C = 31.1
+| Oct high C = 30.9
+| Nov high C = 30.7
+| Dec high C = 29.8
+|year high C = 30.9
+| Jan mean C = 24.8
+| Feb mean C = 25.4
+| Mar mean C = 26.6
+| Apr mean C = 28.1
+| May mean C = 28.6
+| Jun mean C = 27.8
+| Jul mean C = 27.1
+| Aug mean C = 27.0
+| Sep mean C = 27.0
+| Oct mean C = 26.9
+| Nov mean C = 26.4
+| Dec mean C = 25.5
+|year mean C = 26.8
+| Jan low C = 21.2
+| Feb low C = 22.0
+| Mar low C = 23.6
+| Apr low C = 25.3
+| May low C = 25.7
+| Jun low C = 25.1
+| Jul low C = 24.7
+| Aug low C = 24.7
+| Sep low C = 24.5
+| Oct low C = 24.2
+| Nov low C = 23.3
+| Dec low C = 21.9
+|year low C = 23.9
+| Jan record low C = 14.2
+| Feb record low C = 16.3
+| Mar record low C = 17.2
+| Apr record low C = 19.9
+| May record low C = 22.0
+| Jun record low C = 21.7
+| Jul record low C = 20.8
+| Aug record low C = 20.6
+| Sep record low C = 21.7
+| Oct record low C = 20.3
+| Nov record low C = 18.1
+| Dec record low C = 12.4
+|year record low C = 12.4
+| precipitation colour = green
+| Jan precipitation mm = 1
+| Feb precipitation mm = 0
+| Mar precipitation mm = 6
+| Apr precipitation mm = 30
+| May precipitation mm = 136
+| Jun precipitation mm = 145
+| Jul precipitation mm = 165
+| Aug precipitation mm = 164
+| Sep precipitation mm = 192
+| Oct precipitation mm = 155
+| Nov precipitation mm = 58
+| Dec precipitation mm = 20
+|year precipitation mm = 1072
+| Jan precipitation days = 0.4
+| Feb precipitation days = 0.4
+| Mar precipitation days = 0.7
+| Apr precipitation days = 3.5
+| May precipitation days = 12.7
+| Jun precipitation days = 16.4
+| Jul precipitation days = 16.3
+| Aug precipitation days = 18.4
+| Sep precipitation days = 17.2
+| Oct precipitation days = 13.5
+| Nov precipitation days = 7.0
+| Dec precipitation days = 3.1
+|year precipitation days = 109.6
+| Jan humidity = 74.3
+| Feb humidity = 74.7
+| Mar humidity = 76.3
+| Apr humidity = 77.8
+| May humidity = 79.8
+| Jun humidity = 81.7
+| Jul humidity = 83.2
+| Aug humidity = 83.4
+| Sep humidity = 84.4
+| Oct humidity = 83.3
+| Nov humidity = 79.5
+| Dec humidity = 76.4
+|year humidity = 79.6
+| Jan sun = 278
+| Feb sun = 272
+| Mar sun = 304
+| Apr sun = 282
+| May sun = 247
+| Jun sun = 215
+| Jul sun = 214
+| Aug sun = 203
+| Sep sun = 197
+| Oct sun = 211
+| Nov sun = 217
+| Dec sun = 240
+| year sun = 2878
+| source 1 = Vietnam Institute for Building Science and Technology<ref name=IBST>{{chú thích web
+| archiveurl = https://web.archive.org/web/20180722172120/http://ibst.vn/DATA/nhyen/QCVN%2002-2009%20BXD%20So%20lieu%20tu%20nhien.pdf
+| archive-date = ngày 22 tháng 7 năm 2018
+| url = http://ibst.vn/DATA/nhyen/QCVN%2002-2009%20BXD%20So%20lieu%20tu%20nhien.pdf
+| title = Vietnam Building Code Natural Physical & Climatic Data for Construction
+| publisher = Vietnam Institute for Building Science and Technology
+| accessdate = ngày 23 tháng 7 năm 2018}}</ref>
+}}
+
+== Lịch sử ==
+{{main|Lịch sử hành chính Lâm Đồng}}
+{| class="wikitable" style="float:right; margin:1em; margin-top:0;"
+|-
+! colspan="2" | '''Dân số tỉnh Lâm Đồng 1967'''<ref>''Việt Nam Cộng hòa bản đồ hành chính''. Đà Lạt: Phân cục Địa dư Quốc gia, 1967.</ref>
+|- style="background:lightgrey;"
+! Quận
+! Dân số
+|-
+| Bảo Lộc || 44.239
+|-
+| Di Linh || 22.541
+|-
+| '''Tổng số''' || 66.780 
+|}
+
+=== Thời kỳ Pháp thuộc ===
+Ngày 1 tháng 11 năm 1899, chính quyền Pháp thuộc thành lập tỉnh [[Đồng Nai Thượng]] (''Province de Haut-Donnaï''), tỉnh lỵ đặt tại [[Di Linh (huyện)|Di Linh]] (''Djiring''). Ernest Outrey làm công sứ đầu tiên.<ref>{{Chú thích web |title=Tỉnh Đồng Nai Thượng, đơn vị hành chính đầu tiên của vùng đất Lâm Đồng |url=https://www.baotanglamdong.com.vn/index.php/gioi-thieu/nghien-cuu-khoa-hoc/324-tinh-dong-nai-thuong-don-vi-hanh-chinh-dau-tien-cua-vung-dat-lam-dong.html |access-date=2025-07-23 |website=www.baotanglamdong.com.vn |language=vi-vn}}</ref>
+
+Năm 1905, tỉnh [[Đồng Nai Thượng]] bị bãi bỏ, chuyển thành đại lý hành chính Di Linh.
+
+Năm 1913, nhập đại lý Đà Lạt với đại lý Di Linh, gọi chung là đại lý Di Linh và vẫn thuộc tỉnh [[Bình Thuận (tỉnh)|Bình Thuận]], đặt Élie Joseph Marie Cunhac<ref>Trong ''Tuần san Indochine'', Cunhac là một thành viên trong đoàn thám hiểm tìm ra cao nguyên Lâm Viên cuối thế kỉ XIX, với vai trò là viên đội chuyên đo vẽ địa hình. Năm 1903, khi tỉnh Đồng Nai Thượng bị giải thể. Đầu tháng 3 năm 1916, tỉnh Lang-bian được thành lập. Năm 1920, Đà Lạt trở thành hạt tự trị.</ref> làm đại biện.
+
+Ngày 6 tháng 1 năm 1916, chính quyền Pháp thuộc thành lập tỉnh [[Lâm Viên (tỉnh)|Lâm Viên]], gồm đại lý Đà Lạt mới lập lại và đại lý Di Linh, tách từ tỉnh [[Bình Thuận (tỉnh)|Bình Thuận]]. Tỉnh lỵ đặt tại Đà Lạt. Tỉnh [[Lâm Viên (tỉnh)|Lâm Viên]] còn được gọi là Langbiang hay Lâm Viên.
+
+Ngày 31 tháng 10 năm 1920, tỉnh [[Lâm Viên (tỉnh)|Lâm Viên]] bị xóa bỏ, một phần lập ra thành phố Đà Lạt, phần còn lại lập lại tỉnh [[Đồng Nai Thượng]], tỉnh lỵ đặt tại Di Linh.
+
+Năm 1928 chuyển tỉnh lỵ tỉnh [[Đồng Nai Thượng]] về Đà Lạt.
+
+Ngày 8 tháng 1 năm 1941, lập lại tỉnh [[Lâm Viên (tỉnh)|Lâm Viên]], tỉnh lỵ đặt tại Đà Lạt. Tỉnh lỵ tỉnh [[Đồng Nai Thượng]] chuyển về Di Linh.
+
+===Thời kỳ Việt Nam Cộng hòa===
+Ngày 19 tháng 5 năm 1958, chính quyền [[Việt Nam Cộng hòa]] đổi tên tỉnh Đồng Nai Thượng thành tỉnh Lâm Đồng, đồng thời tách một phần đất sáp nhập với thành phố Đà Lạt, thành lập tỉnh [[Tuyên Đức]]. Tỉnh Lâm Đồng gồm 2 quận Bảo Lộc (B'Lao) và Di Linh, tỉnh lỵ đặt tại Bảo Lộc. Chính quyền [[Việt Nam Dân chủ Cộng hòa]] và [[Mặt trận Dân tộc Giải phóng miền Nam Việt Nam]] nhập tỉnh Lâm Viên với tỉnh Đồng Nai Thượng thành tỉnh Lâm Đồng. Như vậy tỉnh Lâm Đồng do Việt Nam Dân chủ Cộng hòa và Mặt trận Dân tộc Giải phóng miền Nam Việt Nam đặt bao gồm 2 tỉnh Lâm Đồng và Tuyên Đức do Việt Nam Cộng hòa đặt.
+
+===Thời kỳ thống nhất===
+Ngày 20 tháng 12 năm 1975, Bộ Chính trị ban hành Nghị quyết số 19/NQ<ref>{{Chú thích web|url=http://luutruquocgia1.org.vn/wp-content/uploads/2017/05/anh1.png|tựa đề= Nghị quyết số 19/NQ về việc điều chỉnh việc hợp nhất một số tỉnh ở miền Nam |tác giả=|ngày= 1975-12-20 |website= Trung tâm Lưu trữ quốc gia I |url lưu trữ=https://web.archive.org/web/20250507064804/http://luutruquocgia1.org.vn/wp-content/uploads/2017/05/anh1.png|ngày lưu trữ= 2025-05-07 |ngày truy cập= 2025-05-07 |url-status= dead }}</ref> về việc Hợp nhất tỉnh [[Lâm Đồng]] và tỉnh [[Tuyên Đức]] (kể cả thành phố [[Đà Lạt]]) thành một tỉnh, tên gọi tỉnh mới cùng với nơi đặt tỉnh lỵ sẽ do địa phương đề nghị lên.
+
+Ngày 24 tháng 2 năm 1976, Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam ban hành Nghị định số 3/NQ/1976<ref>{{Chú thích web|url=http://luutruquocgia1.org.vn/wp-content/uploads/2017/05/anh2.png|tựa đề= Nghị định số 3/NQ/1976 về việc giải thể khu, hợp nhất tỉnh ở miền Nam Việt Nam |tác giả=|ngày= 1976-02-24 |website= Trung tâm Lưu trữ quốc gia I |url lưu trữ=https://web.archive.org/web/20250507064804/http://luutruquocgia1.org.vn/wp-content/uploads/2017/05/anh2.png|ngày lưu trữ= 2025-05-07 |ngày truy cập= 2025-05-07 |url-status= dead }}</ref> về việc Sáp nhập thành phố [[Đà Lạt]], tỉnh [[Tuyên Đức]] vào tỉnh [[Lâm Đồng]], gồm thành phố [[Đà Lạt]] và 4 huyện: [[Bảo Lộc]], [[Di Linh (huyện)|Di Linh]], [[Đơn Dương (huyện)|Đơn Dương]], [[Đức Trọng (huyện)|Đức Trọng]].
+
+Ngày 14 tháng 3 năm 1979, chia huyện Bảo Lộc thành 2 huyện: Bảo Lộc và [[Đạ Huoai (huyện)|Đạ Huoai]]; chia huyện Đơn Dương thành 2 huyện: Đơn Dương và [[Lạc Dương (huyện)|Lạc Dương]].<ref>{{Chú thích web |url=http://thuvienphapluat.vn/archive/Quyet-dinh/Quyet-dinh-116-CP-chia-huyen-thuoc-tinh-Lam-Dong-vb57448t17.aspx |title=Quyết định 116-CP năm 1979 về việc chia một số huyện thuộc tỉnh Lâm Đồng |access-date=2013-12-30 |archive-date=2014-08-29 |archive-url=https://web.archive.org/web/20140829135832/http://thuvienphapluat.vn/archive/Quyet-dinh/Quyet-dinh-116-CP-chia-huyen-thuoc-tinh-Lam-Dong-vb57448t17.aspx |url-status=dead }}</ref>
+
+Ngày 6 tháng 6 năm 1986, chia huyện Đạ Huoai thành 3 huyện: Đạ Huoai, [[Đạ Tẻh (huyện)|Đạ Tẻh]] và [[Cát Tiên (huyện)|Cát Tiên]].<ref>[http://thuvienphapluat.vn/archive/Quyet-dinh/Quyet-dinh-68-HDBT-dieu-chinh-dia-gioi-hanh-chinh-huyen-Da-Hu-oai-tinh-Lam-Dong-vb37108t17.aspx Quyết định 68-HĐBT năm 1986 điều chỉnh địa giới hành chính huyện Đạ Hu oai thuộc tỉnh Lâm Đồng]</ref>
+
+Ngày 28 tháng 10 năm 1987, chia huyện Đức Trọng thành 2 huyện: [[Đức Trọng (huyện)|Đức Trọng]] và [[Lâm Hà]].
+
+Ngày 26 tháng 12 năm 1991, tại kỳ họp thứ 10 Quốc hội khoá VIII ra nghị quyết chia tỉnh [[Thuận Hải]] để tái lập tỉnh [[Ninh Thuận]] và [[Bình Thuận (tỉnh)|Bình Thuận]].<ref>Nghị quyết phân vạch lại địa giới hành chính một số tỉnh.</ref>
+
+Ngày 11 tháng 7 năm 1994, chia huyện Bảo Lộc thành thị xã Bảo Lộc và huyện [[Bảo Lâm (huyện Lâm Đồng)|Bảo Lâm]].<ref>{{Chú thích web |url=http://thuvienphapluat.vn/archive/Nghi-dinh/Nghi-dinh-65-CP-chia-huyen-Bao-Loc-thanh-thi-xa-Bao-Loc-va-huyen-Bao-Lam-va-thanh-lap-phuong-xa-moi-thuoc-thi-xa-Bao-Loc-va-huyen-Bao-Lam-Lam-dong-vb38819t11.aspx |title=Nghị định 65-CP năm 1994 về việc chia huyện Bảo Lộc thành thị xã Bảo Lộc và huyện Bảo Lâm |access-date=2013-12-30 |archive-date=2013-12-31 |archive-url=https://web.archive.org/web/20131231000117/http://thuvienphapluat.vn/archive/Nghi-dinh/Nghi-dinh-65-CP-chia-huyen-Bao-Loc-thanh-thi-xa-Bao-Loc-va-huyen-Bao-Lam-va-thanh-lap-phuong-xa-moi-thuoc-thi-xa-Bao-Loc-va-huyen-Bao-Lam-Lam-dong-vb38819t11.aspx |url-status=dead }}</ref>
+
+Ngày 24 tháng 7 năm 1999, thành phố [[Đà Lạt]] được [[Thủ tướng Chính phủ nước Cộng hòa xã hội chủ nghĩa Việt Nam|Thủ tướng Chính phủ]] công nhận là [[Thành phố (Việt Nam)|đô thị loại II]].<ref>{{Chú thích web |url=http://thuvienphapluat.vn/archive/Quyet-dinh/Quyet-dinh-158-1999-QD-TTg-cong-nhan-Da-Lat-la-do-thi-loai-II-vb45502t17.aspx |ngày truy cập=2015-05-03 |tựa đề=Quyết định 158/1999/QĐ-TTg về việc công nhận thành phố Đà Lạt là đô thị loại II do Thủ tướng Chính phủ ban hành |archive-date = ngày 3 tháng 5 năm 2015 |archive-url=https://web.archive.org/web/20150503020451/http://thuvienphapluat.vn/archive/Quyet-dinh/Quyet-dinh-158-1999-QD-TTg-cong-nhan-Da-Lat-la-do-thi-loai-II-vb45502t17.aspx |url-status=live }}</ref>
+
+Ngày 26 tháng 11 năm 2003, Quốc hội ban hành Nghị quyết số 22/2003/QH11 về việc chia tỉnh [[Đắk Lắk]] thành hai tỉnh [[Đắk Lắk]] và [[Đắk Nông (tỉnh)|Đắk Nông]].<ref>Nghị quyết số 22/2003/QH11 về việc chia và điều chỉnh địa giới hành chính một số tỉnh.</ref>
+
+Ngày 17 tháng 11 năm 2004, thành lập huyện [[Đam Rông]] trên cơ sở tách 3 xã thuộc huyện Lạc Dương và 5 xã thuộc huyện Lâm Hà.<ref>[http://thuvienphapluat.vn/archive/Nghi-dinh/Nghi-dinh-189-2004-ND-CP-thanh-lap-xa-thuoc-huyen-Lac-Duong-Lam-Ha-huyen-Dam-Rong-tinh-Lam-Dong-vb5377t11.aspx Nghị định 189/2004/NĐ-CP về việc thành lập huyện Đam Rông]</ref>
+
+Ngày 23 tháng 3 năm 2009, thành phố Đà Lạt được công nhận là [[Đô thị loại I (Việt Nam)|đô thị loại I]] trực thuộc tỉnh Lâm Đồng.<ref>{{Chú thích web |url=http://www.chinhphu.vn/portal/page/portal/chinhphu/hethongvanban?class_id=1&_page=161&mode=detail&document_id=86193 |ngày truy cập=2018-11-12 |tựa đề=Quyết định: Về việc công nhận Thành phố Đà Lạt, tỉnh Lâm Đồng là đô thị loại I trực thuộc tỉnh Lâm Đồng |archive-date=2017-09-11 |archive-url=https://web.archive.org/web/20170911162515/http://www.chinhphu.vn/portal/page/portal/chinhphu/hethongvanban?class_id=1&_page=161&mode=detail&document_id=86193 |url-status=dead }}</ref>
+
+Ngày 8 tháng 4 năm 2010, chuyển thị xã Bảo Lộc thành thành phố [[Bảo Lộc]].<ref>[http://thuvienphapluat.vn/archive/Nghi-quyet/Nghi-quyet-19-NQ-CP-thanh-lap-thanh-pho-Bao-Loc-thuoc-tinh-Lam-Dong-vb103726t13.aspx Nghị quyết 19/NQ-CP năm 2010 thành lập thành phố Bảo Lộc]</ref>
+
+Ngày 24 tháng 10 năm 2024, Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 1245/NQ-UBTVQH15<ref name="1245/NQ-UBTVQH15">{{Chú thích web |url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=90607 |tựa đề=Nghị quyết số 1245/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp huyện, cấp xã của tỉnh Lâm Đồng giai đoạn 2023 – 2025 |tác giả= |ngày=2024-10-24 |website=Cổng thông tin điện tử Quốc hội Việt Nam |url lưu trữ=https://web.archive.org/web/20241102122247/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=90607 |ngày lưu trữ=2024-11-02 |ngày truy cập=2024-11-02 |url-status=live}}</ref> về việc sắp xếp đơn vị hành chính cấp huyện, cấp xã của tỉnh Lâm Đồng giai đoạn 2023 – 2025 (nghị quyết có hiệu lực từ ngày 1 tháng 12 năm 2024). Theo đó, sáp nhập huyện [[Cát Tiên (huyện)|Cát Tiên]] và huyện [[Đạ Tẻh (huyện)|Đạ Tẻh]] vào huyện [[Đạ Huoai (huyện)|Đạ Huoai]].
+
+Từ đó, tỉnh Lâm Đồng có 2 thành phố: Đà Lạt (tỉnh lỵ), Bảo Lộc và 8 huyện: Bảo Lâm, Đạ Huoai, Đam Rông, Di Linh, Đơn Dương, Đức Trọng, Lạc Dương, Lâm Hà.
+
+Ngày 12 tháng 6 năm 2025, Quốc hội ban hành Nghị quyết số 202/2025/QH15<ref name="202/2025/QH15">{{Chú thích web|url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94532|tựa đề= Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh |ngày= 2025-06-12 |website= Cổng thông tin điện tử Quốc hội Việt Nam |url lưu trữ=https://web.archive.org/web/20250612150244/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94532|ngày lưu trữ= 2025-06-12 |ngày truy cập= 2025-06-12 |url-status=live}}</ref> về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày 12 tháng 6 năm 2025). Theo đó, sáp nhập toàn bộ tỉnh [[Bình Thuận (tỉnh)|Bình Thuận]] và tỉnh [[Đắk Nông]] vào tỉnh Lâm Đồng.
+
+Sau khi sáp nhập, tỉnh Lâm Đồng có 24.233,07&nbsp;km² diện tích tự nhiên và quy mô dân số là 3.872.999 người. Là tỉnh có diện tích lớn nhất Việt Nam sau sáp nhập.
+
+Ngày 16 tháng 6 năm 2025:
+* Quốc hội ban hành Nghị quyết số 203/2025/QH15<ref>{{Chú thích web|url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94585|tựa đề= Nghị quyết số 203/2025/QH15 về việc Sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |ngày= 2025-06-16 |website= Cổng thông tin điện tử Quốc hội Việt Nam |url lưu trữ=https://web.archive.org/web/20250616150846/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94585|ngày lưu trữ= 2025-06-16 |ngày truy cập= 2025-06-16 |url-status= dead }}</ref> về việc Sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam. Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+* Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 1668/NQ-UBTVQH15<ref>{{Chú thích web|url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94591|tựa đề= Nghị quyết số 1668/NQ-UBTVQH15 về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Cần Thơ năm 2025 |ngày= 2025-06-16 |website= Cổng thông tin điện tử Quốc hội Việt Nam |url lưu trữ=https://web.archive.org/web/20250616150846/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94591|ngày lưu trữ= 2025-06-16 |ngày truy cập= 2025-06-16 |url-status= dead }}</ref> về việc sắp xếp các đơn vị hành chính cấp xã của tỉnh Lâm Đồng năm 2025 (nghị quyết có hiệu lực từ ngày 16 tháng 6 năm 2025).
+
+Tỉnh Lâm Đồng có 124 đơn vị hành chính cấp xã, bao gồm 20 phường, 103 xã và 1 đặc khu.
+
+Vào ngày 16 tháng 7 năm 2026, Chính phủ ban hành Quyết định số 118/NQ-CP, chính thức chuyển giao Vườn quốc gia Cát Tiên về [[Ủy ban nhân dân|UBND]] [[Đồng Nai|Thành Phố Đồng Nai]] trực tiếp quản lý, bao gồm cả phần diện tích thuộc địa giới hành chính tỉnh Lâm Đồng nhằm thống nhất đầu mối quản lý và bảo tồn. [https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/188-2026nqcp.signed.pdf]
+
+==Hành chính==
+{{Chính|Danh sách đơn vị hành chính thuộc tỉnh Lâm Đồng|Đô thị tại Lâm Đồng}}
+[[File:Administrative Map of Lâm Đồng.png|thumb|Bản đồ của 124 đơn vị hành chính cấp xã của tỉnh Lâm Đồng]]
+Tỉnh Lâm Đồng có 124 [[Đơn vị hành chính cấp xã (Việt Nam)|đơn vị hành chính cấp xã]], gồm 20 [[Phường (Việt Nam)|phường]], 103 [[Xã (Việt Nam)|xã]] và 1 [[Đặc khu (Việt Nam)|đặc khu]].<ref>{{Chú thích web |date=20 June 2025 |title=Toàn văn Nghị quyết số 1671/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Lâm Đồng năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1671-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-lam-dong-nam-2025-119250616201715664.htm |website=Báo Điện tử Chính Phủ}}</ref>
+
+{| class="wikitable sortable" cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+|+
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" | Danh sách các đơn vị hành chính trực thuộc tỉnh Lâm Đồng<ref>Căn cứ theo đề án số 399/ĐA-CP ngày 09 tháng 5 năm 2025 về việc sắp xếp các đơn vị hành chính cấp xã của tỉnh Lâm Đồng năm 2025</ref>
+|-
+| valign="top" width="25%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" style="background: #f9f9f9; font-size: 90%; text-align: right;" width="100%"
+|-
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" | Tên
+! style="border-bottom: 2px solid #CCCCFF;" ! |Diện tích<br>(km²) !! style="border-bottom: 2px solid #CCCCFF;" |Dân số<br>(người)
+|-
+| colspan="3" align="left" style="background: #F5F5DC; padding-left: 30px;" |'''Phường (20)'''
+|-
+| align="left" |[[Phường 1 Bảo Lộc|1 Bảo Lộc]]
+|51,46
+|55.845
+|-
+| align="left" |[[Phường 2 Bảo Lộc|2 Bảo Lộc]]
+|176,72
+|49.564
+|-
+| align="left" |[[Phường 3 Bảo Lộc|3 Bảo Lộc]]
+|108,98
+|54.445
+|-
+| align="left" |[[Bắc Gia Nghĩa]]
+|250,55
+|37.760
+|-
+| align="left" |[[B'Lao]]
+|33,72
+|51.538
+|-
+| align="left" |[[Bình Thuận, Lâm Đồng|Bình Thuận]]
+|45,16
+|47.858
+|-
+| align="left" |[[Cam Ly – Đà Lạt]]
+|80,92
+|48.919
+|-
+| align="left" |[[Đông Gia Nghĩa]]
+|105,78
+|24.199
+|-
+| align="left" |[[Hàm Thắng]]
+|44,90
+|54.544
+|-
+| align="left" |[[La Gi (phường)|La Gi]]
+|68,47
+|60.549
+|-
+| align="left" |[[Lang Biang – Đà Lạt]]
+|322,66
+|40.041
+|-
+| align="left" |[[Lâm Viên – Đà Lạt]]
+|35,03
+|71.369
+|-
+| align="left" |[[Mũi Né]]
+|118,59
+|50.166
+|-
+| align="left" |[[Nam Gia Nghĩa]]
+|80,58
+|23.650
+|-
+| align="left" |[[Phan Thiết (phường)|Phan Thiết]]
+|4,46
+|85.493
+|-
+| align="left" |[[Phú Thủy]]
+|17,31
+|54.049
+|-
+| align="left" |[[Phước Hội]]
+|38,09
+|49.480
+|-
+| align="left" |[[Tiến Thành, Lâm Đồng|Tiến Thành]]
+|55,06
+|28.395
+|-
+| align="left" |[[Xuân Hương – Đà Lạt|Xuân Hương –<br>Đà Lạt]]
+|73,45
+|103.178
+|-
+| align="left" |[[Xuân Trường – Đà Lạt|Xuân Trường –<br>Đà Lạt]]
+|168,83
+|36.163
+|-
+| colspan="3" align="left" style="background: #F5F5DC; padding-left: 30px;" |'''Xã (103)'''
+|-
+| align="left" |[[Bảo Lâm 1]]
+|204,43
+|44.151
+|-
+| align="left" |[[Bảo Lâm 2]]
+|114,00
+|33.092
+|-
+| align="left" |[[Bảo Lâm 3]]
+|152,13
+|32.917
+|-
+| align="left" |[[Bảo Lâm 4]]
+|343,35
+|10.073
+|-
+| align="left" |[[Bảo Lâm 5]]
+|511,88
+|11.596
+|-
+| align="left" |[[Bảo Thuận]]
+|300,30
+|29.557
+|-
+| align="left" |[[Bắc Bình (xã)|Bắc Bình]]
+|148,99
+|51.344
+|-
+| align="left" |[[Bắc Ruộng]]
+|165,33
+|18.949
+|-
+| align="left" |[[Cát Tiên (xã)|Cát Tiên]]
+|78,13
+|19.735
+|}
+| valign="top" width="25%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" style="background: #f9f9f9; font-size: 90%; text-align: right;" width="100%"
+|-
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" | Tên
+! style="border-bottom: 2px solid #CCCCFF;" ! |Diện tích<br>(km²) !! style="border-bottom: 2px solid #CCCCFF;" |Dân số<br>(người)
+|-
+| align="left" |[[Cát Tiên 2]]
+|177,26
+|15.042
+|-
+| align="left" |[[Cát Tiên 3]]
+|171,31
+|10.591
+|-
+| align="left" |[[Cư Jút (xã)|Cư Jút]]
+|104,11
+|49.614
+|-
+| align="left" |[[Di Linh (xã)|Di Linh]]
+|268,28
+|64.179
+|-
+| align="left" |[[D'Ran]]
+|240,89
+|33.517
+|-
+| align="left" |[[Đạ Huoai (xã)|Đạ Huoai]]
+|113,96
+|23.117
+|-
+| align="left" |[[Đạ Huoai 2]]
+|249,57
+|14.929
+|-
+| align="left" |[[Đạ Huoai 3]]
+|131,51
+|6.571
+|-
+| align="left" |[[Đạ Tẻh (xã)|Đạ Tẻh]]
+|145,85
+|30.725
+|-
+| align="left" |[[Đạ Tẻh 2]]
+|186,07
+|14.590
+|-
+| align="left" |[[Đạ Tẻh 3]]
+|194,82
+|11.678
+|-
+| align="left" |[[Đam Rông 1]]
+|172,55
+|17.265
+|-
+| align="left" |[[Đam Rông 2]]
+|365,58
+|16.253
+|-
+| align="left" |[[Đam Rông 3]]
+|139,38
+|15.841
+|-
+| align="left" |[[Đam Rông 4]]
+|391,25
+|17.184
+|-
+| align="left" |[[Đắk Mil (xã)|Đắk Mil]]
+|213,76
+|31.579
+|-
+| align="left" |[[Đắk Sắk]]
+|99,00
+|28.058
+|-
+| align="left" |[[Đắk Song, Lâm Đồng|Đắk Song]]
+|193,19
+|12.701
+|-
+| align="left" |[[Đắk Wil]]
+|515,16
+|24.344
+|-
+| align="left" |[[Đinh Trang Thượng]]
+|203,77
+|20.568
+|-
+| align="left" |[[Đinh Văn Lâm Hà]]
+|89,87
+|48.702
+|-
+| align="left" |[[Đông Giang, Lâm Đồng|Đông Giang]]
+|205,23
+|5.131
+|-
+| align="left" |[[Đồng Kho]]
+|268,72
+|30.885
+|-
+| align="left" |[[Đơn Dương (xã)|Đơn Dương]]
+|127,81
+|45.160
+|-
+| align="left" |[[Đức An]]
+|161,02
+|33.178
+|-
+| align="left" |[[Đức Lập, Lâm Đồng|Đức Lập]]
+|88,19
+|48.586
+|-
+| align="left" |[[Đức Linh (xã)|Đức Linh]]
+|103,27
+|51.099
+|-
+| align="left" |[[Đức Trọng (xã)|Đức Trọng]]
+|148,78
+|85.163
+|-
+| align="left" |[[Gia Hiệp]]
+|324,43
+|21.462
+|-
+| align="left" |[[Hải Ninh, Lâm Đồng|Hải Ninh]]
+|289,99
+|19.422
+|-
+| align="left" |[[Hàm Kiệm]]
+|162,09
+|31.445
+|-
+| align="left" |[[Hàm Liêm]]
+|113,81
+|31.253
+|-
+| align="left" |[[Hàm Tân (xã)|Hàm Tân]]
+|198,46
+|35.209
+|}
+| valign="top" width="25%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" style="background: #f9f9f9; font-size: 90%; text-align: right;" width="100%"
+|-
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" | Tên
+! style="border-bottom: 2px solid #CCCCFF;" ! |Diện tích<br>(km²) !! style="border-bottom: 2px solid #CCCCFF;" |Dân số<br>(người)
+|-
+| align="left" |[[Hàm Thạnh]]
+|440,70
+|16.306
+|-
+| align="left" |[[Hàm Thuận (xã)|Hàm Thuận]]
+|198,36
+|50.680
+|-
+| align="left" |[[Hàm Thuận Bắc (xã)|Hàm Thuận Bắc]]
+|292,70
+|29.855
+|-
+| align="left" |[[Hàm Thuận Nam (xã)|Hàm Thuận Nam]]
+|111,82
+|32.771
+|-
+| align="left" |[[Hiệp Thạnh]]
+|127,19
+|51.310
+|-
+| align="left" |[[Hòa Bắc]]
+|159,35
+|19.979
+|-
+| align="left" |[[Hòa Ninh]]
+|95,17
+|31.904
+|-
+| align="left" |[[Hòa Thắng, Lâm Đồng|Hòa Thắng]]
+|328,09
+|11.558
+|-
+| align="left" |[[Hoài Đức, Lâm Đồng|Hoài Đức]]
+|105,04
+|47.509
+|-
+| align="left" |[[Hồng Sơn, Lâm Đồng|Hồng Sơn]]
+|189,01
+|29.875
+|-
+| align="left" |[[Hồng Thái, Lâm Đồng|Hồng Thái]]
+|101,64
+|25.049
+|-
+| align="left" |[[Ka Đô]]
+|108,08
+|27.954
+|-
+| align="left" |[[Kiến Đức]]
+|167,63
+|38.928
+|-
+| align="left" |[[Krông Nô, Lâm Đồng|Krông Nô]]
+|159,82
+|22.636
+|-
+| align="left" |[[La Dạ]]
+|264,17
+|9.435
+|- 
+| align="left" |[[Lạc Dương (xã)|Lạc Dương]]
+| 828,01||14.912
+|-
+| align="left" |[[Liên Hương]]
+|128,23
+|70.737
+|-
+| align="left" |[[Lương Sơn, Lâm Đồng|Lương Sơn]]
+|159,21
+|23.912
+|-
+| align="left" |[[Nam Ban Lâm Hà]]
+|117,55
+|32.722
+|-
+| align="left" |[[Nam Dong]]
+|104,04
+|35.701
+|-
+| align="left" |[[Nam Đà]]
+| 132,69||21.520
+|-
+| align="left" |[[Nam Hà Lâm Hà]]
+|100,34
+|10.978
+|- 
+| align="left" |[[Nam Thành]]
+| 201,78||37.497
+|-
+| align="left" |[[Nâm Nung]]
+|219,66
+|19.655
+|-
+| align="left" |[[Nghị Đức]]
+|114,97
+|20.737
+|-
+| align="left" |[[Nhân Cơ]]
+|158,05
+|27.898
+|- 
+| align="left" |[[Ninh Gia]]
+|143,83
+|16.311
+|-
+| align="left" |[[Phan Rí Cửa]]
+|67,67
+|86.813
+|- 
+| align="left" |[[Phan Sơn]]
+|584,52
+|7.428
+|-
+| align="left" |[[Phú Sơn Lâm Hà]]
+|240,08
+|25.212
+|-
+| align="left" |[[Phúc Thọ Lâm Hà]]
+|230,47
+|23.308
+|-
+| align="left" |[[Quảng Hòa (xã)|Quảng Hòa]]
+|85,44
+|8.594
+|-
+| align="left" |[[Quảng Khê, Lâm Đồng|Quảng Khê]]
+|224,29
+|17.825
+|}
+| valign="top" width="25%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" style="background: #f9f9f9; font-size: 90%; text-align: right;" width="100%"
+|-
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" | Tên
+! style="border-bottom: 2px solid #CCCCFF;" ! |Diện tích<br>(km²) !! style="border-bottom: 2px solid #CCCCFF;" |Dân số<br>(người)
+|-
+| align="left" |[[Quảng Lập]]
+|135,08
+|24.898
+|-
+| align="left" |[[Quảng Phú, Lâm Đồng|Quảng Phú]]
+|263,58
+|17.573
+|-
+| align="left" |[[Quảng Sơn]]
+|454,22
+|22.018
+|-
+| align="left" |[[Quảng Tân, Lâm Đồng|Quảng Tân]]
+|294,18
+|31.185
+|-
+| align="left" |[[Quảng Tín (xã)|Quảng Tín]]
+|310,17
+|34.591
+|-
+| align="left" |[[Quảng Trực]]
+|558,78
+|11.168
+|-
+| align="left" |[[Sông Lũy (xã)|Sông Lũy]]
+|253,33
+|21.243
+|-
+| align="left" |[[Sơn Điền]]
+|261,88
+|7.310
+|-
+| align="left" |[[Sơn Mỹ]]
+|254,52
+|26.599
+|-
+| align="left" |[[Suối Kiết]]
+|378,61
+|16.656
+|-
+| align="left" |[[Tà Đùng]]
+|531,33
+|22.703
+|-
+| align="left" |[[Tà Hine]]
+|128,69
+|23.027
+|-
+| align="left" |[[Tà Năng]]
+|258,33
+|13.077
+|-
+| align="left" |[[Tánh Linh (xã)|Tánh Linh]]
+|271,39
+|46.741
+|-
+| align="left" |[[Tân Hà Lâm Hà]]
+|168,34
+|38.996
+|-
+| align="left" |[[Tân Hải (xã)|Tân Hải]]
+|77,18
+|25.626
+|-
+| align="left" |[[Tân Hội, Lâm Đồng|Tân Hội]]
+|79,94
+|28.979
+|-
+| align="left" |[[Tân Lập, Lâm Đồng|Tân Lập]]
+|195,58
+|19.612
+|-
+| align="left" |[[Tân Minh, Lâm Đồng|Tân Minh]]
+| 223,76||22.292
+|-
+| align="left" |[[Tân Thành, Lâm Đồng|Tân Thành]]
+|177,58
+|31.309
+|-
+| align="left" |[[Thuận An, Lâm Đồng|Thuận An]]
+|315,81
+|22.625
+|- 
+| align="left" |[[Thuận Hạnh]]
+| 129,78||19.236
+|-
+| align="left" |[[Trà Tân, Lâm Đồng|Trà Tân]]
+|135,94
+|29.638
+|-
+| align="left" |[[Trường Xuân, Lâm Đồng|Trường Xuân]]
+|322,47
+|26.838
+|-
+| align="left" |[[Tuy Đức (xã)|Tuy Đức]]
+|265,99
+|31.786
+|-
+| align="left" |[[Tuy Phong (xã)|Tuy Phong]]
+|444,10
+|9.510
+|-
+| align="left" |[[Tuyên Quang (xã)|Tuyên Quang]]
+|38,17
+|28.817
+|- 
+| align="left" |[[Vĩnh Hảo]]
+|138,58
+|15.509
+|-
+| colspan="3" align="left" style="background: #F5F5DC; padding-left: 30px;" |'''Đặc khu (1)'''
+|- 
+| align="left" |[[Phú Quý]]
+| 18,02||32.268
+|}
+|}
+
+== Kinh tế ==
+{{Chính|Danh sách đơn vị hành chính Việt Nam theo GRDP}}{{Chính|Danh sách đơn vị hành chính Việt Nam theo GRDP bình quân đầu người}}
+Năm 2025 là năm đầu tiên tỉnh Lâm Đồng hoạt động sau khi hợp nhất ba tỉnh Lâm Đồng, [[Đắk Nông]] và [[Bình Thuận]]. Tổng sản phẩm trên địa bàn (GRDP) tăng 6,42% so với năm trước. Trong đó khu vực nông, lâm nghiệp và thủy sản tăng 5,10%, đóng góp 1,68 điểm phần trăm; khu vực công nghiệp và xây dựng tăng 5,54%, đóng góp 1,21 điểm phần trăm; khu vực dịch vụ tăng 8,28%, đóng góp 3,33 điểm phần trăm.<ref name="tkld2025">{{Chú thích web |url=https://thongkelamdong.nso.gov.vn/tin-tuc/10051 |tiêu đề=Tình hình kinh tế - xã hội tháng 12, quý IV và năm 2025 tỉnh Lâm Đồng |website=Thống kê tỉnh Lâm Đồng |ngày=2026-01-06 |ngày truy cập=2026-08-09}}</ref> Mức tăng 8,28% của khu vực dịch vụ là mức cao nhất trong ba năm gần đây. Các ngành tăng mạnh gồm bán buôn và bán lẻ tăng 10,55%, vận tải kho bãi tăng 15,07%, dịch vụ lưu trú và ăn uống tăng 9,79%.<ref name="tkld2025" />
+
+Về cơ cấu kinh tế, khu vực nông, lâm nghiệp và thủy sản vẫn chiếm tỷ trọng lớn nhất với 38,59%; khu vực dịch vụ chiếm 35,83%; khu vực công nghiệp và xây dựng chiếm 20,87%; thuế sản phẩm trừ trợ cấp sản phẩm chiếm 4,71%..<ref name="tkld2025" />
+
+GRDP bình quân đầu người năm 2025 ước đạt 105,24 triệu đồng, tăng 12,7% so với năm trước, tương đương 4.047,6 USD. Năng suất lao động toàn nền kinh tế ước đạt 186,02 triệu đồng trên một lao động.<ref name="tkld2025" />
+
+Năm 2025, tỉnh triển khai nhiệm vụ phát triển kinh tế – xã hội trong năm đầu tiên sau sáp nhập, phát sinh nhiều vấn đề về sắp xếp tổ chức bộ máy, điều chỉnh quy hoạch, phân bổ nguồn lực và thống nhất cơ chế quản lý, điều hành. Những vấn đề này ảnh hưởng nhất định đến tiến độ triển khai một số chương trình, dự án. Tiến độ giải ngân vốn của các công trình trọng điểm còn chậm do vướng mắc về quy hoạch khoáng sản, cấp phép vật liệu xây dựng, năng lực nhà thầu và công tác giải phóng mặt bằng.<ref name="tkld2025" />
+Trong năm, trên địa bàn tỉnh xảy ra 38 vụ thiên tai do mưa lớn kèm dông, lốc, sét, gió giật mạnh và lũ quét, làm 17 người chết và 21 người bị thương, tổng giá trị thiệt hại ước khoảng 1.840,6 tỷ đồng.<ref name="tkld2025" />
+=== Nông, lâm nghiệp và thủy sản ===
+[[Tập tin:Vườn Thanh Long ở Hàm Thuận Nam, Bình Thuận.JPG|nhỏ|400px|Vườn Thanh Long ở Huyện Hàm Thuận Nam cũ]]
+
+Diện tích gieo trồng cây hàng năm năm 2025 ước đạt 425.790,4 ha, tăng 1,43% so với năm trước. Sản lượng lương thực ước đạt 1.392.779,1 tấn, trong đó thóc đạt 1.006.108 tấn.<ref name="tkld2025" />
+
+Tổng diện tích cây lâu năm đạt 622.873 ha, tăng 1,24%. [[Cà phê]] là cây trồng chủ lực với 328.650 ha và sản lượng 1.028.393 tấn, tăng 5,57%. Tiếp đến là [[cao su]] với 75.381 ha, [[điều (thực vật)|điều]] 50.215 ha, [[hồ tiêu]] 37.193 ha với sản lượng 89.865 tấn, [[sầu riêng]] 44.283,5 ha với sản lượng 290.266 tấn, [[thanh long]] 26.126 ha với sản lượng 577.731 tấn, [[dâu tằm]] 11.320,4 ha và [[chè]] 9.329,3 ha. Diện tích chè giảm 5,48% do nhiều hộ chuyển đổi diện tích chè già cỗi sang cà phê, sầu riêng, bơ và chanh dây.<ref name="tkld2025" />
+
+Diện tích sản xuất nông nghiệp theo hướng công nghệ cao đạt 107.217 ha, với 16 vùng trồng trọt được công nhận ứng dụng công nghệ cao và 8 doanh nghiệp nông nghiệp công nghệ cao. Trong năm 2025, toàn tỉnh được cấp 952 mã số vùng trồng xuất khẩu với tổng diện tích 39.182 ha cùng 341 cơ sở đóng gói. Chương trình OCOP có 926 sản phẩm được chứng nhận, gồm 75 sản phẩm 4 sao và 844 sản phẩm 3 sao.<ref name="tkld2025" />
+
+Về chăn nuôi, tổng đàn lợn đạt 1.532,3 nghìn con, tăng 4,06%; đàn gia cầm 22.395,6 nghìn con, tăng 8,05%; đàn bò 318,7 nghìn con, trong đó bò sữa 28,9 nghìn con. Sản lượng thịt lợn hơi xuất chuồng cả năm đạt 240.000,6 tấn, tăng 6,59%. Sản lượng sữa bò đạt 95.031,7 tấn.<ref name="tkld2025" />
+
+Toàn tỉnh có 966 công trình thủy lợi, gồm 536 hồ chứa, 255 đập dâng, 51 trạm bơm, 91 đập tạm, 13 cống dâng và 20 kênh tiêu, cùng khoảng 3.632&nbsp;km kênh mương, trong đó đã kiên cố hóa khoảng 1.940&nbsp;km, đạt 53,4%. Năm 2025, diện tích canh tác được tưới đạt trên 73,45% diện tích cần tưới.<ref name="tkld2025" />
+
+Diện tích rừng trồng mới tập trung ước đạt 5.030 ha, giảm 22,61% so với năm trước; sản lượng gỗ khai thác đạt 368.390 m³. Trong năm xảy ra 390 vụ vi phạm Luật Lâm nghiệp, trong đó 173 vụ phá rừng trái pháp luật với diện tích thiệt hại 29,99 ha, giảm mạnh so với năm 2024.<ref name="tkld2025" />
+
+Sản lượng khai thác thủy sản đạt 252.530 tấn, tăng 4,89%, trong đó khai thác biển đạt 251.920 tấn. Sản lượng nuôi trồng đạt 28.727 tấn, giảm 5,55%. Sản lượng tôm giống đạt 24,63 tỷ post, tăng 6,32%.<ref name="tkld2025" />
+
+=== Công nghiệp và xây dựng ===
+[[File:EVNSPC Lam Dong.jpg|nhỏ|Công ty Điện lực Lâm Đồng]]
+Chỉ số sản xuất toàn ngành công nghiệp năm 2025 ước tăng 4,79% so với năm trước. Trong đó công nghiệp khai khoáng tăng 10,46%; công nghiệp chế biến, chế tạo tăng 9,5%; sản xuất và phân phối điện tăng 2,01%.<ref name="tkld2025" />
+
+Sản lượng một số sản phẩm chủ yếu gồm điện sản xuất 36.652 triệu kWh, tăng 2,04%; ôxit nhôm 1.584.396 tấn, tăng 4,39%; đá xây dựng 4.199.087 m³, tăng 10,21%; phân bón 127.695 tấn, tăng 22,71% nhờ Nhà máy hóa chất Đức Giang – Đắk Nông đi vào sản xuất; giày dép 6.548 nghìn đôi, gấp 1,78 lần năm trước; rau quả chế biến 37.063 tấn, tăng 17,52%.<ref name="tkld2025" />
+
+Các khu công nghiệp trên địa bàn tỉnh có 228 dự án còn hiệu lực, gồm 51 dự án FDI và 177 dự án trong nước, với tổng vốn đăng ký 43.326,61 tỷ đồng và 466,44 triệu USD, tỷ lệ lấp đầy đạt 49,24%. Khu công nghiệp Phan Thiết giai đoạn 1 đã lấp đầy 100%, tiếp đến là Tâm Thắng 97,01% và Lộc Sơn 87,29%.<ref name="tkld2025" />
+
+Giá trị sản xuất ngành xây dựng năm 2025 ước đạt 62.658,8 tỷ đồng, tăng 9,67% so với năm trước. Khu vực doanh nghiệp ngoài nhà nước chiếm tỷ trọng lớn nhất với 55,83%.<ref name="tkld2025" />
+
+=== Thương mại, dịch vụ và du lịch ===
+[[Tập tin:Thac DamBri.jpg|nhỏ|350px|phải|Thác ĐamBri]]
+Tổng mức bán lẻ hàng hóa và doanh thu các ngành dịch vụ năm 2025 ước đạt 261.381,8 tỷ đồng, tăng 16,28% so với năm trước. Trong đó tổng mức bán lẻ hàng hóa đạt 175.214,4 tỷ đồng, doanh thu lưu trú, ăn uống và lữ hành đạt 57.254,8 tỷ đồng, tăng 19,06%.<ref name="tkld2025" />
+
+Du lịch là điểm sáng của khu vực dịch vụ. Năm 2025, tỉnh đón 20.733,1 nghìn lượt khách, tăng 17,91% so với năm trước, trong đó khách quốc tế đạt 1.287 nghìn lượt, tăng 39,78%. Doanh thu từ hoạt động du lịch ước đạt 56.610,6 tỷ đồng, tăng 24,1%. Thị trường khách quốc tế chủ yếu là [[Hàn Quốc]], [[Trung Quốc]], [[Liên bang Nga]], [[Mỹ]], [[Đài Loan]], [[Đức]], [[Anh]] và [[Malaysia]]. Các điểm đến nổi bật gồm [[NovaWorld Phan Thiết]], [[Phú Quý]], [[Thung lũng Tình yêu]], [[hồ Xuân Hương]], [[thác Prenn]] và [[Cù Lao Câu]].<ref name="tkld2025" />
+
+Doanh thu vận tải, kho bãi năm 2025 ước đạt 14.416,3 tỷ đồng, tăng 15,45%. Khối lượng hàng hóa thông qua [[Cảng quốc tế Vĩnh Tân]] ước đạt 2.466,1 nghìn tấn, trong đó xuất cảng đạt 2.277,2 nghìn tấn.<ref name="tkld2025" />
+
+Chỉ số giá tiêu dùng bình quân năm 2025 tăng 3,56% so với năm trước.<ref name="tkld2025" />
+
+=== Ngân sách và tín dụng ===
+Thu ngân sách nhà nước năm 2025 ước đạt 31.319 tỷ đồng, bằng 110,86% kế hoạch và tăng 9,59% so với năm trước. Trong đó thu nội địa đạt 29.680 tỷ đồng, tăng 16,38%; thu từ xuất nhập khẩu đạt 1.639 tỷ đồng, giảm 46,69%. Tổng chi ngân sách nhà nước ước đạt 47.984 tỷ đồng.<ref name="tkld2025" />
+
+Ước đến ngày 31 tháng 12 năm 2025, huy động vốn của các tổ chức tín dụng trên địa bàn đạt 227.500 tỷ đồng, tăng gần 16% so với đầu năm; dư nợ cho vay đạt 373.000 tỷ đồng, tăng 9,89%. Tỷ lệ nợ xấu ở mức 2,16% tổng dư nợ.<ref name="tkld2025" />
+
+==Y tế==
+Sau khi hợp nhất ba tỉnh năm 2025, hệ thống y tế công lập của tỉnh Lâm Đồng gồm 14 bệnh viện và 28 trung tâm y tế khu vực.<ref>{{Chú thích web |url=https://plo.vn/lam-dong-co-14-benh-vien-28-trung-tam-y-te-khu-vuc-sau-sap-nhap-post858794.html |tiêu đề=Lâm Đồng có 14 bệnh viện, 28 trung tâm y tế khu vực sau sáp nhập |website=Báo Pháp Luật Thành phố Hồ Chí Minh |ngày=2025-07-04 |ngày truy cập=2026-08-09}}</ref> Tại vùng dân tộc thiểu số, toàn bộ các xã đều có trạm y tế, trong đó phần lớn đạt chuẩn quốc gia về y tế.<ref name="tkld2025">{{Chú thích web |url=https://thongkelamdong.nso.gov.vn/tinh-hinh-kinh-te-xa-hoi/30 |tiêu đề=Tình hình kinh tế - xã hội tháng 12, quý IV và năm 2025 tỉnh Lâm Đồng |website=Thống kê tỉnh Lâm Đồng |ngày=2026-01-07 |ngày truy cập=2026-08-09}}</ref>
+
+Năm 2025, các cơ sở y tế trên địa bàn tỉnh đã khám bệnh cho 5.747.286 lượt người. Số lượt bệnh nhân điều trị nội trú là 463.480 với tổng cộng 3.060.269 ngày điều trị, trung bình 5,69 ngày mỗi bệnh nhân. Công suất sử dụng giường bệnh toàn tỉnh đạt 88%. Trong năm, các cơ sở y tế đã xét nghiệm 8.994.624 tiêu bản, chẩn đoán 1.607.295 hình ảnh và phẫu thuật cho 60.017 trường hợp.<ref name="tkld2025" />
+
+Doanh thu dịch vụ y tế và hoạt động trợ giúp xã hội năm 2025 đạt 1.567,1 tỷ đồng, tăng 18,6% so với năm trước.<ref name="tkld2025" />
+
+Tính đến ngày 30 tháng 11 năm 2025, toàn tỉnh có 2.907.080 người tham gia [[bảo hiểm y tế]], tăng 0,47% so với cùng kỳ năm trước. Tỷ lệ dân số tham gia bảo hiểm y tế đạt 93,02%. Riêng tại vùng dân tộc thiểu số, tỷ lệ này đạt khoảng 93 đến 94%, phần lớn nhờ chính sách hỗ trợ của Nhà nước.<ref name="tkld2025" />
+
+==Giáo dục==
+[[File:Hoc sinh o Da Lat.jpg|nhỏ|400px|Hai học sinh ở Đà Lạt]]
+Sau khi hợp nhất ba tỉnh năm 2025, tỉnh Lâm Đồng có 1.453 trường công lập.<ref name="tp">{{Chú thích web |url=https://tienphong.vn/lam-dong-giam-hon-1800-can-bo-nhan-vien-nganh-giao-duc-sau-sap-xep-post1865181.tpo |tiêu đề=Lâm Đồng giảm hơn 1.800 cán bộ, nhân viên ngành giáo dục sau sắp xếp |website=Báo Tiền Phong |ngày=2026-08-04 |ngày truy cập=2026-08-09}}</ref> Trong năm học 2025–2026, hơn 1.000 học sinh của hai tỉnh [[Bình Thuận]] và [[Đắk Nông]] cũ theo cha mẹ chuyển đến khu vực [[Đà Lạt]] để học tiếp chương trình phổ thông, khi cha mẹ các em công tác tại các cơ quan hành chính cấp tỉnh. Sở Giáo dục và Đào tạo đã ban hành Công văn số 48/SGDĐT-GDTrH ngày 14 tháng 7 năm 2025 để rà soát thông tin chuyển trường, đồng thời giao chỉ tiêu tiếp nhận cho các trường.<ref>{{Chú thích web |url=https://lamdong.edu.vn/vi/cong-doan-giao-duc/cd-chi-tiet/?param=hoc-sinh-lam-dong-on-dinh-hoc-tap-sau-sap-nhap |tiêu đề=Học sinh Lâm Đồng ổn định học tập sau sáp nhập |website=Sở Giáo dục và Đào tạo tỉnh Lâm Đồng |ngày=2025-08-31 |ngày truy cập=2026-08-09}}</ref>
+
+Thiếu giáo viên là khó khăn lớn nhất của ngành. Trong năm học 2025–2026, nhu cầu giáo viên cho các cấp học của tỉnh là 42.892 người, trong khi số giáo viên hiện có là 37.459 người, tức còn thiếu 5.433 người. Trong số này có 2.262 hợp đồng thuộc chỉ tiêu biên chế chưa tuyển dụng, nên số còn thiếu thực tế là 3.171 giáo viên. Đây là thách thức trong bố trí đội ngũ để thực hiện [[Chương trình giáo dục phổ thông 2018]] và tổ chức dạy học hai buổi mỗi ngày.<ref>{{Chú thích web |url=https://thkimdongbaolam.lamdongtructuyen.vn/chi-tiet-tin-tuc/?param=lam-dong-no-luc-khac-phuc-kho-khan-cho-giao-duc-b658ff5e-6090-4d1b-b702-88383f38d8c0 |tiêu đề=Lâm Đồng nỗ lực khắc phục khó khăn cho giáo dục |website=Sở Giáo dục và Đào tạo tỉnh Lâm Đồng |ngày truy cập=2026-08-09}}</ref>
+
+Tỉnh có 4 trường đại học là [[Trường Đại học Đà Lạt]], [[Trường Đại học Yersin Đà Lạt]], [[Trường Đại học Kiến trúc Thành phố Hồ Chí Minh#Cơ sở tại Đà Lạt|Trường Đại học Phan Thiết, Trường Đại học Kiến trúc Thành phố Hồ Chí Minh cơ sở Đà Lạt]], [[Trường Đại học Tôn Đức Thắng]] cơ sở Bảo Lộc và 2 học viện là [[Học viện Lục quân (Việt Nam)|Học viện Lục quân]], Phân viện Học viện Hành chính Quốc Gia (Việt Nam) khu vực Tây Nguyên. {{cần chú thích|date=ngày 4 tháng 8 năm 2015}}
+
+==Dân số==
+{{Lịch sử dân số
+| title = Lịch sử phát triển dân số tỉnh Lâm Đồng qua các năm
+| type = 
+| align = right
+| cols = 2
+| direction = 
+| width = 15
+| state = 
+| shading = 
+| pop_name = 
+| percentages = 
+| footnote = 
+| source = Trang Thông tin điện tử Cục Thống kê - Bộ Tài chính<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương"/>
+
+|[[1990]] | 691.400
+|[[1991]] | 724.000
+|[[1992]] | 757.600
+|[[1993]] | 790.000
+|[[1994]] | 822.200
+|[[1995]] | 856.300
+|[[1996]] | 891.400
+|[[1997]] | 927.900
+|[[1998]] | 966.300
+|[[1999]] | 1.004.600
+|[[2000]] | 1.031.100
+|[[2001]] | 1.050.700
+|[[2002]] | 1.067.700
+|[[2003]] | 1.085.000
+|[[2004]] | 1.104.400
+|[[2005]] | 1.125.500
+|[[2006]] | 1.145.100
+|[[2007]] | 1.160.500
+|[[2008]] | 1.175.400
+|[[2009]] | 1.189.300
+|[[2010]] | 1.204.100
+|[[2011]] | 1.218.700
+|[[2012]] | 1.232.000
+|[[2013]] | 1.245.400
+|[[2014]] | 1.259.300
+|[[2015]] | 1.273.100
+|[[2016]] | 1.288.200
+|[[2017]] | 1.298.900
+|[[2018]] | 1.312.900
+|[[2019]] | 1.299.300
+|[[2020]] | 1.309.800
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2020]] | 1.615.500
+|[[2021]] | 1.324.800
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2021]] | 1.505.849
+|[[2022]] | 1.332.500
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2022]] | 1.543.239
+|[[2023]] | 1.345.000
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2023]] | 1.556.352
+|[[1 tháng 4|01]]/[[Tháng tư|04]]/[[2024]] | 1.361.129
+|[[2024]] | 1.362.500
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2024]] | 1.595.597
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2024]] | 3.872.999
+|[[2025]] | 
+}}
+
+Tính đến thời điểm ngày 31 tháng 12 năm 2022, tỉnh Lâm Đồng có diện tích tự nhiên là 9.781,20&nbsp;km², dân số là 1.543.239 người<ref>{{Chú thích web|url=https://media.lamdong.gov.vn/media/3329d28b-cd36-4136-8886-7a424e304be5|tựa đề= Phương án số 1292/PA-UBND về việc tổng thể sắp xếp các đơn vị hành chính cấp huyện, cấp xã giai đoạn 2023 – 2030 của tỉnh Lâm Đồng (sau khi rà soát) |tác giả= UBND tỉnh Lâm Đồng |ngày= 2024-02-21 |website=|url lưu trữ=https://web.archive.org/web/20240404231940/https://media.lamdong.gov.vn/media/3329d28b-cd36-4136-8886-7a424e304be5|ngày lưu trữ= 2024-04-04 |ngày truy cập= 2024-04-04 |url-status=dead}}</ref>, mật độ dân số {{formatnum:{{#expr:floor({{formatnum:1.543.239|R}}/{{formatnum:9.781,20|R}})}} }} người/km².
+
+Theo kết quả điều tra dân số giữa kỳ năm 2024, dân số tỉnh Lâm Đồng tính đến ngày 1 tháng 4 năm 2024 là 1.361.129 người.<ref name="0"</ref>
+
+Tính đến năm 2024, tỉnh Lâm Đồng có diện tích tự nhiên 9.781,20&nbsp;km²,<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương">[https://www.nso.gov.vn/px-web-2/?pxid=V0203-07&theme=D%C3%A2n%20s%E1%BB%91%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng Diện tích, dân số và mật độ dân số phân theo địa phương], Trang Thông tin điện tử Cục Thống kê - Bộ Tài chính</ref> dân số trung bình là 1.362.470 người,<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương">[https://www.nso.gov.vn/px-web-2/?pxid=V0203-07&theme=D%C3%A2n%20s%E1%BB%91%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng Diện tích, dân số và mật độ dân số phân theo địa phương], Trang Thông tin điện tử Cục Thống kê - Bộ Tài chính</ref> trong đó dân số nam là 685.910 người chiếm {{formatnum:{{#expr:685910/1362470*100round2}}}}%),<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương"/> dân số nữ là 676.570 người chiếm {{formatnum:{{#expr:676570/1362470*100round2}}}}%),<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương">[https://www.nso.gov.vn/px-web-2/?pxid=V0203-07&theme=D%C3%A2n%20s%E1%BB%91%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng Diện tích, dân số và mật độ dân số phân theo địa phương], Trang Thông tin điện tử Cục Thống kê - Bộ Tài chính</ref> dân số thành thị là 540.440 người chiếm {{formatnum:{{#expr:540440/1362470*100round2}}}}%),<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương"/> dân số nông thôn là 822.030 người chiếm {{formatnum:{{#expr:822030/1362470*100round2}}}}%),<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương"/> với mật độ dân số đạt {{formatnum:{{#expr:floor({{formatnum:1.362.470|R}}/{{formatnum:9.781,20|R}})}} }} người/km².<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương"/>
+
+Tính đến ngày 31 tháng 12 năm 2024, tỉnh Lâm Đồng có diện tích 24.233,07&nbsp;km², quy mô dân số là 3.872.999 người, trong đó dân số thành thị ước tính đạt khoảng 1.027.205 người chiếm ({{formatnum:{{percentage|{{formatnum:1.027.205|R}}|{{formatnum:3.872.999|R}}|2}} }}), dân số nông thôn ước tính đạt khoảng 2.845.794 người chiếm ({{formatnum:{{percentage|{{formatnum:2.845.794|R}}|{{formatnum:3.872.999|R}}|2}} }}), mật độ dân số là {{formatnum:{{#expr:floor({{formatnum:3.872.999|R}}/{{formatnum:24.233,07|R}})}} }} người/km².<ref name="202/2025/QH15"/><ref name=TT/><ref name="DT">{{Chú thích web|url=https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm|tựa đề= Dự kiến chi tiết diện tích, dân số, quy mô kinh tế của 34 tỉnh, thành mới |tác giả= Lê Hoa |ngày= 2025-06-09 |website= Báo Dân Trí |url lưu trữ=https://web.archive.org/web/20250609217756/https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm|ngày lưu trữ= 2025-06-09 |ngày truy cập= 2025-06-09 |url-status= dead }}</ref>
+
+[[Tập tin:Trẻ em vùng cao, Daring, Lâm Đồng.jpg|nhỏ|trái|Trẻ em vùng cao, Daring]]
+
+Theo thống kê của tổng cục thống kê [[Việt Nam]], tính đến ngày [[1 tháng 4]] năm [[2009]], trên địa bàn toàn tỉnh có 43 dân tộc cùng 18 [[người nước ngoài]] sinh sống. Trong đó dân tộc [[người Việt|Kinh]] là đông nhất với 901.316 người, xếp ở vị trí thứ hai là [[người Cơ Ho|người Kaho]] với 145.665 người, [[người Mạ]] đứng ở vị trí thứ 3 với 31.869 người, thứ 4 là [[người Nùng]] với 24.526 người, [[người Tày]] có 20.301 người, [[Người Chu Ru|Chu Ru]] có 18.631 người, [[Người Hoa (Việt Nam)|người Hoa]] có 14.929 người, [[Người M'Nông|Mnông]] có 9.099 người, [[Người Thái (Việt Nam)|người Thái]] có 5.277 người, [[người Mường]] có 4.445 người cùng các dân tộc ít người khác như [[H'Mông|Mông]] với 2.894 người, [[Người Dao|Dao]] với 2.423 người, [[Người Khmer|Khơ Me]] với 1.098 người... ít nhất là [[Người Lô Lô|Lô Lô]], [[Người Cờ Lao|Cơ Lao]] và [[Người Cống|Cống]] mỗi dân tộc chỉ có duy nhất 1 người.<ref name="dstcdtvn">[http://www.gso.gov.vn/Modules/Doc_Download.aspx?DocID=12724 Kết quả toàn bộ Tổng điều tra Dân số và Nhà ở Việt Nam năm 2009], Tổng cục Thống kê Việt Nam.</ref>
+
+Tính đến ngày 1 tháng 4 năm 2019, tỉnh Lâm Đồng, có 13 [[Tôn giáo]] khác nhau chiếm 1.409.702 người. Trong đó, nhiều nhất là [[Công giáo]] có 746.782 người, [[Phật giáo]] có 351.176 người, [[Tin Lành tại Việt Nam|Tin Lành]] có 207.192 người, [[Cao Đài]] có 48.964 người, [[Hồi giáo tại Việt Nam|Hồi giáo]] có 29.643 người, [[Bà La Môn]] có 25.186 người. Các tôn giáo khác như [[Phật giáo Hòa Hảo]] có 517 người, 76 người theo [[Minh Lý Đạo]], 75 người theo đạo [[Bahá'í tại Việt Nam|Bahá'í]], 49 người theo [[Đạo Tứ Ân Hiếu Nghĩa]], 29 người theo [[Minh Sư Đạo]], 7 người [[Tịnh độ cư sĩ Phật hội Việt Nam]], và 6 người theo [[Bửu Sơn Kỳ Hương]].<ref name="dstcdtvn"/>
+
+{| class="wikitable mw-collapsible"
+! rowspan="3" |Dân tộc
+! colspan="8" |Thành phần dân tộc tỉnh Bình Thuận, Lâm Đồng và Đắk Nông năm 2019.<ref name="ds19">{{Chú thích web|title= Kết quả toàn bộ Tổng điều tra dân số và nhà ở năm 2019 |url=https://www.nso.gov.vn/wp-content/uploads/2019/12/Ket-qua-toan-bo-Tong-dieu-tra-dan-so-va-nha-o-2019.pdf |website=Tổng cục Thống kê}}</ref>
+|-
+! colspan="2" |Bình Thuận 
+! colspan="2" |Lâm Đồng
+! colspan="2" |Đắk Nông
+! colspan="2" |Tổng cộng 
+|-
+!Dân số
+!%
+!Dân số
+!%
+!Dân số
+!%
+!Dân số
+!%
+|-
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+!Toàn tỉnh
+!1.230.808
+!100%
+!1.296.906
+!100%
+!622.168
+!100%
+!3.149.882
+!100%
+|-
+|[[Người Việt|Kinh]]
+| 1.133.802 
+|92,12%
+|963.290
+|74,28%
+|419.808
+|67,48%
+|2.516.900
+|79,88%
+|-style="background-color:#FFEBCD;
+|[[Người Cơ Ho|Cơ Ho]]
+| 13.531 
+|1,10%
+|175.531
+|13,53%
+|124
+|/
+|189.186
+|6,0%
+|-
+|[[Người M'Nông|M'Nông]]
+| 27 
+|/
+|10.517
+|0,81%
+|50.718
+|8,15%
+|61.262
+|1,94%
+|-style="background-color:#FFEBCD;
+|[[Người Nùng|Nùng]]
+| 2.529 
+|0,21%
+|24.423
+|1,88%
+|31.063
+|4,99%
+|58.015
+|1,84%
+|-
+|[[Người Tày|Tày]]
+| 5.978 
+|0,49%
+|20.248
+|1,56%
+|24.751
+|3,98%
+|50.977
+|1,62%
+|-style="background-color:#FFEBCD;
+|[[Người Mạ|Mạ]]
+| 33 
+|/
+|38.523
+|2,97%
+|8.087
+|1,30%
+|46.643
+|1,48%
+|-
+|[[Người Chăm|Chăm]]
+| 39.557 
+|3,21%
+|953
+|/
+|109
+|/
+|40.619
+|1,29%
+|-style="background-color:#FFEBCD;
+|[[H'Mông]]
+| 2 
+|/
+|5.248
+|0,40%
+|34.976
+|5,62%
+|40.226
+|1,28%
+|-
+|[[Người Hoa (Việt Nam)|Hoa]]
+| 9.917 
+|0,81%
+|13.788
+|1,06%
+|5.779
+|0,93%
+|29.484
+|0,94%
+|-style="background-color:#FFEBCD;
+|[[Người Dao|Dao]]
+| 47 
+|/
+|3.316
+|0,26%
+|19.786
+|3,18%
+|23.149
+|0,73%
+|-
+|[[Người Chu Ru|Chu Ru]]
+| 8 
+|/
+|22.473
+|1,73%
+|11
+|/
+|22.492
+|0,71%
+|-style="background-color:#FFEBCD;
+|[[Người Raglai|Raglay]]
+| 17.382 
+|1,41%
+|1.910
+|0,15%
+|39
+|/
+|19.331
+|0,61%
+|-
+|[[Người Thái (Việt Nam)|Thái]]
+| 230 
+|/
+|5.680
+|0,44%
+|11.250
+|1,81%
+|17.160
+|0,54%
+|-style="background-color:#FFEBCD;
+|[[Người Mường|Mường]]
+| 788 
+|/
+|6.072
+|0,47%
+|5.446
+|0,88%
+|12.306
+|0,39%
+|-
+|[[Người Ê Đê|Ê Đê]]
+| 42 
+|/
+|285
+|/
+|6.726
+|1,08%
+|7.053
+|0,22%
+|-style="background-color:#FFEBCD;
+|[[Người Chơ Ro|Chơ Ro]]
+| 3.777 
+|0,31%
+|169
+|/
+|83
+|/
+|4.029
+|0,13%
+|}
+
+== Giao thông ==
+[[Tập tin:Ga Binh Thuan 1567.JPG|nhỏ|[[Ga Bình Thuận]], xã [[Hàm Kiệm]]]]
+
+Mặc dù địa hình chủ yếu là đèo, núi, tuy nhiên hệ thống giao thông [[đường giao thông|đường bộ]] vẫn phân bố đều khắp các vùng trong tỉnh. Các tuyến đường Quốc lộ qua Lâm Đồng như [[Quốc lộ 1A]], [[Quốc lộ 20]], [[Quốc lộ 28]], [[Quốc lộ 55]], [[Quốc lộ 27]], [[Quốc lộ 14]],...
+
+Các con sông lớn chảy qua địa bàn tỉnh như sông Đa Dâng, [[sông Đồng Nai]], [[sông La Ngà]], [[sông Đa Nhim]], nhưng vì tốc độ chảy khá cao, ngắn và dốc nên không thuận lợi cho giao thông [[đường thủy]]. Mặt khác đối với đường [[hàng không]] thì tỉnh có sân bay Liên Khương, với các hãng [[Hãng hàng không Quốc gia Việt Nam|Vietnam Airlines]], [[Air Mekong]] và [[Vietjet Air]], [[Bamboo Airways]], [[AirAsia]],... có các chuyến bay thẳng nối Đà Nẵng, [[Hà Nội]] và [[Thành phố Hồ Chí Minh]] và một số sân bay quốc tế trong khu vực tới [[Sân bay Liên Khương|Sân bay quốc tế Liên Khương]], nằm ở ngoại ô thành phố [[Đà Lạt]] cũ.
+
+Tỉnh Lâm Đồng nằm trên hai trục giao thông chính của Việt Nam là Quốc lộ 1A và Quốc lộ 14, vì thế có điều kiện thuận lợi để di chuyển đến địa phương khác và đẩy mạnh ngành Giao thông vận tải.
+
+Nhiều công ty vận tải và vận chuyển hành khách đã khai thác các tuyến giao thông đường bộ ở Lâm Đồng lâu năm như nhà xe Phương Trang, nhà xe Thành Bưởi, nhà xe Lạc Hồng.
+
+=== Đường bộ ===
+Có ba tuyến đường bộ có lưu lượng giao thông lớn trên địa bàn tỉnh là Quốc Lộ 20 kết nối Lâm Đồng với Đồng Nai và đi tuyến TP. Hồ Chí Minh. Quốc lộ 14 kết nối TP. Hồ Chí Minh với TP. Đà Nẵng. Quốc Lộ 27 kết nối Lâm Đồng với Khánh Hòa mà lưu lượng chính chủ yếu là tuyến Đà Lạt - Nha Trang. Đường cao tốc Liên Khương – Prenn kết nối sân bay Liên Khương đến Đà Lạt.
+
+Nhiều tuyến đường cao tốc huyết mạch như Đường cao tốc CT.28 đoạn Tân Phú - Bảo Lộc và Bảo Lộc - Liên Khương, Đường cao tốc CT.25 (Nha Trang - Đà Lạt),... đang trong giai đoạn xây dựng nhằm tăng tính kết nối giữa các vùng, đẩy mạnh giao thương, phát triển kinh tế.
+
+Nhiều công ty vận tải và vận chuyển hành khách đã khai thác các tuyến giao thông đường bộ ở Lâm Đồng lâu năm như nhà xe Phương Trang, nhà xe Thành Bưởi, nhà xe Phong Phú, nhà xe Lạc Hồng.
+
+=== Xe buýt ===
+Xe buýt đóng vai trò quan trọng trong việc di chuyển tham quan du lịch tại Lâm Đồng. Theo đó, có một số tuyến xe buýt chính bao gồm:
+
+* Tuyến Đà Lạt - Đơn Dương
+* Tuyến Đà Lạt - Lạc Dương
+* Tuyến Đà Lạt - Bảo Lộc 
+* Tuyến Đà Lạt - Xuân Trường
+* Tuyến Đà Lạt - Tân Thanh 
+* Tuyến Đà Lạt - Đại Lào
+* Tuyến Đà Lạt - Phú Sơn
+* Tuyến Đà Lạt - Thái Phiên
+* Tuyến Đà Lạt - Đức Trọng
+
+Ngoài các tuyến trên còn một số tuyến xe buýt khác được khai thác nhằm tạo thuận lợi cho di chuyển giữa các địa điểm và cả phục vụ cho tham quan du lịch các địa điểm nổi tiếng của Lâm Đồng.
+
+=== Biển số xe ===
+Biển số xe của các huyện, thành phố trực thuộc tỉnh Lâm Đồng trước ngày 1 tháng 7 năm 2025 như sau:
+
+* Biển số xe ô tô: 49A, 49B, 49C, 49D, 49LD
+* Biển số xe Thành phố Đà Lạt: 49-B1, 49-M8
+* Biển số xe Huyện Đơn Dương: 49-F1
+* Biển số xe Huyện Lạc Dương: 49-P1
+* Biển số xe Huyện Đức Trọng: 49-E1
+* Biển số xe Huyện Lâm Hà: 49-D1
+* Biển số xe Huyện Đam Rông: 49-C1
+* Biển số xe Huyện Di Linh: 49-G1
+* Biển số xe Huyện Đạ Huoai: 49-L1
+* Biển số xe Huyện Đạ Tẻh: 49-M1
+* Biển số xe Huyện Cát Tiên: 49-N1
+* Biển số xe Thành phố Bảo Lộc: 49-K1; 49-S1
+* Biển số xe Huyện Bảo Lâm: 49-H1
+
+=== Đường không ===
+Tỉnh có hai cảng hàng không. [[Sân bay Liên Khương]] phục vụ khu vực Đà Lạt và vùng cao nguyên. Cảng hàng không Phan Thiết đang được đầu tư hạng mục hàng không dân dụng theo hình thức BOT, gắn với Khu đô thị sân bay Phan Thiết, tổng mức đầu tư dự kiến 3.797 tỷ đồng và công suất thiết kế 2 triệu hành khách mỗi năm đến năm 2030.<ref name="tkld2025" />
+
+Trước đây, sân bay Liên Khương chỉ khai thác tuyến Đà Lạt - Hà Nội với tần suất bay 02 chuyến/tuần. Những năm trở lại đây, giao thông bằng đường hàng không dần trở nên phổ biến hơn khi các hãng hàng không mở rộng khai thác thêm các tuyến bay kết nối Sân Bay Liên Khương với các địa điểm khác.
+
+==Du lịch ==
+[[Tập tin:Phan Thiet.jpg|nhỏ|350px|Biển Phan Thiết]]
+
+Lâm Đồng có nhiều thắng cảnh nổi tiếng như các thác nước tại huyện Đức Trọng cũ và những thắng cảnh thiên nhiên tại thành phố mộng mơ Đà Lạt như [[Hồ Than Thở]], [[Hồ Xuân Hương (Đà Lạt)|Hồ Xuân Hương]],... Ngoài ra còn có nhiều thác nước hùng vĩ khác như [[Thác Datanla]], [[Thác Đrây Nur]], [[Thác Pongour]], [[Thác Preen]], [[Thác Cam Ly]],... Sở hữu bờ biển dài nên có nhiều bãi biển đẹp như Mũi Né, Cổ Thạch, Đồi Dương...
+
+Tuy nhiên, trong thời gian gần đây, do không được quan tâm bảo trì đúng mức, cảnh quan nhiều thắng cảnh đang bị phá hủy. Ngày nay 10 trong số 17 thắng cảnh quốc gia xuống cấp, trong đó có ba ngọn thác ở huyện Đức Trọng cũ đã được xếp hạng quốc gia tại Lâm Đồng đã biến mất gồm: [[thác Gougah]], [[thác Liên Khương]] và thác Bảo Đại.<ref name="3bienmat">[http://dulich.tuoitre.vn/Index.aspx?ArticleID=244679&ChannelID=100 Ba danh thắng thiên nhiên quốc gia biến mất]{{Liên kết hỏng|date = ngày 9 tháng 5 năm 2021 |bot=InternetArchiveBot }}</ref> Lý do là vì các đơn vị được giao đầu tư thiếu năng lực và chỉ lo khai thác kinh doanh bán vé.<ref name="3bienmat"/> Ông Đinh Bá Quang - Trưởng phòng Quản lý di sản văn hóa (Sở VH-TT-DL) Lâm Đồng cho biết: "Theo quy định, hằng năm các đơn vị trích từ 3 - 5% lãi suất kinh doanh để tu bổ, tôn tạo và tổ chức các hoạt động văn hóa tại di tích. Thế nhưng thực tế qua kiểm tra thì các điểm này không thực hiện được như vậy".<ref name="thetham">[http://www.thanhnien.com.vn/news/pages/200844/20081028231345.aspx Thê thảm danh thắng ở Lâm Đồng]</ref>
+
+Sáu tháng đầu năm 2026, tỉnh đón gần 12 triệu lượt khách, tăng hơn 18% so với cùng kỳ. Khách quốc tế đạt khoảng 825.000 lượt, tăng 18,6%. Tổng doanh thu từ hoạt động du lịch đạt trên 33.310 tỷ đồng, tăng hơn 22% so với cùng kỳ năm 2025.<ref name="vnp">{{Chú thích web |url=https://www.vietnamplus.vn/lam-dong-tung-loat-san-pham-moi-kich-cau-du-lich-he-post1124035.vnp |tiêu đề=Lâm Đồng tung loạt sản phẩm mới, kích cầu du lịch hè |website=VietnamPlus |ngày=2026-07-14 |ngày truy cập=2026-08-09}}</ref> Riêng phường [[Mũi Né]], tính đến ngày 9 tháng 6 năm 2026, đã đón khoảng 1.143.272 lượt khách, trong đó 859.769 lượt khách nội địa và 283.503 lượt khách quốc tế.<ref>{{Chú thích web |url=https://doanhnghiephoinhap.vn/lam-dong-mui-ne-don-hon-114-trieu-luot-khach-trong-6-thang-dau-nam-kinh-te-xa-hoi-tiep-tuc-khoi-sac-141973.html |tiêu đề=Lâm Đồng: Mũi Né đón hơn 1,14 triệu lượt khách trong 6 tháng đầu năm |website=Doanh nghiệp và Hội nhập |ngày=2026-07-02 |ngày truy cập=2026-08-09}}</ref>
+
+Ở khu vực trung tâm, các điểm đến tiêu biểu gồm [[hồ Xuân Hương (Đà Lạt)|hồ Xuân Hương]], Thung lũng Tình yêu và thác Prenn. Khu vực phía đông có khu du lịch quốc gia [[Mũi Né]], bãi biển Đồi Dương – Phan Thiết, đảo [[Phú Quý]], Cù Lao Câu và khu phức hợp NovaWorld Phan Thiết. Ở phía tây, [[Công viên địa chất Đắk Nông|Công viên địa chất toàn cầu UNESCO Đắk Nông]] cùng các tuyến du lịch sinh thái và trải nghiệm văn hóa bản địa ghi nhận lượng khách tăng đáng kể.<ref name="tkld2025" /><ref name="vnp" />
+
+== Văn hóa ==
+[[File:Lễ hội Hoa Đà Lạt, 2010.jpg|nhỏ|Lễ hội Hoa Đà Lạt năm 2010]]
+[[File:Podom05.JPG|nhỏ|Toàn cảnh quần thể di tích tháp Po Dam.]]
+Sau khi hợp nhất ba tỉnh năm 2025, Lâm Đồng trở thành địa phương có không gian văn hóa đa dạng hàng đầu cả nước, với hệ thống di sản của 49 dân tộc cùng sinh sống. Tỉnh là nơi giao thoa của nhiều không gian văn hóa đặc trưng, từ [[Không gian văn hóa cồng chiêng Tây Nguyên|không gian văn hóa cồng chiêng]] của các dân tộc [[người Cơ Ho|K'Ho]], [[người Mạ|Mạ]], [[người M'Nông|M'Nông]] trên cao nguyên, đến văn hóa [[người Chăm|Chăm]] ở vùng ven biển [[Bình Thuận]] cũ và các giá trị địa chất, khảo cổ của [[Công viên địa chất Đắk Nông|Công viên Địa chất toàn cầu UNESCO Đắk Nông]].<ref name="ttxvn">{{Chú thích web |url=https://dantocmiennui.baotintuc.vn/ket-noi-di-san-voi-du-lich-va-cong-nghiep-van-hoa-post366138.html |tiêu đề=Kết nối di sản với du lịch và công nghiệp văn hóa |website=Báo ảnh Dân tộc và Miền núi |ngày=2026-07-30 |ngày truy cập=2026-08-09}}</ref>
+
+Toàn tỉnh có 145 di tích được xếp hạng, gồm 3 di tích quốc gia đặc biệt, 59 di tích quốc gia và 83 di tích cấp tỉnh, cùng 10 di sản văn hóa phi vật thể quốc gia.<ref name="ttxvn" /> Sau sáp nhập tỉnh có 7 di sản văn hóa được [[UNESCO]] ghi danh.<ref>{{Chú thích web |url=https://nhandan.vn/ket-noi-hoi-tu-mot-vung-van-hoa-post912285.html |tiêu đề=Kết nối, hội tụ một vùng văn hóa |website=Báo Nhân Dân |ngày=2025-10-02 |ngày truy cập=2026-08-09}}</ref>
+
+Ở khu vực cao nguyên, di sản tiêu biểu là [[Không gian văn hóa cồng chiêng Tây Nguyên]], [[Mộc bản Triều Nguyễn]], [[Khu dự trữ sinh quyển thế giới Langbiang]].<ref>{{Chú thích web |url=https://vietnamtourism.gov.vn/post/63664 |tiêu đề=Lâm Đồng: Liên kết văn hóa - động lực mềm cho tỉnh mới vươn mình |website=Cục Du lịch Quốc gia Việt Nam |ngày=2025-07-01 |ngày truy cập=2026-08-09}}</ref>
+
+Cộng đồng người Chăm sinh sống tập trung ở khu vực ven biển, tại các xã Bắc Bình, Liên Hương và Hồng Thái. Tỉnh có 2 di sản văn hóa của người Chăm nằm trong Danh mục di sản văn hóa phi vật thể quốc gia là Lễ hội [[Katê]] của người Chăm theo đạo [[Bà La Môn giáo|Bàlamôn]] và [[nghề làm gốm của người Chăm|nghề làm gốm]].<ref name="dtmn">{{Chú thích web |url=https://dantocmiennui.baotintuc.vn/khai-thac-gia-tri-van-hoa-dong-bao-cham-trong-phat-trien-du-lich-ben-vung-post361446.html |tiêu đề=Khai thác giá trị văn hóa đồng bào Chăm trong phát triển du lịch bền vững |website=Báo ảnh Dân tộc và Miền núi |ngày=2025-09-06 |ngày truy cập=2026-08-09}}</ref> Lễ hội Katê được tổ chức hằng năm vào tháng 7 theo lịch Chăm, tương ứng khoảng tháng 10 dương lịch. Đây là dịp cộng đồng thể hiện lòng biết ơn tổ tiên và các vị thần linh, cầu mong mưa thuận gió hòa, mùa màng bội thu. Năm 2022, lễ hội được Bộ Văn hóa, Thể thao và Du lịch đưa vào Danh mục di sản văn hóa phi vật thể quốc gia. Lễ hội được phục dựng tại tháp Chăm Pô Sah Inư thuộc phường Phú Thủy.<ref name="ttxvn" /><ref name="dtmn" />
+
+==Hình ảnh==
+ <center><gallery>
+Tập tin:Toàn cảnh TP.Phan Thiết, Bình Thuận.JPG|<center>Thành phố Phan Thiết cũ<br>Toàn cảnh</center>
+Tập tin:Phan Rí Thành, Tuy Phong, Bình Thuận.JPG|Xã [[Bắc Bình (xã)|Bắc Bình]]
+Tập tin:Sông Cà Ty trong TP.Phan Thiết.JPG|Sông Cà Ty trong<br>Tp Phan Thiết cũ
+Tập tin:Thị trấn Chợ Lầu, Bắc Bình, Bình Thuận.JPG|Xã Bắc Bình
+Tập tin:Thị trấn Lương Sơn, Bắc Bình.jpg|<center>Xã [[Lương Sơn, Lâm Đồng|Lương Sơn]]</center>
+Tập tin:Quang Minh Pagoda.JPG|<center>Chùa Quảng Minh ở<br>Xã [[Đức Linh (xã)|Đức Linh]]
+Hình: Dak Nong, Viet Nam.jpg|Sông Dak R'Tih
+Hình: DraySap400.jpg|Thác Gia Long
+Hình: Draynur falls.jpg|Thác Dray Nur
+Hình: Trúc Lâm Đạo Nguyên 5.jpg|Thiền viện Trúc Lâm<br>Cao nguyên
+Hình: Trúc Lâm Đạo Nguyên 4.jpg|Toàn cảnh Trúc Lâm
+Hình: Kiến Đức.jpg|Thị trấn Kiến Đức
+Hình: TT.Đắk Mil, Đắk Nông.jpg|Thị trấn Đắk Mil
+</gallery></center>
+
+==Danh nhân==
+* [[Nguyễn Phúc Phương Mai]] phong hiệu [[Công tước xứ Addis Abeba|Thái Công tước Phu nhân xứ Addis Ababa]] và Thái Hầu tước Phu nhân xứ Sabotino, là con gái đầu lòng của vua [[Bảo Đại]] và [[hoàng hậu Nam Phương]] thuộc hoàng tộc [[Nhà Nguyễn]].
+* [[Nguyễn Phúc Bảo Thăng]] là đích tử của vua [[Bảo Đại]].
+* [[Nguyễn Phúc Phương Minh]] con gái vua Bảo Đại.
+* [[Nguyễn Phúc Bảo Ân]] con trai của vua Bảo Đại.
+
+==Chú thích==
+{{tham khảo|30em}}
+
+==Liên kết ngoài==
+{{Commonscat|Lam Dong Province}}
+{{Chủ đề|Việt Nam}}
+* {{TĐBKVN|15598}}
+* {{trang web chính thức|http://lamdong.gov.vn/|Cổng Thông tin Điện tử Lâm Đồng}}
+* [http://dbnd.lamdong.gov.vn/ Hoạt động của Đoàn Đại biểu Quốc hội và Hội đồng Nhân dân tỉnh Lâm Đồng]
+* [http://ubnd.lamdong.gov.vn/ Văn phòng UBND tỉnh Lâm Đồng - Portal] {{Webarchive|url=https://web.archive.org/web/20130611010133/http://ubnd.lamdong.gov.vn/ |date=2013-06-11 }}
+
+{{Đơn vị hành chính cấp tỉnh Việt Nam}}
+{{Du lịch Lâm Đồng}}
+{{Kiểm soát tính nhất quán}}
+
+[[Thể loại:Lâm Đồng| ]]
+[[Thể loại:Tây Nguyên]]
+[[Thể loại:Tỉnh ven biển Việt Nam]]

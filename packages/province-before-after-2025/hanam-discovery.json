@@ -1,0 +1,84 @@
+{
+  "response": {
+    "request_url": "https://vi.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&inprop=url&maxlag=5&prop=info%7Cpageprops&redirects=1&titles=H%C3%A0+Nam+%28Vi%E1%BB%87t+Nam%29%7CH%C3%A0+Nam+%28t%E1%BB%89nh+Vi%E1%BB%87t+Nam%29%7CH%C3%A0+Nam+%28%C4%91%E1%BB%8Bnh+h%C6%B0%E1%BB%9Bng%29",
+    "params": {
+      "format": "json",
+      "formatversion": "2",
+      "maxlag": 5,
+      "action": "query",
+      "titles": "Hà Nam (Việt Nam)|Hà Nam (tỉnh Việt Nam)|Hà Nam (định hướng)",
+      "redirects": 1,
+      "prop": "info|pageprops",
+      "inprop": "url"
+    },
+    "retrieved_at": "2026-09-29T15:29:48.310840Z",
+    "http_status": 200,
+    "headers": {
+      "date": "Tue, 29 Sep 2026 15:29:48 GMT",
+      "content-type": "application/json; charset=utf-8",
+      "content-length": "1652"
+    },
+    "path": "sources/responses/3f725ad851e72f04c7c5bcb10bb63c83639a67f4a5f268a187dd9b0c589b0457.json",
+    "sha256": "3f725ad851e72f04c7c5bcb10bb63c83639a67f4a5f268a187dd9b0c589b0457",
+    "byte_length": 1652,
+    "media_type": "application/json",
+    "representation": "unmodified MediaWiki HTTP response body bytes"
+  },
+  "data": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "ns": 0,
+          "title": "Hà Nam (Việt Nam)",
+          "missing": true,
+          "contentmodel": "wikitext",
+          "pagelanguage": "vi",
+          "pagelanguagehtmlcode": "vi",
+          "pagelanguagedir": "ltr",
+          "fullurl": "https://vi.wikipedia.org/wiki/H%C3%A0_Nam_(Vi%E1%BB%87t_Nam)",
+          "editurl": "https://vi.wikipedia.org/w/index.php?title=H%C3%A0_Nam_(Vi%E1%BB%87t_Nam)&action=edit",
+          "canonicalurl": "https://vi.wikipedia.org/wiki/H%C3%A0_Nam_(Vi%E1%BB%87t_Nam)"
+        },
+        {
+          "pageid": 3943,
+          "ns": 0,
+          "title": "Hà Nam (tỉnh Việt Nam)",
+          "contentmodel": "wikitext",
+          "pagelanguage": "vi",
+          "pagelanguagehtmlcode": "vi",
+          "pagelanguagedir": "ltr",
+          "touched": "2026-09-26T08:55:01Z",
+          "lastrevid": 75589428,
+          "length": 55618,
+          "fullurl": "https://vi.wikipedia.org/wiki/H%C3%A0_Nam_(t%E1%BB%89nh_Vi%E1%BB%87t_Nam)",
+          "editurl": "https://vi.wikipedia.org/w/index.php?title=H%C3%A0_Nam_(t%E1%BB%89nh_Vi%E1%BB%87t_Nam)&action=edit",
+          "canonicalurl": "https://vi.wikipedia.org/wiki/H%C3%A0_Nam_(t%E1%BB%89nh_Vi%E1%BB%87t_Nam)",
+          "pageprops": {
+            "page_image_free": "Village_by_the_River_-_panoramio.jpg",
+            "wikibase_item": "Q36413"
+          }
+        },
+        {
+          "pageid": 3950,
+          "ns": 0,
+          "title": "Hà Nam (định hướng)",
+          "contentmodel": "wikitext",
+          "pagelanguage": "vi",
+          "pagelanguagehtmlcode": "vi",
+          "pagelanguagedir": "ltr",
+          "touched": "2026-09-07T10:48:50Z",
+          "lastrevid": 75528798,
+          "length": 1421,
+          "fullurl": "https://vi.wikipedia.org/wiki/H%C3%A0_Nam_(%C4%91%E1%BB%8Bnh_h%C6%B0%E1%BB%9Bng)",
+          "editurl": "https://vi.wikipedia.org/w/index.php?title=H%C3%A0_Nam_(%C4%91%E1%BB%8Bnh_h%C6%B0%E1%BB%9Bng)&action=edit",
+          "canonicalurl": "https://vi.wikipedia.org/wiki/H%C3%A0_Nam_(%C4%91%E1%BB%8Bnh_h%C6%B0%E1%BB%9Bng)",
+          "pageprops": {
+            "disambiguation": "",
+            "wikibase_item": "Q1130257"
+          }
+        }
+      ]
+    }
+  }
+}

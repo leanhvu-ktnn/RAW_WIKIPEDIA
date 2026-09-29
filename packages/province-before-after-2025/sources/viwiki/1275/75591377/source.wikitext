@@ -1,0 +1,1110 @@
+{{Other|Đồng Nai (định hướng)}}
+{{nhiều vấn đề|
+{{Chú thích trong bài|date=tháng 7/2026}}
+{{cần biên tập|date=tháng 7/2026}}
+}}
+{{Thông tin đơn vị hành chính Việt Nam | Thành phố trực thuộc trung ương
+| tên = Đồng Nai 
+| tên khác = Xứ Trấn Biên 
+| tên cũ = [[Biên Hòa (tỉnh)|Biên Hòa]], [[Long Khánh (tỉnh)|Long Khánh]], [[Bình Phước (tỉnh)|Bình Phước]], [[Bình Long (tỉnh)|Bình Long]], [[Phước Long (tỉnh)|Phước Long]], [[Sông Bé (tỉnh)|Sông Bé]]
+| logo = Logo Dong Nai.svg 
+| ghi chú logo = Biểu trưng 
+| biệt danh = 
+Xứ cánh thép ven sông 
+| nhiều hình = {{multiple image
+| border = infobox
+| total_width = 280
+| image_style = border:1;
+| caption_align = center
+| perrow = 1/2/2
+| image1 = Nhà_thờ_chính_Văn_miếu_Trấn_Biên.jpg
+| caption1 = [[Văn miếu Trấn Biên]]
+| image2 = Giang Điền, Trảng Bom, Đồng Nai, Vietnam - panoramio.jpg
+| caption2 = [[Thác Giang Điền]]
+| image3 = Chua Chan mount..JPG
+| caption3 = [[Núi Chứa Chan]]
+| image4 = Hồ Thuỷ Điện Thác Mơ.jpg
+| caption4 = Hồ [[thủy điện Thác Mơ]]
+| image5 = Một góc nhìn đẹp về núi Bà Rá.jpg
+| caption5 = [[Núi Bà Rá]]
+}}
+| vĩ độ = 11.05443
+| kinh độ = 107.146912
+| bản đồ 1 ={{maplink|frame=yes|plain=yes|type=shape|frame-width=300|frame-align=center|stroke-width=2|stroke-color=#000000}} 
+| diện tích = 12.737,18 km²<ref name=ĐA/><ref name=PA/>
+| dân số = 4.836.798 người<ref name=ĐA/><ref name=PA/>
+| thời điểm dân số = 31/12/2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:4.836.798|R}}/{{formatnum:12.737,18|R}})}} }} người/km²<ref name=ĐA/><ref name=PA/>
+| vùng = 
+*[[Đông Nam Bộ]] <small> (địa lí) </small> 
+*[[Vùng đô thị Thành phố Hồ Chí Minh]] <small> (đô thị) </small> 
+| dân tộc = [[Người Kinh|Kinh]], [[Người Hoa (Việt Nam)|Hoa]], [[Người Khmer|Khmer]], [[Người Xtiêng|Xtiêng]], [[Người Chơ Ro|Chơ-ro]], [[Người Chăm|Chăm]], [[Người Mường|Mường]], [[Người Dao|Dao]], [[Người Thái (Việt Nam)|Thái]], [[Người Ơ Đu|Ơ Đu]], [[Người Si La|Si La]], [[Người Nùng|Nùng]], [[Người Tày|Tày]]
+| quận trung tâm = Phường [[Trấn Biên (phường)|Trấn Biên]]
+| thành lập = 30/4/2026<ref name="30/2026/QH16"/>
+| phân chia hành chính = 33 phường, 62 xã
+| loại đô thị = [[Đô thị Việt Nam#Đô thị loại I|Loại I]]
+| năm công nhận = 2026<ref name="502/QĐ-BXD"/>
+| trụ sở UBND = Số 2, đường Nguyễn Văn Trị, khu phố Hoà Bình, phường [[Trấn Biên (phường)|Trấn Biên]]
+| chủ tịch UBND = [[Nguyễn Văn Út]]
+| hội đồng nhân dân = 85 đại biểu
+| chủ tịch HĐND = [[Tôn Ngọc Hạnh]]
+| chủ tịch UBMTTQ = [[Huỳnh Thị Hằng]]
+| viện trưởng VKSND = [[Huỳnh Văn Lưu]]
+| bí thư = [[Vũ Hồng Văn]]
+| đại biểu quốc hội = 18
+| thời điểm kinh tế = 2025
+| GRDP = 710.197 tỉ đồng (28.246 tỉ USD<ref>{{Chú thích web|url=https://thongke.dongnai.gov.vn/Pages/newsdetail.aspx?NewsId=1302&CatId=93|tựa đề= Tình hình kinh tế xã hội trên địa bàn tỉnh tháng 12 và 12 tháng năm 2025| website= Cục thống kê tỉnh Đồng Nai| ngày= 2026-1-6}}</ref>
+| GRDP đầu người = 152,88 triệu đồng (6.080,4 USD)<ref>{{Chú thích web|url=https://sct.dongnai.gov.vn/vi/news/Chi-dao-dieu-hanh/dong-nai-tang-truong-grdp-nam-2025-dat-9-63-vuot-muc-tieu-nghi-quyet-chinh-phu-giao-51807.html|tựa đề= Đồng Nai tăng trưởng GRDP năm 2025 đạt 9,63%, vượt mục tiêu Nghị quyết Chính phủ giao| website= Sở Công thương tỉnh Đồng Nai| ngày= 2025-12-3}}</ref>
+| mã địa lý = [[ISO 3166-2:VN|VN-39]]
+| mã hành chính = 75<ref>{{Chú thích web|url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf|tựa đề= Quyết định số 19/2025/QĐ-TTg về việc ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |ngày= 2025-06-30 |website= Cổng Thông tin điện tử Chính phủ |url lưu trữ=https://web.archive.org/web/20251224142347/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf|ngày lưu trữ= 2025-12-24 |ngày truy cập= 2025-12-24 |url-status= dead }}</ref>
+| mã bưu chính = [[Mã bưu chính Việt Nam|81xxxx]]
+| mã điện thoại = [[Mã điện thoại Việt Nam|251]]
+| biển số xe = [[Biển xe cơ giới Việt Nam|39]], [[Biển xe cơ giới Việt Nam|60]], [[Biển xe cơ giới Việt Nam|93]]
+| web = {{url|dongnai.gov.vn}}
+}}
+
+'''Đồng Nai''' là một trong chín [[Thành phố trực thuộc trung ương (Việt Nam)|thành phố trực thuộc trung ương]] của [[Việt Nam]], thuộc vùng [[Đông Nam Bộ]], và hiện là thành phố có diện tích lớn nhất [[Việt Nam]]. Thành phố được xem là cửa ngõ nối liền giữa vùng [[Duyên hải Nam Trung Bộ và Tây Nguyên]] với vùng [[Đông Nam Bộ]]. Về mặt hành chính, Đồng Nai được chia thành 95 đơn vị hành chính cấp xã, gồm 33 phường và 62 xã. Trung tâm hành chính - chính trị đặt tại phường [[Trấn Biên (phường)|Trấn Biên]]. Đồng Nai hiện là [[Đô thị Việt Nam|đô thị loại I]], là thành phố trung tâm cấp vùng và cấp quốc gia.
+
+==Địa lý==
+===Vị trí địa lý===
+Đồng Nai nằm trong [[vùng kinh tế trọng điểm Nam Bộ]]. Thành phố có tọa độ từ ''10<sup>o</sup>30'03"B'' đến ''11<sup>o</sup>34'57"B'' và từ ''106<sup>o</sup>45'30"Đ'' đến ''107<sup>o</sup>35'00"Đ'', có vị trí địa lý:
+*Phía đông giáp tỉnh [[Lâm Đồng]]
+*Phía tây và nam giáp [[Thành phố Hồ Chí Minh]]
+*Phía tây bắc giáp tỉnh [[Tây Ninh]]
+*Phía bắc giáp các tỉnh [[Tbong Khmum]], [[Kratié]] và [[Mondulkiri]] ([[Campuchia]]).
+
+Đồng Nai được xem là một thành phố cửa ngõ đi vào [[vùng kinh tế trọng điểm Nam Bộ]] – vùng kinh tế phát triển và năng động nhất cả nước.
+
+Dân cư của thành phố tập trung phần lớn ở trung tâm khu vực thành thị với các phường [[Trấn Biên (phường)|Trấn Biên]], [[Tam Hiệp (phường)|Tam Hiệp]], [[Long Bình, Đồng Nai|Long Bình]] với tổng dân số trên 550 ngàn dân và ở khu vực tập trung nhiều khu công nghiệp với các phường [[Trảng Bom (phường)|Trảng Bom]], [[Nhơn Trạch (phường)|Nhơn Trạch]] với tổng dân số trên 250 ngàn dân.<ref>{{Chú thích web |title=Phân bố dân số hợp lý để phát triển bền vững |url=https://baodongnai.com.vn/xa-hoi/y-te/202512/phan-bo-dan-so-hop-ly-de-phat-trien-ben-vung-07a3aeb/ |access-date=2026-06-11 |website=baodongnai.com.vn |language=vi-VN}}</ref>
+
+Trung tâm hành chính của thành phố đặt tại phường [[Trấn Biên (phường)|Trấn Biên]], cách trung tâm [[Thành phố Hồ Chí Minh]] khoảng 30&nbsp;km, cách trung tâm thủ đô [[Hà Nội]] khoảng 1.684&nbsp;km theo đường [[Quốc lộ 1]].
+
+===Điều kiện thiên nhiên===
+[[Hình: BenCu forest structure 23Dec08.jpg|nhỏ|phải|220px|<center>[[Vườn Quốc gia Cát Tiên]]</center>]]
+[[Hình: Chua Chan mount..JPG|nhỏ|phải|220px|<center>Núi Chứa Chan ở phường [[Xuân Lộc (phường)|Xuân Lộc]]</center>]]
+
+Thành phố Đồng Nai có địa hình vùng đồng bằng và trung du với những núi sót rải rác, có xu hướng thấp dần theo hướng bắc nam, với địa hình tương đối bằng phẳng. Địa hình có thể chia làm các dạng là địa hình đồng bằng, địa hình trũng trên trầm tích đầm lầy biển, địa đồi lượn sóng, dạng địa hình núi thấp, đất phù sa, đất gley và đất cát có địa hình bằng phẳng, nhiều vùng trũng ngập nước quanh năm. Đất đen, nâu, xám hầu hết có độ dốc nhỏ hơn 8°, đất đỏ hầu hết nhỏ hơn 15°. Riêng đất tầng mỏng và đá bọt có độ dốc cao. Đồng Nai có quỹ đất phong phú và phì nhiêu. Có 10 nhóm đất chính, tuy nhiên theo nguồn gốc và chất lượng đất có thể chia thành 3 nhóm chung gồm: các loại đất hình thành trên đá bazan, các loại đất hình thành trên phù sa cổ và trên đá phiến sét, các loại đất hình thành trên phù sa mới. Trong tổng diện tích tự nhiên, diện tích đất nông nghiệp chiếm 49,1%, diện tích đất lâm nghiệp chiếm 30,4%, diện tích đất chuyên dùng chiếm 13%, diện tích đất khu dân cư chiếm 2,1%, diện tích đất chưa sử dụng chiếm 5,4%.<ref name="thoitiet"/>
+
+Khí hậu Đồng Nai là khí hậu nhiệt đới gió mùa, có hai mùa tương phản nhau là mùa khô và mùa mưa. Mùa khô thường bắt đầu từ tháng 12 đến tháng 4 năm sau, mùa mưa kéo dài từ tháng 5 đến tháng 11. Khoảng kết thúc mùa mưa dao động từ đầu tháng 10 đến tháng 12. Nhiệt độ trung bình năm 25 – 27&nbsp;°C, nhiệt độ cao cực trị khoảng 40&nbsp;°C và thấp cực trị 12,5&nbsp;°C và số giờ nắng trong năm 2.500 – 2.700 giờ, độ ẩm trung bình luôn cao 80 – 82%.<ref name="thoitiet">[http://www.chinhphu.vn/portal/page/portal/chinhphu/cactinhvathanhpho/tinhdongnai/thongtintinhthanh?view=introduction&provinceId=1357 Nhiệt độ trung bình năm 25 – 270C, nhiệt độ cao nhất khoảng 20,50C, số giờ nắng trong năm 2.500 – 2.700 giờ, độ ẩm trung bình 80 – 82%.], Cổng Thông tin điện tử Chính phủ.</ref>
+
+Rừng Đồng Nai có đặc trưng cơ bản của rừng nhiệt đới, có tài nguyên động, thực vật phong phú đa dạng, tiêu biểu là vườn quốc gia Nam Cát Tiên. Tài nguyên khoáng sản khá phong phú về chủng loại như kim loại quý, kim loại màu, đá quý, nguyên liệu gốm sứ, vật liệu xây dựng, phụ gia xi măng, than bùn, nước khoáng và nước nóng<ref name="thoitiet"/>,...
+
+===Tài nguyên===
+Đồng Nai có nhiều nguồn tài nguyên đa dạng và phong phú gồm tài nguyên [[khoáng sản]] có [[vàng]], [[thiếc]], [[kẽm]]; nhiều mỏ đá, [[cao lanh]], [[than bùn]], đất [[sét]], [[cát]] sông; [[tài nguyên rừng]] và [[tài nguyên nước|nguồn nước]]... Ngoài ra, Đồng Nai còn phát triển [[thuỷ sản]] dựa vào hệ thống [[đập|hồ đập]] và sông ngòi. Trong đó, [[hồ Trị An]] diện tích 323&nbsp;km² và trên 60 sông, kênh rạch, rất thuận lợi cho việc phát triển một số thủy sản như: [[cá bè|cá nuôi bè]], [[tôm]] nuôi....<ref name=tainguyen>{{chú thích web|url=http://www.dongnai.gov.vn/dong-nai/tongquan_KT-XH |title=Tài nguyên tỉnh Đồng nai |publisher=Dongnai.gov.vn |date=2005-07-28 |accessdate=2010-09-26}}</ref>
+
+==== Tài nguyên nước ====
+Thành phố Đồng Nai có mật độ sông suối khoảng 0,5&nbsp;km/km², song phân phối không đều. Phần lớn sông suối tập trung ở phía bắc và dọc theo [[sông Đồng Nai]] về hướng tây nam. Tổng lượng nuớc dồi dào 16,82 x 109 m³/năm, trong đó mùa mưa chiếm 80%, mùa khô 20%.<ref name=tainguyen/> Các con sông chính chảy qua thành phố Đồng Nai như: [[Sông Đồng Nai]], và các phụ lưu lớn của nó như [[sông La Ngà]] và [[Sông Bé]] đổ vào dòng chính gần [[hồ Trị An]]. Ngoài ra còn có sông lớn khác như sông Lá Buông, sông Ray, sông Xoài và [[sông Thị Vải]].
+
+Tổng trữ lượng nước dưới đất của thành phố Đồng Nai là khoảng 5.505.226 m³/ngày. Bao gồm, trữ lượng nước tĩnh vào khoảng 793.379 m³/ngày, trong đó, trữ lượng dung tích (trữ lượng tĩnh trọng lực) là 789.689 m³/ngày và trữ lượng đàn hồi là 3691 m³/ngày. Trữ lượng động khoảng 4.714.847 m³/ngày là toàn bộ dòng mặt vào mùa khô và là giới hạn dưới của trữ lượng nước dưới đất. Tuy có trữ lượng nước dưới đất phong phú, nhưng phân bố không đều, và nhu cầu khai thác tăng cao vào các tháng mùa khô nên việc khai thác nước dưới đất cần phải theo qui hoạch khai thác hợp lý.<ref name=tainguyen/>
+
+==== Tài nguyên khoáng sản ====
+Các loại tài nguyên khoáng sản ở Đồng Nai gồm có: khoáng sản kim loại, phi kim, đá quý, và nước khoáng.<ref name=tainguyen/> 
+Các khoáng sản kim loại chủ yếu phân bố ở Đồng Nai gồm [[vàng]], [[bô xít]], [[thiếc]], [[chì]], [[kẽm]]...Các mỏ vàng nhỏ ở Hiếu Liêm và Vĩnh An và các điểm quặng chưa được đánh giá đầy đủ ở: Suối Ty, Suối Nho, Tam Bung, Suối Sa Mách, lâm trường Vĩnh An, lâm trường La Ngà, lâm trường Hiếu Liêm. Tại phía bắc thành phố có 3 điểm vàng gốc và 3 điểm vàng sa khoáng tại khu vực đầu nguồn [[sông Bé]] và suối Đắk Huýt. Trong vùng phát hiện 1 khoáng sàng nhỏ (Rạch Rạt), 1 biểu hiện khoáng sản (suối Bốn). Quặng bauxit phát hiện 6 mỏ ở [[Thọ Sơn]], [[Nghĩa Trung]], [[Bom Bo]], [[Phú Nghĩa, Đồng Nai|Phú Nghĩa]], [[Phú Riềng (xã)|Phú Riềng]], DaTapok (lâm trường Mã Đà) và lâm trường La Ngà với trữ lượng ước đạt khoảng 560 - 570 triệu m³. Thiếc chỉ gặp dưới dạng vành phân tán khoáng vật, hàm lượng thấp, tập trung ở núi Chứa Chan, Suối Rét, Suối Sao, và sông Gia Ray. Chì kẽm đa kim được phát hiện ở núi Chứa Chan. [[Monazit]] sa khoáng chứa [[thori]] có một số điểm và biểu hiện phân bố tại [[Đăk Ơ]], đông nam [[Phú Nghĩa, Đồng Nai|Phú Nghĩa]], [[Đa Kia]], [[Thiện Hưng]] và Suối Rạt (xã [[Thuận Lợi]]). Ngoài ra còn có quặng sắt ở Bom Bo, Bình Long nhưng trữ lượng rất nhỏ, nằm trên vỏ phong hóa bazan cổ (laterit) và dạng hạch trên bề mặt bào mòn của đá vôi; quặng thủy ngân, phân bố ở Lộc Ninh.
+
+Các khoáng sản không kim loại như: [[đá vôi]] ở [[Lộc Thành]] và [[An Lộc (phường)|An Lộc]]; [[kaolin]] ở [[Minh Đức]], [[Tân Khai]], suối Lạnh ([[Lộc Hưng]]), suối Băng Xóm, tây Minh Hưng, suối Đôi ([[Đồng Tâm, Đồng Nai|Đồng Tâm]]), bàu Đông Lan ([[Chơn Thành (phường)|Chơn Thành]]), suối Cái ([[Bình Phước (phường)|Bình Phước]]), suối Thôn ([[Lộc Thạnh]]), đông Rạch Bé ([[Tân Lợi, Đồng Nai|Tân Lợi]]), suối Giai ([[Đồng Phú (phường)|Đồng Phú]]); đá xây dựng ở [[Tân Tiến (phường)|Tân Tiến]], An Lộc, [[Bình Long (phường)|Bình Long]], [[Hưng Phước]], Thiện Hưng, Đa Kia, đông [[Phú Riềng (xã)|Phú Riềng]], [[Đồng Tâm, Đồng Nai|Đồng Tâm]], Tân Lợi, Bình Phước, huyện [[Bù Đăng (huyện)|Bù Đăng]] cũ; đá ốp lát ở An Lộc, Bình Long; cát xây dựng ven [[sông Đồng Nai]], [[Sông Sài Gòn|Sài Gòn]], [[Sông La Ngà|La Ngà]]; sét gạch ngói chủ yếu ở [[Tân Khai]], Minh Hưng, Chơn Thành; [[Pozzolan|puzolan]] ở Đa Kia, Lộc Hưng, Chum Ri, Đồng Long (Bình Long), và keramzit phân bố ở Đại An và Trị An với trữ lượng ước tính khoảng 8 triệu tấn.
+
+Đá quý chỉ được phát hiện có quy mô nhỏ, không có triển vọng khai thác công nghiệp như: [[zircon]] ([[Gia Kiệm]], Núi Lá, Tân Phong), [[saphir]] (Cầu La Ngà, phía nam Tân Phong, Gia Kiệm), Pyrop-zircon, [[opal]] - [[canxedon]] (núi Chứa Chan), [[tectic]] (bắc Tài Lài). Có 2 mỏ saphir, 4 mỏ opal, canxedon có triển vọng công nghiệp, phân bố ở Phú Riềng.
+
+Tài nguyên nước khoáng bao gồm các loại; nước khoáng – nước nóng ở Phú Lộc và Kay; nước khoáng Magie – bicarbonat ở suối Nho; nước khoáng siêu nhạt ở Tam Phước và [[Nhơn Trạch]]; nước khoáng sắt ở phía Nam Thành Tuy Hạ; nước mặn loại Clorua – Natri ở Nam Tuy Hạ;
+
+==== Tài nguyên rừng ====
+Rừng Đồng Nai có đặc trưng cơ bản của [[rừng nhiệt đới]], có tài nguyên động thực vật phong phú đa dạng, tiêu biểu là [[vườn Quốc gia Nam Cát Tiên]] với những giá trị nổi bật toàn cầu của [[khu dự trữ sinh quyển Đồng Nai]] đã được UNESCO công nhận là [[khu dự trữ sinh quyển thế giới]]. Năm [[1976]], tỷ lệ che phủ của rừng còn 47,8% diện tích tự nhiên, năm [[1981]] còn 21,5%. Năm [[2006]], độ che phủ rừng là 26,05% tổng diện tích tự nhiên, có khu bảo tồn thiên nhiên [[vườn quốc gia Nam Cát Tiên]], với nhiều loài động, thực vật quý hiếm. Với việc triển khai thực hiện chương trình trồng rừng và quy hoạch này, có thể dự báo tỷ lệ che phủ (bao gồm cả cây công nghiệp dài ngày) sẽ tăng lên đạt 45 – 50% trong thời kỳ đến năm 2010.<ref name=tainguyen/>
+
+==Lịch sử==
+{{main|Lịch sử hành chính Đồng Nai}}
+=== Những cư dân sớm nhất ===
+Loài người đã cư trú trên vùng đất Đồng Nai từ khoảng 600 nghìn đến 700 nghìn năm trước Công nguyên,<ref>{{Chú thích sách |last=Lê |first=Xuân Diệm |title=Khảo cổ Đồng Nai - thời tiền sử |last2=Phạm |first2=Quang Sơn |last3=Bùi |first3=Chí Hoàng |publisher=Nhà xuất bản Đồng Nai |year=1991 |pages=13 |language=vi}}</ref> với những di tích sớm nhất là các công cụ ghè đẽo hai mặt giống rìu tay thuộc [[Thời đại đồ đá cũ|thời]] [[Thời đại đồ đá cũ|kỳ đồ đá cũ]]. Trên địa bàn tỉnh [[Bình Phước (tỉnh)|Bình Phước]] trước đây, các nhà khảo cổ đã phát hiện được một số di tích có niên đại từ 100 nghìn đến 150 nghìn năm về trước.<ref>{{Chú thích sách |last=Đào |first=Linh Côn |title=Những phát hiện mới về khảo cổ học năm 1978 |publisher=Nxb. Khoa học Xã hội |year=1980 |pages=123-126 |language=vi}}</ref> Vào thời kỳ này, những cư dân sống dựa vào việc săn bắt và hái lượm.
+
+Đến [[Thời đại đồ đá mới|thời kỳ đồ đá mới]], cư dân nơi đây đã mở rộng địa bàn cư trú và bắt đầu định cư lâu dài ở một khu vực nhất định. Các cư dân bắt đầu trồng lúa, nhiều loại cây ăn quả, cây lấy củ và chăn nuôi nhiều loài động vật. Nghề thủ công phát triển, nhất là nghề chế tác đá và làm gốm.
+
+Khoảng hơn 4000 năm trước, nền [[văn hóa Đồng Nai]] xuất hiện.
+
+=== Nam tiến ===
+Lịch sử của Đồng Nai gắn liền với lịch sử của vùng đất Nam Bộ. Nước Đại Việt lúc bấy giờ chỉ từ ải [[Nam Quan]] đến vùng Bắc [[Đèo Ngang]] ([[Hà Tĩnh]] ngày nay). Việc mở rộng được bắt đầu khi có những giao tranh giữa [[Đại Việt]] và vương quốc [[Chăm Pa]] láng giềng lúc bấy giờ. Để mở rộng bờ cõi về phía Nam, nước Đại Việt lúc bấy giờ đã biết tổ chức một quân đội tốt, hùng hậu và có chiến lược nhu lẫn cương để thực hiện mưu đồ Nam tiến của mình.
+
+Nước Việt Nam lúc bấy giờ xảy ra giao tranh giữa vua [[Nhà Hậu Lê|Lê]] – [[Chúa Trịnh]] và [[Chúa Nguyễn]], lịch sử vẫn gọi là thời kỳ [[Trịnh – Nguyễn phân tranh]], đây là cuộc phân tranh tạo ra tình trạng cát cứ trong lịch sử Việt Nam. Cuộc sống của người dân đói khổ và lâm vào lầm than. Điều này tạo ra một làn sóng di dân ồ ạt đầu tiên từ Bắc vào Nam, trong đó có làn sóng di dân của miền Thuận Quảng vào Đồng Nai tìm đất sinh sống và tái lập nghiệp.
+
+Năm 1621, [[Nguyễn Phúc Nguyên|Chúa Sãi]] (Nguyễn Phúc Nguyên) sai sứ sang gặp vua [[Chân Lạp]] [[Chey Chettha II|Chey Chetta II]], yêu cầu cho người Việt vào sinh sống, buôn bán ở Đồng Nai.<ref>{{Chú thích web|url=https://www.danang.gov.vn/gioi-thieu/chi-tiet?id=1726&_c=44|tựa đề=Niên biểu Quảng Nam- Đà Nẵng thế kỷ 17, từ năm 1600 đến năm 1698|tác giả=Cổng TTĐT thành phố|họ=|tên=|ngày=|website=|url lưu trữ=https://web.archive.org/web/20210115231559/https://www.danang.gov.vn/gioi-thieu/chi-tiet?id=1726&_c=44|ngày lưu trữ=2021-01-15|ngày truy cập=2020-01-18|url-status=dead}}</ref> Người Việt di cư đến đâu thì khai khẩn và phá hoang lấy đất canh tác đến đó tạo nên vùng đất trù phú. Ruộng lúa, hoa màu xanh tốt.
+
+Năm 1679, [[nhà Minh]] ở [[Trung Quốc]] sụp đổ, Tổng binh Trần Thượng Xuyên trấn thủ các châu Cao, Lôi, Liêm không khuất phục [[nhà Thanh]] đã đem 50 chiến thuyền, 3.000 binh lính thân tín và gia quyến đến xin thần phục chúa Nguyễn ở [[Thuận Hóa]]. Lúc bấy giờ, đứng đầu nhà Nguyễn là Chúa [[Nguyễn Phúc Tần]] đã thu nhận họ và cho vào khai khẩn, mở mang vùng đất Đông Phố ([[Cù lao Phố]] ngày nay). Họ biến Cù Lao Phố trên sông Đồng Nai trở thành một thương cảng sầm uất và phát triển.
+ 
+Năm Mậu Dần 1698, chúa Nguyễn sai Thống suất Chưởng cơ Lễ Thành Hầu [[Nguyễn Hữu Cảnh]] vào kinh lược vùng đất Đồng Nai (lúc này, từ Đồng Nai hay vùng đất Đồng Nai là ám chỉ cả một vùng [[Nam Bộ]] rộng lớn bây giờ), đặt vùng đất mới thành phủ [[Gia Định]], chia làm 2 huyện: Phước Long (Đồng Nai) dựng dinh Trấn Biên, và [[Tân Bình (phủ cũ Gia Định)|Tân Bình]] (Sài Gòn) dựng dinh Phiên Trấn. Ngoài ra, [[Nguyễn Hữu Cảnh]] còn cho lập bộ đinh, bộ điền, chiêu mộ những người có vật lực từ các vùng khác vào lập nghiệp và phát triển kinh tế.
+
+Năm 1802, dinh Trấn Biên được [[vua Gia Long]] đổi thành trấn [[Biên Hòa (thành phố)|Biên Hòa]], nhưng vẫn thuộc phủ Gia Định. Năm 1808, trấn Biên Hòa thuộc thành Gia Định, đặt Phước Long thành phủ, đặt ra các tổng Phước Chính, Phước An, Bình An, Long Thành làm huyện. Năm 1836, trấn Biên Hòa được [[vua Minh Mạng]] đổi thành tỉnh [[Biên Hòa (tỉnh)|Biên Hòa]]. Năm 1837, lập thêm hai phủ [[Phước Tuy]] và các huyện Nghĩa An, [[Long Khánh (thành phố)|Long Khánh]], [[Phước Bình]].
+
+=== Thời kỳ Pháp thuộc ===
+[[Tập tin:Bien Hoa Province 1881.jpg|nhỏ|Bản đồ hạt tham biện Biên Hòa năm 1881]]
+
+[[Tập tin:Province de Bienhoa (1909).jpg|nhỏ|Bản đồ tỉnh Biên Hòa năm 1909]]
+
+Vào năm 1840, đặt thêm bốn phủ là Tân Định, Tân Bình, Tân Lợi và Tân Thuận.
+
+Năm 1851, [[Vua Tự Đức]] nhập hai huyện [[Phước Bình]] và [[Long Khánh (thành phố)|Long Khánh]] vào các phủ Phước Long và Phước Tuy.
+
+Năm 1862, sau khi Hòa ước [[Nhâm Tuất]] được ký, triều đình [[Nhà Nguyễn]] cắt 3 tỉnh [[Gia Định]], [[Định Tường]] và [[Biên Hòa (tỉnh)|Biên Hòa]] cho [[Pháp]]. Sau đó, Pháp chia [[Biên Hòa (thành phố)|Biên Hòa]] thành ba tỉnh là [[Biên Hòa (tỉnh)|Biên Hòa]], [[Thủ Dầu Một (thành phố)|Thủ Dầu Một]] và [[Bà Rịa]]. Đến thời [[Việt Nam Cộng hòa]], đất Đồng Nai được chia làm 3 tỉnh là [[Biên Hòa (thành phố)|Biên Hòa]], [[Long Khánh (thành phố)|Long Khánh]], [[Phước Tuy]].
+
+=== 1976–2026: Tỉnh Đồng Nai ===
+Ngày 20 tháng 9 năm 1975, Bộ Chính trị ban hành Nghị quyết số 245-NQ/TW<ref>{{Chú thích web|url=https://photo.znews.vn/w660/Uploaded/dqmblcvo/2025_03_13/1.jpg|tựa đề= Nghị quyết số 245-NQ/TW về việc bỏ khu, hợp tỉnh |tác giả=|ngày= 1975-09-20 |website=|url lưu trữ=https://web.archive.org/web/20250407082825/https://photo.znews.vn/w660/Uploaded/dqmblcvo/2025_03_13/1.jpg|ngày lưu trữ= 2025-04-07 |ngày truy cập= 2025-04-07 |url-status=live}}</ref> về việc:
+* Hợp nhất tỉnh [[Bà Rịa (tỉnh)|Bà Rịa]], tỉnh [[Biên Hòa (tỉnh)|Biên Hòa]], tỉnh [[Bình Tuy]], tỉnh [[Long Khánh (tỉnh)|Long Khánh]], huyện [[Định Quán (huyện)|Định Quán]] của tỉnh Tân Phú và 2 huyện [[Dĩ An (thành phố)|Dĩ An]], [[Tân Uyên (thành phố)|Tân Uyên]] của tỉnh [[Thủ Dầu Một (tỉnh)|Thủ Dầu Một]] thành một tỉnh, tên gọi tỉnh mới cùng với nơi đặt tỉnh lỵ sẽ do địa phương đề nghị lên.
+* Hợp nhất tỉnh [[Bình Long (tỉnh)|Bình Long]], tỉnh [[Phước Long (tỉnh)|Phước Long]], tỉnh [[Tây Ninh]], tỉnh [[Thủ Dầu Một (tỉnh)|Thủ Dầu Một]] (trừ 2 huyện [[Dĩ An (thành phố)|Dĩ An]], [[Tân Uyên (thành phố)|Tân Uyên]] của tỉnh [[Thủ Dầu Một (tỉnh)|Thủ Dầu Một]]), huyện [[Củ Chi (huyện)|Củ Chi]] của [[Thành phố Hồ Chí Minh]], huyện Độc Lập của tỉnh Tân Phú thành một tỉnh, tên gọi tỉnh mới cùng với nơi đặt tỉnh lỵ sẽ do địa phương đề nghị lên.
+
+Ngày 20 tháng 12 năm 1975, Bộ Chính trị ban hành Nghị quyết số 19/NQ<ref>{{Chú thích web|url=http://luutruquocgia1.org.vn/wp-content/uploads/2017/05/anh1.png|tựa đề= Nghị quyết số 19/NQ về việc điều chỉnh việc hợp nhất một số tỉnh ở miền Nam |tác giả=|ngày= 1975-12-20 |website= Trung tâm Lưu trữ quốc gia I |url lưu trữ=https://web.archive.org/web/20250507064804/http://luutruquocgia1.org.vn/wp-content/uploads/2017/05/anh1.png|ngày lưu trữ= 2025-05-07 |ngày truy cập= 2025-05-07 |url-status= dead }}</ref> về việc:
+* Hợp nhất tỉnh [[Bà Rịa (tỉnh)|Bà Rịa]] (kể cả thành phố [[Vũng Tàu (thành phố)|Vũng Tàu]]), tỉnh [[Biên Hòa (tỉnh)|Biên Hòa]] (trừ 2 huyện [[Phú Giáo (huyện)|Phú Giáo]], [[Tân Uyên (thành phố)|Tân Uyên]] của tỉnh [[Thủ Dầu Một (tỉnh)|Thủ Dầu Một]]), tỉnh [[Long Khánh (tỉnh)|Long Khánh]] thành một tỉnh, tên gọi tỉnh mới cùng với nơi đặt tỉnh lỵ sẽ do địa phương đề nghị lên.
+* Hợp nhất tỉnh [[Bình Phước (tỉnh)|Bình Phước]], tỉnh [[Thủ Dầu Một (tỉnh)|Thủ Dầu Một]] (gồm cả 3 huyện [[Dĩ An (thành phố)|Dĩ An]], [[Phú Giáo (huyện)|Phú Giáo]], [[Tân Uyên (thành phố)|Tân Uyên]]) thành một tỉnh, tên gọi tỉnh mới cùng với nơi đặt tỉnh lỵ sẽ do địa phương đề nghị lên.
+
+Ngày 24 tháng 2 năm 1976, Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam ban hành Nghị định số 3/NQ/1976<ref>{{Chú thích web|url=http://luutruquocgia1.org.vn/wp-content/uploads/2017/05/anh2.png|tựa đề= Nghị định số 3/NQ/1976 về việc giải thể khu, hợp nhất tỉnh ở miền Nam Việt Nam |tác giả=|ngày= 1976-02-24 |website= Trung tâm Lưu trữ quốc gia I |url lưu trữ=https://web.archive.org/web/20250507064804/http://luutruquocgia1.org.vn/wp-content/uploads/2017/05/anh2.png|ngày lưu trữ= 2025-05-07 |ngày truy cập= 2025-05-07 |url-status= dead }}</ref> về việc Thành lập tỉnh [[Đồng Nai]] trên cơ sở hợp nhất tỉnh [[Bà Rịa (tỉnh)|Bà Rịa]], tỉnh [[Biên Hòa (tỉnh)|Biên Hòa]], tỉnh [[Long Khánh (tỉnh)|Long Khánh]] và thành phố [[Biên Hòa (thành phố)|Biên Hòa]], tên gọi tỉnh mới cùng với nơi đặt tỉnh lỵ sẽ do địa phương đề nghị lên. Cùng năm, chuyển thị xã Biên Hòa thành thành phố [[Biên Hòa (thành phố)|Biên Hòa]] trực thuộc tỉnh Đồng Nai. Ban đầu, tỉnh Đồng Nai có tỉnh lỵ là thành phố Biên Hòa, thị xã [[Vũng Tàu (thành phố)|Vũng Tàu]] và 9 huyện: [[Châu Thành (huyện Đồng Nai)|Châu Thành]], [[Cần Giờ (huyện)|Duyên Hải]], [[Long Đất]], [[Long Thành (huyện)|Long Thành]], [[Tân Phú (huyện)|Tân Phú]], [[Thống Nhất (huyện)|Thống Nhất]], [[Vĩnh Cửu (huyện)|Vĩnh Cửu]], [[Xuân Lộc (huyện)|Xuân Lộc]], [[Xuyên Mộc (huyện)|Xuyên Mộc]].
+
+Ngày 23 tháng 12 năm 1978, sáp nhập xã Hố Nai 1 và xã Hố Nai 2 của huyện Thống Nhất vào thành phố Biên Hòa.<ref>{{Chú thích web |url=http://thuvienphapluat.vn/archive/Quyet-dinh/Quyet-dinh-272-CP-sap-nhap-xa-Ho-Nai-1-Ho-Nai-2-huyen-Thong-Nhat-tinh-Dong-Nai-vao-thanh-pho-Bien-Hoa-cung-tinh-vb57839t17.aspx |title=Quyết định 272-CP năm 1978 về việc sáp nhập xã Hố Nai 1 và xã Hố Nai 2 của huyện Thống Nhất, tỉnh Đồng Nai vào thành phố Biên Hòa |access-date=2016-02-23 |archive-date=2014-01-02 |archive-url=https://web.archive.org/web/20140102192901/http://thuvienphapluat.vn/archive/Quyet-dinh/Quyet-dinh-272-CP-sap-nhap-xa-Ho-Nai-1-Ho-Nai-2-huyen-Thong-Nhat-tinh-Dong-Nai-vao-thanh-pho-Bien-Hoa-cung-tinh-vb57839t17.aspx |url-status=dead }}</ref>
+
+Ngày 29 tháng 12 năm 1978, Quốc hội ban hành Nghị quyết<ref>{{Chú thích web|url=https://hethongphapluat.com/nghi-quyet-ve-viec-phe-chuan-viec-phan-vach-lai-dia-gioi-thanh-pho-ha-noi-thanh-pho-ho-chi-minh-cac-tinh-ha-son-binh-vinh-phu-cao-lang-bac-thai-quang-ninh-va-dong-nai-do-quoc-hoi-ban-hanh.html|tựa đề= Nghị quyết về việc phê chuẩn việc phân vạch lại địa giới thành phố Hà Nội, thành phố Hồ Chí Minh, các tỉnh Hà Sơn Bình, Vĩnh Phú, Cao Lạng, Bắc Thái, Quảng Ninh và Đồng Nai |ngày= 1978-12-29 |website= Hệ thống pháp luật |url lưu trữ=|ngày lưu trữ=|ngày truy cập=|url-status=live}}</ref> về việc sáp nhập huyện [[Cần Giờ (huyện)|Duyên Hải]] của tỉnh [[Đồng Nai]] vào [[Thành phố Hồ Chí Minh]].<ref>{{Chú thích web |url=http://thuvienphapluat.vn/archive/Nghi-quyet/Nghi-quyet-phe-chuan-viec-phan-vach-lai-dia-gioi-thanh-pho-Ha-Noi-TPHCM-cac-tinh-Ha-Son-Binh-Vinh-Phu-Cao-Lang-Bac-Thai-Quang-Ninh-va-Dong-Nai-vb42744t13.aspx |title=Nghị quyết về việc phê chuẩn việc phân vạch lại địa giới thành phố Hà Nội, Thành phố Hồ Chí Minh, các tỉnh Hà Sơn Bình, Vĩnh Phú, Cao Lạng, Bắc Thái, Quảng Ninh và Đồng Nai do Quốc hội ban hành |access-date=2014-12-02 |archive-date=2013-12-15 |archive-url=https://web.archive.org/web/20131215100906/http://thuvienphapluat.vn/archive/Nghi-quyet/Nghi-quyet-phe-chuan-viec-phan-vach-lai-dia-gioi-thanh-pho-Ha-Noi-TPHCM-cac-tinh-Ha-Son-Binh-Vinh-Phu-Cao-Lang-Bac-Thai-Quang-Ninh-va-Dong-Nai-vb42744t13.aspx |url-status=dead }}</ref>
+
+Ngày 30 tháng 5 năm 1979, Quốc hội Việt Nam ban hành Nghị quyết<ref>{{Chú thích web|url=https://hethongphapluat.com/nghi-quyet-ve-viec-thanh-lap-dac-khu-vung-tau-con-dao-truc-thuoc-trung-uong-do-quoc-hoi-ban-hanh.html|tựa đề= Nghị quyết về việc thành lập đặc khu Vũng Tàu – Côn Đảo trực thuộc Trung ương |ngày= 1979-05-30 |website= Hệ thống pháp luật |url lưu trữ=|ngày lưu trữ=|ngày truy cập=|url-status=live}}</ref> thành lập [[Đặc khu Vũng Tàu – Côn Đảo]] trên cơ sở sáp nhập thị xã [[Vũng Tàu (thành phố)|Vũng Tàu]], xã Long Sơn thuộc huyện [[Châu Thành (huyện Đồng Nai)|Châu Thành]], tỉnh [[Đồng Nai]] và huyện [[Côn Đảo]] thuộc tỉnh [[Hậu Giang]].<ref>[http://thuvienphapluat.vn/archive/Nghị-quyết/Nghị-quyết-thành-lập-đặc-khu-Vũng-Tàu-Côn-Đảo-trực-thuộc-Trung-ương-vb42745t13.aspx Nghị quyết về việc thành lập đặc khu Vũng Tàu - Côn Đảo trực thuộc Trung ương do Quốc hội ban hành]</ref>
+
+Ngày 9 tháng 12 năm 1982, điều chỉnh một phần diện tích tự nhiên và quy mô dân số của huyện [[Long Đất]] để thành lập huyện [[Trường Sa (đặc khu)|Trường Sa]].
+
+Ngày 28 tháng 12 năm 1982, chuyển huyện Trường Sa về tỉnh [[Phú Khánh]].
+
+Ngày 23 tháng 12 năm 1985, chuyển huyện [[Vĩnh Cửu (huyện)|Vĩnh Cửu]] thành thị xã Vĩnh An.<ref>{{Chú thích web |url=http://thuvienphapluat.vn/archive/Quyet-dinh/Quyet-dinh-284-HDBT-thanh-lap-thi-xa-Vinh-An-tinh-Dong-Nai-vb43638t17.aspx |title=Quyết định 284-HĐBT năm 1985 về việc thành lập thị xã Vĩnh An thuộc tỉnh Đồng Nai |access-date=2013-12-31 |archive-date=2021-11-20 |archive-url=https://web.archive.org/web/20211120050845/https://thuvienphapluat.vn/archive/Quyet-dinh/Quyet-dinh-284-HDBT-thanh-lap-thi-xa-Vinh-An-tinh-Dong-Nai-vb43638t17.aspx |url-status=dead }}</ref>
+
+Ngày 10 tháng 4 năm 1991, điều chỉnh một phần diện tích tự nhiên và quy mô dân số của huyện [[Xuân Lộc (huyện)|Xuân Lộc]] để thành lập huyện [[Long Khánh (thành phố)|Long Khánh]]; điều chỉnh một phần diện tích tự nhiên và quy mô dân số của huyện Tân Phú để thành lập huyện [[Định Quán (huyện)|Định Quán]].<ref>Quyết định 107-HĐBT ngày 10 tháng 4 năm 1991 chia các huyện Xuân Lộc và Tân Phú thành 4 huyện lấy tên là huyện Xuân Lộc, huyện Long Khánh, huyện Tân Phú và huyện Định Quán.</ref>
+
+Đến năm 1991, tỉnh Đồng Nai có 11 đơn vị hành chính gồm: thành phố [[Biên Hòa (thành phố)|Biên Hòa]] (tỉnh lỵ), [[Vĩnh Cửu (huyện)|thị xã Vĩnh An]] và 9 huyện: [[Châu Thành (huyện Đồng Nai)|Châu Thành]], [[Định Quán (huyện)|Định Quán]], [[Long Đất]], [[Long Khánh (thành phố)|Long Khánh]], [[Long Thành (huyện)|Long Thành]], [[Tân Phú (huyện)|Tân Phú]], [[Thống Nhất (huyện)|Thống Nhất]], [[Xuân Lộc (huyện)|Xuân Lộc]], [[Xuyên Mộc (huyện)|Xuyên Mộc]].
+
+Ngày 12 tháng 8 năm 1991, Quốc hội ban hành Nghị quyết<ref>{{Chú thích web|url=https://hethongphapluat.com/nghi-quyet-ve-viec-dieu-chinh-dia-gioi-hanh-chinh-mot-so-tinh-thanh-pho-truc-thuoc-trung-uong-do-quoc-hoi-ban-hanh.html|tựa đề= Nghị quyết về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương |ngày= 1991-08-12 |website= Hệ thống pháp luật |url lưu trữ=|ngày lưu trữ=|ngày truy cập=|url-status=live}}</ref> về việc thành lập tỉnh [[Bà Rịa – Vũng Tàu]] trên cơ sở đặc khu [[Vũng Tàu – Côn Đảo]] và 3 huyện [[Châu Thành (huyện Bà Rịa – Vũng Tàu)|Châu Thành]], [[Long Đất]], [[Xuyên Mộc (huyện)|Xuyên Mộc]] của tỉnh [[Đồng Nai]].<ref>[http://thuvienphapluat.vn/archive/Nghi-quyet/Nghi-quyet-dieu-chinh-dia-gioi-hanh-chinh-mot-so-tinh-thanh-pho-truc-thuoc-Trung-uong-vb42808t13.aspx Nghị quyết về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương do Quốc hội ban hành]{{Liên kết hỏng|date=2026-06-24 |bot=InternetArchiveBot }}</ref> Tỉnh Đồng Nai còn lại 1 thành phố Biên Hòa (tỉnh lị), 1 thị xã Vĩnh An và 6 huyện: Định Quán, Long Khánh, Long Thành, Tân Phú, Thống Nhất, Xuân Lộc.
+
+Năm 1993, thành phố [[Biên Hòa (thành phố)|Biên Hòa]] được công nhận là [[Đô thị loại II (Việt Nam)|đô thị loại II]], trực thuộc tỉnh Đồng Nai.
+
+Ngày 23 tháng 6 năm 1994, điều chỉnh một phần diện tích tự nhiên và quy mô dân số của huyện Long Thành để thành lập huyện [[Nhơn Trạch (huyện)|Nhơn Trạch]].<ref>{{Chú thích web |url=http://thuvienphapluat.vn/archive/Nghi-dinh/Nghi-dinh-51-CP-dieu-chinh-dia-gioi-huyen-xa-thuoc-tinh-Dong-Nai-vb38809t11.aspx |title=Nghị định 51-CP năm 1994 về việc điều chỉnh địa giới huyện, xã thuộc tỉnh Đồng Nai |access-date=2013-12-31 |archive-date=2016-03-07 |archive-url=https://web.archive.org/web/20160307125733/http://thuvienphapluat.vn/archive/Nghi-dinh/Nghi-dinh-51-CP-dieu-chinh-dia-gioi-huyen-xa-thuoc-tinh-Dong-Nai-vb38809t11.aspx |url-status=dead }}</ref> Ngày 29 tháng 8 năm 1994, giải thể thị xã Vĩnh An để tái lập huyện [[Vĩnh Cửu (huyện)|Vĩnh Cửu]].<ref>Nghị định 109-CP ngày 29 tháng 8 năm 1994 tái lập huyện Vĩnh Cửu; điều chỉnh địa giới một số xã phường thuộc thành phố Biên Hòa và các huyện Long Khánh, Long Thành, Nhơn Trạch, Tân Phú, Thống Nhất, Xuân Lộc</ref> Ngày 21 tháng 8 năm 2003, Chính phủ ban hành Nghị định số 97/2003/NĐ-CP, giải thể huyện Long Khánh để thành lập thị xã [[Long Khánh (thành phố)|Long Khánh]] và huyện [[Cẩm Mỹ (huyện)|Cẩm Mỹ]], điều chỉnh một phần diện tích tự nhiên và quy mô dân số của huyện Thống Nhất để thành lập huyện [[Trảng Bom (huyện)|Trảng Bom]].<ref name="nd97">[http://www2.vanban.chinhphu.vn/portal/page/portal/chinhphu/hethongvanban?class_id=1&_page=373&mode=detail&document_id=12180 Nghị định số 97/2003/NĐ-CP của Chính phủ: Nghị định thành lập thị xã Long Khánh và các phường, xã trực thuộc; thành lập các huyện Cẩm Mỹ, Trảng Bom, tỉnh Đồng Nai]{{Liên kết hỏng|date = ngày 2 tháng 6 năm 2021 |bot=InternetArchiveBot }}, Cổng Thông tin điện tử Chính phủ.</ref> Đến thời điểm này, tỉnh Đồng Nai có 1 thành phố, 1 thị xã và 9 huyện.
+
+Ngày 30 tháng 12 năm 2015, Thủ tướng Chính phủ ban hành Quyết định số 2488/QĐ-TTg công nhận thành phố Biên Hòa là [[Đô thị loại I (Việt Nam)|đô thị loại I]] trực thuộc tỉnh Đồng Nai.<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/quyet-dinh-2488-qd-ttg-2015-cong-nhan-thanh-pho-bien-hoa-la-do-thi-loai-i-thuoc-tinh-dong-nai-394181.aspx|title=Quyết định số 2488/QĐ-TTg của Thủ tướng Chính phủ về việc công nhận thành phố Biên Hòa là đô thị loại I trực thuộc tỉnh Đồng Nai|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Ngày 1 tháng 6 năm 2019, chuyển thị xã Long Khánh thành thành phố [[Long Khánh (thành phố)|Long Khánh]].<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-673-NQ-UBTVQH14-2019-giai-the-dieu-chinh-dia-gioi-don-vi-hanh-chinh-cap-xa-Dong-Nai-412485.aspx|title=Nghị quyết 673/NQ-UBTVQH14 năm 2019 về việc thành lập, giải thể, điều chỉnh địa giới hành chính một số đơn vị hành chính cấp xã và thành lập thành phố Long Khánh thuộc tỉnh Đồng Nai|last=|first=|date=|website=|archive-url=|archive-date=|url-status=|access-date =}}</ref> Từ đó, tỉnh Đồng Nai có 2 thành phố: Biên Hòa (tỉnh lị), Long Khánh và 9 huyện: Cẩm Mỹ, Định Quán, Long Thành, Nhơn Trạch, Tân Phú, Thống Nhất, Trảng Bom, Vĩnh Cửu, Xuân Lộc.
+
+Ngày 12 tháng 6 năm 2025, Quốc hội ban hành Nghị quyết số 202/2025/QH15<ref name="202/2025/QH15">{{Chú thích web |url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94532 |tựa đề=Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh |ngày=2025-06-12 |website=Cổng thông tin điện tử Quốc hội Việt Nam |url lưu trữ=https://web.archive.org/web/20250612150244/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94532 |ngày lưu trữ=2025-06-12 |ngày truy cập=2025-06-12 |url-status=live}}</ref> về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày 12 tháng 6 năm 2025). Theo đó, sáp nhập tỉnh [[Bình Phước (tỉnh)|Bình Phước]] vào tỉnh Đồng Nai. Sau khi sáp nhập, tỉnh Đồng Nai có 12.737,18&nbsp;km² diện tích tự nhiên và quy mô dân số là 4.491.408 người.
+
+Ngày 16 tháng 6 năm 2025, Quốc hội ban hành Nghị quyết số 203/2025/QH15<ref name="203/2025/QH15">{{Chú thích web|url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94585|tựa đề= Nghị quyết số 203/2025/QH15 về việc Sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |ngày= 2025-06-16 |website= Cổng thông tin điện tử Quốc hội Việt Nam |url lưu trữ=https://web.archive.org/web/20250616150846/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94585|ngày lưu trữ= 2025-06-16 |ngày truy cập= 2025-06-16 |url-status= dead }}</ref> về việc kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025; Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 1662/NQ-UBTVQH15<ref name="1662/NQ-UBTVQH15">{{Chú thích web|url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94602|tựa đề= Nghị quyết số 1662/NQ-UBTVQH15 về việc sắp xếp các đơn vị hành chính cấp xã của tỉnh Đồng Nai năm 2025 |ngày= 2025-06-16 |website= Cổng thông tin điện tử Quốc hội Việt Nam |url lưu trữ=https://web.archive.org/web/20250616150846/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94602|ngày lưu trữ= 2025-06-16 |ngày truy cập= 2025-06-16 |url-status= dead }}</ref> về việc thành lập 88 xã, phường mới thuộc tỉnh Đồng Nai trên cơ sở 263 đơn vị hành chính cấp xã và giữ 7 đơn vị hành chính cấp xã. Tỉnh Đồng Nai có 23 phường và 72 xã.
+
+=== 2026–nay: Thành phố Đồng Nai ===
+Ngày 14 tháng 4 năm 2026, Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 237/NQ-UBTVQH<ref name="237/NQ-UBTVQH">{{Chú thích web|url=https://dbnd.1cdn.vn/2026/04/20/nq-237-thanh-lap-10-phuong-dong-nai-1-.doc|tựa đề= Nghị quyết số 237/NQ-UBTVQH16 năm 2026 về việc thành lập 10 phường thuộc tỉnh Đồng Nai |ngày= 2026-04-14 |website= Cổng thông tin điện tử Quốc hội |url lưu trữ=https://web.archive.org/web/20260423073215/https://dbnd.1cdn.vn/2026/04/20/nq-237-thanh-lap-10-phuong-dong-nai-1-.doc|ngày lưu trữ= 2026-04-23 |ngày truy cập= 2026-04-23 |url-status= dead }}</ref> về việc thành lập 10 phường thuộc tỉnh Đồng Nai trên cơ sở giữ nguyên trạng diện tích và dân số của 10 xã: Dầu Giây, Đồng Phú, Long Thành, Lộc Ninh, Nhơn Trạch, Tân Khai, Tân Phú, Trảng Bom, Trị An, Xuân Lộc. Tỉnh Đồng Nai có 33 phường và 62 xã. Ngày 16 tháng 4 năm 2026, Bộ Xây dựng ban hành Quyết định số 502/QĐ-BXD<ref name="502/QĐ-BXD">Quyết định số 502/QĐ-BXD về việc công nhận tỉnh Đồng Nai đạt tiêu chí đô thị loại I.</ref> về việc công nhận tỉnh Đồng Nai đạt tiêu chí [[Đô thị Việt Nam#Đô thị loại I|đô thị loại I]].
+
+Ngày 24 tháng 4 năm 2026, Quốc hội ban hành Nghị quyết số 30/2026/QH16<ref name="30/2026/QH16">{{Chú thích web|url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=99663|tựa đề= Nghị quyết số 30/2026/QH16 năm 2026 về việc thành lập thành phố Đồng Nai |ngày= 2026-04-24 |website= Cổng thông tin điện tử Quốc hội Việt Nam |url lưu trữ=https://web.archive.org/web/20260430090440/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=99663|ngày lưu trữ= 2026-04-30 |ngày truy cập= 2026-04-30 |url-status= dead }}</ref> về việc thành lập thành phố Đồng Nai trực thuộc trung ương trên cơ sở toàn bộ 12.737,18&nbsp;km² diện tích tự nhiên và quy mô dân số là 4.491.408 người của tỉnh Đồng Nai (nghị quyết có hiệu lực từ ngày 30 tháng 4 năm 2026).<ref>{{Chú thích web|url=https://baochinhphu.vn/trinh-quoc-hoi-viec-thanh-lap-thanh-pho-dong-nai-truc-thuoc-trung-uong-du-kien-hieu-luc-tu-30-4-2026-102260420092248619.htm|tựa đề= Trình Quốc hội việc thành lập thành phố Đồng Nai trực thuộc Trung ương, dự kiến hiệu lực từ 30/4/2026 |ngày= 2026-04-20 |website= Báo Điện tử Chính phủ |url lưu trữ=https://web.archive.org/web/20260430090440/https://baochinhphu.vn/trinh-quoc-hoi-viec-thanh-lap-thanh-pho-dong-nai-truc-thuoc-trung-uong-du-kien-hieu-luc-tu-30-4-2026-102260420092248619.htm|ngày lưu trữ= 2026-04-30 |ngày truy cập= 2026-04-30 |url-status= dead }}</ref>
+
+Thành phố Đồng Nai có 33 phường và 62 xã như hiện nay.
+
+Ngày 16 tháng 7 năm 2026, Chính phủ ban hành Nghị quyết số 118/NQ-CP về việc chuyển giao [[Vườn quốc gia Cát Tiên]] về [[Ủy ban nhân dân]] thành phố Đồng Nai quản lý, bao gồm cả phần diện tích thuộc địa giới hành chính tỉnh [[Lâm Đồng]] nhằm thống nhất đầu mối quản lý và bảo tồn.<ref>{{Chú thích web |last=Chính phủ |date=2026-07-16 |title=Nghị quyết số 188/NQ-CP về việc chuyển giao Vườn quốc gia Cát Tiên về Ủy ban nhân dân thành phố Đồng Nai quản lý |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/188-2026nqcp.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260720145914/https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/188-2026nqcp.signed.pdf |archive-date=2026-07-20 |access-date=2026-09-03 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+== Hành chính ==
+{{Chính|Danh sách đơn vị hành chính thuộc thành phố Đồng Nai|Đô thị tại Đồng Nai}}
+
+[[Tập tin:Administrative Divisions of Dong Nai Province after 14 April 2026.svg|521x521px]]
+
+Thành phố Đồng Nai có 95 [[Đơn vị hành chính cấp xã (Việt Nam)|đơn vị hành chính cấp xã]], gồm 33 [[Phường (Việt Nam)|phường]] và 62 [[Xã (Việt Nam)|xã]].<ref name="PA" /><ref name="237/NQ-UBTVQH" />
+
+{| class="wikitable sortable" cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các đơn vị hành chính trực thuộc thành phố Đồng Nai
+|-
+| valign="top" width="25%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Diện tích<br>(km²)
+! style="border-bottom: 2px solid #CCCCFF;" |Dân số<br>(người)
+|-
+| colspan="3" style="text-align:left; background:beige; padding-left:30px;" |'''Phường (33)'''
+|-
+| style="text-align:left; padding-left:6px; white-space:nowrap;" |[[An Lộc (phường)|An Lộc]]
+|88,74
+|35.870
+|-
+| style="text-align:left; padding-left:6px; white-space:nowrap;" |[[Bảo Vinh]]
+|50,85
+|36.732
+|-
+| style="text-align:left; padding-left:6px; white-space:nowrap;" |[[Biên Hòa (phường)|Biên Hòa]]
+|21,46
+|86.267
+|-
+| style="text-align:left; padding-left:6px; white-space:nowrap;" |[[Bình Long (phường)|Bình Long]]
+|49,14
+|41.398
+|-
+| style="text-align:left; padding-left:6px; white-space:nowrap;" |[[Bình Lộc]]
+|77,21
+|36.964
+|-
+| style="text-align:left; padding-left:6px; white-space:nowrap;" |[[Bình Phước (phường)|Bình Phước]]
+|86,38
+|115.378
+|-
+| style="text-align:left; padding-left:6px; white-space:nowrap;" |[[Chơn Thành (phường)|Chơn Thành]]
+|124,41
+|43.658
+|-
+| style="text-align:left; padding-left:6px; white-space:nowrap;" |[[Dầu Giây]]
+|98,87
+|72.004
+|-
+| style="text-align:left; padding-left:6px; white-space:nowrap;" |[[Đồng Phú (phường)|Đồng Phú]]
+|138,66
+|49.297
+|-
+| style="text-align:left; padding-left:6px; white-space:nowrap;" |[[Đồng Xoài (phường)|Đồng Xoài]]
+|81,33
+|38.419
+|-
+| style="text-align:left; padding-left:6px; white-space:nowrap;" |[[Hàng Gòn]]
+|45,60
+|25.170
+|-
+| style="text-align:left; padding-left:6px; white-space:nowrap;" |[[Hố Nai]]
+|22,85
+|86.085
+|-
+| style="text-align:left; padding-left:6px; white-space:nowrap;" |[[Long Bình, Đồng Nai|Long Bình]]
+|44,91
+|230.996
+|-
+| style="text-align:left; padding-left:6px; white-space:nowrap;" |[[Long Hưng (phường)|Long Hưng]]
+|32,40
+|76.128
+|-
+| style="text-align:left; padding-left:6px; white-space:nowrap;" |[[Long Khánh (phường)|Long Khánh]]
+|21,32
+|79.449
+|-
+| style="text-align:left; padding-left:6px; white-space:nowrap;" |[[Long Thành (phường)|Long Thành]]
+|130,12
+|95.992
+|-
+| style="text-align:left; padding-left:6px; white-space:nowrap;" |[[Lộc Ninh (phường)|Lộc Ninh]]
+|67,51
+|32.291
+|-
+| style="text-align:left; padding-left:6px; white-space:nowrap;" |[[Minh Hưng]]
+|99,67
+|37.096
+|-
+| style="text-align:left; padding-left:6px; white-space:nowrap;" |[[Nhơn Trạch (phường)|Nhơn Trạch]]
+|108,24
+|156.839
+|-
+| style="text-align:left; padding-left:6px; white-space:nowrap;" |[[Phước Bình]]
+|72,57
+|45.801
+|-
+| style="text-align:left; padding-left:6px; white-space:nowrap;" |[[Phước Long, Đồng Nai|Phước Long]]
+|71,87
+|33.005
+|-
+| style="text-align:left; padding-left:6px; white-space:nowrap;" |[[Phước Tân]]
+|42,82
+|78.277
+|-
+| style="text-align:left; padding-left:6px; white-space:nowrap;" |[[Tam Hiệp (phường)|Tam Hiệp]]
+|10,81
+|152.515
+|-
+| style="text-align:left; padding-left:6px; white-space:nowrap;" |[[Tam Phước]]
+|45,09
+|61.360
+|}
+| valign="top" width="25%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Diện tích<br>(km²)
+! style="border-bottom: 2px solid #CCCCFF;" |Dân số<br>(người)
+|-
+| style="text-align:left" |[[Tân Khai]]
+|161,79
+|37.777
+|-
+| style="text-align:left" |[[Tân Phú, Đồng Nai|Tân Phú]]
+|105,81
+|77.153
+|-
+| style="text-align:left" |[[Tân Triều]]
+|63,29
+|112.454
+|-
+| style="text-align:left" |[[Trảng Bom (phường)|Trảng Bom]]
+|68,77
+|95.502
+|-
+| style="text-align:left" |[[Trảng Dài]]
+|37,29
+|137.951
+|-
+| style="text-align:left" |[[Trấn Biên (phường)|Trấn Biên]]
+|31,03
+|201.946
+|-
+| style="text-align:left" |[[Trị An]]
+|660,46
+|51.832
+|-
+| style="text-align:left" |[[Xuân Lập (phường)|Xuân Lập]]
+|29,19
+|19.390
+|-
+| style="text-align:left" |[[Xuân Lộc (phường)|Xuân Lộc]]
+|140,50
+|105.897
+|-
+| colspan="3" style="text-align:left; background:beige; padding-left:30px;" |'''Xã (62)'''
+|-
+| style="text-align:left" |[[An Phước, Đồng Nai|An Phước]]
+|58,32
+|65.750
+|-
+| style="text-align:left" |[[An Viễn]]
+|47,74
+|27.058
+|-
+| style="text-align:left" |[[Bàu Hàm]]
+|97,50
+|56.208
+|-
+| style="text-align:left" |[[Bình An, Đồng Nai|Bình An]]
+|59,41
+|26.396
+|-
+| style="text-align:left" |[[Bình Minh, Đồng Nai|Bình Minh]]
+|36,68
+|86.267
+|-
+| style="text-align:left" |[[Bình Tân (xã)|Bình Tân]]
+|190,89
+|28.734
+|-
+| style="text-align:left" |[[Bom Bo]]
+|245,87
+|27.552
+|-
+| style="text-align:left" |[[Bù Đăng (xã)|Bù Đăng]]
+|156,14
+|34.358
+|-
+| style="text-align:left" |[[Bù Gia Mập (xã)|Bù Gia Mập]]
+|342,51
+|8.558
+|-
+| style="text-align:left" |[[Cẩm Mỹ (xã)|Cẩm Mỹ]]
+|113,14
+|46.103
+|-
+| style="text-align:left" |[[Đa Kia]]
+|196,25
+|32.173
+|-
+| style="text-align:left" |[[Đak Lua]]
+|415,13
+|8.308
+|-
+| style="text-align:left" |[[Đak Nhau]]
+|182,47
+|24.529
+|-
+| style="text-align: left;" |[[Đại Phước]]
+|98,02
+|56.123
+|-
+| style="text-align: left;" |[[Đăk Ơ]]
+|246,49
+|19.858
+|}
+| valign="top" width="25%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Diện tích<br>(km²)
+! style="border-bottom: 2px solid #CCCCFF;" |Dân số<br>(người)
+|-
+| style="text-align:left" |[[Định Quán (xã)|Định Quán]]
+|295,82
+|86.548
+|-
+| style="text-align:left" |[[Đồng Tâm, Đồng Nai|Đồng Tâm]]
+|248,72
+|36.351
+|-
+| style="text-align:left" |[[Gia Kiệm]]
+|82,72
+|80.043
+|-
+| style="text-align:left" |[[Hưng Phước]]
+|187,19
+|13.214
+|-
+| style="text-align:left" |[[Hưng Thịnh]]
+|57,64
+|60.872
+|-
+| style="text-align:left" |[[La Ngà]]
+|133,45
+|33.442
+|-
+| style="text-align:left" |[[Long Hà]]
+|168,38
+|28.156
+|-
+| style="text-align:left" |[[Long Phước (xã)|Long Phước]]
+|81,83
+|43.777
+|-
+| style="text-align:left" |[[Lộc Hưng]]
+|99,02
+|26.958
+|-
+| style="text-align:left" |[[Lộc Quang]]
+|104,95
+|26.732
+|-
+| style="text-align:left" |[[Lộc Tấn]]
+|183,36
+|23.697
+|-
+| style="text-align:left" |[[Lộc Thành]]
+|206,10
+|15.558
+|-
+| style="text-align:left" |[[Lộc Thạnh]]
+|125,49
+|10.571
+|-
+| style="text-align:left" |[[Minh Đức]]
+|167,11
+|17.343
+|-
+| style="text-align:left" |[[Nam Cát Tiên (xã)|Nam Cát Tiên]]
+|82,93
+|16.198
+|-
+| style="text-align:left" |[[Nghĩa Trung]]
+|222,04
+|34.514
+|-
+| style="text-align:left" |[[Nha Bích]]
+|137,06
+|23.938
+|-
+| style="text-align:left" |[[Phú Hòa, Đồng Nai|Phú Hòa]]
+|61,53
+|37.059
+|-
+| style="text-align:left" |[[Phú Lâm, Đồng Nai|Phú Lâm]]
+|67,35
+|62.517
+|-
+| style="text-align:left" |[[Phú Lý]]
+|279,00
+|16.137
+|-
+| style="text-align:left" |[[Phú Nghĩa, Đồng Nai|Phú Nghĩa]]
+|279,40
+|34.649
+|-
+| style="text-align:left" |[[Phú Riềng (xã)|Phú Riềng]]
+|117,37
+|36.804
+|-
+| style="text-align:left" |[[Phú Trung]]
+|172,03
+|13.935
+|-
+| style="text-align:left" |[[Phú Vinh, Đồng Nai|Phú Vinh]]
+|69,45
+|31.660
+|-
+| style="text-align:left" |[[Phước An]]
+|170,72
+|87.605
+|}
+| valign="top" width="25%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Diện tích<br>(km²)
+! style="border-bottom: 2px solid #CCCCFF;" |Dân số<br>(người)
+|-
+| style="text-align:left" |[[Phước Sơn (xã)|Phước Sơn]]
+|386,56
+|31.262
+|-
+| style="text-align:left" |[[Phước Thái]]
+|85,86
+|55.230
+|-
+| style="text-align:left" |[[Sông Ray (xã)|Sông Ray]]
+|65,60
+|31.478
+|-
+| style="text-align:left" |[[Tà Lài]]
+|83,34
+|34.644
+|-
+| style="text-align:left" |[[Tân An, Đồng Nai|Tân An]]
+|80,24
+|40.281
+|-
+| style="text-align:left" |[[Tân Hưng, Đồng Nai|Tân Hưng]]
+|204,66
+|35.888
+|-
+| style="text-align:left" |[[Tân Lợi, Đồng Nai|Tân Lợi]]
+|379,78
+|14.705
+|-
+| style="text-align:left" |[[Tân Quan]]
+|148,31
+|30.357
+|-
+| style="text-align:left" |[[Tân Tiến, Đồng Nai|Tân Tiến]]
+|147,47
+|30.889
+|-
+| style="text-align:left" |[[Thanh Sơn, Đồng Nai|Thanh Sơn]]
+|315,40
+|33.717
+|-
+| style="text-align:left" |[[Thiện Hưng]]
+|110,97
+|35.619
+|-
+| style="text-align:left" |[[Thọ Sơn]]
+|307,69
+|21.962
+|-
+| style="text-align:left" |[[Thống Nhất, Đồng Nai|Thống Nhất]]
+|120,07
+|72.759
+|-
+| style="text-align:left" |[[Thuận Lợi]]
+|167,23
+|24.301
+|-
+| style="text-align:left" |[[Xuân Bắc (xã)|Xuân Bắc]]
+|96,44
+|45.194
+|-
+| style="text-align:left" |[[Xuân Định]]
+|52,29
+|37.022
+|-
+| style="text-align:left" |[[Xuân Đông]]
+|107,97
+|47.052
+|-
+| style="text-align:left" |[[Xuân Đường]]
+|82,11
+|26.948
+|-
+| style="text-align:left" |[[Xuân Hòa, Đồng Nai|Xuân Hòa]]
+|305,96
+|80.480
+|-
+| style="text-align:left" |[[Xuân Phú, Đồng Nai|Xuân Phú]]
+|55,63
+|29.808
+|-
+| style="text-align:left" |[[Xuân Quế]]
+|92,91
+|21.411
+|-
+| style="text-align:left" |[[Xuân Thành, Đồng Nai|Xuân Thành]]
+|122,71
+|22.327
+|}
+|}
+
+== Kinh tế ==
+{{Chính|Danh sách đơn vị hành chính Việt Nam theo GRDP}}{{Chính|Danh sách đơn vị hành chính Việt Nam theo GRDP bình quân đầu người}}
+
+Theo dữ liệu [[Sáp nhập tỉnh, thành Việt Nam 2025]], Đồng Nai có diện tích: 12.737&nbsp;km², xếp thứ 9; dân số: 4.491.408 người, xếp thứ 5; GRDP 2024: 609.176.602 triệu VNĐ, xếp thứ 4; thu ngân sách 2024: 73.458.454 triệu VNĐ, xếp thứ 4; thu nhập bình quân: 78,04 triệu VNĐ/năm, xếp thứ 4.<ref>{{Chú thích web |tiêu đề=Danh sách dự kiến tên gọi của 34 tỉnh, thành phố và trung tâm chính trị - hành chính |url=https://vtv.vn/chinh-tri/danh-sach-du-kien-ten-goi-cua-34-tinh-thanh-pho-va-trung-tam-chinh-tri-hanh-chinh-20250413230809506.htm |ngày truy cập=14 tháng 4 năm 2025 |website=vtv.vn |ngôn ngữ=vi}}</ref>
+
+Đồng Nai là một thành phố cửa ngõ đi vào vùng kinh tế Đông Nam Bộ – vùng kinh tế phát triển và năng động nhất cả nước. Trong đó, Đồng Nai là một trong hai cực tăng trưởng của vùng liên kết phát triển Thành phố Hồ Chí Minh – Đồng Nai. Năm 2025, chỉ số sản xuất công nghiệp (IIP) của Đồng Nai tăng 15,22% so với năm 2024.<ref>{{Chú thích web |last= |first= |date=2026-01-07 |title=Đồng Nai: Năm 2025, chỉ số sản xuất công nghiệp (IIP) tăng 15,22% so với năm 2024. |url=https://sct.dongnai.gov.vn/vi/news/Chi-dao-dieu-hanh/dong-nai-nam-2025-chi-so-san-xuat-cong-nghiep-iip-tang-15-22-so-voi-nam-2024-52257.html |access-date=2026-03-29 |website=Sở Công Thương |language=vi}}</ref> Đồng Nai nằm trong tốp đầu cả nước về thu hút vốn đầu tư trực tiếp nước ngoài ([[FDI]]). Tính đến cuối năm 2025, nơi đây có trên 2,2 ngàn dự án FDI còn hiệu lực với tổng vốn đăng ký hơn 42 tỷ USD từ 51 quốc gia và vùng lãnh thổ. Trong đó [[Hàn Quốc]], [[Trung Quốc]], [[Nhật Bản]], [[Đài Loan]] và [[Singapore]] là những quốc gia dẫn đầu về số dự án và tổng vốn đầu tư.<ref>{{Chú thích web |last= |first= |date=2025-11-27 |title=Đồng Nai thu hút FDI vượt kế hoạch năm 2025 |url=https://dongnai.gov.vn/vi/wcag/Hoat-dong-cua-lanh-dao-tinh/dong-nai-thu-hut-fdi-vuot-ke-hoach-nam-2025-10899.html |access-date=2026-03-29 |website=Cổng thông tin điện tử Đồng Nai |language=vi}}</ref> Đồng Nai là một trong những thành phố có quy mô khu công nghiệp lớn nhất Việt Nam.<ref>{{Chú thích web |title=Hạ tầng công nghiệp Đồng Nai trước nhu cầu phát triển mới |url=https://vnexpress.net/ha-tang-cong-nghiep-dong-nai-truoc-nhu-cau-phat-trien-moi-5010709.html |website=Vnexpress}}</ref> Có 57 [[khu công nghiệp]] được thành lập trên địa bàn thành phố Đồng Nai, trong đó 42 khu đã xây dựng hạ tầng đồng bộ. Các khu công nghiệp tiêu biểu bao gồm: Nhơn Trạch, Long Thành, Biên Hòa, Amata, Lộc An – Bình Sơn...<ref>{{Chú thích web |title=Danh sách các KCN |url=https://dnieza.dongnai.gov.vn/Pages/kcn.aspx |access-date=2026-03-29 |website=Ban Quản lý các Khu công nghiệp, Khu kinh tế tỉnh Đồng Nai}}</ref>
+
+=== Nông nghiệp và nông thôn ===
+
+Về [[nông nghiệp]], Đồng Nai là thủ phủ sản xuất [[chè]], [[cà phê]], [[ca cao]], [[cam]], [[bưởi]], [[quýt]], [[sầu riêng]], [[chôm chôm]], [[măng cụt]],.... Đây là thành phố có sản lượng nông nghiệp lớn nhất Đông Nam Bộ và là một trong những thành phố sản xuất ra khối lượng nông sản lớn nhất Việt Nam. Đồng Nai có diện tích cây công nghiệp, cây ăn trái lớn với tổng diện tích hơn 609 ngàn hécta.<ref>{{Chú thích web |last= |first= |date=2025-08-31 |title=Nông nghiệp Đồng Nai bứt phá phát triển |url=https://dongnai.gov.vn/vi/news/Nong-nghiep-Nong-thon/nong-nghiep-dong-nai-but-pha-phat-trien-55445.html |access-date=2026-03-29 |website=Đồng Nai : Cổng thông tin điện tử |language=vi}}</ref> Trong đó, một số cây công nghiệp chủ lực có diện tích thuộc tốp đầu cả nước như: [[cao su]], [[điều]], [[hồ tiêu]]... đã hình thành được các vùng chuyên canh lớn. Đồng Nai hiện cũng là thành phố dẫn đầu cả nước về chăn nuôi với tổng đàn hơn 4 triệu con heo và gần 33 triệu con gà (92% nuôi tại các trang trại quy mô lớn). Thành phố đang dịch chuyển mạnh mẽ từ chăn nuôi nhỏ lẻ sang hình thức trang trại tập trung, khép kín, ứng dụng công nghệ cao và an toàn sinh học.<ref>{{Chú thích web |last= |first= |title=Phát triển nông nghiệp bền vững ở Đồng Nai: "Con đường" tất yếu từ hữu cơ đến công nghệ cao |url=https://nongnghiephuuco.vn/phat-trien-nong-nghiep-ben-vung-o-dong-nai-con-duong-tat-yeu-tu-huu-co-den-cong-nghe-cao-9144.html |access-date=2026-03-29 |website=Tạp chí Nông nghiệp Hữu cơ Việt Nam |language=vi}}</ref>
+
+=== Danh sách các khu công nghiệp ===
+
+* Khu công nghiệp Biên Hòa I (hiện đang được quy hoạch lại để thay đổi công năng thành trung tâm dịch vụ thương mại nhằm bảo vệ môi trường [[sông Đồng Nai]])
+* Khu công nghiệp Biên Hòa II
+* Khu công nghiệp Long Bình Tân (Loteco)
+* Khu công nghiệp Amata
+* Khu công nghiệp AGTEX Long Bình
+* Khu công nghiệp Tam Phước
+* Khu công nghiệp Long Khánh
+* Khu công nghiệp Suối Tre
+* Khu công nghiệp Nhơn Trạch I
+* Khu công nghiệp Nhơn Trạch II
+* Khu công nghiệp Nhơn Trạch II – Lộc Khang
+* Khu công nghiệp Nhơn Trạch II – Nhơn Phú
+* Khu công nghiệp Nhơn Trạch III
+* Khu công nghiệp Nhơn Trạch IV
+* Khu công nghiệp Nhơn Trạch V
+* Khu công nghiệp Nhơn Trạch VI
+* Khu công nghiệp Ông Kèo
+* Khu công nghiệp Dệt May Nhơn Trạch
+* Khu công nghiệp Long Thành
+* Khu công nghiệp Tam Phước
+* Khu công nghiệp Long Đức
+* Khu công nghiệp Gò Dầu
+* Khu công nghiệp An Phước
+* Khu công nghiệp Lộc An – Bình Sơn (500ha)
+* Khu công nghiệp Phước Bình 190 ha (theo văn bản số 964/TTg-KTN ngày 17 tháng 6 năm 2009 của Thủ tướng Chính phủ)
+* Khu công nghiệp Hố Nai
+* Khu công nghiệp Sông Mây
+* Khu công nghiệp Bàu Xéo (''Hiện là khu công nghiệp có diện tích quy hoạch lớn nhất thành phố Đồng Nai với hơn 500ha'')
+* Khu công nghiệp Giang Điền (''đã được Chính phủ quy hoạch và trong giai đoạn hoàn thiện đi vào hoạt động'')
+* Khu công nghiệp Xuân Lộc (xã [[Xuân Hòa, Đồng Nai|Xuân Hòa]])
+* Khu công nghiệp Tân Phú (phường [[Tân Phú, Đồng Nai|Tân Phú]])
+* Khu công nghiệp Định Quán (xã [[La Ngà]])
+* Khu công nghiệp Dầu Giây (phường [[Dầu Giây]])
+* Khu công nghiệp Thạnh Phú (phường [[Tân Triều]])
+* Khu công nghiệp Cẩm Mỹ 300 ha (xã [[Xuân Đường]]) (theo văn bản số 964/TTg-KTN ngày 17 tháng 6 năm 2009 của Thủ tướng Chính phủ)
+
+===Thương mại dịch vụ===
+Ngành thương mại và dịch vụ của Đồng Nai là một trong những ngành tương đối còn mới mẻ và chưa được quan tâm đầu tư đúng mức tối đa mà tiềm lực Đồng Nai có thể đáp ứng.
+
+Một minh chứng rõ ràng cho thấy là Đồng Nai dù có dân số đông thứ hai ở miền Nam chỉ xếp sau [[thành phố Hồ Chí Minh]] nhưng các [[trung tâm thương mại]], các [[siêu thị]] vẫn còn thưa thớt và không có đầu tư nhiều. Phát triển chủ yếu của tình là các chợ truyền thống như chợ loại I: chợ Long Khánh ([[Long Khánh]]), chợ [[Biên Hòa]] ([[Biên Hòa]]), chợ Tân Hiệp ([[Biên Hòa]]) chợ Đông Hòa (Trảng Bom), chợ [[Long Khánh]], chợ Sông Ray ([[Cẩm Mỹ]]), chợ Tân Biên ([[Biên Hòa]], chợ Long Thành ([[Long Thành]]) và nhiều chợ loại 2, 3 và 4.<ref>{{chú thích web|url=http://xttmdn.com/Market.aspx |title=Danh bạ chợ ở Đồng Nai |publisher=Xttmdn.com |date=2010-07-15 |accessdate=2010-09-26}}</ref>
+
+Các trung tâm thương mại lớn và sầm uất gần như tập trung chủ yếu ở các đô thị lớn của thành phố như Trung tâm thương mại Big C ([[Biên Hòa]]), Coorpmart, Vinatext mới đây tập đoàn Metro Cash and Carry mới đầu tư xây dựng Trung tâm thương mại Metro tại [[Biên Hòa]].<ref>{{chú thích web|url=http://www.dongnai.gov.vn/tin_noibat/copy_of_20090709.009 |title=Khai trương Trung tâm thương mại Metro Biên Hòa |publisher=Dongnai.gov.vn |date= |accessdate=2010-09-26}}</ref>
+
+Gần đây, khi nhận ra sự phát triển thiếu đồng bộ và chênh lệch giữa các ngành trong thành phố, và để đáp ứng nhu cầu phát triển về thương mại dịch vụ, các dự án và quy hoạch phát triển các trung tâm thương mại được hình thành như Trung tâm thương mại Long Khánh ([[Long Khánh]]).<ref>{{chú thích web|url=http://www.longkhanh-dongnai.gov.vn/development_project/economy/ |title=Long Khánh trên đường công nghiệp hóa |publisher=Longkhanh-dongnai.gov.vn |date= |accessdate=2010-09-26}}</ref>, trung tâm thương mại Mũi Tàu ([[Long Thành]]) <ref>{{chú thích web|url=http://daihoi.dongnai.gov.vn/huyenlongthanh/Trang/Thamluan_UBND2.aspx |title=Địa hội Đảng bộ Long Thành |publisher=Daihoi.dongnai.gov.vn |date= |accessdate=2010-09-26}}</ref>, Trung tâm thương mại Trảng Bom <ref>{{chú thích web|url=http://baodongnai.com.vn/default.aspx?tabid=583&ItemID=15535 |title=Quy hoạch phát triển thương mại Trảng Bom |publisher=Baodongnai.com.vn |date= |accessdate=2010-09-26}}</ref> ...
+
+Hiện nay, khi hội nhập kinh tế thế giới, cam kết lộ tình thay đổi chính sách kinh tế khi vào [[WTO]] của Việt Nam, các tập đoàn bán lẻ bắt đầu xem xét và đổ bộ ngành thương mại dịch vụ vào [[Việt Nam]]. Đồng Nai cũng đã có những tầm nhìn rộng và mới cho ngành "công nghiệp không khói" hấp dẫn này, đặc biệt là các cao ốc văn phòng, cao ốc chung cư, các dự án trung tâm thương mại rộng khắp.
+
+==Y tế==
+Đồng Nai là một trong những thành phố có vị trí gần [[Thành phố Hồ Chí Minh]] nên có nhiều thuận lợi trong các lĩnh vực công nghệ khoa học. Trong đó, mạng lưới y tế cũng rất phát triển.
+
+Thêm vào đó, gần như hệ thống y tế của Đồng Nai đều tổ chức tốt từ thành phố đến các cấp cơ sở. Cụ thể mỗi xã đều có một Trạm y tế.
+
+===Danh sách bệnh viện tại Đồng Nai===
+{{Multicol}}
+* Bệnh viện Đa Khoa Đồng Nai
+* Bệnh viện Đa khoa Bình Phước
+* Bệnh viện Đa khoa Thống Nhất<br>(Bệnh viện Thánh Tâm)
+* Bệnh viện Tâm thần Trung ương II<br>(còn gọi là bệnh viện [[Biên Hòa (thành phố)|Biên Hòa]])
+* Bệnh viện Nhi Đồng Đồng Nai
+* Bệnh viện Phổi tỉnh
+* Bệnh viện [[Y học cổ truyền]]
+* Bệnh viện 7B
+* Bệnh viện Da liễu Tỉnh
+{{Multicol-break}}
+* Bệnh viện Hoàn Mỹ Bình Phước
+* Bệnh viện Đa khoa Phúc An
+* Bệnh viện Đại học Y Dược Shing Mark
+* Bệnh viện Đa khoa Cao su Đồng Nai
+* Bệnh viện Đa Khoa Tp. Biên Hòa
+* Bệnh viện Đa Khoa KV. Long Khánh
+* Bệnh viện Đa Khoa Dầu Giây
+* Bệnh viện Phụ sản Âu Cơ
+* Bệnh viện Răng-Hàm-Mặt Việt Anh Đức 
+* Bệnh viện đa khoa Tâm Hồng Phước
+* Bệnh viện Quốc tế Hoàn Mỹ Đồng Nai
+* Bệnh viện Hoàn Mỹ ITO Đồng Nai{{Multicol-end}}
+
+==Giáo dục==
+Tính đến thời điểm ngày 30 tháng 9 năm 2018 trên địa bàn toàn tỉnh Đồng Nai (đơn vị tiền thân của thành phố Đồng Nai hiện nay) có 745 [[trường học]], trong đó [[Trung học phổ thông (Việt Nam)|Trung học phổ thông]] có 84 trường, [[Trung học cơ sở (Việt Nam)|Trung học cơ sở]] có 273 trường, [[Giáo dục tiểu học|Tiểu học]] có 362 trường, trung học có 23 trường, có 4 trường phổ thông cơ sở, bên cạnh đó còn có 327 trường [[Trường mẫu giáo|mẫu giáo]].<ref name="gdvn2011"/> Với hệ thống trường học như thế, nền [[giáo dục]] tại phương tương đối hoàn chỉnh, góp phần giảm thiểu nạn [[mù chữ]]<ref name="gdvn2011">[http://www.gso.gov.vn/Modules/Doc_Download.aspx?DocID=15355 Thống kê về Giáo dục Việt Nam, Niên giám thống kê 2011], Theo tổng cục thống kê [[Việt Nam]]</ref>. Trên địa bàn còn có cơ sở 2 của [[Trường Đại học Mở Thành phố Hồ Chí Minh|Trường Đại học Mở TP. Hồ Chí Minh]] nằm tại phường [[Long Hưng (phường)|Long Hưng]].
+
+Sau khi được nâng cấp thành [[Thành phố trực thuộc trung ương (Việt Nam)|thành phố]], thành phố Ðồng Nai có quy mô trên 1,2 triệu [[học sinh]] và trên 1,3 ngàn cơ sở giáo dục. Ðồng Nai thuộc nhóm 5 tỉnh, thành có số lượng học sinh đông nhất cả nước, sau thủ đô [[Hà Nội]], [[Thành phố Hồ Chí Minh]], [[Nghệ An]], [[Thanh Hóa]]. Toàn ngành giáo dục của thành phố có tổng số hơn 65,2 ngàn cán bộ quản lý, [[giáo viên]], nhân viên các cấp học [[Trường mẫu giáo|mầm non]], phổ thông. Trong đó, có hơn 3,2 ngàn cán bộ quản lý, hơn 49,6 ngàn giáo viên và hơn 12,3 ngàn nhân viên.<ref name=":0">{{Chú thích web |title=Ngành giáo dục Đồng Nai tạo nền móng vững chắc tiến vào kỷ nguyên mới |url=https://baodongnai.com.vn/xa-hoi/202509/nganh-giao-duc-dong-nai-tao-nen-mong-vung-chac-tien-vao-ky-nguyen-moi-5cd0e8c/ |access-date=2026-03-29 |website=Báo điện tử Đồng Nai |language=vi-VN}}</ref>
+
+Kết quả [[Kỳ thi tốt nghiệp trung học phổ thông|thi tốt nghiệp THPT]] năm 2025, tỷ lệ tốt nghiệp của tỉnh Đồng Nai (đơn vị tiền thân của thành phố Đồng Nai hiện nay), ở hệ giáo dục phổ thông là 99,65%, hệ giáo dục thường xuyên là 92,62%, bình quân chung là 98,37%. Tính đến năm 2025, tỷ lệ trường đạt chuẩn quốc gia là 69,78%.<ref>{{Chú thích web |title=Tỷ lệ tốt nghiệp trung học phổ thông năm 2025 của Đồng Nai đạt 98,37% |url=https://baodongnai.com.vn/xa-hoi/giao-duc/202507/ty-le-tot-nghiep-trung-hoc-pho-thong-nam-2025-cua-dong-nai-dat-9959-b0d06a9/ |access-date=2026-03-29 |website=baodongnai.com.vn |language=vi-VN}}</ref>
+
+So với mặt bằng chung của cả nước, thành phố Đồng Nai là địa phương đã thực hiện tốt về công tác xã hội hóa giáo dục với tỷ lệ học sinh ngoài công lập là 20,6%, trong khi toàn quốc hơn 6,68%. Tính đến năm học 2025 – 2026 này, mạng lưới trường ngoài công lập có 190 trường, từ mầm non đến THPT. Trong đó, mầm non có 150 trường, tiểu học 6 trường, THCS 5 trường và THPT có 29 trường. Các trường ngoài công lập đã huy động 145 ngàn học sinh các cấp ra lớp, chiếm tỷ lệ khoảng 20,6% so với tổng số học sinh toàn thành phố.<ref name=":0" />
+
+==Dân số==
+{{Lịch sử dân số
+| title = Lịch sử phát triển dân số thành phố Đồng Nai qua các năm
+| type = 
+| align = right
+| cols = 2
+| direction = 
+| width = 15
+| state = 
+| shading = 
+| pop_name = 
+| percentages = 
+| footnote = 
+| source = Trang Thông tin điện tử Cục Thống kê - Bộ Tài chính<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương">[https://www.nso.gov.vn/px-web-2/?pxid=V0203-07&theme=D%C3%A2n%20s%E1%BB%91%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng Diện tích, dân số và mật độ dân số phân theo địa phương], Trang Thông tin điện tử Cục Thống kê - Bộ Tài chính</ref>
+| 1990 | 1.648.900
+| 1991 | 1.688.000
+| 1992 | 1.727.400
+| 1993 | 1.766.700
+| 1994 | 1.805.000
+| 1995 | 1.844.800
+| 1996 | 1.882.200
+| 1997 | 1.920.000
+| 1998 | 1.959.300
+| 1999 | 1.999.500
+| 2000 | 2.054.100
+| 2001 | 2.093.700
+| 2002 | 2.132.200
+| 2003 | 2.176.100
+| 2004 | 2.220.500
+| 2005 | 2.263.800
+| 2006 | 2.314.900
+| 2007 | 2.372.600
+| 2008 | 2.432.700
+| 2009 | 2.499.700
+| 2010 | 2.575.100
+| 2011 | 2.640.200
+| 2012 | 2.707.800
+| 2013 | 2.772.700
+| 2014 | 2.838.600
+| 2015 | 2.905.800
+| 2016 | 2.963.800
+| 2017 | 3.027.300
+| 2018 | 3.086.100
+| 2019 | 3.113.700
+| 2020 | 3.177.400
+| 31/12/2020 | 3.450.484
+| 2021 | 3.169.100
+| 31/12/2021 | 3.495.600
+| 2022 | 3.255.800
+| 31/12/2022 | 3.393.186
+| 2023 | 3.310.900
+| 31/12/2023 | 3.456.789
+| 2024 | 3.365.450
+| 31/12/2024 | 3.256.999
+| 31/12/2024 | 4.491.408
+| 2025 | 4.491.408
+| 31/12/2025 | 4.836.798
+}}
+
+Tính đến ngày 31 tháng 12 năm 2022, tỉnh Đồng Nai (đơn vị tiền thân của thành phố Đồng Nai hiện nay) có diện tích 5.863,62&nbsp;km² và quy mô dân số là 3.393.186 người.<ref>{{Chú thích web|url=https://vinhcuu.dongnai.gov.vn/Shared%20Documents/PA%20Phan%20Chia%20Dia%20Gioi%20HC.pdf|tựa đề= Phương án số 01/PA-UBND về về tổng thể sắp xếp đơn vị hành chính cấp huyện, cấp xã giai đoạn 2023 – 2025 của tỉnh Đồng Nai |tác giả=|ngày= 2023-11-02 |website=|url lưu trữ=https://web.archive.org/web/20240519000000/https://vinhcuu.dongnai.gov.vn/Shared%20Documents/PA%20Phan%20Chia%20Dia%20Gioi%20HC.pdf|ngày lưu trữ= 2024-05-19 |ngày truy cập= 2024-05-19 |url-status= dead }}</ref>
+
+Tính đến năm 2024, tỉnh Đồng Nai (đơn vị tiền thân của thành phố Đồng Nai hiện nay) có diện tích tự nhiên 5.863,62&nbsp;km²,<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương">[https://www.nso.gov.vn/px-web-2/?pxid=V0203-07&theme=D%C3%A2n%20s%E1%BB%91%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng Diện tích, dân số và mật độ dân số phân theo địa phương], Trang Thông tin điện tử Cục Thống kê - Bộ Tài chính</ref> dân số trung bình là 3.365.450 người,<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương"/> trong đó dân số nam ước tính đạt khoảng 1.694.120 người chiếm ({{formatnum:{{#expr:1694120/3365450*100round2}}}}%),<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương"/> dân số nữ ước tính đạt khoảng 1.671.320 người chiếm ({{formatnum:{{#expr:1671320/3365450*100round2}}}}%),<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương"/> dân số thành thị ước tính đạt khoảng 1.526.570 người chiếm ({{formatnum:{{#expr:1526570/3365450*100round2}}}}%),<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương"/> dân số nông thôn ước tính đạt khoảng 1.838.880 người chiếm ({{formatnum:{{#expr:1838880/3365450*100round2}}}}%),<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương"/> với mật độ dân số là {{formatnum:{{#expr:floor({{formatnum:3.365.450|R}}/{{formatnum:5.863,62|R}})}} }} người/km².<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương"/>
+
+Tính đến ngày 31 tháng 12 năm 2024, tỉnh Đồng Nai (đơn vị tiền thân của thành phố Đồng Nai hiện nay) có diện tích 12.737,18&nbsp;km² và quy mô dân số là 4.491.408 người, mật độ dân số đạt {{formatnum:{{#expr:floor({{formatnum:4.491.408|R}}/{{formatnum:12.737,18|R}})}} }} người/km².<ref name="202/2025/QH15"/><ref name=TT>{{Chú thích web|url=https://tuoitre.vn/chi-tiet-du-kien-quy-mo-dan-so-dien-tich-kinh-te-cua-34-tinh-thanh-sau-sap-nhap-20250513081155167.htm|tựa đề= Chi tiết dự kiến quy mô dân số, diện tích, kinh tế của 34 tỉnh, thành sau sáp nhập |tác giả= Thành Chung |ngày= 2025-05-13 |website= Tuổi Trẻ Online |url lưu trữ=https://web.archive.org/web/20250513080219/https://tuoitre.vn/chi-tiet-du-kien-quy-mo-dan-so-dien-tich-kinh-te-cua-34-tinh-thanh-sau-sap-nhap-20250513081155167.htm|ngày lưu trữ= 2025-05-13 |ngày truy cập= 2025-05-13 |url-status= dead }}</ref><ref name="DT">{{Chú thích web |url= https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm |tựa đề= Dự kiến chi tiết diện tích, dân số, quy mô kinh tế của 34 tỉnh, thành mới |tác giả= Lê Hoa |ngày= 2025-06-09 |website= Báo Dân Trí |url lưu trữ= https://web.archive.org/web/20250610031809/https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm |ngày lưu trữ= 2025-06-10 |ngày truy cập= 2025-06-09 |url-status= dead }}</ref>
+
+Tính đến ngày 31 tháng 12 năm 2025, tỉnh Đồng Nai (đơn vị tiền thân của thành phố Đồng Nai hiện nay) có diện tích 12.737,18&nbsp;km², quy mô dân số là 4.836.798 người, mật độ dân số đạt {{formatnum:{{#expr:floor({{formatnum:4.836.798|R}}/{{formatnum:12.737,18|R}})}} }} người/km².<ref name=ĐA>{{Chú thích web|url=https://dongnai.gov.vn/vi/gop-y-du-thao/detail/Lay-y-kien-Nhan-dan-doi-voi-De-an-thanh-lap-phuong-va-thanh-lap-thanh-pho-Dong-Nai-truc-thuoc-Trung-uong-1125/?download=1&id=1|tựa đề= Đề án thành lập phường và thành lập tỉnh Đồng Nai trực thuộc Trung ương |ngày= 2026-03-24 |website= Cổng thông tin điện tử tỉnh Đồng Nai |p= 68 |url lưu trữ=https://web.archive.org/web/20260326132929/https://dongnai.gov.vn/vi/gop-y-du-thao/detail/Lay-y-kien-Nhan-dan-doi-voi-De-an-thanh-lap-phuong-va-thanh-lap-thanh-pho-Dong-Nai-truc-thuoc-Trung-uong-1125/?download=1&id=1|ngày lưu trữ= 2026-03-26 |ngày truy cập= 2026-03-26 |url-status= dead }}</ref><ref name=PA>{{Chú thích web|url=https://igit.me/PhuongAnThanhLapTPDongNai|tựa đề= Bản đồ Phương án thành lập thành phố Đồng Nai |ngày= 2026-03-24 |website= Cổng thông tin điện tử tỉnh Đồng Nai |url lưu trữ=https://web.archive.org/web/20260326132929/https://igit.me/PhuongAnThanhLapTPDongNai|ngày lưu trữ= 2026-03-26 |ngày truy cập= 2026-03-26 |url-status= dead }}</ref> Tỷ lệ đô thị hóa tính đến năm 2026 đạt 54,10%.
+
+Tính đến 0 giờ ngày 1 tháng 4 năm 2019, tổng số người dân tộc Kinh trên toàn địa bàn tỉnh (đơn vị tiền thân của thành phố Đồng Nai hiện nay) là 2.898.088 người, chiếm 93,6% dân số toàn tỉnh, tổng số người dân tộc khác là 199.019 người, chiếm 6,4%.<ref name=":1">{{Chú thích sách |last=Cục thống kê tỉnh Đồng Nai |url=https://thongke.dongnai.gov.vn/KetQuaDieuTra/DongNai_Ket%20qua%20TDT_2019.pdf |title=Kết quả tổng điều tra dân số và nhà ở tỉnh Đồng Nai |publisher=Nhà xuất bản thống kê |year=2019 |publication-date=1 tháng 4 năm 2019 |language=tiếng Việt}}</ref> [[Người Chơ Ro]] tại Đồng Nai là cộng đồng đông nhất cả nước, chiếm 56,70% tổng số người Chơ Ro tại Việt Nam.<ref>{{Chú thích web |last= |first= |date=2024-08-15 |title=Đồng Nai là địa phương có số lượng người Chơro đông nhất cả nước |url=https://dongnai.gov.vn/vi/news/van-hoa-dong-nai/dong-nai-la-dia-phuong-co-so-luong-nguoi-choro-dong-nhat-ca-nuoc-46116.html |access-date=2026-03-29 |website=Cổng thông tin điện tử Đồng Nai |language=vi}}</ref>
+
+Tính đến ngày 1 tháng 4 năm 2019, toàn tỉnh Đồng Nai (đơn vị tiền thân của thành phố Đồng Nai hiện nay) có 13 tôn giáo khác nhau, nhiều nhất là [[Công giáo]] có 1.015.315 người, [[Phật giáo]] có 440.556 người, [[Đạo Cao Đài]] có 34.670 người, các tôn giáo khác như [[Tin Lành tại Việt Nam|Tin Lành]] có 43.690 người, [[Hồi giáo]] 6.220 người, [[Phật giáo Hòa Hảo|Phật giáo hòa hảo]] có 5.220 người, [[Tịnh độ cư sĩ Phật hội Việt Nam]] có 530 người, [[Đạo Tứ Ân Hiếu Nghĩa]] có 36 người, [[Minh Sư Đạo]] có 39 người, [[Bahá'í]] có 63 người, [[Bà-la-môn]] có 15 người, [[Minh Lý Đạo]] có 12 người, còn lại là đạo [[Đạo Bửu Sơn Kỳ Hương|Bửu Sơn Kỳ Hương]] có hai người.<ref name="dstcdtvn">[http://www.gso.gov.vn/Modules/Doc_Download.aspx?DocID=12724 Kết quả toàn bộ Tổng điều tra Dân số và Nhà ở Việt Nam năm 2009], Tổng cục Thống kê Việt Nam.</ref>
+
+Đồng Nai là thành phố có sự đa dạng về các đặc trưng tôn giáo, tín ngưỡng. Phần lớn dân cư theo sau Công cuộc Mở mang bờ cõi của Chúa Nguyễn và đánh dấu là sự khai hoang lập ấp của [[Nguyễn Hữu Cảnh]]. Cư dân ban đầu mang theo tín ngưỡng thờ cúng ông bà mà phần lớn người dân Việt Nam hiện nay đều có. Song song đó là sự có mặt của Phật giáo, Đạo giáo, Khổng giáo,... dần dần đến các cuộc chiến tranh Việt Nam chống ngoại ban xâm lược thì sự du nhập các tôn giáo, tín ngưỡng theo sự di dân do chiến tranh và hoàn cảnh bắt đầu xuất hiện.
+
+Công giáo ra đời và phát triển mạnh mẽ đến ngày nay trên đất Đồng Nai là sau cuộc di dân năm 1954. Rồi Phật giáo Hòa Hảo và Cao Đài, v.v.. dần xuất hiện theo sự di cư của người dân. Các nơi có đông giáo dân ở Đồng Nai là khu vực thành phố Biên Hoà, huyện Trảng Bom cũ, trải dài tới Xuân Lộc, Thống Nhất, Định Quán, Tân Phú, với hơn 900.000 giáo dân, Đồng Nai là nơi có số lượng người theo Công giáo rất lớn.
+
+Phật giáo tại Đồng Nai phát triển mạnh sau sự kiện [[Thích Quảng Đức]] vị quốc thiêu thân năm 1963, làm phát khởi tinh thần Từ Bi – Trí tuệ của người Phật tử, hiện nay hàng loạt các ngôi chùa, tự viện, thiền viện được ra đời đáp ứng nhu cầu tu học của người dân, đăc biệt là Hệ thống Thiền viện thuộc [[Thiền phái Trúc Lâm|Thiền Phái Trúc Lâm Việt Nam]].
+
+Theo Ủy ban Mặt trận Tổ quốc Việt Nam tỉnh Đồng Nai (nay là Ủy ban Mặt trận Tổ quốc Việt Nam thành phố Đồng Nai), năm 2025 toàn tỉnh hiện có 2,65 triệu tín đồ thuộc 11 tôn giáo với 43 tổ chức tôn giáo đang hoạt động. Đồng Nai là địa phương có số tín đồ các tôn giáo chiếm số lượng lớn nhất cả nước. Cụ thể, tín đồ Công giáo có trên 1,31 triệu người. Tín đồ Phật giáo hơn 1 triệu người. Người theo đạo Tin Lành có trên 80 nghìn người.<ref>{{Chú thích web |title=Đồng bào các tôn giáo chung sức vì Đồng Nai phát triển |url=https://baodongnai.com.vn/xa-hoi/202510/dong-bao-cac-ton-giao-chung-suc-vi-dong-nai-phat-trien-b771006/ |access-date=2026-03-29 |website=baodongnai.com.vn |language=vi-VN}}</ref> Các tôn giáo khác gồm có Cao Đài, Hồi giáo, Phật giáo Hòa Hảo... chiếm tỉ lệ nhỏ hơn trong tổng số tín đồ. Ngoài ra, trên địa bàn còn xuất hiện một số hiện tượng "tôn giáo mới" như Tổ Tiên Chính thống giáo, [[đạo Dừa]], [[Thanh Hải Vô Thượng Sư|Thanh Hải vô thượng sư]], Vô vi Phật tử Như lai, [[Pháp Luân Công tại Việt Nam|Pháp Luân công]]...<ref>Ban Tôn giáo tỉnh Đồng Nai. ''Báo cáo số 403/BC-BTG ngày 30/10/2017 về tình hình tín ngưỡng, tôn giáo và công tác quản lý nhà nước về tín ngưỡng, tôn giáo năm 2017, phương hướng nhiệm vụ trọng tâm năm 2018.''</ref>
+
+==Văn hóa==
+{{Chính|Văn hóa Đồng Nai}}
+Đồng Nai sở hữu hệ thống di sản văn hóa phi vật thể phong phú, phản ánh đậm nét đời sống tâm linh và các nghi lễ nông nghiệp của cộng đồng cư dân đa sắc tộc. Trong đó, [[Đờn ca tài tử Nam Bộ]] là di sản tiêu biểu đã được [[UNESCO]] công nhận là Di sản văn hóa phi vật thể đại diện của nhân loại.
+
+Thành phố Đồng Nai và Thành phố Hồ Chí Minh (cụ thể hơn là khu vực phía bắc thành phố) là hai thành phố miền [[Đông Nam Bộ]] có nghề nghiệp truyền thống nổi tiếng là gốm sứ.<ref>{{Chú thích web |url=http://baodongnai.com.vn/default.aspx?tabid=583&ItemID=55729 |tiêu đề=Gốm sứ truyền thống Bình Dương và Đồng Nai |nhà xuất bản=Baodongnai.com.vn |ngày= |ngày truy cập=ngày 26 tháng 9 năm 2010 }}{{Liên kết hỏng|date = ngày 2 tháng 6 năm 2021 |bot=InternetArchiveBot }}</ref> Sản phẩm gốm sứ của Đồng Nai có nhiều loại và không giống như các sản phẩm gốm sứ truyền thống khác ở miền Bắc và miền Trung. Phương pháp nghệ thuật tạo hoa văn cho sản phẩm của gốm sứ Đồng Nai là kết hợp giữa khắc nét chìm và trổ thủng sản phẩm gốm rồi quét men nhưng không có sự phân biết nước men và màu ve.
+
+Ngoài ra, Đồng Nai còn có nhiều nghề nghiệp thủ công nghiệp truyền thống như đan lát, mây tre lá nhờ nguồn tài nguyên là các rừng lá buông của địa phương, các làng nghề khác như bánh đa, hủ tíu, gò thùng thiếc làng Kim Bích. Theo dòng chảy của lịch sử, Đồng Nai đã hình thành nên những làng nghề nổi tiếng như: làng nghề đá Bửu Long, gốm Tân Vạn ([[Biên Hòa (phường)|Biên Hòa]]), đúc gang Thạnh Phú, trồng nấm ([[Bảo Vinh]]), trầm hương ([[Phú Trung]]), gỗ mỹ nghệ ([[Bình Minh, Đồng Nai|Bình Minh]], [[Xuân Hòa, Đồng Nai|Xuân Hoà]]),...<ref>{{Chú thích web |title=Những làng nghề nổi tiếng |url=https://baodongnai.com.vn/dong-nai-cuoi-tuan/202308/nhung-lang-nghe-noi-tieng-3173569/ |access-date=2026-03-29 |website=baodongnai.com.vn |language=vi-VN}}</ref>
+
+Gia công đồ mỹ nghệ, làm các sản phẩm từ gỗ công nghệ, chế biến nông sản, sản xuất gạch ngói, đúc đồng, đúc gang... là những ngành nghề truyền thống nổi tiếng của Đồng Nai. Nắm bắt được thế mạnh này, Đồng Nai ra sức bảo vệ nghề truyền thống và thành lập các cụm công nghiệp nghề truyền thống, mở các lớp đào tạo nghề truyền thống là giải pháp then chốt và mới mẻ nhưng có tính cách lâu dài và là bước đi đúng đắn bảo vệ ngành nghề truyền thống trước sức ép phát triển của quá trình [[đô thị hóa]], hội nhập kinh tế và đầu tư nước ngoài cho các ngành công nghiệp và dịch vụ hiện đại.<ref>{{Chú thích web |url=http://www.dongnai.gov.vn/doanh-nghiep/cackhu_congnghiep/copy_of_kcn_tinh_quy_hoach/trang_dan/view |tiêu đề=Cụm công nghiệp nghề truyền thống của Đồng Nai |nhà xuất bản=Dongnai.gov.vn |ngày=ngày 28 tháng 7 năm 2005 |ngày truy cập=ngày 26 tháng 9 năm 2010 |archive-date = ngày 26 tháng 11 năm 2010 |archive-url=https://web.archive.org/web/20101126130534/http://www.dongnai.gov.vn/doanh-nghiep/cackhu_congnghiep/copy_of_kcn_tinh_quy_hoach/trang_dan/view }}</ref>
+
+Các lễ hội tiêu biểu tại địa phương thường gắn liền với tín ngưỡng thờ cúng thần linh và tổ tiên. Đáng chú ý nhất là [[lễ hội Sayangva]] (Mừng lúa mới) của [[người Chơ Ro]] đang được lập hồ sơ đề nghị đưa vào Danh mục di sản văn hóa phi vật thể quốc gia. Bên cạnh đó, lễ hội Kỳ Yên tại các đình làng như [[đình Tân Lân]], đình Bình Kính là dịp cầu mưa thuận gió hòa cho cộng đồng. Các nhóm dân tộc khác cũng duy trì những lễ hội đặc thù như lễ Tả Tài Phán của cộng đồng [[người Hoa]] (nhóm Hẹ) mang đậm dấu ấn [[Đạo giáo]], lễ hội Lơh-yang-rơ tạ ơn sau mùa thu hoạch của [[người Kơ Ho]], và lễ hội [[Lồng tồng]] của người [[Người Tày|Tày]], [[Người Nùng|Nùng]].<ref>{{Chú thích web |title=Lan tỏa hình ảnh Ðồng Nai qua lễ hội |url=https://baodongnai.com.vn/van-hoa/202602/lan-toa-hinh-anhong-nai-qua-le-hoi-d61509a/ |access-date=2026-03-29 |website=baodongnai.com.vn |language=vi-VN}}</ref><ref>{{Chú thích web |title=Đồng Nai: Giữ bản sắc văn hóa qua các lễ hội truyền thống |url=https://vietnamtourism.gov.vn/post/48910 |website=Cục du lịch quốc gia Việt Nam}}</ref>
+
+== Di tích ==
+ 
+=== Những di tích lịch sử được công nhận cấp quốc gia ===
+
+Di tích được xếp hạng cấp quốc gia có 24 di tích (xếp theo thứ tự thời gian xếp hạng), gồm:
+
+# Mộ cự thạch Hàng Gòn (1982)
+# Địa điểm chiến thắng La Ngà (1986)
+# Nhà Xanh (1986)
+# Đài Chiến sĩ/Đài Kỷ Niệm (1988)
+# Danh thắng Đá chồng Định Quán (1988)
+# Toà Hành chánh Long Khánh (1988)
+# Đình An Hoà (1989)
+# Danh thắng Bửu Long (1990)
+# Chùa Đại Giác (1990)
+# Lăng mộ Trịnh Hoài Đức (1990)
+# Đình Tân Lân (1991)
+# Đền thờ và Mộ Nguyễn Hữu Cảnh (1991)
+# Chùa Long Thiền (1991)
+# Nhà hội Bình Trước (1991)
+# Quảng trường Sông Phố (1991)
+# Đền thờ Nguyễn Tri Phương (1992)
+# Nhà lao Tân Hiệp (1994)
+# Mộ Nguyễn Đức Ứng và 26 nghỉa binh (1994)
+# Căn cứ Khu uỷ miền Đông Nam Bộ (1997)
+# Mộ – đền thờ Đoàn Văn Cự và 16 nghĩa binh (1998)
+# Địa đạo Suối Linh (1999)
+# Căn cứ Trung ương Cục miền Nam (2001)
+# Chùa Ông/Thất phủ cổ miếu (2001)
+# Địa đạo Nhơn Trạch (2001)
+
+=== Những di tích lịch sử được công nhận cấp tỉnh ===
+
+Di tích được xếp hạng cấp tỉnh có 16 di tích (xếp theo thứ tự thời gian xếp hạng), gồm:
+
+# Bửu Hưng tự/chùa Cô hồn (1979)
+# Toà bố Biên Hoà (1979)
+# Địa điểm Ngã ba Giồng Sắn (2001)
+# Đình Bình Quan (2004)
+# Đình Phú Mỹ (2005)
+# Nhà cổ Trần Ngọc Du (2005)
+# Địa điểm Căn cứ Tỉnh uỷ Biên Hoà (2005)
+# Địa điểm thành lập chi bộ Đảng cộng sản Bình Phước Tân Triều và Tỉnh uỷ Lâm thời Biên Hoà (2007)
+# Đình Phước Lộc (2007)
+# Thành Biên Hoà (2008)
+# Đình Xuân Lộc – chùa Xuân Hoà (2008)
+# Miếu Tổ sư/Thiên hậu cổ miếu (2008)
+# Đình Hưng Lộc (2008)
+# Đình Phước Thiền (2009)
+# Núi Chứa Chan (2009)
+# Vườn Cao su đầu tiên, sân điểm đồn điền cao su Dầu Giây (2009)
+
+=== Phân bố các di tích trong thành phố ===
+
+Di tích phân bố trên các địa bàn thành phố như sau:
+
+==== Phường Biên Hòa ====
+
+# Chùa Long Thiền
+# Đền thờ Nguyễn Tri Phương
+# Nhà cổ Trần Ngọc Du
+
+==== Phường Dầu Giây ====
+
+# Đình Hưng Lộc
+# Vườn cao su đầu tiên
+# Sân điểm đồn điền cao su Dầu Giây
+
+==== Phường Hàng Gòn ====
+
+# Mộ Cự thạch Hàng Gòn
+
+==== Phường Long Bình ====
+
+# Mộ – đền thờ Đoàn Văn Cự và 16 nghĩa binh (cùng với phường Tam Hiệp)
+
+==== Phường Long Hưng ====
+
+# Đình An Hoà
+
+==== Phường Long Khánh ====
+
+# Toà hành chánh Long Khánh
+# Đình Xuân Lộc – chùa Xuân Hoà
+
+==== Phường Nhơn Trạch ====
+
+# Đình Phú Mỹ
+# Đình Phước Thiền
+
+==== Phường Tam Hiệp ====
+
+# Nhà lao Tân Hiệp
+# Mộ – đền thờ Đoàn Văn Cự và 16 nghĩa binh (cùng với phường Long Bình)
+
+==== Phường Tân Triều ====
+
+# Địa điểm thành lập chi bộ Bình Phước – Tân Triều và Tình ủy lâm thời Biên Hoà
+
+==== Phường Trấn Biên ====
+
+# Bửu Hưng tự/chùa Cô hồn
+# Toà bố Biên Hoà
+# Nhà hội Bình Trước
+# Quảng trường Sông Phố
+# Nhà Xanh
+# Đài Chiến sĩ
+# Lăng mộ Trịnh Hoài Đức
+# Danh thắng Bửu Long
+# Miếu Tổ sư/Thiên hậu cổ miếu
+# Chùa Đại Giác
+# Đền thờ – mộ Nguyễn Hữu Cảnh
+# Chùa Ông/Thất phủ cổ miếu
+# Đình Bình Quan
+# Đình Tân Lân
+# Thành Biên Hoà
+
+==== Phường Trị An ====
+
+# Căn cứ khu uỷ miền Đông Nam Bộ
+# Địa đạo Suối Linh
+
+==== Phường Xuân Lộc ====
+
+# Núi Chứa Chan
+
+==== Xã Bàu Hàm ====
+
+# Căn cứ Tỉnh uỷ Biên Hoà
+
+==== Xã Định Quán ====
+
+# Địa điểm chiến thắng La Ngà
+# Danh thắng Đá chồng
+
+==== Xã Long Phước ====
+
+# Mộ Nguyễn Đức Ứng và 26 nghĩa binh
+
+==== Xã Phú Lý ====
+
+# Căn cứ Trung ương Cục miền Nam
+
+==== Xã Phước An ====
+
+# Địa đạo Nhơn Trạch
+
+==Du lịch==
+[[Hình: Giang Dien Waterfall.JPG|nhỏ|trái|<center>Thác Giang Điền ở<br> phường [[Trảng Bom (phường)|Trảng Bom]]</center>|185x185px]]
+[[Tập tin:Hồ Long Ẩn - 10398247865.jpg|nhỏ|220x220px|'''Khu du lịch Bửu Long''' nằm ở phường [[Trấn Biên (phường)|Trấn Biên]], cách trung tâm thành phố 6km]]
+
+Đồng Nai có nhiều di tích lịch sử, văn hoá và các điểm du lịch có tiềm năng: [[Văn miếu Trấn Biên]] (phường [[Trấn Biên, Đồng Nai|Trấn Biên]]), đền thờ [[Nguyễn Hữu Cảnh]], [[khu du lịch Bửu Long]], khu du lịch ven sông Đồng Nai, [[Vườn quốc gia Nam Cát Tiên]], làng bưởi [[Tân Triều]], khu du lịch sinh thái Thác Mai – hồ nước nóng, Đảo Ó, [[chiến khu Đ]], mộ cổ [[Hàng Gòn]], đàn đá Bình Đa, khu du lịch [[thác Giang Điền]], khu du lịch Long Châu Viên (phường [[Hàng Gòn, Đồng Nai|Hàng Gòn]]), khu du lịch [[Vườn Xoài]], khu di tích cấp quốc gia núi Chứa Chan (núi Gia Lào), Hồ Núi Le (phường [[Xuân Lộc, Đồng Nai|Xuân Lộc]]) Trung Tâm Hành Hương Đức Mẹ Núi Cúi (xã [[Thống Nhất, Đồng Nai|Thống Nhất]]), khu du lịch Suối Mơ, làng du lịch Tre Việt, khu du lịch Bò Cạp Vàng, khu du lịch sinh thái Thủy Châu.
+
+===Ẩm thực===
+Các đặc sản ẩm thực nổi tiếng của Đồng Nai gồm có: [[Bưởi]] Tân Triều (được chế biến thành chè bưởi, gỏi bưởi, rượu bưởi), [[Mít tố nữ]] Long Khánh, [[Chôm chôm]] Long Khánh, gỏi cá Biên Hòa, cơm gà cá mặn Long Khánh, lẩu khổ qua rừng, chả lụi Biên Hòa, bánh gai Hố Nai, nấm mối, trái ươi rừng, cá kìm khô hồ Trị An, hạt điều...<ref>{{Chú thích web |title=Ẩm thực góp phần quảng bá du lịch địa phương |url=https://baodongnai.com.vn/dong-nai-cuoi-tuan/202309/am-thuc-gop-phan-quang-ba-du-lich-dia-phuong-a506ea8/ |access-date=2026-03-29 |website=baodongnai.com.vn |language=vi-VN}}</ref>
+
+=== Công trình kiến trúc ===
+{| class="wikitable sortable"
+!Số năm
+cao nhất
+!Tòa nhà
+!Hình ảnh
+!Chiều cao<br>(m)
+!Vị trí
+|-
+| align="center" |2018 – Nay
+|The Mira Central Park
+| align="center" |[[Tập tin:The Mira Central Park.jpg|không khung|166x166px]]
+| align="center" |96
+| align="center" |[[Tam Hiệp (phường)|Tam Hiệp]]<br>
+|-
+| align="center" |2012 – 2018
+|Tòa nhà Sonadezi
+| align="center" | [[Tập_tin:Toà_nhà_Sonadezi,_an_bình,_biên_hoà,_đồng_nai.jpg|207x207px|Toà_nhà_Sonadezi,_an_bình,_biên_hoà,_đồng_nai]]
+| align="center" |91
+| align="center" |[[Trấn Biên (phường)|Trấn Biên]]<br>
+|-
+|2013 – nay
+|Tòa nhà Pegasus Plaza
+|
+| align="center" |91
+|align="center" |[[Trấn Biên (phường)|Trấn Biên]]<br>
+|-
+| align="center" |2011 – 2012
+|Long Thành Plaza
+| align="center" |
+| align="center" |74
+| align="center" | [[Long Thành (phường)|Long Thành]]<br>
+|-
+| align="center" |2009 – 2011
+|Aurora Hotel Plaza
+| align="center" |
+| align="center" |47
+| align="center" |[[Tam Hiệp (phường)|Tam Hiệp]]<br>
+|-
+| align="center" |1989 – 2009
+|Tháp chuông nhà thờ Bùi Chu
+| align="center" |
+| align="center" | 25
+| align="center" |[[Bình Minh, Đồng Nai|Bình Minh]]<br>
+|-
+| align="center" |1967 – 1989
+|Tháp nước Biên Hòa
+| align="center" |
+| align="center" | 20
+| align="center" |[[Trấn Biên (phường)|Trấn Biên]]<br>
+|-
+| align="center" |1837 – 1967
+|[[Thành cổ Biên Hòa|Thành Biên Hòa]]
+| align="center" |[[Tập tin:Bien Hoa et citadelle 5327.jpg|thế=|130x130px]]
+| align="center" | 3,6
+| align="center" |[[Trấn Biên (phường)|Trấn Biên]]<br>
+|}
+
+=== Ngành du lịch và các điểm du lịch nổi tiếng ===
+
+Du lịch không phải là một thế mạnh của Đồng Nai. Đồng Nai là một vùng đất mới nhưng nhanh chóng phát triển nên không có nhiều điểm du lịch nổi tiếng. Tuy vậy, Đồng Nai lại có những khu du lịch còn hoang sơ mang đậm vẻ đẹp thiên nhiên, nổi bật nhất là [[khu dự trữ sinh quyển Đồng Nai]] đã được UNESCO công nhận là [[khu dự trữ sinh quyển thế giới]]. Theo quy hoạch [[Vùng đô thị Thành phố Hồ Chí Minh|vùng Thành phố Hồ Chí Minh]], [[Thành phố Hồ Chí Minh]] được định hướng là trung tâm du lịch của vùng. Trong khi đó, Đồng Nai chủ yếu phát triển [[du lịch sinh thái]] và du lịch nghỉ dưỡng, với quy mô đầu tư nhỏ hơn. Gần đây, Đồng Nai đã bắt đầu chú trọng đến du lịch và khai thác khả năng tiềm tàng của nó. Năm [[2009]], Đồng Nai đón chào 1.7 triệu lượt khách đến du lịch tăng 19% so với năm [[2008]] và vượt kế hoạch định hướng là 0.5%. Trong năm [[2010]], Đồng Nai đặt ra một mục tiêu là phát triển ngành du lịch để làm tăng 19% lượt khách và doanh thu so với năm 2009. Nhìn chung, du lịch tại Đồng Nai chưa góp nhiều cho ngân sách thành phố này nhưng lại đóng vai trò rất quan trọng của ngành kinh tế.<ref>{{chú thích web|url=http://www.dongnai.gov.vn/cong-dan/tin_thuongmai-dulich/20100223.904 |title=Du lịch Đồng Nai đón khách |publisher=Dongnai.gov.vn |date= |accessdate=2010-09-26}}</ref>
+
+==Kết nghĩa==
+*{{flagicon|Vietnam}} [[Tỉnh]] [[Ninh Bình]], [[Việt Nam]]
+*{{flagicon|Laos}} [[Tỉnh]] [[Champasak]], [[Lào]]
+*{{flagicon|Hàn Quốc}} [[Tỉnh]] [[Gyeongsangnam-do]], [[Hàn Quốc]].
+
+==Giao thông==
+Đồng Nai là một trong những tỉnh thành có tốc độ phát triển kinh tế và đô thị hóa nhanh hàng đầu cả nước. Thêm vào đó, Đồng Nai nằm ngay cửa ngõ từ Bắc vào [[Thành phố Hồ Chí Minh]] – trung tâm kinh tế của cả nước.
+
+Đồng Nai có hệ thống giao thông thuận tiện với nhiều tuyến đường huyết mạch quốc gia đi qua như Quốc lộ 1, quốc lộ 20, quốc lộ 51; tuyến đường sắt Bắc – Nam; gần cảng Sài Gòn, sân bay quốc tế Tân Sơn Nhất góp phần tạo điều kiện thuận lợi cho hoạt động kinh tế trong vùng cũng như giao thương với cả nước đồng thời có vai trò gắn kết vùng [[Đông Nam Bộ]] với [[Tây Nguyên]]. Các dự án [[đường sắt cao tốc Bắc Nam]], [[đường cao tốc Bắc Nam]], [[đường cao tốc Biên Hòa – Vũng Tàu]] và [[đường vành đai 3 (Thành phố Hồ Chí Minh)|đường vành đai 3 vùng đô thị TP.HCM]] đều đi qua Đồng Nai.
+
+=== Đường bộ ===
+
+Có những dự án lớn như đường cao tốc [[Biên Hòa (thành phố)|Biên Hòa]] – [[Vũng Tàu (thành phố)|Vũng Tàu]], đường cao tốc [[Dầu Giây]] – [[Đà Lạt]], đường cao tốc [[Dầu Giây]] – [[Phan Thiết (thành phố)|Phan Thiết]],...
+
+Ngoài ra, Đồng Nai cũng vừa khánh thành xong hai cây cầu lớn kết nối [[Thành phố Hồ Chí Minh]] với Đồng Nai là cầu Thủ Biên nhằm tạo đà phát triển chung cho hai thành phố và cầu Đồng Nai mới cửa ngõ vào [[Thành phố Hồ Chí Minh]], xây dựng cầu [[Hóa An]] mới, đường quốc lộ 1A tránh khu vực [[thành phố]] [[Biên Hòa (thành phố)|Biên Hòa]] cũ...
+
+==== Hiện trạng giao thông ====
+Đồng Nai có một hệ thống giao thông phát triển khá đồng bộ, theo thống kê nếu tính cả giao thông nông thôn và giao thông khu phố thì Đồng Nai có 3.058 tuyến đường với tổng chiều dài 6.266,763&nbsp;km. Trong đó, đường [[Quốc lộ]] gồm 6 tuyến quốc lộ chính là [[Quốc lộ 13]], [[Quốc lộ 1]], [[Quốc lộ 51]], [[Quốc lộ 20]], [[Quốc lộ 56]], [[Quốc lộ 14]].
+*Chiều dài [[Quốc lộ 13]] (tính theo số Km là từ Km 0 – Km 140+500) dài 149,5&nbsp;km, là [[Quốc lộ (Việt Nam)|quốc lộ]] theo hướng Nam – Bắc, bắt đầu từ ngã 5 Đài Liệt sĩ [[Thành phố Hồ Chí Minh]] đi qua các phường và xã thuộc Thành phố Hồ Chí Minh, sau đó lại đi qua các phường, xã của thành phố Đồng Nai, kết thúc tại [[cửa khẩu Hoa Lư]] (biên giới Việt Nam – Campuchia), quốc lộ 13 nối với [[Quốc lộ 7 (Campuchia)|quốc lộ 7 của Campuchia]] và quốc lộ này lại nối với [[Quốc lộ 13 (Lào)|quốc lộ 13 của Lào]].
+*Chiều dài [[Quốc lộ 1]] (tính theo số Km là từ Km 1.770 – Km 1.802) dài 102&nbsp;km, chạy qua khu vực thành phố [[Biên Hòa (thành phố)|Biên Hòa]] cũ (chiều dài đi qua là 13&nbsp;km), khu vực 2 huyện cũ: [[Trảng Bom (huyện)|Trảng Bom]] (chiều dài đi qua là 19&nbsp;km), [[Thống Nhất (huyện)|Thống Nhất]] (chiều dài đi qua là 8&nbsp;km), khu vực thành phố [[Long Khánh (thành phố)|Long Khánh]] cũ (chiều dài đi qua là 15&nbsp;km), khu vực huyện [[Xuân Lộc (huyện)|Xuân Lộc]] cũ (chiều dài đi qua là 47&nbsp;km).
+*Chiều dài [[Quốc lộ 51]] (tính theo số Km là từ Km 0 – Km 38), dài 38&nbsp;km, chạy qua khu vực thành phố [[Biên Hòa (thành phố)|Biên Hòa]] cũ (chiều dài đi qua là 15&nbsp;km), khu vực huyện [[Long Thành (huyện)|Long Thành]] cũ (chiều dài đi qua là 23&nbsp;km).
+*Chiều dài [[Quốc lộ 20]] (tính theo số Km là từ Km 0 – Km 75) dài 75&nbsp;km, chạy qua khu vực 3 huyện cũ: [[Thống Nhất (huyện)|Thống Nhất]] (chiều dài đi qua là 20&nbsp;km), [[Định Quán (huyện)|Định Quán]] (chiều dài đi qua là 26&nbsp;km), [[Tân Phú (huyện)|Tân Phú]] (chiều dài đi qua là 29&nbsp;km).
+*Chiều dài [[Quốc lộ 56]] (tính theo số Km là từ Km0 – Km 18), dài 18&nbsp;km, chạy qua khu vực thành phố [[Long Khánh (thành phố)|Long Khánh]] cũ (chiều dài đi qua là 4&nbsp;km), khu vực huyện [[Cẩm Mỹ (huyện)|Cẩm Mỹ]] cũ (chiều dài đi qua là 14&nbsp;km).
+*Đường Hồ Chí Minh ([[Quốc lộ 14|QL14]]) qua các tỉnh vùng [[Duyên hải Nam Trung Bộ và Tây Nguyên]] và thành phố Đồng Nai được nâng cấp, mở rộng từ [[Đăk Tô (xã)|Đăk Tô]] ([[Quảng Ngãi]]) đến [[Chơn Thành (phường)|Chơn Thành]] (Đồng Nai) với tổng [[chiều dài]] 553&nbsp;km, gồm 6 dự án trái phiếu Chính phủ và 5 dự án BOT. Điển hình trong việc tăng tốc tiến độ phải kể đến gói thầu của Liên danh Toàn Mỹ 14 – Băng Dương (TP.HCM) làm chủ đầu tư bằng hình thức BOT đoạn qua tỉnh [[Lâm Đồng]].
+
+=== Đường hàng không ===
+==== Dự án sân bay quốc tế Long Thành ====
+{{chính|Sân bay quốc tế Long Thành}}
+Cảng hàng không quốc tế Long Thành là cửa ngõ đường hàng không vào [[Việt Nam]] cho khu vực [[Đông Nam Á]] và thế giới. Sân bay này được xây dựng trên khu đất rộng 5000 ha thuộc địa phận phường [[Long Thành (phường)|Long Thành]], thành phố Đồng Nai. Cách [[sân bay Tân Sơn Nhất]] 43&nbsp;km về phía đông nam; trung tâm [[Thành phố Hồ Chí Minh]] 40&nbsp;km; cách trung tâm [[thành phố]] [[Biên Hòa]]: 24&nbsp;km.
+
+Cảng hàng không quốc tế Long Thành có năng lực tiếp nhận 80 – 100 triệu hành khách/năm (30,000 HK/GCĐ) và 5 triệu tấn hàng hóa/năm, và các loại máy bay lớn [[A380-800]], [[A380F]]. Chi phí đầu tư khoảng 6,6 tỷ [[USD]] – trong đó thực hiện giai đoạn 1 khoảng 2,1 tỷ [[USD]]. Dự kiến đưa vào sử dụng (trong khoảng thời gian 2011 – 2015) hỗ trợ cho [[cảng hàng không quốc tế Tân Sơn Nhất]].
+
+==Hình ảnh==
+ <center><gallery>
+Tập tin:Một góc TX.Long Khánh.JPG|<center>Trung tâm phường [[Long Khánh, Đồng Nai|Long Khánh]]</center>
+Tập tin:Thị trấn Trảng Bom, Đồng Nai.JPG|<center>Trung tâm phường [[Trảng Bom, Đồng Nai|Trảng Bom]]</center>
+Tập tin:Một góc thị trấn Gia Ray, Xuân Lộc, Đồng Nai.JPG|<center>Phường [[Xuân Lộc, Đồng Nai|Xuân Lộc]]</center>
+Tập tin:Bình Sơn, Long Thành, Đồng Nai, Việt Nam.jpg|<center>Rừng cây cao su ở phường [[Long Thành (phường)|Long Thành]]</center>
+Tập tin:Văn Miếu Môn.jpg|<center>Cổng chính Văn Miếu<br />[[Trấn Biên, Đồng Nai|Trấn Biên]]</center>
+Tập tin:TranBienKhueVanCac.jpg|<center>Khuê Văn Các ở<br />Văn Miếu [[Trấn Biên, Đồng Nai|Trấn Biên]]</center>
+Tập tin:Chùa Đại Giác (Biên Hòa).jpg|<center>Chùa Đại Giác ở<br />phường [[Trấn Biên, Đồng Nai|Trấn Biên]]</center>
+Tập tin:Đền thờ Nguyễn Hữu Cảnh tại Cù lao Phố.jpg|<center>Đền Nguyễn Hữu Cảnh<br />Cù lao Phố, [[Trấn Biên, Đồng Nai|Trấn Biên]]</center>
+Tập tin:Đình Tân Lân.jpg|<center>Đình Tân Lân ở<br />Chợ Biên Hoà, phường [[Trấn Biên, Đồng Nai|Trấn Biên]]</center>
+Tập tin:Nhà thờ Chính tòa Giáo phận Xuân Lộc.jpg|<center>[[Nhà thờ chính tòa Xuân Lộc]], phường [[Long Khánh, Đồng Nai|Long Khánh]]</center>
+Tập tin:Đá ba chồng Định Quán - panoramio.jpg|<center>[[Đá Ba Chồng]] ở xã [[Định Quán, Đồng Nai|Định Quán]]</center>
+Tập tin:Cầu Long Thành, Đường cao tốc TP.HCM - Long Thành - Dầu Giây.JPG|<center>Cầu Long Thành trên<br />Cao tốc [[Thành phố Hồ Chí Minh|TP.HCM]] –<br />[[Long Thành (phường)|Long Thành]] – [[Dầu Giây, Đồng Nai|Dầu Giây]]</center>
+Tập tin:Ấp Bến Sắn, Phước Thiền, Nhơn Trạch, Đồng Nai, Vietnam - panoramio (5).jpg|Di tích cấp tỉnh Đình Phước Thiền, phường [[Nhơn Trạch, Đồng Nai|Nhơn Trạch]]
+Tập tin:Bu Dang, Binh Phuoc.jpg|<center>Đường liên huyện ở huyện Bù Đăng</center>
+Tập tin:Loc Ninh, Binh Phuoc.jpg|<center>Di tích căn cứ kháng chiến ở huyện Lộc Ninh</center>
+Tập tin:Binh Long 2, Binh Phuoc.jpg|<center>Đường liên huyện ở thị xã Bình Long</center>
+Tập tin:Binh Long, Binh Phuoc.jpg|<center>Đường liên xã ở thị xã Bình Long</center>
+Tập tin:Một góc ngã tư Đồng Xoài.jpg|<center>Ngã tư trung tâm thành phố Đồng Xoài</center>
+Tập tin:Trung tâm hành chính tỉnh Bình Phước đặt tại thị xã Đồng Xoài.jpg|<center>Trung tâm hành chính tỉnh Bình Phước</center>
+Tập tin:Một góc dân cư thị xã Đồng Xoài.jpg|<center>Khu phố trung tâm thành phố Đồng Xoài</center>
+Tập tin:Tượng đài Chiến thắng Đồng Xoài tại thị xã Đồng Xoài, Bình Phước.jpg|<center>Tượng đài Chiến thắng Đồng Xoài</center>
+Tập tin:Trường Cao đẳng Sư phạm Bình Phước.jpg|<center>Trường Cao đẳng Sư phạm Bình Phước</center>
+Tập tin:Khu du lịch Cáp treo Bà Rá.jpg|<center>Khu du lịch Bà Rá</center>
+Tập tin:Binh Long town3.jpg|<center>Đường phố ở thị xã Bình Long</center>
+Tập tin:Lộc Ninh, Binh Phuoc.jpg|<center>Thị trấn Lộc Ninh</center> 
+</gallery></center>
+
+==Danh nhân==
+* [[Nguyễn Hữu Cảnh]] là vị quan nhà Nguyễn có công khai khẩn đất hoang, lập ra dinh Phiên Trấn, đặt nền móng cho sự phát triển của vùng đất Đồng Nai.
+*[[Nguyễn Đình Chiểu]] nhà thơ, nhà văn yêu nước, người đã có công lớn trong việc khơi dậy lòng yêu nước và tinh thần chống Pháp của nhân dân Đồng Nai.
+*[[Nguyễn Tri Phương]] là danh tướng nhà Nguyễn, có công lao to lớn trong việc chống Pháp xâm lược, bảo vệ thành [[Biên Hòa]].
+*[[Trịnh Hoài Đức]] là nhà bác học uyên thâm, có nhiều đóng góp to lớn cho lĩnh vực lịch sử, địa lý, văn hóa. 
+*Bùi Hữu Nghĩa là nhà thơ yêu nước, nhà văn hóa lớn của Nam Bộ.
+* [[Nguyễn Duy]] là thủ lĩnh phong trào nông dân Đồng Nai, lãnh đạo nhiều cuộc khởi nghĩa chống lại ách áp bức của thực dân Pháp.
+*[[Nguyễn Đức Ứng]] là một trong những thủ lĩnh chủ chốt của phong trào [[Bãi Sậy]], góp phần làm nên chiến thắng vang dội của nghĩa quân trong trận chiến chống quân Pháp.
+* [[Thái Bảo (chính khách)|Thái Bảo]] là chính trị gia, Ông hiện là Phó Bí thư Thành ủy Đồng Nai, Trưởng ban Tổ chức Thành ủy Đồng Nai.
+* [[Phạm Xuân Ẩn]] là thiếu tướng quân đội, ông là một trong những nhà tình báo vĩ đại trong lịch sử. Quê hương ông ở Trấn Biên, Đồng Nai.
+* [[Huỳnh Văn Nghệ]] là một Thượng tá của quân đội, nổi tiếng về tài thơ ca nên ông thường được gọi là "thi tướng".
+
+==Chú thích==
+{{Tham khảo|30em}}
+
+==Tham khảo==
+*[https://www.dongnai.gov.vn Thông tin Xã hội Kinh tế] {{Webarchive|url=https://web.archive.org/web/20060426025647/http://www.dost-dongnai.gov.vn/dongnai.asp |date = ngày 26 tháng 4 năm 2006}}
+*[https://www.dongnai.gov.vn Phát triển công nghiệp Đồng Nai] {{Webarchive|url=https://web.archive.org/web/20090422055552/http://www.dongnai.gov.vn/dong-nai/dinhhuong_phattrien/cong_nghiep |date = ngày 22 tháng 4 năm 2009}}
+*[https://baodongnai.vn Báo Đồng Nai] {{Webarchive|url=https://web.archive.org/web/20191128141526/http://baodongnai.vn/ |date = ngày 28 tháng 11 năm 2019}}
+
+{{Sơ khai Đồng Nai}}
+{{Đơn vị hành chính cấp tỉnh Việt Nam}}
+{{Vùng đô thị Thành phố Hồ Chí Minh}}
+{{Đơn vị hành chính thuộc thành phố Đồng Nai}}
+
+[[Thể loại:Đông Nam Bộ]]
+[[Thể loại:Đồng Nai| ]]
+[[Thể loại:Đô thị Việt Nam loại I]]

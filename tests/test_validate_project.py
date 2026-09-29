@@ -13,6 +13,11 @@ class ProjectValidationTests(unittest.TestCase):
                 shutil.copytree(ROOT / folder, root / folder)
             for filename in ('SKILLS.md', 'README.md'):
                 shutil.copyfile(ROOT / filename, root / filename)
+            # Package links are part of the knowledge graph; copy small report anchors.
+            for source in (ROOT/'packages').rglob('report.md'):
+                dest=root/source.relative_to(ROOT)
+                dest.parent.mkdir(parents=True,exist_ok=True)
+                shutil.copyfile(source,dest)
             self.assertEqual(validate(root), [])
             with (root/'context/index.md').open('a') as stream:
                 stream.write('\n[[context/not-present|Broken]]\n')

@@ -1,0 +1,26 @@
+{
+  "request_url": "https://vi.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&inprop=url&maxlag=5&ppprop=wikibase_item%7Cdisambiguation&prop=info%7Cpageprops&redirects=1&titles=H%E1%BA%A3i+Ph%C3%B2ng%7CH%E1%BA%A3i+Ph%C3%B2ng+%28t%E1%BB%89nh%29%7CH%E1%BA%A3i+Ph%C3%B2ng+%28t%E1%BB%89nh+c%C5%A9%29%7CH%E1%BA%A3i+Ph%C3%B2ng+%28tr%C6%B0%E1%BB%9Bc+2025%29",
+  "params": {
+    "format": "json",
+    "formatversion": "2",
+    "maxlag": 5,
+    "action": "query",
+    "titles": "Hải Phòng|Hải Phòng (tỉnh)|Hải Phòng (tỉnh cũ)|Hải Phòng (trước 2025)",
+    "redirects": 1,
+    "prop": "info|pageprops",
+    "inprop": "url",
+    "ppprop": "wikibase_item|disambiguation"
+  },
+  "retrieved_at": "2026-09-29T15:25:44.118127Z",
+  "http_status": 200,
+  "headers": {
+    "date": "Tue, 29 Sep 2026 15:25:43 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1933"
+  },
+  "path": "sources/responses/2a45e4c903bf605c60d07f973ac013f517f89057113fce3ff3150d69b178493a.json",
+  "sha256": "2a45e4c903bf605c60d07f973ac013f517f89057113fce3ff3150d69b178493a",
+  "byte_length": 1933,
+  "media_type": "application/json",
+  "representation": "unmodified MediaWiki HTTP response body bytes"
+}

@@ -1,0 +1,1679 @@
+[
+  {
+    "target_id": "before-3e293464-98e1-47b3-8125-cd71a01b0af5",
+    "phase": "before",
+    "label": "tỉnh Hà Giang",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-504ffb57-8afc-46ea-afd6-bd825c3d9d0b",
+    "phase": "before",
+    "label": "tỉnh Tuyên Quang",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-dc197b73-16aa-4db6-b728-2fd93c6e0e17",
+    "phase": "before",
+    "label": "tỉnh Yên Bái",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-2c7ffbab-578a-46fc-86a1-3df5a0c2b377",
+    "phase": "before",
+    "label": "tỉnh Lào Cai",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15",
+      "203/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-ba1a543d-db36-4550-961c-6311b68a98af",
+    "phase": "before",
+    "label": "tỉnh Bắc Kạn",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-f5be51da-1df9-4f18-8b04-5f367ce190fe",
+    "phase": "before",
+    "label": "tỉnh Thái Nguyên",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-66b2e551-e8af-4c1b-aa8d-1634ff03f566",
+    "phase": "before",
+    "label": "tỉnh Vĩnh Phúc",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input.",
+      "Bài Vĩnh Phúc hiện tại ghi nghị quyết có hiệu lực 01/07/2025, khác input event 12/06/2025; không sửa input hay raw.",
+      "Đoạn Wikipedia có cách ghi hiệu lực 01/07/2025; input event ghi hiệu lực 12/06/2025 và vận hành 01/07/2025. Cần INF phân xử, không sửa nguồn."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-8ebca2ae-5502-4e32-839c-7bd9f50e5d83",
+    "phase": "before",
+    "label": "tỉnh Hòa Bình",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-a0825807-89c5-45bb-bfc0-6059722cc206",
+    "phase": "before",
+    "label": "tỉnh Phú Thọ",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-f7449735-fedd-4c6e-94e5-f59fb2f0866a",
+    "phase": "before",
+    "label": "tỉnh Bắc Giang",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-4180ccfc-0109-4876-a40e-6dffca08c1eb",
+    "phase": "before",
+    "label": "tỉnh Bắc Ninh",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input.",
+      "Đoạn Wikipedia có cách ghi hiệu lực 01/07/2025; input event ghi hiệu lực 12/06/2025 và vận hành 01/07/2025. Cần INF phân xử, không sửa nguồn."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15",
+      "203/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-f0e93617-5e31-42f8-b849-a2a65802cb5f",
+    "phase": "before",
+    "label": "tỉnh Thái Bình",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-210f2492-7de4-4501-9f50-b3dc57735fe4",
+    "phase": "before",
+    "label": "tỉnh Hưng Yên",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15",
+      "203/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-99a27e9e-b6cd-42c6-a366-3940454fe014",
+    "phase": "before",
+    "label": "thành phố Hải Phòng",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-92302357-30b6-4f7e-8f3e-9447c03ca4a8",
+    "phase": "before",
+    "label": "tỉnh Hải Dương",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-d23772ed-9d1e-4671-9a72-1bdd61bb7aec",
+    "phase": "before",
+    "label": "tỉnh Hà Nam",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-c7c04e40-92fc-4729-9a51-07905ff41f71",
+    "phase": "before",
+    "label": "tỉnh Nam Định",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-315fb257-8efa-4dd9-903c-8ab863ed267a",
+    "phase": "before",
+    "label": "tỉnh Ninh Bình",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-2400e0b3-1336-492c-9314-b130271de54e",
+    "phase": "before",
+    "label": "tỉnh Quảng Bình",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-008d4d64-6e0a-4ee9-baa0-b94aa903cf69",
+    "phase": "before",
+    "label": "tỉnh Quảng Trị",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-0f3c29bb-1697-4473-93bc-57cf0bd75b8f",
+    "phase": "before",
+    "label": "thành phố Đà Nẵng",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp."
+    ],
+    "cited_documents_from_wikipedia": [
+      "18/2012/QH13",
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-d1405a58-a656-4515-a3b9-7a6bf698601b",
+    "phase": "before",
+    "label": "tỉnh Quảng Nam",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-b3f479fe-ef82-49bd-b7e5-f12955f58450",
+    "phase": "before",
+    "label": "tỉnh Kon Tum",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-6b88788a-d98c-4b2f-95c1-fe0db56e737e",
+    "phase": "before",
+    "label": "tỉnh Quảng Ngãi",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-b43098d0-f25d-410f-ac08-760408dda032",
+    "phase": "before",
+    "label": "tỉnh Bình Định",
+    "status": "found",
+    "conflicts": [
+      "Bài hiện tại nói tồn tại đến 01/07/2025 nhưng infobox ghi giải thể 12/06/2025; giữ riêng ngày hiệu lực và ngày vận hành, không dùng câu mô tả này để gia hạn địa bàn pháp lý.",
+      "Wikipedia dùng diễn đạt sáp nhập Bình Định vào Gia Lai; input mô tả hợp nhất thành tỉnh mới. Không suy từ chữ vào rằng tỉnh Gia Lai cũ và mới là cùng thực thể.",
+      "Đoạn Wikipedia có cách ghi hiệu lực 01/07/2025; input event ghi hiệu lực 12/06/2025 và vận hành 01/07/2025. Cần INF phân xử, không sửa nguồn."
+    ],
+    "unverified_fields": [
+      "Thông tin pháp lý chỉ đối chiếu theo input, chưa kiểm chứng độc lập văn bản dẫn.",
+      "Không xác nhận hiện trạng tại ngày crawl.",
+      "Ngày vận hành chưa được xác minh riêng trên bài địa bàn nếu không có trích đoạn tương ứng."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-d6fba89f-0084-4883-b4dd-0c4a4012780d",
+    "phase": "before",
+    "label": "tỉnh Gia Lai",
+    "status": "found",
+    "conflicts": [
+      "Wikipedia diễn đạt sáp nhập Bình Định vào Gia Lai; input xác định tỉnh mới từ hai tiền thân. Hai mốc vẫn là target riêng.",
+      "Bài Gia Lai hiện tại dòng 1094 dẫn NQ 1668 có tiêu đề về Cần Thơ trong đoạn nói Gia Lai; không dùng làm bằng chứng cho phạm vi cấp tỉnh."
+    ],
+    "unverified_fields": [
+      "Thông tin pháp lý chỉ đối chiếu theo input, chưa kiểm chứng độc lập văn bản dẫn.",
+      "Không xác nhận hiện trạng tại ngày crawl.",
+      "Ngày vận hành chưa được xác minh riêng trên bài địa bàn nếu không có trích đoạn tương ứng."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-db0553c5-a89f-4616-9053-cb5c725846ec",
+    "phase": "before",
+    "label": "tỉnh Ninh Thuận",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-149a9569-bdfa-4472-9d70-98500bd61bfb",
+    "phase": "before",
+    "label": "tỉnh Khánh Hòa",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-a75cdf18-847d-4f99-8780-77d7d02a9b8a",
+    "phase": "before",
+    "label": "tỉnh Đắk Nông",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-b79cd411-11c3-4c73-b7ff-1fe6fa1f318c",
+    "phase": "before",
+    "label": "tỉnh Bình Thuận",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-bdd0ffed-6d5c-42f5-b7d4-48ef3bc80dee",
+    "phase": "before",
+    "label": "tỉnh Lâm Đồng",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-b94949cd-4602-44e1-bf74-4c435939187e",
+    "phase": "before",
+    "label": "tỉnh Phú Yên",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-f63954a1-bd8a-404b-bd43-4d9a3d82c359",
+    "phase": "before",
+    "label": "tỉnh Đắk Lắk",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15",
+      "203/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-d0eb00f7-20a7-4b13-988a-f2181a7cea65",
+    "phase": "before",
+    "label": "Thành phố Hồ Chí Minh",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-e4824342-5c8a-4edc-88eb-c79ea20ec6b9",
+    "phase": "before",
+    "label": "tỉnh Bà Rịa - Vũng Tàu",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input.",
+      "Bài hiện tại ghi một giai đoạn từ 12/08/1991 đến 24/02/1976, đảo thứ tự thời gian; chỉ giữ như mâu thuẫn nguồn, không nhận làm chronology."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-9df78c95-439a-4880-87d7-c9a663ce4e17",
+    "phase": "before",
+    "label": "tỉnh Bình Dương",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input.",
+      "Đoạn Wikipedia có cách ghi hiệu lực 01/07/2025; input event ghi hiệu lực 12/06/2025 và vận hành 01/07/2025. Cần INF phân xử, không sửa nguồn."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-b961765f-124d-462d-ac0d-831c6f69e78e",
+    "phase": "before",
+    "label": "tỉnh Bình Phước",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-700552bc-037d-4910-adc0-1e1d89f35f97",
+    "phase": "before",
+    "label": "tỉnh Đồng Nai",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15",
+      "203/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-3a09825a-7bec-427b-bb2b-fc8b2a0bcbdd",
+    "phase": "before",
+    "label": "tỉnh Long An",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-69bd5e27-42ca-4860-994f-2168f3cf00f1",
+    "phase": "before",
+    "label": "tỉnh Tây Ninh",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-911b3735-1a84-4c5e-8abc-ee3b8b8c8d60",
+    "phase": "before",
+    "label": "thành phố Cần Thơ",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-0833216b-21e1-4072-8e44-ea80a196bdf6",
+    "phase": "before",
+    "label": "tỉnh Sóc Trăng",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-8bcbdce6-2fec-4a16-b879-204d2e6d327c",
+    "phase": "before",
+    "label": "tỉnh Hậu Giang",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15",
+      "203/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-d5aa2846-2183-496b-b66f-f23d9f5a8f9a",
+    "phase": "before",
+    "label": "tỉnh Bến Tre",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-cd3fb4df-124b-475d-be16-f67d36d767d5",
+    "phase": "before",
+    "label": "tỉnh Trà Vinh",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-31f72a00-09b7-4c82-b5c1-8af4ab0a60d2",
+    "phase": "before",
+    "label": "tỉnh Vĩnh Long",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-804585e0-701c-4f26-9c83-5a49b167e4df",
+    "phase": "before",
+    "label": "tỉnh Tiền Giang",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-b19a826b-361d-471a-b453-2af4d403cb8d",
+    "phase": "before",
+    "label": "tỉnh Đồng Tháp",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-ff4d961e-2632-4874-8b8a-8b56e6803eb8",
+    "phase": "before",
+    "label": "tỉnh Bạc Liêu",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15",
+      "203/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-e5fb7371-5cf0-4c77-85bb-e337abdc08f0",
+    "phase": "before",
+    "label": "tỉnh Cà Mau",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-2831355d-4a59-452e-a5c3-f80a68d931fb",
+    "phase": "before",
+    "label": "tỉnh Kiên Giang",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-0daad321-c6c1-49ca-82df-d925d2fb4299",
+    "phase": "before",
+    "label": "tỉnh An Giang",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "before-06a054f2-be7a-4902-b601-1ff6e081136c",
+    "phase": "before",
+    "label": "tỉnh Cao Bằng",
+    "status": "found",
+    "conflicts": [],
+    "unverified_fields": [
+      "Không tự suy legal_effective_on/operational_on riêng cho địa bàn không sắp xếp; input không có event riêng.",
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt.",
+      "Chưa có văn bản NQ202 được bài/trích đoạn đã chọn dẫn trực tiếp; nguồn nghị quyết nằm ở input, không gán cho Wikipedia."
+    ],
+    "cited_documents_from_wikipedia": []
+  },
+  {
+    "target_id": "before-886684a1-1e22-4c0b-b6d0-f45602ddae7c",
+    "phase": "before",
+    "label": "tỉnh Điện Biên",
+    "status": "found",
+    "conflicts": [],
+    "unverified_fields": [
+      "Không tự suy legal_effective_on/operational_on riêng cho địa bàn không sắp xếp; input không có event riêng.",
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt.",
+      "Chưa có văn bản NQ202 được bài/trích đoạn đã chọn dẫn trực tiếp; nguồn nghị quyết nằm ở input, không gán cho Wikipedia."
+    ],
+    "cited_documents_from_wikipedia": []
+  },
+  {
+    "target_id": "before-f2fecb5e-11a8-4cb2-97f7-a089ac0ecf79",
+    "phase": "before",
+    "label": "tỉnh Hà Tĩnh",
+    "status": "found",
+    "conflicts": [],
+    "unverified_fields": [
+      "Không tự suy legal_effective_on/operational_on riêng cho địa bàn không sắp xếp; input không có event riêng.",
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt.",
+      "Chưa có văn bản NQ202 được bài/trích đoạn đã chọn dẫn trực tiếp; nguồn nghị quyết nằm ở input, không gán cho Wikipedia."
+    ],
+    "cited_documents_from_wikipedia": []
+  },
+  {
+    "target_id": "before-0552144d-8f63-4d7f-ab23-262e100fa112",
+    "phase": "before",
+    "label": "tỉnh Lai Châu",
+    "status": "found",
+    "conflicts": [],
+    "unverified_fields": [
+      "Không tự suy legal_effective_on/operational_on riêng cho địa bàn không sắp xếp; input không có event riêng.",
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt.",
+      "Chưa có văn bản NQ202 được bài/trích đoạn đã chọn dẫn trực tiếp; nguồn nghị quyết nằm ở input, không gán cho Wikipedia."
+    ],
+    "cited_documents_from_wikipedia": []
+  },
+  {
+    "target_id": "before-9c0ae658-883a-41b7-8de3-8e5a08bc6177",
+    "phase": "before",
+    "label": "tỉnh Lạng Sơn",
+    "status": "found",
+    "conflicts": [],
+    "unverified_fields": [
+      "Không tự suy legal_effective_on/operational_on riêng cho địa bàn không sắp xếp; input không có event riêng.",
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt.",
+      "Chưa có văn bản NQ202 được bài/trích đoạn đã chọn dẫn trực tiếp; nguồn nghị quyết nằm ở input, không gán cho Wikipedia."
+    ],
+    "cited_documents_from_wikipedia": []
+  },
+  {
+    "target_id": "before-d6fd8782-80d8-4d91-986c-254bf2e05ec3",
+    "phase": "before",
+    "label": "tỉnh Nghệ An",
+    "status": "found",
+    "conflicts": [],
+    "unverified_fields": [
+      "Không tự suy legal_effective_on/operational_on riêng cho địa bàn không sắp xếp; input không có event riêng.",
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt.",
+      "Chưa có văn bản NQ202 được bài/trích đoạn đã chọn dẫn trực tiếp; nguồn nghị quyết nằm ở input, không gán cho Wikipedia."
+    ],
+    "cited_documents_from_wikipedia": []
+  },
+  {
+    "target_id": "before-651dfe5c-8dd5-49b4-9bd4-a04148a79ed2",
+    "phase": "before",
+    "label": "tỉnh Quảng Ninh",
+    "status": "found",
+    "conflicts": [],
+    "unverified_fields": [
+      "Không tự suy legal_effective_on/operational_on riêng cho địa bàn không sắp xếp; input không có event riêng.",
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt.",
+      "Chưa có văn bản NQ202 được bài/trích đoạn đã chọn dẫn trực tiếp; nguồn nghị quyết nằm ở input, không gán cho Wikipedia."
+    ],
+    "cited_documents_from_wikipedia": []
+  },
+  {
+    "target_id": "before-fbc7cbac-5f23-48a5-a8a4-ab4d2902c2ba",
+    "phase": "before",
+    "label": "tỉnh Thanh Hóa",
+    "status": "found",
+    "conflicts": [],
+    "unverified_fields": [
+      "Không tự suy legal_effective_on/operational_on riêng cho địa bàn không sắp xếp; input không có event riêng.",
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt.",
+      "Chưa có văn bản NQ202 được bài/trích đoạn đã chọn dẫn trực tiếp; nguồn nghị quyết nằm ở input, không gán cho Wikipedia."
+    ],
+    "cited_documents_from_wikipedia": []
+  },
+  {
+    "target_id": "before-3013985e-02d9-45ff-8e7d-c22c53fd39ed",
+    "phase": "before",
+    "label": "tỉnh Sơn La",
+    "status": "found",
+    "conflicts": [],
+    "unverified_fields": [
+      "Không tự suy legal_effective_on/operational_on riêng cho địa bàn không sắp xếp; input không có event riêng.",
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt.",
+      "Chưa có văn bản NQ202 được bài/trích đoạn đã chọn dẫn trực tiếp; nguồn nghị quyết nằm ở input, không gán cho Wikipedia."
+    ],
+    "cited_documents_from_wikipedia": []
+  },
+  {
+    "target_id": "before-9d6837cd-1196-4073-bb43-85a7ee0cc8e5",
+    "phase": "before",
+    "label": "thành phố Hà Nội",
+    "status": "found",
+    "conflicts": [
+      "Bài tổng hợp là nguồn bối cảnh và có dẫn đề xuất tháng 4/2025; không thay thế NQ202 đã ban hành."
+    ],
+    "unverified_fields": [
+      "Thông tin pháp lý chỉ đối chiếu theo input, chưa kiểm chứng độc lập văn bản dẫn.",
+      "Không xác nhận hiện trạng tại ngày crawl.",
+      "Ngày vận hành chưa được xác minh riêng trên bài địa bàn nếu không có trích đoạn tương ứng.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt.",
+      "Chưa có văn bản NQ202 được bài/trích đoạn đã chọn dẫn trực tiếp; nguồn nghị quyết nằm ở input, không gán cho Wikipedia."
+    ],
+    "cited_documents_from_wikipedia": []
+  },
+  {
+    "target_id": "before-c19ff93f-bc7c-4941-908b-1d7dadd26c84",
+    "phase": "before",
+    "label": "thành phố Huế",
+    "status": "found",
+    "conflicts": [],
+    "unverified_fields": [
+      "Không tự suy legal_effective_on/operational_on riêng cho địa bàn không sắp xếp; input không có event riêng.",
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt.",
+      "Chưa có văn bản NQ202 được bài/trích đoạn đã chọn dẫn trực tiếp; nguồn nghị quyết nằm ở input, không gán cho Wikipedia."
+    ],
+    "cited_documents_from_wikipedia": []
+  },
+  {
+    "target_id": "after-54ada0d0-c554-433d-abe0-8ea0929d2f0d",
+    "phase": "after",
+    "label": "tỉnh Tuyên Quang",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "after-e8f5d888-ee8c-4036-9a83-952367d5668c",
+    "phase": "after",
+    "label": "tỉnh Lào Cai",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15",
+      "203/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "after-fdb66544-727f-43ff-877a-511e3651142b",
+    "phase": "after",
+    "label": "tỉnh Thái Nguyên",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "after-1382c005-17ce-4d0a-9b74-228aafee4e73",
+    "phase": "after",
+    "label": "tỉnh Phú Thọ",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "after-140dd32d-ef0e-4309-8fc6-6c3db73e19d1",
+    "phase": "after",
+    "label": "tỉnh Bắc Ninh",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "after-69bfada8-8d5a-4494-b4a5-06d9d6a4678f",
+    "phase": "after",
+    "label": "tỉnh Hưng Yên",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "after-8440de11-9955-43c0-bb4b-52a400cb49ef",
+    "phase": "after",
+    "label": "thành phố Hải Phòng",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "after-8ef013e4-5652-494a-83e0-6336809da66c",
+    "phase": "after",
+    "label": "tỉnh Ninh Bình",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "after-39a615da-cad1-42ce-b5e0-dede80a3524e",
+    "phase": "after",
+    "label": "tỉnh Quảng Trị",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "after-3fe520e0-442b-47ad-bb5c-773359b64a2f",
+    "phase": "after",
+    "label": "thành phố Đà Nẵng",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "after-ffa329b1-2301-4d14-9a51-26002353068e",
+    "phase": "after",
+    "label": "tỉnh Quảng Ngãi",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "after-01f21d1a-e83c-4043-ab0c-ab72d8c47f2f",
+    "phase": "after",
+    "label": "tỉnh Gia Lai",
+    "status": "found",
+    "conflicts": [
+      "Wikipedia diễn đạt sáp nhập Bình Định vào Gia Lai; input xác định tỉnh mới từ hai tiền thân. Hai mốc vẫn là target riêng.",
+      "Bài Gia Lai hiện tại dòng 1094 dẫn NQ 1668 có tiêu đề về Cần Thơ trong đoạn nói Gia Lai; không dùng làm bằng chứng cho phạm vi cấp tỉnh."
+    ],
+    "unverified_fields": [
+      "Thông tin pháp lý chỉ đối chiếu theo input, chưa kiểm chứng độc lập văn bản dẫn.",
+      "Không xác nhận hiện trạng tại ngày crawl.",
+      "Ngày vận hành chưa được xác minh riêng trên bài địa bàn nếu không có trích đoạn tương ứng."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "after-0561c911-7b42-478c-b230-33e6249b65e3",
+    "phase": "after",
+    "label": "tỉnh Khánh Hòa",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "after-d1e3973c-16fd-4e9f-acd8-4724176fbcae",
+    "phase": "after",
+    "label": "tỉnh Lâm Đồng",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "after-bcffd08e-12a7-4e9c-b744-317d81aeb51a",
+    "phase": "after",
+    "label": "tỉnh Đắk Lắk",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "after-99de8263-bc71-4bce-9d69-50364c38af02",
+    "phase": "after",
+    "label": "Thành phố Hồ Chí Minh",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "after-26395bb3-f134-40bd-844f-fc99a1d6657c",
+    "phase": "after",
+    "label": "tỉnh Đồng Nai",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "after-7a2c9093-b860-419a-9849-11f4a977465a",
+    "phase": "after",
+    "label": "tỉnh Tây Ninh",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "after-c3369da1-333a-4886-8e1f-105aaadcbc6a",
+    "phase": "after",
+    "label": "thành phố Cần Thơ",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "after-0e997715-f491-46d6-bbc8-bd94e5585b9d",
+    "phase": "after",
+    "label": "tỉnh Vĩnh Long",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "after-df5d06de-fff3-4fcd-8a3d-13e8d2d306f6",
+    "phase": "after",
+    "label": "tỉnh Đồng Tháp",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "after-f9f0970f-57bc-4900-9613-558ea3d2bbca",
+    "phase": "after",
+    "label": "tỉnh Cà Mau",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "after-b8a52eac-6aec-4106-8e8d-e12e63701b03",
+    "phase": "after",
+    "label": "tỉnh An Giang",
+    "status": "found",
+    "conflicts": [
+      "Bằng chứng Wikipedia được lưu nguyên văn; cách nói sáp nhập vào không được dùng để đồng nhất tiền thân với tỉnh mới theo input."
+    ],
+    "unverified_fields": [
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp."
+    ],
+    "cited_documents_from_wikipedia": [
+      "202/2025/QH15"
+    ]
+  },
+  {
+    "target_id": "after-06a054f2-be7a-4902-b601-1ff6e081136c",
+    "phase": "after",
+    "label": "tỉnh Cao Bằng",
+    "status": "found",
+    "conflicts": [],
+    "unverified_fields": [
+      "Không tự suy legal_effective_on/operational_on riêng cho địa bàn không sắp xếp; input không có event riêng.",
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt.",
+      "Chưa có văn bản NQ202 được bài/trích đoạn đã chọn dẫn trực tiếp; nguồn nghị quyết nằm ở input, không gán cho Wikipedia."
+    ],
+    "cited_documents_from_wikipedia": []
+  },
+  {
+    "target_id": "after-886684a1-1e22-4c0b-b6d0-f45602ddae7c",
+    "phase": "after",
+    "label": "tỉnh Điện Biên",
+    "status": "found",
+    "conflicts": [],
+    "unverified_fields": [
+      "Không tự suy legal_effective_on/operational_on riêng cho địa bàn không sắp xếp; input không có event riêng.",
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt.",
+      "Chưa có văn bản NQ202 được bài/trích đoạn đã chọn dẫn trực tiếp; nguồn nghị quyết nằm ở input, không gán cho Wikipedia."
+    ],
+    "cited_documents_from_wikipedia": []
+  },
+  {
+    "target_id": "after-f2fecb5e-11a8-4cb2-97f7-a089ac0ecf79",
+    "phase": "after",
+    "label": "tỉnh Hà Tĩnh",
+    "status": "found",
+    "conflicts": [],
+    "unverified_fields": [
+      "Không tự suy legal_effective_on/operational_on riêng cho địa bàn không sắp xếp; input không có event riêng.",
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt.",
+      "Chưa có văn bản NQ202 được bài/trích đoạn đã chọn dẫn trực tiếp; nguồn nghị quyết nằm ở input, không gán cho Wikipedia."
+    ],
+    "cited_documents_from_wikipedia": []
+  },
+  {
+    "target_id": "after-0552144d-8f63-4d7f-ab23-262e100fa112",
+    "phase": "after",
+    "label": "tỉnh Lai Châu",
+    "status": "found",
+    "conflicts": [],
+    "unverified_fields": [
+      "Không tự suy legal_effective_on/operational_on riêng cho địa bàn không sắp xếp; input không có event riêng.",
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt.",
+      "Chưa có văn bản NQ202 được bài/trích đoạn đã chọn dẫn trực tiếp; nguồn nghị quyết nằm ở input, không gán cho Wikipedia."
+    ],
+    "cited_documents_from_wikipedia": []
+  },
+  {
+    "target_id": "after-9c0ae658-883a-41b7-8de3-8e5a08bc6177",
+    "phase": "after",
+    "label": "tỉnh Lạng Sơn",
+    "status": "found",
+    "conflicts": [],
+    "unverified_fields": [
+      "Không tự suy legal_effective_on/operational_on riêng cho địa bàn không sắp xếp; input không có event riêng.",
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt.",
+      "Chưa có văn bản NQ202 được bài/trích đoạn đã chọn dẫn trực tiếp; nguồn nghị quyết nằm ở input, không gán cho Wikipedia."
+    ],
+    "cited_documents_from_wikipedia": []
+  },
+  {
+    "target_id": "after-d6fd8782-80d8-4d91-986c-254bf2e05ec3",
+    "phase": "after",
+    "label": "tỉnh Nghệ An",
+    "status": "found",
+    "conflicts": [],
+    "unverified_fields": [
+      "Không tự suy legal_effective_on/operational_on riêng cho địa bàn không sắp xếp; input không có event riêng.",
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt.",
+      "Chưa có văn bản NQ202 được bài/trích đoạn đã chọn dẫn trực tiếp; nguồn nghị quyết nằm ở input, không gán cho Wikipedia."
+    ],
+    "cited_documents_from_wikipedia": []
+  },
+  {
+    "target_id": "after-651dfe5c-8dd5-49b4-9bd4-a04148a79ed2",
+    "phase": "after",
+    "label": "tỉnh Quảng Ninh",
+    "status": "found",
+    "conflicts": [],
+    "unverified_fields": [
+      "Không tự suy legal_effective_on/operational_on riêng cho địa bàn không sắp xếp; input không có event riêng.",
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt.",
+      "Chưa có văn bản NQ202 được bài/trích đoạn đã chọn dẫn trực tiếp; nguồn nghị quyết nằm ở input, không gán cho Wikipedia."
+    ],
+    "cited_documents_from_wikipedia": []
+  },
+  {
+    "target_id": "after-fbc7cbac-5f23-48a5-a8a4-ab4d2902c2ba",
+    "phase": "after",
+    "label": "tỉnh Thanh Hóa",
+    "status": "found",
+    "conflicts": [],
+    "unverified_fields": [
+      "Không tự suy legal_effective_on/operational_on riêng cho địa bàn không sắp xếp; input không có event riêng.",
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt.",
+      "Chưa có văn bản NQ202 được bài/trích đoạn đã chọn dẫn trực tiếp; nguồn nghị quyết nằm ở input, không gán cho Wikipedia."
+    ],
+    "cited_documents_from_wikipedia": []
+  },
+  {
+    "target_id": "after-3013985e-02d9-45ff-8e7d-c22c53fd39ed",
+    "phase": "after",
+    "label": "tỉnh Sơn La",
+    "status": "found",
+    "conflicts": [],
+    "unverified_fields": [
+      "Không tự suy legal_effective_on/operational_on riêng cho địa bàn không sắp xếp; input không có event riêng.",
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt.",
+      "Chưa có văn bản NQ202 được bài/trích đoạn đã chọn dẫn trực tiếp; nguồn nghị quyết nằm ở input, không gán cho Wikipedia."
+    ],
+    "cited_documents_from_wikipedia": []
+  },
+  {
+    "target_id": "after-9d6837cd-1196-4073-bb43-85a7ee0cc8e5",
+    "phase": "after",
+    "label": "thành phố Hà Nội",
+    "status": "found",
+    "conflicts": [
+      "Bài tổng hợp là nguồn bối cảnh và có dẫn đề xuất tháng 4/2025; không thay thế NQ202 đã ban hành."
+    ],
+    "unverified_fields": [
+      "Thông tin pháp lý chỉ đối chiếu theo input, chưa kiểm chứng độc lập văn bản dẫn.",
+      "Không xác nhận hiện trạng tại ngày crawl.",
+      "Ngày vận hành chưa được xác minh riêng trên bài địa bàn nếu không có trích đoạn tương ứng.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt.",
+      "Chưa có văn bản NQ202 được bài/trích đoạn đã chọn dẫn trực tiếp; nguồn nghị quyết nằm ở input, không gán cho Wikipedia."
+    ],
+    "cited_documents_from_wikipedia": []
+  },
+  {
+    "target_id": "after-c19ff93f-bc7c-4941-908b-1d7dadd26c84",
+    "phase": "after",
+    "label": "thành phố Huế",
+    "status": "found",
+    "conflicts": [],
+    "unverified_fields": [
+      "Không tự suy legal_effective_on/operational_on riêng cho địa bàn không sắp xếp; input không có event riêng.",
+      "Không chứng nhận hiện trạng tại ngày crawl.",
+      "Chưa kiểm chứng độc lập nội dung pháp lý của các URL Wikipedia dẫn.",
+      "Ngày hiệu lực và ngày vận hành chỉ được INF cung cấp/đoạn nguồn nêu; không suy từ revision timestamp.",
+      "Chưa có câu Wikipedia được chọn xác nhận rõ hai loại ngày hiệu lực/vận hành riêng biệt.",
+      "Chưa có văn bản NQ202 được bài/trích đoạn đã chọn dẫn trực tiếp; nguồn nghị quyết nằm ở input, không gán cho Wikipedia."
+    ],
+    "cited_documents_from_wikipedia": []
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "request_url": "https://vi.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&inprop=url&maxlag=5&prop=info%7Cpageprops&redirects=1&titles=H%C3%A0+Nam+%28Vi%E1%BB%87t+Nam%29%7CH%C3%A0+Nam+%28t%E1%BB%89nh+Vi%E1%BB%87t+Nam%29%7CH%C3%A0+Nam+%28%C4%91%E1%BB%8Bnh+h%C6%B0%E1%BB%9Bng%29",
+  "params": {
+    "format": "json",
+    "formatversion": "2",
+    "maxlag": 5,
+    "action": "query",
+    "titles": "Hà Nam (Việt Nam)|Hà Nam (tỉnh Việt Nam)|Hà Nam (định hướng)",
+    "redirects": 1,
+    "prop": "info|pageprops",
+    "inprop": "url"
+  },
+  "retrieved_at": "2026-09-29T15:29:48.310840Z",
+  "http_status": 200,
+  "headers": {
+    "date": "Tue, 29 Sep 2026 15:29:48 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1652"
+  },
+  "path": "sources/responses/3f725ad851e72f04c7c5bcb10bb63c83639a67f4a5f268a187dd9b0c589b0457.json",
+  "sha256": "3f725ad851e72f04c7c5bcb10bb63c83639a67f4a5f268a187dd9b0c589b0457",
+  "byte_length": 1652,
+  "media_type": "application/json",
+  "representation": "unmodified MediaWiki HTTP response body bytes"
+}

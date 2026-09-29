@@ -1,0 +1,25 @@
+{
+  "request_url": "https://vi.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&inprop=url&maxlag=5&ppprop=wikibase_item%7Cdisambiguation&prop=info%7Cpageprops&redirects=1&titles=H%C6%B0ng+Y%C3%AAn%7CH%C6%B0ng+Y%C3%AAn+%28t%E1%BB%89nh%29%7CH%C6%B0ng+Y%C3%AAn+%28t%E1%BB%89nh+c%C5%A9%29%7CH%C6%B0ng+Y%C3%AAn+%28tr%C6%B0%E1%BB%9Bc+2025%29",
+  "params": {
+    "format": "json",
+    "formatversion": "2",
+    "maxlag": 5,
+    "action": "query",
+    "titles": "Hưng Yên|Hưng Yên (tỉnh)|Hưng Yên (tỉnh cũ)|Hưng Yên (trước 2025)",
+    "redirects": 1,
+    "prop": "info|pageprops",
+    "inprop": "url",
+    "ppprop": "wikibase_item|disambiguation"
+  },
+  "retrieved_at": "2026-09-29T15:25:41.038815Z",
+  "http_status": 200,
+  "headers": {
+    "date": "Tue, 29 Sep 2026 15:25:40 GMT",
+    "content-type": "application/json; charset=utf-8"
+  },
+  "path": "sources/responses/e85a2b808ba50ed08e156eab1ec2bf5960e686d951fb1388582d36f6e348f3ae.json",
+  "sha256": "e85a2b808ba50ed08e156eab1ec2bf5960e686d951fb1388582d36f6e348f3ae",
+  "byte_length": 1804,
+  "media_type": "application/json",
+  "representation": "unmodified MediaWiki HTTP response body bytes"
+}

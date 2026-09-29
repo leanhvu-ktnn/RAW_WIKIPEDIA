@@ -1,0 +1,25 @@
+{
+  "request_url": "https://vi.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&maxlag=5&pageids=11189&prop=revisions&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccontent%7Ccontentmodel&rvslots=main",
+  "params": {
+    "format": "json",
+    "formatversion": "2",
+    "maxlag": 5,
+    "action": "query",
+    "pageids": 11189,
+    "prop": "revisions",
+    "rvprop": "ids|timestamp|content|contentmodel",
+    "rvslots": "main",
+    "rvlimit": 1
+  },
+  "retrieved_at": "2026-09-29T15:20:07.980743Z",
+  "http_status": 200,
+  "headers": {
+    "date": "Tue, 29 Sep 2026 15:20:06 GMT",
+    "content-type": "application/json; charset=utf-8"
+  },
+  "path": "sources/responses/48f2b7dc419aeb5647ae170fb7276737512f450ec86a0b2adc85e45b7cd92ace.json",
+  "sha256": "48f2b7dc419aeb5647ae170fb7276737512f450ec86a0b2adc85e45b7cd92ace",
+  "byte_length": 113867,
+  "media_type": "application/json",
+  "representation": "unmodified MediaWiki HTTP response body bytes"
+}

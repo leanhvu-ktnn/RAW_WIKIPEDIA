@@ -1,0 +1,27 @@
+{
+  "unit_tests": {
+    "status": "PASS",
+    "tests": 22,
+    "log": "unit-tests.txt"
+  },
+  "project_profile": "PASS",
+  "legacy_audit": {
+    "status": "FAIL_EXISTING_BASELINE",
+    "findings": {
+      "catalog_hit_missing_file": 92,
+      "duplicate_pageid": 11,
+      "invalid_id": 4,
+      "manifest_missing_page": 92,
+      "missing_diaban_links": 2,
+      "missing_link_section": 2,
+      "missing_required": 4,
+      "pages_without_manifest": 113,
+      "url_mismatch": 1
+    }
+  },
+  "replay": {
+    "cached_targets": 97,
+    "package_inventory_after_replay": "PASS",
+    "log": "replay.txt"
+  }
+}

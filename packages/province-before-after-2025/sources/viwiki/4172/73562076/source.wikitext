@@ -1,0 +1,501 @@
+{{bài cùng tên}}
+{{Thông tin đơn vị hành chính Việt Nam | tỉnh
+| tên = Vĩnh Phúc
+| logo =Logo tỉnh Vĩnh Phúc.svg
+| ghi chú logo = Biểu trưng
+| ghi chú hình = Từ trên xuống dưới, từ trái sang phải: Thành phố [[Vĩnh Yên]] lúc hoàng hôn, Lâu đài Tam Đảo ở [[Tam Đảo (thị trấn)|thị trấn Tam Đảo]], đài phun nước Bưu điện Vĩnh Phúc ở [[Vĩnh Yên]], toàn cảnh dãy núi [[Tam Đảo]] 
+| vĩ độ = 21.363571
+| kinh độ = 105.548401
+| bản đồ 1 = {{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=2|stroke-color=#000000}}
+| diện tích = 1236 km²<ref name="area_2020">{{cite act|index=387/QĐ-BTNMT|title=Phê duyệt và công bố kết quả thống kê diện tích đất đai năm 2020|url=https://luatvietnam.vn/tai-nguyen/quyet-dinh-387-qd-btnmt-217769-d1.html|legislature=[[Bộ Tài nguyên và Môi trường (Việt Nam)]]|date= 2022| type = Quyết định}}</ref><ref>{{Chú thích sách | author = [[Tổng cục Thống kê (Việt Nam)|Tổng cục Thống kê]] | year = 2024  | url = https://www.gso.gov.vn/wp-content/uploads/2022/08/Sach-Nien-giam-TK-2021.pdf | title = Niên giám Thống kê Việt Nam năm 2021  | publisher = Nhà Xuất bản Thống kê  | access-date = 2022-08-01 | archive-date = 2022-08-01 | archive-url = https://web.archive.org/web/20220801122014/https://www.gso.gov.vn/wp-content/uploads/2022/08/Sach-Nien-giam-TK-2021.pdf|url-status=live| p=89 }}</ref>
+| dân số = 1.341.000 người<ref name="Tổng_cục_Thống_kê_2023">{{chú thích sách | author = [[Tổng cục Thống kê (Việt Nam)|Tổng cục Thống kê]]  | year = 2023  | url = https://www.gso.gov.vn/wp-content/uploads/2023/06/Sach-Nien-giam-TK-2022-update-8.7_compressed-3.pdf | title = Niên giám Thống kê Việt Nam năm 2022 | trans-title= Statistical Yearbook of Vietnam 2022 | publisher =Nhà Xuất bản Thống kê  | access-date = 2023-07-10 | archive-date = 2023-07-10 | archive-url = https://web.archive.org/web/20230710131057/https://www.gso.gov.vn/wp-content/uploads/2023/06/Sach-Nien-giam-TK-2022-update-8.7_compressed-3.pdf|url-status=live}}</ref>{{rp|105-106}}
+| thời điểm dân số = 2024
+| dân số thành thị = 650.000 người ({{formatnum:{{#expr:650000/1341000*100round1}}}}36%)<ref name="Tổng_cục_Thống_kê_2024"/>{{rp|115-116}}
+| dân số nông thôn = 691.000 người ({{formatnum:{{#expr:691000/1341000*100round1}}}}64%)<ref name="Tổng_cục_Thống_kê_2024"/>{{rp|117-118}}
+| mật độ dân số = 1085người/km²<ref name="Tổng_cục_Thống_kê_2024"/>{{rp|105-106}}
+| vùng = 
+* [[Đồng bằng sông Hồng]] <small>(địa lý)</small>
+* [[Vùng thủ đô Hà Nội]] <small>(đô thị)</small> 
+| dân tộc = [[Người Việt|Kinh]], [[Người Sán Dìu|Sán Dìu]], [[Người Sán Chay|Sán Chay]], [[Cao Lan]], [[Người Dao|Dao]]...
+| tỉnh lỵ = Thành phố [[Vĩnh Yên]]
+| thành lập =
+* 12/2/1950
+* 1/1/1997 (tái lập)
+| chủ tịch UBND = [[Trần Duy Đông]]
+| hội đồng nhân dân = 51 đại biểu
+| chủ tịch HĐND = [[Bùi Huy Vĩnh]]
+| chủ tịch UBMTTQ = Bùi Thị Thu Hằng
+| chánh án TAND = [[Nguyễn Văn Hoa]]
+| viện trưởng VKSND = [[Lê Tất Hiếu]]
+|bí thư =  [[Đặng Xuân Phong (chính khách)|Đặng Xuân Phong]]
+| đại biểu quốc hội = 
+| phân chia hành chính = [[Lịch sử hành chính Vĩnh Phúc|2 thành phố, 7 huyện]]
+| mã địa lý = [[ISO 3166-2:VN|VN-70]]
+| mã hành chính = 26<ref>[https://danhmuchanhchinh.gso.gov.vn/ Tổng cục Thống kê]</ref>
+| mã bưu chính = [[Mã bưu chính Việt Nam|28xxxx]]
+| mã điện thoại = [[Mã điện thoại Việt Nam|211]]
+| biển số xe = [[Biển xe cơ giới Việt Nam|88]]
+| web = {{url|vinhphuc.gov.vn}}
+| trụ sở UBND = đường Nguyễn Trãi, thành phố Vĩnh Yên
+|nhiều hình={{multiple image
+| border = infobox
+| total_width = 299
+| image_style = border:1;
+| perrow = 1/2/1
+| image1 = Bau-troi-tuyet-voi-VinhPhuc-HAN.jpg
+| image2 = Lâu đài Tam Đảo - NKS.jpg
+| image3 = Vòng xoay ở chỗ Bưu điện Vĩnh Phúc.jpg
+| image4 = TamDao mountains panorama.jpg
+}}|biệt danh=Vùng đất Hai Bà Trưng<br>Quê hương Trưng Vương}}
+'''Vĩnh Phúc''' là một [[tỉnh (Việt Nam)|tỉnh]] vùng [[đồng bằng sông Hồng]], [[Việt Nam]], nằm ở chính giữa trung tâm hình học trên bản đồ miền Bắc. Đây là tỉnh nằm trong quy hoạch [[quy hoạch vùng thủ đô Hà Nội|vùng thủ đô Hà Nội]], vùng kinh tế trọng điểm Bắc Bộ và là một trong những tỉnh có nền kinh tế phát triển nhất miền Bắc.
+
+Năm 2022, Vĩnh Phúc là đơn vị hành chính [[Việt Nam]] đông thứ 37 về số dân, [[Danh sách đơn vị hành chính Việt Nam theo GRDP|xếp thứ 13]] về [[Tổng sản phẩm trên địa bàn (GRDP)]], [[Danh sách đơn vị hành chính Việt Nam theo GRDP bình quân đầu người|xếp thứ 09]] về [[Tổng sản phẩm trên địa bàn (GRDP)|GRDP]] bình quân đầu người, đứng thứ 31 về tốc độ tăng trưởng [[Tổng sản phẩm trên địa bàn (GRDP)|GRDP]]. Với 1.304.300 người dân<ref>{{Chú thích web|url=https://www.gso.gov.vn/default.aspx?tabid=714|title=Dân số các tỉnh Việt Nam năm 2018|last=|first=|date=|website=Tổng cục Thống kê Việt Nam|archive-url=|archive-date=|url-status=|access-date=Ngày 30 tháng 9 năm 2019}}</ref>, GRDP đạt 152.178 tỉ [[Đồng (đơn vị tiền tệ)|Đồng]] (tương ứng với 6,62 tỉ USD), GRDP bình quân đầu người đạt 105 triệu đồng (tương ứng với 5.494 USD), tốc độ tăng trưởng GRDP đạt 8,06%.<ref>{{Chú thích web|url=http://thongkevinhphuc.gov.vn/bvct/thong-ke-vinh-phuc/471/tinh-hinh-kinh-te-xa-hoi-tinh-vinh-phuc-nam-2018.html|title=Tình hình kinh tế - xã hội năm 2018 Vĩnh Phúc|last=|first=|date=|website=Cục Thống kê tỉnh Vĩnh Phúc|archive-url=|archive-date=|url-status=|access-date=Ngày 13 tháng 10 năm 2018}}</ref>
+
+Trong thời kỳ Pháp tạm chiếm đóng miền Bắc giai đoạn 1946-1954, tỉnh này còn có tên gọi là tỉnh [[Vĩnh Phúc Yên]]. Trước đây, tỉnh Vĩnh Phúc vốn bao gồm các tỉnh [[Vĩnh Yên (tỉnh)|Vĩnh Yên]] và [[Phúc Yên (tỉnh)|Phúc Yên]] cũ. Tuy nhiên, ngày nay tỉnh chỉ còn bao gồm phần đất của [[Vĩnh Yên (tỉnh)|tỉnh Vĩnh Yên]] cũ và một phần đất của [[Phúc Yên (tỉnh)|tỉnh Phúc Yên]] cũ - [[Phúc Yên|thành phố Phúc Yên]], sau khi tất cả các huyện thuộc [[Phúc Yên (tỉnh)|tỉnh Phúc Yên]] cũ đã lần lượt sáp nhập vào [[Hà Nội|thành phố Hà Nội]] là [[Đông Anh]], [[Yên Lãng (huyện)|Yên Lãng]] (nay là huyện [[Mê Linh]]), [[Đa Phúc (huyện)|Đa Phúc]] và [[Kim Anh (huyện)|Kim Anh]] (hai huyện này đã hợp lại thành một huyện [[Sóc Sơn]]).
+
+Đặt mục tiêu đến năm 2050 trở thành thành phố trung ương với 1.604.000 người
+
+Tỉ lệ thành thị đạt 65% làm tiền đề để thành lập thành phố trung ương
+  
+*[[Vĩnh Yên]] đô thị loại II
+*[[Phúc Yên]] đô thị loại III
+*[[Vĩnh Tường]], [[Bình Xuyên]], [[Tam Đảo]] đô thị loại IV
+
+== Địa lý ==
+===Vị trí địa lý===
+Trung tâm hành chính của tỉnh là thành phố [[Vĩnh Yên]], cách trung tâm thủ đô [[Hà Nội]] khoảng 55&nbsp;km, cách thành phố [[Việt Trì]] khoảng 30&nbsp;km, cách [[Sân bay quốc tế Nội Bài]] khoảng 25&nbsp;km, có vị trí địa lý:
+* Phía đông giáp tỉnh [[Thái Nguyên]]
+* Phía tây giáp tỉnh [[Phú Thọ]]
+* Phía nam giáp thủ đô [[Hà Nội]]
+* Phía bắc giáp tỉnh [[Tuyên Quang]].
+
+====Các điểm cực của tỉnh Vĩnh Phúc:====
+*Điểm cực bắc tại: xã Đạo Trù, huyện [[Tam Đảo]].
+*Điểm cực đông tại: xã Ngọc Thanh, thành phố [[Phúc Yên]].
+*Điểm cực tây tại: xã Bạch Lưu, huyện [[Sông Lô]].
+*Điểm cực nam tại: xã Liên Châu, huyện [[Yên Lạc]].
+
+Do đặc điểm vị trí địa lý Vĩnh Phúc có ba vùng sinh thái rõ rệt: đồng bằng, trung du và miền núi; liền kề với thủ đô Hà Nội, gần [[sân bay quốc tế Nội Bài]]; có hệ thống giao thông đường bộ, đường sắt, đường sông thuận lợi trên trục phát triển kinh tế của Việt Nam.
+
+Tỉnh có hệ thống giao thông khá thuận lợi, có tuyến [[Quốc lộ 2]], [[Đường cao tốc Hà Nội – Lào Cai|đường cao tốc Hà Nội - Lào Cai]] và [[đường sắt Hà Nội - Lào Cai]] đi qua trên địa bàn. Chảy qua Vĩnh Phúc có 4 dòng chính: [[sông Hồng]], [[sông Lô]], [[sông Phó Đáy]] và [[sông Cà Lồ]]. Hệ thống sông Hồng là tuyến đường thủy quan trọng, thuận lợi cho tàu bè.
+
+=== Khí hậu ===
+
+*Nhiệt độ trung bình hàng năm là 23,8&nbsp;°C. Riêng vùng núi Tam Đảo, ở độ cao 1.000 m so với mực nước biển có nhiệt độ trung bình năm là 18,4&nbsp;°C. Tam Đảo có nhiệt độ trung bình ngày thấp hơn vùng [[Đồng bằng sông Hồng|đồng bằng Bắc Bộ]] là 5&nbsp;°C.
+*Lượng mưa trung bình hàng năm đạt 1.400&nbsp;mm đến 1.600&nbsp;mm. Trong đó, lượng mưa bình quân cả năm của vùng đồng bằng và trung du tại trạm Vĩnh Yên là 1.323,8&nbsp;mm. Vùng núi tại trạm Tam Đảo là 2.140&nbsp;mm.<br/>Lượng mưa phân bố không đều trong năm, tập trung chủ yếu từ tháng 5 đến tháng 10, chiếm 80% tổng lượng mưa cả năm. Mùa khô từ tháng 11 đến tháng 4 năm sau chỉ chiếm 20% tổng lượng mưa trong năm.
+*Số giờ nắng: Tổng số giờ nắng bình quân trong năm là 1.400 đến 1.800 giờ, trong đó, tháng có nhiều giờ nắng trong năm nhất là tháng 6 và tháng 7, tháng có ít giờ nắng trong năm ít nhất là tháng 3.
+*Chế độ gió: Trong năm có hai loại gió chính: Gió đông nam thổi từ tháng 4 đến tháng 9; gió đông bắc: thổi từ tháng 10 đến tháng 3 năm sau.
+*Độ ẩm không khí: Độ ẩm bình quân cả năm là 83%. Nhìn chung độ ẩm không có sự chênh lệch nhiều qua các tháng trong năm giữa vùng núi với vùng trung du và vùng đồng bằng. Lấy hai trạm đo quan trắc khí tượng đặc trưng theo địa hình: trạm Vĩnh Yên (vùng đồng bằng) và trạm Tam Đảo (trung du và miền núi).
+
+Lượng bốc hơi: Bốc hơi bình quân trong năm là 1.040&nbsp;mm, lượng bốc hơi bình quân trong 1 tháng từ tháng 4 đến tháng 9 là 107,58&nbsp;mm, từ tháng 10 đến tháng 3 năm sau là 71,72&nbsp;mm.
+
+===Dân cư===
+Tỉnh Vĩnh Phúc có 48% dân số sống ở đô thị và 52% dân số sống ở nông thôn.
+
+Tính đến ngày [[1 tháng 4]] năm [[2019]], toàn tỉnh có 4 [[tôn giáo]] khác nhau đạt 41.099 người, nhiều nhất là [[Công giáo tại Việt Nam|Công giáo]] có 35.270 người, tiếp theo là [[Phật giáo Việt Nam|Phật giáo]] có 5.782 người. Còn lại các tôn giáo khác như [[Kháng Cách|đạo Tin Lành]] có 45 người và [[Hồi giáo tại Việt Nam|Hồi giáo]] có hai người.<ref name="dstcdtvn">[http://www.gso.gov.vn/Modules/Doc_Download.aspx?DocID=12724 Kết quả toàn bộ Tổng điều tra Dân số và Nhà ở Việt Nam năm 2009], Tổng cục Thống kê Việt Nam.</ref>
+
+== Hành chính ==
+Tỉnh Vĩnh Phúc có 9 đơn vị hành chính cấp huyện trực thuộc, bao gồm 2 thành phố và 7 huyện với 121 đơn vị hành chính cấp xã, bao gồm 15 phường, 18 thị trấn và 88 xã.<ref name=NQ730>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-730-NQ-UBTVQH15-2023-thanh-lap-thi-tran-Kim-Long-thi-tran-Tam-Hong-Vinh-Phuc-556504.aspx|tựa đề=Nghị quyết số 730/NQ-UBTVQH15 năm 2023 về việc thành lập thị trấn Kim Long thuộc huyện Tam Dương, thị trấn Tam Hồng thuộc huyện Yên Lạc và phường Định Trung thuộc thành phố Vĩnh Yên, tỉnh Vĩnh Phúc|url-status=live}}</ref>
+
+{| cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="3" style="background: #E6E6FA; font-size: 95%;" | Danh sách các đơn vị hành chính trực thuộc tỉnh Vĩnh Phúc
+|-
+| width="50%" valign="top" style="background: #f9f9f9;"|
+{| cellpadding="1" cellspacing="1" style="background: #f9f9f9; font-size: 90%; text-align: right;" width="100%"
+|-
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" | Tên!! style="border-bottom: 2px solid #CCCCFF;" |Dân số (người)<sup>2024
+</sup>
+|!! style="border-bottom: 2px solid #CCCCFF;" | Hành chính
+|-
+| align="left" colspan="3" style="background: #F5F5DC; padding-left: 30px;" | '''Thành phố (2)'''
+|-
+| align="left" style="padding-left: 6px; white-space:nowrap" |[[Vĩnh Yên]] ||224.000||''8 phường, 1 xã ''
+|-
+| align="left" style="padding-left: 6px; white-space:nowrap" |[[Phúc Yên]] ||160.000||''7 phường, 2 xã ''
+|-
+| align="left" colspan="3" style="background: #F5F5DC; padding-left: 30px;" | '''Huyện (7)'''
+|-
+| align="left" style="padding-left: 6px; white-space:nowrap" | [[Bình Xuyên]]||140.013||''5 thị trấn, 8 xã''
+|-bgcolor="#F5F5F5"
+| align="left" style="padding-left: 6px; white-space:nowrap" |[[Lập Thạch]] ||137.150||''2 thị trấn, 17 xã''
+|}
+| width="50%" valign="top" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" style="background: #f9f9f9; font-size: 90%; text-align: right;" width="100%"
+|-
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" | Tên!! style="border-bottom: 2px solid #CCCCFF;" | Dân số (người)<sup>2024</sup>!! style="border-bottom: 2px solid #CCCCFF;" | Hành chính
+|-
+| align="left" style="padding-left: 6px; white-space:nowrap" | [[Sông Lô (huyện)|Sông Lô]] ||99.738||''1 thị trấn, 13 xã''
+|-bgcolor="#F5F5F5"
+| align="left" style="padding-left: 6px; white-space:nowrap" |[[Tam Đảo (huyện)|Tam Đảo]] ||84.931||''3 thị trấn, 6 xã''
+|-
+| align="left" style="padding-left: 6px; white-space:nowrap" | [[Tam Dương]]|| 125.391||''2 thị trấn, 10 xã''
+|-bgcolor="#F5F5F5"
+| align="left" style="padding-left: 6px; white-space:nowrap" |[[Vĩnh Tường]] ||230.000||''3 thị trấn, 17 xã''
+|-
+| align="left" style="padding-left: 6px; white-space:nowrap" | [[Yên Lạc]]|| 160.456||''2 thị trấn, 14 xã''
+|}
+| valign="top" style="background: #f9f9f9; font-size: 90%" |
+|}
+
+== Lịch sử ==
+{{main|Lịch sử hành chính Vĩnh Phúc}}
+Vĩnh Phúc là cái nôi của [[người Việt]] cổ, với di chỉ khảo cổ học [[văn hóa Đồng Đậu|Đồng Đậu]] nổi tiếng. Thời kỳ [[12 sứ quân]], nơi đây là địa bàn chiếm đóng của sứ quân [[Nguyễn Khoan]].
+
+Tỉnh Vĩnh Phúc được thành lập vào ngày [[12 tháng 2]] năm [[1950]], do sự kết hợp của hai tỉnh [[Vĩnh Yên (tỉnh)|Vĩnh Yên]] và [[Phúc Yên (tỉnh)|Phúc Yên]] cũ. Khi hợp nhất tỉnh Vĩnh Phúc có diện tích 1.715&nbsp;km², dân số 470.000 người, gồm 9 huyện: [[Bình Xuyên]], [[Đa Phúc (huyện)|Đa Phúc]], [[Đông Anh]], [[Kim Anh]], [[Lập Thạch]], [[Tam Dương]], [[Vĩnh Tường]], [[Yên Lạc]], [[Yên Lãng (huyện)|Yên Lãng]].
+
+Năm [[1952]], chính quyền [[Quốc gia Việt Nam]] thân Pháp do [[Bảo Đại]] đứng đầu mà đại diện là Thủ hiến Bắc Việt cũng hợp nhất hai tỉnh Vĩnh Yên và Phúc Yên thành một tỉnh mới nhưng lại lấy tên là tỉnh Vĩnh Phúc Yên. Tên gọi này chỉ tồn tại đến giữa năm [[1954]], sau khi [[Hiệp định Genève, 1954|Hiệp định Genève]] được ký kết và đất nước tạm thời bị chia đôi, theo đó chính quyền [[Quốc gia Việt Nam]] chuyển vào miền Nam.
+
+Năm [[1955]], huyện [[Phổ Yên]] tách khỏi tỉnh [[Thái Nguyên]] nhập vào Vĩnh Phúc, đến năm [[1957]], lại trở về với tỉnh Thái Nguyên.
+
+Ngày [[1 tháng 2]] năm [[1955]], tái lập 2 thị xã [[Vĩnh Yên]] và [[Phúc Yên]].
+
+Ngày [[7 tháng 6]] năm [[1957]], thị trấn [[Bạch Hạc]] chuyển sang tỉnh [[Phú Thọ]] và hợp nhất với thị trấn Việt Trì để trở thành thị xã [[Việt Trì]] (nay là thành phố Việt Trì trực thuộc tỉnh Phú Thọ).
+
+Ngày [[20 tháng 4]] năm [[1961]], huyện Đông Anh (gồm 16 xã: Bắc Hồng, Cổ Loa, Đại Mạch, Hải Bối, Kim Nỗ, Nam Hồng, Nguyên Khê, Thụy Lâm, Tiên Dương, Uy Nỗ, Vân Nội, Việt Hùng, Vĩnh Ngọc, Võng La, Xuân Canh, Xuân Nộn), xã Kim Chung của [[Yên Lãng (huyện)|huyện Yên Lãng]], thôn Đoài xã [[Phù Lỗ]] (phía nam [[sông Cà Lồ]]) của huyện Kim Anh tách khỏi Vĩnh Phúc chuyển về thành phố [[Hà Nội]].<ref>[http://thuvienphapluat.vn/archive/Nghi-quyet/Nghi-Quyet-mo-rong-thanh-pho-Ha-Noi-vb42689t13.aspx Nghị quyết về việc mở rộng thành phố Hà Nội do Quốc hội ban hành]</ref>
+
+Ngày [[26 tháng 1]] năm [[1968]], Ủy ban thường vụ [[Quốc hội Việt Nam|Quốc hội]] nước [[Việt Nam Dân chủ Cộng hòa]] ra Nghị quyết số 504-NQ/TVQH về việc hợp nhất hai tỉnh Vĩnh Phúc và Phú Thọ thành tỉnh Vĩnh Phú.
+
+Ngày [[26 tháng 6]] năm [[1976]], chuyển thị xã Phúc Yên thành thị trấn Phúc Yên thuộc huyện [[Yên Lãng (huyện)|Yên Lãng]].
+
+Ngày [[5 tháng 7]] năm [[1977]], hợp nhất 2 huyện [[Vĩnh Tường]] và [[Yên Lạc]] thành huyện [[Vĩnh Lạc (huyện)|Vĩnh Lạc]]; hợp nhất 2 huyện [[Lập Thạch]] và [[Tam Dương]] thành huyện [[Tam Đảo (huyện)|Tam Đảo]]; hợp nhất 2 huyện [[Bình Xuyên]] và [[Yên Lãng (huyện)|Yên Lãng]] thành huyện [[Mê Linh]]; hợp nhất 2 huyện [[Đa Phúc (huyện)|Đa Phúc]] và [[Kim Anh (huyện)|Kim Anh]] thành huyện [[Sóc Sơn]].<ref>[http://thuvienphapluat.vn/archive/Quyet-dinh/Quyet-dinh-178-CP-hop-nhat-dieu-chinh-dia-gioi-huyen-thuoc-tinh-Vinh-Phu-vb57438t17.aspx Quyết định 178-CP năm 1977 về việc hợp nhất và điều chỉnh địa giới một số huyện thuộc tỉnh Vĩnh Phú]</ref>
+
+Ngày [[29 tháng 12]] năm [[1978]], chuyển huyện [[Sóc Sơn]]; thị trấn Phúc Yên và 18 xã: Chu Phan, Đại Thịnh, Hoàng Kim, Kim Hoa, Liên Mạc, Mê Linh, Quang Minh, Tam Đồng, Thạch Đà, Thanh Lâm, Tiền Châu, Tiền Phong, Tiến Thắng, Tiến Thịnh, Tráng Việt, Tự Lập, Văn Khê, Vạn Yên của huyện Mê Linh về thành phố [[Hà Nội]] quản lý.<ref>[http://thuvienphapluat.vn/archive/Nghi-quyet/Nghi-quyet-phe-chuan-viec-phan-vach-lai-dia-gioi-thanh-pho-Ha-Noi-TPHCM-cac-tinh-Ha-Son-Binh-Vinh-Phu-Cao-Lang-Bac-Thai-Quang-Ninh-va-Dong-Nai-vb42744t13.aspx Nghị quyết về việc phê chuẩn việc phân vạch địa giới thành phố Hà Nội và tỉnh Vĩnh Phú]</ref>
+
+Ngày [[26 tháng 2]] năm [[1979]], tái lập huyện [[Lập Thạch]] và sáp nhập phần còn lại của huyện Mê Linh (sau khi chuyển thị trấn Phúc Yên và 18 xã về Hà Nội quản lý) vào các huyện [[Tam Đảo (huyện)|Tam Đảo]] và [[Vĩnh Lạc (huyện)|Vĩnh Lạc]].<ref>[http://thuvienphapluat.vn/archive/Quyet-dinh/Quyet-dinh-71-CP-dieu-chinh-dia-gioi-huyen-Tam-Dao-Vinh-Lac-tinh-Vinh-Phu-vb58183t17.aspx Quyết định 71-CP năm 1979 điều chỉnh địa giới huyện Tam Đảo và huyện Vĩnh Lạc thuộc tỉnh Vĩnh Phú]</ref>
+
+Ngày [[12 tháng 8]] năm [[1991]], chuyển lại huyện Mê Linh đã lấy của thành phố [[Hà Nội]] năm 1978 về tỉnh Vĩnh Phú quản lý.<ref>[http://thuvienphapluat.vn/archive/Nghi-quyet/Nghi-quyet-dieu-chinh-dia-gioi-hanh-chinh-mot-so-tinh-thanh-pho-truc-thuoc-Trung-uong-vb42808t13.aspx Nghị quyết về việc điều chỉnh địa giới thành phố Hà Tĩnh và tỉnh Vĩnh Phú]</ref>
+
+Ngày [[7 tháng 10]] năm [[1995]], chia huyện Vĩnh Lạc thành 2 huyện: [[Vĩnh Tường]] và [[Yên Lạc]].<ref>[http://thuvienphapluat.vn/archive/Nghi-dinh/Nghi-dinh-63-CP-chia-huyen-vinh-lac-thanh-hoa-thuoc-tinh-Vinh-Phu-vb39596t11.aspx Nghị định 63-CP năm 1995 về việc chia huyện Vĩnh Lạc thuộc tỉnh Vĩnh Phú]</ref>
+
+Kỳ họp thứ 10 Quốc hội khóa IX đã thông qua Nghị quyết (ngày [[26 tháng 11]] năm [[1996]]) về việc tái lập tỉnh Vĩnh Phúc. Tỉnh Vĩnh Phúc chính thức được tái lập và đi vào hoạt động từ ngày [[1 tháng 1]] năm [[1997]]<ref>[http://thuvienphapluat.vn/archive/Nghi-quyet/Nghi-quyet-chia-va-dieu-chinh-dia-gioi-hanh-chinh-tinh-vb40091t13.aspx Nghị quyết về việc chia và điều chỉnh địa giới hành chính một số tỉnh do Quốc hội ban hành]</ref>. Khi tách ra, tỉnh Vĩnh Phúc có diện tích 1.370,73&nbsp;km², dân số 1.066.552 người, gồm 6 đơn vị hành chính cấp huyện: thị xã [[Vĩnh Yên]] và 5 huyện: [[Lập Thạch]], [[Mê Linh]], [[Tam Đảo (huyện)|Tam Đảo]], [[Vĩnh Tường]], [[Yên Lạc]].
+
+[[Tháng 6]] năm [[1998]], tách huyện Tam Đảo thành 2 huyện [[Tam Dương]] và [[Bình Xuyên, Vĩnh Phúc|Bình Xuyên]].<ref>[http://thuvienphapluat.vn/archive/Nghi-dinh/Nghi-dinh-36-1998-ND-CP-chia-tach-huyen-Tam-Dao-thuoc-tinh-Vinh-Phuc-thanh-huyen-Tam-Duong-va-huyen-Binh-Xuyen-vb41742t11.aspx Nghị định 36/1998/NĐ-CP về việc chia tách huyện Tam Đảo thuộc tỉnh Vĩnh Phúc thành huyện Tam Dương và huyện Bình Xuyên]</ref>
+
+Ngày [[9 tháng 12]] năm [[2003]], thành lập [[Phúc Yên|thị xã Phúc Yên]] (tách ra từ huyện Mê Linh) và [[Tam Đảo (huyện)|huyện Tam Đảo]] mới (tách 3 xã của huyện Lập Thạch, 4 xã của huyện Tam Dương, 1 xã của huyện Bình Xuyên và thị trấn Tam Đảo của thị xã Vĩnh Yên).<ref>[http://thuvienphapluat.vn/archive/Nghi-dinh/Nghi-dinh-153-2003-ND-CP-thanh-lap-thi-xa-Phuc-Yen-huyen-Tam-Dao-tinh-Vinh-Phuc-vb53824t11.aspx Nghị định 153/2003/NĐ-CP về việc thành lập thị xã Phúc Yên và huyện Tam Đảo, tỉnh Vĩnh Phúc]</ref>
+
+Ngày [[1 tháng 12]] năm [[2006]], chuyển thị xã Vĩnh Yên thành [[Vĩnh Yên|thành phố Vĩnh Yên]].<ref>[http://thuvienphapluat.vn/archive/Nghi-dinh/Nghi-dinh-146-2006-ND-CP-thanh-lap-thanh-pho-Vinh-Yen-thuoc-tinh-Vinh-Phuc-vb15762t11.aspx Nghị định 146/2006/NĐ-CP về việc thành lập thành phố Vĩnh Yên thuộc tỉnh Vĩnh Phúc]</ref>
+
+Ngày [[1 tháng 8]] năm [[2008]], huyện [[Mê Linh]] được tách ra và sáp nhập vào thành phố Hà Nội theo Nghị quyết số 15/2008/QH12 về việc mở rộng địa giới hành chính thủ đô.<ref>[http://thuvienphapluat.vn/archive/Nghi-quyet-15-2008-QH12-dieu-chinh-dia-gioi-hanh-chinh-thanh-pho-Ha-Noi-va-mot-so-tinh-co-lien-quan-vb68076.aspx Nghị quyết số 15/2008/QH12 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan do Quốc hội ban hành]</ref>
+
+Ngày [[23 tháng 12]] năm [[2008]], chia huyện Lập Thạch thành 2 huyện: Lập Thạch và [[Sông Lô (huyện)|Sông Lô]]<ref>[http://thuvienphapluat.vn/archive/Nghi-dinh/Nghi-dinh-09-ND-CP-dieu-chinh-dia-gioi-hanh-chinh-huyen-Lap-Thach-de-thanh-lap-song-lo-tinh-Vinh-Phuc-vb84047t11.aspx Nghị định 09/NĐ-CP năm 2008 về việc điều chỉnh địa giới hành chính huyện Lập Thạch để thành lập huyện sông lô, tỉnh Vĩnh Phúc]</ref>.
+
+Ngày [[7 tháng 2]] năm [[2018]], chuyển thị xã Phúc Yên thành [[Phúc Yên|thành phố Phúc Yên]].<ref>[https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-484-NQ-UBTVQH14-2018-thanh-lap-phuong-Tien-Chau-phuong-Nam-Viem-Phuc-Yen-375423.aspx Nghị quyết số 484/NQ-UBTVQH14 năm 2018 về việc thành lập các phường Tiền Châu, Nam Viêm thuộc thị xã Phúc Yên và thành lập thành phố Phúc Yên, tỉnh Vĩnh Phúc].</ref>
+
+Tỉnh Vĩnh Phúc có 2 thành phố và 7 huyện như hiện nay.
+
+== Kinh tế - xã hội==
+===Kinh tế===
+{{Chính|Danh sách đơn vị hành chính Việt Nam theo GRDP}}
+{{Chính|Danh sách đơn vị hành chính Việt Nam theo GRDP bình quân đầu người}}
+
+Vĩnh Phúc vốn là một tỉnh công nghiệp thuộc vùng kinh tế trọng điểm Bắc Bộ.
+
+* Năm 1997 cơ cấu kinh tế là nông nghiệp 52%, dịch vụ 36%, công nghiệp 12%, thu ngân sách đạt gần 100 tỷ [[đồng (tiền)|đồng]].
+* Năm 2004 có cơ cấu kinh tế là công nghiệp 49,7%; dịch vụ 26,2%; nông nghiệp 24,1%). Tốc độ tăng trưởng kinh tế bình quân 8 năm (1997-2004) là 16,6%.
+* Năm 2006, Vĩnh Phúc đứng thứ 9 trong các tỉnh thành trên cả nước về thu ngân sách với 4.027 tỷ đồng. Với hàng trăm doanh nghiệp trong nước và nước ngoài với tổng mức vốn đầu tư khoảng gần 600 triệu [[Đô la Mỹ|USD]] và 15.600 tỷ đồng, được đầu tư ở 14 cụm, khu công nghiệp, khu vui chơi, giải trí, du lịch trên khắp địa bàn.
+* Năm 2011 tỉnh có cơ cấu kinh tế là công nghiệp - xây dựng 54,8%, dịch vụ 29,6%; nông, lâm nghiệp, thủy sản là 15,6%. Thu ngân sách 16.484 tỷ; thu nội địa là 11.638 tỷ đồng. Thu nhập bình quân đầu người khoảng 2200 USD, tăng 15 lần so với năm 1997. Thu hút được 681 dự án, trong đó có 127 dự án FDI, với tổng vốn đăng ký 2.420,9 triệu USD và 554 dự án DDI, với tổng vốn đăng ký 32.829,8 tỷ.
+* Đến năm 2012, bối cảnh kinh tế thế giới,trong nước gặp nhiều khó khăn nhưng tỉnh Vĩnh Phúc vẫn đạt được các thành tựu nổi bật trong phát triển kinh tế.Tốc độ tăng trưởng kinh tế 11,5%. Vĩnh Phúc thu hút được thêm 33 dự án, trong đó: 25 dự án DDI, với số vốn đầu tư đăng ký là 1.200 tỷ đồng giảm 37,5% về số dự án, giảm 29,5% về vốn đầu tư; 8 dự án FDI, với tổng vốn đăng ký 180 triệu USD, tăng 33,3% về số dự án và tăng 88,2% số vốn so với năm 2011. Cơ cấu kinh tế năm 2012 công nghiệp - xây dưng 53,4%,Dich vụ 33,1%,nông, lâm, thủy sản 13,5%. GDP bình quân đầu người theo năm 51,16 triệu đồng/người (khoảng 2520 USD),tỷ lệ hộ nghèo còn 6,5% theo chuẩn mới (năm 2013). Giá trị sản xuất công nghiệp năm 2012 đạt 49.306,6 tỷ đồng, đứng thứ 7 của cả nước, đứng thứ 3 ở miền bắc sau Hà Nội, Hải Phòng về giá trị sản xuất công nghiệp.
+* Năm 2013, tuy kinh tế khủng hoảng chạm đáy nhưng kinh tế Vĩnh Phúc vẫn đạt được những kết quả khá ấn tượng, tốc độ tăng trưởng đạt 7,89%, đứng thứ 3 trong vùng kinh tế trọng điểm Bắc Bộ, sau Hà Nội (10.2%) và Bắc Ninh (8,25%). Kết quả năm 2013 số dự án thu hút (FDI, DDI) tăng cao so với năm 2012 và vượt kế hoạch đề ra. Cụ thể đã thu hút 42 dự án, trong đó gồm 21 dự án FDI, với tổng vồn đăng ký 314,8 triệu USD tăng 3,5 lần về số dự án và 206% về số vốn đăng ký so với năm 2012, đạt 157% kế hoạch; và 21 dự án DDI với 6.247 tỷ đồng vốn đăng ký, bằng 95% về số dự án và tăng 3,34 lần về vốn đăng ký so với năm 2012, đạt 416% kế hoạch đề ra. Lũy kế đến hết năm 2013 toàn tỉnh có 675 dự án còn hiệu lực, gồm 137 dự án FDI với tổng vốn đầu tư là 2.767,6 triệu USD và 538 dự án DDI với tổng vốn đầu tư 31.727 tỷ đồng.Lĩnh vực thu ngân sách nhà nước tăng cao so với cùng kỳ đạt 19.275 tỷ đồng tăng 45% so với năm 2012, thu nội địa đạt 15.700 tỷ đồng tăng 60%, với kết quả thu nội địa này Vĩnh Phúc tiếp tục khẳng định vị trí thứ 2 miền Bắc sau Hà Nội và đứng thứ 5 cả nước. Cơ cấu kinh tế năm 2013, công nghiệp - xây dựng 60,39%, Dịch vụ 28,92%, Nông -lâm - ngư nghiệp giảm còn 10,09%. GRDP bình quân đầu người (theo giá hiện hành) ước đạt 56,8 triệu đồng/người, tương đương 2.569 USD/người, tăng 12,3% so với thực hiện năm 2011, cao hơn 1,3 lần GDP bình quân đầu người của cả nước. 
+* Năm 2014 tăng trưởng kinh tế 6,11% Cơ cấu kinh tế năm 2014 của tỉnh Vĩnh Phúc là: Khu vực I: 9,76%; khu vực II: 62,54%; khu vực III: 27,7% (năm 2013 tương ứng là: 10,09%; 63,55% và 26,36%). Năm 2014 (tính từ 21/12/2013 đến 20/12/2014) cấp mới 45 dự án FDI với tổng vốn đầu tư đăng ký 354,65 triệu USD và 12 dự án điều chỉnh, tăng vốn đầu tư với số vốn tăng 74,8 triệu USD. Tổng cả cấp mới và điều chỉnh năm 2014 là 429,45 triệu USD. Lũy kế đến nay toàn tỉnh có 183 dự án FDI còn hiệu lực với tổng số vốn đăng ký là 3.091,3 triệu USD, dự kiến sử dụng lao động 51.700 người. Năm 2014 (tính từ 21/12/2013 đến 20/12/2014) cấp mới 39 dự án DDI với tổng vốn đầu tư đăng ký là 2.789,67 tỷ đồng và 07 dự án tăng vốn đầu tư với số vốn tăng 1.577,6 tỷ đồng. Tổng số cấp mới và điều chỉnh là: 4.297,3 tỷ đồng. Lũy kế đến nay (20/12/2014): Toàn tỉnh có 575 dự án DDI còn hiệu lực, với tổng số vốn đăng ký là 39.574 tỷ VND. Tổng kim ngạch xuất khẩu năm 2014 dự kiến đạt 1.413 triệu USD, tăng 36,18% so năm trước. Trong đó, kinh tế có vốn đầu tư nước ngoài đạt 1.293 triệu USD, tăng 39,70 %; kinh tế trong nước 119,8 triệu USD, tăng 7,07%. Tổng kim ngạch nhập khẩu năm 2014 đạt 1.955,3 triệu USD, tăng 8,95% so với năm trư­ớc. Trong đó, kinh tế trong nước đạt 114,5 triệu USD, giảm 35,44%; kinh tế có vốn đầu tư nước ngoài 1.840,8 triệu USD, tăng13,82% so năm trước. Khu vực kinh tế có vốn đầu tư nước ngoài ngày càng&nbsp; chiếm tỷ trọng cao trong tổng giá trị hàng nhập khẩu. Cơ cấu giá trị hàng nhập khẩu có sự thay đổi đáng kể. Tổng thu ngân sách nhà nước trên địa bàn năm 2014 xấp xỉ 21.000 tỷ đồng, vượt dự toán đề ra, tăng 6,42% so với năm 2013. Chi ngân sách địa phương đáp ứng kịp thời nhiệm vụ chi của tỉnh, dự kiến cả năm đạt 17.212,2 tỷ đồng vượt dự toán và tăng 14% so với năm 2013.
+*Năm 2019 tốc độ tăng trưởng kinh tế đạt 8,06%, quy mô nền kinh tế đạt 118.400 tỷ đồng. Cơ cấu kinh tế:Nông - lâm - thủy sản chỉ chiếm 5,45%. Trong năm 2019 toàn tỉnh thu hút được 870 triệu USD vốn FDI và 13.55 nghìn tỷ đồng vốn DDI. Lũy kể có.....
+
+===Công nghiệp===
+Vĩnh Phúc là một tỉnh thuộc vùng kinh tế trọng điểm Bắc Bộ, được thủ tướng chính phủ phê duyệt xây dựng 20 khu công nghiệp. Và 41 cụm công nghiệp trong đề án quy hoạch phát triển ngành công nghiệp Vĩnh Phúc đến năm 2020 và định hướng đến năm 2030.
+{|
+|valign="top"|
+*KCN Kim Hoa
+*KCN Bình xuyên I
+*KCN Bình Xuyên II
+*KCN Bá Thiện I
+*KCN Bá Thiện II
+*KCN Sơn Lôi
+*KCN Khai Quang
+*KCN Chấn Hưng
+*KCN Phúc Yên
+*KCN Nam Bình Xuyên 
+*KCN Vĩnh Tường (dự kiến xd trong 2015-2020)
+*KCN Vĩnh Thịnh (dự kiến xd trong 2015-2020)
+*KCN Tam Dương 1 
+*KCN Tam Dương 2 (dự kiến xd trước 2015)
+*KCN Lập Thạch 1
+*KCN Lập Thạch 2(dự kiến xd trước 2015)
+*Các KCN Thái Hòa, Liễn Sơn, Liên Hòa (dự kiến xây dựng trong giai đoạn 2015-2020)
+*KCN Sông Lô 1 (dự kiến xd trong 2015-2020)
+*KCN Sông Lô 2 (dự kiến xd trong 2015-2020)
+|valign="top"|
+*Cụm công nghiệp Hương Canh
+*Cụm công nghiệp Thanh Lãng
+*Cụm công nghiệp Lý Nhân
+*Cụm công nghiệp Vĩnh Sơn
+*Cụm công nghiệp Tân Tiến
+*Cụm công nghiệp Đồng Văn
+*Cụm công nghiệp thị trấn Yên Lạc
+*Cụm công nghiệp Yên Đồng
+*Cụm công nghiệp Tề Lỗ
+Và nhiều các cụm công nghiệp khác.
+|}
+Hiện nay trên địa bàn đã có chủ đầu tư các khu công nghiệp:
+* KCN Kim Hoa
+* KCN Khai Quang
+* KCN Bình Xuyên
+* KCN Bình Xuyên II
+* KCN Bá Thiện
+* KCN Bá Thiện II
+* KCN Tam Dương II (Khu A, B)
+* KCN Chấn Hưng
+*KCN Thăng Long III
+
+=== Thương mại ===
+Cùng với hệ thống chợ truyền thống thì hệ thống siêu thị, trung tâm thương mại trên địa bàn Vĩnh Phúc khá sôi động và đầy đủ các thương hiệu lớn, phục vụ nhu cầu mua sắm và góp phần nâng cao phong cách tiêu dùng mua sắm người dân trong tỉnh, bao gồm:
+* Chợ - Trung tâm thương mại Vĩnh Yên
+* Chợ - Trung tâm thương mại Yên Lạc
+* Chợ - Trung tâm thương mại Vĩnh Tường
+* Chợ - Trung tâm thương mại Tam Dương
+* Chợ - Trung tâm thương mại Hương Canh - Bình Xuyên
+* Siêu thị GO (Big C)
+* Siêu thị Co.op Mart
+* Siêu thị An Phú
+* Siêu thị Media Mart
+* Siêu thị điện máy HC 
+* Trung tâm điện máy Chất Mai
+* Siêu thị sách Nguyễn Văn Cừ
+* Trung tâm thương mại Soiva Plaza
+* Siêu thị điện máy Pico
+* Siêu thị điện máy Trần Anh
+* Siêu thị điện máy Hương Anh
+* Siêu thị Lanchi Mart
+
+=== Y tế ===
+Một số mốc thời gian của ngành y tế Vĩnh Phúc:
+*Năm 1997 Vĩnh Phúc có 4,6 bác sĩ/10 nghìn dân; 8,1% trạm y tế có Bác sĩ.
+*Đến năm 2012, Vĩnh phúc đã đạt tỷ lệ 7,5 bác sĩ/10nghìn dân; 87,6% trạm y tế có Bác sĩ,bình quân đạt 24 giường bệnh/10nghìn dân.
+* Sau 15 năm tái lập tỉnh: sự nghiệp chăm sóc,bảo vệ và nâng cao sức khỏe của nhân dân trong tỉnh có nhiều tiến bộ vượt bực, các chương trình y tế quốc gia triển khai có hiểu quả. Đến nay, Vĩnh Phúc đã có 132/137 xã, phường, thị trấn đạt chuẩn quốc gia về y tế và 100% trạm y tế được đầu tư kiên cố. &nbsp;&nbsp;
+* Hiện nay trên toàn tỉnh có 17 bệnh viện với quy mô 3.090 giường bệnh; 37 phòng khám đa khoa khu vực và 139 trạm y tế xã/phường. Một doanh nghiệp của Singapore đang đầu tư Bệnh viện chăm sóc sức khỏe khá lớn và hiện đại. Tỉnh đang đầu tư xây dựng mới Bệnh viện Đa khoa tỉnh và Bệnh viện sản nhi tỉnh tầm cỡ khu vực...
+Vĩnh Phúc có 1 bệnh viện tuyến TW, 6 bệnh viện trực thuộc tỉnh, 9 bệnh viện cấp huyện và nhiều phòng khám, trung tâm y tế. Các bệnh viện thuộc tuyến tỉnh và trung ương (không kể bệnh viên tư, cấp huyện, phòng khám, trung tâm y tế):
+
+Danh sách các bệnh viện tuyến TƯ, tỉnh.
+*Bệnh viện 74 Trung ương (trực thuộc TW).
+*Bệnh viện Đa Khoa Tỉnh Vĩnh Phúc
+* Bệnh viện Đa Khoa KV Phúc Yên.
+*Bệnh viện quân y 109.
+*Bệnh viện giao thông vận tải tỉnh Vĩnh Phúc (BV ngành)
+*Bệnh viện hữu nghị Lạc Việt (BV tư nhân).
+*Bệnh viện Y học cổ truyền Vĩnh Phúc.
+*Bệnh viện Phục hồi chức năng Vĩnh Phúc.
+*Bệnh viện Sản Nhi tỉnh Vĩnh Phúc.
+*Bệnh viện tâm thần Vĩnh Phúc.
+
+=== Giáo dục ===
+Trong những năm qua ngành giáo dục của tỉnh Vĩnh Phúc đã có những bước tiến vượt bậc là một trong những tỉnh,thành có chất lượng giáo dục cao nhất cả nước, 3 năm liền (2022, 2023 và 2024) Vĩnh Phúc đứng đầu cả nước về điểm trung bình thi đại học. Năm 2023, học sinh Vĩnh Phúc đạt 1 huy chương bạc Olympic Toán, 1 huy chương đồng Olympic sinh học quốc tế, 49 học sinh đạt giải trong kỳ thi học sinh giỏi quốc gia.
+
+Năm 2024 học sinh Vĩnh Phúc đứng thứ 6 cả nước về số giải trong kỳ thi học sinh giỏi 2024 với 67 giải, tiếp tục khẳng định vị trí số 1 toàn quốc về điểm trung bình 3 môn thi đại học.
+
+==== Học viện - Đại học - Cao đẳng - THCN ====
+*[[Trường Đại học Công nghệ Giao thông Vận tải]] (cơ sở tại thành phố [[Vĩnh Yên]]) 
+*[[Trường Đại học Sư phạm Hà Nội 2]] 
+*[[Trường Đại học Kiến trúc Hà Nội]] (cơ sở tại thành phố [[Phúc Yên]]). 
+*[[Trường Đại học Trưng Vương]]
+*[[Trường Sĩ quan Tăng – Thiết giáp|Trường Đại học Sĩ quan Tăng - Thiết giáp]]
+*[[Học viện Kỹ thuật Quân sự]] (cơ sở tại thành phố Vĩnh Yên)
+*Trường Cao đẳng Công nghiệp Thương Mại
+*Trường Cao đẳng Kinh tế - Kỹ thuật tỉnh Vĩnh Phúc
+*Trường Cao đẳng Vĩnh Phúc (tiền thân là Trường Cao đẳng Sư phạm Vĩnh Phúc)
+* [https://www.facebook.com/caodangnghevinhphuc Trường Cao đẳng nghề Vĩnh Phúc]
+*Trường Cao đẳng nghề Cơ khí Nông nghiệp
+*Trường Cao đẳng nghề Việt - Xô số 1
+*Trường Trung cấp Công nghệ Vĩnh Phúc
+*Trường Trung cấp Kinh doanh và Quản lý Tâm Tín
+*Trường Trung cấp Kỹ thuật Vĩnh Phúc
+*Trường Trung cấp Y tế Vĩnh Phúc
+*Hệ Trung cấp trong Trường Cao đẳng Kinh tế Kỹ thuật Vĩnh Phúc
+*Hệ Trung cấp trong Trường Cao đẳng Sư phạm Vĩnh Phúc.
+* Trường Cao Đẳng Nghề số 2 BQP
+
+=== Thể dục, thể thao ===
+* Nhà thi đấu tỉnh Vĩnh Phúc nằm bên quốc lộ số 2, ngay ngã ba đường vào thành phố Vĩnh Yên là nơi tổ chức các hoạt động thể thao và văn hóa- xã hội của tỉnh. Đây cũng là nơi tổ chức các sự kiện thể thao mang tầm quốc gia, quốc tế như: diễn ra môn đá cầu tại [[Đại hội Thể thao Đông Nam Á 2003]], [[VTV Cup]], Salonpas cup, giải bóng chuyền Nữ thế giới, giải Eximbank cúp và giải bóng chuyền Nam Asian cup, gần đây nhất là [[Đại hội Thể thao Đông Nam Á 2021]].
+* Sân Golf Tam Đảo Golf Resort là sân golf 27 hố, là một trong sân golf quốc tế xây dựng đầu tiên ở Việt Nam. Đây là nơi tổ chức các giải đấu trong nước, quốc tế như: Giải vô địch Câu lạc bộ sân golf Tam Đảo - Vòng loại MercedesTrophy(2011), Giải vô địch thường niên Câu lạc bộ sân golf Tam Đảo, Giải Tập đoàn VC Group, Giải thường niên Câu lạc bộ Hà Nội, Giải golf vô địch JBAV Kogyo Bukai lần 3 Golf Competition(2011), Giải golf mùa Xuân Câu lạc bộ golf Nữ Hà Nôi(2011), Giải golf Johnnie Walker Blue Label Trophy...
+* Ngoài ra, Vĩnh phúc còn có Sân Golf [[Đầm Vạc]] Golf Club và các trung tâm thể dục thể thao khác tại các huyện, thành phố để phục vụ cho hoạt động thể dục, thể thao của người dân trong tỉnh.
+
+== Du lịch ==
+Vĩnh Phúc có nhiều cảnh quan và danh thắng kỳ thú như khu danh thắng Tây Thiên với [[Thiền Viện Trúc Lâm Tây Thiên]] (là một trong 3 thiền viện lớn nhất Việt Nam cùng với Yên Tử và Đà Lạt), khu nghỉ mát Tam Đảo, tháp Bình Sơn, [[đền Gia Loan]] - [[chùa Biện Sơn]],... là nơi để phát triển các loại hình du lịch như tham quan, nghỉ mát,... Ngoài ra còn có trên 500 di tích lịch sử, văn hoá với 170 di tích được xếp hạng, trong đó 67 di tích được xếp hạng cấp quốc gia. Vĩnh Phúc còn có nhiều đầm hồ ở những địa thế đẹp có thể phát triển thành điểm du lịch nghỉ dưỡng hấp dẫn.
+[[Tập tin:Binh Son tower 2.jpg|nhỏ|250px|Tháp Bình Sơn]]
+
+=== Lễ hội ===
+*Hội bơi trải Tứ Yên (Tứ Yên, huyện Sông Lô) vào 2 ngày 25, 26 tháng 5 âm lịch hàng năm.
+*Lễ hội xuống đồng (xã Quang Yên, Sông Lô), lễ hội đồng bào dân tộc Cao Lan, được tổ chức vào tháng giêng hàng năm.
+*Lễ hội Tứ dân chi nghiệp (xã Đại Đồng, huyện Vĩnh Tường) tổ chức vào ngày 20 tháng giêng.
+*Lễ hội Đúc Bụt làng Phù Liễn (xã Đồng Tĩnh – huyện [[Tam Dương]]) vào mồng 8 tháng giêng dân làng tổ chức lễ hội đúc "Bụt" tại đình làng.
+*Lễ hội [[đền Gia Loan - chùa Biện Sơn]] tôn vinh tướng quân [[Nguyễn Khoan]] thời [[12 sứ quân]].
+*Lễ hội Đả cầu cướp phết diễn ra chiều ngày 7 tháng giêng hàng năm tại đền Đông Lai, xã Bàn Giản, huyện Lập Thạch.
+*[[Lễ hội chọi trâu Hải Lựu|Lễ hội đình Tích Sơn]] diễn ra hàng năm vào ngày 3 tháng Giêng âm lịch tại đình Tích Sơn thuộc phường Tích Sơn, thành phố Vĩnh Yên. Đình thờ 7 anh em Lỗ Bình Sơn (7 anh em nhà họ Lỗ, đời nhà Trần).
+*[[Lễ hội chọi trâu Hải Lựu|Lễ hội Sơn Đồng]] thuộc xã Sơn Đông, huyện Lập Thạch từ ngày 4 đến 6 tháng Giêng. Hội có lễ tế ông Bách (lạc tướng vua Hùng) và ông Điền (trông coi nghề cầy cấy).
+*[[Lễ hội chọi trâu Hải Lựu]] ở xã Hải Lựu, Sông Lô, Vĩnh Phúc.
+*Hội vật làng Hà (xã Hồ Sơn,Tam Đảo) diễn ra vào mồng 7 tháng Giêng.
+*Lễ hội Tây Thiên (xã Đại Đình, Tam Đảo) vào 15/2 âm lịch. Là một trong 3 lễ hội lớn nhất miền Bắc.
+*Lễ hội Kéo Song (Hương Canh, Bình Xuyên) mùng 3 – 5 âm lịch.(Tết Nguyên Đán).
+*Lễ hội Đình Thổ Tang diễn ra vào 10 tháng giêng.
+*Lễ hội đền Ngự Dội (xã Vĩnh Ninh, Vĩnh Tường) vào ngày 14, 15 tháng giêng.
+*Lễ hội đền Ngô Tướng Công (thành phố Phúc Yên) vào 9 tháng Giêng.
+*Lễ hội Đền Thính (xã Tam Hồng, Yên Lạc) vào ngày mùng 6 tháng Giêng.
+*Lễ hội chợ Rưng (thị trấn Tứ Trưng, Vĩnh Tường) vào ngày mùng 6 tháng giêng hàng năm.
+* Lễ hội vật, Đánh cờ người làng Hoàng Chung xã Đồng Ích ngày mùng 10 tháng giêng âm lịch hàng năm.
+*Lễ hội Kéo Co (thôn Hòa Loan, xã Lũng Hòa, Vĩnh Tường) từ ngày mùng 4 đến mùng 8 tháng Giêng âm lịch hàng năm.
+
+=== Danh sách lịch sử cấp quốc gia===
+[[Tập tin:Zen Monastery Truc Lam Tay Thien.JPG|nhỏ|250px|phải|[[Thiền viện Trúc Lâm Tây Thiên]]]]
+* Ở huyện Lập Thạch: đền thờ Lưỡng Quốc Tiến Sĩ Triệu Thái
+*Ở huyện Vĩnh Tường:
+Chùa Tùng Vân, [[Đình Thổ Tang]], Đình Bích Chu, Đình Thủ Độ, Đình Cam Giá, Đền Phú Đa, Đình Hòa Loan, Cụm di tích thờ Lê Ngọc Chinh (đền Ngòi, đình Đông, đình Nam), Đền Đuông, Chùa Thượng Trưng, Địa điểm lưu niệm Chủ tịch Hồ Chí Minh, Chùa Hoa Dương, Đình - chùa Vĩnh Sơn, Đình Sông Kênh, Đình Tuân Lộ.
+*Ở huyện Yên Lạc:
+Đền Thính, Đền Tranh, Đền Đồng Lạc, Đình Yên Lạc, Đình Hùng Vĩ, Chùa Tiền Môn, Chùa Đại An, Đình Tri Chỉ, Đình Yên Nội, [[Chùa Biện Sơn]], Di tích khảo cổ học Đồng Đậu.
+*Ở Thành phố Phúc Yên:
+Chiến khu Ngọc Thanh, Chùa Bảo Sơn, Đình Khả Do, Đình Cao Quang, Đền Ngô Miễn, Đình Đạm Xuyên, Đình Sen Hồ, Đền Trần Nguyên Hãn, Đền Đỗ Khắc Chung, Chùa Vĩnh Phúc, Đình Tây Hạ, Chùa Đông Lai, Đền Triệu Thái, Đình Ngõa, Đình Đình Chu, Đình Thạch Trục, Đình Tiên Lữ.
+*Ở huyện Sông Lô
+[[Tháp Bình Sơn]]
+[[Thiền Viện Trúc Lâm Tuệ Đức]]
+*Ở huyện Bình Xuyên:
+Đình Hương Canh, Đình Ngọc Canh, Đình Tiên Hường, Chùa Kính Phúc, Đền Xuân Lãng, Chùa Quảng Hựu, Đền Thánh Mẫu, Đình Mộ Đạo - Đình Bảo Đức - Đình Đại Phúc, Chùa Can Bi, Đình Quất Lưu.
+*Ở huyện Tam Đảo:
+Khu thắng cảnh Tây Thiên (Đền Mẫu Sinh- Đền Cô, Đền Cậu- Đền Thượng- Đền Thõng- [[Thiền viện Trúc Lâm Tây Thiên]])
+*Ở huyện Tam Dương:
+Đình Thứa Thượng, Đình Phú Vinh
+
+Ở thành phố Vĩnh Yên:
+
+Đình Đông Đạo, Chùa Tích Sơn, Chua Hà.
+
+=== Khu, điểm du lịch nổi tiếng ===
+*Khu du lịch [[Tam Đảo]].
+*Khu du lịch [[Hồ Đại Lải]][[Tập tin:Bãi tắm hồ Đại Lải.jpg|nhỏ|phải|300px|giữa|Hồ Đại Lải]]
+*Khu du lịch Đầm Vạc.
+*[[Khu di tích đền Gia Loan - chùa Biện Sơn]]
+*[[Thiền viện Trúc Lâm Tây Thiên]].
+*Làng gốm [[Hương Canh]].
+*[[Tháp Bình Sơn]].
+*Thiền viện Trúc Lâm Tuệ Đức.
+*Đền thờ tả tướng quốc [[Trần Nguyên Hãn]].
+
+==Giao thông==
+=== Các tuyến đường nối ===
+Đường bộ có [[quốc lộ 2]], [[quốc lộ 23]] đi qua. [[Đường cao tốc Nội Bài – Lào Cai]] đi qua 5 huyện thị: [[Phúc Yên|thành phố Phúc Yên]], [[Bình Xuyên]], [[Tam Dương]], [[Lập Thạch]], [[Sông Lô (huyện)|Sông Lô]]. Đường sắt có [[đường sắt Hà Nội - Lào Cai]] đi qua 5 huyện thị: thành phố Phúc Yên, Bình Xuyên, [[thành phố Vĩnh Yên]], Tam Dương, [[Vĩnh Tường]]. Đường thủy có [[sông Hồng]] chảy qua.
+
+=== Các tuyến xe buýt ===
+<u>'''A. Các tuyến xe buýt nội tỉnh và liên tỉnh có trợ giá của tỉnh [[Vĩnh Phúc]]''' (có thể xem cập nhật tình hình mới các tuyến xe buýt của tỉnh Vĩnh Phúc qua nhóm Facebook "[https://www.facebook.com/groups/845021106177838/ Bus Vĩnh Phúc (VP01,03,04,05,06,07,08,09,10)]" )</u><ref>{{Chú thích web|url=https://laodong.vn/xa-hoi/6-tuyen-buyt-o-vinh-phuc-hoat-dong-tro-lai-sau-gan-mot-nam-xay-ra-dinh-cong-1248725.ldo|website=laodong.vn|ngày truy cập=2024-10-13}}</ref>
+*'''VP01 [<nowiki/>[[Bồ Sao]] – Trung tâm thương mại Mê Linh Plaza]''' (Giá vé: '''10000 đồng/lượt''', tần suất 10- 20 phút/chuyến): Bồ Sao (Vĩnh Tường) – Ngã ba Vĩnh Tường – Hợp Thịnh (Điểm giao tuyến 04) – Vĩnh Yên – Siêu Thị Sài Gòn Co.opMart - KCN Khai Quang – BX Vĩnh Yên mới(Điểm giao tuyến 03, 04, 05, 06, 07) BigC Vĩnh Phúc – Hương Canh (Đầm Cả) (Điểm giao tuyến 08,09) - QL2– Phúc Yên - Sóc Sơn – Võ Văn Kiệt - Mê Linh Plaza (Điểm giao Tuyến 07, 56A, 58, 64, 93, 95, 109 Hà Nội).
+*'''VP03 [Vĩnh Yên- Sông Lô (TT. [[Tam Sơn, Sông Lô|Tam Sơn]])]''' (Giá vé: '''10000 đồng/lượt''', tần suất 30- 60 phút/chuyến; xem bản đồ của tuyến tại [https://map.busmap.vn/hn/route/12989 đây]): Bến xe Vĩnh Yên – Đ.Nguyễn Tất Thành – Đ.Triệu Thái- Đ.Phạm Công Bình - Đ.Nguyễn Tông Lỗi - Đ.Hàm Nghi - Đ.Phùng Hưng - Đ.Lạc Long Quân-Đ.Nguyễn Tất Thành (cả tuyến)– Ngã tư T50 – Ngã ba Tam Dương – Ngã tư Quán Tiên - ĐT305 – Chợ Vàng – Đồng Ích – Tiên Lữ - Xuân Lôi - TT Lập Thạch – ĐT307 - Tân Lập – ĐT307B - Nhạo Sơn – TT.Tam Sơn – Bến xe Sông Lô.
+*'''VP04 [Vĩnh Yên - Cao Đại (Vĩnh Tường)]''' (Giá vé: '''10000 đồng/ lượt''', tần suất 20 - 50  phút/chuyến; xem bản đồ của tuyến tại [https://map.busmap.vn/hn/route/12992 đây]): Bến xe Vĩnh Yên (mới) – Đ. Nguyễn Tất Thành – Đ. Tôn Đức Thắng – Siêu thị Coopmark – Đ. Mê Linh – Đ. Kim Ngọc – Ngã ba Tam Dương – Ngã tư Quán Tiên – Hợp Thịnh – Bệnh viện Sản Nhi – Đồng Văn – Tề Lỗ - QL. 2C – Ngã Tư Văn Xuân – TT. Vĩnh Tường – Thượng Trưng – Cao Đại.
+*'''VP05 [Vĩnh Yên – Yên Lạc – Vĩnh Thịnh]''' (Giá vé: '''10000 đồng/ lượt''', tần suất 40-50 phút/chuyến; xem bản đồ của tuyến tại [https://map.busmap.vn/hn/route/12993 đây]): BX Vĩnh Yên (mới) - KCN Khai Quang – Siêu thị Sài Gòn Co.opMart – Bưu điện Tỉnh – Ngã tư Quán Tiên – Đồng Cương – Minh Tân – TT Yên Lạc – Dốc Lũng Hạ - Trường THPT Yên Lạc 2 – Liên Châu – Đại Tự - Ngũ Kiên (Vĩnh Tường) – TT Tứ Trưng (Vĩnh Tường) – TT Vĩnh Tường – Trường THPT Đội Cấn (THPT Hồ Xuân Hương) – Bến phà Vĩnh Thịnh.
+*'''VP06 [Vĩnh Yên – Lập Thạch (Quang Sơn)]''' (Giá vé: '''10000 đồng/ lượt''', tần suất 20-50 phút/chuyến; xem bản đồ của tuyến tại [https://map.busmap.vn/hn/route/12994 đây]): Bến xe Vĩnh Yên – Đ.Nguyễn Tất Thành – Đ.Triệu Thái-Đ.Phạm Công Bình-Đ.Nguyễn Tông Lỗi - Đ.Hàm Nghi - Đ.Phùng Hưng - Đ.Lạc Long Quân-Đ.Nguyễn Tất Thành(cả tuyến)– Ngã tư T50 – Ngã ba Tam Dương – Đạo Tú - QL2C- TT.Hợp Hòa – Thái Hòa – Bắc Bình – Hợp Lý – Quang Sơn.
+* '''VP07 [Vĩnh Yên – Bồ Lý (Tam Đảo)]''' (Giá vé: '''7000 đồng/ lượt''', tần suất 10- 20- 30-40 phút/ chuyến): BX Vĩnh Yên (mới) - KCN Khai Quang - Tôn Đức Thắng - Mê Linh - Trần Phú - Chùa Hà Tiên - QL 2B – Kim Long (giao điểm xe VP09) - Hợp Châu – Hồ Sơn - Tam Quan – Đại Đình – Đạo Trù – Bồ Lý.
+*'''VP08 [Phúc Yên - Vĩnh Tường (BX TT Vĩnh Tường)]''' (Giá vé: '''10000 đồng/ lượt''', tần suất 30-50 phút/chuyến; xem bản đồ của tuyến tại [https://map.busmap.vn/hn/route/12990 đây]): Điểm đầu QL.23 - Ngã tư Phúc Yên - Đường nội thị Phúc Yên - ĐT.301- Xuân Hòa - Trường ĐHSP Hà Nội 2 - Nhà 4 máy xe đạp Xuân Hòa-ĐT.310 - Khu CN Bá Thiện II - ĐT.310 - ĐT.310B - KCN Bá Thiện - KCN Bình Xuyên - QL.2 - Đầm Cả - ĐT.303 - Nguyệt Đức - Thị trấn Yên Lạc - Tam Hồng - ĐT.304 - Yên Đồng - Tứ Trưng - Bến xe Trung tâm Thị trấn Vĩnh Tường
+*'''VP09 [Vĩnh Tường – Phúc Yên 2]''' (Giá vé: '''8000 đồng/ lượt''', tần suất 30- 40 phút/ chuyến; xem bản đồ của tuyến tại [https://wikiroutes.info/en/vinh-yen?routes=78125 đây]): Kim Xá - Hoàng Đan - An Hòa - Ngã tư Me '''(giao với tuyến VP06)''' - Hợp Hòa - ĐT309 - Hướng Đạo - Kim Long - QL2B '''(giao với tuyến VP07 đi Tam Đảo, Tây Thiên, Thiền viện hoặc ra Vĩnh Yên)''' - Gia Khánh '''(giao với tuyến VP10)''' - Hương Sơn - Tam Hợp - Hương Canh '''(giao với tuyến VP01)''' - QL2 - QL23 - Thanh Tước (Phúc Yên, giao với các tuyến xe buýt đi Hà Nội '''(58,63,35B)''')
+*'''VP10 [Bến xe thị trấn Lập Thạch – Bến xe Phúc Yên]''' (Giá vé: '''10000 đồng/ lượt''', tần suất 20-40 phút/chuyến; xem bản đồ của tuyến tại [https://map.busmap.vn/hn/route/12991 đây]): BX Lập Thạch – đường 307 – thị trấn Hoa Sơn – QL 2C – cầu Liễn Sơn – đường Hợp Châu – Đồng Tĩnh – giao Hợp Châu Đồng Tĩnh với QL 2B  - đường tỉnh 310 – KCN Bá Thiện 2 – ĐT 310B – KCN Thăng Long – KCN Bình Xuyên – ngã 5 giao Nguyễn Tất Thành – Nguyễn Tất Thành (qua Bình Xuyên – Phúc Yên) – BX Phúc Yên (Nam Viêm).
+(Ngoài ra có thể xem định hướng quy hoạch mạng lưới các tuyến xe buýt trên địa bàn tỉnh Vĩnh Phúc trong '''Đề án nâng cao chất lượng vận tải hành khách công cộng bằng xe buýt trên địa bàn tỉnh Vĩnh Phúc giai đoạn 2021-2025''' tại [https://congbao.vinhphuc.gov.vn/congbao/congbao.nsf/str/8056E1760F0A5650472586B8000A53D2?OpenDocument đây]''')'''
+
+<u>'''B. Các tuyến xe buýt thuộc hệ thống [[xe buýt Hà Nội]]''' có kết nối với tỉnh [[Vĩnh Phúc]]:</u>
+*'''58''' ['''Long Biên- Thạch Đà]''' ('''Giá vé: 20000 đồng/ lượt''', tần suất 10- 15 phút/ chuyến; xem bản đồ của tuyến tại [https://map.busmap.vn/hn/route/58 đây]): Long Biên (Yên Phụ - đoạn từ Hàng Than đến Hoè Nhai) - Quay đầu đối diện Hàng Than - Yên Phụ - Điểm trung chuyển Long Biên (tuyến đường 3) - Trần Nhật Duật (Quay đầu tại phố Hàng Khoai) - Yên Phụ - Nghi Tàm – Âu Cơ – An Dương Vương – đường gầm cầu Thăng Long – Cầu Thăng Long - Cao tốc Bắc Thăng Long Nội Bài – Trạm thu phí Thăng Long - Ngã tư Quốc lộ 2 Cao tốc Thăng Long Nội Bài- Quốc Lộ 2 - Trạm thu phí số 1 QL2- Hai Bà Trưng (Phúc Yên- Vĩnh Phúc)- Nguyễn Trãi (Phúc Yên- Vĩnh Phúc) - Cây đa Thanh Tước- QL 23B – Tam Đồng - Thạch Đà (Mê Linh) (Trước cổng Bệnh viện Đa khoa Mê Linh). Qua các phường Phúc Thắng, Hùng Vương (TP Phúc Yên)
+*'''63 [KCN Bắc Thăng Long- Tiến Thịnh (Mê Linh) ]''' ('''Giá vé: 12000 đồng/ lượt''', tần suất 15-20 phút/ chuyến; xem bản đồ của tuyến tại [https://map.busmap.vn/hn/route/63 đây]): KCN Bắc Thăng Long - Đại Mạch - Yên Nhân - Quốc lộ 23B - Nguyễn Trãi (Phúc Yên) - Hai Bà Trưng (Phúc Yên) - Quốc lộ 2 - Tiền Châu - Bạch Trữ - Rẽ phải theo tổ chức giao thông - Cầu Soi - quay đầu tại điểm mở - Cầu Soi - Bạch Trữ - Tự Lập - Liên Mạc - Tiến Thịnh (Mê Linh). Qua các phường Hùng Vương, Tiền Châu (TP Phúc Yên)
+*'''95 [BX Nam Thăng Long- Xuân Hòa (ĐHSPHN2)]''' ('''Giá vé: 12000 đồng/ lượt''', tần suất 20- 25 phút/ chuyến; xem bản đồ của tuyến tại [https://map.busmap.vn/hn/route/95 đây]): Nam Thăng Long (bãi đỗ xe buýt Nam Thăng Long) - Phạm Văn Đồng - Cầu Thăng Long - Võ Văn Kiệt - Quốc lộ 2 - đường nối quốc lộ 2, Xuân Hoà (qua các xã Thanh Xuân, xã Tân Dân, xã Minh Trí) - Cầu Tre - Trường Chinh (Phúc Yên) - Nguyễn Văn Linh (Phúc Yên) - Xuân Hòa (khu giảng đường E, trường đại học Sư phạm Hà Nội 2, đường Nguyễn Văn Linh, phường Xuân Hòa, TP Phúc Yên, tỉnh Vĩnh Phúc) qua phường Xuân Hòa (TP Phúc Yên)
+
+== Tỉnh kết nghĩa ==
+*{{flagicon|VIE}} Tỉnh [[Bến Tre]] ([[Việt Nam]])
+* {{flagicon|KOR}} Tỉnh [[Chungcheongbuk]] ([[Hàn Quốc]])
+*{{flagicon|LAO}} Tỉnh [[Luang Namtha]] ([[Lào]])
+*{{flagicon|LAO}} Tỉnh [[Oudomxay]] ([[Lào]])
+*{{flagicon|LAO}} Tỉnh [[Phongsaly]] ([[Lào]]).
+
+== Văn hóa ==
+===Các công trình văn hóa tiêu biểu===
+
+* Quảng trường, công viên tỉnh Vĩnh Phúc
+* Nhà hát tỉnh Vĩnh Phúc
+* Rạp ngoài trời Hoàng Quy
+* Rạp chiếu phim 19/05
+* Bảo tàng Vĩnh Phúc.
+* [[Nhà hát Chèo Vĩnh Phúc]]
+* Nhà thi đấu tỉnh Vĩnh Phúc
+* Văn miếu tỉnh Vĩnh Phúc
+* Chùa Hà Tiên (thành phố Vĩnh Yên)
+* Tháp Bình Sơn (Sông Lô)
+* Nhà thờ đá Tam Đảo
+* Đền Thính - Yên Lạc
+* Đền bà chúa Thượng Ngàn 
+* Tháp Truyền hình Tam Đảo.
+* Thiền viện trúc lâm Tây Thiên
+* Thiền viện trúc lâm An Tâm
+* Thiền viện trúc lâm Tuệ Đức 
+* Đại bảo tháp Madala Kim Cương Thừa
+* Cáp treo Tây Thiên
+* Đền Quốc Mẫu Tây Thiên.
+
+=== Đặc sản ẩm thực ===
+[[Tập tin:Cathinh.jpg|nhỏ|trái|160px|Cá thính]]
+Các đặc sản ẩm thực địa phương ở Vĩnh Phúc như: nộm vó cần Hương Canh, cá thính Văn Quán, bánh hòn Hội Hợp, đậu rùa Tuân Chính, bánh chưng Diệm Xuân, cá tép dầu đầm Vạc, bánh trùng mật mía Vĩnh Tường, bánh tráng Bảo Đức, trà hoa vàng Tam Đảo, xôi Trung Mỹ, dứa Tam Dương, chè kho Tứ Yên, bánh ngõa Lũng Ngoại, na dai Bồ Lý, măng Tam Đảo, măng ngâm ớt Tam Đảo, gạo gié cánh Hương Canh, thịt chó kiểu Ngũ Kiên, tương ngô Khả Do, bún bánh cuốn Hòa Loan, bánh tai mèo hành Kẻ Mỏ, rắn Vĩnh Sơn, bánh tẻ Tứ Yên, bánh gạo rang Tiên Lữ, bò tái kiến đốt Tam Đảo, tương gạo Láng, mắm tép Đức Bác, gà thả đồi, cháo se bánh hòn Hương Canh, bánh tro Tây Đình, chuối tiêu hồng Liên Châu, rượu rắn Vĩnh Sơn, mì gạo Bồ Sao, su su Tam Đảo, gạo Long Trì, rượu nếp Vân Giang, bánh nẳng chợ Tràng.
+
+=== Làng nghề truyền thống ===
+{|
+|valign="top"|
+*Làng Gốm truyền thống Hương Canh
+*Làng Mộc truyền thống Hợp Lễ
+*Làng Mộc truyền thống Yên Lan
+*Làng Mộc truyền thống Thanh Lãng
+*Làng nghề mây tre đan thôn mới–Cao Phong 
+*Làng Đá truyền thống Hải Lựu
+|valign="top"|
+*Làng Mây tre đan truyền thống Triệu Xá
+*Làng Mây tre đan truyền thống Xuân Lan
+*Làng nghề cơ khí vận tải đường thủy Việt An
+*Làng Rắn truyền thống Vĩnh Sơn
+*Làng rèn truyền thống Bàn Mạch
+*Làng Làng Mộc truyền thống Vân Giang
+|valign="top"| 
+*Làng Mộc truyền thống Văn Hà 
+*Làng Mộc truyền thống Thủ Độ
+*Làng Mộc truyền thống Bích Chu
+*Làng mộc truyền thống Vĩnh Đông
+*Làng đồng nát Tề Lỗ, Yên Lạc
+*Làng Mộc truyền thống Vĩnh Đoài
+*Làng Mộc truyền thống Lũng Hạ
+|valign="top"| 
+*Làng chế biến tơ nhựa Tảo Phú
+*Làng chế biến bông vải sợi thôn gia
+*Làng tái chế nhựa Đông Mẫu
+*Làng mộc truyền thống Vĩnh Trung
+* Làng Bún Bánh truyền thống Hòa Loan
+* 
+|}
+
+== Danh nhân ==
+* [[Trần Nguyên Hãn]], nhà quân sự, công thần khai quốc thời Lê Sơ
+* [[Triệu Thái]]
+* [[Nguyễn Văn Giáp]], một lãnh tụ và danh tướng xuất sắc trong phong trào [[Phong trào Cần Vương|Cần Vương]]
+* [[Nguyễn Thái Học]] nhà cách mạng Việt Nam, thủ lĩnh [[Việt Nam Quốc dân Đảng|Việt Nam Quốc dân đảng]]
+* [[Vũ Hồng Khanh]], nhà cách mạng và chính khách Việt Nam, một trong các thủ lĩnh của Việt Nam Quốc dân đảng
+* [[Lê Xoay]], nhà hoạt động cách mạng Việt Nam, Bí thư đầu tiên của Ban cán sự liên tỉnh Vĩnh Yên - Phúc Yên, tiền thân của Đảng bộ Đảng Cộng sản Việt Nam tỉnh Vĩnh Phúc.
+* [[Kim Ngọc]], nguyên Bí thư Tỉnh ủy tỉnh Vĩnh Phúc, được mệnh danh là "cha đẻ của khoán hộ" mà người ta quen gọi là "khoán mười", "cha đẻ của Đổi mới trong nông nghiệp" ở Việt Nam.
+* [[Nguyễn Viết Xuân]]
+*[[Đào Trọng Lịch]], Trung tướng, Tổng Tham mưu trưởng thứ 8 Quân đội nhân dân Việt Nam, nguyên Thứ trưởng Bộ Quốc Phòng.
+*[[Lê Ngọc Trinh]], nữ tướng thời Hai Bà Trưng.
+*[[Hà Hùng Cường]], nguyên Bộ trưởng Bộ Tư pháp Việt Nam.
+*[[Ngô Văn Dụ]] (Hai Dụ), nguyên Ủy viên Bộ Chính trị khóa XI, nguyên Bí thư Trung ương Đảng, nguyên [[Chủ nhiệm Ủy ban Kiểm tra Trung ương Đảng Cộng sản Việt Nam|Chủ nhiệm Ủy ban Kiểm tra Trung ương]], nguyên Chánh [[Văn phòng Trung ương Đảng Cộng sản Việt Nam|Văn phòng Trung ương Đảng]], Đại biểu Quốc hội Việt Nam khóa XII.
+*[[Trần Việt Khoa]], Thượng tướng Quân đội nhân dân Việt Nam, Giám đốc [[Học viện Quốc phòng (Việt Nam)|Học viện Quốc phòng]].
+*[[Trần Đức Thắng]], Bí thư [[Tỉnh ủy Hải Dương]]
+*[[Nghiêm Xuân Thành]], Bí thư [[Tỉnh ủy Khánh Hòa]]
+*[[Đặng Xuân Phong (chính khách)|Đặng Xuân Phong]], Bí thư [[Tỉnh ủy Vĩnh Phúc]]
+*[[Nguyễn Hải Trung]], Thứ trưởng [[Bộ Dân tộc và Tôn giáo]]
+
+== Tham khảo ==
+{{tham khảo|30em}}
+== Liên kết ngoài ==
+{{thể loại Commons|Vinh Phuc}}
+* [http://www.vinhphuc.gov.vn/pages/Default.aspx Cổng thông tin điện tử Tỉnh Vĩnh Phúc] {{Webarchive|url=https://web.archive.org/web/20130530162900/http://vinhphuc.gov.vn/pages/Default.aspx |date=2013-05-30 }}
+* [http://www.skhdtvinhphuc.gov.vn Cổng thông tin doanh nghiệp và đầu tư Vĩnh Phúc] {{Webarchive|url=https://web.archive.org/web/20161201001157/http://www.skhdtvinhphuc.gov.vn/ |date = ngày 1 tháng 12 năm 2016}}
+* [http://www.ipavinhphuc.vn/ Ban Xúc tiến và Hỗ trợ đầu tư tỉnh Vĩnh Phúc] {{Webarchive|url=https://web.archive.org/web/20131113091112/http://www.ipavinhphuc.vn/ |date=2013-11-13 }}
+* [http://www.vinhphuctv.vn/front-end/index.php Đài PT-TH Vĩnh Phúc] {{Webarchive|url=https://web.archive.org/web/20130606180131/http://www.vinhphuctv.vn/front-end/index.php |date = ngày 6 tháng 6 năm 2013}}
+* [http://www.baovinhphuc.vn Báo Vĩnh Phúc]
+{{Du lịch Xứ Đoài}}
+{{Đơn vị hành chính cấp tỉnh Việt Nam}}
+{{Đơn vị hành chính thuộc tỉnh Vĩnh Phúc}}
+
+[[Thể loại:Vĩnh Phúc| ]]
+[[Thể loại:Đồng bằng sông Hồng]]

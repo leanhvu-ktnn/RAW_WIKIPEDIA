@@ -1,0 +1,1151 @@
+{{pp|dispute|small=yes}}
+{{pp|sock|small=yes}}
+{{pp|vandalism|small=yes}}
+{{nhiều vấn đề|
+{{Chú thích trong bài|date=tháng 7/2026}}
+{{cần biên tập|date=tháng 7/2026}}
+}}
+{{other|Nghệ An (định hướng)}}
+{{Thông tin đơn vị hành chính Việt Nam | Tỉnh
+| tên = Nghệ An
+| tên khác = [[Xứ Nghệ]] (cùng với [[Hà Tĩnh]])
+|biệt danh = Quê hương [[Hồ Chí Minh|Bác Hồ]] <br> Đất học [[Trung Bộ|miền Trung]]
+| logo = Logo tỉnh Nghệ An.svg 
+| ghi chú logo = Biểu trưng
+| nhiều hình = {{multiple image
+| border = infobox
+| total_width = 300
+| caption_align = center
+| image_style = border:1;
+| perrow = 1/2/2
+| image1 = Quangtruonghochiminh.jpg
+| caption1 = Quảng trường Hồ Chí Minh
+| image2 = Bãi biển Cửa Lò..jpg
+| caption2 = [[Bãi biển Cửa Lò]]
+| image3 = Kim Lien Monuments Park.JPG
+| caption3 = [[Khu di tích lịch sử Kim Liên|Khu di tích Kim Liên]]
+| image4 = Congthanhnghean.jpg
+| caption4 = [[Thành cổ Vinh]]
+| image5 = Bản Khe Búng, Xã Môn Sơn, Con Cuông, Nghệ An, Vietnam ②.jpg
+| caption5 = Nông thôn miền núi phía Tây
+}}
+| vĩ độ = 19.176301 
+| kinh độ = 104.977112
+| bản đồ 1 = {{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=2|stroke-color=#000000}}
+| diện tích = 16.486,50 km²<ref name=TT/><ref name="DT">{{Chú thích web|url=https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm|tựa đề= Dự kiến chi tiết diện tích, dân số, quy mô kinh tế của 34 tỉnh, thành mới |tác giả= Lê Hoa |ngày= 2025-06-09 |website= Báo Dân Trí |url lưu trữ=https://web.archive.org/web/20250609217756/https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm|ngày lưu trữ= 2025-06-09 |ngày truy cập= 2025-06-09 |url-status= dead }}</ref>
+| dân số = 3.831.694 người<ref name=TT/><ref name="DT">{{Chú thích web|url=https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm|tựa đề= Dự kiến chi tiết diện tích, dân số, quy mô kinh tế của 34 tỉnh, thành mới |tác giả= Lê Hoa |ngày= 2025-06-09 |website= Báo Dân Trí |url lưu trữ=https://web.archive.org/web/20250609217756/https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm|ngày lưu trữ= 2025-06-09 |ngày truy cập= 2025-06-09 |url-status= dead }}</ref>
+| thời điểm dân số = 31/12/2024
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:3.831.694|R}}/{{formatnum:16.486,50|R}})}} }} người/km²<ref name=TT>{{Chú thích web|url=https://tuoitre.vn/chi-tiet-du-kien-quy-mo-dan-so-dien-tich-kinh-te-cua-34-tinh-thanh-sau-sap-nhap-20250513081155167.htm|tựa đề= Chi tiết dự kiến quy mô dân số, diện tích, kinh tế của 34 tỉnh, thành sau sáp nhập |tác giả= Thành Chung |ngày= 2025-05-13 |website= Tuổi Trẻ Online |url lưu trữ=https://web.archive.org/web/20250513080219/https://tuoitre.vn/chi-tiet-du-kien-quy-mo-dan-so-dien-tich-kinh-te-cua-34-tinh-thanh-sau-sap-nhap-20250513081155167.htm|ngày lưu trữ= 2025-05-13 |ngày truy cập= 2025-05-13 |url-status= dead }}</ref><ref name="DT">{{Chú thích web|url=https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm|tựa đề= Dự kiến chi tiết diện tích, dân số, quy mô kinh tế của 34 tỉnh, thành mới |tác giả= Lê Hoa |ngày= 2025-06-09 |website= Báo Dân Trí |url lưu trữ=https://web.archive.org/web/20250609217756/https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm|ngày lưu trữ= 2025-06-09 |ngày truy cập= 2025-06-09 |url-status= dead }}</ref>
+| dân tộc = [[Người Việt|Kinh]], [[Người Khơ Mú|Khơ Mú]], [[Người Thái (Việt Nam)|Thái]], [[Người Thổ (Việt Nam)|Thổ]], [[Người H'Mông|H'Mông]]...
+| vùng = [[Bắc Trung Bộ]]
+| tỉnh lỵ = Phường [[Trường Vinh]]
+| thành lập = 1831 
+| phân chia hành chính = 11 phường, 119 xã
+| trụ sở UBND = 
+| bí thư = [[Nguyễn Khắc Thận]]
+| chủ tịch UBND = [[Võ Trọng Hải]]
+| hội đồng nhân dân = 83 đại biểu
+| chủ tịch HĐND = [[Hoàng Nghĩa Hiếu]]
+| chủ tịch UBMTTQ = [[Võ Thị Minh Sinh]]
+| chánh án TAND = Trần Ngọc Sơn
+| viện trưởng VKSND = Bùi Việt Cường
+| đại biểu quốc hội = 
+| danh sách đơn vị hành chính = 
+| mã địa lý = [[ISO 3166-2:VN|VN-22]]
+| mã hành chính = 40<ref>{{Chú thích web|url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf|tựa đề= Quyết định số 19/2025/QĐ-TTg về việc ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |ngày= 2025-06-30 |website= Cổng Thông tin điện tử Chính phủ |url lưu trữ=https://web.archive.org/web/20251224142347/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf|ngày lưu trữ= 2025-12-24 |ngày truy cập= 2025-12-24 |url-status= dead }}</ref>
+| mã bưu chính = [[Mã bưu chính Việt Nam|46xxxx-47xxxx]]
+| mã điện thoại = [[Mã điện thoại Việt Nam|238]]
+| biển số xe = [[Biển xe cơ giới Việt Nam|37]]
+| web = {{url|nghean.gov.vn}}
+| thời điểm kinh tế = 2025 <ref name="giongnongnghiepnghean.org.vn">{{Chú thích web|url=https://giongnongnghiepnghean.org.vn/tin-tuc-thoi-su-xa-hoi-chuyen-nganh/tinh-hinh-kinh-te-xa-hoi-tinh-nghe-an-thang-12-va-nam-2025-146.html | |tựa đề = Thông cáo báo chí Tình hình kinh tế xã hội Nghệ An 2025| website = Giống nông nghiệp Nghệ An |ngày truy cập = 2026-04-01 }}</ref>
+| GRDP = 236.500 tỉ đồng (9,4 tỉ USD) <ref name=TT>{{Chú thích web|url=https://tuoitre.vn/chi-tiet-du-kien-quy-mo-dan-so-dien-tich-kinh-te-cua-34-tinh-thanh-sau-sap-nhap-20250513081155167.htm|tựa đề= Chi tiết dự kiến quy mô dân số, diện tích, kinh tế của 34 tỉnh, thành sau sáp nhập |tác giả= Thành Chung |ngày= 2025-05-13 |website= Tuổi Trẻ Online |url lưu trữ=https://web.archive.org/web/20250513080219/https://tuoitre.vn/chi-tiet-du-kien-quy-mo-dan-so-dien-tich-kinh-te-cua-34-tinh-thanh-sau-sap-nhap-20250513081155167.htm|ngày lưu trữ= 2025-05-13 |ngày truy cập= 2025-05-13 |url-status= dead }}</ref><ref name="DT">{{Chú thích web|url=https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm|tựa đề= Dự kiến chi tiết diện tích, dân số, quy mô kinh tế của 34 tỉnh, thành mới |tác giả= Lê Hoa |ngày= 2025-06-09 |website= Báo Dân Trí |url lưu trữ=https://web.archive.org/web/20250609217756/https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm|ngày lưu trữ= 2025-06-09 |ngày truy cập= 2025-06-09 |url-status= dead }}</ref><ref name="giongnongnghiepnghean.org.vn"/>
+| GRDP đầu người = 61,72 triệu đồng (2.455 USD) <ref name=TT>{{Chú thích web|url=https://tuoitre.vn/chi-tiet-du-kien-quy-mo-dan-so-dien-tich-kinh-te-cua-34-tinh-thanh-sau-sap-nhap-20250513081155167.htm|tựa đề= Chi tiết dự kiến quy mô dân số, diện tích, kinh tế của 34 tỉnh, thành sau sáp nhập |tác giả= Thành Chung |ngày= 2025-05-13 |website= Tuổi Trẻ Online |url lưu trữ=https://web.archive.org/web/20250513080219/https://tuoitre.vn/chi-tiet-du-kien-quy-mo-dan-so-dien-tich-kinh-te-cua-34-tinh-thanh-sau-sap-nhap-20250513081155167.htm|ngày lưu trữ= 2025-05-13 |ngày truy cập= 2025-05-13 |url-status= dead }}</ref><ref name="DT">{{Chú thích web|url=https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm|tựa đề= Dự kiến chi tiết diện tích, dân số, quy mô kinh tế của 34 tỉnh, thành mới |tác giả= Lê Hoa |ngày= 2025-06-09 |website= Báo Dân Trí |url lưu trữ=https://web.archive.org/web/20250609217756/https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm|ngày lưu trữ= 2025-06-09 |ngày truy cập= 2025-06-09 |url-status= dead }}</ref><ref name="giongnongnghiepnghean.org.vn"/>
+}}
+'''Nghệ An''' (hay '''Xứ Nghệ''') là một [[tỉnh thành Việt Nam|tỉnh]] [[ven biển]] gần cực bắc thuộc vùng [[Bắc Trung Bộ]], [[Trung Bộ|miền Trung]] [[Việt Nam]].
+
+Theo dữ liệu sau đợt [[Sáp nhập tỉnh, thành Việt Nam 2025]], Nghệ An có diện tích: 16.487&nbsp;km², xếp thứ 4; dân số: 3.831.694 người, xếp thứ 13; GRDP 2024: 216.943.727 triệu VNĐ, xếp thứ 20; thu ngân sách 2024: 25.443.225 triệu VNĐ, xếp thứ 17; thu nhập bình quân: 55,40 triệu VNĐ/năm, xếp thứ 19 cả nước.<ref>{{Chú thích web |last=ONLINE |first=TUOI TRE |date=2025-06-12 |title=Chi tiết diện tích, dân số, quy mô kinh tế của 34 tỉnh, thành mới |url=https://tuoitre.vn/chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250612091728003.htm |access-date=2025-09-03 |website=TUOI TRE ONLINE |language=vi}}</ref><ref>{{Chú thích web |tiêu đề=Danh sách dự kiến tên gọi của 34 tỉnh, thành phố và trung tâm chính trị - hành chính |url=https://vtv.vn/chinh-tri/danh-sach-du-kien-ten-goi-cua-34-tinh-thanh-pho-va-trung-tam-chinh-tri-hanh-chinh-20250413230809506.htm |ngày truy cập=14 tháng 4 năm 2025 |website=vtv.vn |ngôn ngữ=vi}}</ref>
+
+Trước đây, Nghệ An cùng với [[Hà Tĩnh]] có cùng một tên chung là [[Hoan Châu]] (trước đời [[Nhà Lý]]), [[Nghệ An châu]] (đời Nhà Lý, [[Nhà Trần|Trần]]), [[xứ Nghệ]] (năm 1490, đời vua [[Lê Thánh Tông]]), rồi trấn Nghệ An. Năm 1831, vua [[Minh Mạng]] chia trấn Nghệ An thành 2 tỉnh: Nghệ An (bắc [[sông Lam]]) và [[Hà Tĩnh]] (nam [[sông Lam]]). Từ 1976 đến 1991, Nghệ An và Hà Tĩnh sáp nhập thành tỉnh [[Nghệ Tĩnh]]. Từ năm 1991, Nghệ Tĩnh lại tách ra thành 2 tỉnh là Nghệ An và Hà Tĩnh như hiện nay.
+
+== Nguồn gốc tên gọi ==
+Tên gọi "Nghệ An" (chữ Hán: 乂安) bắt đầu xuất hiện từ năm Thiên Thành thứ 2 (1030) thời nhà Lý. Trong đó chữ 乂 (Nghệ) nghĩa là cai trị, 安 (An) nghĩa là yên ổn. Như vậy, có thể hiểu vua nhà Lý đặt tên gọi Nghệ An với hàm ý "cai trị cho yên ổn", vì vùng đất Nghệ An (bao gồm cả tỉnh Hà Tĩnh ngày nay) chính là vùng biên cương phía Nam của nước Đại Việt khi đó.
+
+==Lịch sử==
+{{main|Xứ Nghệ}}
+
+Theo lịch sử, Nghệ An từng là [[thủ đô]] của 2 triều đại trong lịch sử Việt Nam: triều đình [[Mai Thúc Loan]] và [[nhà Tây Sơn]].
+
+Nghệ An là một vùng đất có lịch sử định cư lâu đời. Các di chỉ thuộc [[Văn hóa Quỳnh Văn]] thuộc thời kỳ đồ đá mới được phát hiện tại [[Quỳnh Lưu]] vào những năm 1930 cho thấy khu vực này đã được định cư bởi nhóm cư dân ven biển biết làm đồ gốm, thuần dưỡng gia súc cách đây khoảng 6000 năm. Giai đoạn hậu đồ đá mới có các di chỉ như [[Hang Thẩm Hoi (Nghệ An)|Hang Thẩm Hoi]], hang Đồng Trương... Nghệ An cũng là địa bàn sinh sống của cư dân [[Văn hóa Đông Sơn|Đông Sơn]] với di chỉ Làng Vạc. Tại đây vào năm [[1991]], phát hiện được tổng cộng 347 ngôi mộ cổ. Làng Vạc là khu mộ táng lớn nhất, có mật độ cao nhất trong [[văn hóa Đông Sơn]].
+
+Theo truyền thuyết, thời [[Hùng Vương]] đây là vùng sinh sống của bộ lạc [[Việt Thường]] với trung tâm là vùng chân núi [[Hồng Lĩnh]], thì vùng [[Nghệ Tĩnh|Nghệ An và Hà Tĩnh]] vốn thuộc nước [[Việt Thường]] [[thủ đô]] là [[kinh Đô Ngàn Hống]] chân núi [[Hồng Lĩnh]]. Đến thời [[Hùng Vương]], bộ [[Việt Thường]] là một trong 15 bộ lạc của nước [[Văn Lang]] cổ, sau này trở thành bộ [[Hoài Hoan]] và bộ [[Cửu Đức]] trong 15 bộ của nước [[Văn Lang]].
+
+Thời [[An Dương Vương]] (khoảng thế kỷ 3 trước Công nguyên), Nghệ An là vùng đất phên dậu phòng thủ nằm ở phía nam của nước [[Âu Lạc]]. Khi quân [[Triệu Đà]] tấn công, không giữ được thành [[Cổ Loa]], [[An Dương Vương]] đã cùng con gái [[Mỵ Châu]] cưỡi ngựa chạy về phía chân Núi Mộ Dạ. Tương truyền, bãi biển xã [[An Châu]] và dãy núi Mộ Dạ Nghệ An chính là nơi cha con vua An Dương Vương dừng bước, vua đã gọi thần [[Kim Quy]] rồi đã rút gươm chém [[Mỵ Châu]] rồi đi xuống biển tự vẫn. [[Đền Cuông]] ở Núi Mộ Dạ là nơi thờ tự [[An Dương Vương]] nằm trên núi Mộ Dạ (xã [[An Châu]], tỉnh Nghệ An) theo lịch sử Việt Nam.
+
+Thời kỳ Bắc thuộc, vùng Nghệ An nhiều lần được thay đổi hành chính. Thời [[nhà Hán]], thuộc huyện [[Hàm Hoan]] thuộc quận [[Cửu Chân]]. Đời [[nhà Tấn]] là quận Cửu Đức. Đời [[nhà Tùy]] là Hoan Châu (năm 598); là quận Nhật Nam (605-618). Năm [[628]] đổi là Đức Châu, rồi lại đổi thành Châu Hoan, lại Châu Diễn. Đời [[nhà Đường]] là quận Nam Đức. Thời [[nhà Ngô]], tách ra khỏi quận [[Cửu Chân]] đặt làm quận [[Xứ Nghệ|Cửu Đức]].
+
+Năm 723, [[Mai Thúc Loan]] là vị vua lãnh đạo cuộc khởi nghĩa chống nhà Đường (Trung Quốc), đóng [[Thủ đô|kinh đô]] ở Hoan Châu, Nghệ An làm [[thủ đô|kinh đô]] để kháng chiến.
+
+Thời kỳ độc lập, thời [[nhà Đinh]], nhà [[Nhà Tiền Lê|Tiền Lê]] gọi là [[Xứ Nghệ|Hoan Châu]]. Năm [[1030]] (năm [[Lý Thánh Tông|Thiên Thành]] thứ 3 đời [[Lý Thái Tông]]), bắt đầu gọi là [[xứ Nghệ|châu Nghệ An]].<ref>Nghệ An có nghĩa là thái bình vô sự</ref> Năm Long Khánh 3 (1375) đời Trần Duệ Tông đổi Diễn Châu làm lộ Diễn Châu, đổi Hoan Châu làm các lộ Nhật Nam. Năm 1397, Trần Thuận Tông đổi trấn Nghệ An làm trấn Lâm An và đổi trấn Diễn Châu làm trấn Vọng Giang. Đời [[Hồ Hán Thương]], năm Khai Đại 1 (1403) đổi trấn Diễn Châu làm phủ Linh Nguyên. Từ năm [[1490]] gọi là [[xứ Nghệ|xứ Nghệ An]]. [[Nhà Tây Sơn|Thời Tây Sơn]], gọi là [[Xứ Nghệ|Nghĩa An trấn]]. Năm đầu niên hiệu Gia Long lại đặt làm [[Xứ Nghệ|Nghệ An trấn]].
+
+Năm 1406, Hoàng Đế [[Chu Đệ]] nhà Minh cho quân xâm lược [[Đại Ngu]], nước Việt bị sát nhập vào [[Đại Minh]] (Trung Quốc). Sau đó các tướng [[Nghệ Tĩnh|Nghệ An]] tôn [[Trùng Quang Đế]] lên ngôi vua, tái lập nhà Trần (sử gọi là nhà Hậu Trần) để đánh đuổi quân Minh. [[Nghệ Tĩnh|Nghệ An]] là nơi đóng quân và chiêu mộ binh sĩ rất quan trọng của nhà Hậu Trần. Sau đó cuộc kháng chiến của nhà Hậu Trần thất bại, rồi [[Lê Lợi]] phát động khởi nghĩa Lam Sơn. Cuộc khởi nghĩa ban đầu gặp nhiều thất bại, trước tình thế hiểm nghèo [[Lê Lợi]] cùng các tướng [[Nguyễn Xí]], [[Đinh Liệt]], [[Nguyễn Chích]] đã bàn mưu chiếm tỉnh [[Nghệ Tĩnh|Nghệ An]] để đặt [[Kinh Đô|Đại bản doanh]] tại [[Rú Thành|Thành Nghệ An]] để chiêu mộ binh sĩ. Sau này, quân Lam Sơn tấn công ra bắc giành thắng lợi, nhà [[Hậu Lê]] thành lập. Thời Hậu Lê, tỉnh này thuộc Nghệ An thừa tuyên.
+
+[[Tập_tin:Map of Later Lê dynasty during the reign of Lê Thánh Tông (1460-1497).png |trái|nhỏ|Cương thổ Nghệ An Đại Việt thời [[Lê Thánh Tông]] ([[1460]]-[[1497]]), bao gồm xứ [[Bồn Man]] và lãnh thổ mới chiếm được từ [[Chiêm Thành]]. Màu đỏ nhạt là lãnh thổ chiếm được trong thời gian ngắn trong cuộc [[chiến tranh Đại Việt - Lan Xang (1478-1480)|chiến tranh Đại Việt-Lan Xang]]. Màu xanh nhạt là ba vương quốc của người Chăm.]]
+
+Theo Đại Việt sử ký toàn thư, năm 1460, [[Nguyễn Xí]] làm binh biến đưa Lê Tư Thành lên làm hoàng đế, tức [[Lê Thánh Tông]]. Ông cử quân chinh phạt các nước láng giềng và thắng lợi, [[Đại Việt]] trở thành [[cường quốc]]. Xứ [[Bồn Man]] trước thế kỷ 15 là vương quốc cổ tiếp giáp Nghệ An, vua [[Bồn Man]] là [[Cầm Công]] bị đánh bại và phải thần phục Đại Việt, vua [[Lê Thánh Tông]] liền lập phủ [[Trấn Ninh]] và sáp nhập vào Nghệ An, chia đất ấy thành 7 huyện. Sau [[Chiến tranh Đại Việt – Lan Xang (1479–1480)]], các sự kiện ở Bồn Man không được lịch sử Đại Việt ghi chép cụ thể, nhưng sử Việt ghi nhận vùng này tiếp tục triều cống vàng bạc và nhiều thứ khác đúng quy định triều đình trong hơn 300 năm, đất rộng dân đông đứng đầu trong các Man (vùng đông người dân tộc thiểu số)<ref>Đại Nam thực lục, phần cương thổ về Trấn Ninh: “Tính ra trong vòng hơn 300 năm Trấn Ninh vẫn theo chức cống, đất rộng dân đông, đứng đầu các Man, Trình Quang là đô ấp</ref> Năm Hồng Đức thứ 21, nhà Hậu Lê đổi thừa tuyên [[Nghệ Tĩnh|Nghệ An]] thành [[xứ Nghệ]].
+
+Trong thời kỳ [[Chúa Trịnh|Trịnh]] – [[Chúa Nguyễn|Nguyễn]] phân tranh (1627–1672), vùng Nghệ An đóng vai trò là tiền tuyến chiến lược. Nơi đây là chiến trường đẫm máu với 7 lần giao tranh ác liệt, quân Trịnh thường tấn công vượt sông Lam, trong khi quân Nguyễn lấy đây làm bàn đạp tiến ra bắc, tuyến đầu ranh giới chính thức giữa [[Đàng Trong]] và [[Đàng Ngoài]] là sông Gianh (Quảng Bình), tuy nhiên, do địa thế trọng yếu, quân Nguyễn thường tiến quân vượt sông Gianh và đánh chiếm các vùng đất thuộc Nghệ An.
+
+Năm 1778, [[Tây Sơn tam kiệt]] nổi dậy, đánh bại cả 2 thế lực Trịnh - Nguyễn, thống nhất nước Đại Việt. [[Nguyễn Nhạc]] là vị hoàng đế sáng lập ra [[Nhà Tây Sơn]] và ở ngôi hoàng đế. Từ năm 1788, Nguyễn Nhạc nhường ngôi hoàng đế và giao lại lãnh thổ cho em trai là [[Nguyễn Huệ]]. Anh em nhà Tây Sơn có quê gốc ở Hưng Nguyên, Nghệ An.
+
+Năm 1788, [[Quang Trung]] truyền chiếu chỉ cho La Sơn phu tử [[Nguyễn Thiếp]] xây dựng [[Phượng Hoàng Trung Đô|Thủ đô]] của [[nhà Tây Sơn]] đặt tại Nghệ An.
+
+===Bị Gia Long cắt một phần cho Lào===
+Năm 1802, [[Nguyễn Ánh]] cầu viện vua Xiêm La (nay là Thái Lan) để có thêm lực lượng đánh nhà Tây Sơn. Vua Xiêm cử 5.000 quân, phối hợp cùng quân Vạn Tượng (nay là Lào) sang xâm lược, đánh vào vùng Nghệ An. Sử [[nhà Nguyễn]] ([[Đại Nam thực lục]]) chép ngắn gọn sự kiện Xiêm La và [[Vạn Tượng]] xâm chiếm Bắc Trung Bộ năm 1802 như sau<ref>Đại Nam thực lục, tập 1, đệ Nhất kỷ, trang 440</ref>:
+
+{{Cquote|''Nước Xiêm La sai tướng là Ốc Nha Trà Tri đem 5.000 quân theo đường thượng đạo hợp với quân Vạn Tượng đánh phá quân giặc ở Nghệ An tại Sa Nam (tên đất – nay là [[Nam Đàn (huyện)|Nam Đàn]], Nghệ An) và sai sứ đến dâng tin thắng trận. Vua (Nguyễn Ánh) sai phục thư khen ngợi. ''|}}
+
+Lần cầu viện Xiêm La - Vạn Tượng này của Nguyễn Ánh đã để lại hậu quả lâu dài về lãnh thổ cho Việt Nam, Nguyễn Ánh xưng [[hoàng đế]] thành lập nước [[Việt Nam]] sử sách chép '''Nước Việt Nam''' có tên từ đây chỉ ít lâu sau, Nguyễn Ánh đã đồng ý cắt [[Trấn Ninh]], [[Trấn Biên (phủ)|Trấn Biên]], [[Trấn Định]], [[Trấn Tĩnh]] (rộng khoảng 50.000 km2) cho nước [[Vạn Tượng]] để đền đáp việc nước này giúp đánh nhà Tây Sơn, khiến lãnh thổ miền Bắc Trung Bộ Việt Nam bị thu hẹp lại một nửa.
+
+[[Tập tin:Tonkin1893.jpg|nhỏ|phải|300 px|Bản đồ vùng [[Trấn Ninh]], [[Trấn Biên (định hướng)|Trấn Biên]], [[Trấn Định]] và [[Trấn Tĩnh]] khi còn thuộc về Đại Việt]]
+
+Thời nhà [[Hậu Lê]] và [[nhà Tây Sơn]], các tỉnh [[Thanh Hóa]], Nghệ An và [[Hà Tĩnh]] có diện tích lớn gấp đôi hiện nay. Nhưng năm 1802, ngay sau khi lên ngôi, vua [[Gia Long]] (Nguyễn Ánh) đã đem đất [[Trấn Ninh]], [[Trấn Biên (định hướng)|Trấn Biên]], [[Trấn Định]] và [[Trấn Tĩnh]] cắt cho nước [[Vạn Tượng]] (nay là [[Lào]]) để đền đáp việc nước này giúp Gia Long đánh nhà Tây Sơn. Sự việc này được chép ngắn gọn trong [[Đại Nam nhất thống chí]]:<ref>Đại Nam nhất thống chí. NXB Thuận Hóa 2006. Trang 159</ref>
+{{Cquote|''Phủ Trấn Biên: … Từ đời Lê về trước 4 huyện Xa Hổ là thượng du thuộc Nghệ An, 3 huyện Trình Cố là cống man thuộc Thanh Hóa, theo lệ cứ 3 năm cống một lần. '''Bản triều đầu đời Gia Long (1802) đem đất này cho Vạn Tượng, từ đấy đường cống cắt đứt.'''''|}}
+
+[[Khâm định Việt sử Thông giám cương mục]] viết:<ref>Khâm định Việt sử Thông giám cương mục. Chính biên, quyển XXIII</ref>
+{{Cquote|''Trấn Ninh: Đất Bồn Man xưa, hồi đầu triều Lê, họ Cầm nối nhau làm phụ đạo; đến Lê Thánh Tông chia đất này lập ra làm phủ Trấn Ninh, quản lãnh 7 huyện: Kim Sơn, Thanh Vị, Cảnh Thuần, Quang Minh, Minh Quảng, Quang Lang và Tư Thuận, cho họ Cầm nối đời làm tù trưởng... '''Bản Triều, năm Gia Long thứ nhất (1802) đem đất ấy phong cho nước Vạn tượng.'''''|}}
+
+Như vậy sau hơn 300 năm được Đại Việt tuyên bố chủ quyền dưới thời [[nhà Hậu Lê]] và [[nhà Tây Sơn]], các vùng Trấn Biên, Trấn Ninh, Trấn Định, Trấn Tĩnh (rộng khoảng 50.000 km2) đã bị cắt cho Vạn Tượng. Tính đến nay thì đây là vùng lãnh thổ lớn nhất mà Việt Nam bị mất, và đặc biệt hơn nữa là vùng này bị mất không phải do bị xâm chiếm mà là do vua Việt Nam tự ý cắt cho nước ngoài.
+
+=== Thời nhà Nguyễn và Pháp thuộc ===
+[[Tập tin:Flag of Nguyen dynasty's administrative unit - Nghe An.png|nhỏ|Cờ tỉnh Nghệ An thời nhà Nguyễn]]
+
+* Hoàng đế Minh Mạng tái sát nhập lãnh thổ vào Đại Nam
+Đến năm 1828, Vạn Tượng bị Xiêm La đánh phá, các vùng lãnh thổ Trấn Biên, Trấn Ninh, Trấn Định, Trấn Tĩnh được [[Minh Mạng]] tái sáp nhập vào Nghệ An, [[Thanh Hóa]]. 
+[[Tập_tin:Nguyen_Dynasty,_administrative_divisions_map_(1838).svg|trái|nhỏ|Địa giới tỉnh Nghệ An dưới thời vua Minh Mạng (năm 1838).]]
+
+Năm [[1831]], vua [[Minh Mạng|Minh Mệnh]] chia [[xứ Nghệ|trấn Nghệ An]] thành 2 tỉnh: Nghệ An (phía Bắc [[sông Lam]]); Hà Tĩnh (phía nam sông Lam). Sau đó hai tỉnh Nghệ An và Hà Tĩnh sáp nhập lại, lấy tên là tỉnh [[Xứ Nghệ|An Tĩnh]].
+
+* Người Pháp cắt một số các phủ huyện thuộc tỉnh Nghệ An và Hà Tĩnh thuộc xứ trung kỳ Việt Nam cho Lào
+Đến thời [[Pháp thuộc]] thì một số vùng ở đây lại bị Pháp cắt sang cho nước Lào. Những vụ cắt đất này đã khiến cho vùng Bắc Trung Bộ nước Việt Nam bị co lại rất hẹp, gây khó khăn cho quốc phòng, cũng như mất quyền kiểm soát một lưu vực lớn của [[Mê Kông|sông Mê Kông]] chảy qua [[cao nguyên Lào]], khiến cho [[Đồng bằng sông Cửu Long]] hiện nay gặp nhiều bất lợi.
+
+Trong thời kỳ thuộc địa, người [[Đế quốc thực dân Pháp|Pháp]] đã cắt một số các phủ huyện thuộc tỉnh Nghệ An và Hà Tĩnh thuộc xứ Trung Kỳ cho [[Lào]] thuộc khối [[Liên bang Đông Dương|liên bang đông dương]] pháp vào các năm 1895 và 1903, bao gồm các vùng: [[phủ Trấn Biên]] (khoảng phía Đông Nam tỉnh Hủa Phăn), phủ [[Trấn Ninh]] ([[Xiêng Khoảng]]), (phủ Trấn Định (Borikhamxay, Khăm Muộn)...
+
+===Thời hiện đại===
+[[Tập tin:Province de Nghe-An (1909).jpg|250px|nhỏ|Bản đồ tỉnh Nghệ An năm 1909|trái]]
+Sau năm [[1954]], tỉnh Nghệ An có tỉnh lị là [[Vinh|thị xã Vinh]] và 12 huyện: [[Anh Sơn]], [[Con Cuông]], [[Diễn Châu]], [[Hưng Nguyên]], [[Nam Đàn]], [[Nghi Lộc]], [[Nghĩa Đàn]], [[Quỳ Châu]], [[Quỳnh Lưu]], [[Thanh Chương]], [[Tương Dương]], [[Yên Thành]].
+
+Ngày [[17 tháng 5]] năm [[1961]], chia huyện Tương Dương thành 2 huyện: [[Tương Dương (huyện)|Tương Dương]] và [[Kỳ Sơn (huyện)|Kỳ Sơn]].
+
+Ngày [[19 tháng 4]] năm [[1963]], chia huyện Anh Sơn thành 2 huyện: Anh Sơn và [[Đô Lương]]; chia huyện Quỳ Châu (cũ) thành 3 huyện: [[Quỳ Châu]], [[Quỳ Hợp]] và [[Quế Phong]]; thành lập huyện [[Tân Kỳ]] từ một phần 2 huyện [[Nghĩa Đàn]] và [[Anh Sơn]]; chuyển thị xã Vinh thành [[Vinh|thành phố Vinh]].
+
+Năm [[1991]], tỉnh [[Nghệ Tĩnh]] tách ra thành Nghệ An và [[Hà Tĩnh]]. Khi tách ra, tỉnh Nghệ An có 18 đơn vị hành chính gồm thành phố [[Vinh]] (tỉnh lỵ) và 17 huyện: [[Anh Sơn (huyện)|Anh Sơn]], [[Con Cuông (huyện)|Con Cuông]], [[Diễn Châu (huyện)|Diễn Châu]], [[Đô Lương (huyện)|Đô Lương]], [[Hưng Nguyên (huyện)|Hưng Nguyên]], [[Kỳ Sơn (huyện Nghệ An)|Kỳ Sơn]], [[Nam Đàn (huyện)|Nam Đàn]], [[Nghi Lộc (huyện)|Nghi Lộc]], [[Nghĩa Đàn (huyện)|Nghĩa Đàn]], [[Quế Phong (huyện)|Quế Phong]], [[Quỳ Châu (huyện)|Quỳ Châu]], [[Quỳ Hợp (huyện)|Quỳ Hợp]], [[Quỳnh Lưu (huyện)|Quỳnh Lưu]], [[Tân Kỳ (huyện)|Tân Kỳ]], [[Thanh Chương]], [[Tương Dương (huyện)|Tương Dương]], [[Yên Thành (huyện)|Yên Thành]].<ref>[http://thuvienphapluat.vn/archive/Nghi-quyet/Nghi-quyet-dieu-chinh-dia-gioi-hanh-chinh-mot-so-tinh-thanh-pho-truc-thuoc-Trung-uong-vb42808t13.aspx Nghị quyết về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương do Quốc hội ban hành]{{Liên kết hỏng|date=2026-05-20 |bot=InternetArchiveBot }}</ref>
+
+Ngày [[13 tháng 8]] năm [[1993]], thành phố [[Vinh]] được công nhận là đô thị loại II.<ref>{{Chú thích web|url=https://baonghean.vn/xay-dung-vinh-tro-thanh-do-thi-hien-dai-cua-ca-nuoc-217785.html|tựa đề=Xây dựng Vinh trở thành đô thị hiện đại của cả nước|ngày=2018-10-06|website=Báo Nghệ An điện tử|url-status=live}}</ref>
+
+Ngày [[29 tháng 8]] năm [[1994]], thành lập thị xã [[Cửa Lò]] trên cơ sở tách 1 phần diện tích và dân số của huyện Nghi Lộc.<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-113-cp-thanh-lap-thi-xa-cua-lo-thuoc-tinh-nghe-an-38857.aspx|tựa đề=Nghị định số 113-CP năm 1994 về việc thành lập thị xã Cửa Lò thuộc tỉnh Nghệ An|url-status=live}}</ref>
+
+Ngày [[15 tháng 11]] năm [[2007]], thành lập thị xã [[Thái Hòa (thị xã)|Thái Hòa]] trên cơ sở tách 1 phần diện tích và dân số của huyện Nghĩa Đàn.<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-dinh-164-2007-ND-CP-dieu-chinh-dia-gioi-hanh-chinh-huyen-Nghia-Dan-thanh-lap-thi-xa-Thai-Hoa-phuong-thuoc-thi-xa-Thai-Hoa-tinh-Nghe-An-58662.aspx|title=Nghị định số 164/2007/NĐ-CP của Chính phủ về việc điều chỉnh địa giới hành chính huyện Nghĩa Đàn để thành lập thị xã Thái Hòa; thành lập các phường thuộc thị xã Thái Hoà, tỉnh Nghệ An|last=|first=|date=|website=|archive-url=|archive-date=|url-status=|access-date=}}</ref>
+
+Ngày [[5 tháng 9]] năm [[2008]], Thủ tướng Chính phủ ban hành Quyết định số 1210/QĐ-TTg công nhận thành phố Vinh là đô thị loại I.<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-1210-QD-TTg-cong-nhan-thanh-pho-Vinh-tinh-Nghe-An-la-do-thi-loai-I-truc-thuoc-tinh-Nghe-An-70739.aspx|tựa đề=Quyết định 1210/QĐ-TTg năm 2008 về việc công nhận thành phố Vinh, tỉnh Nghệ An là đô thị loại I trực thuộc tỉnh Nghệ An do Thủ tướng Chính phủ ban hành|url-status=live}}</ref>
+
+Ngày [[12 tháng 3]] năm [[2009]], Bộ Xây dựng ban hành Quyết định số 234/QĐ-BXD về việc công nhận thị xã Cửa Lò là đô thị loại III.
+
+Ngày [[3 tháng 4]] năm [[2013]], thành lập thị xã [[Hoàng Mai, Nghệ An|Hoàng Mai]] trên cơ sở tách 1 phần diện tích và dân số của huyện Quỳnh Lưu. Từ đó, tỉnh Nghệ An có 1 thành phố, 3 thị xã và 17 huyện.<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-47-NQ-CP-dieu-chinh-dia-gioi-hanh-chinh-de-thanh-lap-thi-xa-Hoang-Mai-180237.aspx|tựa đề=Nghị quyết 47/NQ-CP năm 2013 về việc điều chỉnh địa giới hành chính để thành lập thị xã Hoàng Mai; thành lập phường thuộc thị xã Hoàng Mai, tỉnh Nghệ An}}</ref>
+
+Ngày [[24 tháng 10]] năm [[2024]], [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 1243/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp huyện, cấp xã của tỉnh Nghệ An giai đoạn 2023 - 2025. Nghị quyết này có hiệu lực thi hành từ ngày 01 tháng 12 năm 2024:<ref name=NQ1243>{{Chú thích web|url=https://quochoi.vn/pages/tim-kiem.aspx?ItemID=90609|tựa đề=Nghị quyết số 1243/NQ-UBTVQH15 của UBTVQH về việc sắp xếp đơn vị hành chính cấp huyện, cấp xã của tỉnh Nghệ An giai đoạn 2023 - 2025|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref>
+*Điều chỉnh một phần diện tích và dân số của thành phố Vinh và huyện Nghi Lộc
+*Sáp nhập thị xã Cửa Lò vào thành phố Vinh.
+
+Từ đó, tỉnh Nghệ An có 1 thành phố Vinh (tỉnh lị); 2 thị xã: Hoàng Mai, Thái Hòa và 17 huyện: Anh Sơn, Con Cuông, Diễn Châu, Đô Lương, Diễn Châu, Đô Lương, Hưng Nguyên, Kỳ Sơn, Nam Đàn, Nghi Lộc, Nghi Lộc, Nghĩa Đàn, Quế Phong, Quỳ Châu, Quỳ Hợp, Quỳnh Lưu, Tân Kỳ, Thanh Chương, Tương Dương, Yên Thành.
+
+Ngày [[1 tháng 7]] năm [[2025]], giải thể toàn bộ các đơn vị hành chính cấp huyện/thị xã của tỉnh Nghệ An theo Nghị quyết số 203/NQ-UBTVQH15 và sắp xếp lại để có 130 đơn vị hành chính cấp [[xã]] (11 [[Phường (Việt Nam)|phường]] và 119 xã) theo Nghị quyết số 1678/NQ-UBTVQH15.<ref>{{Chú thích web |last=Cổng Thông tin điện tử Chính phủ |title=Nghị quyết số 1678/NQ-UBTVQH15 của ỦY BAN THƯỜNG VỤ QUỐC HỘI: Về việc sắp xếp các đơn vị hành chính cấp xã của tỉnh Nghệ An năm 2025 |url=http://vanban.chinhphu.vn/?pageid=27160&docid=213984 |access-date=2025-06-30 |website=vanban.chinhphu.vn |language=vi}}</ref>
+
+==Địa lý==
+[[Tập_tin:Nguyen_Dynasty,_administrative_divisions_map_(1838).svg|trái|nhỏ|Địa giới tỉnh Nghệ An dưới thời vua Minh Mạng (năm 1838).]]
+Hành chính '''Nghệ An''' Việt Nam thời [[Minh Mạng]] năm 1838 biên giới Nghệ An Giáp [[Thái Lan ]], phía Đông giáp [[Biển Đông|biển đông]] và [[Đảo Hải Nam]] [[Trung Quốc]], phía bắc giáp [[Thanh Hóa]] phía nam giáp [[Hà Tĩnh]].
+
+Trung tâm hành chính của tỉnh là phường [[Trường Vinh]] (trước đó gọi là Thành phố Vinh), nằm cách thủ đô [[Hà Nội]] 291 [[kilômét|km]] về phía nam.<ref>{{Chú thích web |title=Chuyên trang doanh nghiệp - Cổng thông tin điện tử Nghệ An |url=http://www.nghean.gov.vn/wps/portal/doanhnghiep/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjU1cXT9NAH-cgf18LA0-3IHMX7yDTQIMwc_2CbEdFAE-7pGU!/?WCM_GLOBAL_CONTEXT=/wps/wcm/connect/Web+Content/PORTAL_NA/nhadautu/tongquanvetinhnghean/dieukientunhienxahoi/ |archive-url=https://web.archive.org/web/20180714165816/http://www.nghean.gov.vn/wps/portal/doanhnghiep/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjU1cXT9NAH-cgf18LA0-3IHMX7yDTQIMwc_2CbEdFAE-7pGU!/?WCM_GLOBAL_CONTEXT=/wps/wcm/connect/Web+Content/PORTAL_NA/nhadautu/tongquanvetinhnghean/dieukientunhienxahoi/ |archive-date=2018-07-14 |access-date=2025-10-15 |website=www.nghean.gov.vn |language=en |url-status=live }}</ref>
+*Phía đông giáp [[Vịnh Bắc Bộ]]
+*Phía tây giáp tỉnh [[Hủa Phăn]], [[Xiêng Khoảng]] và [[Bolikhamsai]] ([[Lào]])
+*Phía nam giáp tỉnh [[Hà Tĩnh]]
+*Phía bắc giáp tỉnh [[Thanh Hóa]].
+
+Diện tích của tỉnh khoảng 16.486,49&nbsp;km².<ref name="area_2020" />
+
+=== Các điểm cực của tỉnh Nghệ An: ===
+
+* Điểm cực bắc tại: xã [[Thông Thụ]].
+* Điểm cực đông tại: phường [[Tân Mai (phường)|Tân Mai]].
+* Điểm cực tây tại: xã [[Mường Típ]].
+* Điểm cực nam tại: xã [[Thiên Nhẫn]].
+
+Tỉnh có địa hình đa dạng: đồi núi, trung du, đồng bằng và ven biển. Phía Tây là dãy núi Bắc Trường Sơn. Tỉnh có 10 huyện miền núi, trong số đó 5 huyện là miền núi "cao".<ref>{{Chú thích web |url=http://www.phapluatvn.vn/tuphap/201103/Chung-tay-pho-bien-phap-luat-tai-Nghe-an-2041310/ |ngày truy cập=2011-06-18 |tựa đề=Bản sao đã lưu trữ |archive-date = ngày 5 tháng 4 năm 2011 |archive-url=https://web.archive.org/web/20110405213258/http://phapluatvn.vn/tuphap/201103/Chung-tay-pho-bien-phap-luat-tai-Nghe-an-2041310/ }}</ref>[[Tập tin:Sông Giăng - KDL Sinh thái Pha Lài.jpg|thumb|250x250px|[[Sông Giăng]] trong KDL sinh thái Pha Lài, nằm trong [[vườn quốc gia Pù Mát]]|giữa]]
+
+=== Điều kiện tự nhiên ===
+[[Tập tin:Sông Giăng - KDL Sinh thái Pha Lài.jpg|thumb|left|280px|[[Sông Giăng]] trong KDL sinh thái Pha Lài, nằm trong [[vườn quốc gia Pù Mát]]]]
+
+Nghệ An nằm trong vùng khí hậu [[khí hậu nhiệt đới gió mùa|nhiệt đới gió mùa]], có 2 mùa rõ rệt là hè và đông. Từ [[tháng tư|tháng 4]] đến [[tháng tám|tháng 8]] [[dương lịch]] hàng năm, tỉnh chịu ảnh hưởng của [[hiện tượng foehn|gió phơn]] tây nam khô và nóng. Vào mùa đông, chịu ảnh hưởng của gió mùa đông bắc lạnh và ẩm ướt. Nghệ An có đường biên giới với Lào dài 419&nbsp;km, là tỉnh có đường biên giới dài trên bộ dài nhất Việt Nam.
+
+{{Weather box
+|width = auto
+|metric first=y
+|single line=y 
+|location = Vinh
+|Jan high C = 20.5
+|Feb high C = 21.0
+|Mar high C = 23.7
+|Apr high C = 28.2
+|May high C = 32.4
+|Jun high C = 34.1
+|Jul high C = 34.3
+|Aug high C = 33.0
+|Sep high C = 30.7
+|Oct high C = 27.9
+|Nov high C = 25.1
+|Dec high C = 21.9
+|year high C = 27.7
+|Jan mean C = 17.5
+|Feb mean C = 18.2
+|Mar mean C = 20.6
+|Apr mean C = 24.4
+|May mean C = 28.0
+|Jun mean C = 29.8
+|Jul mean C = 29.9
+|Aug mean C = 28.8
+|Sep mean C = 27.1
+|Oct mean C = 24.7
+|Nov mean C = 21.8
+|Dec mean C = 18.8
+|year mean C = 24.1
+|Jan low C = 15.6
+|Feb low C = 16.5
+|Mar low C = 18.7
+|Apr low C = 22.1
+|May low C = 25.0
+|Jun low C = 26.7
+|Jul low C = 26.6
+|Aug low C = 25.9
+|Sep low C = 24.6
+|Oct low C = 22.5
+|Nov low C = 19.6
+|Dec low C = 16.6
+|year low C = 21.7
+|Jan record high C = 35.2 |Jan record low C = 4.0
+|Feb record high C = 37.1 |Feb record low C = 7.0
+|Mar record high C = 39.6 |Mar record low C = 7.3
+|Apr record high C = 42.8 |Apr record low C = 13.4
+|May record high C = 44.2 |May record low C = 17.4
+|Jun record high C = 42.1 |Jun record low C = 19.7
+|Jul record high C = 41.1 |Jul record low C = 21.5
+|Aug record high C = 39.5 |Aug record low C = 21.3
+|Sep record high C = 39.9 |Sep record low C = 16.7
+|Oct record high C = 37.0 |Oct record low C = 15.0
+|Nov record high C = 36.1 |Nov record low C = 9.9
+|Dec record high C = 31.6 |Dec record low C = 5.1
+|year record high C = 44.2 |year record low C = 4.0 
+|precipitation colour = green
+|Jan precipitation mm = 52.3
+|Feb precipitation mm = 39.7
+|Mar precipitation mm = 49.1
+|Apr precipitation mm = 62.0
+|May precipitation mm = 140.9
+|Jun precipitation mm = 108.5
+|Jul precipitation mm = 122.4
+|Aug precipitation mm = 234.2
+|Sep precipitation mm = 480.7
+|Oct precipitation mm = 514.1
+|Nov precipitation mm = 162.8
+|Dec precipitation mm = 69.9
+|year precipitation mm = 2045.5
+|Jan precipitation days = 13.3
+|Feb precipitation days = 13.9
+|Mar precipitation days = 14.6
+|Apr precipitation days = 11.0
+|May precipitation days = 10.7
+|Jun precipitation days = 8.2
+|Jul precipitation days = 7.8
+|Aug precipitation days = 12.3
+|Sep precipitation days = 14.9
+|Oct precipitation days = 16.3
+|Nov precipitation days = 13.1
+|Dec precipitation days = 11.3
+|year precipitation days = 147.6
+|Jan humidity = 89.3
+|Feb humidity = 90.8
+|Mar humidity = 90.4
+|Apr humidity = 87.8
+|May humidity = 80.8
+|Jun humidity = 74.5
+|Jul humidity = 73.7
+|Aug humidity = 79.8
+|Sep humidity = 85.3
+|Oct humidity = 86.7
+|Nov humidity = 86.1
+|Dec humidity = 85.9
+|year humidity = 84.2
+|Jan sun = 68.7
+|Feb sun = 50.9
+|Mar sun = 69.4
+|Apr sun = 131.8
+|May sun = 216.3
+|Jun sun = 204.9
+|Jul sun = 219.8
+|Aug sun = 189.3
+|Sep sun = 157.5
+|Oct sun = 127.7
+|Nov sun = 99.4
+|Dec sun = 76.9
+|year sun = 1614.1
+|source 1 = Vietnam Institute for Building Science and Technology
+}}
+
+== Hành chính ==
+{{main|Lịch sử hành chính Nghệ An|Danh sách đơn vị hành chính thuộc tỉnh Nghệ An|Đô thị tại Nghệ An}}
+
+[[Tập tin:Nghệ An 1.jpg|nhỏ|250px|giữa|Đầu đường Trần Phú, thành phố Vinh]]
+
+Tỉnh Nghệ An có 130 đơn vị hành chính cấp xã, gồm 11 phường và 119 xã.
+
+{| class="wikitable sortable" cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các đơn vị hành chính trực thuộc tỉnh Nghệ An<ref>Căn cứ theo Đề án số 343/ĐA-CP của Chính phủ ngày 09 tháng 5 năm 2025 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh Nghệ An năm 2025</ref>
+|-
+| valign="top" width="25%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Diện tích
+(km²)
+! style="border-bottom: 2px solid #CCCCFF;" |Dân số
+(người)
+|-
+| colspan="3" align="left" style="background: #F5F5DC; padding-left: 30px;" |'''Phường (11)'''
+|-
+| align="left" |[[Cửa Lò]]
+|29,09
+|64.760
+|-
+| align="left" |[[Hoàng Mai, Nghệ An|Hoàng Mai]]
+|79,67
+|44.474
+|-
+| align="left" |[[Quỳnh Mai, Nghệ An|Quỳnh Mai]]
+|40,50
+|57.988
+|-
+| align="left" |[[Tân Mai, Nghệ An|Tân Mai]]
+|51,61
+|33.894
+|-
+| align="left" |[[Tây Hiếu, Nghệ An|Tây Hiếu]]
+|43,96
+|24.698
+|-
+| align="left" |[[Thái Hòa, Nghệ An|Thái Hòa]]
+|27,09
+|26.916
+|-
+| align="left" |[[Thành Vinh (phường)|Thành Vinh]]
+|15,54
+|123.507
+|-
+| align="left" |[[Trường Vinh]]
+|34,22
+|141.477
+|-
+| align="left" |[[Vinh Hưng]]
+|25,47
+|60.159
+|-
+| align="left" |[[Vinh Lộc, Nghệ An|Vinh Lộc]]
+|38,86
+|68.086
+|-
+| align="left" |[[Vinh Phú]]
+|23,04
+|74.473
+|-
+| colspan="3" align="left" style="background: #F5F5DC; padding-left: 30px;" |'''Xã (119)'''
+|-
+| align="left" |[[An Châu, Nghệ An|An Châu]]
+|34,87
+|43.437
+|-
+| align="left" |[[Anh Sơn, Nghệ An|Anh Sơn]]
+|196,65
+|29.539
+|-
+| align="left" |[[Anh Sơn Đông]]
+|65,85
+|16.214
+|-
+| align="left" |[[Bạch Hà, Nghệ An|Bạch Hà]]
+|79,28
+|39.332
+|-
+| align="left" |[[Bạch Ngọc, Nghệ An|Bạch Ngọc]]
+|72,20
+|29.021
+|-
+| align="left" |[[Bắc Lý, Nghệ An|Bắc Lý]]
+|109,17
+|5.552
+|-
+| align="left" |[[Bích Hào]]
+|147,06
+|33.960
+|-
+| align="left" |[[Bình Chuẩn]]
+|182,19
+|4.638
+|-
+| align="left" |[[Bình Minh, Nghệ An|Bình Minh]]
+|91,08
+|37.031
+|-
+| align="left" |[[Cam Phục]]
+|162,43
+|7.412
+|-
+| align="left" |[[Cát Ngạn]]
+|59,28
+|22.995
+|-
+| align="left" |[[Châu Bình, Nghệ An|Châu Bình]]
+|130,91
+|11.038
+|-
+| align="left" |[[Châu Hồng]]
+|134,05
+|11.809
+|-
+| align="left" |[[Châu Khê]]
+|544,31
+|12.210
+|-
+| align="left" |[[Châu Lộc]]
+|85,69
+|7.234
+|-
+| align="left" |[[Châu Tiến, Nghệ An|Châu Tiến]]
+|247,16
+|18.060
+|-
+| align="left" |[[Chiêu Lưu]]
+|196,93
+|9.797
+|-
+| align="left" |[[Con Cuông (xã)|Con Cuông]]
+|155,45
+|26.043
+|-
+| align="left" |[[Diễn Châu (xã)|Diễn Châu]]
+|22,21
+|63.294
+|-
+| align="left" |[[Đại Đồng, Nghệ An|Đại Đồng]]
+|77,87
+|63.131
+|}
+| valign="top" width="25%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Diện tích
+(km²)
+! style="border-bottom: 2px solid #CCCCFF;" |Dân số
+(người)
+|-
+| align="left" |[[Đại Huệ]]
+|36,11
+|24.441
+|-
+| align="left" |[[Đô Lương (xã)|Đô Lương]]
+|50,06
+|61.960
+|-
+| align="left" |[[Đông Hiếu]]
+|63,87
+|28.634
+|-
+| align="left" |[[Đông Lộc]]
+|29,32
+|31.219
+|-
+| align="left" |[[Đông Thành, Nghệ An|Đông Thành]]
+|30,20
+|46.116
+|-
+| align="left" |[[Đức Châu, Nghệ An|Đức Châu]]
+|20,97
+|40.899
+|-
+| align="left" |[[Giai Lạc]]
+|88,58
+|35.783
+|-
+| align="left" |[[Giai Xuân, Nghệ An|Giai Xuân]]
+|121,55
+|14.160
+|-
+| align="left" |[[Hải Châu, Nghệ An|Hải Châu]]
+|29,13
+|43.155
+|-
+| align="left" |[[Hải Lộc, Nghệ An|Hải Lộc]]
+|41,25
+|21.940
+|-
+| align="left" |[[Hạnh Lâm]]
+|274,57
+|13.699
+|-
+| align="left" |[[Hoa Quân]]
+|107,67
+|32.149
+|-
+| align="left" |[[Hợp Minh, Nghệ An|Hợp Minh]]
+|54,75
+|46.942
+|-
+| align="left" |[[Hùng Chân]]
+|351,87
+|12.664
+|-
+| align="left" |[[Hùng Châu]]
+|69,11
+|55.583
+|-
+| align="left" |[[Huồi Tụ]]
+|109,03
+|5.177
+|-
+| align="left" |[[Hưng Nguyên (xã)|Hưng Nguyên]]
+|46,14
+|53.144
+|-
+| align="left" |[[Hưng Nguyên Nam]]
+|35,77
+|36.632
+|-
+| align="left" |[[Hữu Khuông]]
+|263,79
+|2.939
+|-
+| align="left" |[[Hữu Kiệm]]
+|188,97
+|12.609
+|-
+| align="left" |[[Keng Đu]]
+|98,24
+|5.098
+|-
+| align="left" |[[Kim Bảng, Nghệ An|Kim Bảng]]
+|183,26
+|27.936
+|-
+| align="left" |[[Kim Liên, Nghệ An|Kim Liên]]
+|61,08
+|55.471
+|-
+| align="left" |[[Lam Thành, Nghệ An|Lam Thành]]
+|39,67
+|31.247
+|-
+| align="left" |[[Lượng Minh]]
+|227,97
+|5.322
+|-
+| align="left" |[[Lương Sơn, Nghệ An|Lương Sơn]]
+|47,39
+|26.494
+|-
+| align="left" |[[Mậu Thạch]]
+|164,26
+|13.200
+|-
+| align="left" |[[Minh Châu, Nghệ An|Minh Châu]]
+|39,68
+|44.358
+|-
+| align="left" |[[Minh Hợp]]
+|159,97
+|21.276
+|-
+| align="left" |[[Môn Sơn]]
+|529,42
+|18.836
+|-
+| align="left" |[[Mường Chọng]]
+|173,65
+|11.291
+|-
+| align="left" |[[Mường Ham]]
+|160,35
+|14.257
+|-
+| align="left" |[[Mường Lống]]
+|148,31
+|5.649
+|}
+| valign="top" width="25%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Diện tích
+(km²)
+! style="border-bottom: 2px solid #CCCCFF;" |Dân số
+(người)
+|-
+| align="left" |[[Mường Quàng]]
+|342,15
+|17.917
+|-
+| align="left" |[[Mường Típ]]
+|217,66
+|6.412
+|-
+| align="left" |[[Mường Xén]]
+|182,49
+|10.396
+|-
+| align="left" |[[Mỹ Lý]]
+|211,03
+|5.861
+|-
+| align="left" |[[Na Loi]]
+|141,86
+|4.321
+|-
+| align="left" |[[Na Ngoi]]
+|341,25
+|9.536
+|-
+| align="left" |[[Nam Đàn (xã)|Nam Đàn]]
+|67,60
+|24.489
+|-
+| align="left" |[[Nậm Cắn]]
+|147,70
+|8.694
+|-
+| align="left" |[[Nga My, Nghệ An|Nga My]]
+|302,52
+|8.467
+|-
+| align="left" |[[Nghi Lộc (xã)|Nghi Lộc]]
+|33,31
+|46.022
+|-
+| align="left" |[[Nghĩa Đàn (xã)|Nghĩa Đàn]]
+|47,32
+|19.670
+|-
+| align="left" |[[Nghĩa Đồng, Nghệ An|Nghĩa Đồng]]
+|72,43
+|20.195
+|-
+| align="left" |[[Nghĩa Hành, Nghệ An|Nghĩa Hành]]
+|112,00
+|22.312
+|-
+| align="left" |[[Nghĩa Hưng, Nghệ An|Nghĩa Hưng]]
+|68,65
+|25.459
+|-
+| align="left" |[[Nghĩa Khánh]]
+|77,72
+|25.653
+|-
+| align="left" |[[Nghĩa Lâm, Nghệ An|Nghĩa Lâm]]
+|121,75
+|23.753
+|-
+| align="left" |[[Nghĩa Lộc]]
+|62,93
+|25.007
+|-
+| align="left" |[[Nghĩa Mai]]
+|146,99
+|17.844
+|-
+| align="left" |[[Nghĩa Thọ]]
+|92,19
+|21.391
+|-
+| align="left" |[[Nhân Hòa, Nghệ An|Nhân Hòa]]
+|86,88
+|22.626
+|-
+| align="left" |[[Nhôn Mai]]
+|310,26
+|7.060
+|-
+| align="left" |[[Phúc Lộc, Nghệ An|Phúc Lộc]]
+|70,50
+|28.236
+|-
+| align="left" |[[Quan Thành]]
+|37,71
+|29.973
+|-
+| align="left" |[[Quảng Châu, Nghệ An|Quảng Châu]]
+|26,40
+|37.434
+|-
+| align="left" |[[Quang Đồng]]
+|75,61
+|22.364
+|-
+| align="left" |[[Quế Phong, Nghệ An|Quế Phong]]
+|276,57
+|22.834
+|-
+| align="left" |[[Quỳ Châu (xã)|Quỳ Châu]]
+|327,53
+|23.094
+|-
+| align="left" |[[Quỳ Hợp (xã)|Quỳ Hợp]]
+|90,07
+|36.929
+|-
+| align="left" |[[Quỳnh Anh, Nghệ An|Quỳnh Anh]]
+|39,80
+|60.329
+|-
+| align="left" |[[Quỳnh Lưu, Nghệ An|Quỳnh Lưu]]
+|40,55
+|73.584
+|-
+| align="left" |[[Quỳnh Phú, Nghệ An|Quỳnh Phú]]
+|33,48
+|72.062
+|-
+| align="left" |[[Quỳnh Sơn, Nghệ An|Quỳnh Sơn]]
+|61,21
+|36.834
+|-
+|align="left" |[[Quỳnh Tam]]
+|103,40
+|35.568
+|}
+| valign="top" width="25%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Diện tích
+(km²)
+! style="border-bottom: 2px solid #CCCCFF;" |Dân số
+(người)
+|-
+| align="left" |[[Quỳnh Thắng]]
+|107,99
+|15.313
+|-
+| align="left" |[[Quỳnh Văn]]
+|53,35
+|42.927
+|-
+| align="left" |[[Sơn Lâm, Nghệ An|Sơn Lâm]]
+|162,94
+|12.331
+|-
+| align="left" |[[Tam Đồng, Nghệ An|Tam Đồng]]
+|53,38
+|26.382
+|-
+| align="left" |[[Tam Hợp, Nghệ An|Tam Hợp]]
+|135,97
+|42.628
+|-
+| align="left" |[[Tam Quang, Nghệ An|Tam Quang]]
+|507,95
+|13.013
+|-
+| align="left" |[[Tam Thái, Nghệ An|Tam Thái]]
+|356,01
+|7.730
+|-
+| align="left" |[[Tân An, Nghệ An|Tân An]]
+|90,41
+|22.775
+|-
+| align="left" |[[Tân Châu, Nghệ An|Tân Châu]]
+|64,60
+|33.073
+|-
+| align="left" |[[Tân Kỳ, Nghệ An|Tân Kỳ]]
+|116,50
+|32.974
+|-
+| align="left" |[[Tân Phú, Nghệ An|Tân Phú]]
+|93,32
+|28.878
+|-
+| align="left" |[[Thần Lĩnh]]
+|44,69
+|21.718
+|-
+| align="left" |[[Thành Bình Thọ]]
+|88,18
+|12.021
+|-
+| align="left" |[[Thiên Nhẫn]]
+|70,81
+|40.885
+|-
+| align="left" |[[Thông Thụ]]
+|706,75
+|8.481
+|-
+| align="left" |[[Thuần Trung]]
+|49,26
+|40.317
+|-
+| align="left" |[[Tiên Đồng]]
+|119,62
+|19.663
+|-
+| align="left" |[[Tiền Phong, Nghệ An|Tiền Phong]]
+|319,02
+|14.494
+|-
+| align="left" |[[Tri Lễ, Nghệ An|Tri Lễ]]
+|243,95
+|14.432
+|-
+| align="left" |[[Trung Lộc, Nghệ An|Trung Lộc]]
+|31,35
+|31.182
+|-
+| align="left" |[[Tương Dương (xã)|Tương Dương]]
+|330,95
+|18.479
+|-
+| align="left" |[[Vạn An, Nghệ An|Vạn An]]
+|56,37
+|44.830
+|-
+| align="left" |[[Văn Hiến]]
+|55,53
+|39.144
+|-
+| align="left" |[[Văn Kiều]]
+|63,46
+|28.341
+|-
+| align="left" |[[Vân Du, Nghệ An|Vân Du]]
+|84,30
+|25.868
+|-
+| align="left" |[[Vân Tụ]]
+|48,73
+|43.922
+|-
+| align="left" |[[Vĩnh Tường, Nghệ An|Vĩnh Tường]]
+|76,44
+|24.810
+|-
+| align="left" |[[Xuân Lâm, Nghệ An|Xuân Lâm]]
+|60,88
+|40.624
+|-
+| align="left" |[[Yên Hòa, Nghệ An|Yên Hòa]]
+|211,01
+|8.418
+|-
+| align="left" |[[Yên Na]]
+|297,32
+|9.530
+|-
+| align="left" |[[Yên Thành, Nghệ An|Yên Thành]]
+|38,13
+|47.780
+|-
+| align="left" |[[Yên Trung, Nghệ An|Yên Trung]]
+|37,74
+|26.239
+|-
+| align="left" |[[Yên Xuân, Nghệ An|Yên Xuân]]
+|90,41
+|27.707
+|}
+|}
+
+== Dân cư ==
+{{Historical populations
+| title = '''Dân số tỉnh Nghệ An qua các năm'''
+| type = Vie 
+| [[1990]] | 2.525.800
+| [[1991]] | 2.415.425
+| [[1992]] | 2.601.600
+| [[1993]] | 2.639.700
+| [[1994]] | 2.678.300
+| [[1995]] | 2.714.900
+| [[1996]] | 2.752.800
+| [[1997]] | 2.791.300
+| [[1998]] | 2.829.400
+| [[1999]] | 2.865.200
+| [[2000]] | 2.871.100
+| [[2001]] | 2.877.000
+| [[2002]] | 2.881.600
+| [[2003]] | 2.884.900
+| [[2004]] | 2.890.000
+| [[2005]] | 2.895.600
+| [[2006]] | 2.900.100
+| [[2007]] | 2.905.200
+| [[2008]] | 2.912.200
+| [[2009]] | 2.914.500
+| [[2010]] | 2.954.730
+| [[2011]] | 2.996.140
+| [[2012]] | 3.035.990
+| [[2013]] | 3.076.380
+| [[2014]] | 3.116.330
+| [[2015]] | 3.160.600
+| [[2016]] | 3.203.100
+| [[2017]] | 3.246.700
+| [[2018]] | 3.291.400
+| [[2019]] | 3.337.700
+| [[2020]] | 3.365.198
+| [[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2020]] | 3.727.791
+| [[2021]] | 3.409.810
+| [[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2021]] | 3.809.810
+| [[2022]] | 3.419.989
+| [[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2022]] | 3.916.900
+| [[2023]] | 3.441.970
+| [[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2023]] | 3.807.630
+| [[1 tháng 4|01]]/[[Tháng tư|04]]/[[2024]] | 3.470.988
+| [[2024]] | 3.472.290
+| [[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2024]] | 3.831.694
+| [[2025]] | 
+}}
+
+Dân số Nghệ An (theo điều tra dân số năm 2019) có 3.327.791 người. Trên toàn tỉnh Nghệ An có nhiều dân tộc cùng sinh sống như [[người Thái]], [[người Mường]] bên cạnh dân tộc chính là người Kinh. Cùng thời điểm này, Nghệ An có 37 dân tộc cùng [[người nước ngoài]] sinh sống.
+
+Qua kết quả sơ bộ Tổng điều tra, tại thời điểm 0 giờ ngày 01 tháng 4 năm 2019, tỉnh Nghệ An có 848.977 hộ với 3.327.791 người và là tỉnh có dân số đông thứ 4 cả nước. Như vậy, sau 10 năm từ 2009 đến 2019, dân số tỉnh Nghệ An đã tăng 415.750 người (dân số năm 2009 là 2.912.041 người), tỷ lệ tăng dân số bình quân năm giai đoạn 2009-2019 là 1,33%.
+
+Dân cư ở Nghệ An phân bố không đồng đều, tại khu vực các huyện đồng bằng [[Diễn Châu]], [[Nghi Lộc]], [[Đô Lương]], [[Quỳnh Lưu]], [[Yên Thành]], [[Nam Đàn]], [[Hưng Nguyên]], thành phố [[Vinh]], thị xã [[Cửa Lò]], [[Hoàng Mai (thị xã)|Hoàng Mai]] có mật độ cao, hơn 500 người/km². Đối với các huyện [[Nghĩa Đàn]], [[Thanh Chương]], [[Quỳ Hợp]], [[Anh Sơn]], [[Tân Kỳ]] thì mật độ dân số trung bình khá đông, khoảng 130-250 người/km², nhưng ở những huyện này mật độ cao chỉ tập trung ở các khu vực thung lũng, các nơi ở sâu trong núi thì rất thưa thớt. Các huyện phía Tây có mật độ trên dưới 50 người/km² như: [[Quỳ Châu]], [[Con Cuông]], [[Kỳ Sơn]], [[Tương Dương]], [[Quế Phong]] đều có mật độ dân số rất thấp, nguyên nhân là do địa hình hiểm trở, khí hậu khắc nghiệt, giao thông khó khăn. Trong số các huyện đồng bằng ven biển thì huyện [[Diễn Châu]] là đông dân nhất, [[Thanh Chương]] là huyện miền núi có dân số lớn nhất, là huyện miền núi duy nhất ở Việt Nam có dân số vượt ngưỡng hơn 250.000 người. Tỷ lệ đô thị hóa tính đến năm 2021 đạt 33%.
+
+Theo Niên giám thống kê năm 2020, dân số tỉnh Nghệ An đến năm 2020 là 3.365.198 người, chủ yếu sinh sống ở khu vực nông thôn (với 84,5%). Mật độ dân số 204 người/km².
+
+Dân số vùng dân tộc thiểu số và miền núi sinh sống ở tỉnh Nghệ An trên 1,2 triệu người (chiếm 36% dân số toàn tỉnh). Đồng bào dân tộc thiểu số là 491.267 người, chiếm 14,76% dân số toàn tỉnh và chiếm 40,93% dân số trên địa bàn miền núi.
+
+Nghệ An hiện có 47 dân tộc cùng sinh sống, trong đó dân tộc thiểu số chiếm tỷ lệ cao là: Thái (338.559 người), Thổ (71.420 người), Khơ Mú (43.139 người), Mông (33.957 người).
+
+Theo Niên giám thống kê năm 2023, dân số trung bình của tỉnh Nghệ An năm 2022 là 3.419.989 người. Mật độ dân số 207 người/km². Trong đó, dân số thành thị là 530.452 người, chiếm 15,51%; dân số nông thôn là 2.889.537 người, chiếm 84,49%; dân số nam là 1.711.827 người, chiếm 50,05%; dân số nữ là 1.708.162 người, chiếm 49,95%. Trong tỉnh hiện có trên 500.000 đồng bào các dân tộc thiểu số (gồm các dân tộc Thái, Thổ, Khơ Mú, H’Mông, Ơ Đu... cùng sinh sống).
+
+Năm 2022, lực lượng lao động từ 15 tuổi trở lên của tỉnh Nghệ An là 1.623,1 nghìn người; trong đó lao động nam là 867,7 nghìn người, chiếm 53,46%; lao động nữ là 755,4 nghìn người, chiếm 46,54%; lực lượng lao động ở khu vực thành thị là 252,3 nghìn người, chiếm 15,55%; lực lượng lao động ở nông thôn là 1.370,8 nghìn người, chiếm 84,45%.
+
+Tính đến năm 2024, tỉnh Nghệ An có diện tích tự nhiên 16.486,50&nbsp;km²,<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương"/> dân số trung bình là 3.472.290 người,<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương"/> trong đó dân số nam ước tính đạt khoảng 1.740.470 người chiếm ({{formatnum:{{#expr:1740470/3472290*100round1}}}}%),<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương"/> dân số nữ ước tính đạt khoảng 1.731.820 người chiếm ({{formatnum:{{#expr:1731820/3472290*100round1}}}}%),<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương"/> dân số thành thị ước tính đạt khoảng 546.000 người chiếm ({{formatnum:{{#expr:546000/3472290*100round1}}}}%),<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương">[https://www.nso.gov.vn/px-web-2/?pxid=V0203-07&theme=D%C3%A2n%20s%E1%BB%91%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng Diện tích, dân số và mật độ dân số phân theo địa phương], Trang Thông tin điện tử Cục Thống kê - Bộ Tài chính</ref> dân số nông thôn ước tính đạt khoảng 2.926.290 người chiếm ({{formatnum:{{#expr:2926290/3472290*100round1}}}}%),<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương"/> với mật độ dân số là {{formatnum:{{#expr:floor({{formatnum:3.472.290|R}}/{{formatnum:16.486,50|R}})}} }} người/km².<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương"/>
+
+Tính đến ngày 31 tháng 12 năm 2024, tỉnh Nghệ An có diện tích tự nhiên là 16.486,50&nbsp;km², quy mô dân số là 3.831.694 người, trong đó dân số thành thị ước tính đạt khoảng 720.432 người chiếm ({{formatnum:{{percentage|{{formatnum:720.432|R}}|{{formatnum:3.831.694|R}}|2}} }}), dân số nông thôn ước tính đạt khoảng 3.111.262 người chiếm ({{formatnum:{{percentage|{{formatnum:3.111.262|R}}|{{formatnum:3.831.694|R}}|2}} }}), mật độ dân số là {{formatnum:{{#expr:floor({{formatnum:3.831.694|R}}/{{formatnum:16.486,50|R}})}} }} người/km².<ref name=TT>{{Chú thích web|url=https://tuoitre.vn/chi-tiet-du-kien-quy-mo-dan-so-dien-tich-kinh-te-cua-34-tinh-thanh-sau-sap-nhap-20250513081155167.htm|tựa đề= Chi tiết dự kiến quy mô dân số, diện tích, kinh tế của 34 tỉnh, thành sau sáp nhập |tác giả= Thành Chung |ngày= 2025-05-13 |website= Tuổi Trẻ Online |url lưu trữ=https://web.archive.org/web/20250513080219/https://tuoitre.vn/chi-tiet-du-kien-quy-mo-dan-so-dien-tich-kinh-te-cua-34-tinh-thanh-sau-sap-nhap-20250513081155167.htm|ngày lưu trữ= 2025-05-13 |ngày truy cập= 2025-05-13 |url-status= dead }}</ref><ref name="DT">{{Chú thích web|url=https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm|tựa đề= Dự kiến chi tiết diện tích, dân số, quy mô kinh tế của 34 tỉnh, thành mới |tác giả= Lê Hoa |ngày= 2025-06-09 |website= Báo Dân Trí |url lưu trữ=https://web.archive.org/web/20250609217756/https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm|ngày lưu trữ= 2025-06-09 |ngày truy cập= 2025-06-09 |url-status= dead }}</ref>
+
+Tính đến ngày 1 tháng 4 năm 2019, toàn tỉnh có 11 [[tôn giáo]] khác nhau đạt 287.232 người, nhiều nhất là [[Công giáo tại Việt Nam|Công giáo]] có 287.064 người, tiếp theo là [[Phật giáo Việt Nam|Phật giáo]] có 1.079 người. Còn lại các tôn giáo khác như [[Kháng Cách|đạo Tin Lành]] có 58 người, [[Hồi giáo tại Việt Nam|Hồi giáo]] có 12 người, [[Minh Lý đạo]] có 5 người, [[Phật giáo Hòa Hảo]], [[đạo Cao Đài]], [[Tịnh độ cư sĩ Phật hội Việt Nam]] mỗi tôn giáo có 3 người, [[Minh Sư đạo]], [[Baha'i giáo]] mỗi tôn giáo có 2 người và 1 người theo [[Tứ Ân Hiếu Nghĩa]].<ref name="dstcdtvn">[http://www.gso.gov.vn/Modules/Doc_Download.aspx?DocID=12724 Kết quả toàn bộ Tổng điều tra Dân số và Nhà ở Việt Nam năm 2009], Tổng cục Thống kê Việt Nam.</ref><ref>{{Chú thích web |last=dieutradanso.gso.gov.vn |title=11. Kết quả toàn bộ Tổng điều tra |url=https://tongdieutradanso.vn/11-ket-qua-toan-bo-tong-dieu-tra.html |access-date=2025-06-30 |website=tongdieutradanso.vn |archive-date=2025-06-30 |archive-url=https://web.archive.org/web/20250630151224/https://tongdieutradanso.vn/11-ket-qua-toan-bo-tong-dieu-tra.html |url-status=dead }}</ref>
+
+==Giao thông==
+Vị trí này tạo cho Nghệ An có vai trò quan trọng trong mối giao lưu kinh tế - xã hội Bắc - Nam, xây dựng và phát triển kinh tế biển, kinh tế đối ngoại và mở rộng hợp tác quốc tế. Nghệ An nằm trên các tuyến đường quốc lộ Bắc - Nam (tuyến quốc lộ 1A dài 91&nbsp;km đi qua thị xã Hoàng Mai, các huyện Quỳnh Lưu, Diễn Châu, Nghi Lộc, Hưng Nguyên và thành phố Vinh; [[đường Hồ Chí Minh]] chạy song song với Quốc lộ 1 dài 132&nbsp;km đi qua các huyện Quỳnh Lưu, Nghĩa Đàn, Tân Kỳ, Anh Sơn, Thanh Chương và thị xã Thái Hòa; [[quốc lộ 15]] ở phía tây dài 149&nbsp;km chạy xuyên suốt tỉnh). Tỉnh có tuyến [[đường sắt Bắc Nam]] dài 94&nbsp;km chạy qua.
+
+[[Tập tin:Bến xe Vinh.jpeg|nhỏ|phải|270px|Bến xe Vinh]]
+Có [[Quốc lộ 1]], [[quốc lộ 46]], [[quốc lộ 46B]], [[quốc lộ 7]], [[quốc lộ 15]], [[quốc lộ 48A]], [[quốc lộ 48C]], [[đường Hồ Chí Minh]], [[đường cao tốc Nghi Sơn – Diễn Châu]], [[đường cao tốc Diễn Châu – Bãi Vọt]], [[đường sắt Bắc - Nam]] đi qua.
+[[Tập tin:Ga Vinh.jpeg|nhỏ|phải|270px|Ga Vinh]]
+
+== Kinh tế – xã hội ==
+
+Năm [[2019]], GRDP toàn tỉnh tăng trưởng 9,03% so với năm 2018, GRDP thực tế đạt 88.258 tỉ đồng, cơ cấu kinh tế chuyển dịch đúng hướng. Thu ngân sách ước đạt 15.500 tỷ đồng, đạt 114,8% dự toán và tăng 10,2% so với thực hiện năm 2018. Chi ngân sách năm 2019 ước đạt 24.945,44 tỷ đồng, đạt 102,5% dự toán.{{Chính|Danh sách đơn vị hành chính Việt Nam theo GRDP}}{{Chính|Danh sách đơn vị hành chính Việt Nam theo GRDP bình quân đầu người}}
+
+=== Công nghiệp ===
+Hiện nay ngành công nghiệp của Nghệ An tập trung phát triển ở 3 khu vực là [[Vinh]] - [[Cửa Lò]] gắn với Khu kinh tế Đông Nam, Khu vực Hoàng Mai và khu vực Phủ Quỳ. Phấn đấu phát triển nhiều ngành công nghiệp có thế mạnh như các ngành chế biến thực phẩm - đồ uống, chế biến thủy hải sản, dệt may, vật liệu xây dựng, cơ khí, sản xuất đồ thủ công mỹ nghệ, chế tác đá mỹ nghệ, đá trang trí, sản xuất bao bì, nhựa, giấy... Trong bảng xếp hạng về [[Chỉ số năng lực cạnh tranh cấp tỉnh]] của Việt Nam năm 2014, tỉnh Nghệ An xếp ở vị trí thứ 28/63 tỉnh thành.<ref>{{Chú thích web| url = http://baonghean.vn/kinh-te/201504/nghe-an-xep-hang-kha-ve-chi-so-nang-luc-canh-tranh-cap-tinh-601741/| tiêu đề = PCI 2014: Báo Nghệ An| ngày truy cập = 2015-05-05| archive-date = ngày 5 tháng 5 năm 2015 | archive-url = https://web.archive.org/web/20150505073045/http://baonghean.vn/kinh-te/201504/nghe-an-xep-hang-kha-ve-chi-so-nang-luc-canh-tranh-cap-tinh-601741/}}</ref> Tăng trưởng GDP năm 2014 đạt gần 8%.
+
+Thu nhập bình quân đầu người 2019 đạt khoảng 1.685 USD/người, tương đương khoảng 38,5 triệu đồng/người. Tuy nhiên, khoảng cách thu nhập không đồng đều, thành phố Vinh là trên 3.600 USD/người, các huyện Diễn Châu, Nghi Lộc, Quỳnh Lưu,... có mức dao động khoảng từ 1.800 - 2.500 USD/người, nhưng các huyện miền núi phía Tây lại rất thấp, có huyện dưới 1.000 USD/người.[[Tập tin:Khu Công nghiệp Nam Cấm, Nghi Lộc, Nghệ An.jpeg|nhỏ|300px|Khu Công nghiệp Nam Cấm ([[2016]]), huyện Nghi Lộc.]]Hiện nay, trên địa bàn tỉnh Nghệ An các khu công nghiệp sau:
+
+*Khu kinh tế Đông Nam
+*Khu công nghiệp đô thị Việt Nam Singapore VSIP Nghệ An 1, 2
+*Khu công nghiệp Bắc Vinh
+*Khu công nghiệp Nam Cấm
+*Khu công nghiệp Nghi Phú
+*Khu công nghiệp Hưng Đông
+*Khu công nghiệp Cửa Lò
+*Khu công nghiệp Hoàng Mai 1, 2
+*Khu công nghiệp Đông Hồi
+*Khu công nghiệp Phủ Quỳ
+*Khu công nghiệp Tân Thắng
+*khu công nghiệp Diễn Hồng - Diễn Châu
+*Khu công nghiệp Hưng Lộc
+* Khu công nghiệp WHA Nghệ An
+* Khu công nghiệp Thọ Lộc - Diễn Châu
+
+=== Du lịch ===
+[[Tập tin:Sun rise at CuaLo.jpg|nhỏ|250px|phải|Bình minh trên bãi biển Cửa Lò]]
+Có [[bãi biển Cửa Lò|bãi tắm Cửa Lò]] là khu nghỉ mát; Khu du lịch biển diễn Thành, huyện [[Diễn Châu (huyện)|Diễn Châu]] - một bãi biển hoang sơ và lãng mạn; khu di tích Hồ Chí Minh, khu di tích đền Cuông. Năm 2008, Khu du lịch Bãi Lữ được đưa vào khai thác.
+
+Nghệ An có nhiều lễ hội cổ truyền diễn ra trên sông nước như lễ hội Cầu Ngư, Rước hến, Đua thuyền... Lễ hội làm sống lại những kỳ tích lịch sử được nâng lên thành huyền thoại, giàu chất sử thi, đậm đà tính nhân văn như lễ hội [[đền Cuông]], lễ hội Đền Thái Sư Cương Quốc Công [[Nguyễn Xí]], lễ hội đền thờ [[Hồ Hưng Dật]] gọi tắt '''Lễ hội đền Vua Hồ''', '''Lễ hội Cầu Ngư Diễn Châu''' , Lễ hội [[Phượng Hoàng trung đô|Phượng Hoàng Trung Đô vinh]] đền Thờ vua [[Nguyễn Huệ]], lễ hội [[đền Khai Long]], lễ hội làng Vạn Lộc, lễ hội làng Sen, lễ hội đền Quả Sơn, Lễ hội đền cờn, Lễ hội đền Hoàng Mười. Miền núi có các lễ hội như Hang Bua, lễ hội Xàng Khan, lễ Mừng nhà mới, lễ Uống rượu cần. Lễ hội Đền Tiên Đô (Tiên Đô Miếu) ở Đặng Sơn vào lễ khai hạ mồng 7 tháng giêng và Lễ kỵ nhật 16/6 của 3 thần bản cảnh- Thành Hoàng nơi thờ Phó Quốc vương [[Mạc Đăng Lượng]] thượng thượng thượng đẳng thần, Binh nhung Đại tướng Hoàng Trần Ích thượng đẳng thần, Hoàng Bá Kỳ Đoan túc tôn thần.
+
+Nghệ An còn lưu giữ được nhiều di tích văn hoá lịch sử, nhiều danh lam thắng cảnh, lễ hội văn hoá truyền thống - đó là những yếu tố thuận lợi giúp cho du lịch Nghệ An phát triển.
+
+Về du lịch biển, Nghệ An có 82&nbsp;km bờ biển với nhiều bãi tắm đẹp hấp dẫn khách du lịch quốc tế như bãi biển Cửa Lò, Cửa Hội; Nghi Thiết, Bãi Lữ ([[Nghi Lộc (huyện)|Nghi Lộc]]), Quỳnh Bảng, [[Quỳnh Nghĩa]] ([[Quỳnh Lưu (huyện)|Quỳnh Lưu]]), Quỳnh Phương ([[Hoàng Mai (thị xã)|Hoàng Mai]]), Diễn Thành ([[Diễn Châu (huyện)|Diễn Châu]]). Đồng thời Nghệ An rất có lợi thế phát triển du lịch văn hóa. Hiện nay Nghệ An có trên 1 ngàn di tích lịch sử văn hóa, trong đó có gần 200 di tích lịch sử văn hoá được xếp hạng, đặc biệt là Khu di tích Kim Liên, quê hương của chủ tịch [[Hồ Chí Minh]], hàng năm đón xấp xỉ 2 triệu lượt nhân dân và du khách đến tham quan nghiên cứu.
+
+Khu di tích lịch sử Kim Liên, cách phường [[Trường Vinh]] 12&nbsp;km về phía Tây Nam, là khu di tích tưởng niệm Chủ tịch Hồ Chí Minh tại xã [[Kim Liên (xã)|Kim Liên]]. Nơi đây gắn với thời niên thiếu của Hồ Chí Minh và còn lưu giữ những kỷ niệm thuở nhỏ của cậu bé Nguyễn Sinh Cung, những dấu tích và những kỷ vật của gia đình.
+
+Làng Sen, quê nội của Hồ Chí Minh, tên chữ là Kim Liên (bông sen vàng). Làng có nhiều hồ thả sen suốt hai bên đường làng. Ngôi nhà của Hồ Chí Minh sống thuở nhỏ dựng bằng tre và gỗ, 5 gian, lợp tranh. Trong nhà có những đồ dùng giống như các gia đình nông dân: phản gỗ, chõng tre, cái võng gai, bàn thờ... Nhà được dựng năm 1901 do công sức và tiền của dân làng góp lại làm tặng ông [[Nguyễn Sinh Sắc]], cha của Hồ Chí Minh khi ông Sắc đỗ Phó Bảng đem lại vinh dự cho cả làng.
+
+Cách làng Sen 2&nbsp;km là làng Chùa (tên chữ là Hoàng Trù) - quê ngoại của Hồ Chí Minh - và cũng là nơi ông cất tiếng khóc chào đời, được mẹ nuôi dạy những năm ấu thơ.
+
+Khu du lịch thành phố Vinh nằm ở vị trí giao thông thuận tiện, có quốc lộ 1a và tuyến [[đường sắt Bắc Nam|đường sắt Bắc - Nam]] chạy qua, có sân bay Vinh nằm cách trung tâm thành phố không xa. Thành phố Vinh còn là đầu mối giao thông quan trọng giữa miền Bắc và miền Nam. Khách đi du lịch theo tuyến Quốc lộ 1 ngày càng tăng, lượng du khách đến với Nghệ An theo đó cũng tăng.
+
+Thành phố Vinh (nay là phường Trường Vinh) từ lâu đã hấp dẫn du khách bởi một quần thể khu du lịch với những nét đặc trưng tiêu biểu của một đô thị xứ Nghệ. Đến với Vinh, du khách có thể tham gia vào nhiều loại hình du lịch như: du lịch nghiên cứu, du lịch sinh thái, nghỉ dưỡng.
+
+Cách phường [[Trường Vinh]] 120&nbsp;km về phía Tây Nam, Vườn Quốc gia Pù Mát thuộc huyện Con Cuông, nằm trên sườn Đông của dải Trường Sơn, dọc theo biên giới Việt Lào. Nơi đây có một số loài động vật, thực vật quý hiếm cần phải được bảo tồn nghiêm ngặt như: sao la, thỏ vằn, niệc cổ hung và một số loài thực vật như pơ mu, sa mu, sao hải nam... Nơi đây đã được UNESCO đưa vào danh sách các [[khu dự trữ sinh quyển thế giới]] với tên gọi [[Khu dự trữ sinh quyển miền tây Nghệ An]]. Đến Diễn châu, du khách rẽ về phía tây theo đường 7 về Đặng Sơn thăm Di tích lịch sử quốc gia Nhà thờ họ Hoàng Trần do gia đình cụ Hoàng Quýnh - Nguyễn thị Đào xây dựng lại năm 1884 - gắn với cơ sở hoạt động thời kỳ 1930-1945 hoặc ra thăm Bãi Dâu Ba Ra.
+
+Hiện nay, nhiều tổ chức bảo vệ môi trường thế giới cũng như trong nước, đang có các dự án để bảo tồn và phát triển vườn quốc gia Pù Mát, khu bảo tồn thiên nhiên Pù Huống tạo thành khu du lịch sinh thái hấp dẫn.
+
+Khu du lịch Cửa Lò là điểm du lịch biển hấp dẫn với bãi cát trắng mịn chạy dài gần 10&nbsp;km, thông ra [[Hòn Ngư]], [[Hòn Mắt]], [[Đảo Lan Châu]] e ấp ven bờ như một nét chấm phá của bức tranh thủy mạc. Tất cả đã tạo ra cho Cửa Lò có một sức hấp dẫn mạnh mẽ với du khách thập phương.
+
+Khu du lịch Bãi biển Diễn Thành nằm tránh phường [[Trường Vinh]] khoảng 40&nbsp;km. Đây là bãi biển nổi tiếng tại [[Diễn Châu (huyện)|Diễn Châu]] (Nghệ An) với bãi cát trắng, sóng biển dịu êm, mang vẻ đẹp hoang sơ và vô cùng thơ mộng. Bên cạnh đó, hải sản tại đây cũng vô cùng tươi ngon và giá thành khá rẻ, thu hút hàng nghìn lượt du khách đến vui chơi tắm biển giải trí.
+
+[[Mường Lống]], nơi được mệnh danh là [[Sa Pa]] của xứ Nghệ hay [[Đà Lạt]] của xứ Nghệ là điểm dừng chân yêu thích của các phượt thủ. Tại đây, du khách không những được hòa mình vào khung cảnh thiên nhiên tuyệt đẹp, giữa biển mây bồng bềnh, chiêm ngưỡng những ngọn núi cao nhất [[thế giới]] mà còn có cơ hội tìm hiểu những nét đẹp văn hóa của người dân bản địa.
+
+Nghệ An còn là nơi có nhiều món ăn ngon, đặc sản nổi tiếng: cháo lươn Vinh, cơm lam, nhút Thanh Chương, tương Nam Đàn, cam xã Đoài... là những sản phẩm du lịch có sức cuốn hút khách du lịch quốc tế và trong nước.
+
+=== Xã hội ===
+
+Ngày 27/11, trong kỳ họp lần thứ 9 Ủy ban Liên Chính phủ Công ước UNESCO về bảo vệ di sản văn hóa phi vật thể diễn ra tại Pháp, Tổ chức Giáo dục Khoa học và Văn hóa của Liên hiệp quốc đã chính thức công nhận dân ca ví, dặm Nghệ Tĩnh của Việt Nam là Di sản văn hóa phi vật thể đại diện của nhân loại.
+
+==Thành phố kết nghĩa==
+*{{Biểu tượng lá cờ|VIE}} Tỉnh [[Quảng Ngãi]] (1961)
+Nghệ An có nhiều thành phố kết nghĩa trên khắp thế giới, nhiều thành phố trong số này là thủ đô của các quốc gia tương ứng:<ref>
+{{Chú thích web
+ |url=http://www.ebeijing.gov.cn/Sister_Cities/Sister_City/
+ |tiêu đề=Sister Cities
+ |nhà xuất bản=Beijing Municipal Government
+ |ngày truy cập=ngày 23 tháng 6 năm 2009
+ |archive-date=2010-01-17
+ |archive-url=https://www.webcitation.org/5mq6B2fdq?url=http://www.ebeijing.gov.cn/Sister_Cities/Sister_City/
+ |url-status=dead
+ }}</ref><ref name=partner>Paris and Rome are "partner cities" due to an exclusive agreement between those two cities.
+{{Chú thích web|url=http://www.paris.fr/portail/accueil/Portal.lut?page_id=6587&document_type_id=5&document_id=16467&portlet_id=14974
+ |url lưu trữ=https://web.archive.org/web/20081216141833/http://www.paris.fr/portail/accueil/Portal.lut?page_id=6587&document_type_id=5&document_id=16467&portlet_id=14974
+ |ngày lưu trữ=2008-12-16
+ |tiêu đề=Le jumelage avec Rome
+ |ngày truy cập=ngày 9 tháng 7 năm 2008
+ |nhà xuất bản=Municipalité de Paris
+ |ngôn ngữ=tiếng Pháp
+ |url-status=live
+ }}</ref>
+
+{| class="wikitable"
+|- valign="top"
+|
+* {{flagicon|Nhật Bản}} [[Tokyo]], Nhật Bản (1979)
+* {{flagicon|Serbia}} [[Beograd]], Serbia (1980)
+* {{flagicon|Hoa Kỳ}} [[Thành phố New York|New York]], Hoa Kỳ (1980)<ref>{{Chú thích web
+ |tiêu đề=NYC's Sister Cities
+ |nhà xuất bản=Sister City Program of the City of New York
+ |năm=2006
+ |url=http://www.nyc.gov/html/unccp/scp/html/sc/main.shtml
+ |ngày truy cập=ngày 1 tháng 9 năm 2008
+ |url lưu trữ=https://web.archive.org/web/20080914151237/http://www.nyc.gov/html/unccp/scp/html/sc/main.shtml
+ |ngày lưu trữ=2008-09-14
+ |url-status=dead
+ }}</ref>
+* {{flagicon|Peru}} [[Lima]], Peru (1983)
+* {{flagicon|Hoa Kỳ}} [[Washington, D.C.]], Hoa Kỳ (1984)<ref name="Washington DC">{{Chú thích web
+ |url=http://os.dc.gov/os/cwp/view,a,1206,q,522336.asp
+ |tiêu đề=Protocol and International Affairs
+ |nhà xuất bản=DC Office of the Secretary
+ |ngày truy cập=ngày 12 tháng 7 năm 2008
+ |archive-date = ngày 13 tháng 5 năm 2008 |archive-url=https://web.archive.org/web/20080513185356/http://os.dc.gov/os/cwp/view%2Ca%2C1206%2Cq%2C522336.asp
+ |url-status=dead
+ }}</ref>
+* {{flagicon|Tây Ban Nha}} [[Madrid]], Tây Ban Nha (1985)
+* {{flagicon|Brazil}} [[Rio de Janeiro]], Brasil (1986)
+* {{flagicon|Pháp}} [[Île-de-France]], Pháp (1987)
+* {{flagicon|Đức}} [[Köln]], Đức (1988)
+* {{flagicon|Algérie}} [[Algiers]], Algérie (1989)
+* {{flagicon|Jordan}} [[Amman]], Jordan (1990)
+* {{flagicon|Turkey}} [[Ankara]], Thổ Nhĩ Kỳ (1990)
+* {{flagicon|Egypt}} [[Cairo]], Ai Cập (1990)
+* {{flagicon|Indonesia}} [[Jakarta]], Indonesia (1992)
+* {{flagicon|Latvia}} [[Riga]], Latvia<ref>{{Chú thích web |url=http://www.riga.lv/EN/Channels/Riga Municipality/Twin cities of Riga/default.htm |tiêu đề=Twin cities of Riga |nhà xuất bản=Riga City Council |ngày truy cập=ngày 27 tháng 7 năm 2009 }}{{Liên kết hỏng|date=2023-06-28 |bot=InternetArchiveBot }}</ref>
+* {{flagicon|Brazil}} [[São Paulo]], Brasil<ref name="São Paulo">[http://www2.prefeitura.sp.gov.br/secretarias/relacoes internacionais/ingles/descentralized cooperation/sister cities/0001 Prefeitura.Sp – Descentralized Cooperation]{{Dead link|date=June 2010}}</ref><ref name="São Paulo2">
+{{Chú thích web
+ |url=http://www.prefeitura.sp.gov.br/cidade/secretarias/relacoes internacionais/cidadesirmas/index.php?p=1066
+ |tiêu đề=International Relations – São Paulo City Hall – Official Sister Cities
+ |nhà xuất bản=Prefeitura.sp.gov.br
+ |ngày truy cập=ngày 1 tháng 6 năm 2010
+}}</ref>
+||
+* {{flagicon|Pakistan}} [[Islamabad]], Pakistan (1993)
+* {{flagicon|Thailand}} [[Băng Cốc]], Thái Lan (1993)
+* {{flagicon|Argentina}} [[Buenos Aires]], Argentina (1993)
+* {{flagicon|Ukraine}} [[Kiev]], Ukraine (1993)
+* {{flagicon|Hàn Quốc}} [[Seoul]], Hàn Quốc (1993)
+* {{flagicon|Hà Lan}} [[Amsterdam]], Hà Lan (1994)
+* {{flagicon|Đức}} [[Berlin]], Đức (1994)
+* {{flagicon|Bỉ}} [[Bruxelles]], Bỉ (1994)
+* {{flagicon|Vietnam}} [[Hà Nội]], Việt Nam (1994)
+* {{flagicon|Nga}} [[Moskva]], Nga (1995)
+* {{flagicon|Nga}} [[Ulyanovsk (tỉnh)|Ulyanovsk]], Nga
+* {{flagicon|China}} [[Bắc Kinh]], Trung Quốc (1995)
+* {{flagicon|South Africa}} [[Gauteng]] ([[Johannesburg]] và [[Pretoria]]), Nam Phi (1998)
+* {{flagicon|Canada}} [[Ottawa]], Canada (1999)
+* {{flagicon|Australia}} [[Canberra]], Úc (2000)<ref name="Canberra">{{Chú thích web
+ |url=http://www.cmd.act.gov.au/international
+ |tiêu đề=Canberra's international relationships – Canberra's international relationships
+ |nhà xuất bản=cmd.act.gov.au
+ |ngày truy cập=ngày 20 tháng 10 năm 2009
+ |url lưu trữ=https://web.archive.org/web/20091112024145/http://www.cmd.act.gov.au/international
+ |ngày lưu trữ=2009-11-12
+ |url-status=dead
+ }}</ref>
+* {{flagicon|Greece}} [[Athens]], Hy Lạp (2005)
+* {{flagicon|Romania}} [[Bucharest]], România (2005)
+* {{flagicon|Hungary}} [[Budapest]], Hungary (2005)
+| valign="top" |
+* {{flagicon|Cuba}} [[La Habana]], Cuba (2005)
+* {{flagicon|Philippines}} [[Manila]], Philippines (2005)<ref name="Manila.Gov">{{Chú thích web
+ |url=http://www.manila.gov.ph/cityhall.htm#sistercities
+ |url lưu trữ=https://web.archive.org/web/20080607200336/http://www.manila.gov.ph/cityhall.htm#sistercities
+ |ngày lưu trữ=2008-06-07
+ |tiêu đề=Sister Cities of Manila
+ |nhà xuất bản=2008–2009 [http://www.manila.gov.ph/ City Government of Manila]
+ |ngày truy cập=ngày 2 tháng 7 năm 2009
+ |url-status=dead
+ }}</ref>
+* {{flagicon|Ethiopia}} [[Addis Ababa]], Ethiopia (2006)
+* {{flagicon|Kazakhstan}} [[Astana]], Kazakhstan (2006)
+* {{flagicon|Finland}} [[Helsinki]], Phần Lan (2006)
+* {{flagicon|United Kingdom}} [[Luân Đôn]], Anh Quốc (2006)
+* {{flagicon|Israel}} [[Tel Aviv]], Israel (2006)
+* {{flagicon|New Zealand}} [[Wellington]], New Zealand (2006)
+* {{flagicon|Bồ Đào Nha}} [[Lisboa]], Bồ Đào Nha (2007)
+* {{flagicon|Albania}} [[Tirana]], Albania (2007)<ref name="International relations">{{Chú thích web
+ |url=http://www.tirana.gov.al/common/images/International%20Relations.pdf
+ |tiêu đề=Twinning Cities: International Relations
+ |ngày truy cập=ngày 23 tháng 6 năm 2009
+ |work=Municipality of Tirana
+ |nhà xuất bản=tirana.gov.al
+ |định dạng=PDF
+ |archive-date=2008-02-16
+ |archive-url=https://web.archive.org/web/20080216035358/http://www.tirana.gov.al/common/images/International%20Relations.pdf
+ |url-status=dead
+ }}</ref>
+* {{flagicon|Qatar}} [[Doha]], Qatar (2008)
+* {{flagicon|Chile}} [[Santiago de Chile]], Chile (2008)
+* {{flagicon|Costa Rica}} [[San José, Costa Rica|San José]], Costa Rica (2009)
+* {{flagicon|Venezuela}} [[Caracas]], Venezuela (2010)
+* {{flagicon|Ireland}} [[Dublin]], Ireland (2011)
+* {{flagicon|Denmark}} [[Copenhagen]], Đan Mạch (2012)
+* {{flagicon|Angola}} [[Luanda]], Angola (2021)
+|}
+
+== Tham khảo ==
+{{tham khảo|30em}}
+
+== Liên kết ngoài ==
+{{Commonscat|Nghe An}}
+* {{Trang web chính thức|http://nghean.gov.vn}}
+* {{TĐBKVN|22160}}
+* [http://vnexpress.net/tin-tuc/thoi-su/dan-ca-vi-dam-nghe-tinh-duoc-vinh-danh-3113382.html Dân ca ví giặm Nghệ Tĩnh được vinh danh]
+
+{{Đơn vị hành chính cấp tỉnh Việt Nam}}
+
+[[Thể loại:Lãnh đạo tỉnh Nghệ An]]
+[[Thể loại:Nghệ An| ]]
+[[Thể loại:Bắc Trung Bộ]]
+[[Thể loại:Tỉnh ven biển Việt Nam]]
+[[Thể loại:Vịnh Bắc Bộ]]

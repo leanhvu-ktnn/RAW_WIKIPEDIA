@@ -1,0 +1,25 @@
+{
+  "request_url": "https://vi.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&inprop=url&maxlag=5&ppprop=wikibase_item%7Cdisambiguation&prop=info%7Cpageprops&redirects=1&titles=%C4%90%E1%BB%93ng+Th%C3%A1p%7C%C4%90%E1%BB%93ng+Th%C3%A1p+%28t%E1%BB%89nh%29%7C%C4%90%E1%BB%93ng+Th%C3%A1p+%28t%E1%BB%89nh+c%C5%A9%29%7C%C4%90%E1%BB%93ng+Th%C3%A1p+%28tr%C6%B0%E1%BB%9Bc+2025%29",
+  "params": {
+    "format": "json",
+    "formatversion": "2",
+    "maxlag": 5,
+    "action": "query",
+    "titles": "Đồng Tháp|Đồng Tháp (tỉnh)|Đồng Tháp (tỉnh cũ)|Đồng Tháp (trước 2025)",
+    "redirects": 1,
+    "prop": "info|pageprops",
+    "inprop": "url",
+    "ppprop": "wikibase_item|disambiguation"
+  },
+  "retrieved_at": "2026-09-29T15:27:34.604903Z",
+  "http_status": 200,
+  "headers": {
+    "date": "Tue, 29 Sep 2026 15:27:34 GMT",
+    "content-type": "application/json; charset=utf-8"
+  },
+  "path": "sources/responses/c72283b6b83b5c189bc07f8fa5338d3672682f580239eb5a88a07c6ad1c6eaf4.json",
+  "sha256": "c72283b6b83b5c189bc07f8fa5338d3672682f580239eb5a88a07c6ad1c6eaf4",
+  "byte_length": 1925,
+  "media_type": "application/json",
+  "representation": "unmodified MediaWiki HTTP response body bytes"
+}

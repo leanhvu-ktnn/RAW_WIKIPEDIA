@@ -1,0 +1,26 @@
+{
+  "request_url": "https://vi.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&inprop=url&maxlag=5&ppprop=wikibase_item%7Cdisambiguation&prop=info%7Cpageprops&redirects=1&titles=H%C3%A0+N%E1%BB%99i%7CH%C3%A0+N%E1%BB%99i+%28t%E1%BB%89nh%29%7CH%C3%A0+N%E1%BB%99i+%28t%E1%BB%89nh+c%C5%A9%29%7CH%C3%A0+N%E1%BB%99i+%28tr%C6%B0%E1%BB%9Bc+2025%29",
+  "params": {
+    "format": "json",
+    "formatversion": "2",
+    "maxlag": 5,
+    "action": "query",
+    "titles": "Hà Nội|Hà Nội (tỉnh)|Hà Nội (tỉnh cũ)|Hà Nội (trước 2025)",
+    "redirects": 1,
+    "prop": "info|pageprops",
+    "inprop": "url",
+    "ppprop": "wikibase_item|disambiguation"
+  },
+  "retrieved_at": "2026-09-29T15:20:12.679640Z",
+  "http_status": 200,
+  "headers": {
+    "date": "Tue, 29 Sep 2026 15:20:12 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1919"
+  },
+  "path": "sources/responses/cf7fa57a209fb479aa919685b63a6b178622828e04f1f4e91c39570e2fe99e90.json",
+  "sha256": "cf7fa57a209fb479aa919685b63a6b178622828e04f1f4e91c39570e2fe99e90",
+  "byte_length": 1919,
+  "media_type": "application/json",
+  "representation": "unmodified MediaWiki HTTP response body bytes"
+}

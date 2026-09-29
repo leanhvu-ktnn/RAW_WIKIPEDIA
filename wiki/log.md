@@ -11,3 +11,5 @@ status: active
 2026-09-29: khởi tạo từ audit offline corpus legacy. Ghi ba pattern quan sát; chưa có crawl mới hoặc vòng evolution được đánh giá. Giữ trace gốc để đối chiếu.
 
 2026-09-29: ghi nhận yêu cầu INF–RAW từ người dùng. Bổ sung schema đề xuất 0.1.0 và validator offline; 13 unit test đạt, chưa có request thật/crawl mới. Trace: [exchange-contract](../raw/exchange-contract-2026-09-29.json). Đây là thay đổi yêu cầu nghiệp vụ, không phải kết quả evolution có đo điểm.
+
+2026-09-29: hoàn tất thu thập 97 target NQ202/2025 sau pilot 5 target; 68 bài/169 revision tải về, 64 bài/149 revision được chọn. [Trace kiểm định](../raw/province-nq202-2026-09-29.json). Ghi nhận tách ID quan sát theo thời kỳ và xử lý Hà Nam trùng tên quốc gia; bổ sung runbook ba skill. Chưa đo mức cải thiện entity linking hoặc chạy vòng evolution có benchmark.

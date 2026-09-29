@@ -1,0 +1,904 @@
+{{other|Cà Mau (định hướng)}}
+{{Thông tin đơn vị hành chính Việt Nam| tỉnh
+| tên = Cà Mau
+| tên cũ = [[An Xuyên (tỉnh)|An Xuyên]], [[Rạch Giá (tỉnh)|Rạch Giá]], [[Ba Xuyên]], [[Chương Thiện]], [[Kiên Giang]], [[Minh Hải (tỉnh)|Minh Hải]], [[Bạc Liêu (tỉnh)|Bạc Liêu]]
+| logo = Logo tỉnh Cà Mau (2026).png
+| ghi chú logo = Biểu trưng
+| biệt danh = 
+* Đất Mũi
+* Cực Nam Tổ quốc
+* Vùng đất [[Công tử Bạc Liêu|công tử]]
+* Thủ phủ tôm
+* Quê hương [[Đờn ca tài tử Nam Bộ|đờn ca tài tử]]
+* Xứ cơ cầu
+* Xứ Khánh
+|nhiều hình={{multiple image
+| border = infobox
+| total_width = 300
+| image_style = border:1;
+| perrow = 2/2/2
+| image1 = Muicamau.jpg
+| caption1 = Không ảnh [[Mũi Cà Mau]] 
+| image2 = Bạc Liêu windpower farm.jpg
+| caption2 = Cánh đồng Điện gió [[Bạc Liêu (tỉnh)|Bạc Liêu]] 
+| image3 = Tuongdaimuicamau.jpg
+| caption3 = Tượng đài [[Mũi Cà Mau]] 
+| image4 = Nhà hát Cao Văn Lầu Bạc Liêu.webp 
+| caption4 = Nhà hát [[Cao Văn Lầu]]
+| image5 = Nhà Công tử Bạc Liêu.jpg
+| caption5 = Nhà [[Công tử Bạc Liêu]]
+| image6 = Nhà thờ Tắc Sậy.jpg
+| caption6 = Thánh đường Tắc Sậy
+}}
+| vĩ độ = 9.061414
+| kinh độ = 105.032043
+| bản đồ 1 =
+| diện tích = 7.942,39 km²<ref name="202/2025/QH15"/>
+| dân số = 2.606.672 người<ref name="202/2025/QH15"/>
+| thời điểm dân số = 31/12/2024
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:2.606.672|R}}/{{formatnum:7.942,39|R}})}} }} người/km²
+| dân tộc = [[Người Kinh|Kinh]], [[Người Hoa (Việt Nam)|Hoa]], [[Người Tày|Tày]], [[Người Khmer (Việt Nam)|Khmer]]
+| vùng = [[Đồng bằng sông Cửu Long]]
+| tỉnh lỵ = Phường [[Tân Thành, Cà Mau|Tân Thành]]
+| thành lập = 9/3/1956<ref name=32-VN/>
+| phân chia hành chính = 9 phường, 55 xã
+| trụ sở UBND = Số 02 Hùng Vương, phường [[Tân Thành, Cà Mau|Tân Thành]]
+| chủ tịch HĐND = [[Phạm Văn Thiều]]
+| đại biểu quốc hội = 
+*[[Dương Thanh Bình]]
+*[[Nguyễn Quốc Hận]]
+*[[Lê Mạnh Hùng (Tập đoàn Dầu khí Việt Nam)|Lê Mạnh Hùng]]
+*[[Đinh Ngọc Minh]]
+*[[Lê Quân]]
+*[[Nguyễn Duy Thanh]]
+| chủ tịch UBND = [[Lữ Quang Ngời]]
+| hội đồng nhân dân = 51 đại biểu
+| chủ tịch UBMTTQ = [[Hồ Thanh Thủy]]
+| chánh án TAND = [[Võ Kế Nghiệp]]
+| viện trưởng VKSND = [[Đặng Dư Phương]]
+| bí thư = [[Nguyễn Hồ Hải]]
+| thời điểm kinh tế = 2025<ref name="thanhtra.com.vn">{{Chú thích web|url=https://thanhtra.com.vn/an-sinh-AFA9C5670/kinh-te-xa-hoi-ca-mau-nam-2025-giu-vung-da-tang-truong-trong-boi-canh-nhieu-kho-khan-fd5a0cb86.html | |tựa đề = Thông cáo báo chí kinh tế xã hội tỉnh Cà Mau 2025| website= Báo Thanh tra |ngày truy cập= 2026-04-01 }}</ref>
+| GRDP = 172.033 tỉ đồng (6.84 tỉ USD)<ref name="thanhtra.com.vn"/>
+| GRDP đầu người = 66 triệu đồng (2.625 USD)<ref name="thanhtra.com.vn"/>
+| biển số xe = [[Biển xe cơ giới Việt Nam|69, 94]]
+| mã điện thoại = [[Mã điện thoại Việt Nam|290, 291]]
+| mã địa lý = [[ISO 3166-2:VN|VN-59]]
+| mã hành chính = 96<ref>{{Chú thích web|url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf|tựa đề= Quyết định số 19/2025/QĐ-TTg về việc ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |ngày= 2025-06-30 |website= Cổng Thông tin điện tử Chính phủ |url lưu trữ=https://web.archive.org/web/20251224142347/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf|ngày lưu trữ= 2025-12-24 |ngày truy cập= 2025-12-24 |url-status= dead }}</ref>
+| mã bưu chính = [[Mã bưu chính Việt Nam|97xxxx]]
+| web = {{url|camau.gov.vn}}
+}}
+
+'''Cà Mau''' là một [[Tỉnh (Việt Nam)|tỉnh]] [[ven biển]] nằm ở cực nam thuộc khu vực [[Đồng bằng sông Cửu Long]], [[Việt Nam]].<ref>{{Chú thích web|url=https://nhandan.vn/ca-mau-lam-giau-nho-bien-vuon-len-tu-bien-post858277.html|tựa đề= Cà Mau làm giàu nhờ biển, vươn lên từ biển |tác giả= |ngày= 2025-02-01 |website= Báo Nhân Dân |url lưu trữ=|ngày lưu trữ=|ngày truy cập= 2025-03-26 |url-status=live}}</ref> Toàn bộ địa phận tỉnh Cà Mau nằm trên [[Bán đảo Cà Mau]].<ref>{{Chú thích web|url=https://tuoitre.vn/ca-mau-rung-ngap-man-va-canh-quan-tuyet-dep-nhin-tu-tren-cao-20241110093828735.htm|tựa đề= Cà Mau rừng ngập mặn và cảnh quan tuyệt đẹp nhìn từ trên cao |tác giả= Thanh Huyền |ngày= 2024-11-10 |website= Tuổi Trẻ Online |url lưu trữ=|ngày lưu trữ=|ngày truy cập= 2025-03-26 |url-status=live}}</ref>
+
+==Nguồn gốc tên gọi==
+Tên gọi Cà Mau (chính tả cũ: '''Cà-mau''') được hình thành do [[người Khmer]] gọi tên vùng đất này là ''"Tưk Kha-mau"'' ([[tiếng Khmer]]: តឹកខ្មៅ<ref>Ngữ nguyên: តឹក (n) [tək]: kho lúa, vựa, nhà kho, ខ្មៅ (adj) [kmav]: màu đen.</ref>), có nghĩa là ''nước đen''. Do Nước đen là màu nước đặc trưng do lá tràm của thảm rừng tràm [[Rừng U Minh|U Minh]] bạt ngàn rụng xuống làm đổi màu nước. Cà Mau là xứ đầm lầy ngập nước, có nhiều bụi lác mọc tự nhiên và hoang dã. Chính vì lẽ đó từ thuở xưa đã có câu ca dao:
+{{cquote|<small>''Cà Mau là xứ quê mùa''</small><br><small>''Muỗi bằng gà mái, cọp tùa bằng trâu''</small>|||[[Ca dao Việt Nam]]}}
+
+==Địa lý==
+=== Khái quát ===
+[[Tập tin:Satellite picture of Ca Mau 2020-12-21-00 00 2020-12-21-23 59 Sentinel-2 L2A.jpg|left|thumb|Ảnh vệ tinh khu vực Cà Mau]]
+Tỉnh Cà Mau là mảnh đất tận cùng của tổ quốc với 3 mặt tiếp giáp với biển, cách thành phố [[Cần Thơ]] 180&nbsp;km, cách [[Thành phố Hồ Chí Minh]] 370&nbsp;km, có vị trí địa lý:<ref name=":0">{{Chú thích web |date=21/04/2025 |title=Lịch sử tỉnh Cà Mau - điểm cực Nam linh thiêng của Tổ quốc |url=https://baocaovien.vn/tin-tuc/lich-su-tinh-ca-mau-diem-cuc-nam-linh-thieng-cua-to-quoc/209626.html}}</ref>
+*Phía đông giáp [[Biển Đông]] với đường bờ biển 163&nbsp;km
+*Phía tây và phía nam giáp [[Vịnh Thái Lan]] với đường bờ biển 147&nbsp;km
+*Phía bắc giáp thành phố [[Cần Thơ]] và tỉnh [[An Giang]].
+
+Tỉnh Cà Mau có các điểm cực như sau:
+* Cực Đông là xã [[Hưng Hội]] 
+* Cực Tây (trên đất liền) là xã [[Đất Mũi]], Cực Tây (trên biển) là cụm đảo [[Hòn Chuối]] xã [[Sông Đốc]] 
+* Cực Nam (trên đất liền) là xã [[Đất Mũi]], Cực Nam (trên biển) là cụm đảo [[Hòn Khoai]] xã [[Đất Mũi]]
+* Cực Bắc là xã [[Vĩnh Lộc, Cà Mau|Vĩnh Lộc]].
+
+Điểm cao nhất và thấp nhất của tỉnh:
+* Cao nhất: [[Quần đảo Hòn Khoai|Hòn Khoai]] cao 318 m so với mực nước biển, là một đảo [[đá granit]] ngoài khơi phía Nam Cà Mau, có rừng nguyên sinh, thuộc hệ sinh thái rừng nhiệt đới hải đảo và hải đăng cổ
+* Thấp nhất: khu vực ven [[Biển Đông]] và [[Vịnh Thái Lan]] 0 m so với mực nước biển, đặc trưng là cảnh quan [[rừng ngập mặn]] và bãi bồi [[phù sa]]
+
+Tỉnh Cà Mau nằm trên trục đường {{Ký hiệu đường Việt Nam|QL|1}} [[Quốc lộ 1]] và {{Ký hiệu đường Việt Nam|CT|01}} [[Đường cao tốc Bắc – Nam phía Đông]]. Là tỉnh nằm trong [[Vùng kinh tế trọng điểm vùng đồng bằng sông Cửu Long]]. Đường bờ biển của tỉnh Cà Mau có độ dài gần 310&nbsp;km (dài thứ 2 cả nước), trong đó có 163&nbsp;km bờ [[Biển Đông]] và 147&nbsp;km bờ Biển Tây. Biển Cà Mau tiếp giáp với vùng biển các nước như [[Thái Lan]], [[Malaysia]], [[Indonesia]] và là trung tâm của vùng biển quốc tế ở [[Đông Nam Á]].
+
+===Điều kiện tự nhiên===
+Cà Mau là vùng đất thấp, khu vực rìa phía nam thường xuyên bị ngập nước.<ref>{{Chú thích web|url=https://tienphong.vn/mui-ca-mau-vi-dau-bi-bao-mon-post534632.tpo|tiêu đề=Mũi Cà Mau vì đâu bị bào mòn?|ngày=2011-04-14|website=Báo điện tử Tiền Phong|ngôn ngữ=vi|ngày truy cập=2025-03-26}}</ref> Cà Mau có 5 nhóm đất chính gồm: đất phèn, đất than bùn, đất bãi bồi, đất mặn và đất kênh rạch.
+
+Rừng Cà Mau là loại hình sinh thái đặc thù, rừng sinh thái ven biển ngập mặn được phân bố dọc ven biển với [[chiều dài]] 310&nbsp;km. Bên cạnh đó, Cà Mau còn có hệ sinh thái rừng tràm nằm sâu trong lục địa ở các huyện [[U Minh (huyện)|U Minh]], [[Trần Văn Thời (huyện)|Trần Văn Thời]] và [[Thới Bình (huyện)|Thới Bình]] cũ quy mô 35.000 ha. Diện tích rừng ngập mặn ở Cà Mau chiếm 77% rừng ngập mặn của vùng [[đồng bằng sông Cửu Long]].<ref name="dieukientunhien">[http://www.chinhphu.vn/portal/page/portal/chinhphu/cactinhvathanhpho/tinhcamau/thongtintinhthanh?view=introduction&provinceId=1341 Cà Mau là vùng đất thấp, thường xuyên bị ngập nước. Hiện nay đang có hiện tượng bồi lở ở cả hai phía biển Đông và Tây], Cổng Thông tin điện tử Chính phủ.</ref>
+
+Tỉnh Cà Mau mang đặc trưng của khí hậu nhiệt đới gió mùa cận xích đạo, với nền nhiệt độ cao vào loại trung bình trong tất cả các tỉnh [[Đồng bằng sông Cửu Long]]. Khí hậu Cà Mau được chia thành 2 mùa là mùa mưa và mùa khô. Trong đó, mùa mưa từ tháng 5 đến tháng 11, mùa khô từ tháng 12 đến tháng 4 năm sau. Lượng mưa ở Cà Mau trung bình có 165 ngày mưa/năm, với 2.360&nbsp;mm.<ref>{{Chú thích web|url=https://camau.gov.vn/dieu-kien-tu-nhien/khi-hau-239267|tiêu đề=Khí hậu|ngày=2025-03-26|website=Cổng Thông tin Điện tử tỉnh Cà Mau|ngôn ngữ=vi|url-status=live|ngày truy cập=2025-03-26}}</ref> Độ ẩm trung bình năm là 85,6%, nhiệt độ trung bình hàng năm là 26,5<sup><small>0</small></sup>C. Trong đó, nhiệt độ trung bình cao nhất trong năm là vào tháng 4, khoảng 27,6<sup><small>0</small></sup>C, [[nhiệt độ]] trung bình thấp nhất vào tháng 1, khoảng 25<sup><small>0</small></sup>C. Biển nhiệt độ trung bình trong 1 năm là 2,7<sup><small>0</small></sup>C.<ref name="dieukientunhien" /> Năm 2014, nhiệt độ thấp nhất ở đây đã xuống tới 20 độ C (tháng 1) (trước đó vào tháng 12 năm 2013 đã xuống còn 18 độ C). Nhiệt độ cao nhất là 38 độ C khi đang trong mùa khô vào tháng 4&nbsp;năm 2016.
+
+=== Bán đảo Cà Mau ===
+{{Bài chính|Bán đảo Cà Mau}}{{Đoạn thiếu nguồn gốc}}
+[[Tập tin:Cà Mau Peninsula in Vietnam.svg|trái|nhỏ|419x419px|[[Bán đảo Cà Mau]]]]
+Cà Mau là một dải đất hình tam giác, có chiều dài tối đa là 130 dặm và độ cao trung bình là 7 feet so với mực nước biển. Sự hình thành của nó gần như hoàn toàn là kết quả của trầm tích của [[sông Mekong]], cũng là kết quả của quá trình hình thành Mũi Bai ở cuối bán đảo.
+
+Khí hậu Cà Mau là nhiệt đới xa-van (Koppen: Aw) với lượng ẩm quanh năm trừ hai đến ba tháng mùa đông khí hậu tương đối khô hạn.
+
+=== Quần đảo thuộc Cà Mau ===
+====Quần đảo Hòn Khoai ====
+{{Bài chính|Quần đảo Hòn Khoai}}
+Quần đảo Hòn Khoai bao gồm 5 hòn đảo sát nhau:
+* [[Hòn Khoai (đảo)|Hòn Khoai]] (tên khác: Giáng Tiên, Độc Lập, Hòn Lớn)
+* [[Hòn Sao]] {{coord| 8.415943| 104.851404| name=h. Sao}} là hòn đảo lớn thứ hai nằm về phía đông Hòn Khoai với khoảng cách 1,35&nbsp;km, có diện tích khoảng 64 ha.
+* [[Hòn Đồi Mồi (Cà Mau)|Hòn Đồi Mồi]], hay Hòn Rùa {{coord| 8.420606| 104.862219| name=h. Rùa}}, nằm cạnh Hòn Sao, chỉ cách 400 mét về đông bắc, diện tích nhỏ chỉ khoảng 2,6 ha.
+* [[Hòn Tương]] {{coord| 8.453755| 104.843355| name=h. Tương}}, hay Hòn Thỏ nằm sát bờ cực bắc Hòn Khoai, diện tích nhỏ bé chỉ khoảng 1,5 ha.
+* [[Hòn Đá Lẻ]] {{coord| 8.378885| 104.873658| name=h.Đá Lẻ}} nằm vị trí cách xa so với 4 hòn của cụm đảo, cách đảo Hòn Khoai 7,7&nbsp;km về phía đông nam, chỉ là 1 cụm đá đen trơ trọi dài khoảng 125 m, rộng nhất 34m và cao nhất khoảng 7 m. Đây là vị trí ''Điểm A2'' của [[Đường cơ sở (biển)|Đường cơ sở]] của Việt Nam.<ref>{{chú thích web|url=https://thanhnien.vn/thoi-su/kham-pha-bi-an-hon-da-le-diem-a2-1066738.html|title=Khám phá bí ẩn 'Hòn Đá Lẻ - Điểm A2'|ngày truy cập=18 tháng 4 năm 2020 |date=4 April 2019 }}</ref>
+Tổng diện tích 4&nbsp;km².
+
+==== Cụm đảo Hòn Đá Bạc ====
+{{Bài chính|Cụm đảo Hòn Đá Bạc}}
+''Hòn Đá Bạc'' thuộc xã [[Đá Bạc]].
+* [[Hòn Trọi]] (Hòn Đá Bạc Lẻ, Hòn Đá Lẻ)
+* [[Hòn Lớn]] (Hòn Đá Bạc)
+* [[Hòn Ông Ngộ]]
+
+==== Cụm đảo Hòn Chuối ====
+* [[Hòn Chuối]]
+
+==Hành chính==
+{{Chính|Đô thị tại Cà Mau|Danh sách đơn vị hành chính thuộc tỉnh Cà Mau}}
+[[Image:Map of Ca Mau Province.jpg|200px|thumb|Bản đồ tỉnh Cà Mau]]
+
+Tỉnh Cà Mau có 64 [[Đơn vị hành chính cấp xã (Việt Nam)|đơn vị hành chính cấp xã]], gồm 9 [[Phường (Việt Nam)|phường]] và 55 [[Xã (Việt Nam)|xã]].<ref name="1655/NQ-UBTVQH15"/>
+
+{|class="wikitable sortable" cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+|+
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" | Danh sách các đơn vị hành chính cấp xã thuộc tỉnh Cà Mau
+|-
+|valign="top" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" style="background: #f9f9f9; font-size: 90%; text-align: right;" width="100%"
+|-
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap"| Tên
+!style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap"|Diện tích<br>(km²)
+!style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap"|Dân số<br>(người)
+|-
+| colspan="3" align="left" style="background: #F5F5DC; padding-left: 30px;"|'''Phường (9)'''
+|-
+|align="left"| [[An Xuyên (phường)|An Xuyên]]
+| 69,90
+| 81.303
+|-
+|align="left"| [[Bạc Liêu (phường)|Bạc Liêu]]
+| 29,73
+| 93.463
+|-
+|align="left"| [[Giá Rai (phường)|Giá Rai]]
+| 104,60
+| 71.149
+|-
+|align="left"| [[Hiệp Thành]]
+| 134,24
+| 38.370
+|-
+| align="left" |[[Hòa Thành, Cà Mau|Hòa Thành]]
+|97,29
+|47.167
+|-
+|align="left"| [[Láng Tròn]]
+| 106,43
+| 46.459
+|-
+|align="left"| [[Lý Văn Lâm (phường)|Lý Văn Lâm]]
+| 45,42
+| 50.684
+|-
+|align="left"| [[Tân Thành, Cà Mau|Tân Thành]]
+| 48,42
+| 83.758
+|-
+|align="left"| [[Vĩnh Trạch (phường)|Vĩnh Trạch]]
+| 49,75
+| 42.716
+|-
+| colspan="3" align="left" style="background: #F5F5DC; padding-left: 30px;" |'''Xã (55)'''
+|-
+| align="left" | [[An Trạch]]
+| 100,23
+| 28.412
+|-
+| align="left" | [[Biển Bạch]]
+| 158,20
+| 35.702
+|-
+| align="left" | [[Cái Đôi Vàm]]
+| 131,10
+| 36.444
+|-
+| align="left" | [[Cái Nước (xã)|Cái Nước]]
+| 118,25
+| 54.397
+|-
+| align="left" | [[Châu Thới]]
+| 91,54
+| 41.663
+|-
+| align="left" | [[Đá Bạc]]
+| 211,90
+| 41.022
+|-
+|}
+|valign="top" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" style="background: #f9f9f9; font-size: 90%; text-align: right;" width="100%"
+|-
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap"| Tên
+!style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap"|Diện tích<br>(km²)
+!style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap"|Dân số<br>(người)
+|-
+| align="left" | [[Đầm Dơi (xã)|Đầm Dơi]]
+| 96,20
+| 38.106
+|-
+| align="left" | [[Đất Mới]]
+| 222,94
+| 27.683
+|-
+| align="left" | [[Đất Mũi]]
+| 271,20
+| 33.298
+|-
+| align="left" | [[Định Thành]]
+| 117,18
+| 35.564
+|-
+| align="left" | [[Đông Hải, Cà Mau|Đông Hải]]
+| 147,93
+| 40,241
+|-
+| align="left" | [[Gành Hào]]
+| 84,65
+| 31.552
+|-
+| align="left" | [[Hòa Bình, Cà Mau|Hòa Bình]]
+| 114,77
+| 65.975
+|-
+| align="left" | [[Hồ Thị Kỷ (xã)|Hồ Thị Kỷ]]
+| 93,60
+| 27.283
+|-
+| align="left" | [[Hồng Dân (xã)|Hồng Dân]]
+| 124,92
+| 50.194
+|-
+| align="left" | [[Hưng Hội]]
+| 62,41
+| 29.592
+|-
+| align="left" | [[Hưng Mỹ, Cà Mau|Hưng Mỹ]]
+| 98,40
+| 38.687
+|-
+| align="left" | [[Khánh An]]
+| 177,70
+| 27.170
+|-
+| align="left" | [[Khánh Bình, Cà Mau|Khánh Bình]]
+| 104,50
+| 39.823
+|-
+| align="left" | [[Khánh Hưng, Cà Mau|Khánh Hưng]]
+| 129,60
+| 41.212
+|-
+| align="left" | [[Khánh Lâm]]
+| 208,20
+| 38.880
+|-
+| align="left" | [[Long Điền, Cà Mau|Long Điền]]
+| 129,54
+| 40.947
+|-
+| align="left" | [[Lương Thế Trân (xã)|Lương Thế Trân]]
+|142,42
+|66.191
+|}
+|valign="top" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" style="background: #f9f9f9; font-size: 90%; text-align: right;" width="100%"
+|-
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" | Tên
+!style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap"|Diện tích<br>(km²)
+!style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap"|Dân số<br>(người)
+|-
+| align="left" | [[Năm Căn (xã)|Năm Căn]]
+| 70,06
+| 30.135
+|-
+| align="left" | [[Nguyễn Phích (xã)|Nguyễn Phích]]
+| 245,00
+| 37.330
+|-
+| align="left" | [[Nguyễn Việt Khái (xã)|Nguyễn Việt Khái]]
+| 129,90
+| 37.307
+|-
+| align="left" | [[Ninh Quới]]
+| 73,12
+| 32.661
+|-
+| align="left" | [[Ninh Thạnh Lợi]]
+| 133,27
+| 24.791
+|-
+| align="left" | [[Phan Ngọc Hiển (xã)|Phan Ngọc Hiển]]
+| 237,70
+| 35.328
+|-
+| align="left" | [[Phong Hiệp]]
+| 117,28
+| 28.710
+|-
+| align="left" | [[Phong Thạnh, Cà Mau|Phong Thạnh]]
+| 142,96
+| 53.912
+|-
+| align="left" | [[Phú Mỹ, Cà Mau|Phú Mỹ]]
+| 87,81
+| 26.205
+|-
+| align="left" | [[Phú Tân, Cà Mau|Phú Tân]]
+| 101,70
+| 33.381
+|-
+| align="left" | [[Phước Long, Cà Mau|Phước Long]]
+| 98,11
+| 47.281
+|-
+| align="left" | [[Quách Phẩm (xã)|Quách Phẩm]]
+| 73,80
+| 28.844
+|-
+| align="left" | [[Sông Đốc (xã)|Sông Đốc]]
+| 83,95
+| 46.353
+|-
+| align="left" | [[Tạ An Khương (xã)|Tạ An Khương]]
+| 104,20
+| 33.179
+|-
+| align="left" | [[Tam Giang, Cà Mau|Tam Giang]]
+| 205,20
+| 23.277
+|-
+| align="left" | [[Tân Ân]]
+| 218,30
+| 23.787
+|}
+|valign="top" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" style="background: #f9f9f9; font-size: 90%; text-align: right;" width="100%"
+|-
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" | Tên
+!style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap"|Diện tích<br>(km²)
+!style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap"|Dân số<br>(người)
+|-
+| align="left" | [[Tân Hưng, Cà Mau|Tân Hưng]]
+| 92,41
+| 35.222
+|-
+| align="left" | [[Tân Lộc (xã)|Tân Lộc]]
+| 96,80
+| 35.450
+|-
+| align="left" | [[Tân Thuận, Cà Mau|Tân Thuận]]
+| 169,80
+| 35.473
+|-
+| align="left" | [[Tân Tiến, Cà Mau|Tân Tiến]]
+| 207,20
+| 33.994
+|-
+| align="left" | [[Thanh Tùng (xã)|Thanh Tùng]]
+| 89,90
+| 26.573
+|-
+| align="left" | [[Thới Bình (xã)|Thới Bình]]
+| 121,00
+| 38.116
+|-
+| align="left" | [[Trần Phán (xã)|Trần Phán]]
+| 74,90
+| 29.949
+|-
+| align="left" | [[Trần Văn Thời (xã)|Trần Văn Thời]]
+| 134,41
+| 55.897
+|-
+| align="left" | [[Trí Phải]]
+| 166,60
+| 49.770
+|-
+| align="left" | [[U Minh (xã)|U Minh]]
+| 145,00
+| 32.991
+|-
+| align="left" | [[Vĩnh Hậu, Cà Mau|Vĩnh Hậu]]
+| 232,75
+| 41.899
+|-
+| align="left" | [[Vĩnh Lộc, Cà Mau|Vĩnh Lộc]]
+| 92,48
+| 24.009
+|-
+| align="left" | [[Vĩnh Lợi, Cà Mau|Vĩnh Lợi]]
+| 61,69
+| 29.035
+|-
+| align="left" | [[Vĩnh Mỹ]]
+| 115,78
+| 52.287
+|-
+| align="left" | [[Vĩnh Phước, Cà Mau|Vĩnh Phước]]
+| 127,22
+| 38.662
+|-
+| align="left" | [[Vĩnh Thanh, Cà Mau|Vĩnh Thanh]]
+| 75,30
+| 36.959
+|}
+|}
+
+==Lịch sử==
+{{chính|Lịch sử hành chính Bạc Liêu}}
+{{chính|Lịch sử hành chính Cà Mau}}
+Cà Mau là một vùng đất trẻ, mới được khai phá khoảng trên 300 năm. Vùng đất Cà Mau ngày xưa được [[Mạc Cửu]] dẫn [[Người Hoa (Việt Nam)|người Hoa]] đến khai phá. Sau khi Mạc Cửu dâng toàn đất này thần phục [[Nhà Nguyễn]], [[Mạc Thiên Tứ]] con của Mạc Cửu đã vâng lệnh triều đình [[Chúa Nguyễn]] lập ra [[Long Xuyên (huyện)|đạo Long Xuyên]]. Qua nhiều lần thay đổi về hành chính, đến ngày 1 tháng 1 năm 1997, tỉnh Cà Mau được tái lập theo Nghị quyết của [[Quốc hội Việt Nam|Quốc hội khóa IX]], kỳ họp thứ 10, ngày 6 tháng 11 năm 1996 về việc điều chỉnh địa giới hành chính, chia tách tỉnh [[Minh Hải (tỉnh)|Minh Hải]] thành tỉnh Cà Mau và tỉnh [[Bạc Liêu (tỉnh)|Bạc Liêu]].<ref name=TCM>{{Chú thích web|url=https://camau.dcs.vn/lich-su-dang-bo-tinh-ca-mau/lich-su-hinh-thanh-tinh-ca-mau-118275|tựa đề= Lịch sử hình thành tỉnh Cà Mau |ngày=|website=|url lưu trữ=https://web.archive.org/web/20260604084936/https://camau.dcs.vn/lich-su-dang-bo-tinh-ca-mau/lich-su-hinh-thanh-tinh-ca-mau-118275|ngày lưu trữ= 2026-06-26 |ngày truy cập= 2026-06-26 |url-status= dead }}</ref><ref>{{Chú thích web|url=https://chieutour.com/lich-su-hinh-thanh-phat-trien-ca-mau.html|tựa đề= Lịch sử hình thành phát triển tỉnh Cà Mau |ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập= 2026-06-26 |url-status=live}}</ref>
+
+===Thời phong kiến===
+Sách [[Gia Định thành thông chí|Gia Định Thành Thông Chí]] của [[Trịnh Hoài Đức]] có chép ''"[[Gia Long|Thời Gia Long]], những giồng đất cao ráo ở ven [[sông Ông Đốc]], [[sông Gành Hào]], [[sông Bảy Háp]] và một vài phụ lưu mới có người khai khẩn, lập thành xóm, ấp. Tuy vậy, đến [[tự Đức|thời Tự Đức]] Cà Mau vẫn là vùng rừng đước, vẹt, tràm, không mấy ai đến lập nghiệp vì thiếu nước ngọt và ruộng quá nhiều phèn"''.<ref name="TCM"/>
+
+Cuối thế kỷ 17, [[Mạc Cửu]] là tướng của [[nhà Minh]] do không chấp nhận triều đình [[nhà Thanh]] nên đã dẫn một số người [[Tên gọi Trung Quốc|Trung Hoa]] đến vùng Hà Tiên sinh sống. Sau khi Mạc Cửu dâng toàn bộ phần đất này thần phục [[nhà Nguyễn]], [[Mạc Thiên Tứ]] con của Mạc Cửu đã vâng lệnh triều đình [[chúa Nguyễn]] lập ra [[Long Xuyên (huyện)|đạo Long Xuyên]].<ref name="TCM"/>
+
+Năm 1808, [[Gia Long|Thời Gia Long]] thứ 7, đổi tên đạo Long Xuyên thành huyện [[Long Xuyên (huyện)|Long Xuyên]] thuộc trấn [[Hà Tiên (tỉnh)|Hà Tiên]].<ref name="TCM"/>
+
+Năm 1825, [[Minh Mạng|Thời Minh Mạng]] thứ 6, [[nhà Nguyễn]] đã đặt ra một quan tri huyện để cai trị.<ref name="TCM"/>
+
+===Thời Pháp thuộc===
+[[Tập tin:Bac Lieu Province 1896.jpg|300px|phải|nhỏ|Bản đồ hạt Bạc Liêu năm 1895]]
+Ngày 15 tháng 6 năm 1867, [[thực dân Pháp]] thành lập hạt Cà Mau gồm địa bàn huyện Long Xuyên cũ.<ref name=":0" />
+
+Ngày 1 tháng 8 năm 1877, thực dân Pháp lại giải thể hạt Cà Mau, nhập vào địa bàn hạt Rạch Giá.<ref name=":0" />
+
+Ngày 18 tháng 12 năm 1882, Thống đốc Nam Kỳ ban hành Nghị định về việc thành lập địa hạt Bạc Liêu (Arrondissement de Bạc Liêu) trực thuộc khu vực hành chính Bassac trên cơ sở cắt 3 tổng: Quảng Long, Quảng Xuyên, Long Thủy của đại lý (Dlégation) Cà Mau thuộc địa hạt [[Rạch Giá (tỉnh)|Rạch Giá]] (Arrondissement de Rach Gia) và 2 tổng: Thạnh Hòa, Thạnh Hưng của đại lý [[Châu Thành (huyện Sóc Trăng)|Châu Thành]] thuộc địa hạt [[Sóc Trăng (tỉnh)|Sóc Trăng]]. Thời Pháp thuộc, Cà Mau là một quận của tỉnh [[Bạc Liêu (tỉnh)|Bạc Liêu]], quận lỵ đặt tại làng An Xuyên thuộc tổng Quản Long.
+
+Ngày 20 tháng 12 năm 1899, [[Toàn quyền Đông Dương]] ban hành Nghị định<ref name=NĐ-NV>Nghị định về việc đổi tên gọi tiểu khu (arrondissement) hay hạt tham biện là đơn vị hành chính ở Nam Kỳ thành tỉnh (province), đổi tên đại lý thành quận quy định kể từ ngày 1 tháng 1 năm 1900 và phân chia thành 3 miền: miền Đông, miền Trung, miền Tây với gồm 20 tỉnh.</ref> về việc đổi tên gọi tiểu khu (arrondissement) hay tham biện là đơn vị hành chính ở Nam Kỳ thành tỉnh (province), đổi tên đại lý thành quận quy định kể từ ngày 1 tháng 1 năm 1900 và phân chia thành 3 miền: miền Đông, miền Trung, miền Tây với gồm 20 tỉnh. Theo đó, thành lập tỉnh Bạc Liêu trên cơ sở đổi tên hạt tham biện Bạc Liêu.
+
+Năm 1903, thực dân Pháp lập đại lý hành chính Cà Mau thuộc tỉnh [[Bạc Liêu (tỉnh)|Bạc Liêu]] trên cơ sở 3 tổng: Quảng Long, Quảng Xuyên, Long Thủy của quận Vĩnh Lợi.
+
+Ngày 16 tháng 5 năm 1911, [[Toàn quyền Đông Dương]] Quyết định nâng lên đại lý hành chính Cà Mau thành quận Cà Mau thuộc tỉnh [[Bạc Liêu (tỉnh)|Bạc Liêu]].
+
+Ngày 5 tháng 10 năm 1917, quận Cà Mau gồm 2 tổng: Quảng Xuyên, Quảng Long và các làng Tân Lộc, Tân Lợi, Tân Phú, Thới Bình của tổng Long Thủy.
+
+Ngày 6 tháng 4 năm 1923, thành lập tổng mới Long Thới thuộc quận Cà Mau trên cơ các làng Tân Lợi, Tân Lộc, Thới Bình của tổng Long Thủy của quận Cà Mau (có hiệu lực từ ngày 1 tháng 1 năm 1924).
+
+Ngày 24 tháng 9 năm 1938, thành lập quận mới Quảng Xuyên trên cơ sở tổng Quảng Xuyên của quận Cà Mau.
+
+Ngày 14 tháng 9 năm 1942, thành lập cơ sở hàng chính Tân An thuộc quận Cà Mau.
+
+Ngày 5 tháng 4 năm 1944, thành lập quận [[Thới Bình (huyện)|Thới Bình]] trên cơ sở tổng Thới Bình của quận Cà Mau.
+
+Ngày 6 tháng 10 năm 1944, đổi tên quận [[Thới Bình (huyện)|Thới Bình]] thành quận Cà Mau Bắc, đổi tên quận Quảng Xuyên thành quận Cà Mau Nam. Sau đó lại hợp nhất 2 quận này thành một quận Cà Mau thuộc tỉnh [[Bạc Liêu (tỉnh)|Bạc Liêu]].
+
+===Giai đoạn 1956–1975===
+====Việt Nam Cộng hòa====
+Ngày 9 tháng 3 năm 1956, chính quyền [[Việt Nam Cộng hòa]] ban hành Sắc lệnh số 32-VN<ref name=32-VN>Sắc lệnh số 32-VN về việc thành lập tỉnh Cà Mau trên cơ sở sáp nhập quận Cà Mau, quận Quảng Xuyên và 4 xã thuộc quận Giá Rai (Định Thành, Hòa Thành, Tân Thành, Phong Thạnh Tây) của tỉnh Bạc Liêu. Đặt tỉnh lỵ của tỉnh Cà Mau tại Cà Mau.</ref> về việc thành lập tỉnh Cà Mau trên cơ sở 2 quận: Cà Mau, Quảng Xuyên và 4 xã: Định Thành, Hòa Thành, Tân Thành, Phong Thạnh Tây của quận [[Giá Rai (thị xã)|Giá Rai]] thuộc tỉnh [[Bạc Liêu (tỉnh)|Bạc Liêu]]. Tỉnh lỵ ban đầu có tên là [[Cà Mau (thành phố)|Cà Mau]].
+
+{{Chính|An Xuyên (tỉnh)}}
+Ngày 22 tháng 10 năm 1956, Tổng thống [[Việt Nam Cộng hòa]] [[Ngô Đình Diệm]] ban hành Sắc lệnh số 143-NV<ref>Sắc lệnh số 143-NV để "thay đổi địa giới và tên Đô thành Sài Gòn – chợ Lớn cùng các tỉnh và tỉnh lỵ tại Việt Nam". Địa giới và địa danh các tỉnh ở miền Nam thay đổi nhiều, một số tỉnh mới được thành lập.</ref> về việc:
+*Thành lập tỉnh [[An Xuyên (tỉnh)|An Xuyên]]<ref>An Xuyên chính là tên của làng sở tại trước kia thuộc tổng Quản Long, vốn là nơi đặt quận lỵ quận Cà Mau trước năm 1956.</ref> trên cơ sở đổi tên tỉnh Cà Mau.
+*Đổi tên tỉnh lỵ Cà Mau thành [[Quản Long]].
+*Đổi tên xã An Xuyên thành xã Tân Xuyên thuộc quận Quản Long và là nơi đặt tỉnh lỵ Quản Long của tỉnh An Xuyên.
+
+Tỉnh An Xuyên khi đó gồm 6 quận: [[Quản Long]], Thới Bình, [[Sông Ông Đốc (quận)|Sông Ông Đốc]], Cái Nước, Đầm Dơi, Năm Căn.
+
+[[Tập tin:AnXuyen2-73.jpg|nhỏ|381x381px|Bản đồ tỉnh An Xuyên năm 1973]]
+
+====Chính quyền Cách mạng====
+Tuy nhiên, [[Mặt trận Dân tộc Giải phóng Miền Nam Việt Nam]] và sau này là Chính phủ Cách mạng lâm thời [[Cộng hòa Miền Nam Việt Nam]] cùng với [[Việt Nam Dân chủ Cộng hòa]] không công nhận tên gọi tỉnh [[An Xuyên (tỉnh)|An Xuyên]] mà vẫn gọi theo tên cũ là tỉnh Cà Mau.
+
+Sau ngày 30 tháng 4 năm 1975, chính quyền quân quản [[Cộng hòa miền Nam Việt Nam]] ban đầu vẫn duy trì tỉnh Cà Mau cho đến đầu năm 1976. Lúc này, chính quyền Cách mạng cũng bỏ danh xưng "quận" có từ thời Pháp thuộc và lấy danh xưng "huyện" (quận và phường dành cho các đơn vị hành chánh tương đương khi đã đô thị hóa). Tỉnh Cà Mau lúc bấy giờ có 6 huyện: Thới Bình, Trần Văn Thời, Cái Nước, Ngọc Hiển, Châu Thành, Duyên Hải và thị xã Cà Mau.
+
+Ngày 20 tháng 9 năm 1975, Bộ Chính trị ban hành Nghị quyết số 245-NQ/TW<ref>{{Chú thích web|url=https://photo.znews.vn/w660/Uploaded/dqmblcvo/2025_03_13/1.jpg|tựa đề= Nghị quyết số 245-NQ/TW về việc bỏ khu, hợp tỉnh |tác giả=|ngày= 1975-09-20 |website=|url lưu trữ=https://web.archive.org/web/20250407082825/https://photo.znews.vn/w660/Uploaded/dqmblcvo/2025_03_13/1.jpg|ngày lưu trữ= 2025-04-07 |ngày truy cập= 2025-04-07 |url-status=live}}</ref> về việc hợp nhất tỉnh Bạc Liêu, tỉnh Cà Mau và hai huyện [[Vĩnh Thuận (huyện)|Vĩnh Thuận]], [[An Biên (huyện)|An Biên]] (ngoại trừ 2 xã Đông Yên và Tây Yên) của tỉnh [[Rạch Giá (tỉnh)|Rạch Giá]] sẽ hợp nhất lại thành một tỉnh, tên gọi tỉnh mới cùng với nơi đặt tỉnh lỵ sẽ do địa phương đề nghị lên.
+
+Ngày 20 tháng 12 năm 1975, Bộ Chính trị ban hành Nghị quyết số 19/NQ<ref>{{Chú thích web|url=http://luutruquocgia1.org.vn/wp-content/uploads/2017/05/anh1.png|tựa đề= Nghị quyết số 19/NQ về việc điều chỉnh việc hợp nhất một số tỉnh ở miền Nam |tác giả=|ngày= 1975-12-20 |website= Trung tâm Lưu trữ quốc gia I |url lưu trữ=https://web.archive.org/web/20250507064804/http://luutruquocgia1.org.vn/wp-content/uploads/2017/05/anh1.png|ngày lưu trữ= 2025-05-07 |ngày truy cập= 2025-05-07 |url-status= dead }}</ref> về việc hợp nhất tỉnh [[Bạc Liêu (tỉnh)|Bạc Liêu]] và tỉnh Cà Mau thành một tỉnh, tên gọi tỉnh mới cùng với nơi đặt tỉnh lỵ sẽ do địa phương đề nghị lên.
+
+===Tỉnh Minh Hải giai đoạn 1976–1996===
+Ngày 24 tháng 2 năm 1976, Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam ban hành Nghị định số 3/NQ/1976<ref>{{Chú thích web|url=http://luutruquocgia1.org.vn/wp-content/uploads/2017/05/anh2.png|tựa đề= Nghị định số 3/NQ/1976 về việc giải thể khu, hợp nhất tỉnh ở miền Nam Việt Nam |tác giả=|ngày= 1976-02-24 |website= Trung tâm Lưu trữ quốc gia I |url lưu trữ=https://web.archive.org/web/20250507064804/http://luutruquocgia1.org.vn/wp-content/uploads/2017/05/anh2.png|ngày lưu trữ= 2025-05-07 |ngày truy cập= 2025-05-07 |url-status= dead }}</ref> về việc hợp nhất tỉnh [[Bạc Liêu (tỉnh)|Bạc Liêu]] và tỉnh Cà Mau thành một tỉnh mới, lấy tên là tỉnh Bạc Liêu – Cà Mau.
+
+{{Chính|Minh Hải (tỉnh)}}
+Ngày 10 tháng 3 năm 1976, Ban đại diện [[Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam|Trung ương Đảng]] và [[Chính phủ]] ban hành Nghị quyết về việc:
+*Thành lập tỉnh [[Minh Hải (tỉnh)|Minh Hải]] trên cơ sở đổi tên tỉnh Bạc Liêu – Cà Mau.
+*Đổi tên thị xã [[Bạc Liêu (thành phố)|Bạc Liêu]] thành thị xã [[Bạc Liêu (thành phố)|Minh Hải]] và trở thành tỉnh lỵ của tỉnh Minh Hải.
+
+Ngày 17 tháng 5 năm 1984, Hội đồng Bộ trưởng ban hành Quyết định số 75-HĐBT<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/quyet-dinh-75-hdbt-phan-vach-dia-gioi-huyen-thi-xa-thuoc-tinh-minh-hai-43458.aspx|tựa đề= Quyết định 75-HĐBT năm 1984 về việc phân vạch địa giới một số huyện, thị xã thuộc tỉnh Minh Hải |tác giả=|ngày= 1984-05-17 |website= Thư viện pháp luật |url lưu trữ=|ngày lưu trữ=|ngày truy cập=|url-status=live}}</ref> về việc đổi tên thị xã [[Bạc Liêu (thành phố)|Minh Hải]] thành thị xã Bạc Liêu.
+
+Ngày 18 tháng 12 năm 1984, Hội đồng Bộ trưởng ban hành Quyết định số 170-HĐBT<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-170-HDBT-chuyen-tinh-ly-tinh-Minh-Hai-thi-xa-Ca-Mau-43531.aspx|tựa đề= Quyết định số 170-HĐBT năm 1984 về việc chuyển tỉnh lỵ tỉnh Minh Hải về thị xã Cà Mau do |tác giả=|ngày= 1984-12-18 |website= Thư viện pháp luật |url lưu trữ=|ngày lưu trữ=|ngày truy cập=|url-status=live}}</ref> về việc chuyển tỉnh lỵ tỉnh Minh Hải về thị xã [[Cà Mau (thành phố)|Cà Mau]].
+
+===Tỉnh Cà Mau từ năm 1997 đến nay===
+Ngày 6 tháng 11 năm 1996, Quốc hội ban hành Nghị quyết<ref name="1996/NQ-QH9">{{chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-chia-va-dieu-chinh-dia-gioi-hanh-chinh-tinh-40091.aspx|tựa đề= Nghị quyết về việc chia và điều chỉnh địa giới hành chính một số tỉnh |ngày= 1996-11-06 |website= Thư viện pháp luật |url lưu trữ=|ngày lưu trữ=|ngày truy cập=|url-status=live}}</ref> về việc chia và điều chỉnh địa giới hành chính một số tỉnh (nghị quyết có hiệu lực từ ngày 1 tháng 1 năm 1997). Theo đó, chia tỉnh Minh Hải thành tỉnh [[Bạc Liêu (tỉnh)|Bạc Liêu]] và tỉnh Cà Mau.
+
+Tỉnh Cà Mau có 7 đơn vị hành chính trực thuộc, bao gồm thị xã [[Cà Mau (thành phố)|Cà Mau]] (tỉnh lỵ) và 6 huyện: [[Cái Nước (huyện)|Cái Nước]], [[Đầm Dơi (huyện)|Đầm Dơi]], [[Ngọc Hiển]], [[Thới Bình (huyện)|Thới Bình]], [[Trần Văn Thời (huyện)|Trần Văn Thời]], [[U Minh (huyện)|U Minh]].
+
+Ngày 14 tháng 4 năm 1999, Chính phủ ban hành Nghị định số 21/1999/NĐ-CP<ref>{{chú thích web|url=https://thuvienphapluat.vn/van-ban/Bat-dong-san/Nghi-dinh-21-1999-ND-CP-thanh-lap-thanh-pho-Ca-Mau-thuoc-tinh-Ca-Mau-18086.aspx|tựa đề= Nghị định số 21/1999/NĐ-CP về việc thành lập thành phố Cà Mau thuộc tỉnh Cà Mau |ngày=1999-04-14 |website= Thư viện pháp luật |url lưu trữ=|ngày lưu trữ=|ngày truy cập=|url-status=live}}</ref> về việc thành lập thành phố Cà Mau thuộc tỉnh Cà Mau trên cơ sở toàn bộ diện tích và dân số của thị xã Cà Mau.
+
+Ngày 17 tháng 11 năm 2003, Chính phủ ban hành Nghị định 138/2003/NĐ-CP<ref>{{chú thích web|url=https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-138-2003-nd-cp-thanh-lap-huyen-nam-can-phu-tan-tinh-ca-mau-6311.aspx|tựa đề= Nghị định số 138/2003/NĐ-CP về việc thành lập các huyện Năm Căn và Phú Tân, tỉnh Cà Mau |ngày= 2003-11-17 |website= Thư viện pháp luật |url lưu trữ=|ngày lưu trữ=|ngày truy cập=|url-status=live}}</ref> về việc:
+*Tái lập huyện [[Năm Căn (huyện)|Năm Căn]] trên cơ sở điều chỉnh một phần diện tích và dân số của huyện Ngọc Hiển.
+*Tái lập huyện [[Phú Tân, Cà Mau|Phú Tân]] trên cơ sở điều chỉnh một phần diện tích và dân số của huyện Cái Nước.
+
+Ngày 6 tháng 8 năm 2010, Thủ tướng Chính phủ ban hành Quyết định số 1373/QĐ-TTg<ref>{{chú thích web|url=https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Quyet-dinh-1373-QD-TTg-cong-nhan-thanh-pho-Ca-Mau-la-do-thi-loai-II-109920.aspx|tựa đề= Quyết định số 1373/QĐ-TTg năm 2010 về việc công nhận thành phố Cà Mau là đô thị loại II trực thuộc tỉnh Cà Mau |ngày= 2010-08-06 |website= Thư viện pháp luật |url lưu trữ=|ngày lưu trữ=|ngày truy cập=|url-status=live}}</ref> về việc công nhận thành phố Cà Mau là [[Đô thị Việt Nam#Đô thị loại II|đô thị loại II]] trực thuộc tỉnh Cà Mau.
+
+Ngày 26 tháng 7 năm 2022, Thủ tướng Chính phủ ban hành Quyết định 891/QĐ-TTg<ref>{{Chú thích web|url=https://doc.vinaseco.vn/search/quyet-dinh-891qd-ttg-cua-thu-tuong-chinh-phu-ve-viec-cong-nhan-xa-an-toan-khu-thuoc-tinh-ca-mau-990601|tựa đề= Quyết định 891/QĐ-TTg về việc công nhận xã An toàn khu thuộc tỉnh Cà Mau |tác giả=|ngày= 2022-07-26 |website= |url lưu trữ=https://web.archive.org/web/20220726084711/https://doc.vinaseco.vn/search/quyet-dinh-891qd-ttg-cua-thu-tuong-chinh-phu-ve-viec-cong-nhan-xa-an-toan-khu-thuoc-tinh-ca-mau-990601|ngày lưu trữ= 2022-07-26 |ngày truy cập= 2022-07-26 |url-status= dead }}</ref> về việc công nhận xã An toàn khu thuộc tỉnh Cà Mau.
+
+Từ đó, tỉnh Cà Mau có 1 thành phố Cà Mau (tỉnh lỵ) và 8 huyện: Cái Nước, Đầm Dơi, Năm Căn, Ngọc Hiển, Phú Tân, Thới Bình, Trần Văn Thời, U Minh.
+
+Ngày 12 tháng 6 năm 2025, Quốc hội ban hành Nghị quyết số 202/2025/QH15<ref name="202/2025/QH15">{{Chú thích web|url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94532|tựa đề= Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh |ngày= 2025-06-12 |website= Cổng thông tin điện tử Quốc hội Việt Nam |url lưu trữ=https://web.archive.org/web/20250612150244/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94532|ngày lưu trữ= 2025-06-12 |ngày truy cập= 2025-06-12 |url-status=live}}</ref> về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày 12 tháng 6 năm 2025). Theo đó, sáp nhập tỉnh [[Bạc Liêu (tỉnh)|Bạc Liêu]] vào tỉnh Cà Mau.
+
+Sau khi sáp nhập, tỉnh Cà Mau có 7.942,39&nbsp;km² diện tích tự nhiên và quy mô dân số là 2.606.672 người.
+
+Ngày 16 tháng 6 năm 2025:
+* Quốc hội ban hành Nghị quyết số 203/2025/QH15<ref>{{Chú thích web|url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94585|tựa đề= Nghị quyết số 203/2025/QH15 về việc Sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |ngày= 2025-06-16 |website= Cổng thông tin điện tử Quốc hội Việt Nam |url lưu trữ=https://web.archive.org/web/20250616150846/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94585|ngày lưu trữ= 2025-06-16 |ngày truy cập= 2025-06-16 |url-status= dead }}</ref> về việc kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+* Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 1655/NQ-UBTVQH15<ref name="1655/NQ-UBTVQH15">{{Chú thích web|url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94596|tựa đề= Nghị quyết số 1655/NQ-UBTVQH15 về việc sắp xếp các đơn vị hành chính cấp xã của tỉnh Cà Mau năm 2025 |ngày= 2025-06-16 |website= Cổng thông tin điện tử Quốc hội Việt Nam |url lưu trữ=https://web.archive.org/web/20250616150846/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94596|ngày lưu trữ= 2025-06-16 |ngày truy cập= 2025-06-16 |url-status= dead }}</ref> về việc sắp xếp các đơn vị hành chính cấp xã của tỉnh Cà Mau năm 2025 (nghị quyết có hiệu lực từ ngày 16 tháng 6 năm 2025). Theo đó, thành lập 63 xã, phường mới trên cơ sở 163 đơn vị hành chính cấp xã và giữ nguyên 1 xã.
+
+Tỉnh Cà Mau có 9 phường và 55 xã.
+
+==Kinh tế==
+[[Tập tin:Cà Mau city center.jpg|nhỏ|300x300px|Trung tâm TP Cà Mau cũ]]
+Tỉnh Cà Mau hiện nay được thành lập năm 2025 trên cơ sở hợp nhất tỉnh Cà Mau và tỉnh [[Bạc Liêu]]. Tỉnh có vị trí chiến lược với đường bờ biển dài khoảng 310&nbsp;km, cùng lợi thế phát triển kinh tế biển, khai thác và nuôi trồng thủy hải sản cũng như phát triển năng lượng tái tạo.<ref name="vgp">{{Chú thích web |url=http://vov.vn/chinh-tri/phat-trien-ca-mau-tro-thanh-trung-tam-kinh-te-bien-nang-luong-tai-tao-logistic-post1317048.vov |tiêu đề=Phát triển Cà Mau trở thành Trung tâm kinh tế biển - năng lượng tái tạo - logistic |website=Đài Tiếng nói Việt Nam |ngày=2026-07 |ngày truy cập=2026-08-14}}</ref>
+
+Năm 2025, tốc độ tăng trưởng GRDP của tỉnh ước đạt 8%, hoàn thành mục tiêu đề ra. Tổng giá trị sản phẩm trên địa bàn theo giá hiện hành đạt khoảng 172.033 tỷ đồng; GRDP bình quân đầu người đạt khoảng 80 triệu đồng mỗi năm. Thu ngân sách tăng gần 17% so với năm trước.<ref name="dnhn">{{Chú thích web |url=https://doanhnghiephoinhap.vn/ca-mau-quyet-tam-tang-truong-10-grdp-trong-nam-2026-124948.html |tiêu đề=Cà Mau quyết tâm tăng trưởng 10% GRDP trong năm 2026 |website=Doanh nghiệp và Hội nhập |ngày=2026-01-06 |ngày truy cập=2026-08-14}}</ref><ref name="tckttc">{{Chú thích web |url=https://tapchikinhtetaichinh.vn/ca-mau-ky-vong-dat-muc-tieu-tang-truong-kinh-te-trong-nam-2025-134989.html |tiêu đề=Cà Mau kỳ vọng đạt mục tiêu tăng trưởng kinh tế trong năm 2025 |website=Tạp chí Kinh tế – Tài chính |ngày=2025-12-25 |ngày truy cập=2026-08-14}}</ref><ref>{{Chú thích web |url=https://dantri.com.vn/noi-vu/danh-gia-cua-vi-chu-tich-tinh-ghep-sau-cuoc-hop-nhat-lich-su-20260630210832068.htm |tiêu đề=Đánh giá của vị chủ tịch tỉnh "ghép" sau cuộc hợp nhất lịch sử |website=Báo Dân trí |ngày=2026-06-30 |ngày truy cập=2026-08-14}}</ref>
+
+Cơ cấu kinh tế chuyển dịch theo hướng khu vực dịch vụ và công nghiệp – xây dựng ngày càng giữ vai trò động lực, trong khi nông, lâm, thủy sản tiếp tục là trụ đỡ của nền kinh tế. Tỷ trọng nông nghiệp trong cơ cấu GRDP vẫn ở mức cao, trên 30%.<ref name="tckttc" /><ref name="doanhnghiephoinhap.vn">{{Chú thích web |url=https://doanhnghiephoinhap.vn/ca-mau-sau-hop-nhat-dong-luc-moi-cho-mot-cuc-tang-truong-phia-nam-110098.html |tiêu đề=Cà Mau sau hợp nhất: Động lực mới cho một cực tăng trưởng phía Nam |website=Doanh nghiệp và Hội nhập |ngày=2025-07-13 |ngày truy cập=2026-08-14}}</ref>
+
+Thủy sản giữ vai trò xương sống của nền kinh tế tỉnh, chiếm gần 90% tỷ trọng khu vực ngư, nông, lâm nghiệp và khoảng 31% GRDP toàn tỉnh. Diện tích nuôi trồng thủy sản của tỉnh hiện hơn 450.000 ha, trong đó hơn 416.990 ha là nuôi [[tôm]].<ref name="nnmt">{{Chú thích web |url=https://nongnghiepmoitruong.vn/xuat-khau-thuy-san-cua-ca-mau-dat-hon-13-ty-usd-d824133.html |tiêu đề=Xuất khẩu thủy sản của Cà Mau đạt hơn 1,3 tỷ USD |website=Báo Nông nghiệp và Môi trường |ngày=2026-07 |ngày truy cập=2026-08-14}}</ref> Năm 2025, sản lượng thủy sản của tỉnh ước đạt trên 1,26 triệu tấn, trong đó tôm giữ vai trò chủ lực với gần 595 nghìn tấn.<ref name="tckttc" /> Sau hợp nhất, tỉnh dẫn đầu cả nước về diện tích, quy mô và sản lượng ngành hàng tôm.<ref name="baocamau.vn">{{Chú thích web |url=https://baocamau.vn/ban-kinh-te-ngan-sach-hdnd-tinh-khao-sat-tinh-hinh-tang-truong-kinh-te-nam-2025-a122932.html |tiêu đề=Ban Kinh tế - Ngân sách HĐND tỉnh khảo sát tình hình tăng trưởng kinh tế năm 2025 |website=Báo Cà Mau |ngày=2025-10-08 |ngày truy cập=2026-08-14}}</ref>
+
+Trong bảy tháng đầu năm 2026, chỉ số sản xuất công nghiệp của tỉnh tăng 11% so với cùng kỳ; sản lượng tôm chế biến đạt 232.928 tấn, tăng 16,7%. Từ tháng 7 năm 2026, Nhà máy chế biến thủy sản Minh Phú Khánh An được đưa vào hoạt động với công suất 19.000 tấn mỗi năm.<ref name="bnews">{{Chú thích web |url=https://bnews.vn/kim-ngach-xuat-khau-tinh-ca-mau-tang-gan-13/000000.html |tiêu đề=Kim ngạch xuất khẩu tỉnh Cà Mau tăng gần 13% |website=BNEWS |ngày=2026-08 |ngày truy cập=2026-08-14}}</ref> Các dự án khu kinh tế ven biển và năng lượng tái tạo, gồm các dự án [[điện gió]] và [[điện mặt trời]] cũng đang được đẩy mạnh triển khai, tạo không gian phát triển mới cho tỉnh.<ref>{{Chú thích web |url=https://thuonghieucongluan.com.vn/ca-mau-huong-toi-tang-truong-grdp-tren-10-trong-nam-2026-a298855.html |tiêu đề=Cà Mau hướng tới tăng trưởng GRDP trên 10% trong năm 2026 |website=Thương hiệu và Công luận |ngày=2026-01-05 |ngày truy cập=2026-08-14}}</ref>
+
+Kim ngạch xuất khẩu sáu tháng đầu năm 2026 của tỉnh ước đạt hơn 1.316 triệu USD, tăng 14,2% so với cùng kỳ và đạt 47% kế hoạch năm; riêng xuất khẩu thủy sản đạt hơn 1.110 triệu USD, tăng 7,6%.<ref name="ddk">{{Chú thích web |url=https://daidoanket.vn/ca-mau-tang-toc-thuc-hien-muc-tieu-tang-truong-2-con-so.html |tiêu đề=Cà Mau: Tăng tốc thực hiện mục tiêu tăng trưởng 2 con số |website=Báo Đại Đoàn Kết |ngày=2026-07 |ngày truy cập=2026-08-14}}</ref><ref>{{Chú thích web |url=https://thanhtra.com.vn/dau-tu-72A9E3223/ca-mau-kim-ngach-xuat-khau-vuot-moc-13-ty-usd-sau-6-thang-dau-nam-2026-ab6de16ea.html |tiêu đề=Cà Mau: Kim ngạch xuất khẩu vượt mốc 1,3 tỷ USD sau 6 tháng đầu năm 2026 |website=Báo Thanh tra |ngày=2026-07 |ngày truy cập=2026-08-14}}</ref> Ngành tôm của tỉnh đã xuất khẩu tới các thị trường như Mỹ, Liên minh châu Âu, Nhật Bản, Trung Quốc và Australia.<ref name="baocamau.vn"/>
+
+Về hạn chế, nền kinh tế của tỉnh chưa chuyển dịch mạnh sang công nghiệp và dịch vụ, tỷ trọng nông nghiệp vẫn ở mức cao. Thu ngân sách địa phương chỉ khoảng 10.000 tỷ đồng mỗi năm, xếp thứ 29 trong 34 tỉnh, thành phố sau hợp nhất. Hệ thống hạ tầng kinh tế – xã hội còn thiếu và yếu, nhất là giao thông kết nối liên vùng, dẫn đến chi phí vận chuyển cao và thời gian lưu thông hàng hóa kéo dài.<ref name="doanhnghiephoinhap.vn"/>
+
+=== Công nghiệp ===
+Công nghiệp của tỉnh Cà Mau tập trung vào ba trụ cột là chế biến thủy sản xuất khẩu, công nghiệp khí – điện – đạm và năng lượng tái tạo. Trong bảy tháng đầu năm 2026, chỉ số sản xuất công nghiệp của tỉnh tăng 11% so với cùng kỳ năm trước.<ref name="bnews"/>
+
+Chế biến thủy sản là ngành công nghiệp chủ lực, gắn với vùng nguyên liệu tôm lớn nhất cả nước. Trong bảy tháng đầu năm 2026, sản lượng tôm chế biến của tỉnh đạt 232.928 tấn, bằng 56% kế hoạch và tăng 16,7% so với cùng kỳ năm 2025.<ref name="bnews" />
+
+Cụm công nghiệp [[Dự án Khí – Điện – Đạm Cà Mau|Khí – Điện – Đạm Cà Mau]] đặt tại xã [[Khánh An]], gồm nhà máy xử lý khí, các nhà máy điện và Nhà máy Đạm Cà Mau. Đây là một trong những dự án kinh tế trọng điểm mang tầm chiến lược quốc gia của Việt Nam. Được xây dựng trên diện tích hơn 200 ha, đây là tổ hợp công nghiệp quy mô lớn nhất miền Tây Nam Bộ, giữ vai trò đầu tàu trong việc thúc đẩy tăng trưởng kinh tế cho địa phương và đóng góp quan trọng vào an ninh năng lượng cũng như lương thực của cả nước. Tính đến năm 2024, Nhà máy Đạm Cà Mau đã cung ứng hơn 10 triệu tấn [[urê]] ra thị trường.<ref name="cp">{{Chú thích web |url=https://baochinhphu.vn/cum-khi-dien-dam-ca-mau-hinh-mau-cong-nghiep-tren-vung-trung-lay-ven-rung-u-minh-102251205110416518.htm |tiêu đề=Cụm Khí - Điện - Đạm Cà Mau: Hình mẫu công nghiệp trên vùng trũng lầy ven rừng U Minh |website=Báo Điện tử Chính phủ |ngày=2025-12-05 |ngày truy cập=2026-08-14}}</ref>
+[[Tập tin:AIMAG2089.jpg|nhỏ|280x280px|Khu dân cư Khí Điện Đạm Cà Mau]]
+Tỉnh được định hướng trở thành trung tâm năng lượng tái tạo của vùng [[đồng bằng sông Cửu Long]]. Theo Quy hoạch tỉnh được phê duyệt tại Quyết định số 1386/QĐ-TTg ngày 17 tháng 11 năm 2024, tỉnh có 16 dự án năng lượng tái tạo với tổng công suất 1.000 MW được quy hoạch phát triển. Trong đó, đã có bốn dự án cùng một phần dự án Nhà máy điện gió Viên An đã vận hành thương mại.<ref>{{Chú thích web |url=https://xuctiendautu.camau.gov.vn/ca-mau-phat-trien-du-an-nang-luong-tai-tao/ |tiêu đề=Cà Mau phát triển năng lượng tái tạo |website=Trung tâm Xúc tiến đầu tư tỉnh Cà Mau |ngày=2025-10 |ngày truy cập=2026-08-14}}</ref> Nhà máy điện gió Tân Thuận là nhà máy điện gió đầu tiên của tỉnh; giai đoạn 1 và 2 có tổng công suất 75 MW với 18 trụ tua-bin, khởi công ngày 27 tháng 12 năm 2019 với tổng đầu tư hơn 3.800 tỷ đồng, cung cấp khoảng 225 triệu kWh mỗi năm. Giai đoạn 3 được động thổ ngày 14 tháng 10 năm 2025 tại xã Tân Thuận, công suất 25 MW gồm 4 tua-bin, dự kiến vận hành quý IV năm 2026 và cung cấp khoảng 61,5 triệu kWh điện mỗi năm.<ref>{{Chú thích web |url=https://vneconomy.vn/ca-mau-se-co-them-nha-may-dien-gio-615-trieu-kwh-van-hanh-cuoi-nam-2026.htm |tiêu đề=Cà Mau sẽ có thêm nhà máy điện gió 61,5 triệu kWh vận hành cuối năm 2026 |website=Tạp chí VnEconomy |ngày=2025-10-15 |ngày truy cập=2026-08-14}}</ref> Tỉnh cũng đang đẩy mạnh các dự án năng lượng quy mô lớn như Nhà máy điện khí LNG Bạc Liêu 3.200 MW và mở rộng Nhà máy điện Cà Mau thêm 1.500 MW.<ref name=":3">{{Chú thích web |title=Điều kiện kinh tế - xã hội tỉnh Cà Mau |url=https://www.camau.gov.vn/dieu-kien-kinh-te-xa-hoi/cong-nghiep-239260 |website=Cổng thông tin điện tử tỉnh Cà Mau}}</ref>
+
+Hệ thống hạ tầng khu kinh tế và khu công nghiệp được đầu tư bài bản nhằm tạo quỹ đất sạch thu hút các dòng vốn lớn, đặc biệt là đầu tư trực tiếp nước ngoài (FDI).<ref name=":3" /> [[Khu kinh tế Năm Căn]] với quy mô hơn 10.800 ha được quy hoạch là khu kinh tế tổng hợp đa ngành, điểm giao thương quốc tế và động lực phát triển phía Nam của tỉnh.<ref>{{Chú thích web |last= |date=2013-12-17 |title=Quy hoạch chung xây dựng Khu kinh tế Năm Căn, Cà Mau |url=https://baochinhphu.vn/news-102155789.htm |access-date=2026-08-13 |website=baochinhphu.vn |language=vi}}</ref> Ngoài ra, Cà Mau hiện có 10 khu công nghiệp đã được quy hoạch với tổng diện tích hơn 3.200 ha, tiêu biểu như KCN Khánh An, KCN Hòa Trung, KCN Sông Đốc, KCN Trà Kha và KCN Láng Trâm. Tỉnh cũng quy hoạch 35 cụm công nghiệp tập trung nhằm thúc đẩy công nghiệp địa phương và chuyển dịch cơ cấu lao động nông thôn.
+
+=== Nông nghiệp ===
+[[Tập tin:Lúa-hồng-dân.jpg|nhỏ|Đồng lúa chín ở Cà Mau]]
+Nông nghiệp tỉnh Cà Mau, bao gồm các lĩnh vực nông nghiệp, lâm nghiệp và thủy sản, đóng vai trò là "trụ đỡ" cốt lõi và nền tảng cho sự phát triển kinh tế bền vững của địa phương. Trong bối cảnh tỉnh Cà Mau và [[Bạc Liêu]] được hợp nhất từ ngày 1 tháng 7 năm 2025, không gian sản xuất nông nghiệp được mở rộng đáng kể, tạo ra tiềm lực mới với ba vùng sinh thái đặc trưng là mặn, ngọt và lợ.
+
+Năm 2025, tốc độ tăng trưởng khu vực nông, lâm nghiệp và thủy sản, tức Khu vực I, đạt mức 5,51%, dẫn đầu khu vực [[đồng bằng sông Cửu Long]] và vượt chỉ tiêu đề ra.<ref name="vnn">{{Chú thích web |url=https://vietnamnet.vn/nuoi-tom-nuoc-lo-tiep-tuc-la-tru-cot-tang-truong-nganh-thuy-san-ca-mau-2479135.html |tiêu đề=Nuôi tôm nước lợ tiếp tục là trụ cột tăng trưởng của ngành Thủy sản Cà Mau |website=VietnamNet |ngày=2026-01-05 |ngày truy cập=2026-08-14}}</ref> GRDP khu vực này ước đạt 32.549 tỷ đồng, vượt chỉ tiêu 4% trở lên do Bộ Nông nghiệp và Môi trường giao.<ref name="bcm">{{Chú thích web |url=https://baocamau.vn/toc-do-tang-truong-kinh-te-khu-vuc-i-cua-ca-mau-nam-2025-vuot-chi-tieu-bo-nn-mt-giao-a125069.html |tiêu đề=Tốc độ tăng trưởng kinh tế khu vực I của Cà Mau năm 2025 vượt chỉ tiêu Bộ NN&MT giao |website=Báo Cà Mau |ngày=2025-12-29 |ngày truy cập=2026-08-14}}</ref> Cơ cấu kinh tế chuyển dịch tích cực với giá trị sản xuất Khu vực I chiếm 34,86% trong tổng sản phẩm trên địa bàn (GRDP) tỉnh.<ref>{{Chú thích web |last= |first= |date=2026-01-09 |title=Cà Mau: Nền kinh tế đạt nhiều kết quả tích cực, kim ngạch xuất khẩu ước đạt 2,6 tỷ USD |url=https://thuonghieucongluan.com.vn/ca-mau-nen-kinh-te-dat-nhieu-ket-qua-tich-cuc-kim-ngach-xuat-khau-uoc-dat-2-6-ty-usd-a299385.html |access-date=2026-08-13 |website=Báo điện tử Thương hiệu và Công luận - Cơ quan trung ương của Hiệp hội Chống hàng giả và Bảo vệ thương hiệu Việt Nam |language=vi}}</ref>
+
+Thủy sản được xác định là ngành kinh tế mũi nhọn, chiếm trên 75% giá trị sản xuất của toàn Khu vực I.<ref name="vnn" /> Tỉnh Cà Mau hiện giữ vị thế dẫn đầu cả nước về diện tích và sản lượng tôm với diện tích nuôi trồng đạt trên 435.000 ha, chiếm khoảng 40% tổng diện tích nuôi tôm của quốc gia.<ref name="vne">{{Chú thích web |url=https://vneconomy.vn/ca-mau-thuc-day-chuyen-doi-so-ung-dung-cong-nghe-cao-tai-cac-vung-nuoi-tom.htm |tiêu đề=Cà Mau: Thúc đẩy chuyển đổi số, ứng dụng công nghệ cao tại các vùng nuôi tôm |website=Tạp chí VnEconomy |ngày=2026-01-21 |ngày truy cập=2026-08-14}}</ref> Năm 2025, tổng sản lượng thủy sản đạt mốc 1,27 triệu tấn, trong đó sản lượng tôm đạt gần 595.000 tấn, mang về kim ngạch xuất khẩu trên 2,6 tỷ USD.<ref name="vne" />
+
+Các mô hình nuôi tôm ứng dụng công nghệ cao ngày càng được hoàn thiện, đặc biệt là nuôi tôm siêu thâm canh với diện tích khoảng 13.200 ha. Bên cạnh đó, tỉnh phát triển mạnh các mô hình nuôi trồng "thuận thiên" như mô hình tôm – rừng với khoảng 30.000 ha và mô hình tôm – lúa với gần 90.000 ha, giúp nâng cao lợi nhuận từ 15% đến 30% đồng thời giảm thiểu tác động đến môi trường.<ref>{{Chú thích web |last=Tiến |first=Kim |date=2025-10-31 |title=Cà Mau: Đẩy mạnh nuôi tôm thích ứng biến đổi khí hậu |url=https://thuysanvietnam.com.vn/ca-mau-day-manh-nuoi-tom-thich-ung-bien-doi-khi-hau/ |access-date=2026-08-13 |website=Tạp chí Thủy sản Việt Nam |language=vi}}</ref><ref>{{Chú thích web |last=CM |date=2025-12-19 |title=Mô hình nuôi trồng thủy sản dưới tán rừng ngập mặn: Giải pháp kinh tế tuần hoàn góp phần xây dựng nông thôn mới bền vững |url=https://vjst.vn/mo-hinh-nuoi-trong-thuy-san-duoi-tan-rung-ngap-man-giai-phap-kinh-te-tuan-hoan-gop-phan-xay-dung-nong-thon-moi-ben-vung-77767.html |access-date=2026-08-13 |website=vjst.vn |language=vi}}</ref> Ngoài con tôm, cua Cà Mau cũng là sản phẩm chủ lực với diện tích nuôi xen canh được mở rộng, hướng tới việc xây dựng các doanh nghiệp dẫn dắt chuỗi giá trị và thực hiện truy xuất nguồn gốc điện tử.<ref>{{Chú thích web |title=Cua Cà Mau - Đặc sản trứ danh vươn ra thị trường quốc tế |url=https://baocamau.vn/cua-ca-mau-dac-san-tru-danh-vuon-ra-thi-truong-quoc-te-a123898.html |access-date=2026-08-13 |website=baocamau.vn |language=vi}}</ref>
+
+Lĩnh vực trồng trọt tập trung vào phát triển sản xuất lúa gạo chất lượng cao gắn với bảo vệ môi trường và tăng trưởng xanh. Năm 2025, sản lượng lúa của tỉnh đạt trên 1,9 triệu tấn, vượt kế hoạch đề ra.<ref>{{Chú thích web |url=https://thuonghieucongluan.com.vn/nong-nghiep-ca-mau-tang-truong-vuot-ke-hoach-huong-toi-muc-tieu-ben-vung-2026-a297756.html |tiêu đề=Nông nghiệp Cà Mau tăng trưởng vượt kế hoạch, hướng tới mục tiêu bền vững 2026 |website=Thương hiệu và Công luận |ngày=2025-12-29 |ngày truy cập=2026-08-14}}</ref> [[Chuối xiêm]] cũng là cây trồng phổ biến với diện tích hơn 5.500 ha, đang được định hướng chế biến sâu theo mô hình kinh tế tuần hoàn để tạo ra các sản phẩm giá trị gia tăng cao như tinh bột chuối xiêm xanh và sợi chuối.<ref>{{Chú thích web |title=Nâng cao giá trị sản phẩm chuối xiêm |url=https://baocamau.vn/nang-cao-gia-tri-san-pham-chuoi-xiem-a124318.html |access-date=2026-08-13 |website=baocamau.vn |language=vi}}</ref>
+
+Đối với ngành lâm nghiệp, tỉnh quản lý hơn 102.000 ha rừng ngập mặn và rừng ngập lợ, đóng vai trò quan trọng trong việc bảo tồn đa dạng sinh học và phòng chống thiên tai. Kinh tế rừng được gắn kết với bảo tồn thiên nhiên thông qua việc phát triển các dịch vụ hấp thụ carbon, nuôi trồng thủy sản dưới tán rừng và du lịch sinh thái.
+
+Ngành diêm nghiệp duy trì diện tích khoảng 1.670 ha, tập trung tại các vùng ven biển để sản xuất muối chất lượng cao dựa trên thương hiệu muối Bạc Liêu lâu đời.<ref>{{Chú thích web |last= |first= |date=2023-07-16 |title=Lấp lánh di sản muối Bạc Liêu |url=https://nhandan.vn/lap-lanh-di-san-muoi-bac-lieu-post762525.html |access-date=2026-08-13 |website=Báo Nhân Dân điện tử |language=vi}}</ref>
+
+=== Thương mại và dịch vụ ===
+[[Hình:Một cảnh ở tại Hòn Đá Bạc.jpg|nhỏ|300px|Một cảnh ở tại khu du lịch Hòn Đá Bạc]].Lĩnh vực thương mại và dịch vụ của tỉnh Cà Mau đóng vai trò là động lực tăng trưởng then chốt, chiếm tỷ trọng cao nhất trong cơ cấu kinh tế địa phương với đóng góp 36,49% vào tổng sản phẩm trên địa bàn (GRDP) năm 2025.<ref>{{Chú thích web |url=https://baochinhphu.vn/ca-mau-tong-ket-2025-dat-muc-tieu-tang-truong-hai-con-so-trong-nam-2026-102251205194138918.htm |tiêu đề=Cà Mau tổng kết 2025, đặt mục tiêu tăng trưởng hai con số trong năm 2026 |website=Báo Điện tử Chính phủ |ngày=2025-12-05 |ngày truy cập=2026-08-14}}</ref> Sự kiện hợp nhất tỉnh Cà Mau và [[Bạc Liêu]] vào ngày 1 tháng 7 năm 2025 đã tạo ra tiềm lực và không gian phát triển mới cho ngành, đặc biệt là du lịch, năng lượng và [[logistics]].<ref name="bcct">Báo cáo chính trị của Ban Chấp hành Đảng bộ tỉnh Cà Mau trình Đại hội đại biểu Đảng bộ tỉnh lần thứ I, nhiệm kỳ 2025–2030.</ref>
+
+Hoạt động thương mại nội địa diễn ra sôi động với tổng mức bán lẻ hàng hóa và doanh thu dịch vụ tiêu dùng năm 2025 ước đạt 206.000 tỷ đồng, tăng khoảng 9,4% đến 10% so với cùng kỳ. Mạng lưới cơ sở kinh doanh 
+thương mại và dịch vụ được đầu tư phát triển ngày càng đồng bộ, đảm bảo lưu thông hàng hóa thông suốt và đáp ứng tốt nhu cầu tiêu dùng của nhân dân.<ref name="ktcm">{{Chú thích web |url=https://baocamau.vn/kinh-te-ca-mau-nam-2025-chuyen-dong-tich-cuc-a124926.html |tiêu đề=Kinh tế Cà Mau năm 2025 chuyển động tích cực |website=Báo Cà Mau |ngày truy cập=2026-08-14}}</ref> Các hệ thống phân phối hiện đại như siêu thị Co.opmart hay trung tâm thương mại GO! đã chủ động phối hợp đưa hàng Việt về các khu vực nông thôn, kết hợp với các chương trình khuyến mại để duy trì sức mua ổn định.<ref name="tmdv">{{Chú thích web |url=https://baocamau.vn/thuong-mai-dich-vu-tang-toc-a127863.html |tiêu đề=Thương mại - dịch vụ tăng tốc |website=Báo Cà Mau |ngày truy cập=2026-08-14}}</ref> Bước sang sáu tháng đầu năm 2026, lĩnh vực này tiếp tục tăng tốc mạnh mẽ với doanh thu đạt 81.283 tỷ đồng, tăng 18,5% so với cùng kỳ năm trước.<ref>{{Chú thích web |url=https://doanhnghieptiepthi.vn/tong-muc-ban-le-hang-hoa-va-doanh-thu-dich-vu-6-thang-dau-nam-tinh-ca-mau-dat-81283-ty-dong-161260708194645649.htm |tiêu đề=Tổng mức bán lẻ hàng hóa và doanh thu dịch vụ 6 tháng đầu năm tỉnh Cà Mau đạt 81.283 tỷ đồng |website=Doanh nghiệp Tiếp thị |ngày=2026-07-08 |ngày truy cập=2026-08-14}}</ref>
+
+Hoạt động xuất khẩu hàng hóa duy trì đà tăng trưởng khá với kim ngạch năm 2025 đạt khoảng 2,6 tỷ USD. Thủy sản tiếp tục giữ vị thế là mặt hàng xuất khẩu chủ lực, chiếm trên 90% tổng giá trị xuất khẩu toàn tỉnh.<ref name="thcl">{{Chú thích web |url=https://thuonghieucongluan.com.vn/ca-mau-nen-kinh-te-dat-nhieu-ket-qua-tich-cuc-kim-ngach-xuat-khau-uoc-dat-2-6-ty-usd-a299385.html |tiêu đề=Cà Mau: Nền kinh tế đạt nhiều kết quả tích cực, kim ngạch xuất khẩu ước đạt 2,6 tỷ USD |website=Thương hiệu và Công luận |ngày truy cập=2026-08-14}}</ref> Trong đó, sản phẩm tôm Cà Mau đã có mặt tại hơn 90 quốc gia và vùng lãnh thổ.<ref>{{Chú thích web |url=https://sonnmt.camau.gov.vn/thuy-san/nganh-tom-ca-mau-tru-cot-tang-truong-kinh-te-va-dong-luc-phat-trien-ben-vung-giai-doan-2025-2030-295098 |tiêu đề=Ngành tôm Cà Mau - Trụ cột tăng trưởng kinh tế và động lực phát triển bền vững giai đoạn 2025-2030 |website=Sở Nông nghiệp và Môi trường tỉnh Cà Mau |ngày truy cập=2026-08-14}}</ref> Bên cạnh thủy sản, sản phẩm phân bón từ Nhà máy Đạm Cà Mau cũng đóng góp quan trọng vào nguồn thu ngoại tệ khi mở rộng xuất khẩu đến 19 quốc gia. Tỉnh đang tích cực triển khai các giải pháp đa dạng hóa thị trường, đặc biệt là tiếp cận thị trường [[Halal]] toàn cầu và tận dụng các [[hiệp định thương mại tự do]] để nâng cao giá trị hàng hóa địa phương.<ref name="thcl" />
+[[Tập tin:Một góc chợ Năm Căn.jpg|nhỏ|Chợ Năm Căn]]
+Ngành du lịch ghi nhận sự phục hồi mạnh mẽ và trở thành điểm sáng trong bức tranh kinh tế dịch vụ khi thu hút hơn 8,1 triệu lượt khách trong năm 2025, tăng gần 12% so với cùng kỳ. Tổng doanh thu du lịch năm 2025 đạt 8.585 tỷ đồng dựa trên việc khai thác các lợi thế hệ sinh thái mặn – ngọt đặc thù và các giá trị văn hóa, lịch sử đặc sắc của vùng Đất Mũi.<ref>{{Chú thích web |url=https://thanhtra.com.vn/xa-hoi/an-sinh/kinh-te-xa-hoi-ca-mau-nam-2025-giu-vung-da-tang-truong-trong-boi-canh-nhieu-kho-khan-231555.html |tiêu đề=Kinh tế - xã hội Cà Mau năm 2025: Giữ vững đà tăng trưởng trong bối cảnh nhiều khó khăn |website=Báo Thanh tra |ngày truy cập=2026-08-14}}</ref> Các điểm đến tiêu biểu như Khu du lịch Đất Mũi, [[Vườn quốc gia U Minh Hạ]], [[Hòn Đá Bạc]] và các di tích văn hóa từ Bạc Liêu cũ như Nhà Công tử Bạc Liêu được đầu tư nâng cấp để hấp dẫn du khách.<ref name="bcct" /> Trong sáu tháng đầu năm 2026, hoạt động du lịch tiếp tục đạt kết quả ấn tượng với hơn 5,3 triệu lượt khách và doanh thu đạt 5.257 tỷ đồng.<ref name="tmdv" />
+
+Công tác phát triển hạ tầng logistics và chuyển đổi số được đẩy mạnh nhằm tháo gỡ các điểm nghẽn và nâng cao năng lực cạnh tranh cho ngành dịch vụ. Việc hoàn thành tuyến [[đường cao tốc Cần Thơ – Cà Mau]] cùng các dự án cao tốc đi Đất Mũi, nâng cấp Cảng hàng không Cà Mau và quy hoạch Cảng nước sâu Hòn Khoai được kỳ vọng sẽ biến địa phương thành trung tâm logistics đa phương thức của khu vực.<ref>{{Chú thích web |url=https://baochinhphu.vn/ha-tang-mo-loi-ca-mau-vuon-minh-thanh-cuc-tang-truong-moi-noi-dia-dau-to-quoc-102260210152318725.htm |tiêu đề=Hạ tầng mở lối - Cà Mau vươn mình thành cực tăng trưởng mới nơi địa đầu Tổ quốc |website=Báo Điện tử Chính phủ |ngày=2026-02-10 |ngày truy cập=2026-08-14}}</ref>
+
+==Xã hội==
+===Giáo dục===
+Sau khi hợp nhất tỉnh, toàn ngành Giáo dục và Đào tạo có 756 cơ sở giáo dục, gồm 215 trường mầm non, 311 trường tiểu học, 174 trường trung học cơ sở, 52 trường trung học phổ thông, 02 trung tâm giáo dục thường xuyên, 01 trường giáo dục chuyên biệt và 01 trường phổ thông ngoài công lập có nhiều cấp học. Toàn ngành có 25.526 nhà giáo, cán bộ quản lý và nhân viên.<ref>{{Chú thích web |title=Điều kiện kinh tế xã hội tỉnh Cà Mau - Giáo dục |url=https://www.camau.gov.vn/dieu-kien-kinh-te-xa-hoi/giao-duc-239264 |website=Cổng thông tin điện tử tỉnh Cà Mau}}</ref>
+
+Tỉnh Cà Mau đã thực hiện một cuộc sắp xếp quy mô lớn mạng lưới các cơ sở giáo dục công lập. Tính đến tháng 8 năm 2026, toàn tỉnh giảm từ 738 cơ sở xuống còn 359 cơ sở (tỷ lệ giảm 51,36%), nhằm tinh gọn bộ máy và tập trung nguồn lực. Trong đó, cấp tiểu học giảm mạnh nhất với 64,17%, trong khi hệ thống trường THPT giảm khoảng 17,31%. Việc sắp xếp này đảm bảo nguyên tắc mỗi xã vẫn có ít nhất một cơ sở giáo dục mầm non, tiểu học và THCS để không ảnh hưởng đến quyền học tập của học sinh.<ref>{{Chú thích web |last= |date=2026-08-08 |title=Sau sắp xếp, tỉnh Cà Mau giảm hơn 50% cơ sở giáo dục công lập |url=https://baotintuc.vn/giao-duc/sau-sap-xep-tinh-ca-mau-giam-hon-50-co-so-giao-duc-cong-lap-20260808174943631.htm |access-date=2026-08-14 |website=baotintuc.vn |language=vi}}</ref> Song song với việc tinh gọn, tỉnh chú trọng đầu tư hạ tầng chất lượng cao. Một dự án trị giá hơn 349 tỉ đồng đã được phê duyệt để nâng cấp 10 trường THPT đạt chuẩn quốc gia trong giai đoạn 2026-2030, bao gồm các trường trọng điểm như THPT chuyên Phan Ngọc Hiển, THPT Đầm Dơi và THPT Thới Bình. Mục tiêu là hiện đại hóa phòng học, phòng bộ môn và khu nội trú để trang bị kỹ năng tốt nhất cho học sinh bước vào thị trường lao động trình độ cao.<ref>{{Chú thích web |last= |date=2026-08-14 |title=Cà Mau đầu tư hơn 349 tỉ nâng cấp 10 trường THPT đạt chuẩn quốc gia |url=https://thanhnien.vn/ca-mau-dau-tu-hon-349-ti-nang-cap-10-truong-thpt-dat-chuan-quoc-gia-18526081417252798.htm |access-date=2026-08-14 |website=Báo Thanh Niên |language=vi}}</ref>
+
+Kết quả kỳ thi tốt nghiệp THPT năm 2026 cho thấy sự ổn định và phát triển của giáo dục Cà Mau. Điểm trung bình các môn thi của tỉnh xếp thứ 16 cả nước và đứng thứ 2 khu vực Đồng bằng sông Cửu Long (sau Đồng Tháp). Tỉnh có thế mạnh đặc biệt ở các môn khoa học xã hội với điểm trung bình môn Lịch sử xếp thứ 5 và Địa lý xếp thứ 4 toàn quốc.<ref>{{Chú thích web |title=Điểm thi tốt nghiệp THPT của Cà Mau xếp thứ 16 cả nước |url=https://laodong.vn/ldt/giao-duc/diem-thi-tot-nghiep-thpt-cua-ca-mau-xep-thu-16-ca-nuoc-1731206.ldo |access-date=2026-08-14 |website=laodong.vn}}</ref>
+
+Phong trào khuyến học, khuyến tài tại Cà Mau có sự tham gia tích cực của toàn xã hội với nhiều mô hình sáng tạo như "Dòng họ học tập" (tiêu biểu là họ Đỗ ở Hòa Thành, họ Lê ở Thới Bình). Các quỹ khuyến học đã chuyển đổi phương thức từ cấp phát trực tiếp sang gởi tiết kiệm ngân hàng để dùng lãi suất tạo nguồn học bổng bền vững.<ref>{{Chú thích web |title=Bài 2: Bừng sáng “ngọn lửa” khuyến học, khuyến tài |url=https://baocamau.vn/megastory/bai-2-bung-sang-ngon-lua-khuyen-hoc-khuyen-tai-a64.html |access-date=2026-08-14 |website=baocamau.vn |language=en}}</ref> Bên cạnh đó, tỉnh luôn ưu tiên thực hiện các chính sách đặc thù cho hơn 157.400 người dân tộc thiểu số, chủ yếu là [[Người Khmer (Việt Nam)|người Khmer]] và [[Người Hoa (Việt Nam)|người Hoa]]. Hệ thống trường dân tộc nội trú tiếp tục được đầu tư để thu hẹp khoảng cách chất lượng giáo dục giữa các vùng.<ref>{{Chú thích web |title=Cà Mau chú trọng chăm lo giáo dục và y tế cho đồng bào dân tộc thiểu số |url=https://vov.vn/xa-hoi/ca-mau-chu-trong-cham-lo-giao-duc-va-y-te-cho-dong-bao-dan-toc-thieu-so-post1315529.vov |website=VOV}}</ref>
+
+Hiện nay toàn tỉnh Cà Mau có 3 trường Đại học và 7 trường Cao đẳng. Danh sách các trường Đại học, Cao đẳng ở Cà Mau:
+*[https://blu.edu.vn Trường Đại học Bạc Liêu]
+*[[Trường Đại học Bình Dương]] (phân hiệu Cà Mau)
+*[[Trường Đại học Tôn Đức Thắng]] (phân hiệu Cà Mau)
+*Cao đẳng nghề Bạc Liêu
+*[https://ktktbl.edu.vn Cao đẳng Kinh tế - Kỹ thuật Bạc Liêu]
+*[https://cdytbaclieu.edu.vn Cao đẳng Y tế Bạc Liêu]
+*[[Cao đẳng Sư phạm Cà Mau]]
+*[[Cao đẳng Y tế Cà Mau]]
+*[[Cao đẳng Cộng đồng Cà Mau]]
+*[[Cao đẳng nghề Việt Nam - Hàn Quốc Cà Mau]]
+
+===Y tế===
+Tính đến năm 2025, ngành y tế tỉnh Cà Mau có tổng số 8.960 người, bao gồm 101 công chức, hơn 6.600 viên chức và trên 2.100 lao động hợp đồng. Tỷ lệ bác sĩ và dược sĩ trên địa bàn đạt 15,8 người trên một vạn dân, hoàn thành 100% chỉ tiêu kế hoạch.<ref name=":7" /> Hệ thống y tế cơ sở sau khi tinh gọn hiện có 64 trạm y tế xã, phường với 1.695 nhân viên.<ref name="nd">{{Chú thích web |url=https://nhandan.vn/ca-mau-nhan-dien-de-go-kho-cho-tuyen-y-te-co-so-post958967.html |tiêu đề=Cà Mau nhận diện để gỡ khó cho tuyến y tế cơ sở |website=Báo Nhân Dân |ngày truy cập=2026-08-14}}</ref> Bên cạnh hệ thống công lập, khu vực y tế tư nhân phát triển mạnh với 5 bệnh viện và 30 phòng khám đa khoa, hiện đảm nhận khoảng 15% đến 20% tổng số lượt khám ngoại trú toàn tỉnh.<ref>{{Chú thích web |url=https://ansinh.tapchikinhtetaichinh.vn/ca-mau-he-thong-y-te-tu-nhan-phat-trien-nhanh-ve-so-luong-va-chat-luong-152704.html |tiêu đề=Cà Mau: Hệ thống y tế tư nhân phát triển nhanh về số lượng và chất lượng |website=Tạp chí Kinh tế – Tài chính |ngày truy cập=2026-08-14}}</ref>
+Trong năm 2025, toàn tỉnh ghi nhận hơn 6,4 triệu lượt khám bệnh, trong đó khám chữa bệnh [[bảo hiểm y tế]] chiếm hơn 76%.<ref>{{Chú thích web |title=Tổng kết công tác y tế năm 2025 và định hướng năm 2026 |url=http://soyte.camau.gov.vn/bai-khoa-hoc-chinh-tri-va-xa-hoi/tong-ket-cong-tac-y-te-nam-2025-va-dinh-huong-nam-2026-294505 |website=Sở Y tế Cà Mau}}</ref> Công suất sử dụng giường bệnh đạt 86,3%, tương ứng với chỉ số 33,36 giường bệnh trên một vạn dân.<ref name=":7">{{Chú thích web |url=https://baocamau.vn/y-te-ca-mau-dat-33-36-giuong-benh-van-dan-a125671.html |tiêu đề=Y tế Cà Mau đạt 33,36 giường bệnh/vạn dân |website=Báo Cà Mau |ngày truy cập=2026-08-14}}</ref> Cà Mau đứng thứ hai cả nước về tỷ lệ khám sức khỏe toàn dân khi đã thực hiện khám sàng lọc cho 65,5% dân số, tương đương hơn 1,4 triệu người.<ref>{{Chú thích web |url=https://baocamau.vn/ca-mau-dung-thu-2-ca-nuoc-ve-ty-le-kham-suc-khoe-toan-dan-dat-hon-65--a131362.html |tiêu đề=Cà Mau đứng thứ 2 cả nước về tỷ lệ khám sức khoẻ toàn dân, đạt hơn 65% |website=Báo Cà Mau |ngày truy cập=2026-08-14}}</ref> Công tác tiêm chủng mở rộng cho trẻ em đạt tỷ lệ tiêm chủng đầy đủ 99,2%.<ref name="tongket">{{Chú thích web |url=http://cdccamau.vn/phong-chong-dich-y-te-dan-so/nganh-y-te-ca-mau-sau-sap-nhap-kho-khan-va-nhung-giai-phap-thao-go-75633 |tiêu đề=Ngành Y tế Cà Mau sau sáp nhập: Khó khăn và những giải pháp tháo gỡ |website=CDC Cà Mau |ngày truy cập=2026-08-14}}</ref>
+Về chuyển đổi số, toàn bộ 31 bệnh viện và trung tâm y tế trên địa bàn đã triển khai bệnh án điện tử. Tỷ lệ người dân sử dụng thẻ căn cước trong tiếp nhận khám chữa bệnh đạt 96,2% trên tổng lượt khám, với 39 kiosk tự phục vụ đã được trang bị tại các cơ sở.<ref name="tongket" />
+Tuyến y tế cơ sở đang thiếu hụt khoảng 407 biên chế chuyên môn so với định mức.<ref name="nd" /><ref>{{Chú thích web |url=https://vnexpress.net/tram-y-te-ca-mau-thieu-nguoi-thieu-trang-thiet-bi-kham-chua-benh-4886616.html |tiêu đề=Trạm y tế Cà Mau thiếu người, thiếu trang thiết bị khám chữa bệnh |website=VnExpress |ngày truy cập=2026-08-14}}</ref> Ngành y tế còn gặp khó khăn về tài chính khi 4 trung tâm y tế khu vực nợ lương và phụ cấp của người lao động với tổng số tiền 28,9 tỷ đồng, chủ yếu do vướng mắc trong thanh toán chi phí bảo hiểm y tế tồn đọng giai đoạn 2018–2024.<ref>{{Chú thích web |url=https://vov.vn/xa-hoi/4-trung-tam-y-te-o-ca-mau-no-luong-29-ty-dong-nguoi-lao-dong-ngong-doi-truoc-tet-post1266911.vov |tiêu đề=4 trung tâm y tế ở Cà Mau nợ lương 29 tỷ đồng, người lao động ngóng đợi trước Tết |website=Đài Tiếng nói Việt Nam |ngày truy cập=2026-08-14}}</ref><ref>{{Chú thích web |url=http://cdccamau.vn/phong-chong-dich-y-te-dan-so/nganh-y-te-ca-mau-sau-sap-nhap-kho-khan-va-nhung-giai-phap-thao-go-75633 |tiêu đề=Ngành Y tế Cà Mau sau sáp nhập: Khó khăn và những giải pháp tháo gỡ |website=Trung tâm Kiểm soát bệnh tật tỉnh Cà Mau |ngày truy cập=2026-08-14}}</ref>
+
+==== Các bệnh viện ====
+[[Tập tin:Bệnh viện đa khoa Cà Mau.jpg|nhỏ|Bệnh viện đa khoa tỉnh Cà Mau.]]
+*[[Bệnh bên đa khoa tỉnh Cà Mau|Bệnh viện đa khoa tỉnh Cà Mau]]: 16, đường Hải Thượng Lãn Ông, Phường Hòa Thành, tỉnh Cà Mau
+*[[Bệnh viện Sản - Nhi Cà Mau]]: 85 Lý Thường Kiệt, Phường Tân Thành, tỉnh Cà Mau<ref>{{chú thích web|url=https://bvsannhicamau.vn/|title=BỆNH VIỆN SẢN NHI CÀ MAU|website=bvsannhicamau.vn}}</ref>
+*[[Bệnh viện Mắt và Da liễu tỉnh Cà Mau]]: đường Hải Thượng Lãn Ông, Phường Hòa Thành, tỉnh Cà Mau
+*[[Bệnh viên Lao và Bệnh phổi tỉnh Cà Mau]]: đường Hải Thượng Lãn Ông, Phường Hòa Thành, tỉnh Cà Mau
+*[[Bệnh viện đa khoa thành phố Cà Mau]]: 36, Đường Lý Thái Tôn, phường An Xuyên, tỉnh Cà Mau
+*[[Bệnh viện Đa khoa Hoàn Mỹ Minh Hải]]: 09, Đường Lạc Long Quân, phường Tân Thành, tỉnh Cà Mau
+*[[Bệnh viện Y học cổ truyền - Phục hồi chức năng tỉnh Cà Mau]]: Đường Lý Văn Lâm, phường An Xuyên, tỉnh Cà Mau
+*[[Bệnh viện đa khoa Bạc Liêu]]: 06, Đường Nguyễn Huệ, phường Bạc Liêu, tỉnh Cà Mau
+*[[Bệnh viện Chuyên khoa Tâm thần]]: Tỉnh lộ 38, phường Vĩnh Trạch, tỉnh Cà Mau
+==Dân số==
+{{Lịch sử dân số
+| title = Lịch sử phát triển dân số tỉnh Cà Mau qua các năm
+| type = 
+| align = right
+| cols = 2
+| direction = 
+| width = 15
+| state = 
+| shading = 
+| pop_name = 
+| percentages = 
+| footnote = 
+| source = Trang Thông tin điện tử Cục Thống kê - Bộ Tài chính<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương">[https://www.nso.gov.vn/px-web-2/?pxid=V0203-07&theme=D%C3%A2n%20s%E1%BB%91%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng Diện tích, dân số và mật độ dân số phân theo địa phương], Trang Thông tin điện tử Cục Thống kê - Bộ Tài chính</ref>
+| 1995 | 1.041.800
+| 1996 | 1.061.600
+| 1997 | 1.081.100
+| 1998 | 1.101.800
+| 1999 | 1.123.500
+| 2000 | 1.133.900
+| 2001 | 1.145.200
+| 2002 | 1.155.300
+| 2003 | 1.164.500
+| 2004 | 1.174.400
+| 2005 | 1.182.900
+| 2006 | 1.188.700
+| 2007 | 1.195.200
+| 2008 | 1.201.700
+| 2009 | 1.207.128
+| 2010 | 1.212.089
+| 2011 | 1.210.000
+| 2012 | 1.212.100
+| 2013 | 1.214.200
+| 2014 | 1.216.400
+| 2015 | 1.218.900
+| 2016 | 1.222.600
+| 2017 | 1.226.300
+| 2018 | 1.229.600
+| 2019 | 1.194.300
+| 2020 | 1.193.900
+| 2021 | 1.208.800
+| 2022 | 1.207.600
+| 2023 | 1.207.400
+| 2024 | 1.212.000
+| 31/12/2024 | 2.606.672
+}}
+
+Trước sáp nhập, tổng số dân của tỉnh Cà Mau tại thời điểm 0 giờ ngày 1 tháng 4 năm 2019 là 1.194.476 người, trong đó dân số thành thị 271.063 người, chiếm 22,69%, dân số nông thôn 923.413 người, chiếm 77,31%.<ref name="camau.gov.vn">{{Chú thích web |url=https://www.camau.gov.vn/wps/portal/?1dmy&page=gioithieu.chitiet&urile=wcm:path:/camaulibrary/camauofsite/gioithieu/tongquan/dieukienkinhtexahoi/dantoc1 |tiêu đề=Dân tộc |website=Cổng thông tin điện tử tỉnh Cà Mau |ngày truy cập=19 tháng 8 năm 2026}}</ref> Dân số tỉnh Bạc Liêu năm 2022 là 921.809 người, với 255.891 người ở thành thị, chiếm 27,76%.<ref>{{Chú thích web |url=https://www.gso.gov.vn |tiêu đề=Niên giám thống kê |website=Cục Thống kê |ngày truy cập=19 tháng 8 năm 2026}}</ref>
+
+Tỉnh Cà Mau có 5.274,51&nbsp;km² diện tích tự nhiên và quy mô dân số tính đến ngày 31/12/2022 là 1.516.967 người (dân số thực tế thường trú là 1.513.460 người; dân số có đăng ký thường trú nhưng không cư trú là 122.882 người và dân số tạm trú quy đổi là 3.507 người).<ref>{{Chú thích web|url=https://drive.google.com/file/d/1RzFgLAoqvFrLRlNBnlYwPRiTPi2kXMvZ/view?usp=drivesdk|tựa đề=Đề án số 01/ĐA-UBND về việc sắp xếp, điều chỉnh đơn vị hành chính cấp xã giai đoạn 2023 – 2025 của huyện Phú Tân, tỉnh Cà Mau|tác giả=|ngày=2024-01-16|website=|url lưu trữ=https://web.archive.org/web/20241213194852/https://drive.google.com/file/d/1RzFgLAoqvFrLRlNBnlYwPRiTPi2kXMvZ/view?usp=drivesdk|ngày lưu trữ=2024-12-13|ngày truy cập=|url-status=dead}}</ref><ref>{{Chú thích web|url=https://hdnd.camau.gov.vn/filedocument/T%E1%BB%9D-tr%C3%ACnh-22ttr-ubnd-s%E1%BA%AFp-x%E1%BA%BFp-%C4%91%C6%A1n-v%E1%BB%8B-h%C3%A0nh-ch%C3%ADnh-C%E1%BA%A5p-x%C3%A3.pdf|tựa đề= Tờ trình số 22/TTr-UBND về việc sắp xếp đơn vị hành chính cấp xã giai đoạn 2023 – 2025 của tỉnh Cà Mau |tác giả=|ngày= 2024-03-27 |website= Cổng thông tin điện tử Đoàn Đại biểu Quốc hội và Hội đồng Nhân dân tỉnh Cà Mau |url lưu trữ=https://web.archive.org/web/20240409220000/https://hdnd.camau.gov.vn/filedocument/T%E1%BB%9D-tr%C3%ACnh-22ttr-ubnd-s%E1%BA%AFp-x%E1%BA%BFp-%C4%91%C6%A1n-v%E1%BB%8B-h%C3%A0nh-ch%C3%ADnh-C%E1%BA%A5p-x%C3%A3.pdf|ngày lưu trữ= 2024-04-09 |ngày truy cập= 2024-04-09 |url-status=dead}}</ref><ref>{{Chú thích web|url=https://hdnd.camau.gov.vn/filedocument/02-DT-%C4%90A-SAP-XEP-(ho%C3%A0n-thi%E1%BB%87n-trinh-H%C4%90ND).pdf|tựa đề= Dự thảo đề án về việc sắp xếp đơn vị hành chính cấp xã giai đoạn 2023 – 2025 của tỉnh Cà Mau |tác giả=|ngày= 2024-03-27 |website= Cổng thông tin điện tử Đoàn Đại biểu Quốc hội và Hội đồng Nhân dân tỉnh Cà Mau |url lưu trữ=https://web.archive.org/web/20240409220000/https://hdnd.camau.gov.vn/filedocument/02-DT-%C4%90A-SAP-XEP-(ho%C3%A0n-thi%E1%BB%87n-trinh-H%C4%90ND).pdf|ngày lưu trữ= 2024-04-09 |ngày truy cập= 2024-04-09 |url-status=dead}}</ref><ref>{{Chú thích web|url=https://hdnd.camau.gov.vn/filedocument/02.1.-phu-luc-2--1a-kem-theo-pa-1.pdf|tựa đề= Phụ lục 1A |tác giả=|ngày= 2024-03-27 |website= Cổng thông tin điện tử Đoàn Đại biểu Quốc hội và Hội đồng Nhân dân tỉnh Cà Mau |url lưu trữ=https://web.archive.org/web/20240409220000/https://hdnd.camau.gov.vn/filedocument/02.1.-phu-luc-2--1a-kem-theo-pa-1.pdf|ngày lưu trữ= 2024-04-09 |ngày truy cập= 2024-04-09 |url-status=dead}}</ref><ref>{{Chú thích web|url=https://hdnd.camau.gov.vn/filedocument/02.2-phu-luc-2--2a-kem-theo-pa-1.pdf|tựa đề= Phụ lục 2A |tác giả=|ngày= 2024-03-27 |website= Cổng thông tin điện tử Đoàn Đại biểu Quốc hội và Hội đồng Nhân dân tỉnh Cà Mau |url lưu trữ=https://web.archive.org/web/20240409220000/https://hdnd.camau.gov.vn/filedocument/02.2-phu-luc-2--2a-kem-theo-pa-1.pdf|ngày lưu trữ= 2024-04-09 |ngày truy cập= 2024-04-09 |url-status=dead}}</ref><ref>{{Chú thích web|url=https://hdnd.camau.gov.vn/filedocument/02.3-phu-luc-2--2b-kem-theo-pa-1.pdf|tựa đề= Phụ lục 2B |tác giả=|ngày= 2024-03-27 |website= Cổng thông tin điện tử Đoàn Đại biểu Quốc hội và Hội đồng Nhân dân tỉnh Cà Mau |url lưu trữ=https://web.archive.org/web/20240409220000/https://hdnd.camau.gov.vn/filedocument/02.3-phu-luc-2--2b-kem-theo-pa-1.pdf|ngày lưu trữ= 2024-04-09 |ngày truy cập= 2024-04-09 |url-status=dead}}</ref><ref>{{Chú thích web|url=https://hdnd.camau.gov.vn/filedocument/02.4-phu-luc-2--2c-kem-theo-pa-1.pdf|tựa đề= Phụ lục 2C |tác giả=|ngày= 2024-03-27 |website= Cổng thông tin điện tử Đoàn Đại biểu Quốc hội và Hội đồng Nhân dân tỉnh Cà Mau |url lưu trữ=https://web.archive.org/web/20240409220000/https://hdnd.camau.gov.vn/filedocument/02.4-phu-luc-2--2c-kem-theo-pa-1.pdf|ngày lưu trữ= 2024-04-09 |ngày truy cập= 2024-04-09 |url-status=dead}}</ref><ref>{{Chú thích web|url=https://hdnd.camau.gov.vn/filedocument/01-dt-nq-hdnd-26-3.pdf|tựa đề= Dự thảo Nghị quyết về chủ trương sắp xếp đơn vị hành chính cấp xã giai đoạn 2023 – 2025 của tỉnh Cà Mau|tác giả=|ngày= 2024-03-26 |website= Cổng thông tin điện tử Đoàn Đại biểu Quốc hội và Hội đồng Nhân dân tỉnh Cà Mau |url lưu trữ=https://web.archive.org/web/20240409220000/https://hdnd.camau.gov.vn/filedocument/01-dt-nq-hdnd-26-3.pdf|ngày lưu trữ= 2024-04-09 |ngày truy cập= 2024-04-09 |url-status=dead}}</ref><ref>{{Chú thích web|url=https://hdnd.camau.gov.vn/filedocument/07-tb-764--thong-bao-cua-btvtu-ve-de-an-sap-xep-don-vi-hanh-chinh-cap-xa-pg.signed.signed.pdf|tựa đề= Thông báo 764-TB/TU của Ban Thường vụ Tỉnh uỷ |tác giả= Tỉnh ủy Cà Mau |ngày= 2024-03-14 |website= Cổng thông tin điện tử Đoàn Đại biểu Quốc hội và Hội đồng Nhân dân tỉnh Cà Mau |url lưu trữ=https://web.archive.org/web/20240409220000/https://hdnd.camau.gov.vn/filedocument/07-tb-764--thong-bao-cua-btvtu-ve-de-an-sap-xep-don-vi-hanh-chinh-cap-xa-pg.signed.signed.pdf|ngày lưu trữ= 2024-04-09 |ngày truy cập= 2024-04-09 |url-status=dead}}</ref><ref>{{Chú thích web|url=https://hdnd.camau.gov.vn/filedocument/03-bc-75-bc-ubnd-tong-hop-kq-lay-y-kien-cu-tri.pdf|tựa đề= Báo cáo 75/BC-UBND về việc lấy ý kiến cử tri |tác giả= UBND tỉnh Cà Mau |ngày= 2024-03-12 |website= Cổng thông tin điện tử Đoàn Đại biểu Quốc hội và Hội đồng Nhân dân tỉnh Cà Mau |url lưu trữ=https://web.archive.org/web/20240409220000/https://hdnd.camau.gov.vn/filedocument/03-bc-75-bc-ubnd-tong-hop-kq-lay-y-kien-cu-tri.pdf|ngày lưu trữ= 2024-04-09 |ngày truy cập= 2024-04-09 |url-status=dead}}</ref><ref>{{Chú thích web|url=https://hdnd.camau.gov.vn/filedocument/06-cv-6042-btnmt-dktlttdd_signed-2082047.pdf|tựa đề= Công văn số 6042/BTNMT-CĐKDLTTĐĐ của Bộ Tài nguyên và Môi trường về việc cung cấp số liệu diện tích tự nhiên của các đơn vị hành chính cấp xã, cấp huyện các tỉnh, thành phố trực thuộc Trung ương |tác giả= Bộ Tài nguyên và Môi trường |ngày= 2023-07-28 |website= Cổng thông tin điện tử Đoàn Đại biểu Quốc hội và Hội đồng Nhân dân tỉnh Cà Mau |url lưu trữ=https://web.archive.org/web/20240409220000/https://hdnd.camau.gov.vn/filedocument/06-cv-6042-btnmt-dktlttdd_signed-2082047.pdf|ngày lưu trữ= 2024-04-09 |ngày truy cập= 2024-04-09 |url-status=dead}}</ref><ref>{{Chú thích web|url=http://hdnd.camau.gov.vn/filedocument/06.1-dt-camau.pdf|tựa đề= Diện tích tỉnh Cà Mau |tác giả=|ngày= 2022-12-31 |website= Cổng thông tin điện tử Đoàn Đại biểu Quốc hội và Hội đồng Nhân dân tỉnh Cà Mau |url lưu trữ=https://web.archive.org/web/20240409220000/http://hdnd.camau.gov.vn/filedocument/06.1-dt-camau.pdf|ngày lưu trữ= 2024-04-09 |ngày truy cập= 2024-04-09 |url-status=dead}}</ref>
+
+Tính đến 13h ngày 12/9/2023 là 1.516.460 người.<ref>{{Chú thích web|url=https://hdnd.camau.gov.vn/filedocument/5.-BC-3001---CAt---so-lieu-dan-so.pdf|tựa đề= Báo cáo 3001/CAT-QLHC của Công an tỉnh về việc bổ sung về số liệu nhân khẩu thường trú vắng mặt địa phương của tỉnh Cà Mau |tác giả= Công an tỉnh Cà Mau |ngày= 2023-09-13 |website= Cổng thông tin điện tử Đoàn Đại biểu Quốc hội và Hội đồng Nhân dân tỉnh Cà Mau |url lưu trữ=https://web.archive.org/web/20240409220000/https://hdnd.camau.gov.vn/filedocument/5.-BC-3001---CAt---so-lieu-dan-so.pdf|ngày lưu trữ= 2024-04-09 |ngày truy cập= 2024-04-09 |url-status=dead}}</ref><ref>{{Chú thích web|url=https://hdnd.camau.gov.vn/filedocument/08-nq-cap-huyen-cap-xa-(Huy%E1%BB%87n-Ph%C3%BA-T%C3%A2n).pdf|tựa đề= Nghị quyết số 08/NQ-HĐND của HĐND huyện Phú Tân |tác giả=|ngày= 2024-01-16 |website= Cổng thông tin điện tử Đoàn Đại biểu Quốc hội và Hội đồng Nhân dân tỉnh Cà Mau |url lưu trữ=https://web.archive.org/web/20240409220000/https://hdnd.camau.gov.vn/filedocument/08-nq-cap-huyen-cap-xa-(Huy%E1%BB%87n-Ph%C3%BA-T%C3%A2n).pdf|ngày lưu trữ= 2024-04-09 |ngày truy cập= 2024-04-09 |url-status=dead}}</ref><ref>{{Chú thích web|url=https://hdnd.camau.gov.vn/filedocument/09-bd-hien-trang-ca-mau.pdf|tựa đề= Bản đồ hiện trạng Thành phố Cà Mau |tác giả=|ngày= 20-0-0 |website= Cổng thông tin điện tử Đoàn Đại biểu Quốc hội và Hội đồng Nhân dân tỉnh Cà Mau |url lưu trữ=https://web.archive.org/web/20240409220000/https://hdnd.camau.gov.vn/filedocument/09-bd-hien-trang-ca-mau.pdf|ngày lưu trữ= 2024-04-09 |ngày truy cập= 2024-04-09 |url-status=dead}}</ref><ref>{{Chú thích web|url=https://hdnd.camau.gov.vn/filedocument/09-bd-phuong-an-ca-mau.pdf|tựa đề= Bản đồ Thành phố Cà Mau sau điều chỉnh |tác giả=|ngày= 2024-03-27 |website= Cổng thông tin điện tử Đoàn Đại biểu Quốc hội và Hội đồng Nhân dân tỉnh Cà Mau |url lưu trữ=https://web.archive.org/web/20240409220000/https://hdnd.camau.gov.vn/filedocument/09-bd-phuong-an-ca-mau.pdf|ngày lưu trữ= 2024-04-09 |ngày truy cập= 2024-04-09 |url-status=dead}}</ref><ref>{{Chú thích web |url= https://drive.google.com/file/d/1oDnbgCX5Sk_LtKSg0yWNgpwNDqANNE8k/view?usp=drive_link |tựa đề= Bản đồ hiện trạng Huyện Phú Tân |tác giả=  |ngày= 2024-03-27 |website= Cổng thông tin điện tử Đoàn Đại biểu Quốc hội và Hội đồng Nhân dân tỉnh Cà Mau |url lưu trữ= https://web.archive.org/web/20240409152608/https://drive.google.com/file/d/1oDnbgCX5Sk_LtKSg0yWNgpwNDqANNE8k/view?usp=drive_link |ngày lưu trữ= 2024-04-09 |ngày truy cập= 2024-04-09 |url-status= dead }}</ref><ref>{{Chú thích web |url= https://drive.google.com/file/d/1YPl58ncA-igm5sI55cqSqqM6o8FVGpGD/view?usp=drive_link |tựa đề= Bản đồ huyện Phú Tân sau điều chỉnh |tác giả=  |ngày= 2024-03-27 |website= Cổng thông tin điện tử Đoàn Đại biểu Quốc hội và Hội đồng Nhân dân tỉnh Cà Mau |url lưu trữ= https://web.archive.org/web/20240409152608/https://drive.google.com/file/d/1YPl58ncA-igm5sI55cqSqqM6o8FVGpGD/view?usp=drive_link |ngày lưu trữ= 2024-04-09 |ngày truy cập= 2024-04-09 |url-status= dead }}</ref>
+
+Tỉnh Cà Mau với diện tích tự nhiên là 5.274,51&nbsp;km² và quy mô dân số quy đổi tính đến ngày 31/12/2023 là 1.518.112 người.<ref>{{Chú thích web|url=https://hdnd.camau.gov.vn/filedocument/signed-signed-signed-143.-nc----trinh-ky-phat-hanh.pdf|tựa đề= Tờ trình số 140/TTr-UBND về việc thành lập phường Tắc Vân thuộc thành phố Cà Mau, tỉnh Cà Mau |tác giả=|ngày= 2024-09-25 |website= Cổng thông tin điện tử Đoàn ĐBQH và HĐND tỉnh Cà Mau |url lưu trữ=https://web.archive.org/web/20241001110024/https://hdnd.camau.gov.vn/filedocument/signed-signed-signed-143.-nc----trinh-ky-phat-hanh.pdf|ngày lưu trữ= 2024-10-01 |ngày truy cập= 2024-10-01 |url-status= dead }}</ref><ref>{{Chú thích web|url=https://hdnd.camau.gov.vn/filedocument/01-DT-NQ-CUA-H%C4%90ND-TINH--CHU-TRUONG-TL-PHUONG-TAC-VAN-(trinh-H%C4%90ND).pdf|tựa đề= Dự thảo Nghị quyết về việc thống nhất chủ trương thành lập phường Tắc Vân thuộc thành phố Cà Mau, tỉnh Cà Mau |tác giả=|ngày= 2024 |website= Cổng thông tin điện tử Đoàn ĐBQH và HĐND tỉnh Cà Mau |url lưu trữ=https://web.archive.org/web/20241001110024/https://hdnd.camau.gov.vn/filedocument/01-DT-NQ-CUA-H%C4%90ND-TINH--CHU-TRUONG-TL-PHUONG-TAC-VAN-(trinh-H%C4%90ND).pdf|ngày lưu trữ= 2024-10-01 |ngày truy cập= 2024-10-01 |url-status= dead }}</ref><ref>{{Chú thích web|url=https://hdnd.camau.gov.vn/filedocument/02-DU-THAO-DE-AN-TL-PHUONG-TAC-VAN-(06-9).pdf|tựa đề= Phương án về việc thành lập phường Tắc Vân thuộc thành phố Cà Mau, tỉnh Cà Mau |tác giả=|ngày= 2024-09-06 |website= Cổng thông tin điện tử Đoàn ĐBQH và HĐND tỉnh Cà Mau |url lưu trữ=https://web.archive.org/web/20241001110024/https://hdnd.camau.gov.vn/filedocument/02-DU-THAO-DE-AN-TL-PHUONG-TAC-VAN-(06-9).pdf|ngày lưu trữ= 2024-10-01 |ngày truy cập= 2024-10-01 |url-status=dead}}</ref><ref>{{Chú thích web|url=https://hdnd.camau.gov.vn/filedocument/06-CV-CA-tinh-ve-D%C3%A2n-s%E1%BB%91.pdf|tựa đề= Công văn số 492/CAT-QLHC về việc cung cấp số liệu nhân khẩu thường trú, tạm trú trên địa bàn tỉnh Cà Mau năm 2023 |tác giả=|ngày= 2024-02-28 |website= Cổng thông tin điện tử Đoàn ĐBQH và HĐND tỉnh Cà Mau |url lưu trữ=https://web.archive.org/web/20241001110024/https://hdnd.camau.gov.vn/filedocument/06-CV-CA-tinh-ve-D%C3%A2n-s%E1%BB%91.pdf|ngày lưu trữ= 2024-10-01 |ngày truy cập= 2024-10-01 |url-status= dead }}</ref>
+
+Tính đến ngày 31 tháng 12 năm 2024, tỉnh Cà Mau có diện tích tự nhiên 7.942,39&nbsp;km² và quy mô dân số quy đổi là 2.606.672 người.<ref name="202/2025/QH15"/><ref>{{Chú thích web|url=https://tuoitre.vn/chi-tiet-du-kien-quy-mo-dan-so-dien-tich-kinh-te-cua-34-tinh-thanh-sau-sap-nhap-20250513081155167.htm|tựa đề= Chi tiết dự kiến quy mô dân số, diện tích, kinh tế của 34 tỉnh, thành sau sáp nhập |tác giả= Thành Chung |ngày= 2025-05-13 |website= Tuổi Trẻ Online |url lưu trữ=https://web.archive.org/web/20250513080219/https://tuoitre.vn/chi-tiet-du-kien-quy-mo-dan-so-dien-tich-kinh-te-cua-34-tinh-thanh-sau-sap-nhap-20250513081155167.htm|ngày lưu trữ= 2025-05-13 |ngày truy cập= 2025-05-13 |url-status= dead }}</ref><ref>{{Chú thích web |url= https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm |tựa đề= Dự kiến chi tiết diện tích, dân số, quy mô kinh tế của 34 tỉnh, thành mới |tác giả= Lê Hoa |ngày= 2025-06-09 |website= Báo Dân Trí |url lưu trữ= https://web.archive.org/web/20250610031809/https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm |ngày lưu trữ= 2025-06-10 |ngày truy cập= 2025-06-09 |url-status= dead }}</ref>
+
+Trên địa bàn tỉnh có ba dân tộc chính là [[Người Kinh|Kinh]], [[Người Khmer (Việt Nam)|Khmer]] và [[Người Hoa (Việt Nam)|Hoa]]. Ở phần tỉnh Cà Mau trước sáp nhập, đầu năm 2017 dân tộc Kinh có khoảng 1.180.000 người, chiếm trên 96% dân số; người Khmer khoảng 33.439 người, chiếm 2,73%; người Hoa 9.418 người, chiếm 0,76%. Người Khmer sống tập trung quanh các ngôi chùa ở cả thành thị lẫn nông thôn, làm ruộng, trồng rau màu, chăn nuôi, khai thác thủy sản và buôn bán nhỏ; người Hoa chủ yếu sống ở khu vực thành thị và làm nghề buôn bán.<ref name="camau.gov.vn"/> Ở phần tỉnh Bạc Liêu trước sáp nhập, tỷ lệ người dân tộc thiểu số cao hơn, chiếm 9,2% dân số toàn tỉnh, trong đó người Khmer có 76.146 người, chiếm 7,6% và người Hoa có 23.020 người, chiếm 2,29%.<ref>{{Chú thích web |url=https://dantocphattrien.vietnamnet.vn/bac-lieu-doi-song-dong-bao-khmer-ngay-cang-khoi-sac-tu-chuong-trinh-mtqg-1719-1744109020475.htm |tiêu đề=Bạc Liêu: Đời sống đồng bào Khmer ngày càng khởi sắc từ Chương trình MTQG 1719 |website=Báo Dân tộc và Phát triển |ngày truy cập=19 tháng 8 năm 2026}}</ref>
+
+Về tôn giáo, trước sáp nhập tỉnh Cà Mau có sáu tôn giáo là [[Phật giáo]], [[Công giáo]], [[Tin Lành]], [[Đạo Cao Đài|Cao Đài]], [[Phật giáo Hòa Hảo]] và [[Tịnh độ cư sĩ Phật hội Việt Nam]].<ref name="camau.gov.vn"/> Người Khmer trong tỉnh theo Phật giáo Nam tông Khmer.
+
+==Văn hóa==
+[[Tập tin:Vinh Hung tower, Vinh Loi, Bac Lieu.jpg|nhỏ|Di tích [[Tháp Vĩnh Hưng|tháp cổ Vĩnh Hưng]]]]
+Cà Mau là vùng đất hội tụ nhiều lớp trầm tích văn hóa và lịch sử độc đáo tại miền cực Nam của Việt Nam. Đây là nơi cộng cư của nhiều dân tộc anh em như người [[người Kinh|Kinh]], [[người Khmer|Khmer]], [[người Hoa|Hoa]] và [[người Chăm|Chăm]], tạo nên một cộng đồng đa dạng và phong phú về bản sắc văn hóa dân tộc. Quá trình giao thoa văn hóa lâu đời đã để lại những dấu ấn sâu đậm thông qua các di tích lịch sử, công trình kiến trúc, nghề thủ công truyền thống và các lễ hội đặc sắc, hình thành nên một nền văn hóa sông nước đặc trưng, mộc mạc nhưng đầy sức sống.<ref>{{Chú thích web |url=https://www.camau.gov.vn/lich-su-van-hoa |tiêu đề=Lịch sử - Văn hóa |website=Cổng thông tin điện tử tỉnh Cà Mau |ngày truy cập=2026-08-14}}</ref>
+
+Hệ thống di sản văn hóa vật thể tại Cà Mau rất đồ sộ với 112 di tích đã được xếp hạng tính đến năm 2026, bao gồm 3 [[Di tích quốc gia đặc biệt (Việt Nam)|di tích quốc gia đặc biệt]] là [[Đường Hồ Chí Minh trên biển]] tại Bến Vàm Lũng, [[Căn cứ Cái Chanh|Khu Căn cứ Cái Chanh]] và [[Tháp Vĩnh Hưng|Di tích khảo cổ Vĩnh Hưng]]. Bên cạnh đó, tỉnh còn sở hữu 24 [[Danh sách Di tích quốc gia Việt Nam|di tích cấp quốc gia]], 84 di tích cấp tỉnh và 5 bảo vật quốc gia,<ref name="phongphu">{{Chú thích web |url=https://baocamau.vn/phong-phu-di-san-van-hoa-a121348.html |tiêu đề=Phong phú di sản văn hóa |website=Báo Cà Mau |ngày truy cập=2026-08-14}}</ref> tiêu biểu như Khu tưởng niệm nghệ thuật [[Đờn ca tài tử Nam Bộ]], chùa Kosthum hay [[chùa Bà Thiên Hậu]].<ref name="phongphu" />
+
+Về phương diện di sản văn hóa phi vật thể, Cà Mau tự hào có nghệ thuật Đờn ca tài tử Nam Bộ được [[UNESCO]] ghi danh là [[Di sản văn hóa phi vật thể của nhân loại|Di sản văn hóa phi vật thể đại diện của nhân loại]].<ref name="phathuy">{{Chú thích web |url=https://baocamau.vn/phat-huy-gia-tri-di-san-van-hoa-phi-vat-the--a121165.html |tiêu đề=Phát huy giá trị di sản văn hóa phi vật thể |website=Báo Cà Mau |ngày truy cập=2026-08-14}}</ref> Ngoài ra, tỉnh hiện có 7 di sản được [[Bộ Văn hóa, Thể thao và Du lịch (Việt Nam)|Bộ Văn hóa, Thể thao và Du lịch]] đưa vào danh mục Di sản văn hóa phi vật thể quốc gia, bao gồm 4 nghề thủ công truyền thống là làm muối ba khía, gác kèo ong, làm tôm khô và làm muối; cùng 2 lễ hội truyền thống là Nghinh Ông Sông Đốc và Vía Bà Thủy Long; cũng như nghệ thuật Nhạc trống lớn của người Khmer.<ref name="phathuy" /><ref>{{Chú thích web |url=https://baocamau.vn/nghe-lam-tom-kho-va-le-hoi-via-ba-thuy-long-la-di-san-van-hoa-phi-vat-the-quoc-gia-a30028.html |tiêu đề=Nghề làm tôm khô và Lễ hội Vía Bà Thủy Long là di sản văn hóa phi vật thể quốc gia |website=Báo Cà Mau |ngày truy cập=2026-08-14}}</ref><ref>{{Chú thích web |url=https://daibieunhandan.vn/ca-mau-them-2-di-san-van-hoa-phi-vat-the-quoc-gia-duoc-cong-nhan-10324273.html |tiêu đề=Cà Mau thêm 2 di sản văn hóa phi vật thể quốc gia được công nhận |website=Báo Đại biểu Nhân dân |ngày truy cập=2026-08-14}}</ref><ref>{{Chú thích web |url=https://baolangson.vn/hai-nghe-doc-dao-rieng-o-ca-mau-thanh-di-san-van-hoa-phi-vat-the-1259961.html |tiêu đề=Hai nghề độc đáo riêng ở Cà Mau thành di sản văn hóa phi vật thể |website=Báo Lạng Sơn |ngày truy cập=2026-08-14}}</ref>
+
+Mỗi dân tộc tại Cà Mau đều đóng góp những nét bản sắc riêng biệt vào bức tranh văn hóa chung của vùng đất này. Người Khmer nổi bật với các lễ hội truyền thống như [[Chôl Chnăm Thmây]], [[Ok Om Bok]], các điệu múa dân gian như Rô băm, Dù kê cùng kiến trúc chùa tháp đặc sắc. Văn hóa người Hoa thể hiện rõ nét qua các hoạt động [[Múa lân - sư - rồng|múa lân]], sư, rồng, nghệ thuật [[thư pháp]] và văn hóa [[Ẩm thực Trung Quốc|ẩm thực phương Đông]]. Trong khi đó, người Chăm vẫn gìn giữ những giá trị văn hóa qua kiến trúc điêu khắc, âm nhạc với trống Baranưng, kèn Saranai và các lễ hội tôn giáo như [[Lễ hội Katé|Kate]] hay [[Lễ hội Ramưwan|Ramuwan]].<ref name="dtts">{{Chú thích web |url=https://dangcongsan.org.vn/bovhttdl/tin-tuc-hoat-dong/ca-mau-ba-o-to-n-va-phat-huy-gia-tri-van-ho-a-truye-n-tho-ng-cua-ca-c-dan-to-c-thie-u-so-.html |tiêu đề=Cà Mau bảo tồn và phát huy giá trị văn hóa truyền thống của các dân tộc thiểu số |website=Báo điện tử Đảng Cộng sản Việt Nam |ngày truy cập=2026-08-14}}</ref>
+
+Ngày nay, công tác bảo tồn và phát huy giá trị các di sản đang được đẩy mạnh thông qua việc tổ chức các lớp truyền dạy kỹ năng cho thế hệ trẻ,<ref name="dtts" /> gắn kết văn hóa với phát triển du lịch bền vững và xây dựng các thiết chế văn hóa mới như Bảo tàng Lúa nước Cà Mau.<ref>{{Chú thích web |url=https://nhandan.vn/van-hoa-ca-mau-niu-giu-coi-nguon-mo-duong-du-lich-post958692.html |tiêu đề=Văn hóa Cà Mau: Níu giữ cội nguồn, mở đường du lịch |website=Báo Nhân Dân |ngày truy cập=2026-08-14}}</ref>
+
+===Tín ngưỡng===
+Đến đầu năm 2017, tỉnh Cà Mau có 373.327 tín đồ, chiếm 30,7% so với dân số; 1.132 chức sắc; 1.913 chức việc. Có tổng số 142 tổ chức tôn giáo cơ sở; 134 cơ sở thờ tự. Bao gồm:
+*Phật giáo:
+**Phật giáo Bắc tông có tổng số 41 cơ sở thờ tự; 277.865 phật tử, tu sĩ, chức sắc, chức việc, hoàn thượng, thượng tọa, ni trưởng, ni sư, đại đức, sư cô, sadi, sadini, thức xoa mana.
+**Phật giáo Hoa Tông có 2 cơ sở thờ tự; 2.180 phật tử, cư sĩ.
+**Phật giáo Nam Tông có 7 cơ sở thờ tự; 25.215 phật tử, sư, hòa thượng, thượng tọa, đại đức, chức việc.
+* Công giáo: 19 cơ sở thờ tự; 22.360 giáo dân, linh mục.
+*Tin lành gồm: Tin lành Việt Nam (miền Nam), Tin lành BaptitVN, Tin lành Liên hữu Cơ đốc, Tin lành Chứng nhân Giê-hô-va, Tin lành Cơ đốc Phục lâm. Trong đó:
+**Tin lành Việt Nam (miền Nam) có 8 cơ sở thờ tự; 4.472 tín hữu, mục sư, truyền đạo.
+**Tin lành BaptitVN có 34 điểm nhóm; 1.105 tín hữu, mục sư, nữ truyền đạo, chức việc.
+**Tin lành Liên hữu Cơ đốc có 1 điểm nhóm; 49 tín hữu, mục sư.
+**Tin lành [[Nhân Chứng Giê-hô-va|Nhân chứng Giê-hô-va]] có 1 điểm nhóm; 136 tín hữu, chức việc.
+**Tin lành Cơ đốc Phục lâm có 1 điểm nhóm; 32 tín hữu, chức việc.
+*Cao đài gồm có: Cao Đài Minh Chơn đạo, Cao Đài Tây Ninh, Cao Đài Tiên Thiên. Trong đó:
+**Cao Đài Minh Chơn đạo có 23 cơ sở thờ tự; 13.436 nhơn sanh, chức sắc, chức việc.
+**Cao Đài Tây Ninh có 9 cơ sở thờ tự; 13.277 nhơn sanh, chức sắc, chức việc.
+**Cao Đài Tiên Thiên có 2 cơ sở thờ tự; 715 nhơn sanh, chức sắc, chức việc.
+*Tịnh độ cư sĩ phật hội: có 22 cơ sở thờ tự; 14.691 tín đồ, chức sắc, chức việc.
+*Phật giáo Hòa Hảo: có 01 cơ sở thờ tự; 1.056 đồng đạo, chức việc.
+
+Đồng bào các tôn giáo ở Cà Mau tích cực tham gia các hoạt động từ thiện xã hội như: hỗ trợ đồng bào nghèo nhân dịp lễ, tết, bắc cầu giao thông nông thôn, khám và cấp phát thuốc miễn phí cho bệnh nhân nghèo, hỗ trợ mổ tim cho người nghèo,....
+===Âm nhạc===
+* Áo mới Cà Mau : [[Thanh Sơn (nhạc sĩ)|Thanh Sơn]]
+* Bên dòng sông Trẹm : [[Phan Ni Tấn]]
+* Em về miệt thứ : [[Hà Phương (nhạc sĩ)|Hà Phương]]
+* Lý con sáo Bạc Liêu : [[Phan Ni Tấn]]
+* Hoài cổ : [[Thanh Sơn (nhạc sĩ)|Thanh Sơn]]
+* Đất mũi Cà Mau : [[Hoàng Hiệp]]
+* Đêm Gành Hào nhớ điệu hoài lang : [[Vũ Đức Sao Biển]]
+* Yêu cô gái Bạc Liêu : [[Thanh Sơn (nhạc sĩ)|Thanh Sơn]]
+* Thương về Cà Mau : [[Vũ Đức Sao Biển]]
+* Hát từ xóm biển Cà Mau : [[An Chung]]
+===Văn học===
+* [[Hương rừng Cà Mau]] : [[Sơn Nam (nhà văn)|Sơn Nam]]
+* Cà Mau quê xứ : [[Trần Tuấn (tác giả|Trần Tuấn]]
+* [[Đất rừng phương Nam]] : [[Đoàn Giỏi]]
+* [[Cánh đồng bất tận]] : [[Nguyễn Ngọc Tư]]
+* Gửi người vợ miền Nam : [[Nguyễn Bính]]
+* Trên đất Gò Muồng : [[Nguyễn Xuân Bắc]]
+
+=== Ẩm thực ===
+[[Tập tin:Tôm khô ở Bạc Liêu.jpg|nhỏ|Tôm khô được bày bán ở chợ Bạc Liêu (nay là Cà Mau)]]
+Cà Mau có hai hệ sinh thái song song là ngập mặn và ngập lợ, kèm theo đó là những sản vật đặc trưng của từng vùng. Các món ăn ở đây thường được chế biến không quá cầu kỳ nhưng giữ được gần như trọn vẹn hương vị của sản vật tự nhiên.<ref name="ReferenceA">{{Chú thích web |url=https://baocamau.vn/longform/dac-sac-am-thuc-ca-mau-a37.html |tiêu đề=Đặc sắc ẩm thực Cà Mau |website=Báo Cà Mau |ngày truy cập=19 tháng 8 năm 2026}}</ref> Những sản vật thường được nhắc đến gồm cua, tôm đất, khô cá sặc bổi, [[hàu]], mật ong rừng và [[ba khía]].<ref>{{Chú thích web |url=https://vnexpress.net/chu-de/dac-san-ca-mau-3986 |tiêu đề=Đặc sản Cà Mau |website=VnExpress |ngày truy cập=19 tháng 8 năm 2026}}</ref>
+
+Ba khía muối là món ăn gắn với vùng ven biển nước mặn, trong đó ba khía [[Rạch Gốc]] (huyện [[Ngọc Hiển]] cũ) được xem là ngon nhất. Người dân cho rằng ba khía ở đây ăn trái mắm, trái đước dưới tán rừng ngập mặn nên gạch vàng, thịt chắc. Mùa ba khía "hội" rơi vào khoảng tháng 7 đến tháng 9 âm lịch; trước kia người dân bắt về ăn không hết mới nghĩ ra cách muối để giữ được lâu.<ref>{{Chú thích web |url=https://baocantho.com.vn/muoi-ba-khia-nghe-di-san-o-dat-mui-a135436.html |tiêu đề=Muối ba khía - nghề di sản ở Đất Mũi |website=Báo Cần Thơ |ngày truy cập=19 tháng 8 năm 2026}}</ref> Ngày 20 tháng 12 năm 2019, Bộ trưởng [[Bộ Văn hóa, Thể thao và Du lịch (Việt Nam)|Bộ Văn hóa, Thể thao và Du lịch]] ký Quyết định số 4612/QĐ-BVHTTDL đưa nghề muối ba khía huyện Ngọc Hiển vào danh mục [[Danh sách Di sản văn hóa phi vật thể quốc gia (Việt Nam)|di sản văn hóa phi vật thể quốc gia]], thuộc loại hình tri thức dân gian và nghề thủ công truyền thống.<ref>{{Chú thích web |url=https://www.camau.gov.vn/wps/portal/?page=gioithieu.chitiet&urile=wcm:path:/camaulibrary/camauofsite/gioithieu/tongquan/lichsuvanhoa/dsvhpvt/asdfghnnn14092023 |tiêu đề=Nghề muối ba khía |website=Cổng thông tin điện tử tỉnh Cà Mau |ngày truy cập=19 tháng 8 năm 2026}}</ref> Lễ công bố được tổ chức ngày 23 tháng 6 năm 2020.<ref>{{Chú thích web |url=https://vietnamnet.vn/di-san-nghe-muoi-ba-khia-o-ca-mau-653542.html |tiêu đề=Di sản nghề muối ba khía ở Cà Mau |website=VietNamNet |ngày truy cập=19 tháng 8 năm 2026}}</ref>
+
+Nghề làm tôm khô cũng đã tồn tại hàng trăm năm ở vùng ven biển, phát triển mạnh nhất ở các huyện nuôi tôm dưới tán rừng như [[Ngọc Hiển]] và [[Năm Căn (huyện)|Năm Căn]]. Tôm khô được phơi theo lối truyền thống gọi là "một sương hai nắng", tức phơi hai ngày một đêm. Món tôm khô dưa kiệu ngày Tết là một nét quen thuộc trong bữa ăn của người dân địa phương.<ref>{{Chú thích web |url=https://www.vietnamplus.vn/ca-mau-nghe-lam-tom-kho-duoc-cong-nhan-la-di-san-van-hoa-phi-vat-the-quoc-gia-post915016.vnp |tiêu đề=Cà Mau: Nghề làm tôm khô được công nhận là Di sản Văn hóa Phi vật thể Quốc gia |website=VietnamPlus |ngày truy cập=19 tháng 8 năm 2026}}</ref> Năm 2012, Cục Sở hữu trí tuệ công nhận "Tôm khô Rạch Gốc" là nhãn hiệu tập thể của người dân huyện Ngọc Hiển.<ref>{{Chú thích web |url=https://thanhnien.vn/nghe-lam-tom-kho-o-ca-mau-duoc-cong-nhan-di-san-van-hoa-phi-vat-the-quoc-gia-185231114173250056.htm |tiêu đề=Nghề làm tôm khô ở Cà Mau được công nhận di sản văn hóa phi vật thể quốc gia |website=Thanh Niên |ngày=14 tháng 11 năm 2023 |ngày truy cập=19 tháng 8 năm 2026}}</ref> Ngày 10 tháng 11 năm 2023, nghề làm tôm khô tỉnh Cà Mau được đưa vào danh mục di sản văn hóa phi vật thể quốc gia theo Quyết định số 3441/QĐ-BVHTTDL.<ref>{{Chú thích web |url=https://tuoitre.vn/nghe-lam-tom-kho-va-le-hoi-via-ba-thuy-long-da-thanh-di-san-20231114082858062.htm |tiêu đề=Nghề làm tôm khô và lễ hội vía Bà Thủy Long đã thành di sản |website=Tuổi Trẻ |ngày=14 tháng 11 năm 2023 |ngày truy cập=19 tháng 8 năm 2026}}</ref>
+
+Mật ong rừng tràm [[U Minh Hạ]] là sản vật gắn với nghề gác kèo ong, còn gọi là nghề "ăn ong". Người thợ dựng kèo trong rừng tràm để dẫn dụ ong về làm tổ, mùa chính bắt đầu vào khoảng tháng 11 và tháng 12 khi hoa tràm nở rộ.<ref>{{Chú thích web |url=https://vov.vn/xa-hoi/trai-nghiem-nghe-an-ong-truyen-thong-o-dat-rung-u-minh-ha-post941984.vov |tiêu đề=Trải nghiệm nghề "ăn ong" truyền thống ở đất rừng U Minh hạ |website=VOV |ngày truy cập=19 tháng 8 năm 2026}}</ref> Ngoài mật, [[ong]] non còn được dùng để nấu cháo, trộn gỏi hoặc làm mắm ong. Năm 2011, [[Cục Sở hữu trí tuệ (Việt Nam)|Cục Sở hữu trí tuệ]] công nhận sản phẩm "Mật ong U Minh Hạ" là nhãn hiệu tập thể.<ref>{{Chú thích web |url=https://daibieunhandan.vn/doc-dao-nghe-an-ong-o-u-minh-ha-post306559.html |tiêu đề=Độc đáo nghề "ăn ong" ở U Minh Hạ |website=Đại biểu Nhân dân |ngày truy cập=19 tháng 8 năm 2026}}</ref> Nghề gác kèo ong ở hai huyện [[U Minh (huyện)|U Minh]] và [[Trần Văn Thời (huyện)|Trần Văn Thời]] được đưa vào danh mục di sản văn hóa phi vật thể quốc gia theo Quyết định số 4613/QĐ-BVHTTDL ngày 20 tháng 12 năm 2019.<ref>{{Chú thích web |url=https://www.vietnamplus.vn/nghe-gac-keo-ong-o-ca-mau-di-san-van-hoa-phi-vat-the-quoc-gia-post646330.vnp |tiêu đề=Nghề Gác kèo ong ở Cà Mau - Di sản Văn hóa Phi vật thể Quốc gia |website=VietnamPlus |ngày truy cập=19 tháng 8 năm 2026}}</ref>
+
+Một món ăn thường được nhắc đến của vùng U Minh Hạ là lẩu mắm. Nước lẩu nấu từ mắm cá sặc, ăn kèm nhiều loại rau rừng hái tại chỗ. Ngoài ra còn có cá lóc nướng trui, cua Năm Căn, cá thòi lòi nướng, ốc len xào dừa, vọp nướng và chả trứng mực Đất Mũi.<ref name="ReferenceA"/>
+
+Khu vực tỉnh [[Bạc Liêu (tỉnh)|Bạc Liêu]] cũ (sáp nhập với Cà Mau từ năm 2025) có nghề làm muối với lịch sử hơn một trăm năm, tập trung ở vùng ven biển các xã [[Vĩnh Hậu, Cà Mau|Vĩnh Hậu]], [[Long Điền, Cà Mau|Long Điền]] và [[Gành Hào]]. Mùa làm muối diễn ra trong mùa khô, thường từ khoảng tháng 10 năm trước đến tháng 4 năm sau theo âm lịch.<ref>{{Chú thích web |url=https://nhandan.vn/noi-niem-nguoi-lam-muoi-post944751.html |tiêu đề=Nỗi niềm người làm muối |website=Nhân Dân |ngày=25 tháng 2 năm 2026 |ngày truy cập=19 tháng 8 năm 2026}}</ref> [[Muối ăn|Muối]] ở đây có hàm lượng [[Magnesi|magiê]], [[Calci|canxi]] và [[Sulfat|sunfat]] thấp nên không có vị đắng hay chát, xưa được biết đến với tên gọi muối Ba Thắc.<ref>{{Chú thích web |url=https://www.vietnamplus.vn/nghe-lam-muoi-o-bac-lieu-la-di-san-van-hoa-phi-vat-the-quoc-gia-post687338.vnp |tiêu đề=Nghề làm muối ở Bạc Liêu là Di sản Văn hóa Phi vật thể Quốc gia |website=VietnamPlus |ngày truy cập=19 tháng 8 năm 2026}}</ref> Nghề làm muối ở Bạc Liêu được đưa vào danh mục di sản văn hóa phi vật thể quốc gia theo Quyết định số 2746/QĐ-BVHTTDL ngày 30 tháng 9 năm 2020.<ref>{{Chú thích web |url=https://tuoitre.vn/nghe-lam-muoi-o-bac-lieu-la-di-san-van-hoa-phi-vat-the-quoc-gia-20201231140034469.htm |tiêu đề=Nghề làm muối ở Bạc Liêu là di sản văn hóa phi vật thể quốc gia |website=Tuổi Trẻ |ngày=31 tháng 12 năm 2020 |ngày truy cập=19 tháng 8 năm 2026}}</ref>
+
+=== Thể thao ===
+Cơ sở thể thao lớn nhất tỉnh là Khu liên hợp thể dục – thể thao tại phường [[Bạc Liêu (phường)|Bạc Liêu]], được khởi công tháng 11 năm 2021 trên diện tích hơn 4,4 ha với tổng mức đầu tư hơn 360 tỷ đồng.<ref>{{Chú thích web |url=https://vnexpress.net/bac-lieu-sap-co-khu-lien-hop-the-thao-4719214.html |tiêu đề=Bạc Liêu sắp có khu liên hợp thể thao |website=VnExpress |ngày truy cập=19 tháng 8 năm 2026}}</ref> Hạng mục chính là sân vận động trung tâm với sân bóng đá tiêu chuẩn kích thước 100 × 64 m, hai khán đài A và B có sức chứa khoảng 8.000 chỗ ngồi, mỗi bên 4.000 chỗ và có mái che một phần. Ngoài ra còn có 10 đường chạy thẳng 100 m, 8 đường chạy vòng 400 m, sân nhảy cao, sân nhảy xa, sân đẩy tạ, sân ném đĩa, sân ném lao cùng nhà tập luyện và các hạng mục phụ trợ.<ref>{{Chú thích web |url=https://dantri.com.vn/thoi-su/khu-the-thao-360-ty-dong-sau-10-nam-thai-nghen-o-bac-lieu-20240124214955569.htm |tiêu đề=Khu thể thao 360 tỷ đồng sau 10 năm "thai nghén" ở Bạc Liêu |website=Dân trí |ngày=25 tháng 1 năm 2024 |ngày truy cập=19 tháng 8 năm 2026}}</ref> Công trình được khánh thành ngày 19 tháng 8 năm 2025, đáp ứng chuẩn tổ chức các giải thi đấu cấp quốc gia cũng như luyện tập và đào tạo vận động viên.<ref>{{Chú thích web |url=https://nhandan.vn/ca-mau-khanh-thanh-khu-lien-hop-the-thao-hien-dai-tam-quoc-gia-post901981.html |tiêu đề=Cà Mau khánh thành khu liên hợp thể thao hiện đại tầm quốc gia |website=Nhân Dân |ngày=19 tháng 8 năm 2025 |ngày truy cập=19 tháng 8 năm 2026}}</ref> Bên cạnh đó, tỉnh còn có Sân vận động Cà Mau ở phường [[An Xuyên (phường)|An Xuyên]] với sức chứa hơn 5.000 chỗ ngồi.<ref>{{Chú thích web |url=https://ctvcamau.vn/tin-tuc/doi-bong-da-ca-mau-that-thu-tai-vong-2-giai-hang-nhat |tiêu đề=Đội bóng đá Cà Mau thất thủ tại vòng 2 giải hạng Nhất |website=Đài Phát thanh - Truyền hình Cà Mau |ngày truy cập=19 tháng 8 năm 2026}}</ref>
+
+[[Câu lạc bộ bóng đá Cà Mau]] thành lập năm 2006 và trong phần lớn thời gian hoạt động thi đấu ở [[Giải bóng đá hạng Nhì Quốc gia Việt Nam|giải hạng Nhì quốc gia]]. Năm 2015, đội thắng [[Câu lạc bộ bóng đá Bình Định|Bình Định]] 4–2 ở loạt sút luân lưu trong trận play-off, lần đầu giành quyền lên [[Giải bóng đá hạng nhất quốc gia (Việt Nam)|hạng Nhất]] sau 30 năm. Tháng 10 năm 2015, Trung tâm Thể dục Thể thao tỉnh Cà Mau gửi công văn xin không tham dự giải hạng Nhất 2016 với lý do ngân sách địa phương khó khăn.<ref>{{Chú thích web |url=https://vff.org.vn/xung-quanh-viec-doi-bong-da-ca-mau-tham-du-giai-hang-nhat-qg-nam-2016/ |tiêu đề=Xung quanh việc đội bóng đá Cà Mau tham dự giải hạng Nhất QG năm 2016 |website=Liên đoàn Bóng đá Việt Nam |ngày truy cập=19 tháng 8 năm 2026}}</ref> Sau khi tìm được nhà tài trợ, tỉnh xin tham dự trở lại và tháng 12 năm 2015, [[Liên đoàn Bóng đá Việt Nam]] chấp thuận với điều kiện đội phải hoàn thành việc nâng cấp một số hạng mục của sân vận động Cà Mau với kinh phí 4,6 tỷ đồng.<ref>{{Chú thích web |url=https://nhandan.vn/doi-bong-ca-mau-duoc-choi-o-giai-hang-nhat-nam-2016-post250815.html |tiêu đề=Đội bóng Cà Mau được chơi ở giải hạng Nhất năm 2016 |website=Nhân Dân |ngày=19 tháng 12 năm 2015 |ngày truy cập=19 tháng 8 năm 2026}}</ref> Đội xếp cuối bảng xếp hạng ở giải hạng Nhất quốc gia 2016<ref>{{Chú thích web |tiêu đề=CLB Cà Mau "thay máu" để tìm đường thoát khỏi vị trí bét bảng ở giải hạng Nhất |url=https://bongdaplus.vn/bong-da-viet-nam/clb-ca-mau-thay-mau-de-tim-duong-thoat-khoi-vi-tri-bet-bang-o-giai-hang-nhat-1554271605.html |ngày truy cập=19 tháng 8 năm 2026 |website=Tạp chí Bóng đá}}</ref> và trở lại thi đấu ở bảng B [[Giải bóng đá hạng nhì quốc gia 2017|giải hạng Nhì quốc gia 2017]].<ref>{{Chú thích web |ngày=18 tháng 6 năm 2017 |tiêu đề=Kết quả lượt về giải Bóng đá hạng Nhì Quốc gia 2017: CAND và PVF dẫn đầu hai bảng xếp hạng |url=https://www.vff.org.vn/ket-qua-luot-ve-giai-bong-da-hang-nhi-quoc-gia-2017-cand-va-pvf-dan-dau-hai-bang-xep-hang/ |ngày truy cập=19 tháng 8 năm 2026 |website=Liên đoàn Bóng đá Việt Nam}}</ref> Đến năm 2018, tỉnh chuyển giao suất tham dự giải hạng Nhì cho đội Khánh Hòa. Phó Giám đốc Sở Văn hóa, Thể thao và Du lịch tỉnh Cà Mau Tạ Hoàng Hiện cho biết lý do là không có ngân sách hoạt động cho đội bởi năm đó tỉnh tập trung kinh phí tổ chức Đại hội Thể dục thể thao.<ref>{{Chú thích web |ngày=21 tháng 4 năm 2018 |tiêu đề=Lùm xùm trong chuyển nhượng ở Giải hạng nhì do quy định của VFF |url=https://tuoitre.vn/lum-xum-trong-chuyen-nhuong-o-giai-hang-nhi-do-quy-dinh-cua-vff-1438274.htm |ngày truy cập=19 tháng 8 năm 2026 |website=Tuổi Trẻ}}</ref>
+
+Ở cấp phong trào, Sở Văn hóa, Thể thao và Du lịch tỉnh tổ chức thường niên các giải như Giải bóng đá Cúp các câu lạc bộ cơ sở và Giải bóng đá tranh Cúp Tứ hùng mở rộng, cùng với đó là nhiều hội thao của các sở, ngành và địa phương.<ref>{{Chú thích web |url=https://baocamau.vn/khai-mac-giai-bong-da-cup-cac-cau-lac-bo-co-so-tinh-ca-mau-nam-2025-a123121.html |tiêu đề=Khai mạc Giải bóng đá Cúp các Câu lạc bộ cơ sở tỉnh Cà Mau năm 2025 |website=Báo Cà Mau |ngày=15 tháng 10 năm 2025 |ngày truy cập=19 tháng 8 năm 2026}}</ref>
+==Du lịch==
+{{Xem thêm|Bạc Liêu (tỉnh)#Du lịch}}
+
+[[Hình: DabacIsletCamau.jpg|nhỏ|250px|[[Hòn Đá Bạc]], thắng cảnh ở biển Cà Mau.]]
+
+Do đặc điểm tự nhiên, Cà Mau là tỉnh cuối cùng nơi cực Nam của Việt Nam. Mũi Cà Mau có cột mốc tọa độ quốc gia nên du lịch địa lý rất hấp dẫn du khách trong và ngoài nước.<ref>{{Chú thích báo |last=VnExpress |title=Mũi Cà Mau, cực nam của Tổ quốc |url=https://vnexpress.net/mui-ca-mau-cuc-nam-cua-to-quoc-3996819.html |archive-url=https://web.archive.org/web/20241012123253/https://vnexpress.net/mui-ca-mau-cuc-nam-cua-to-quoc-3996819.html |archive-date=2024-10-12 |access-date=2025-07-24 |work=vnexpress.net |language=vi |url-status=live }}</ref>
+
+Cà Mau là tỉnh duy nhất của Việt Nam có ba mặt giáp biển, sở hữu hệ sinh thái mặn - ngọt - lợ đa dạng và được mệnh danh là vùng đất “đất biết nở, rừng biết đi, biển sinh sôi".<ref name="nhandan.vn">{{Chú thích web |last= |first= |date=2025-10-30 |title=Cà Mau “thuận nước đẩy thuyền” để phát triển du lịch |url=https://nhandan.vn/ca-mau-thuan-nuoc-day-thuyen-de-phat-trien-du-lich-post919138.html |access-date=2026-08-14 |website=Báo Nhân Dân điện tử |language=vi}}</ref> Tiềm năng du lịch của tỉnh gắn liền với [[Khu dự trữ sinh quyển Mũi Cà Mau|Khu dự trữ sinh quyển thế giới Mũi Cà Mau]] đã được [[Tổ chức Giáo dục, Khoa học và Văn hóa Liên Hợp Quốc|UNESCO]] công nhận, bao gồm hai hệ sinh thái đặc trưng là [[rừng ngập mặn]] tại [[Vườn quốc gia Mũi Cà Mau]] và rừng tràm tại [[Vườn quốc gia U Minh Hạ]].<ref name=":6"/> Ẩm thực Cà Mau được coi là một "báu vật" với những đặc sản nức tiếng như cua Năm Căn, tôm khô Rạch Gốc, cá thòi lòi nướng muối ớt, vọp nướng và lẩu mắm U Minh.<ref>{{Chú thích web |title=Về với Cà Mau - Trọn vẹn sắc màu du lịch sông nước |url=https://baocamau.vn/ve-voi-ca-mau-tron-ven-sac-mau-du-lich-song-nuoc-a122625.html |access-date=2026-08-14 |website=baocamau.vn |language=vi}}</ref>
+
+Vườn quốc gia U Minh Hạ đại diện cho hệ sinh thái ngập nước ngọt đặc thù với rừng tràm trên đất than bùn.<ref>{{Chú thích web |title=Vườn quốc gia U Minh Hạ |url=http://camau.gov.vn/diem-den/vuon-quoc-gia-u-minh-ha-254273 |website=Cổng thông tin điện tử Cà Mau}}</ref> Nơi đây nổi tiếng với các hoạt động trải nghiệm đời sống cư dân bản địa như gác kèo ong lấy mật, đặt lợp bắt cá đồng và nghe kể chuyện về huyền thoại [[bác Ba Phi]].<ref>{{Chú thích web |title=Cà Mau nâng tầm “tài nguyên ký ức” đất rừng U Minh Hạ để phát triển du lịch |url=https://vov.vn/du-lich/ca-mau-nang-tam-tai-nguyen-ky-uc-dat-rung-u-minh-ha-de-phat-trien-du-lich-post1293814.vov |website=VOV}}</ref> Để lưu giữ các giá trị này, địa phương đã xây dựng Khu lưu niệm Nghệ nhân dân gian Nguyễn Long Phi (bác Ba Phi) tại xã Khánh Hưng và đang triển khai sản phẩm du lịch đêm "Đêm U Minh huyền thoại" với các hoạt động nghe [[Đờn ca tài tử Nam Bộ|đờn ca tài tử]] trên xuồng và quan sát động vật về đêm.<ref>{{Chú thích web |last= |first= |date=2026-08-14 |title=Về Cà Mau nghe kể chuyện Bác Ba Phi, đờn ca tài tử trên xuồng |url=https://dantri.com.vn/du-lich/ve-ca-mau-nghe-ke-chuyen-bac-ba-phi-don-ca-tai-tu-tren-xuong-20260813152201930.htm |access-date=2026-08-14 |website=Báo điện tử Dân trí |language=vi}}</ref>
+
+[[Mũi Cà Mau]] là điểm đến mang ý nghĩa thiêng liêng, cũng là nơi duy nhất trên đất liền Việt Nam mà du khách có thể ngắm mặt trời mọc ở biển Đông và lặn ở biển Tây trên cùng một địa danh.<ref name="nhandan.vn"/><ref>{{Chú thích web |last= |date=2026-05-03 |title=Du lịch Mũi Cà Mau: Cực tăng trưởng mới của du lịch Đồng bằng sông Cửu Long |url=https://www.vietnamplus.vn/du-lich-mui-ca-mau-cuc-tang-truong-moi-cua-du-lich-dong-bang-song-cuu-long-post1108320.vnp |access-date=2026-08-14 |website=Vietnam+ (VietnamPlus) |language=vi}}</ref><ref name=":4">{{Chú thích web |title=Mũi Cà Mau |url=https://www.camau.gov.vn/diem-den/mui-ca-mau-254276 |website=Cổng thông tin điện tử Cà Mau}}</ref> Tại đây, các công trình như Cột mốc tọa độ quốc gia GPS 0001, biểu tượng con tàu, Cột cờ Hà Nội và Đền thờ Lạc Long Quân đã trở thành những biểu tượng văn hóa - lịch sử quan trọng thu hút du khách. Du khách đến Mũi Cà Mau thường tham gia các tour xuyên rừng ngập mặn bằng ca nô hoặc vỏ lãi để khám phá hệ sinh thái bãi bồi, trải nghiệm lội bùn hoặc tham quan mô hình nuôi hàu lồng trên sông.<ref name=":4" />
+[[Tập_tin:Tượng_Địa_Tạng_(Bạc_Liêu).jpg|phải|nhỏ|250x250px|Tượng Địa Tạng Bồ Tát, thuộc [[Quan Âm Phật Đài (Bạc Liêu)|Quan Âm Phật Đài]].]]
+Bên cạnh vùng đất mũi và rừng tràm, cụm đảo Cà Mau cũng sở hữu những thắng cảnh độc đáo. [[Hòn Đá Bạc]] thu hút du khách bởi những khối đá [[Đá hoa cương|granit]] xếp chồng tự nhiên tạo thành các hình dáng kỳ thú như bàn tay Tiên, sân Tiên, đồng thời là Di tích lịch sử quốc gia ghi dấu [[Kế hoạch CM-12|chuyên án phản gián CM12]].<ref>{{Chú thích web |title=Hòn Đá Bạc |url=https://www.camau.gov.vn/diem-den/hon-da-bac-254260 |website=Cổng thông tin điện tử Cà Mau}}</ref> [[Quần đảo Hòn Khoai|Đảo Hòn Khoai]] và [[Hòn Chuối]] vẫn giữ được nét hoang sơ với [[rừng nguyên sinh]] và vị trí chiến lược quan trọng trong việc bảo vệ vùng biển Tổ quốc.<ref>{{Chú thích web |title=Khu du lịch quốc gia Mũi Cà Mau |url=https://www.camau.gov.vn/diem-den/khu-du-lich-quoc-gia-mui-ca-mau-254259 |website=Cổng thông tin điện tử Cà Mau}}</ref> Các điểm đến khác như [[Đầm Thị Tường]] - được mệnh danh là "biển hồ" giữa đồng bằng,<ref>{{Chú thích web |title=Hồi sinh “biển hồ” Cà Mau |url=https://vietnamtourism.gov.vn/printer/48099?type=1 |website=Cục Du lịch Quốc gia}}</ref> bãi biển Khai Long và các vườn chim tự nhiên như vườn cò Tư Sự cũng là những địa chỉ nghỉ dưỡng sinh thái tiêu biểu.
+
+[[Hình:Nhà Công tử Bạc Liêu.jpg|nhỏ|giữa|250px|Nhà [[Công tử Bạc Liêu]]]]
+[[Hình:Tượng Cao Văn Lầu.jpg|nhỏ|giữa|250px|Khu lưu niệm nhạc sĩ [[Cao Văn Lầu]]]]
+[[Hình:Nhà hát Cao Văn Lầu Bạc Liêu.webp|nhỏ|giữa|250px|Nhà hát [[Cao Văn Lầu]] (Nhà hát 3 nón lá)]]
+
+Sau hợp nhất với [[Bạc Liêu (tỉnh)|Bạc Liêu]], sự phát triển du lịch của tỉnh còn gắn liền với các di sản văn hóa và tâm linh của khu vực [[Bạc Liêu (tỉnh)|Bạc Liêu]] cũ.<ref name=":5">{{Chú thích web |title=Định hướng phát triển du lịch trải nghiệm cho phường Bạc Liêu |url=https://baocamau.vn/dinh-huong-phat-trien-du-lich-trai-nghiem-cho-phuong-bac-lieu-a130205.html |access-date=2026-08-14 |website=baocamau.vn |language=vi}}</ref> Phường [[Bạc Liêu (phường)|Bạc Liêu]] được định hướng trở thành trung tâm văn hóa - nghệ thuật với các điểm đến nổi bật như [[Công tử Bạc Liêu|Nhà Công tử Bạc Liêu]] hay Khu lưu niệm Nghệ nhân [[Cao Văn Lầu]] - cái nôi của bản "[[Dạ cổ hoài lang]]" và nghệ thuật [[Đờn ca tài tử Nam Bộ]] đã được UNESCO vinh danh.<ref name=":6">{{Chú thích web |title=Các điểm du lịch Cà Mau hút khách những ngày đầu xuân |url=https://chinhsachcuocsong.vnanet.vn/cac-diem-du-lich-ca-mau-hut-khach-nhung-ngay-dau-xuan/81437.html |access-date=2026-08-14 |website=chinhsachcuocsong.vnanet.vn}}</ref><ref>{{Chú thích web |last= |date=2026-08-11 |title=Cà Mau hướng tới mục tiêu trở thành điểm đến biểu tượng quốc gia |url=https://diendandoanhnghiep.vn/ca-mau-huong-toi-muc-tieu-tro-thanh-diem-den-bieu-tuong-quoc-gia-10183129.html |access-date=2026-08-14 |website=diendandoanhnghiep.vn |language=vi}}</ref> Các công trình kiến trúc như Nhà hát ba nón lá và Quảng trường Hùng Vương với biểu tượng cây đàn kìm đã trở thành những điểm check-in không thể thiếu.<ref name=":5" /><ref>{{Chú thích web |last= |date=2026-07-26 |title=Khám phá Nhà hát 3 nón lá ở xứ sở công tử Bạc Liêu |url=https://thanhnien.vn/kham-pha-nha-hat-3-non-la-o-xu-so-cong-tu-bac-lieu-185260725162920665.htm |access-date=2026-08-14 |website=Báo Thanh Niên |language=vi}}</ref> 
+
+[[Hình:Bạc Liêu windpower farm.jpg|nhỏ|giữa|250px|Cánh đồng điện gió [[Bạc Liêu]]]]
+
+[[Hình: Khu du lịch biển nhân tạo Nhà Mát Bạc Liêu.jpg|nhỏ|giữa|250px| Khu du lịch biển nhân tạo Nhà Mát]]
+
+Một biểu tượng mới của địa phương là Khu [[Nhà máy điện gió Bạc Liêu|nhà máy Điện gió Bạc Liêu,]] hay còn gọi là "Cánh đồng điện gió", nơi có hàng trăm trụ turbine lắp cánh quạt quay đều trên nền trời xanh thẳm, trở thành địa điểm chụp ảnh yêu thích của nhiều du khách. Các khu nghỉ dưỡng phức hợp như Khu du lịch sinh thái Hồ Nam với phong cách kiến trúc lấy cảm hứng từ công tử Bạc Liêu và Khu du lịch Nhà Mát với bãi biển nhân tạo quy mô lớn cũng là những điểm đến thu hút du khách. <ref>{{Chú thích web |title=Những điểm check-in khó cưỡng chỉ có ở Bạc Liêu |url=https://vietnamtourism.gov.vn/post/23500 |website=Cục Du lịch Quốc gia}}</ref>
+
+[[Hình: Tượng Quán Thế Âm ở Bạc Liêu.jpg|nhỏ|giữa|250px|Quan Âm Phật Đài (Mẹ Nam Hải)]]
+[[Hình: Nhà thờ Tắc Sậy.jpg|nhỏ|giữa|250px| Nhà thờ Tắc Sậy (Cha Diệp)]]
+
+
+Về phương diện tâm linh và tín ngưỡng, vùng đất này sở hữu hệ thống chùa chiền và cơ sở tôn giáo đa dạng. [[Quan Âm Phật Đài (Bạc Liêu)|Quán Âm Phật Đài]] (Mẹ Nam Hải), Nhà thờ Tắc Sậy (Cha Diệp), chùa Hưng Thiện, [[chùa Xiêm Cán]] và chùa Monivongsa là những điểm hành hương thu hút hàng vạn lượt khách mỗi dịp lễ Tết.<ref name=":6" />
+
+==Giao thông==
+{{Đoạn thiếu nguồn gốc}}
+
+===Đường bộ===
+[[Hình: Quốc lộ 1A, Cà Mau đi Năm Căn.jpg|nhỏ|250px|[[Quốc lộ 1]], từ Cà Mau đi Năm Căn.]]
+Tỉnh Cà Mau có 6 quốc lộ: {{Ký hiệu đường Việt Nam|QL|1}} [[Quốc lộ 1]], {{Ký hiệu đường Việt Nam|QL|63}} [[Quốc lộ 63]], [[Quốc lộ Quản Lộ – Phụng Hiệp]], {{Ký hiệu đường Việt Nam|QL|91B}} [[Đường Nam Sông Hậu|Quốc lộ 91B (Nam Sông Hậu)]], {{Ký hiệu đường Việt Nam|DHCM}} [[Đường Hồ Chí Minh]] đoạn Gò Quao – Vĩnh Thuận và đoạn Năm Căn – Đất Mũi, Đường Hành lang ven biển phía Nam (Đường Xuyên Á) và 4 cao tốc: {{Ký hiệu đường Việt Nam|CT|01}} [[Đường cao tốc Bắc – Nam phía Đông]] đoạn [[Đường cao tốc Cần Thơ – Cà Mau|Cần Thơ – Cà Mau]] và đoạn [[Đường cao tốc Cà Mau – Đất Mũi|Cà Mau – Đất Mũi]], {{Ký hiệu đường Việt Nam|CT|33}} [[Đường cao tốc Thành phố Hồ Chí Minh – Vĩnh Long – Cần Thơ – Cà Mau|Đường cao tốc Tp.HCM – Vĩnh Long – Cần Thơ – Cà Mau]], {{Ký hiệu đường Việt Nam|CT|35}} [[Đường cao tốc Hà Tiên – Rạch Giá – Bạc Liêu]].
+
+[[Đường cao tốc Cần Thơ – Cà Mau]] là một trong những công trình giao thông trọng điểm quốc gia thuộc mạng lưới cao tốc Bắc – Nam phía Đông. Tuyến cao tốc này dài 110,87&nbsp;km với tổng mức đầu tư hơn 27.500 tỷ đồng, khởi công ngày 1 tháng 1 năm 2023. Ngày 19 tháng 12 năm 2025, đoạn Cần Thơ – Hậu Giang đã được khánh thành và thông xe.<ref>{{Chú thích web |url=https://nhandan.vn/khanh-thanh-va-thong-xe-ky-thuat-tuyen-cao-toc-can-tho-ca-mau-post931507.html |tiêu đề=Khánh thành và thông xe kỹ thuật dự án cao tốc Cần Thơ-Cà Mau |website=Báo Nhân Dân |ngày=2025-12-19 |ngày truy cập=2026-08-14}}</ref>
+
+Tuyến đường ra [[đảo Hòn Khoai]] bắt đầu từ cao tốc Cà Mau – Đất Mũi, được xây dựng theo tiêu chuẩn cầu vượt biển, dài khoảng 18&nbsp;km, quy mô 4 làn xe, mặt cầu rộng 16,5 m, tốc độ thiết kế 80&nbsp;km/h, tổng mức đầu tư hơn 25.700 tỷ đồng. Điểm đầu cầu kết nối với cao tốc Cà Mau – Đất Mũi và đường Hồ Chí Minh thuộc xã Đất Mũi, điểm cuối tại bờ phía đông đảo Hòn Khoai. Công trình do Binh đoàn 12 thuộc [[Bộ Quốc phòng (Việt Nam)|Bộ Quốc phòng]] thi công, khởi công từ tháng 8 năm 2025 và dự kiến hoàn thành cuối năm 2028.<ref name="vne" /><ref>{{Chú thích web |url=https://tapchikinhtetaichinh.vn/cau-vuot-bien-dai-nhat-viet-nam-o-ca-mau-61801.html |tiêu đề=Cầu vượt biển dài nhất Việt Nam ở Cà Mau |website=Tạp chí Kinh tế – Tài chính |ngày=2025-08-21 |ngày truy cập=2026-08-14}}</ref>
+
+===Đường thủy===
+Các sông lớn như sông Bảy Háp, sông Gành Hào, sông Đốc, sông Trẹm,... rất thuận tiện cho giao thông đường thủy đi lại khắp vùng đồng bằng sông Cửu Long và Thành phố Hồ Chí Minh.
+
+[[Cảng Năm Căn]] là cảng quan trọng trong hệ thống cảng ở [[đồng bằng sông Cửu Long]]. Cảng được đầu tư xây dựng ở vị trí vòng cung đường biển của vùng [[Đông Nam Á]]. Cảng Năm Căn có nhiều điều kiện thuận lợi trong việc mở rộng giao thương với các nước trong vùng như: [[Singapore]], [[Indonesia]], [[Malaysia]],... Hiện nay, năng lực hàng hóa thông qua cảng trên 10.000 tấn/năm.
+
+Cảng tổng hợp lưỡng dụng Hòn Khoai được khởi công cùng thời điểm với cầu vượt biển Hòn Khoai và cao tốc Cà Mau – Đất Mũi, dự kiến hoàn thành cuối năm 2028. Khi hoàn thành, tổ hợp gồm cầu vượt biển, cảng Hòn Khoai và cao tốc Cà Mau – Đất Mũi sẽ kết nối thông suốt trục Bắc – Nam đến cực Nam Tổ quốc, tạo động lực phát triển kinh tế biển đồng thời bảo đảm quốc phòng, an ninh khu vực.<ref>{{Chú thích web |url=https://thesaigontimes.vn/cau-vuot-bien-ra-hon-khoai-se-co-diem-dung-chan-phuc-vu-du-lich/ |tiêu đề=Cầu vượt biển ra Hòn Khoai sẽ có điểm dừng chân phục vụ du lịch |website=Thời báo Kinh tế Sài Gòn |ngày=2025-12-28 |ngày truy cập=2026-08-14}}</ref>
+
+===Đường hàng không===
+{{Chính|Sân bay Cà Mau}}
+[[Tập tin:Camau Airport1.JPG|nhỏ|Sân bay Cà Mau.]]
+[[Sân bay Cà Mau|Cảng hàng không Cà Mau]] là sân bay vệ tinh, trực thuộc [[Cụm cảng Hàng không miền Nam]]. Đây là sân bay hàng không dân dụng cấp 4C có khả năng tiếp nhận các loại máy bay như ATR-72, AN-2, MI-17, [[Airbus A220]], KingAir B200 và các loại máy bay khác có trọng tải cất cánh tương đương. Dự án mở rộng, nâng cấp cảng hàng không này đã chính thức khởi công vào tháng 8 năm 2025 với tổng mức đầu tư khoảng 2.400 tỷ đồng.<ref>{{Chú thích web |last= |date=2025-08-19 |title=Khởi công dự án mở rộng, nâng cấp Cảng hàng không Cà Mau |url=https://www.vietnamplus.vn/khoi-cong-du-an-mo-rong-nang-cap-cang-hang-khong-ca-mau-post1056538.vnp |access-date=2026-08-15 |website=Vietnam+ (VietnamPlus) |language=vi}}</ref>
+
+==Tỉnh kết nghĩa==
+:*{{flagicon|VIE}} Tỉnh [[Ninh Bình]], [[Việt Nam]]<ref>{{chú thích web|url=https://nbtv.vn/tin-tuc-su-kien/ninh-binh-24h/thoi-su-chinh-tri/201612/ninh-binh-va-ca-mau-ky-ket-ban-ghi-nho-hop-tac-716633|title=Ninh Bình và Cà Mau ký kết Bản ghi nhớ hợp tác|publisher=Đài Phát thanh và Truyền hình Ninh Bình|website=nbtv.vn}}</ref>
+Ở [[Ninh Bình]] có các công trình phục vụ phát triển kinh tế xã hội mang tên các địa danh của tỉnh Cà Mau như: rạp Kim Mau, cống Tân Hưng, cống Biện Nhị, đường Cà Mau, sông Cà Mau, cầu Cà Mau, trạm bơm Rạch Ráng, cầu Chà Là, đê Năm Căn, trường cấp II Ninh Bình - Bạc Liêu, sông Vĩnh Lợi, cống Vĩnh Lợi, cống Bạc Liêu ở xã Yên Mỹ, cống Bạc Liêu ở xã Khánh Lợi, trạm bơm Bạc Liêu, trục kênh Bạc Liêu.
+
+Ở Cà Mau có khoảng 100.000 người quê gốc ở [[Ninh Bình]] đang sinh sống. Ban Liên lạc đồng hương Ninh Bình tại Cà Mau họp mặt mỗi năm 1 lần. Trường Nội trú Cà Mau - Ninh Bình được Chủ tịch nước phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân vì "Đã có thành tích đặc biệt xuất sắc trong cuộc kháng chiến chống Mỹ cứu nước".<ref>{{Chú thích web|url=http://www.baoanhdatmui.vn/details.php?id=3483|tựa đề= Nhớ mãi một mái trường |tác giả= Nhà giáo Ưu tú Nguyễn Thành Đa |ngày= 2016-04-25 |website= Đất Mũi Online |url lưu trữ=https://web.archive.org/web/20170407054009/http://www.baoanhdatmui.vn/details.php?id=3483|ngày lưu trữ= 2017-04-07 |ngày truy cập= 2017-04-07 |url-status= dead }}</ref>
+
+Ở phường [[Bạc Liêu (phường)|Bạc Liêu]] (Cà Mau) có đường Ninh Bình là tuyến đường có Di tích lịch sử văn hóa Quốc gia là Khu lưu niệm nghệ thuật Đờn ca tài tử Nam Bộ và nhạc sĩ Cao Văn Lầu- đây là điểm tham quan, du lịch tiêu biểu của phường Bạc Liêu. Trên Quảng trường Hùng Vương lớn nhất khu vực Đồng bằng sông Cửu Long, có một công trình mang tên "Biểu tượng kết nghĩa Bạc Liêu - Ninh Bình". Đó là một biểu tượng có hồ nước rộng 176 m² với 3 vòm cong trên hồ liên kết với nhau tượng trưng cho sự trùng trùng điệp điệp, hùng vĩ của thiên nhiên đèo Ba Dội Ninh Bình hòa quyện với những ruộng muối đặc trưng của Bạc Liêu. Ngoài ra còn có một số công trình khác mang địa danh Ninh Bình như Trường THCS Bạc Liêu - Ninh Bình, Cầu Kim Sơn, Trường Tiểu học Hoa Lư, cầu Gia Viễn, cầu Trường Yên, khu dân cư Tràng An, đường Yên Mô, đường Nho Quan,... tại các xã, phường trên địa bàn tỉnh.
+
+==Hình ảnh==
+<gallery>
+Hình: Camaucity from air2.jpg|Thành phố Cà Mau nhìn từ trên cao
+Hình: Camau Airport1.JPG|Nhà ga sân bay TP. Cà Mau
+Hình: Going across the channel.jpg|[[Kênh Xáng Cà Mau - Bạc Liêu|Kênh Xáng Cà Mau đi [[Bạc Liêu (tỉnh)|Bạc Liêu]]
+Hình: Chợ Cái Nước.jpg|Chợ Cái Nước
+Hình: Thị trấn Thới Bình, Cà Mau.JPG|Thị trấn Thới Bình
+Hình: Tuong dai Duong Thi Cam Van.jpg|Thị trấn Đầm Dơi
+Hình: Một góc chợ Năm Căn.jpg|Chợ Năm Căn
+Hình: Sông Đốc.jpg|Thị trấn Sông Đốc
+Hình: Một góc ấp Đá Bạc B.jpg|Cư dân ấp Đá Bạc
+Hình: Tuongdaimuicamau.jpg|Tượng đài mũi Cà Mau
+Hình:TP. Bạc Liêu, Bạc Liêu 1.jpg|Thành phố Bạc Liêu nhìn từ trên cao
+Hình:Bản đồ đá tỉnh Bạc Liêu.jpg|Bản đồ đá tỉnh Bạc Liêu
+Hình:Biểu tượng cây đờn kìm 1 Bạc Liêu.jpg|Cây đờn kìm về đêm 1
+Hình:Biểu tượng cây đờn kìm 2 Bạc Liêu.jpg|Cây đờn kìm về đêm 2
+Hình:Biểu tượng cây đờn kìm 3 Bạc Liêu.jpg|Biểu tượng cây đờn kìm
+Hình:Biểu tượng cây đờn kìm 4 Bạc Liêu.jpg|Cây đờn kìm nhìn từ đường Nguyễn Tất Thành
+Hình:Biểu tượng cây đờn kìm 5 Bạc Liêu.jpg|Cây đờn kìm nhìn từ đường Trần Huỳnh
+Hình:Biểu tượng cây đờn kìm 6 Bạc Liêu.jpg|Cây đờn kìm nhìn từ trên cao
+Hình:Quảng trường Hùng Vương Bạc Liêu 1+.jpg|Toàn cảnh trung tâm cây đờn kìm
+Hình:Quảng trường Hùng Vương Bạc Liêu 2.jpg|Quảng trường Hùng Vương về đêm 1
+Hình:Quảng trường Hùng Vương Bạc Liêu 3.jpg|Quảng trường Hùng Vương về đêm 2
+Hình:Quảng trường Hùng Vương Bạc Liêu 4.jpg|Một góc của cây đờn kìm
+Hình:Quảng trường Hùng Vương Bạc Liêu 5.jpg|Toàn cảnh Quảng trường Hùng Vương nhìn từ trên cao theo hướng đường Nguyễn Tất Thành
+Hình:Quảng trường Hùng Vương Bạc Liêu 6.jpg|Toàn cảnh Quảng trường Hùng Vương nhìn từ trên cao theo hướng đường Trần Huỳnh
+Hình:Quảng trường Hùng Vương Bạc Liêu 7.jpg|Một góc Quảng trường Hùng Vương
+Hình:Nhà hát Cao Văn Lầu 1 Bạc Liêu.jpg|Nhà hát Cao Văn Lầu
+Hình:Nhà hát Cao Văn Lầu 2 Bạc Liêu.jpg|Nhà hát Cao Văn Lầu mặt chính
+Hình:Nhà hát Cao Văn Lầu 3 Bạc Liêu.jpg|Nhà hát Cao Văn Lầu nhìn từ trên cao
+Hình:Biểu tượng kết nghĩa Bạc Liêu – Ninh Bình.jpg|Biểu tượng kết nghĩa Bạc Liêu – Ninh Bình mặt chính
+Hình:Biểu tượng kết nghĩa Bạc Liêu – Ninh Bình 2.jpg|Biểu tượng kết nghĩa Bạc Liêu – Ninh Bình mặt sau
+Hình:Biểu tượng kết nghĩa Bạc Liêu – Ninh Bình 3.jpg|Biểu tượng kết nghĩa Bạc Liêu – Ninh Bình
+Tập tin:Ngã tư cầu quay.jpg|<center>Ngã tư trung tâm <br> thành phố Bạc Liêu</center>
+Tập tin:Đường phố Bạc Liêu.JPG|<center>Thành phố Bạc Liêu về đêm</center>
+Tập tin:Một góc TX.Bạc Liêu..jpg|<center>Đường phố trung tâm thành phố Bạc Liêu</center>
+Tập tin:BLcity.jpg|<center>Khu phố thương mại thành phố Bạc Liêu</center>
+Tập tin:Khu lưu niệm Đờn ca tài tử Nam Bộ.jpg|Khu lưu niệm Đờn ca tài tử Nam Bộ ở thành phố Bạc Liêu
+Tập tin:Bạc Liêu skyline.jpg|<center> Phố thị bên dòng sông và bờ kè</center>
+Tập tin:Nhà thiếu nhi Bạc Liêu.jpg|<center>Nhà Thiếu nhi Phùng Ngọc Liêm</center>
+Tập tin:Nhà Công tử Bạc Liêu, TX.Bạc Liêu.jpg|<center>Nhà công tử Bạc Liêu</center>
+Tập tin:Cao-ốc-bl.jpg|<center>Cao ốc ở thành phố Bạc Liêu</center>
+Tập tin:Tượng Cao Văn Lầu.jpg|<center>Khu tưởng niệm<br> Cố nhạc sĩ Cao Văn Lầu</center>
+Tập tin:Mộ Cao Văn Lầu.jpg|<center>Mộ hai ông bà<br>Cao Văn Lầu</center>
+Tập tin:Quan Âm Phật Đài.jpg|<center> Quán Âm Phật Đài</center>
+Tập tin:Tượng Quán Thế Âm ở Bạc Liêu.jpg|<center>Tượng Quan Âm</center>
+Tập tin:Chùa Bang.jpg|<center>Cổ Miếu Phước Đức</center>
+Tập tin:Địa Mẫu Cung.jpg|<center>Đền Địa Mẫu</center>
+Tập tin:Kênh Nhà Mát.jpg|<center>Kênh Nhà Mát, phường Nhà Mát, thành phố Bạc Liêu</center>
+Tập tin:Rạch Bạc Liêu, TX.Bạc Liêu.jpg|<center>Rạch ở Bạc Liêu<br>đi xuống Cà Mau</center>
+Tập tin:Sông Gành Hào.jpg|<center>Sông Gành Hào ranh<br>giới giữa Bạc Liêu <br> và Cà Mau</center>
+Tập tin:Sôngcáiblhg.jpg|<center>Sông Cái ranh giới <br> Tỉnh Bạc Liêu - Tỉnh Hậu Giang</center>
+Tập tin:Bạc Liêu windpower farm.jpg|<center>Công trình điện gió <br> ở ven biển xã Vĩnh Trạch Đông, thành phố Bạc Liêu</center>
+Tập tin:Thị trấn Giá Rai, Bạc Liêu.jpg|<center>Thị xã Giá Rai</center>
+Tập tin:Kênh Bạc Liêu - Cà Mau, đoạn qua Giá Rai.jpg|<center>Kênh Bạc Liêu - Cà Mau<br>qua thị xã Giá Rai</center>
+Tập tin:Nhà thờ Tắc Sậy.jpg|<center>Nhà thờ Tắc Sậy<br>ở xã Tân Phong, thị xã Giá Rai</center>
+Tập tin:Cổng vào nhà thờ Tắc Sậy.jpg|<center>Cổng Nhà thờ Tắc Sậy, xã Tân Phong, thị xã Giá Rai</center>
+Tập tin:Nơi an nghỉ của Cha Diệp trước 2004.jpg|<center>Tượng cố linh mục<br>Trương Bửu Diệp ở xã Tân Phong, thị xã Giá Rai</center>
+Tập tin:Nơi an nghỉ của Cha Diệp.jpg|<center>Lăng mộ Cha Diệp ở xã Tân Phong, thị xã Giá Rai</center>
+Tập tin:Kênhblcm.jpg|<center>Kênh Bạc Liêu -Cà Mau<br>qua Hòa Bình</center>
+Tập tin:Lúa-hồng-dân.jpg|<center>Đồng lúa chín ở<br>huyện Hồng Dân
+Tập tin:Tượng đài Chiến Thắng Bạc Liêu.jpg|Tượng đài Chiến Thắng Bạc Liêu
+Hình: Biểu trưng tỉnh Cà Mau.svg|Biểu trưng cũ (trước 2026)
+</gallery>
+
+==Chú thích==
+{{tham khảo|30em}}
+
+==Tham khảo==
+
+{{Commonscat}}
+{{Kiểm soát tính nhất quán}}
+{{Du lịch Việt Nam}}
+{{Đơn vị hành chính cấp tỉnh Việt Nam}}
+
+[[Thể loại:Cà Mau|Cà Mau]]
+[[Thể loại:Từ gốc Khmer]]
+[[Thể loại:Vịnh Thái Lan]]
+[[Thể loại:Tỉnh ven biển Việt Nam]]

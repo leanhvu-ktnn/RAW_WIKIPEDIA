@@ -8,7 +8,7 @@ status: active
 
 # Ontology địa bàn, cơ quan và nguồn Wikipedia
 
-[ontology.ttl](ontology.ttl) là profile RDF/OWL của kho, phiên bản 0.1.0. Namespace `legal:` giữ nguyên `http://vbpl.vn/ontology/legal#` từ ontology INF đã đọc (v3.3.2); namespace `wiki:` riêng cho provenance, không giả làm namespace của cơ quan nhà nước. Profile chỉ tái sử dụng phần địa bàn/cơ quan, không sao chép toàn bộ ontology pháp luật.
+[ontology.ttl](ontology.ttl) là profile RDF/OWL của kho, phiên bản 0.2.0. Namespace `legal:` giữ nguyên `http://vbpl.vn/ontology/legal#` từ ontology INF đã đọc (v3.3.2); namespace `wiki:` riêng cho provenance, không giả làm namespace của cơ quan nhà nước. Profile chỉ tái sử dụng phần địa bàn/cơ quan, không sao chép toàn bộ ontology pháp luật.
 
 | Khái niệm/field | Ánh xạ | Quy tắc |
 |---|---|---|
@@ -35,3 +35,7 @@ Ví dụ cơ quan cấp xã: `cap: Tinh`, `capHanhChinh: xa`, `diaBan: Đà Nẵ
 ## Đối tượng INF và tài liệu RAW
 
 `inf_ref` là tham chiếu opaque do INF sở hữu, không phải pageid/oldid. [[context/trao-doi-inf-raw|Hợp đồng 0.1.0]] bổ sung kiểu thông điệp và provenance trao đổi; không thay ontology pháp lý. `wiki:target` biểu diễn đối tượng được đề nghị đối sánh, không cấp quyền ghi INF. RAW trả report để INF tự xét duyệt/nhập.
+
+## Staging quan sát NQ202
+
+`wiki:ObservationTarget` là target RAW theo mốc, không phải legal:DiaBan. `wiki:inputObservationId` giữ ID input dạng literal; không gán type cho ID INF. `wiki:supportedBy` nối target với `wiki:EvidenceExcerpt`, mỗi trích đoạn trỏ revision và dòng nguyên bản. Export này là provenance, không khẳng định quan hệ tiền thân/kế thừa pháp lý tự động.

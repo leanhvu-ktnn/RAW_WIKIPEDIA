@@ -1,0 +1,212 @@
+{{otheruses|Hưng Yên (định hướng)}}
+{{Thông tin đơn vị hành chính Việt Nam|tỉnh
+| tên = Hưng Yên
+| logo = Logo Hưng Yên.svg
+| ghi chú logo = Biểu trưng
+| hình = Quảng Trường Tp Hưng yên.jpg
+| ghi chú hình = Quảng trường thành phố Hưng Yên
+| biệt danh = Xứ [[nhãn lồng]]
+| vĩ độ = 20.85432
+| kinh độ = 106.016006
+| bản đồ 1 = {{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=2|stroke-color=#000000}}
+| diện tích = 930,20 km²<ref name="area_2020">{{cite act|index=387/QĐ-BTNMT|title=Phê duyệt và công bố kết quả thống kê diện tích đất đai năm 2020|url=https://hethongphapluat.com/quyet-dinh-387-qd-btnmt-nam-2022-phe-duyet-va-cong-bo-ket-qua-thong-ke-dien-tich-dat-dai-nam-2020-do-bo-truong-bo-tai-nguyen-va-moi-truong-ban-hanh.html|legislature=[[Bộ Tài nguyên và Môi trường (Việt Nam)]]|date= 2022| type = Quyết định}}</ref><ref>{{Chú thích sách | author = [[Tổng cục Thống kê (Việt Nam)|Tổng cục Thống kê]] | year = 2022  | url = https://www.gso.gov.vn/wp-content/uploads/2022/08/Sach-Nien-giam-TK-2021.pdf | title = Niên giám Thống kê Việt Nam năm 2021  | publisher = Nhà Xuất bản Thống kê  | access-date = ngày 1 tháng 8 năm 2022 | archive-date = ngày 1 tháng 8 năm 2022 | archive-url = https://web.archive.org/web/20220801122014/https://www.gso.gov.vn/wp-content/uploads/2022/08/Sach-Nien-giam-TK-2021.pdf|url-status=live| p=89 }}</ref>
+| dân số = 1.302.000 người<ref name="Tổng_cục_Thống_kê_2023">{{chú thích sách | author = [[Tổng cục Thống kê (Việt Nam)|Tổng cục Thống kê]]  | year = 2023  | url = https://www.gso.gov.vn/wp-content/uploads/2023/06/Sach-Nien-giam-TK-2022-update-8.7_compressed-3.pdf | title = Niên giám Thống kê Việt Nam năm 2022 | trans-title= Statistical Yearbook of Vietnam 2022 | publisher =Nhà Xuất bản Thống kê  | access-date = 2023-07-10 | archive-date = 2023-07-10 | archive-url = https://web.archive.org/web/20230710131057/https://www.gso.gov.vn/wp-content/uploads/2023/06/Sach-Nien-giam-TK-2022-update-8.7_compressed-3.pdf|url-status=live}}</ref>{{rp|105-106}}
+| thời điểm dân số = 2022
+| dân số thành thị = 218.736 người ({{formatnum:{{#expr:217400/1290800*100round1}}}}%)<ref name="Tổng_cục_Thống_kê_2023"/>{{rp|115-116}}
+| dân số nông thôn = 1.083.264 người ({{formatnum:{{#expr:1073400/1290800*100round1}}}}%)<ref name="Tổng_cục_Thống_kê_2023"/>{{rp|117-118}}
+| mật độ dân số = 1400 người/km²<ref name="Tổng_cục_Thống_kê_2023"/>{{rp|105-106}}
+| dân tộc = [[người Việt|Kinh]]
+| vùng = [[Đồng bằng sông Hồng]] <small>(địa lý)</small><br>[[Vùng thủ đô Hà Nội]] <small>(đô thị)</small> 
+| tỉnh lỵ = Thành phố [[Hưng Yên (thành phố)|Hưng Yên]]
+| phân chia hành chính = 1 thành phố, 1 thị xã, 8 huyện
+| thành lập = *1831: thành lập
+*6/11/1996: tái lập
+| trụ sở UBND = Số 10, đường Chùa Chuông, phường [[Hiến Nam]], thành phố [[Hưng Yên (thành phố)|Hưng Yên]]
+| chủ tịch UBND = [[Trần Quốc Văn]]
+| hội đồng nhân dân = 53 đại biểu
+| chủ tịch HĐND = [[Trần Quốc Toản (chính khách)|Trần Quốc Toản]]
+| chủ tịch UBMTTQ = [[Quách Thị Hương]]
+| chánh án TAND = [[Lê Văn Tuấn]]
+| viện trưởng VKSND = [[Nguyễn Văn Viện]]
+| bí thư = [[Nguyễn Hữu Nghĩa]]
+| mã địa lý = [[ISO 3166-2:VN|VN-66]]
+| mã hành chính = 33<ref>[https://danhmuchanhchinh.gso.gov.vn/ Tổng cục Thống kê]</ref>
+| mã bưu chính = [[Mã bưu chính Việt Nam|16xxxx]]
+| mã điện thoại = [[Mã điện thoại Việt Nam|221]]
+| biển số xe = [[Biển xe cơ giới Việt Nam|89]]
+| GRDP = 131.642 tỉ đồng (5,72 tỉ USD)
+| thời điểm kinh tế = 2022
+| GRDP đầu người = 102,3 triệu đồng (4.396 USD)
+| web = {{url|hungyen.gov.vn}}
+}}
+'''Hưng Yên''' là [[Tỉnh (Việt Nam)|tỉnh]] nằm ở trung tâm [[đồng bằng sông Hồng]], [[Việt Nam]].
+
+==Địa lý==
+Tỉnh Hưng Yên có vị trí địa lý:
+*Phía đông giáp tỉnh [[Hải Dương]]
+*Phía tây giáp thủ đô [[Hà Nội]]
+*Phía nam giáp tỉnh [[Hà Nam]] và tỉnh [[Thái Bình]]
+*Phía bắc giáp tỉnh [[Bắc Ninh]].
+
+Tính Hưng Yên có diện tích 930&nbsp;km².<ref name="Hưng Yên 2001"/> Điểm trung tâm của đồng bằng Bắc Bộ nằm ở thôn Dung (Thiên Xuân), xã [[Hưng Đạo]], huyện [[Tiên Lữ]].<ref name="Hưng Yên 2001">Sở Văn hóa thông tin Hưng Yên. ''Hưng Yên 170 năm''. Hưng Yên, 2001.</ref>
+
+===Khí hậu===
+{{Weather box|width=auto|Sep precipitation mm=261|Aug precipitation days=15.5|Jul precipitation days=13.1|Jun precipitation days=14.2|May precipitation days=13.1|Apr precipitation days=13.8|Mar precipitation days=16.6|Feb precipitation days=12.8|Jan precipitation days=9.1|year precipitation mm=1644|Dec precipitation mm=24|Nov precipitation mm=75|Oct precipitation mm=187|Aug precipitation mm=286|Oct precipitation days=11.2|Jul precipitation mm=219|Jun precipitation mm=229|May precipitation mm=172|Apr precipitation mm=92|Mar precipitation mm=48|Feb precipitation mm=25|Jan precipitation mm=26|precipitation colour=green|year record low C=4.8|year record high C=39.4|Dec record low C=4.8|Dec record high C=30.5|Nov record low C=8.4|Sep precipitation days=13.7|Nov precipitation days=7.3|Oct record low C=12.5|Jan sun=75|year sun=1625|Dec sun=127|Nov sun=139|Oct sun=173|Sep sun=179|Aug sun=179|Jul sun=205|Jun sun=178|May sun=187|Apr sun=93|Mar sun=49|Feb sun=42|year humidity=85.9|Dec precipitation days=5.5|Dec humidity=82.4|Nov humidity=82.6|Oct humidity=84.8|Sep humidity=86.9|Aug humidity=87.1|Jul humidity=84.0|Jun humidity=84.4|May humidity=86.2|Apr humidity=89.8|Mar humidity=90.1|Feb humidity=87.6|Jan humidity=85.2|year precipitation days=146.0|Nov record high C=34.5|Oct record high C=34.0|metric first=y|year high C=26.8|Dec mean C=17.8|Nov mean C=21.1|Oct mean C=24.5|Sep mean C=27.1|Aug mean C=28.4|Jul mean C=29.0|Jun mean C=28.6|May mean C=27.0|Apr mean C=23.5|Mar mean C=19.6|Feb mean C=16.9|Jan mean C=16.2|Dec high C=21.7|Jan low C=14.0|Nov high C=25.2|Oct high C=28.3|Sep high C=30.5|Aug high C=31.7|Jul high C=32.7|Jun high C=32.4|May high C=30.9|Apr high C=26.7|Mar high C=22.3|Feb high C=19.7|Jan high C=19.5|location=Hưng Yên|single line=y|year mean C=23.3|Feb low C=15.0|Sep record low C=16.5|Mar record high C=37.0|Sep record high C=35.2|Aug record low C=21.8|Aug record high C=37.5|Jul record low C=20.6|Jul record high C=38.4|Jun record low C=19.4|Jun record high C=39.4|May record low C=16.5|May record high C=38.5|Apr record low C=12.2|Apr record high C=37.4|Mar record low C=6.6|Feb record low C=5.3|Mar low C=17.8|Feb record high C=32.6|Jan record low C=4.9|Jan record high C=32.0|year low C=20.8|Dec low C=15.1|Nov low C=18.4|Oct low C=21.8|Sep low C=24.6|Aug low C=25.8|Jul low C=26.3|Jun low C=25.8|May low C=24.2|Apr low C=21.4|source 1=Vietnam Institute for Building Science and Technology<ref name=IBST>{{chú thích web
+| archive-url = https://web.archive.org/web/20180722172120/http://ibst.vn/DATA/nhyen/QCVN%2002-2009%20BXD%20So%20lieu%20tu%20nhien.pdf
+| archive-date = ngày 22 tháng 7 năm 2018
+| url = http://ibst.vn/DATA/nhyen/QCVN%2002-2009%20BXD%20So%20lieu%20tu%20nhien.pdf
+| title = Vietnam Building Code Natural Physical & Climatic Data for Construction
+| publisher = Vietnam Institute for Building Science and Technology
+| access-date = ngày 6 tháng 8 năm 2018}}</ref>}}
+
+==Hành chính==
+Tỉnh Hưng Yên chia thành 10 đơn vị hành chính cấp huyện, gồm 1 thành phố, 1 thị xã và 8 huyện với 139 đơn vị hành chính cấp xã, gồm 118 xã, 13 phường và 8 thị trấn.<ref name="1248/NQ-UBTVQH15">{{Chú thích web|url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=90604|tựa đề= Nghị quyết số 1248/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh Hưng Yên giai đoạn 2023 – 2025 |tác giả=|ngày= 2024-10-24 |website= Cổng thông tin điện tử Quốc hội Việt Nam |url lưu trữ=https://web.archive.org/web/20241102122247/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=90604|ngày lưu trữ= 2024-11-02 |ngày truy cập= 2024-11-02 |url-status= live }}</ref>
+
+{|cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+!colspan="3" style="background: #E6E6FA; font-size: 95%;" | Danh sách các đơn vị hành chính trực thuộc tỉnh Hưng Yên
+|-
+|width="50%" valign="top" style="background: #f9f9f9;"|
+{|cellpadding="1" cellspacing="1" style="background: #f9f9f9; font-size: 90%; text-align: right;" width="100%"
+|-
+!align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" | Tên
+|'''Diện tích (km²)'''
+! style="border-bottom: 2px solid #CCCCFF;" |Dân số (người)<sup>2020</sup>
+!Mật độ dân số (người/km²)!! style="border-bottom: 2px solid #CCCCFF;" | Hành chính
+|-
+| colspan="5" align="left" style="background: #F5F5DC; padding-left: 30px;" | '''Thành phố (1)'''
+|-bgcolor="#f5f5f5"
+|align="left" style="padding-left: 6px; white-space:nowrap" |[[Hưng Yên (thành phố)|Hưng Yên]] 
+|73,98||118.646
+|1.605||''6 phường, 9 xã ''
+|-
+| colspan="5" align="left" style="background: #F5F5DC; padding-left: 30px;" | '''Thị xã (1)'''
+|-
+|align="left" style="padding-left: 6px; white-space:nowrap" | [[Mỹ Hào]] 
+|75,21|| 115.608 
+|1.458|| ''7 phường, 6 xã''
+|-
+| colspan="5" align="left" style="background: #F5F5DC; padding-left: 30px;" | '''Huyện (8)'''
+|-
+|align="left" style="padding-left: 6px; white-space:nowrap" | [[Ân Thi]] 
+|129,98|| 135.075 
+|1.039|| ''1 thị trấn, 17 xã''
+|-bgcolor="#F5F5F5"
+|align="left" style="padding-left: 6px; white-space:nowrap" | [[Khoái Châu]] 
+|130,82|| 189.070 
+|1.445|| ''1 thị trấn, 19 xã''
+|}
+|width="50%" valign="top" style="background: #f9f9f9;" |
+{|cellpadding="1" cellspacing="1" style="background: #f9f9f9; font-size: 90%; text-align: right;" width="100%"
+|-
+!align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" | Tên
+|'''Diện tích (km²)'''
+! style="border-bottom: 2px solid #CCCCFF;" | Dân số (người)<sup>2020</sup>
+!Mật độ dân số (người/km²)!! style="border-bottom: 2px solid #CCCCFF;" | Hành chính
+|-
+|align="left" style="padding-left: 6px; white-space:nowrap" | [[Kim Động]] 
+|103,38|| 118.416 
+|1.145|| ''1 thị trấn, 14 xã''
+|-bgcolor="#F5F5F5"
+|align="left" style="padding-left: 6px; white-space:nowrap" | [[Phù Cừ]] 
+|94,64|| 80.329 
+|849|| ''1 thị trấn, 12 xã''
+|-
+|align="left" style="padding-left: 6px; white-space:nowrap" |[[Tiên Lữ]] 
+|78,57|| 93.554 
+|1.191|| ''1 thị trấn, 10 xã''
+|-bgcolor="#F5F5F5"
+|align="left" style="padding-left: 6px; white-space:nowrap" | [[Văn Giang]] 
+|71,95|| 123.480 
+|1.716|| ''1 thị trấn, 10 xã''
+|-
+|align="left" style="padding-left: 6px; white-space:nowrap" | [[Văn Lâm]] 
+|75,21|| 135.766 
+|1.805||''1 thị trấn, 10 xã''
+|-bgcolor="#F5F5F5"
+|align="left" style="padding-left: 6px; white-space:nowrap" | [[Yên Mỹ]] 
+|92,38|| 159.146 
+|1.723|| ''1 thị trấn, 11 xã''
+|}
+|valign="top" style="background: #f9f9f9; font-size: 90%" |
+|-
+|colspan="14" style="text-align: center; font-size:90%;"|''Nguồn: Dân số tỉnh Hưng Yên năm 2020<ref name="HUNGYEN2020">{{Chú thích web|url=https://www.gso.gov.vn/bai-top/2022/08/nien-giam-thong-ke-2021-2/|tựa đề=niên giám thống kê Việt Nam 2021|ngày=1 tháng 8 năm 2022|website=Tổng Cục Thống Kê|url-status=live}}</ref>''
+|}
+
+==Lịch sử==
+{{main|Lịch sử hành chính Hưng Yên}}
+[[Tập tin:Hung Yen 1891.jpg|220px|nhỏ|trái|Bản đồ tỉnh Hưng Yên năm 1891]]
+[[Tập tin:Province de Hung-Yen (1909).jpg|220px|nhỏ|trái|Bản đồ tỉnh Hưng Yên năm 1909]]
+Tỉnh Hưng Yên nguyên thuộc thừa tuyên Sơn Nam đặt vào năm Quang Thuận thứ 10 đời Lê (1466). Đến năm Cảnh Hưng thứ 2 (1741) thì chia thành [[Sơn Nam Thượng]] và [[Sơn Nam Hạ]]. Đời nhà Nguyễn năm Minh Mệnh thứ 3 (1822), Sơn Nam Thượng đổi thành trấn Sơn Nam còn Sơn Nam Hạ thì gọi là trấn Nam Định. Năm Minh Mệnh thứ 12 (1831), tỉnh Hưng Yên thành lập gồm các huyện [[Khoái Châu|Đông Yên]], [[Kim Động]], [[Ân Thi]], [[Tiên Lữ]], [[Phù Cừ|Phù Dung]] của [[trấn Sơn Nam]]  và [[Tiên Hưng (huyện)|Thần Khê]], [[Hưng Nhân (huyện)|Hưng Nhân]], [[Duyên Hà (huyện)|Duyên Hà]] của [[trấn Nam Định]] (các huyện [[Thần Khê]], [[Duyên Hà]]  và [[Hưng Nhân]]  sau bị cắt vào tỉnh [[Thái Bình]] mới thành lập).<ref>Đào Duy Anh. ''Đất Nước Việt Nam Qua Các Đời''. Huế: Thuận Hóa, 1995.</ref>
+
+Ngày [[11 tháng 3]] năm [[1977]], hợp nhất 2 huyện Phù Cừ và Tiên Lữ thành huyện Phù Tiên; hợp nhất 2 huyện Văn Giang và Yên Mỹ thành huyện [[Văn Yên]] ; hợp nhất 2 huyện Văn Lâm và Mỹ Hào thành huyện [[Văn Mỹ (huyện cũ)|Văn Mỹ]].<ref>[https://hethongphapluat.com/quyet-dinh-58-cp-nam-1977-ve-viec-hop-nhat-mot-so-huyen-thuoc-tinh-hai-hung-do-hoi-dong-chinh-phu-ban-hanh.html Quyết định 58-CP năm 1977 về việc hợp nhất một số huyện thuộc tỉnh Hải Hưng do Hội đồng Chính phủ ban hành]</ref>
+
+Ngày [[24 tháng 2]] năm [[1979]], hợp nhất 2 huyện Kim Động và Ân Thi thành huyện [[Kim Thi]]; hợp nhất huyện Văn Mỹ và 1 phần huyện Văn Yên thành huyện [[Mỹ Văn]]; hợp nhất phần còn lại của huyện Văn Yên và huyện Khoái Châu thành huyện [[Châu Giang]].<ref>[https://dulieuphapluat.vn/van-ban/hanh-chinh-van-ban/quyet-dinh-70-cp-nam-1979-ve-viec-hop-nhat-va-dieu-chinh-dia-gioi-mot-so-huyen-thuoc-tinh-hai-hung-do-hoi-dong-chinh-phu-ban-hanh-664207.html Quyết định 70-CP năm 1979 về việc hợp nhất và điều chỉnh địa giới một số huyện thuộc tỉnh Hải Hưng do Hội đồng Chính phủ ban hành]</ref>
+
+Ngày [[27 tháng 1]] năm [[1996]], chia huyện Kim Thi thành 2 huyện: Kim Động và Ân Thi.<ref>[https://hethongphapluat.com/nghi-dinh-05-cp-nam-1996-ve-viec-chia-cac-huyen-tu-loc-ninh-thanh-kim-thi-thuoc-tinh-hai-hung.html Nghị định 05-CP năm 1996 về việc chia các huyện Tứ Lộc, Ninh Thanh, Kim Thi thuộc tỉnh Hải Hưng]</ref>
+
+Ngày [[6 tháng 11]] năm [[1996]], tái lập tỉnh Hưng Yên từ tỉnh Hải Hưng. Khi tách ra, tỉnh Hưng Yên có 6 đơn vị hành chính gồm thị xã Hưng Yên và 5 huyện: Ân Thi, Châu Giang, Kim Động, Mỹ Văn, Phù Tiên.<ref>[https://hethongphapluat.com/nghi-quyet-ve-viec-chia-va-dieu-chinh-dia-gioi-hanh-chinh-mot-so-tinh-do-quoc-hoi-ban-hanh.html Nghị quyết về việc chia và điều chỉnh địa giới hành chính một số tỉnh do Quốc hội ban hành]</ref>
+
+Ngày [[24 tháng 2]] năm [[1997]], chia huyện Phù Tiên thành 2 huyện: Phù Cừ và Tiên Lữ.<ref>[https://hethongphapluat.com/nghi-dinh-17-cp-nam-1997-ve-viec-chia-huyen-phu-tien-thanh-lap-mot-so-phuong-thi-tran-thuoc-thi-xa-hung-yen-va-huyen-my-van-tinh-hung-yen.html Nghị định 17-CP năm 1997 về việc chia huyện Phù Tiên, thành lập một số phường, thị trấn thuộc thị xã Hưng Yên và huyện Mỹ Văn, tỉnh Hưng Yên]</ref>
+
+Ngày [[24 tháng 7]] năm [[1999]], chia huyện Châu Giang thành 2 huyện: Khoái Châu và Văn Giang; chia huyện Mỹ Văn thành 3 huyện: Mỹ Hào, Văn Lâm, Yên Mỹ.<ref>[https://hethongphapluat.com/nghi-dinh-60-1999-nd-cp-ve-viec-dieu-chinh-dia-gioi-hanh-chinh-va-chia-cac-huyen-my-van-va-chau-giang-tinh-hung-yen.html Nghị định 60/1999/NĐ-CP về việc điều chỉnh địa giới hành chính và chia các huyện Mỹ Văn và Châu Giang, tỉnh Hưng Yên]</ref>
+
+Ngày [[19 tháng 1]] năm [[2009]], chuyển thị xã Hưng Yên thành thành phố Hưng Yên.<ref>[https://hethongphapluat.com/nghi-dinh-04-nd-cp-ve-viec-thanh-lap-thanh-pho-hung-yen-thuoc-tinh-hung-yen.html Nghị định 04/NĐ-CP về việc thành lập thành phố Hưng Yên thuộc tỉnh Hưng Yên]</ref>
+
+Ngày [[1 tháng 5]] năm [[2019]], chuyển huyện Mỹ Hào thành thị xã Mỹ Hào.<ref name="NQ656">{{Chú thích web|url=https://hethongphapluat.com/nghi-quyet-656-nq-ubtvqh14-nam-2019-ve-thanh-lap-thi-xa-my-hao-thuoc-tinh-hung-yen-va-07-phuong-thuoc-thi-xa-my-hao-do-uy-ban-thuong-vu-quoc-hoi-ban-hanh.html|title=Nghị quyết 656/NQ-UBTVQH14 của Ủy ban Thường vụ Quốc hội về việc thành lập thị xã Mỹ Hào thuộc tỉnh Hưng Yên và 07 phường thuộc Mỹ Hào|last=|first=|date=|website=|archive-url=|archive-date=|url-status=|access-date=}}</ref>
+
+==Kinh tế==
+Năm 2022, Hưng Yên là đơn vị hành chính [[Việt Nam]] có dân số khoảng 1.302.000 người (xếp thứ 28 về dân số),<ref>{{Chú thích web|url=https://www.gso.gov.vn/default.aspx?tabid=714|title=Dân số các tỉnh Việt Nam năm 2018|last=|first=|date=|website=Tổng cục Thống kê Việt Nam|archive-url=|archive-date=|url-status=|access-date =Ngày 30 tháng 9 năm 2019}}</ref> mật độ trung bình 1.400 người/km² (xếp thứ 4 cả nước), quy mô GRDP đạt 132.176 tỉ [[Đồng (đơn vị tiền tệ)|đồng]], GRDP bình quân đầu người đạt 102,3 triệu đồng/ người tương ứng với 4.396 USD (xếp thứ 12 cả nước và thứ 6 khu vực Bắc Bộ), tốc độ tăng trưởng GRDP trung bình hàng năm giai đoạn 2011-2020 trên 7,5%.<ref name=":06">{{Chú thích web|url=http://hungyen.gov.vn/portal/VanBan/2019-12/4fd485c584138fdd215_signed.pdf|title=Tình hình kinh tế, xã hội Hưng Yên năm 2018|tác giả=|last=|first=|date=|website=Cục Thống kê tỉnh Hưng Yên|archive-url=|archive-date=|url-status=|access-date=Ngày 12 tháng 10 năm 2019}}{{Liên kết hỏng|date=2025-05-27 |bot=InternetArchiveBot }}</ref> Năm 2022 tăng 13,4% đứng thứ 5 toàn quốc.<ref>{{Chú thích web|url=https://consosukien.vn/tong-cuc-thong-ke-lam-viec-voi-ubnd-tinh-hung-yen.htm|tựa đề=tình hình phát triển kinh tế xã hội năm 2022|website=|ngôn ngữ=en|url-status=live|ngày truy cập=2022-08-02}}</ref>
+
+[[Tập tin:VG Hung Yen.jpg|nhỏ|phải|250px|<center>[[Ecopark Văn Giang]], Hưng Yên]]
+[[Tập tin:Khu Công Nghiệp Thăng Long II- Hưng Yên.jpg|nhỏ|phải|456x456px|<center>Khu Công nghiệp Thăng Long II<br>Mỹ Hào - Yên Mỹ (Hưng Yên)]]
+[[Tập tin:Xuan Quan Van Giang Hung Yen.jpg|nhỏ|250px|<center>[[Tập tin:Ecopark Hung Yen.jpg|nhỏ]]Khu Đô thị Xuân Quan<br>Văn Giang (Hưng Yên)|thế=]]{{Chính|Danh sách đơn vị hành chính Việt Nam theo GRDP|Danh sách đơn vị hành chính Việt Nam theo GRDP bình quân đầu người}}
+
+Sản phẩm công nghiệp của tỉnh là dệt may, giày da, ô tô, xe máy, điện tử, điện dân dụng, công nghiệp thực phẩm, cơ khí chính xác, thép xây dựng... Cơ cấu theo hướng phát triển kinh tế công nghiệp và dịch vụ đang là chủ đạo. Tính đến tháng 6 năm 2022, tại các khu công nghiệp trên địa bàn tỉnh Hưng Yên có hơn 211 doanh nghiệp có vốn đầu tư trực tiếp nước ngoài (FDI) đăng ký thực hiện 515 dự án đầu tư còn hiệu lực với tổng vốn đầu tư đăng ký là 6099,5 triệu đô la Mỹ. [https://www.gso.gov.vn/bai-top/2022/08/nien-giam-thong-ke-2021-2/]
+
+==Dân cư==
+Tính đến ngày 31 tháng 12 năm 2021, diện tích là 930,20&nbsp;km², dân số tỉnh đạt 1.284,600 người. Dân số thành thị là 213.600 người (16,63%), dân số nông thôn là 1.071.000 người (83,37%). Dân số nam là 644.100 người, dân số nữ là 640.400 người.<ref name="HUNGYEN2020" />
+
+Tính đến ngày [[1 tháng 4]] năm [[2019]], toàn tỉnh có 5 [[tôn giáo]] khác nhau đạt 40.858 người, nhiều nhất là [[Công giáo tại Việt Nam|Công giáo]] có 26.226 người, tiếp theo là [[Phật giáo Việt Nam|Phật giáo]] có 4.556 người. Còn lại các tôn giáo khác như [[Kháng Cách|đạo Tin Lành]] có 72 người, [[Hồi giáo tại Việt Nam|Hồi giáo]] có 3 người và [[Phật giáo Hòa Hảo]] có 1 người.<ref name="dstcdtvn">[http://www.gso.gov.vn/Modules/Doc_Download.aspx?DocID=12724 Kết quả toàn bộ Tổng điều tra Dân số và Nhà ở Việt Nam năm 2009], Tổng cục Thống kê Việt Nam.</ref>
+
+==Danh nhân==
+* [[Hải Thượng Lãn Ông]] Lê Hữu Trác: Danh nhân văn hóa thế giới. 
+* [[Nguyễn Văn Linh]]: Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam. 
+* [[Tô Lâm]]: Tổng Bí thư, Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam (5/2024–10/2024)
+* [[Lương Tam Quang]]: Bộ trưởng Bộ Công an.
+* [[Nguyễn Hải Ninh (chính khách)|Nguyễn Hải Ninh]]: Bộ trưởng Bộ Tư pháp.
+* [[Nguyễn Bình]]: [[Anh hùng Lực lượng vũ trang nhân dân|Anh hùng LLVTND]], Trung tướng của [[Quân đội nhân dân Việt Nam]], lãnh đạo quân dân miền Nam Việt Nam kháng chiến chống Pháp.
+* [[Mai Hoàng]]: Thành ủy viên, Thủ trưởng [[Cơ quan Cảnh sát Điều tra, Bộ Công an (Việt Nam)|Cơ quan Cảnh sát Điều tra]] [[Công an Thành phố Hồ Chí Minh]], Phó Giám đốc [[Công an Thành phố Hồ Chí Minh]], được phong danh hiệu [[Anh hùng Lực lượng vũ trang nhân dân]] năm 2020. 
+*Thiếu tướng [[Vũ Hồng Văn]]: [[Ủy ban Kiểm tra Trung ương Đảng Cộng sản Việt Nam|Phó Chủ nhiệm Ủy ban Kiểm tra Trung ương Đảng]] khoá XIII, [[Đại biểu quốc hội Việt Nam|Đại biểu Quốc hội Việt Nam]] [[Danh sách Đại biểu Quốc hội Việt Nam khóa XV#Đà Nẵng|khóa XV]].
+* [[Nguyễn Công Hoan]] (1903–1977): Nhà văn. 
+* [[Nguyễn Tài]] (1926–2016): Thứ trưởng Bộ Công an.
+* [[Lê Văn Lương]] (1912–1995).
+*[[Đại tướng Quân đội nhân dân Việt Nam|Đại tướng]] [[Nguyễn Quyết]]: Nguyên Phó Chủ tịch Hội đồng nhà nước, [[Chủ nhiệm Tổng cục chính trị Quân đội nhân dân Việt Nam|Chủ nhiệm Tổng cục Chính trị Quân đội nhân dân Việt Nam]].
+*[[Thượng tướng Quân đội nhân dân Việt Nam|Thượng tướng]] [[Nguyễn Trọng Xuyên]]: Nguyên [[Thứ trưởng Bộ Quốc phòng (Việt Nam)|Thứ trưởng Bộ Quốc phòng]], Chủ nhiệm [[Tổng cục Hậu cần, Quân đội nhân dân Việt Nam|Tổng cục Hậu cần]], Tư lệnh [[Quân khu 6, Quân đội nhân dân Việt Nam|Quân khu 6]].
+*[[Thượng tướng Công an nhân dân Việt Nam|Thượng tướng]] [[Nguyễn Duy Ngọc]]: Uỷ viên [[Trung ương Đảng]], [[Văn phòng Trung ương Đảng Cộng sản Việt Nam|Chánh Văn phòng Trung ương Đảng]], nguyên [[Thứ trưởng Bộ Công an (Việt Nam)|Thứ trưởng Bộ Công an]].
+*[[Nguyễn Hữu Mười]]: [[Diễn viên]], [[Đạo diễn điện ảnh|đạo diễn]], giảng viên [[điện ảnh]].
+
+==Hình ảnh==
+<center><gallery>
+Tập tin:VG Hung Yen.jpg|<center>Khu Đô thị Xuân Quan</center>
+Tập tin:Ecopark Van Giang Hung Yen.jpg|<center>Ecopark Văn Giang</center>
+Tập tin:Ecopark Hung Yen.jpg|<center>Khu đô thị Văn Giang</center>
+Tập tin:PVF Hưng Yên.jpg|Trung tâm đào tạo bóng đá trẻ Việt Nam PVF - Văn Giang
+Tập tin:Thành Phố Hưng Yên.jpg|Trung tâm Thành phố Hưng Yên
+Tập tin:Khu Công Nghiệp Phố Nói A- Hưng Yên.jpg|Khu Công nghiệp Phố Nối A - Yên Mỹ, Mỹ Hào, Văn Lâm
+Tập tin:Khu Công Nghiệp Thăng Long II- Hưng Yên.jpg|Khu Công nghiệp Thăng Long II - Yên Mỹ
+Tập tin:Van Giang Hung Yen.jpg|Thị Trấn Văn Giang
+Tập tin:Quảng Trường Tp Hưng yên.jpg|Quảng trường Thành phố Hưng Yên
+Tập tin:Phật Quang.jpeg|Chùa Nôm - Văn Lâm
+Tập tin:Kcn Yen My viglacea 2023.jpg|Khu Công nghiệp Yên Mỹ
+</gallery></center>
+
+==Chú thích==
+{{Tham khảo|30em}}
+
+==Tham khảo==
+{{Thể loại Commons|Hung Yen Province}}
+{{Sơ khai Hưng Yên}}
+{{Đơn vị hành chính cấp tỉnh Việt Nam}}
+
+[[Thể loại:Hưng Yên| ]]
+[[Thể loại:Bài viết chứa nhận dạng WORLDCATID]]

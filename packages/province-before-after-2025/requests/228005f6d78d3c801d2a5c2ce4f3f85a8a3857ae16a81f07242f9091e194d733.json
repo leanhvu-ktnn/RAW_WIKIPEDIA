@@ -1,0 +1,26 @@
+{
+  "request_url": "https://vi.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&inprop=url&maxlag=5&ppprop=wikibase_item%7Cdisambiguation&prop=info%7Cpageprops&redirects=1&titles=%C4%90%E1%BB%93ng+Nai%7C%C4%90%E1%BB%93ng+Nai+%28t%E1%BB%89nh%29%7C%C4%90%E1%BB%93ng+Nai+%28t%E1%BB%89nh+c%C5%A9%29%7C%C4%90%E1%BB%93ng+Nai+%28tr%C6%B0%E1%BB%9Bc+2025%29",
+  "params": {
+    "format": "json",
+    "formatversion": "2",
+    "maxlag": 5,
+    "action": "query",
+    "titles": "Đồng Nai|Đồng Nai (tỉnh)|Đồng Nai (tỉnh cũ)|Đồng Nai (trước 2025)",
+    "redirects": 1,
+    "prop": "info|pageprops",
+    "inprop": "url",
+    "ppprop": "wikibase_item|disambiguation"
+  },
+  "retrieved_at": "2026-09-29T15:26:59.849525Z",
+  "http_status": 200,
+  "headers": {
+    "date": "Tue, 29 Sep 2026 15:26:59 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1489"
+  },
+  "path": "sources/responses/6cad21e054071589f1372b4ec0e7e44e4e1a43cf8874f637f426372051227b1e.json",
+  "sha256": "6cad21e054071589f1372b4ec0e7e44e4e1a43cf8874f637f426372051227b1e",
+  "byte_length": 1489,
+  "media_type": "application/json",
+  "representation": "unmodified MediaWiki HTTP response body bytes"
+}

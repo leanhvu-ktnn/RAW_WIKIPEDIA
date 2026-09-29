@@ -1,0 +1,26 @@
+{
+  "request_url": "https://vi.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&inprop=url&maxlag=5&ppprop=wikibase_item%7Cdisambiguation&prop=info%7Cpageprops&redirects=1&titles=Qu%E1%BA%A3ng+Tr%E1%BB%8B%7CQu%E1%BA%A3ng+Tr%E1%BB%8B+%28t%E1%BB%89nh%29%7CQu%E1%BA%A3ng+Tr%E1%BB%8B+%28t%E1%BB%89nh+c%C5%A9%29%7CQu%E1%BA%A3ng+Tr%E1%BB%8B+%28tr%C6%B0%E1%BB%9Bc+2025%29",
+  "params": {
+    "format": "json",
+    "formatversion": "2",
+    "maxlag": 5,
+    "action": "query",
+    "titles": "Quảng Trị|Quảng Trị (tỉnh)|Quảng Trị (tỉnh cũ)|Quảng Trị (trước 2025)",
+    "redirects": 1,
+    "prop": "info|pageprops",
+    "inprop": "url",
+    "ppprop": "wikibase_item|disambiguation"
+  },
+  "retrieved_at": "2026-09-29T15:26:06.663323Z",
+  "http_status": 200,
+  "headers": {
+    "date": "Tue, 29 Sep 2026 15:26:06 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1900"
+  },
+  "path": "sources/responses/e4c2839edc20bd0409f9dabebca3ab929e1682aaa1f83cc301da9c80c6c0531e.json",
+  "sha256": "e4c2839edc20bd0409f9dabebca3ab929e1682aaa1f83cc301da9c80c6c0531e",
+  "byte_length": 1900,
+  "media_type": "application/json",
+  "representation": "unmodified MediaWiki HTTP response body bytes"
+}

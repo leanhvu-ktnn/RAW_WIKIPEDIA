@@ -1,0 +1,257 @@
+{{otheruses|Lai Châu (định hướng)}}
+{{Chú thích trong bài|date=tháng 4/2024}}
+{{Thông tin đơn vị hành chính Việt Nam | tỉnh
+| tên = Lai Châu
+| logo =Logo tỉnh Lai Châu.svg
+| ghi chú logo = Biểu trưng 
+| ghi chú hình = Trên xuống dưới, trái sang phải: 
+Hồ Thủy Sơn ([[Lai Châu (thành phố)|TP Lai Châu]]), Núi non ở [[Than Uyên]], [[Đèo Ô Quý Hồ]] ([[Tam Đường]]), Trung tâm hội nghị tỉnh Lai Châu 
+| vùng = [[Tây Bắc Bộ]] 
+| tỉnh lỵ = Thành phố [[Lai Châu (thành phố)|Lai Châu]]
+| phân chia hành chính = 1 thành phố, 7 huyện
+| thành lập = 
+* 28/6/1909
+| đại biểu quốc hội = [[Danh sách Đại biểu Quốc hội Việt Nam khóa XV#Lai Châu|6 đại biểu]]
+| trụ sở UBND = phường [[Tân Phong, thành phố Lai Châu|Tân Phong]], thành phố [[Lai Châu (thành phố)|Lai Châu]]
+| chủ tịch UBND = Lê Văn Lương
+| hội đồng nhân dân = 50 đại biểu
+| chủ tịch HĐND = [[Giàng Páo Mỷ]]
+| chủ tịch UBMTTQ = Sùng A Hồ
+| chánh án TAND = [[Nguyễn Thị Lụa]]
+| viện trưởng VKSND = [[Nông Văn Hải]]
+|bí thư =  [[Giàng Páo Mỷ]]
+| vĩ độ = 22.362776
+| kinh độ = 103.265991
+| bản đồ 1 = {{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=2|stroke-color=#000000}}
+| diện tích = 9.068,73 km²<ref name="area_2020">{{cite act|index=387/QĐ-BTNMT|title=Phê duyệt và công bố kết quả thống kê diện tích đất đai năm 2020|url=https://luatvietnam.vn/tai-nguyen/quyet-dinh-387-qd-btnmt-217769-d1.html|legislature=[[Bộ Tài nguyên và Môi trường (Việt Nam)]]|date= 2022| type = Quyết định}}</ref><ref>{{Chú thích sách | author = [[Tổng cục Thống kê (Việt Nam)|Tổng cục Thống kê]] | year = 2022  | url = https://www.gso.gov.vn/wp-content/uploads/2022/08/Sach-Nien-giam-TK-2021.pdf | title = Niên giám Thống kê Việt Nam năm 2021  | publisher = Nhà Xuất bản Thống kê  | access-date = 2022-08-01 | archive-date = 2022-08-01 | archive-url = https://web.archive.org/web/20220801122014/https://www.gso.gov.vn/wp-content/uploads/2022/08/Sach-Nien-giam-TK-2021.pdf|url-status=live| p=89 }}</ref>
+| dân số = 482.000 người<ref name="dan_so_2021">{{Chú thích sách | author = [[Tổng cục Thống kê (Việt Nam)|Tổng cục Thống kê]] | year = 2022   | url = https://www.gso.gov.vn/wp-content/uploads/2022/08/Sach-Nien-giam-TK-2021.pdf | title = Niên giám Thống kê Việt Nam năm 2021  | publisher = Nhà Xuất bản Thống kê  | access-date = 2022-08-01 | archive-date = 2022-08-01 | archive-url = https://web.archive.org/web/20220801122014/https://www.gso.gov.vn/wp-content/uploads/2022/08/Sach-Nien-giam-TK-2021.pdf|url-status=live | p=92 }}</ref>      
+| thời điểm dân số = 2022
+| dân số thành thị = 82.000 người ({{formatnum:{{#expr:84700/478400*100round2}}}}%)<ref>{{Chú thích sách | author = [[Tổng cục Thống kê (Việt Nam)|Tổng cục Thống kê]] | year = 2022   | url = https://www.gso.gov.vn/wp-content/uploads/2022/08/Sach-Nien-giam-TK-2021.pdf | title = Niên giám Thống kê Việt Nam năm 2021  | publisher = Nhà Xuất bản Thống kê  | access-date = 2022-08-01 | archive-date = 2022-08-01 | archive-url = https://web.archive.org/web/20220801122014/https://www.gso.gov.vn/wp-content/uploads/2022/08/Sach-Nien-giam-TK-2021.pdf|url-status=live| p=98 }}</ref>
+| dân số nông thôn = 400.000 người ({{formatnum:{{#expr:393800/478400*100round2}}}}%)<ref>{{Chú thích sách | author = [[Tổng cục Thống kê (Việt Nam)|Tổng cục Thống kê]] | year = 2022   | url = https://www.gso.gov.vn/wp-content/uploads/2022/08/Sach-Nien-giam-TK-2021.pdf | title = Niên giám Thống kê Việt Nam năm 2021  | publisher = Nhà Xuất bản Thống kê  | access-date = 2022-08-01 | archive-date = 2022-08-01 | archive-url = https://web.archive.org/web/20220801122014/https://www.gso.gov.vn/wp-content/uploads/2022/08/Sach-Nien-giam-TK-2021.pdf|url-status=live| p=100 }}</ref>
+| mật độ dân số = 53 người/km²<ref>{{Chú thích sách | author = [[Tổng cục Thống kê (Việt Nam)|Tổng cục Thống kê]] | year = 2022   | url = https://www.gso.gov.vn/wp-content/uploads/2022/08/Sach-Nien-giam-TK-2021.pdf | title = Niên giám Thống kê Việt Nam năm 2021  | publisher = Nhà Xuất bản Thống kê  | access-date = 2022-08-01 | archive-date = 2022-08-01 | archive-url = https://web.archive.org/web/20220801122014/https://www.gso.gov.vn/wp-content/uploads/2022/08/Sach-Nien-giam-TK-2021.pdf|url-status=live| p=89 }}</ref>
+| dân tộc = [[Người Việt|Kinh]], [[Người Thái (Việt Nam)|Thái]], [[H'Mông]], [[Người Dao|Dao]], [[Người Giáy|Giáy]], [[Người La Hủ|La Hủ]]
+| mã địa lý = [[ISO 3166-2:VN|VN-01]]
+| mã hành chính = 12<ref>[https://danhmuchanhchinh.gso.gov.vn/ Tổng cục Thống kê]</ref>
+| mã bưu chính = [[Mã bưu chính Việt Nam|30xxx]]
+| mã điện thoại = [[Mã điện thoại Việt Nam|213]]
+| biển số xe = [[Biển xe cơ giới Việt Nam|25]]
+| web = {{url|laichau.gov.vn}}
+|nhiều hình={{multiple image
+| border = infobox
+| total_width = 300
+| image_style = border:1;
+| perrow = 1/2/2
+| image1 = Lai Châu City Lake.jpg
+| image2 = Than Uyen's moutains.jpg
+| image3 = Sunset on O Quy Ho pass.jpg
+| image4 = Laichautown.jpg
+}}|biệt danh=Vùng đất của những đỉnh núi cao}}
+'''Lai Châu''' là một [[tỉnh (Việt Nam)|tỉnh]] thuộc vùng [[Tây Bắc Bộ]], [[Việt Nam]] <ref name=Ms@124 >[https://thukyluat.vn/vb/quyet-dinh-124-2004-qd-ttg-bang-danh-muc-ma-so-don-vi-hanh-chinh-viet-nam-cc68.html Quyết định số 124/2004/QĐ-TTg của Chính phủ ngày 08/07/2004] ban hành Danh mục và mã số các đơn vị hành chính Việt Nam có đến 30/6/2004. Thuky Luat Online, 2016. Truy cập 11/04/2019.</ref><ref name =BandoHc >Tập bản đồ hành chính Việt Nam. Nhà xuất bản Tài nguyên – Môi trường và Bản đồ Việt Nam. Hà Nội, 2013.</ref>.
+
+Trước năm 2004, diện tích hành chính tỉnh Lai Châu bao gồm cả tỉnh [[Điện Biên]]. Sau khi tách, Lai Châu hiện tại có vị trí phía bắc giáp tỉnh [[Vân Nam]] của [[Trung Quốc]], phía tây và phía tây nam giáp tỉnh [[Điện Biên]], phía đông giáp tỉnh [[Lào Cai]], phía đông nam giáp tỉnh [[Yên Bái]], và phía nam giáp tỉnh [[Sơn La]]. Đây là tỉnh có diện tích lớn thứ 10/63 [[tỉnh thành Việt Nam]] <ref name="laichau-tt44">[https://storage-vnportal.vnpt.vn/lcu-ubnd/6339/THONGTU/44.2013TT-BTNMT.pdf Thông tư Số 44/2013/TT-BTNMT ngày 26 tháng 12 năm 2013]. Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế - xã hội phục vụ công tác thành lập bản đồ tỉnh Lai Châu. Sở tài nguyên và môi trường tỉnh Lai Châu. Truy cập 05/03/2024.</ref>.
+
+Năm 2018, Lai Châu là đơn vị hành chính [[Việt Nam]] đông thứ 62 về số dân, [[Danh sách đơn vị hành chính Việt Nam theo GRDP|xếp thứ 61]] về [[Tổng sản phẩm trên địa bàn (GRDP)]], [[Danh sách đơn vị hành chính Việt Nam theo GRDP bình quân đầu người|xếp thứ 58]] về [[Tổng sản phẩm trên địa bàn (GRDP)|GRDP]] bình quân đầu người, [[Danh sách đơn vị hành chính Việt Nam theo GRDP|đứng thứ 46]] về tốc độ tăng trưởng [[Tổng sản phẩm trên địa bàn (GRDP)|GRDP]]. Với 456.300 người dân<ref>{{Chú thích web|url=https://www.gso.gov.vn/default.aspx?tabid=714|title=Dân số các tỉnh Việt Nam năm 2018|last=|first=|date=|website=Tổng cục Thống kê Việt Nam|archive-url=|archive-date=|url-status=|access-date =Ngày 30 tháng 9 năm 2019}}</ref>, GRDP đạt 14.998 tỉ [[Đồng (đơn vị tiền tệ)|Đồng]] (tương ứng với 0,6540 tỉ USD), GRDP bình quân đầu người đạt 33 triệu đồng (tương ứng với 1.433 USD), tốc độ tăng trưởng GRDP đạt 7,23%.<ref name=":022">{{Chú thích web|url=https://www.laichau.gov.vn/view/bao-cao-dau-tu-kinh-te-xa-hoi/bao-cao-kinh-te-xa-hoi-nam-2018-bao-cao-so-lieu-+-bao-cao-phan-tich--35054?mid=2071|title=Tình hình kinh tế, xã hội Lai Châu năm 2018|last=|first=|date=|website=Cục Thống kê tỉnh Lai Châu|archive-url=|archive-date=|url-status=|access-date =Ngày 12 tháng 10 năm 2019}}{{Liên kết hỏng|date = ngày 16 tháng 3 năm 2021 |bot=InternetArchiveBot }}</ref>
+
+== Địa lý ==
+[[Tập tin:Đèo Ô Quy Hồ 1.JPG|250px|giữa|nhỏ|[[Đèo Ô Quý Hồ|Đèo Ô Quy Hồ]] trên quốc lộ 4D nối thành phố Lai Châu với thành phố Lào Cai]]
+
+Trung tâm hành chính của tỉnh là [[Lai Châu (thành phố)|Thành phố Lai Châu]], cách [[Hà Nội|Thủ đô Hà Nội]] 397&nbsp;km
+
+Nằm ở phía tây bắc của Việt Nam, có toạ độ địa lý từ 21°41' đến 22°49' vĩ độ Bắc và 102°19' đến 103°59' kinh độ Đông.
+
+*Phía đông giáp tỉnh [[Lào Cai]] và tỉnh [[Yên Bái]]
+*Phía tây giáp tỉnh [[Điện Biên]]
+*Phía nam giáp tỉnh [[Điện Biên]] và tỉnh [[Sơn La]]
+*Phía bắc giáp tỉnh [[Vân Nam]] của [[Trung Quốc]]
+
+====Các điểm cực của tỉnh Lai Châu:====
+*Điểm cực bắc tại: xã Sì Lở Lầu, huyện [[Phong Thổ]].
+*Điểm cực đông tại: xã Mường Than, huyện [[Than Uyên]].
+*Điểm cực tây tại: xã Mù Cả, huyện [[Mường Tè]].
+*Điểm cực nam tại: xã Khoen On, huyện [[Than Uyên]].
+
+Lai Châu có 265,165&nbsp;km  đường biên giới (theo Hiệp định về Quy chế quản lý biên giới trên đất liền Việt Nam - Trung Quốc) với cửa khẩu song phương [[Khu kinh tế cửa khẩu Ma Lù Thàng|Ma Lù Thàng]]  - Kim Thủy Hà và nhiều đường mòn qua lại trên tuyến biên giới Việt – Trung trực tiếp giao lưu với các lục địa rộng lớn phía tây nam Trung Quốc. Lai Châu có tiềm năng để phát triển dịch vụ – thương mại, xuất nhập khẩu và du lịch, đồng thời, cũng có vị trí chiến lược hết sức quan trọng về quốc phòng, an ninh và bảo vệ chủ quyền biên giới quốc gia. Lai Châu nằm trong khu vực đầu nguồn và phòng hộ đặc biệt xung yếu của [[sông Đà]], sông [[Nậm Na]] và sông [[Nậm Mu]], điều tiết nguồn nước trực tiếp cho các công trình thủy điện lớn trên sông Đà, đảm bảo sự phát triển bền vững cả vùng [[đồng bằng sông Hồng|châu thổ sông Hồng]].
+
+Địa hình được tạo bởi những dãy núi chạy dài theo hướng tây bắc - Đông Nam, có nhiều đỉnh núi cao như đỉnh [[Pu Sa Leng|Pu Ta Leng]] cao 3.096 m (đỉnh núi cao thứ 2 tại Việt Nam), đỉnh Bạch Mộc Lương Tử cao 3.046 m. Núi đồi cao và dốc, xen kẽ nhiều thung lũng sâu và hẹp, có nhiều cao nguyên, sông suối. Sông có nhiều thác ghềnh, dòng chảy lưu lượng lớn nên tiềm năng thủy điện rất lớn. Lai Châu có đặc điểm địa hình với nhiều dãy núi và cao nguyên, phía đông là dãy núi [[Dãy núi Hoàng Liên Sơn|Hoàng Liên Sơn]]. Giữa hai dãy núi đồ sộ trên là phần đất thuộc vùng núi thấp tương đối rộng lớn và lưu vực [[sông Đà]] với nhiều cao nguyên đá vôi (dài 400&nbsp;km, rộng từ 1 – 25&nbsp;km, cao 600 – 1.000 m). Trên 60% diện tích có độ cao trên 1.000 m, trên 90% diện tích có độ dốc trên 25°, bị chia cắt mạnh bởi các dãy núi chạy dài theo hướng tây bắc – Đông Nam, xen kẽ là các thung lũng có địa hình tương đối bằng phẳng như: Mường So, [[Tam Đường]], [[Bình Lư, Tam Đường|Bình Lư]], [[Than Uyên]]... Có đỉnh núi [[Fansipan]] cao 3.143 m, Pu Sam Cáp cao 1.700 m... Núi đồi cao và dốc, xen kẽ nhiều thung lũng sâu và hẹp, có nhiều sông suối, nhiều thác ghềnh, dòng chảy lưu lượng lớn nên có nhiều tiềm năng về thủy điện.
+
+Lai Châu có [[khí hậu cận nhiệt đới ẩm]]. Nhiệt độ trung bình năm khoảng 21&nbsp;°C-23&nbsp;°C chia làm hai mùa theo độ ẩm là [[mùa mưa]] và [[mùa khô]], chia làm 4 mùa theo nhiệt độ: xuân, hè, thu, đông.
+
+== Lịch sử ==
+{{main|Lịch sử hành chính Lai Châu}}
+[[Tập tin:Son-la Province 1891.jpg|300px|phải|nhỏ|Bản đồ Sơn La năm 1891]]
+[[Tập tin:Lao-kay Province 1891.jpg|300px|phải|nhỏ|Bản đồ Lào Cai năm 1891]]
+Xưa kia Lai Châu hay Mường Lai được đặt dưới quyền điều hành của tù trưởng các dân tộc [[Người Thái (Việt Nam)|Thái]], quy phục triều đình Việt Nam. Đây vốn là một châu thuộc phủ Điện Biên, tỉnh [[Hưng Hóa (tỉnh)|Hưng Hóa]] xưa.
+
+'''Tiểu quân khu phụ Lai Châu''' gồm châu Lai (trung tâm tại thị xã Mường Lay ngày nay), châu Luân ([[Tủa Chùa]]), châu Quỳnh Nhai, châu [[Phong Thổ]] được thành lập theo Nghị định ngày [[5 tháng 6]] năm [[1893]] của [[Toàn quyền Đông Dương]] và trực thuộc tỉnh [[Sơn La|Vạn Bú]] từ ngày [[10 tháng 10]] năm [[1895]]. Tỉnh Vạn Bú đổi tên thành tỉnh [[Sơn La]] năm [[1904]], do đó Lai Châu lại thuộc tỉnh Sơn La.
+
+Tỉnh Lai Châu được thành lập theo Nghị định ngày [[28 tháng 6]] năm [[1909]] của Toàn quyền Đông Dương. Lúc đó tỉnh Lai Châu gồm các châu Lai, châu Quỳnh Nhai, châu Điện Biên tách ra từ tỉnh Sơn La, tỉnh lỵ đặt tại thị xã Lai Châu (nay là [[mường Lay|thị xã Mường Lay]] thuộc tỉnh Điện Biên), quản lý đầu tiên là công sứ E. Gilles. Ngày [[16 tháng 1]] năm [[1915]] tỉnh Lai Châu bị thay thế bằng Đạo Quan binh 4 Lai Châu dưới sự cai trị quân sự.
+
+Năm [[1948]], Lai Châu thuộc [[Khu tự trị Thái]] trong [[Liên bang Đông Dương]] đến năm [[1950]] thì gộp và [[Hoàng triều Cương thổ]] của [[Nguyên thủ quốc gia|Quốc trưởng]] [[Bảo Đại]].
+
+Thời kỳ [[1953]]-[[1955]], khi [[Việt Minh]] tiếp quản thì tỉnh Lai Châu thuộc Khu tây bắc, tách khỏi Liên khu Việt Bắc.
+
+Ngày [[29 tháng 4]] năm [[1955]], tỉnh Lai Châu giải thể, 6 châu của tỉnh Lai Châu cũ ([[Mường Tè]], [[Mường Lay]], [[Sìn Hồ|Sình Hồ]], [[Điện Biên (huyện)|Điện Biên]], [[Quỳnh Nhai]], [[Tuần Giáo]]) trực thuộc [[Khu tự trị Tây Bắc|Khu tự trị Thái Mèo]].
+
+Ngày [[18 tháng 10]] năm [[1955]], thành lập châu [[Tủa Chùa]] gồm 8 xã, tách từ châu Mường Lay.
+
+Ngày [[27 tháng 10]] năm [[1962]], đổi tên Khu tự trị Thái Mèo thành [[Khu tự trị Tây Bắc]], đồng thời tái lập tỉnh Lai Châu, gồm 7 huyện: Mường Tè, Mường Lay, Sình Hồ (nay là Sìn Hồ), Điện Biên, Phong Thổ, Tuần Giáo, Tủa Chùa. Đến cuối năm [[1975]], giải thể cấp Khu tự trị.
+
+Sau năm [[1975]], tỉnh Lai Châu có tỉnh lị là [[Mường Lay|thị xã Lai Châu]] và 7 huyện: [[Điện Biên (huyện)|Điện Biên]], [[Mường Chà|Mường Lay]], [[Mường Tè]], [[Phong Thổ]], [[Sìn Hồ]], [[Tủa Chùa]], [[Tuần Giáo]].
+
+Năm [[1979]], [[quân Giải phóng Nhân dân Trung Quốc|Trung Quốc]] đã xâm lăng, đánh chiếm thị trấn Phong Thổ huyện Phong Thổ, phá hủy nhiều cơ sở trước khi rút quân về bên kia biên giới. Sau này tỉnh lỵ chuyển về thị xã [[Điện Biên Phủ]].
+
+Năm 1990, cơ sở hạ tầng của thị xã Lai Châu bị phá huỷ nặng nề bởi trận lũ lịch sử.
+
+Ngày [[18 tháng 4]] năm [[1992]], thành lập thị xã Điện Biên Phủ và chuyển tỉnh lỵ từ thị xã Lai Châu về thị xã Điện Biên Phủ<ref>{{Chú thích web|url=https://chinhphu.vn/default.aspx?pageid=27160&docid=1580|title=Quyết định 130-HĐBT năm 1992 về thành lập thị xã Điện Biên Phủ thuộc tỉnh Lai Châu và di chuyển tỉnh lỵ Lai Châu về thị xã Điện Biên Phủ do Hội đồng Bộ trưởng ban hành|last=|first=|date=|website=|archive-url=|archive-date=|url-status=live|access-date=}}</ref>.
+
+Ngày [[14 tháng 1]] năm [[2002]], thành lập huyện Tam Đường trên cơ sở một phần diện tích và dân số của huyện Phong Thổ; thành lập huyện Mường Nhé trên cơ sở một phần diện tích và dân số của các huyện Mường Tè và Mường Lay.<ref name="LC2002">[https://chinhphu.vn/default.aspx?pageid=27160&docid=10182 Nghị định số 08/2001/NĐ-CP] về việc điều chỉnh địa giới hành chính huyện Mường Tè, huyện Mường Lay để thành lập huyện Mường Nhé và chia tách huyện Phong Thổ để thành lập huyện Tam Đường, tỉnh Lai Châu.</ref>
+
+Ngày [[26 tháng 9]] năm [[2003]], thành lập thành phố Điện Biên Phủ trên cơ sở toàn bộ diện tích tự nhiên và dân số của thị xã Điện Biên Phủ.<ref name="LC2003">[https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=12240 Nghị định 110/2003/NĐ-CP] về việc thành lập thành phố Điện Biên Phủ, tỉnh Lai Châu</ref>
+
+Trước khi tách tỉnh, tỉnh Lai Châu có diện tích lớn nhất [[miền Bắc (Việt Nam)|miền Bắc Việt Nam]], thứ hai cả nước (sau tỉnh [[Đắk Lắk]] cũ); có diện tích 18.619,22&nbsp;km², dân số 753.811 người, có 12 đơn vị hành chính cấp huyện, gồm [[Điện Biên Phủ|thành phố Điện Biên Phủ]] (tỉnh lị), [[Mường Lay|thị xã Lai Châu]] và 10 huyện: [[Điện Biên (huyện)|Điện Biên]], [[Điện Biên Đông]], [[Mường Chà|Mường Lay]], [[Mường Nhé]], [[Mường Tè]], [[Phong Thổ]], [[Sìn Hồ]], [[Tam Đường]], [[Tủa Chùa]], [[Tuần Giáo]].
+
+Ngày [[26 tháng 11]] năm [[2003]], Quốc hội ra Nghị quyết trong đó chia tỉnh Lai Châu thành tỉnh Lai Châu (mới) và tỉnh [[Điện Biên]], đồng thời chuyển huyện [[Than Uyên]] của tỉnh [[Lào Cai]] về tỉnh Lai Châu mới quản lý:
+
+* Tỉnh [[Điện Biên]] gồm [[Điện Biên Phủ|thành phố Điện Biên Phủ]] (tỉnh lị), [[Mường Lay|thị xã Lai Châu]] và 6 huyện: [[Điện Biên (huyện)|Điện Biên]], [[Điện Biên Đông]], [[Mường Chà|Mường Lay]], [[Mường Nhé]], [[Tủa Chùa]], [[Tuần Giáo]].
+* Tỉnh Lai Châu gồm 5 huyện: [[Mường Tè]], [[Phong Thổ]], [[Sìn Hồ]], [[Tam Đường]], [[Than Uyên]].
+
+Tỉnh Lai Châu mới có diện tích tự nhiên là 906.512,30 ha và dân số vào thời điểm đó là 313.511 người, bao gồm các huyện Mường Tè, Phong Thổ, Sìn Hồ, Tam Đường; các xã Pú Đao, Chăn Nưa, Nậm Hàng và bản Thành Chử, xã Xá Tổng của huyện Mường Lay; phường Lê Lợi của thị xã Lai Châu; huyện Than Uyên của tỉnh Lào Cai. Tỉnh lỵ đặt tại thị trấn Phong Thổ, huyện Tam Đường.<ref>{{Chú thích web|url=https://vbpl.vn/bonoivu/Pages/vbpq-toanvan.aspx?ItemID=19397|title=Nghị quyết số 22/2003/QH11 về việc chia và điều chỉnh địa giới hành chính một số tỉnh do Quốc hội ban hành|last=|first=|date=|website=|archive-url=|archive-date=|url-status=live|access-date=}}</ref>
+
+Ngày [[2 tháng 1]] năm [[2004]], địa giới các huyện Mường Tè và Sìn Hồ được điều chỉnh lại.<ref name="LC2004a">[https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=18737 Nghị định số 01/2004/NĐ-CP] về việc điều chỉnh địa giới hành chính huyện Sìn Hồ và huyện Mường Tè, tỉnh Lai Châu.</ref>
+
+Ngày [[10 tháng 10]] năm [[2004]], thành lập thị xã Lai Châu mới trên cơ sở một phần diện tích và dân số của huyện Tam Đường<ref name="2004b">[https://vbpl.vn/bonoivu/Pages/vbpq-toanvan.aspx?ItemID=19144 Nghị định số 176/2004/NĐ-CP] về việc thành lập thị xã Lai Châu và thành lập thị trấn thuộc các huyện Tam Đường, Phong Thổ, tỉnh Lai Châu.</ref>. Còn thị xã Lai Châu cũ thuộc tỉnh Điện Biên được đổi tên thành thị xã [[Mường Lay]] vào năm 2005.
+
+Ngày [[30 tháng 10]] năm [[2008]], thành lập huyện [[Tân Uyên, Lai Châu|Tân Uyên]] trên cơ sở một phần diện tích và dân số của huyện [[Than Uyên]].<ref name="LC2008">[https://chinhphu.vn/default.aspx?pageid=27160&docid=62939 Nghị định 41/2008/NĐ-CP] về điều chỉnh địa giới hành chính xã, thành lập xã, thị trấn thuộc huyện Than Uyên, huyện Tam Đường, huyện Mường Tè, tỉnh Lai Châu.</ref>
+
+Ngày [[2 tháng 11]] năm [[2012]], thành lập huyện [[Nậm Nhùn]] trên cơ sở một phần diện tích và dân số của các huyện Mường Tè và Sìn Hồ.<ref name="LC2011">[https://chinhphu.vn/default.aspx?pageid=27160&docid=151877 Nghị quyết số 97/NQ-CP ngày 14/10/2011 của Chính phủ] về việc điều chỉnh địa giới hành chính xã để thành lập xã, thị trấn thuộc huyện: Mường Tè, Sìn Hồ, Than Uyên, tỉnh Lai Châu.</ref>
+
+Ngày [[27 tháng 12]] năm [[2013]], chuyển thị xã Lai Châu thành thành phố Lai Châu. Tỉnh Lai Châu có 1 thành phố và 7 huyện như hiện nay.<ref name="LC2013">[https://congbao.chinhphu.vn/noi-dung-van-ban-so-131-nq-cp-1287?cbid=413 Nghị quyết 131/NQ-CP năm 2013] thành lập thành phố Lai Châu thuộc tỉnh Lai Châu.</ref>
+
+==Hành chính==
+Tỉnh Lai Châu có 8 đơn vị hành chính cấp huyện, bao gồm 1 thành phố và 7 huyện với 106 đơn vị hành chính cấp xã, bao gồm 5 phường, 7 thị trấn và 94 xã.<ref name="NQ866">{{Chú thích web|url=https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=199017|tựa đề=Nghị quyết số 866/NQ-UBTVQH14 năm 2020 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Lai Châu|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|url-status=live|ngày truy cập=}}</ref>
+{| class="wikitable" style="font-size:90%; width:100%; border:0; text-align: center; line-height:120%;"
+|-
+! style="background:#e5e4e2; color:#0047ab; height:17px; "|Đơn vị hành chính cấp Huyện
+! style="background: #96c; color:#7fffd4;"| Thành phố <br>[[Lai Châu (thành phố)|Lai Châu]] 
+! style="background: #96c; color:#7fffd4;"| Huyện <br>[[Mường Tè]] 
+! style="background: #96c; color:#7fffd4;"| Huyện <br>[[Nậm Nhùn]] 
+! style="background: #96c; color:#7fffd4;"| Huyện <br>[[Phong Thổ]] 
+! style="background: #96c; color:#7fffd4;"| Huyện <br>[[Sìn Hồ]] 
+! style="background: #96c; color:#7fffd4;"| Huyện <br>[[Tam Đường]]
+! style="background: #96c; color:#7fffd4;"| Huyện <br>[[Tân Uyên, Lai Châu|Tân Uyên]] 
+! style="background: #96c; color:#7fffd4;"| Huyện <br>[[Than Uyên]] 
+|-
+! style="background:#9cc; color:navy; "| Diện tích (km²)
+| style="background: beige; color:#000;"| 92,37
+| style="background: beige; color:#000;"| 2.679,34
+| style="background: beige; color:#000;"| 1.388,08
+| style="background: beige; color:#000;"| 1.034,6
+| style="background: beige; color:#000;"| 1.526,96
+| style="background: beige; color:#000;"| 662,92
+| style="background: beige; color:#000;"| 903,27
+| style="background: beige; color:#000;"| 796,80
+|-
+! style="background:#9cc; color:navy; height:16px; "|Dân số (người)
+| style="background: #ACE1AF; color: black; " | 52. 557
+| style="background: #ACE1AF; color: black; " | 49.070
+| style="background: #ACE1AF; color: black; " | 30.700
+| style="background: #ACE1AF; color: black; " | 73.210
+| style="background: #ACE1AF; color: black; " | 81.360
+| style="background: #ACE1AF; color: black; " | 52.470
+| style="background: #ACE1AF; color: black; " | 52.340
+| style="background: #ACE1AF; color: black; " | 70.600
+|-
+! style="background:#9cc; color:navy; "|Mật độ dân số (người/km²)
+| style="background:#ccf; color:#000;"| 465
+| style="background:#ccf; color:#000;"| 17
+| style="background:#ccf; color:#000;"| 22
+| style="background:#ccf; color:#000;"| 72
+| style="background:#ccf; color:#000;"| 53
+| style="background:#ccf; color:#000;"| 79
+| style="background:#ccf; color:#000;"| 58
+| style="background:#ccf; color:#000;"| 88
+|-
+! style="background:#9cc; color:navy; "| Số đơn vị hành chính
+| style="background: lavender; color:#000;" |5 phường, 2 xã
+| style="background: lavender; color:#000;" |1 thị trấn, 13 xã
+| style="background: lavender; color:#000;" |1 thị trấn, 10 xã 
+| style="background: lavender; color:#000;" |1 thị trấn, 16 xã
+| style="background: lavender; color:#000;" |1 thị trấn, 21 xã
+| style="background: lavender; color:#000;" |1 thị trấn, 12 xã
+| style="background: lavender; color:#000;" |1 thị trấn, 9 xã
+| style="background: lavender; color:#000;" |1 thị trấn, 11 xã
+|-
+! style="background:#9cc; color:navy; "| Năm thành lập
+| style="background: beige; color:#000;" |2013
+| style="background: beige; color:#000;" |1945
+| style="background: beige; color:#000;" |2012
+| style="background: beige; color:#000;" |1945
+| style="background: beige; color:#000;" |1945
+| style="background: beige; color:#000;" |2002
+| style="background: beige; color:#000;" |2008
+| style="background: beige; color:#000;" |1945
+|}
+
+==Dân số==
+
+Tỉnh Lai Châu là địa phương có mật độ dân số thấp nhất với 53 người/km2 (diện tích hơn 9.068 km2; dân số 478,4 nghìn người). Mật độ dân số trung bình của Việt Nam (297 người/km2) gấp 5,6 lần mật độ dân số của tỉnh Lai Châu.<ref>{{Chú thích web|url=https://cafef.vn/tinh-co-mat-do-dan-so-thap-nhat-viet-nam-188230401092749816.chn|tựa đề=Tỉnh có mật độ dân số thấp nhất Việt Nam|họ=VCCorp.vn|website=cafef|ngôn ngữ=vi|ngày truy cập=2023-11-15}}</ref>
+
+Tính đến ngày [[1 tháng 4]] năm [[2019]], toàn tỉnh có 5 [[tôn giáo]] khác nhau đạt 60.892 người, nhiều nhất là [[Kháng Cách|đạo Tin Lành]] có 57.226 người, tiếp theo là [[Công giáo tại Việt Nam|Công giáo]] đạt 3.577 người, [[Phật giáo Việt Nam|Phật giáo]] có 80 người. Còn lại các tôn giáo khác như [[Hồi giáo tại Việt Nam|Hồi giáo]] có bảy người và [[Phật giáo Hòa Hảo]] có hai người.<ref name="dstcdtvn">[http://www.gso.gov.vn/Modules/Doc_Download.aspx?DocID=12724 Kết quả toàn bộ Tổng điều tra Dân số và Nhà ở Việt Nam năm 2009], Tổng cục Thống kê Việt Nam.</ref>
+
+== Cơ sở hạ tầng ==
+[[Tập tin:laichautown.jpg|nhỏ|giữa|Quảng trường nhân dân tại Thành phố Lai Châu|222x222px]]
+Lai Châu là một tỉnh vùng cao biên giới, núi đồi dốc, địa hình chia cắt, xen kẽ nhiều thung lũng sâu và hẹp, lại có nhiều cao nguyên, sông suối nên khó khăn cho việc phát triển giao thông. Nhưng Lai Châu lại có đường biên giới dài 265,095&nbsp;km giáp tỉnh Vân Nam, nước [[Cộng hòa Nhân dân Trung Hoa]] với cửa khẩu song phương [[Khu kinh tế cửa khẩu Ma Lù Thàng|Ma Lù Thàng]] - Kim Thủy Hà là điều kiện thuận lợi cho việc giao thương hàng hoá và dịch vụ du lịch.
+
+Với mạng lưới giao thông chủ yếu là đường bộ. Tỉnh Lai Châu có [[quốc lộ 12]] chạy qua nối từ thành phố [[Điện Biên Phủ]] tới Trung Quốc (qua cửa khẩu Ma Lù Thàng), có [[quốc lộ 4|quốc lộ 4D]] nối tới thị trấn SaPa (Lào Cai), [[quốc lộ 32]] nối với tỉnh [[Yên Bái]], có đường thủy [[sông Đà]] giao lưu với các tỉnh [[Điện Biên]], [[Sơn La]], [[Hòa Bình]]. Tính đến nay đã có 95/98 xã, phường có đường ô tô đến tận trung tâm các xã, phường trên địa bàn toàn tỉnh và 3 xã đang trong giai đoạn xây dựng.
+
+Hạ tầng mạng lưới điện: Tính đến cuối năm 2009, 80/98 xã và 74% số hộ được sử dụng điện. Nhiều công trình thủy điện lớn đã và đang được xây dựng trên địa bàn như [[nhà máy thủy điện Sơn La|thủy điện Sơn La]] (2400MW), [[thủy điện Huội Quảng|Huội Quảng]] (520MW), [[thủy điện Bản Chát|Bản Chát]] (220MW), [[thủy điện Nậm Na 3|Nậm Na 3]] (84MW) và đặc biệt là [[nhà máy thủy điện Lai Châu|thủy điện Lai Châu]] (1.200MW) được khởi công vào cuối năm 2010, cùng với 60 dự án thủy điện vừa và nhỏ khác...
+
+Hạ tầng mạng lưới cấp thoát nước: Tính đến cuối năm 2009, 50% dân số đô thị trên địa bàn tỉnh được sử dụng nước sạch, 74% dân số nông thôn được sử dụng nước hợp vệ sinh.
+
+Tính đến cuối năm 2009, Lai Châu có 11 bưu cục, 68/89 xã có điểm bưu điện văn hoá xã, 22 đại lý bưu điện và điểm chuyển phát; có 29/89 xã, 06 thị trấn, 03/03 phường có báo phát hàng ngày; có 221 trạm BTS, tăng 111 trạm so với năm trước; mật độ điện thoại cố định là 16,2 máy/100 dân, tăng 143% so với năm 2008; dịch vụ Internet tiếp tục phát triển nhanh, mật độ 1,21 thuê bao/ 100 dân, tăng 162% so với năm 2008
+
+Năm học 2009-2010 có 392 trường với 5.759 lớp, tăng 27 trường, 306 lớp so với năm 2008-2009. Tổng số học sinh ra lớp là 104.209 học sinh, tăng 6.117 học sinh so với năm học trước. Tính đến cuối năm 2009, đã hoàn thành phổ cập giáo dục Trung học cơ sở 23 xã, đạt chuẩn phổ cập giáo dục tiểu học đúng độ tuổi.
+
+==Kinh tế==
+{{Chính|Danh sách đơn vị hành chính Việt Nam theo GRDP}}{{Chính|Danh sách đơn vị hành chính Việt Nam theo GRDP bình quân đầu người}}
+
+Sau khi tách tỉnh, Lai Châu là một trong những tỉnh khó khăn. Tuy nhiên, nền kinh tế Lai Châu đã phát triển và đạt được những kết quả quan trọng, tốc độ tăng trưởng kinh tế cao, cơ cấu kinh tế chuyển biến tích cực, cơ sở hạ tầng kinh tế - xã hội phát triển khá.
+Tốc độ tăng trưởng kinh tế GDP bình quân 13%/ năm, thu nhập bình quân đầu người năm 2010 đạt 8 triệu đồng, tăng 2,4 lần so với năm 2005. Cơ cấu kinh tế chuyển dịch theo hướng tích cực, tỷ trọng nông, lâm nghiệp đạt 34% (giảm 11,3%); công nghiệp – xây dựng 35% (tăng 9,6%); dịch vụ 31% (tăng 1,7%). Các ngành, lĩnh vực kinh tế đều có sự phát triển theo hướng sản xuất hàng hóa. Đã hình thành một số vùng sản xuất nông, lâm nghiệp tập trung, có triển vọng về hiệu quả kinh tế và xã hội; Sản xuất lương thực tăng cả về diện tích, năng suất và sản lượng, tổng sản lượng lương thực có hạt đạt 157 nghìn tấn, lương thực bình quân đầu người đạt 400&nbsp;kg/ người/ năm. Cây cao su được đầu tư trồng mới gần 7000 ha, tiếp tục thâm canh vùng chè và đưa thêm giống mới vào sản xuất. Kinh tế rừng phát triển với việc đã thu hút được một số doanh nghiệp đến đầu tư, phát triển rừng kinh tế. Trong 5 năm đã khoán bảo vệ 141 nghìn ha, khoanh nuôi tái sinh 117 nghìn ha, trồng mới trên 19 nghìn ha, tỷ lệ che phủ rừng đạt 41%, tăng 9,3% so với năm 2005; Văn hóa - xã hội tiếp tục có bước chuyển biến rõ nét, dân trí được nâng lên, công tác xóa đói giảm nghèo đạt kết quả tích cực; Quốc phòng - An ninh được đảm bảo, quan hệ đối ngoại được mở rộng; Năng lực lãnh đạo, sức chiến đấu của Đảng bộ được nâng lên...Được gắn với khu vực [[tam giác]] kinh tế [[Hà Nội]] – [[Hải Phòng]] – [[Quảng Ninh]] bằng các tuyến [[Quốc lộ 4|Quốc lộ 4D]], [[Quốc lộ 70]], [[Quốc lộ 32]] và đường thủy [[sông Đà]].
+
+*Nông nghiệp - Lâm nghiệp - Thủy sản: Xây dựng các vùng sản xuất hàng hóa tập trung, có những vùng đạt 30–50 triệu đồng/ha/năm tại các cánh đồng Mường So, Bình Lư, Mường Than. Duy trì và cải tạo, thâm canh và phát triển cây chè và cây thảo quả, đây là hai loại cây có thế mạnh trong việc xuất khẩu hàng hoá của tỉnh. Xã hội hoá nghề rừng, chuyển cơ bản từ lâm nghiệp truyền thống sang phát triển lâm nghiệp xã hội mang tính cộng đồng, phát triển rừng kinh tế để phục vụ cho ngành công nghiệp chế biến. Tổ chức sản xuất nông thôn theo hướng phát triển kinh tế trang trại, lấy kinh tế hộ làm đơn vị tự chủ, các DN, hợp tác xã nông lâm nghiệp là đơn vị dịch vụ hai đầu cho kinh tế hộ phát triển.
+*Công nghiệp: Đối với Lai Châu có thể coi đây là một ngành kinh tế mũi nhọn, kết hợp phục vụ sản xuất nông – lâm nghiệp. Tỉnh đã thông qua quy hoạch chi tiết các điểm có thể xây dựng nhà máy thủy điện, đặc biệt là công trình [[nhà máy thủy điện Lai Châu|thủy điện Lai Châu]]. Công nghiệp chế biến nông lâm sản cũng cần được quan tâm đúng mức. Công nghiệp khai thác và sản xuất vật liệu xây dựng tránh làm theo phương thức vụn vặt để dễ quản lý và khai thác có hiệu quả. Tiểu thủ công nghiệp với các ngành nghề truyền thống của địa phương như: mây tre đan, dệt thổ cẩm, lương thực thực phẩm...
+Ngày 06 tháng 10 năm 2022, Thủ tướng Chính phủ ban hành Quyết định 1182/QĐ-TTg về việc thành lập Ban Quản lý Khu kinh tế tỉnh Lai Châu<ref>{{Chú thích web|url=https://doc.vinaseco.vn/search/quyet-dinh-1182qd-ttg-cua-thu-tuong-chinh-phu-ve-viec-thanh-lap-ban-quan-ly-khu-kinh-te-tinh-lai-chau-1097735|tựa đề=Quyết định 1182/QĐ-TTg của Thủ tướng Chính phủ về việc thành lập Ban Quản lý Khu kinh tế tỉnh Lai Châu|họ=doc.vinaseco.vn|website=VinasDoc|ngôn ngữ=vi|ngày truy cập=2022-10-07|archive-date=2022-10-07|archive-url=https://web.archive.org/web/20221007014057/https://doc.vinaseco.vn/search/quyet-dinh-1182qd-ttg-cua-thu-tuong-chinh-phu-ve-viec-thanh-lap-ban-quan-ly-khu-kinh-te-tinh-lai-chau-1097735|url-status=dead}}</ref>
+
+== Ẩm thực ==
+Các đặc sản, ẩm thực ở Lai Châu như: lợn cắp nách, bánh bỏng San Thàng, gạo nếp Tan, mắc cọp Sìn Hồ, pa tỉnh tộp, chè san tuyết Sà Dề Phìn, rêu đá, rượu ngô Sùng Chô, bánh chưng đen, chè dây Ka Lăng, thịt sấy gác bếp, rau dớn, mật ong rừng Mường Tè, thắng cố, ớt trung đoàn Thu Lũm, gỏi cá, mắc khén, hạt dổi, cá bống vùi tro Vàng Pheo, gạo Dâu, chè san tuyết Tả Lèng, ve sầu rán, canh gà lá thuốc Dao Khâu Sìn Hồ, quả mắc có, đậu phụ nhự, rau ngót rừng, lam nhọ Lai Châu, rượu sâu chít, nấm hương rừng Phong Thổ, xôi màu xôi tím, sâu măng Sin Súi Hồ, quả óc cho, lá chua trộn thịt, tam thất đen Mường Tè, lòng tiết nhồi gạo nếp Sìn Hồ, thảo quả, phở nhắng Lai Châu, hoa đu đủ, đường phên Tả Lèng, canh tiết lá đắng, mận Sìn Hồ, măng, cá đắng Sàng Mà Pho, rau lá ngón Mường So, măng nộm hoa ban, chè xanh, gạo séng cù Than Uyên, miến rong Bình Lư, khâu nhục, lợn đen Mường Tè, dưa chuột mèo, măng lay chấm chéo.
+
+== Du lịch ==
+=== Du lịch văn hoá ===
+Lai Châu có 20 dân tộc, mỗi dân tộc đều có những nét riêng trong đời sống văn hoá truyền thống. 
+Chợ phiên vùng cao là nơi biểu hiện rất rõ những nét văn hoá đặc trư­ng đó.
+* Dinh thự [[Đèo Văn Long]] thuộc xã Lê Lợi – huyện [[Nậm Nhùn]], là khu dinh thự của vị chúa Thái thời [[Chiến tranh Đông Dương]]. Dinh thự trở thành di tích lịch sử, giáo dục lòng tự hào dân tộc và là nơi tham quan tìm hiểu những nét kiến trúc đặc trưng, mang bản sắc văn hóa Thái.
+* Bia Lê Lợi: được khắc trên vách đá bờ Bắc sông Đà, nay thuộc xã Lê Lợi – huyện Nậm Nhùn.
+* Di chỉ khảo cổ học nền văn minh của người Việt cổ như di tích Nậm Phé, [[Di chỉ Nậm Tun|Nậm Tun]] ở [[Phong Thổ]]; đã tìm thấy công cụ của thời kỳ đồ đá; những công cụ bằng đồng của nền văn hoá Đông Sơn thời đại [[Hùng Vương]], như­ trống đồng
+
+=== Lễ hội ===
+
+* Lễ hội Then Kin Pang: là lễ hội của người Thái trắng ở Phong Thổ được tổ chức vào ngày 13 - 15 tháng Ba âm lịch hàng năm. Lễ hội thu hút nhiều cư dân trong vùng đến vui chơi, múa hát. Lễ hội còn là dịp thi đánh đàn Tính Tẩu. Các nhạc cụ hòa âm với các quả nhạc đồng tạo nên không khí vui tươi, rộn rã.
+* Ngoài ra còn có lễ Hạn Khuống của người Thái, lễ cơm mới của người La Hủ, lễ hội xuân Căm Mường của người Lào, lễ hội bắt cá của người Kháng ở Than Uyên, lễ hội hoa ban, lễ hội mừng măng mọc...
+
+=== Cảnh quan thiên nhiên ===
+* Lai Châu có nhiều cao nguyên cao trên 1.500m, mây, sương phủ bốn mùa, khí hậu trong lành, mát lạnh quanh năm như: [[cao nguyên Sìn Hồ]], [[Hồ Thầu, Tam Đường|hồ Thầu]], Dào San...
+* Lai Châu có nhiều đỉnh núi cao, sông suối nhiều thác ghềnh, như: dãy Pu Sam Cáp (cao trên 1.700 m), [[sông Đà]], sông [[Nậm Na]], sông [[Nậm Mu]] ...
+* Suối nước nóng, nước khoáng là sản vật thiên nhiên tặng cho Lai Châu như núi đá Ô, động Tiên (Sìn Hồ); động Tiên Sơn (Bình Lư - Tam Đường), thác Tắc Tình (TT Tam Đường), suối nước nóng Vàng Bó (Phong Thổ); suối nước nóng Nà Đông, Nà Đon (Tam Đường); suối nước khoáng (Than Un);... và các hồ thủy điện lớn khác.
+* Pú Đao: Một bản người Mông nhỏ với 887 người dân ở tỉnh Lai Châu được khách hàng của một hãng lữ hành nước [[Anh]] bầu là một trong năm điểm đến hấp dẫn nhất ở [[Đông Nam Á]]. Xã Pú Đao (tiếng Mông có nghĩa là "điểm cao nhất") thuộc huyện Sìn Hồ, cách thị xã [[Mường Lay]] 13&nbsp;km.
+
+==Tham khảo==
+{{tham khảo|25em}}
+
+== Liên kết ngoài ==
+*[http://laichau.gov.vn/Default.aspx?tabid=76&catid=378&temidclicked=378 Cổng giao tiếp điện tử tỉnh Lai Châu] {{Webarchive|url=https://web.archive.org/web/20110308000431/http://laichau.gov.vn/Default.aspx?tabid=76&catid=378&temidclicked=378 |date = ngày 8 tháng 3 năm 2011}}
+
+{{Đơn vị hành chính thuộc tỉnh Lai Châu}}
+{{Đơn vị hành chính cấp tỉnh Việt Nam}}
+
+[[Thể loại:Lai Châu| ]]
+[[Thể loại:Tây Bắc Bộ]]

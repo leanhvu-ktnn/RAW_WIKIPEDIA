@@ -18,3 +18,7 @@ status: active
 ## Ưu tiên và thực trạng bổ sung
 
 Địa bàn trước, cơ quan sau. Đã bổ sung hợp đồng đề xuất INF–RAW 0.1.0, fixture và validator offline; chưa có inbox tích hợp INF, request thật, snapshot downloader hoặc crawl mới. Baseline audit 3.331 trang chưa đổi. Việc có schema không có nghĩa trao đổi hai hệ thống đã hoạt động.
+
+## Đợt tỉnh NQ202/2025 đã thực hiện
+
+Đã có downloader thực tế, pilot 5 target và gói 97 target (63 trước, 34 sau), kiểm định byte/revision/trích đoạn và chạy lại cache. [Runbook](crawl-province-2025.md) và [gói bàn giao](../packages/province-before-after-2025/report.md) ghi phạm vi công cụ và các trường chưa xác minh. Các mục “chưa có downloader/crawl mới” phía trên mô tả thời điểm thiết lập ban đầu; chưa có tích hợp ghi INF hoặc crawler production tổng quát.

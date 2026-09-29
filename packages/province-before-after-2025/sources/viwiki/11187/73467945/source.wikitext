@@ -1,0 +1,840 @@
+{{Chú thích trong bài|date=tháng 4/2024}}
+{{Thông tin đơn vị hành chính Việt Nam|tỉnh
+| tên = Bạc Liêu
+| biệt danh = Vùng đất công tử <br> Thủ phủ tôm <br> Quê hương đờn ca tài tử
+| logo = Logo tỉnh Bạc Liêu.svg
+| ghi chú logo = Biểu trưng
+| hình = Bạc Liêu windpower farm.jpg
+| ghi chú hình = Cánh đồng điện gió tại xã Vĩnh Trạch Đông, thành phố Bạc Liêu
+| vĩ độ = 9.312214
+| kinh độ = 105.493469
+| bản đồ 1 = {{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=2|stroke-color=#000000}}
+| diện tích = 2.667,88 km²<ref name="02/ĐA-UBND"/><ref name="area_2020">{{cite act|index=387/QĐ-BTNMT|title=Phê duyệt và công bố kết quả thống kê diện tích đất đai năm 2020|url=https://luatvietnam.vn/tai-nguyen/quyet-dinh-387-qd-btnmt-217769-d1.html|legislature=[[Bộ Tài nguyên và Môi trường (Việt Nam)]]|date= 2022| type = Quyết định}}</ref><ref name="Tổng_cục_Thống_kê_2022">{{Chú thích sách | author = [[Tổng cục Thống kê (Việt Nam)|Tổng cục Thống kê]] | year = 2022 | url = https://www.gso.gov.vn/wp-content/uploads/2022/08/Sach-Nien-giam-TK-2021.pdf | title = Niên giám Thống kê Việt Nam năm 2021 | publisher = Nhà Xuất bản Thống kê | access-date = 2022-08-01 | archive-date = 2022-08-01 | archive-url = https://web.archive.org/web/20220801122014/https://www.gso.gov.vn/wp-content/uploads/2022/08/Sach-Nien-giam-TK-2021.pdf|url-status=live}}</ref>{{rp|90}}
+| dân số = 1.043.764 người<ref name="02/ĐA-UBND"/>
+| thời điểm dân số = 31/12/2022
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:1.043.764|R}}/{{formatnum:2.667,88|R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Cửu Long]]
+| dân tộc = [[Người Việt|Kinh]], [[Người Hoa (Việt Nam)|Hoa]], [[Người Khmer (Việt Nam)|Khmer]]
+| tỉnh lỵ = [[Bạc Liêu (thành phố)|Thành phố Bạc Liêu]]
+| thành lập = 1/1/1900: thành lập<br>1/1/1997: tái lập
+| chủ tịch UBND = [[Phạm Văn Thiều]]
+| hội đồng nhân dân = 50 đại biểu
+| chủ tịch HĐND = [[Lữ Văn Hùng]] 
+| chủ tịch UBMTTQ = Nguyễn Văn Hòa
+| chánh án TAND = [[Đặng Quốc Khởi]]
+| viện trưởng VKSND = [[Trần Minh Tạo]]
+| bí thư = [[Lữ Văn Hùng]] 
+| đại biểu quốc hội = *[[Trần Thị Thu Đông]]
+*[[Nguyễn Văn Hận]]
+*[[Lữ Văn Hùng]]
+*[[Lê Thị Ngọc Linh]]
+*[[Trần Thị Hoa Ry]]
+*[[Nguyễn Huy Thái]]
+| phân chia hành chính = 1 thành phố, 1 thị xã, 5 huyện
+| trụ sở UBND = Số 05, Nguyễn Tất Thành, khóm 7, [[Phường 1, Bạc Liêu (thành phố)|phường 1]], [[Bạc Liêu (thành phố)|thành phố Bạc Liêu]]
+| thời điểm kinh tế = 2022
+| GRDP = 69.633 tỉ đồng (2,95 tỉ USD)
+| GRDP bình quân đầu người = 62,7 triệu đồng (2.649 USD)
+| mã địa lý = [[ISO 3166-2:VN|VN-55]]
+| mã hành chính = 95<ref name=DVHC>[https://danhmuchanhchinh.gso.gov.vn/ Tổng cục Thống kê]</ref>
+| mã bưu chính = [[Mã bưu chính Việt Nam|96xxxx]]
+| mã điện thoại = [[Mã điện thoại Việt Nam|291]]
+| biển số xe = [[Biển xe cơ giới Việt Nam|94]]
+| web = {{url|baclieu.gov.vn}}
+}}
+'''Bạc Liêu''' là một [[tỉnh]] ven biển thuộc vùng [[Đồng bằng sông Cửu Long]], nằm trên [[bán đảo Cà Mau]], miền đất cực nam của [[Việt Nam]].
+
+Tỉnh Bạc Liêu được thành lập ngày 20 tháng 12 năm 1899 và chính thức là đơn vị hành chính từ ngày 1 tháng 1 năm 1900. Ngày 22 tháng 10 năm 1956, tỉnh Bạc Liêu bị giải thể nhập vào tỉnh [[Ba Xuyên]]. Ngày 8 tháng 9 năm 1964, tỉnh Bạc Liêu được tái lập. Tháng 2 năm 1976, tỉnh Bạc Liêu lại bị giải thể, nhập vào tỉnh [[Minh Hải (tỉnh)|Minh Hải]]. Theo Nghị quyết của [[Quốc hội Việt Nam|Quốc hội]] ngày 6 tháng 11 năm 1996, tỉnh Bạc Liêu lại được tái lập từ ngày 1 tháng 1 năm 1997 và là một trong các đơn vị hành chính cấp tỉnh của Việt Nam cho đến nay.
+
+Năm 2018, Bạc Liêu là đơn vị hành chính [[Việt Nam]] đông thứ 46 về số dân, [[Danh sách đơn vị hành chính Việt Nam theo GRDP|xếp thứ 48]] về [[Tổng sản phẩm trên địa bàn (GRDP)]], [[Danh sách đơn vị hành chính Việt Nam theo GRDP bình quân đầu người|xếp thứ 39]] về [[Tổng sản phẩm trên địa bàn (GRDP)|GRDP]] bình quân đầu người, [[Danh sách đơn vị hành chính Việt Nam theo GRDP|đứng thứ 20]] về tốc độ tăng trưởng [[Tổng sản phẩm trên địa bàn (GRDP)|GRDP]]. Với dân số 892.930 người,<ref>{{Chú thích web|url=https://baclieu.gov.vn/vi/-/%C4%90i%E1%BB%81u-ki%E1%BB%87n-kinh-t%E1%BA%BF-x%C3%A3-h%E1%BB%99i|title=Điều kiện kinh tế - xã hội|last=|first=|date=|website=baclieu.gov.vn|archive-url=https://web.archive.org/web/20210904094314/https://baclieu.gov.vn/vi/-/%C4%90i%E1%BB%81u-ki%E1%BB%87n-kinh-t%E1%BA%BF-x%C3%A3-h%E1%BB%99i|archive-date=2021-09-04|url-status=dead|access-date=Ngày 4 tháng 9 năm 2021}}</ref> GRDP đạt 37.719 tỉ [[Đồng (đơn vị tiền tệ)|Đồng]] (tương ứng với 1,6382 tỉ USD), GRDP bình quân đầu người đạt 42,05 triệu đồng (tương ứng với 1.826 USD), tốc độ tăng trưởng GRDP đạt 8,36%.<ref name=":061">{{Chú thích web|url=http://www.baclieu.gov.vn/chinhtri/default.aspx?Source=/tintuc&Category=B%c3%a1o+c%c3%a1o+t%c3%acnh+h%c3%acnh+kinh+t%e1%ba%bf+-+x%c3%a3+h%e1%bb%99i&ItemID=9427&Mode=1|title=Tình hình kinh tế, xã hội Bạc Liêu năm 2018|last=|first=|date=|website=Cổng thông tin điện tử tỉnh Bạc Liêu|archive-url=https://web.archive.org/web/20230406143244/http://www.baclieu.gov.vn/chinhtri/default.aspx?Source=/tintuc&Category=B%C3%A1o+c%C3%A1o+t%C3%ACnh+h%C3%ACnh+kinh+t%E1%BA%BF+-+x%C3%A3+h%E1%BB%99i&ItemID=9427&Mode=1|archive-date=2023-04-06|url-status=dead|access-date=Ngày 12 tháng 10 năm 2019}}</ref>
+
+Bạc Liêu có nhiều dân tộc khác nhau sinh sống như người Hoa, người Việt, người Khmer, người Chăm... Người Bạc Liêu có phong cách phóng khoáng, đặc trưng của vùng [[Nam Bộ Việt Nam|Nam Bộ]]. Bạc Liêu có [[Công tử Bạc Liêu]] lừng danh một thuở giàu có và chịu chơi, ngoài ra vùng đất này còn gắn liền với tên tuổi của nhạc sĩ [[Cao Văn Lầu]] và bài [[Dạ cổ hoài lang]] đặt nền móng cho sự phát triển của nền cổ nhạc [[Nam Bộ Việt Nam|Nam Bộ]]. Bạc Liêu được nhiều người biết đến bởi nghề làm muối, muối Bạc Liêu xưa nay vốn nổi tiếng về chất lượng do không có vị đắng, chát và ít lẫn tạp chất. Thời [[Đế quốc thực dân Pháp|Pháp]], [[Đế quốc Mỹ|Mỹ]], hoạt động kinh doanh muối Bạc Liêu rất rộng lớn, chiếm cứ toàn vùng Nam Bộ, ra tới tận [[Phan Thiết]] miền Trung và đặc biệt giao lưu xuất khẩu theo đường sông Cửu Long qua [[Campuchia]], hiện nay nghề làm muối tuy không còn thịnh như trước nhưng Bạc Liêu vẫn là vùng sản xuất muối lớn nhất [[Đồng bằng sông Cửu Long|miền Tây]].
+
+==Nguồn gốc tên gọi==
+Tỉnh Bạc Liêu từ khi thành hình đã lấy tên của con rạch Bạc Liêu (có giả thuyết cho rằng do Poanh Liêu mà ra, tức là nơi có [[Người Lào|Đạo quân Lào]] trú đóng thời xưa).
+
+Tên gọi ''"Bạc Liêu"'', đọc giọng [[Triều Châu]] là "''Pô Léo''", có nghĩa là xóm nghèo, làm nghề hạ bạc, tức nghề chài lưới, đánh cá, đi biển. [[Pô]] phát âm theo tiếng [[Từ Hán-Việt|Hán Việt]] là "[[Bạc]]" và [[Léo]] phát âm là "[[Liêu]]". Sử nhà Nguyễn ghi địa danh này là Bạc Liêu 泊僚.<ref name=":0" />
+
+Ý kiến khác lại cho rằng "[[Pô]]" là "bót" hay "đồn", còn "[[Liêu]]" có nghĩa là "[[Lào]]" (Ai Lao) theo [[tiếng Khmer]], vì trước khi [[người Hoa]] kiều đến sinh sống, nơi đó có một đồn binh của người [[Lào]].
+
+Còn đối với người [[Pháp]], họ căn cứ vào tên Pô Léo theo tiếng [[Triều Châu]] nên họ gọi vùng đất này là Phêcheri - chaume có nghĩa là "''đánh cá và cỏ tranh''".
+
+Tuy nhiên cũng có ý kiến cho rằng tên gọi Bạc Liêu xuất phát từ tiếng [[Người Khmer (Việt Nam)|Khmer]] Po Loenh, nghĩa là cây đa cao.
+
+==Địa lý==
+===Vị trí địa lý===
+[[Hình: ngã tư cầu quay.jpg|nhỏ|250px|<center>Ngã tư cầu Kim Sơn, TP. Bạc Liêu]]
+
+Tỉnh Bạc Liêu nằm trên bán đảo Cà Mau, thuộc [[Đồng bằng sông Cửu Long]], với diện tích đất tự nhiên là 2.669 &nbsp;km², chiếm gần 0,8% diện tích cả nước và đứng thứ 7 trong khu vực [[Đồng bằng sông Cửu Long]], có vị trí địa lý:
+* Phía bắc giáp với tỉnh [[Hậu Giang]]
+* Phía đông và đông bắc giáp với tỉnh [[Sóc Trăng]]
+* Phía tây nam giáp với tỉnh [[Cà Mau]]
+* Phía tây bắc giáp với tỉnh [[Kiên Giang]]
+* Phía đông nam giáp với [[Biển Đông]] với đường bờ biển dài 56&nbsp;km.
+
+Tọa độ địa lý của tỉnh Bạc Liêu:
+*Điểm cực Bắc ở vĩ độ 9<sup>o</sup>37'00'' Bắc tại xã Vĩnh Lộc A, huyện Hồng Dân.
+*Điểm cực Nam ở Vĩ độ 9<sup>o</sup>00'00'' Bắc tại thị trấn Gành Hào, huyện Đông Hải.
+*Điểm cực Tây ở Kinh độ 105<sup>o</sup>15'00'' Đông tại xã Tân Thạnh, thị xã Giá Rai.
+*Điểm cực Đông ở Kinh độ 105<sup>o</sup>52'30'' Đông tại xã Hưng Thành, huyện Vĩnh Lợi.
+
+Vùng biển thuộc quyền quản lý của tỉnh Bạc Liêu rộng hơn 40.000&nbsp;km² là một vùng biển giàu tiềm năng, nguồn lợi hải sản rất phong phú và đa dạng.
+
+Bạc Liêu nằm ở vị trí trung chuyển trên tuyến đường giao thông huyết mạch quan trọng của cả nước (Quốc lộ 1), cách thành phố [[Cần Thơ]] khoảng 110&nbsp;km và [[Thành phố Hồ Chí Minh]] khoảng 280&nbsp;km về phía Bắc; hiện nay còn có các tuyến đường mới như Nam Sông Hậu, Ngã Bảy (tỉnh Hậu Giang) đến thành phố Cà Mau (Quản Lộ - Phụng Hiệp) đi qua địa phận tỉnh Bạc Liêu. Đây là điều kiện rất thuận lợi cho Bạc Liêu trong sự giao lưu, phát triển kinh tế xã hội.
+
+===Điều kiện tự nhiên===
+
+'''I. Địa hình'''
+
+Bạc Liêu có địa hình khá bằng phẳng, không có đồi, núi chính và thấp vì lẽ đó cũng không có các chấn động địa chất lớn. Địa hình chủ yếu là đồng bằng, sông rạch và kênh đào chằng chịt. Độ cao khoảng từ 0,8 đến 1,5 m so với mặt biển. Hướng nghiêng đia hình từ đông bắc xuống tây nam, độ nghiêng trung bình từ 1 đến 1,5&nbsp;cm/km. Trong vùng có nhiều ô trũng như: các huyện Hồng Dân, Phước Long và thị xã Giá Rai thuộc vùng trũng của trung tâm bán đảo Cà Mau. Các giồng cat ven biển tạo hướng nghiêng từ biển vào trong nội đồng. Trên địa bàn tỉnh có nhiều kênh rạch lớn như: Quản Lộ - Phụng Hiệp, kênh Cạnh Điền, kênh Phó Sinh, kênh Giá Rai chia cắt địa hình của tỉnh.
+
+Thềm lục địa mở rộng, biển nông và bãi biển thoải từ 3<sup>0</sup> đến 7<sup>0</sup>, dòng biển Đông Bắc ổn định, có vai trò quan trọng trong bồi tụ, mỗi năm mở rộng thêm ra biển hơn 30 m tạo nên các bãi bồi. Bãi bồi mở tới đâu thì rừng ngập mặn tiến ra tới đó. Tuy nhiên, đoạn từ Ấp Gò Cát (xã Điền Hải) tới thị trấn Gành Hào (huyện Đông Hải) lại đang diễn ra quá trình sạt lở cửa sông và bờ biển lại rất mạnh, khoảng 10 m/năm.
+
+Con người tác động rất đáng kể đến địa hình hiện tại của tỉnh. Hàng trăm cây số kênh mương, đường sá với hàng triệu mét khối đất đào đắp, việc cải tạo những vùng đất phèn qua nhiều làm thế hệ đã làm thay đổi nhiều bề mặt địa hình của tỉnh. Từ vùng hoang hóa trở thành vùng nông nghiệp, nuôi trồng thủy sản có giá trị kinh tế.
+
+'''II. Khí hậu'''
+
+Bạc Liêu nằm ở vĩ độ thấp, trong khu vực gió mùa nên khí hậu Bạc Liêu mang tính chất cận xích đạo gió mùa (nhiệt đới gió mùa) rất điển hình, với nền nhiệt cai và ổn định, biên nhiệt dao động trong năm nhỏ, lượng mưa lớn, mưa theo mùa và thất thường.
+
+''1. Nhiệt độ''
+
+Do góc nhập xạ quanh năm lớn nên tổng lượng bức xạ Mặt Trời lớn.
+Nhiệt độ trung bình năm dao dộng trong khoảng 26 - 27<sup>0</sup>C. Tháng nóng nhất là tháng 5 nhiệt độ 35 - 36<sup>0</sup>C và có khi lên tới 37<sup>0</sup>C, có nhiệt độ trung bình trên 29<sup>0</sup>C và tháng thấp nhất là tháng 1 nhiệt độ 20<sup>0</sup>C và có khi từ 18 - 20<sup>0</sup>C, có nhiệt độ trung dưới 25<sup>0</sup>C. Biên độ nhiệt năm trung bình khoảng 3,6<sup>0</sup>C. Bạc Liêu có bờ biển khá dài, ven biển và trong đất liền nên có tiềm năng lớn về phát triển điện mặt trời.
+
+''2. Lượng mưa''
+
+Bạc Liêu có lượng mưa vào loại trung bình so với khu vực Đồng bằng sông Cửu Long. Lượng mưa trung bình năm khoảng trên 1700&nbsp;mm/năm.
+
+Mưa tập trung chủ yếu vào mùa mưa (từ tháng 5 đến tháng 11), chiếm khoảng hơn 93% tổng lượng mưa cả năm. Mùa khô từ tháng 12 đến tháng 4 năm sau, lượng mưa không đáng kể.
+
+Mưa không đều giữa các địa phương trong tỉnh, lượng mưa giảm dần từ tây sang đông, giảm dần từ nội địa ra biển. Khu vực giáp các tỉnh Cà Mau, Kiên Giang, vùng tây: thị xã Giá Rai và các huyện Phước Long, Hồng Dân có lượng mưa trung bình khoảng 2000&nbsp;mm/năm. Khu vực từ thị xã Giá Rai đến huyện Hòa Bình có lượng mưa trung bình khoảng từ 1800 đến 2000&nbsp;mm/năm, khu vực đông bắc: huyện Vĩnh Lợi có lượng mưa trung bình khoảng từ 1600 đến 1800&nbsp;mm/năm. Riêng vùng ven biển từ xã Hiệp Thành (thành phố Bạc Liêu) đến thị trấn Gành Hào (huyện Đông Hải) lượng mưa thường ít hơn, khoảng 1600&nbsp;mm/năm. Lượng mưa không đều theo các năm, có năm mưa nhiều, có năm mưa ít.
+
+Mưa thường diễn ra theo từng đợt, một đợt mưa có thể kéo dài từ 7 ngày tới 20 ngày, trường hợp cá biệt có thể tới hơn 1 tháng. Giữa hai đợt mưa có một đợt khoảng thời gian không mưa hoặc ít mưa, khoảng thời gian này có thể kéo dài hàng tuần, cá biệt có thể kéo dài hàng tháng gây hạn hán ngay trong mùa mưa, đó là ''hạn bà chằng''. Phần lớn các địa phương trong tỉnh nằm trong khu vực có ''hạn bà chằng''. Do đó, sản xuất nông nghiệp ở Bạc Liêu từ trồng lúa đến nuôi trồng thủy hải sản cần chú ý tới đặc điểm này. Bên cạnh đó, đầu và cuối mùa mưa thường xuất hiện hiện tượng giông sét rất nguy hiểm, đe dọa đến tính mạng của nhân dân.
+
+''3. Gió''
+
+Nằm trong khu vực gió mùa nên Bạc Liêu có hai mùa gió:
+
+- Gió mùa mùa hạ: Thổi từ cuối tháng 4 đến tháng 10, hướng gió chủ yếu là Tây và Tây Nam mang theo lượng mưa lớn cho vùng. Bạc Liêu ít chịu ảnh hưởng của bão và áp thấp nhiệt đới. Vào mùa này, đôi khi có hiện tượng giông sét và vòi rồng, có gió giật mạnh gây thiệt hại nghiêm trọng cho sản xuất và đời sống nhân dân.
+
+- Gió mùa mùa đông: Hoạt động từ tháng 11 đến tháng 4 năm sau. Hướng gió chính là hướng Đông, ngoài ra có gió thổi theo hướng Đông Bắc (thường vào tháng 11 và tháng 12), Đông Nam (thổi vào tháng 2, 3, 4) và hướng Đông Bắc (thổi xen kẽ với gió Đông và Đông Bắc trong tháng 11 và tháng 12). Những tháng chuyển tiếp từ chế độ gió mùa mùa hạ qua gió mùa đông thường xuất hiện gió Đông và Tây.
+
+Bạc Liêu có bờ biển khá dài, ven biển gió thổi mạnh nên có tiềm năng lớn về phát triển điện gió.
+
+'''III. Sông ngòi và nước ngầm'''
+
+''1. Sông ngòi''
+
+Hệ thống sông rạch ở Bạc Liêu chủ yếu là kênh đào, với mật độ cao, phân bố đều, có vai trò quan trọng trong tưới tiêu, thâm canh, tăng vụ, đặc biệt là rửa phèn, rửa mặn cho đất. Do ảnh hưởng của biển nên hầu hết các hệ thống sông rạch của tỉnh có vai trò như những lạch truyền triều. Chế độ nước của các dòng sông phụ thuộc vào chế độ triều và chế độ mưa. Đây là điều kiện thuận lợi để Bạc Liêu phát triển nuôi trồng thủy hải sản, làm muối và mở rộng diện tích rừng ngập mặn. Tuy nhiên, ảnh hưởng của thủy triều cũng làm cho nhiều vùng đất đang bị mặn hóa, triều cường đã ảnh hưởng nghiêm trọng đến đời sống người dân vùng phía Nam Quốc lộ 1.
+
+''2. Nước ngầm''
+
+Đây là nguồn nước rất quan trọng cung cấp nước ngọt sinh hoạt và sản xuất của tỉnh, có 3 tầng nước: tầng Plêitôxin, Plêiôxen và Miôxen. Tuy trữ lượng nước ngầm khá phong phú, song việc khai thác, sử dụng cũng cần tiết kiệm và tránh gây ô nhiễm môi trường.
+
+Hệ thống sông ngòi tại Bạc Liêu chia làm hai nhóm:
+
+* Nhóm 1 chảy ra hải lưu phía nam:
+
+[[Hình: Sông Gành Hào.jpeg|nhỏ|giữa |250px|<center>Sông Gành Hào, ranh giới tự nhiên<br>giữa tỉnh Bạc Liêu và tỉnh Cà Mau]]
+
+* Nhóm 2 chảy ra [[sông Hậu|sông Ba Thắc]].
+
+[[Hình: Sôngcáiblhg.jpg|nhỏ|giữa |250px|<center>Sông Cái, ranh giới tự nhiên<br>giữa tỉnh Bạc Liêu và tỉnh Hậu Giang]]
+
+[[Hình: Kênh Nhà Mát.jpg|nhỏ|giữa|250px|<center>Kênh Nhà Mát ở TP. Bạc Liêu]]
+
+'''IV. Thổ nhưỡng'''
+
+''Đất ở Bạc Liêu gồm:''
+
+- Đất phèn hoạt động: diện tích 93.265 ha, chiếm 38,6%. Phân bố ở các huyện Hồng Dân, Phước Long và thị xã Giá Rai. Đất này được cải tạo thông qua chương trình ''ngọt hóa'', một phần đang chuyển đổi để phát triển nông nghiệp với hệ thống canh tác mới: lúa - tôm, lúa - cá.
+
+- Đất mặn: đất phù sa được tích tụ trong môi trường nước mặn, có diện tích là 80.863 ha, chiếm 33,6%. Phân bố dọc bờ biển và khu vực phía Nam Quốc lộ 1. Chia làm 4 nhóm phụ: mặn nhiều, mặn trung bình, mặn ít và đất rừng ngập mặn.
+
+- Đất phèn tiềm tàng: hình thành những vùng đất trẻ, còn bị nhiễm mặn, khả năng thoát nước kém. Diện tích khoảng 55.584 ha, chiếm 23,1%. Phân bố ở một số xã phía tây huyện Đông Hải và một số xã tây bắc huyện Hồng Dân, đang được khai thác nuôi trồng thủy sản và trồng cây công nghiệp như mía, khóm, tràm, bạch đàn, trúc.
+
+- Đất bãi bồi và đất khác: diện tích hơn 10.000 ha, chiếm 4,5%. Phân bố ở vùng ven biển của thành phố Bạc Liêu, các huyện Hoà Bình, Đông Hải và ven kênh rạch các huyện, thị xã trong nội địa. Phần lớn còn hoang hóa.
+
+- Đất cát giồng: diện tích 447 ha, chiếm 0,2%. Phân bố ở ven biển các xã Vĩnh Trạch Đông, Hiệp Thành (thành phố Bạc Liêu) và xã Vĩnh Hậu (huyện Hoà Bình). Nhãn là loại cây ăn trái có mặt hàng trăm năm, là cây trồng chính trên đất này và còn là vùng chuyên canh rau, củ, hoa màu của tỉnh.
+
+Tổng diện tích đất tự nhiên của tỉnh là 258.247 ha. Trong đó, đất nông nghiệp có 98.309 ha; đất nuôi trồng thủy sản và đất muối có 120.714 ha; đất lâm nghiệp có rừng 4.832 ha; đất chuyên dùng 11.323 ha; đất ở 4.176 ha, còn lại là đất chưa sử dụng. Đất có khả năng trồng lúa, cây lâu năm, màu và cây công nghiệp hàng năm là 98.295 ha, chiếm 38,1% tổng diện tích đất; đất có khả năng trồng rừng, nuôi tôm, làm muối 125.546 ha, chiếm 48,62%. Phần lớn đất đai của Bạc Liêu là đất phù sa bồi đắp lâu năm và ổn định, thích hợp với việc phát triển nền nông nghiệp toàn diện.
+
+'''V. Sinh vật'''
+
+''1. Tài nguyên rừng''
+
+Diện tích rừng và đất rừng 4.657 ha, chiếm 1,87% diện tích đất tự nhiên, trong đó chủ yếu là rừng phòng hộ. Rừng Bạc Liêu là rừng ngập mặn, có năng suất sinh học cao, có giá trị lớn về phòng hộ và môi trường các loại cây ở đây chủ yếu là cây mấy (còn gọi là cây mắm), tràm, cây đước. Bạc Liêu thuộc hệ sinh thái rừng ngập mặn các rừng chủ yến như rừng tràm, chà là, giá, cóc, lâm vồ,... Bên dưới là thảm thực vật gồm cỏ và các loài dây leo. Rừng Bạc Liêu có 104 loài thực vật.
+
+''2. Động vật''
+
+Động vật trên cạn có nhiều loài, số lượng lớn. Chim là động vật có số lượng lớn nhất. Các loài chim như cồng cộc, bồ nông, cò trắng, cờ đen, diệc, chim cuốc, bìm bịp,... Cư trú và sinh sản tại các cánh rừng ngập mặn hoặc những vạc rừng trồng phân tán trong khu dân cư. Bò sát có 12 loài như trăn, rắn, kì đà, kì nhông, tắc kè, thằn lằn, rắn mối,... Một số loài sống dưới đất, làm hang và sinh sản ở các gò đất cao, một số loài sống trên cây. Một số loài quý hiếm như rắn hổ mang, cò quắm trắng có trong sách đỏ Việt Nam. Tuy nhiên, có nhiều loài có hại như chuột và côn trùng phát triển nhanh, phá hoại mùa màng, làm giảm năng suất cây trồng, vật nuôi.
+
+Động vật dưới nước rất phong phú, thủy sản nước mặn như cá: hồng, thu, chim,... Nguồn thủy sản nước ngọt gồm 14 loài cá đồng, ưu thế là cá: lóc, trê, rô, thát lát, ltôm càng,... Thủy sản nước lợ gồm cá: keo, đối, tôm, cua, sò,...
+
+'''Biển'''
+
+Động vật biển bao gồm 661 loài cá, 319 giống thuộc 138 họ. Trong đó nhiều loại có trữ lượng và giá trị cao như tôm, cá hồng, cá gộc, cá sao, cá thu, cá chim, cá đường... Tôm biển có 33 loài khác nhau, có thể đánh bắt hơn 10.000 tấn/năm. Trữ lượng cá đáy và cá nổi hơn 100.000 tấn/năm, có thể trở thành nơi xuất, nhập khẩu trực tiếp. Bạc Liêu có bờ biển dài 56&nbsp;km. Biển Bạc Liêu có nhiều loài tôm, cá, ốc, sò huyết. Hàng năm, sản lượng khai thác đạt gần 100 nghìn tấn cá, tôm. Trong đó, sản lượng tôm gần 10 nghìn tấn.
+
+==Hành chính==
+*''Bài chi tiết: [[Bản mẫu:Đơn vị hành chính thuộc tỉnh Bạc Liêu|Danh sách các đơn vị hành chính của Bạc Liêu]]
+Hiện nay, tỉnh Bạc Liêu có 7 đơn vị hành chính cấp [[huyện]], bao gồm 1 [[thành phố]], 1 [[thị xã]] và 5 [[huyện]], trong đó có 64 đơn vị hành chính cấp [[xã]], gồm có 10 [[phường]], 5 [[thị trấn]] và 49 [[xã]]<ref name="1254/NQ-UBTVQH15">{{Chú thích web|url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=90595|tựa đề= Nghị quyết số 1254/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh Bạc Liêu giai đoạn 2023 – 2025 |tác giả=|ngày= 2024-10-24 |website= Cổng thông tin điện tử Quốc hội Việt Nam |url lưu trữ=https://web.archive.org/web/20241102122247/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=90595|ngày lưu trữ= 2024-11-02 |ngày truy cập= 2024-11-02 |url-status= live }}</ref> (bao gồm 512 khóm, ấp).
+<center>{{Location mark+
+ | width=450
+ | image=baclieu_prov_admin_map.jpg
+ | caption=Bản đồ hành chính tỉnh Bạc Liêu
+ | type = 
+ | float = none
+ | marks =
+ {{Location mark~
+  | label = '''[[Bạc Liêu (thành phố)|Thành phố Bạc Liêu]]'''
+  | position = top
+  | width = 450
+  | mark = Blanksvg.svg
+  | x = 839 | y = 632 }}
+  {{Location mark~
+  | label = '''''[[Giá Rai|Thị xã Giá Rai]]'''''
+  | position = top
+  | width = 450
+  | mark = Blanksvg.svg
+  | x = 303 | y = 637 }}
+ {{Location mark~
+  | label = ''[[Hồng Dân|Huyện Hồng Dân]]''
+  | position = top
+  | width = 450
+  | mark = Blanksvg.svg
+  | x = 303 | y = 238 }}
+  {{Location mark~
+  | label = ''[[Phước Long (huyện)|Huyện Phước Long]]''
+  | position = top
+  | width = 450
+  | mark = Blanksvg.svg
+  | x = 354 | y = 431 }}
+  {{Location mark~
+  | label = ''[[Đông Hải (huyện)|Huyện Đông Hải]]''
+  | position = top
+  | width = 450
+  | mark = Blanksvg.svg
+  | x = 324 | y = 844 }}
+  {{Location mark~
+  | label = ''[[Hòa Bình (huyện)|Huyện Hòa Bình]]''
+  | position = top
+  | width = 450
+  | mark = Blanksvg.svg
+  | x = 618 | y = 682 }}
+  {{Location mark~
+  | label = ''[[Vĩnh Lợi|Huyện Vĩnh Lợi]]''
+  | position = top
+  | width = 450
+  | mark = Blanksvg.svg
+  | x = 746 | y = 498 }}
+{{Location mark~
+  | label = [[Cà Mau|Tỉnh Cà Mau]]
+  | position = top
+  | width = 450
+  | mark = Blanksvg.svg
+  | x = 125 | y = 990 }}
+{{Location mark~
+  | label = [[Kiên Giang|Tỉnh Kiên Giang]]
+  | position = top
+  | width = 450
+  | mark = Blanksvg.svg
+  | x = 62 | y = 190 }}
+{{Location mark~
+  | label = [[Hậu Giang|Tỉnh Hậu Giang]]
+  | position = top
+  | width = 450
+  | mark = Blanksvg.svg
+  | x = 438 | y = 78 }}
+{{Location mark~
+  | label = [[Sóc Trăng|Tỉnh Sóc Trăng]]
+  | position = top
+  | width = 450
+  | mark = Blanksvg.svg
+  | x = 842 | y = 285 }}
+{{Location mark~
+  | label = [[Biển Đông]]
+  | position = top
+  | width = 450
+  | mark = Blanksvg.svg
+  | x = 750 | y = 890 }}
+}}
+'''Bản đồ hành chính tỉnh Bạc Liêu'''
+</center>
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! style="background: #E6E6FA; font-size: 95%;" |Danh sách các đơn vị hành chính trực thuộc tỉnh Bạc Liêu<ref name="02/ĐA-UBND"/>
+|-
+| valign="top" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Diện tích năm 2022 (km²)
+! style="border-bottom: 2px solid #CCCCFF;" |Dân số năm 2022 (người)
+! style="border-bottom: 2px solid #CCCCFF;" |Mật độ dân số (người/km²)
+! style="border-bottom: 2px solid #CCCCFF;" |Năm thành lập
+! style="border-bottom: 2px solid #CCCCFF;" |Loại đô thị
+! style="border-bottom: 2px solid #CCCCFF;" |Hành chính
+|-
+| colspan="7" align="left" style="background: #F5F5DC; padding-left: 30px;" |'''[[Thành phố thuộc tỉnh (Việt Nam)|Thành phố]] (1)'''
+|-
+| align="left" style="padding-left: 6px; white-space:nowrap" |[[Bạc Liêu (thành phố)|Bạc Liêu]]
+| style="text-align: center;" |213,72
+| style="text-align: center;" |168.463
+| style="text-align: center;" |{{formatnum:{{#expr:floor({{formatnum:168.463|R}}/{{formatnum:213,72|R}})}} }}
+| style="text-align: center;" |2010
+| style="text-align: center;" |[[Đô thị loại II (Việt Nam)|Loại II]]
+|''7 phường, 3 xã''
+|-
+| colspan="7" align="left" style="background: #F5F5DC; padding-left: 30px;" |'''[[Thị xã (Việt Nam)|Thị xã]] (1)'''
+|-
+| align="left" style="padding-left: 6px; white-space:nowrap" |[[Giá Rai]]
+| style="text-align: center;" |353,99
+| style="text-align: center;" |166.324
+| style="text-align: center;" |{{formatnum:{{#expr:floor({{formatnum:166.324|R}}/{{formatnum:353,99|R}})}} }}
+| style="text-align: center;" |2015
+| style="text-align: center;" |[[Đô thị loại IV (Việt Nam)|Loại IV]]
+|''3 phường, 7 xã''
+|-
+| colspan="7" align="left" style="background: #F5F5DC; padding-left: 30px;" |'''[[Huyện]] (5)'''
+|-
+| align="left" style="padding-left: 6px; white-space:nowrap" |[[Đông Hải (huyện)|Đông Hải]]
+| style="text-align: center;" |579,53
+| style="text-align: center;" |172.786
+| style="text-align: center;" |{{formatnum:{{#expr:floor({{formatnum:172.786|R}}/{{formatnum:579,53|R}})}} }}
+| style="text-align: center;" |2002
+| style="text-align: center;" |
+|''1 thị trấn, 10 xã''
+|- bgcolor="#f5f5f5"
+| align="left" style="padding-left: 6px; white-space:nowrap" |[[Hòa Bình (huyện)|Hòa Bình]]
+| style="text-align: center;" |426,69
+| style="text-align: center;" |137.659
+| style="text-align: center;" |{{formatnum:{{#expr:floor({{formatnum:137.659|R}}/{{formatnum:426,69|R}})}} }}
+| style="text-align: center;" |2005
+| style="text-align: center;" |
+|''1 thị trấn, 7 xã''
+|-
+| align="left" style="padding-left: 6px; white-space:nowrap" |[[Hồng Dân]]
+| style="text-align: center;" |423,79
+| style="text-align: center;" |131.960
+| style="text-align: center;" |{{formatnum:{{#expr:floor({{formatnum:131.960|R}}/{{formatnum:423,79|R}})}} }}
+| style="text-align: center;" |1947
+| style="text-align: center;" |
+|''1 thị trấn, 8 xã''
+|- bgcolor="#f5f5f5"
+| align="left" style="padding-left: 6px; white-space:nowrap" |[[Phước Long (huyện)|Phước Long]]
+| style="text-align: center;" |417,92
+| style="text-align: center;" |147.885
+| style="text-align: center;" |{{formatnum:{{#expr:floor({{formatnum:147.885|R}}/{{formatnum:417,92|R}})}} }}
+| style="text-align: center;" |1920
+| style="text-align: center;" |
+|''1 thị trấn, 7 xã''
+|-
+| align="left" style="padding-left: 6px; white-space:nowrap" |[[Vĩnh Lợi]]
+| style="text-align: center;" |252,25
+| style="text-align: center;" |118.737
+| style="text-align: center;" |{{formatnum:{{#expr:floor({{formatnum:118.737|R}}/{{formatnum:252,25|R}})}} }}
+| style="text-align: center;" |1900
+| style="text-align: center;" |
+|''1 thị trấn, 7 xã''
+|}
+|}
+Theo quyết định Quy hoạch số 241/QĐ-TTg của [[Thủ tướng Chính phủ nước Cộng hòa xã hội chủ nghĩa Việt Nam|Thủ tướng Chính phủ]] [[Phạm Minh Chính]] trong giai đoạn 2021 – 2030: [[Bạc Liêu (thành phố)|thành phố Bạc Liêu]] sẽ từ đô thị loại II tiến lên đô thị loại I; [[Giá Rai|thị xã Giá Rai]] từ đô thị loại IV lên đô thị loại III; các đô thị loại V như [[Gành Hào]] (huyện [[Đông Hải (huyện)|Đông Hải]]), [[Hòa Bình (thị trấn)|Hòa Bình]] (huyện [[Hòa Bình (huyện)|Hòa Bình]]), [[Phước Long (thị trấn)|Phước Long]] (huyện [[Phước Long (huyện)|Phước Long]]), [[Châu Hưng (thị trấn)|Châu Hưng]] (huyện [[Vĩnh Lợi]]), [[Ngan Dừa]] (huyện [[Hồng Dân]]) sẽ lên đô thị loại IV.<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Quyet-dinh-241-QD-TTg-2021-Ke-hoach-phan-loai-do-thi-toan-quoc-giai-doan-2021-2030-465826.aspx|tựa đề=Quyết định 241/QĐ-TTg 2021 Kế hoạch phân loại đô thị toàn quốc giai đoạn 2021 2030|ngày=2021-02-24|website=Thư viện pháp luật|url-status=live|ngày truy cập=2023-01-22}}</ref>
+
+==Lịch sử==
+{{main|Lịch sử hành chính Bạc Liêu}}
+Bạc Liêu từng là vùng đất có một vị trí quan trọng trong chiến lược khai thác và xây dựng vùng [[Đồng bằng sông Cửu Long]] của người Pháp, được người Pháp lên kế hoạch xây dựng thành trung tâm hành chính của miền Tây, đồng thời đầu tư nhiều tiền của xây cất dinh thự và công sở tại đây. Bạc Liêu cũng là vùng đất có nhiều người Hoa sinh sống qua câu ca dao: 
+{{cquote|''Bạc Liêu là xứ cơ cầu''<br>
+''Dưới sông cá chốt trên bờ [[Triều Châu]]''.|||[[Ca dao]] }}
+
+===Thời phong kiến===
+Năm [[1680]], [[Mạc Cửu]] với vai trò là một di thần [[nhà Minh]] ở [[Trung Quốc]] đến vùng [[Hà Tiên (tỉnh)|Mang Khảm]] chiêu tập một số lưu dân [[người Việt]], [[người Hoa]] cư trú ở [[Hà Tiên (tỉnh)|Mang Khảm]], [[Phú Quốc]], [[Rạch Giá]], [[Long Xuyên]] (Cà Mau), [[Luống Cày]] (Lũng Kỳ), [[Sihanoukville (thành phố)|Hương Úc]] (tức Vũng Thơm hay Kompong som), [[Kam pốt|Cần Bột]] (Kampốt) lập ra những thôn xóm đầu tiên trên vùng đất Bạc Liêu.
+
+Năm [[1708]], [[Mạc Cửu]] dâng vùng đất [[Hà Tiên (tỉnh)|Mang Khảm]] cho chúa [[Nguyễn Phúc Chu]]. Chúa [[Nguyễn Phúc Chu]] đặt tên toàn bộ thôn xóm vùng này là trấn [[Hà Tiên (tỉnh)|Hà Tiên]], lúc này [[Mạc Cửu]] được phong làm Tổng binh trấn [[Hà Tiên (tỉnh)|Hà Tiên]], với tước Cửu Ngọc Hầu. [[Mạc Cửu]] lập dinh trại đồn trú tại [[Phương Thành]], dân cư ngày càng đông đúc hơn.
+
+Năm [[1757]], chúa [[Nguyễn Phúc Khoát]] thu nhập thêm vùng đất [[Sông Hậu|Ba Thắc]], lập ra [[Trấn Giang]] (Cần Thơ), [[Trấn Di]] ([[Sóc Trăng]], Bạc Liêu). Toàn bộ vùng đất phương Nam thuộc về [[chúa Nguyễn]].
+
+Đến năm [[1777]], [[Trấn Giang]], [[Trấn Di]] được bãi bỏ.
+
+Năm [[1802]], [[gia Long|vua Gia Long]] lên ngôi. Năm [[1808]], trấn [[Gia Định]] đổi là thành [[Gia Định]] cai quản 5 trấn là [[Thành Gia Định|Phiên An]], [[Biên Hòa|Biên Hoà]], [[Định Tường]], [[Vĩnh Thanh (trấn)|Vĩnh Thanh]] (tức Vĩnh Long), [[Hà Tiên (tỉnh)|Hà Tiên]]
+
+Năm [[1832]], vua [[Minh Mạng]] bỏ thành [[Gia Định]], chia Nam Kỳ thành lục tỉnh là [[Biên Hòa (tỉnh)|Biên Hòa]], [[Gia Định (tỉnh)|Gia Định]], [[Định Tường]], [[Vĩnh Long]], [[An Giang]], [[Hà Tiên (tỉnh)|Hà Tiên]], bao gồm đất từ [[Hà Tiên (tỉnh)|Hà Tiên]] đến [[Cà Mau]]. Phần đất [[an Giang|tỉnh An Giang]], tính từ [[Châu Đốc]] đến [[Sóc Trăng]] và Bạc Liêu tính đến cửa biển Gành Hào.
+
+Năm Quý Mão, [[Thiệu Trị]] năm thứ 3 [<nowiki/>[[1843]]]:<ref name=":0">Quốc sử quán triều Nguyễn, Đại Nam thực lục (tập 06). Bản dịch của Trung tâm khoa học xã hội và nhân văn quốc gia, Viện sử học Quốc sử quán triều Nguyễn, Tổ Phiên dịch Viện Sử học phiên dịch. Nhà xuất bản Giáo Dục xuất bản năm 2007.</ref> ''Lập thêm sổ bang người nhà Thanh ở tỉnh An Giang. Nguyên 2 sách Bạc Liêu 泊僚 và Trà Nhu (ở huyện Phong Thịnh) tỉnh An Giang người Thanh đến ở có tới hơn 100 hộ, quan tỉnh tâu xin lập riêng danh hiệu hàng bang (ở sách Bạc Liêu, gọi là bang Triều Châu thứ 15 ; ở sách Trà Nhu, gọi là bang thứ 16), mỗi bang đặt 1 bang trưởng. Thuế, khóa đến sang năm bắt đầu thu.''
+
+Thời vua [[Tự Đức]], vùng này thuộc phủ Ba Xuyên, rồi sau đó lại tách ra lập thành huyện Phong Thạnh trực thuộc phủ Ba Xuyên, tỉnh [[An Giang]].
+
+===Thời Pháp thuộc===
+[[Tập tin:Bac Lieu Province 1896.jpg|300px|phải|nhỏ|Bản đồ hạt Bạc Liêu năm 1896]]
+[[Tập tin:Rach Gia Province.jpg|300px|phải|nhỏ|Bản đồ hạt Rạch Giá năm 1895]]
+Ngày [[5 tháng 1]] năm [[1867]], thực dân Pháp chiếm [[Nam Kỳ Lục tỉnh]]. Đầu thời Pháp thuộc, phủ Ba Xuyên đổi thành hạt thanh tra Ba Xuyên. Ngày [[15 tháng 7]] năm [[1867]], Pháp đổi hạt Ba Xuyên thành hạt thanh tra Sóc Trăng.
+
+Đến ngày [[5 tháng 6]] năm [[1876]], [[Nam Kỳ]] được Pháp chia thành 24 khu tham biện (inspection) do các viên thanh tra hành chính (inspecteur) đảm nhiệm.
+ 
+Năm [[1877]], [[Nam Kỳ]] được [[Pháp]] điều chỉnh lại còn 20 khu tham biện. Đến ngày [[18 tháng 12]] năm [[1882]], Pháp cắt 3 tổng [[Quảng Long]], [[Quảng Xuyên]], [[Long Thủy]] của đại lý (Dlégation) [[Cà Mau]] thuộc địa hạt [[Rạch Giá]] (Arrondissement de Rach Gia) và 2 tổng [[Thạnh Hoà]], [[Thạnh Hưng]] của đại lý [[Châu Thành]] thuộc địa hạt [[Sóc Trăng]] và thành lập địa hạt Bạc Liêu (Arrondissement de Bạc Liêu). Địa hạt Bạc Liêu là địa hạt thứ 21 của [[Nam Kỳ]], lúc đầu có 2 đại lý là [[Vĩnh Lợi]] và [[Vĩnh Châu]].
+
+Ngày [[20 tháng 12]] năm [[1899]], [[Toàn quyền Đông Dương]] ký sắc lệnh bỏ xưng danh địa hạt, đổi thành tỉnh, đại lý đổi thành quận. Ngày [[1 tháng 1]] năm [[1900]], sắc lệnh trên được áp dụng cho toàn [[Nam Kỳ]], trong đó có hạt tham biện Bạc Liêu đổi thành tỉnh Bạc Liêu. Tỉnh lỵ tỉnh Bạc Liêu đặt tại làng Vĩnh Lợi thuộc quận [[Vĩnh Lợi]]. Chủ tỉnh Bạc Liêu đầu tiên là Eugene Chabrier (1897 - 1903)
+
+Tỉnh Bạc Liêu ban đầu chỉ có 2 quận: Vĩnh Lợi và Cà Mau. Năm [[1903]], lập đại lý hành chánh Cà Mau thuộc tỉnh Bạc Liêu, gồm 3 tổng: Quảng Long, Quảng Xuyên, Long Thủy; Nguyễn Tấn Đức làm quan cai trị đầu tiên của Cà mau. Năm [[1904]], cắt một phần đất của quận [[Vĩnh Lợi]] để lập thêm quận [[Vĩnh Châu]]. Ngày [[16 tháng 5]] năm [[1911]], [[Toàn quyền Đông Dương]] quyết định nâng đại lý hành chánh Cà Mau lên thành quận [[Cà Mau]] trực thuộc tỉnh Bạc Liêu, do đốc phủ sứ Trần Quang Phước làm chủ quận đầu tiên. Năm [[1918]], cắt thêm phần đất thuộc quận Cà Mau và tỉnh lỵ thành lập thêm quận [[Giá Rai]]. Tỉnh Bạc Liêu có tổng diện tích là 705.000 mẫu tây.<ref name=TSTV>{{Chú thích web|url=http://tusachtiengviet.com/images/file/0l_L1MsG1AgQANBB/bac-lieu-xua-va-nay.pdf|tựa đề=Bạc Liêu xưa và nay (trang 20)|ngày=1 tháng 2 năm 1994|website=Tủ sách Tiếng Việt|url-status=dead|ngày truy cập=2021-12-19|archive-date=2021-12-17|archive-url=https://web.archive.org/web/20211217094956/http://tusachtiengviet.com/images/file/0l_L1MsG1AgQANBB/bac-lieu-xua-va-nay.pdf}}</ref>
+
+Ngày [[5 tháng 10]] năm [[1918]], thực dân Pháp chia địa bàn tỉnh Bạc Liêu thành 4 quận trực thuộc:
+*Quận [[Cà Mau]] gồm 2 tổng Quảng Xuyên, Quảng Long và các làng Tân Lộc, Tân Lợi, Tân Phú, Thới Bình của tổng Long Thủy với 521.000 mẫu tây
+*Quận [[Vĩnh Lợi]] gồm 5 làng: Hoà Bình, Hưng Hội, Long Thạnh, Vĩnh Lợi, Vĩnh Trạch của tổng Thạnh Hoà với 44.784 mẫu tây
+*Quận [[Vĩnh Châu]] gồm 5 làng: Vĩnh Châu, Vĩnh Phước, Lai Hoà, Khánh Hoà, Lạc Hoà của tổng Thạnh Hưng với 31.688 mẫu tây
+*Quận [[Giá Rai]] gồm làng Vĩnh Mỹ của tổng Thạnh Hoà; làng Phong Thạnh, Long Điền của tổng Long Thủy với 107.531 mẫu tây.
+
+Ngày [[6 tháng 4]] năm [[1923]], thời viên chủ tỉnh Bạc Liêu là Adrien Petit, tách các làng Tân Lợi, Tân Lộc, Thới Bình của tổng Long Thủy lập tổng mới Long Thới thuộc quận Cà Mau (có hiệu lực từ ngày [[1 tháng 1]] năm [[1924]]).
+
+Ngày [[18 tháng 12]] năm [[1928]], [[Toàn quyền Đông Dương]] ra nghị định thành lập các thị xã Bạc Liêu, Cần Thơ, Rạch Giá và Mỹ Tho trực thuộc các tỉnh cùng tên gọi. Các thị xã này đều có Ủy ban thị xã, thị trưởng do chủ tỉnh (lúc này là L. le Strat) bổ nhiệm và có ngân sách riêng. [[Bạc Liêu (thành phố)|Thị xã Bạc Liêu]] lúc đó được thành lập trên phần đất làng Vĩnh Lợi.
+
+Ngày [[24 tháng 9]] năm [[1938]], giải thể quận [[Vĩnh Châu]], nhập vào địa bàn quận [[Vĩnh Lợi]]; đồng thời tách tổng Quảng Xuyên khỏi quận Cà Mau lập quận mới có tên là quận Quảng Xuyên.
+
+Ngày [[14 tháng 9]] năm [[1942]], lập cơ sở hành chính Tân An thuộc quận Cà Mau. Ngày [[5 tháng 4]] năm [[1944]], lập quận [[Thới Bình]] bao gồm tổng Thới Bình. Ngày [[6 tháng 10]] năm [[1944]], đổi tên quận Thới Bình thành quận Cà Mau Bắc, đổi tên quận Quảng Xuyên thành quận Cà Mau Nam. Sau đó lại hợp nhất 2 quận Cà Mau Bắc và Cà Mau Nam thành một quận có tên là quận [[Cà Mau]] thuộc tỉnh Bạc Liêu.
+
+Năm [[1947]], chính quyền thực dân Pháp cũng giao quận [[Phước Long, Bạc Liêu|Phước Long]] (trước đó thuộc [[Rạch Giá (tỉnh)|tỉnh Rạch Giá]]) cho tỉnh Bạc Liêu quản lý.
+
+===Giai đoạn 1945-1954===
+[[Hình: Nhà Công tử Bạc Liêu, TX.Bạc Liêu.jpg|nhỏ|phải|250px|<center>Nhà Công tử Bạc Liêu ở TP. Bạc Liêu]]
+
+Sau năm [[1945]], chính quyền kháng chiến của [[Việt Nam]] đã nhiều lần thay đổi sắp xếp hành chính của tỉnh Bạc Liêu. Năm [[1947]], quận [[Hồng Dân]] (trước đó có tên là quận [[Phước Long, Bạc Liêu|Phước Long]]) thuộc [[Rạch Giá (tỉnh)|tỉnh Rạch Giá]] giao hai làng [[Vĩnh Hưng]], [[Vĩnh Phú]] về quận [[Vĩnh Lợi]], tỉnh Bạc Liêu.
+
+Năm [[1948]], tỉnh Bạc Liêu giao quận [[Vĩnh Châu]] và làng [[Hưng Hội]] về tỉnh [[Sóc Trăng]], đồng thời thành lập thêm quận mới lấy tên là quận [[Ngọc Hiển]]. Ngày [[13 tháng 11]] năm [[1948]], cắt 2 làng [[Vĩnh Trạch, Bạc Liêu (thành phố)|Vĩnh Trạch]], [[Hiệp Thành, Bạc Liêu (thành phố)|Vĩnh Lợi]] để thành lập [[Bạc Liêu (thành phố)|thị xã Bạc Liêu]]. Cùng thời điểm này, tỉnh [[Sóc Trăng]] giao làng Châu Thới về Bạc Liêu. Làng Châu Thới hợp nhất với làng Long Thạnh thành làng Thạnh Thới.
+
+Năm [[1951]], thành lập thêm huyện [[Trần Văn Thời (huyện)|Trần Văn Thời]], gồm các xã: Khánh Bình Đông, Khánh Bình Tây, Trần Hợi, Hưng Mỹ, Khánh An, Khánh Lâm. Năm [[1952]], tỉnh Bạc Liêu tiếp nhận hai huyện [[An Biên]], [[Hồng Dân]] của [[Rạch Giá (tỉnh)|tỉnh Rạch Giá]].
+
+Sau [[Hiệp định Genève, 1954|Hiệp định Genève]], [[tháng 10]] năm [[1954]] huyện [[Vĩnh Châu]] được đưa về tỉnh Bạc Liêu, huyện [[An Biên]] và huyện [[Hồng Dân]] đưa về [[Rạch Giá (tỉnh)|tỉnh Rạch Giá]]. Huyện [[Vĩnh Lợi]] và [[Bạc Liêu (thành phố)|thị xã Bạc Liêu]] được tái lập.
+
+===Giai đoạn 1954-1975===
+====Việt Nam Cộng hòa====
+Ban đầu, chính quyền [[Quốc gia Việt Nam]] và sau đó là [[Việt Nam Cộng hòa]] vẫn duy trì tên gọi tỉnh Bạc Liêu như thời Pháp thuộc.
+
+Ngày [[15 tháng 2]] năm [[1955]], Thủ hiến Nam Việt của chính quyền [[Quốc gia Việt Nam]] (tiền thân của [[Việt Nam Cộng hòa]]) quyết định tạm sáp nhập vùng Chắc Băng và quận [[An Biên]] thuộc [[Rạch Giá (tỉnh)|tỉnh Rạch Giá]] vào tỉnh [[Sóc Trăng]]. Ngày [[24 tháng 5]] năm [[1955]], quyết định sáp nhập ba quận [[An Biên]], [[Phước Long, Bạc Liêu|Phước Long]] và Chắc Băng để thành lập đặc khu An Phước thuộc tỉnh [[Sóc Trăng]], nhưng không lâu sau lại cho giải thể đặc khu này. Sau đó, quận [[An Biên]] và vùng Chắc Băng lại trở về thuộc [[Rạch Giá (tỉnh)|tỉnh Rạch Giá]] như cũ.
+
+Ngày [[9 tháng 3]] năm [[1956]], theo Sắc lệnh 32/VN, chính quyền [[Việt Nam Cộng hòa]] lấy phần lớn diện tích đất của tỉnh Bạc Liêu bao gồm quận Cà Mau và 4 xã của quận [[Giá Rai]] là Định Thành, Hoà Thành, Tân Thành, Phong Thạnh Tây để thành lập tỉnh [[Cà Mau]]; tỉnh lỵ ban đầu cũng có tên là Cà Mau. Tỉnh Bạc Liêu còn lại 4 quận: [[Vĩnh Lợi]], [[Vĩnh Châu]], [[Giá Rai]], [[Phước Long, Bạc Liêu|Phước Long]].
+
+Ngày [[22 tháng 10]] năm [[1956]], Tổng thống [[Việt Nam Cộng hòa]] [[Ngô Đình Diệm]] ra Sắc lệnh số 143-NV để " thay đổi địa giới và tên Đô thành Sài Gòn – Chợ Lớn cùng các tỉnh và tỉnh lỵ tại Việt Nam". Địa giới và địa danh các tỉnh ở miền Nam thay đổi nhiều, một số tỉnh mới được thành lập. Theo Sắc lệnh này, địa phận Nam Phần của [[Việt Nam Cộng hòa|Việt Nam Cộng Hoà]] gồm [[Thành phố Hồ Chí Minh|Đô thành Sài Gòn]] và 22 tỉnh. Lúc này vùng đất tỉnh Bạc Liêu cũ thời Pháp thuộc có sự thay đổi hành chính như sau:
+*Đổi tên tỉnh [[Cà Mau]] thành [[An Xuyên (tỉnh)|tỉnh An Xuyên]], còn tỉnh lỵ Cà Mau thì đổi tên là [[Quản Long]].
+*Thành lập tỉnh [[Ba Xuyên]] trên cơ sở hợp nhất phần đất tỉnh [[Sóc Trăng]] và tỉnh Bạc Liêu trước đó, tỉnh lỵ đặt tại [[Sóc Trăng (thành phố)|Sóc Trăng]] nhưng lúc này đổi tên thành Khánh Hưng. Như vậy, lúc này tỉnh Bạc Liêu đã bị giải thể.
+
+Ngày [[13 tháng 1]] năm [[1958]], theo Nghị định số 9-BNV/NC/NP của chính quyền [[Việt Nam Cộng hòa]], quận [[Vĩnh Châu]] bị giải thể để sáp nhập vào quận [[Vĩnh Lợi]].
+
+Tuy nhiên, đến ngày [[5 tháng 12]] năm [[1960]], tái lập quận [[Vĩnh Châu]] thuộc tỉnh [[Ba Xuyên]]. Ngày [[21 tháng 12]] năm [[1961]], quận [[Phước Long, Bạc Liêu|Phước Long]] được chính quyền [[Việt Nam Cộng hòa]] giao về cho tỉnh [[Chương Thiện]] mới được thành lập. Ngày [[18 tháng 4]] năm [[1963]], thành lập mới quận Kiến Thiện thuộc tỉnh [[Chương Thiện]] trên cơ sở tách một phần đất đai của các quận [[Phước Long, Bạc Liêu|Phước Long]] và [[Long Mỹ]] cùng tỉnh.
+
+Bạc Liêu hồi thời Pháp thuộc rất sung túc, dân cư đông đảo, là xứ ăn xài, lắm khách hào hoa phong nhã, chợ búa mua bán phồn thịnh, nền kinh tế dồi dào. Cho đến khi chính phủ [[Ngô Đình Diệm]] chấp chánh, tỉnh Bạc Liêu bị sáp nhập vào tỉnh [[Ba Xuyên]] ([[Sóc Trăng]] cũ) trước kia thịnh vượng đông đảo bao nhiêu, bây giờ lại hóa ra u trệ bấy nhiêu. Vì bỗng dưng bị thu hẹp lại thành một quận là quận Vĩnh Lợi, trọn 9 năm châu thành Bạc Liêu lâm vào cảnh vắng vẻ, nền kinh tế bị sụp đổ, du khách có dịp đi ngang qua cảm tưởng cho là một tỉnh bị chiến tranh tàn phá.
+
+Suốt 9 năm dưới thời chính quyền [[Đệ nhất Cộng hòa]] của Tổng thống [[Ngô Đình Diệm]], Bạc Liêu từ một tỉnh phát triển mạnh ngày nào dưới thời Pháp thuộc bị thu hình lại thành một quận lỵ nhỏ nhoi (tức quận [[Vĩnh Lợi]]). Thời Pháp thuộc, Cà Mau chỉ là một quận lỵ nhỏ thì lúc này, Bạc Liêu lại trở thành quận lỵ Vĩnh Lợi nhỏ hơn nhiều tỉnh lỵ Quản Long (tức Cà Mau cũ).
+
+Ngày [[8 tháng 9]] năm [[1964]], Thủ tướng chính quyền mới của [[Việt Nam Cộng hòa]] ký Sắc lệnh số 254/NV quy định kể từ ngày [[1 tháng 10]] năm [[1964]] tái lập tỉnh Bạc Liêu trên cơ sở tách các quận [[Vĩnh Lợi]], [[Giá Rai]], [[Vĩnh Châu]] của tỉnh [[Ba Xuyên]] và quận [[Phước Long, Bạc Liêu|Phước Long]] của tỉnh [[Chương Thiện]] được chia thành 5 tổng, 17 xã với diện tích là 238.000 mẫu tây và dân số 257.154 người (trong đó, dân số thị xã Bạc Liêu là 40.000 người).<ref name=TSTV1>{{Chú thích web|url=http://tusachtiengviet.com/images/file/0l_L1MsG1AgQANBB/bac-lieu-xua-va-nay.pdf|tựa đề=Bạc Liêu xưa và nay (trang 23, 24, 25)|ngày=1 tháng 2 năm 1994|website=Tủ sách Tiếng Việt|url-status=dead|ngày truy cập=2021-12-19|archive-date=2021-12-17|archive-url=https://web.archive.org/web/20211217094956/http://tusachtiengviet.com/images/file/0l_L1MsG1AgQANBB/bac-lieu-xua-va-nay.pdf}}</ref> Riêng quận Kiến Thiện vẫn thuộc tỉnh [[Chương Thiện]] cho đến năm [[1975]]. Tỉnh lỵ tỉnh Bạc Liêu có tên là "Vĩnh Lợi", do lấy theo tên xã Vĩnh Lợi thuộc quận [[Vĩnh Lợi]] là nơi đặt tỉnh lỵ. Tỉnh Bạc Liêu gồm 4 quận: [[Vĩnh Lợi]], [[Vĩnh Châu]], [[Giá Rai]], [[Phước Long, Bạc Liêu|Phước Long]] cho đến năm 1975.
+
+{|class= "wikitable" style="; margin:1em; margin-top:0;"
+|-
+!colspan="5" |'''Diện tích và dân số tỉnh Bạc Liêu'''
+|-style="background:lightgrey;"
+! STT
+! Quận
+! Diện tích năm 1964<ref name=TSTV1/> (mẫu tây)
+! Dân số năm 1964<ref name=TSTV1/> (người)
+! Dân số năm 1967<ref>''Việt Nam Cộng hòa bản đồ hành chánh''. Đà Lạt: Phân cục Địa dư Quốc gia, 1967.</ref> (người)
+|-
+|<center> 1
+|<center> [[Giá Rai]]
+|<center> 109.119
+|<center> 86.946
+|<center> 79.897
+|-
+|<center> 2
+|<center> [[Phước Long (huyện)|Phước Long]]
+|<center> 56.800
+|<center> 39.448 
+|<center> 37.624
+|-
+|<center> 3
+|<center> [[Vĩnh Châu]]
+|<center> 37.060
+|<center> 50.157
+|<center> 50.323
+|-
+|<center> 4
+|<center> [[Vĩnh Lợi]]
+|<center> 35.172
+|<center> 80.622
+|<center> 79.625
+|-
+!colspan="2"|<center> '''Tổng số'''
+!colspan="1"|<center> 238.000
+!colspan="1"|<center> 257.154
+!colspan="1"|<center> 247.469
+|}
+
+Ngày [[11 tháng 7]] năm [[1968]], tách một phần nhỏ đất đai của xã Hưng Hội, quận [[Vĩnh Lợi]] thuộc tỉnh Bạc Liêu giao về cho quận Hòa Tú mới được thành lập trực thuộc tỉnh [[Ba Xuyên]]; còn quận [[Vĩnh Lợi]] thuộc tỉnh Bạc Liêu nhận thêm xã Châu Thới vốn trước đó thuộc quận [[Thạnh Trị]], tỉnh [[Ba Xuyên]].
+
+Ngày [[11 tháng 3]] năm [[1970]], quận [[Vĩnh Lợi]] thuộc tỉnh Bạc Liêu nhận thêm một phần đất đai trước đó thuộc xã Châu Hưng, quận [[Thạnh Trị]], tỉnh [[Ba Xuyên]] và cũng nhận lại phần đất đai trước đó thuộc xã Hưng Hội nhưng từng bị cắt chuyển về thuộc quận Hòa Tú thuộc tỉnh [[Ba Xuyên]]; đồng thời nửa phía bắc xã Châu Thới thuộc quận [[Vĩnh Lợi]], tỉnh Bạc Liêu cũng lại sáp nhập vào xã Châu Hưng thuộc quận [[Thạnh Trị]], tỉnh [[Ba Xuyên]]. Bên cạnh đó, dải đất rộng 1.500&nbsp;m chạy dọc sông Mỹ Thanh thuộc các xã Khánh Hòa và Vĩnh Phước của quận [[Vĩnh Châu]] thuộc tỉnh Bạc Liêu cũng giao về cho quận Hòa Tú thuộc tỉnh [[Ba Xuyên]].
+
+====Chính quyền Cách mạng====
+[[Mặt trận Dân tộc Giải phóng Miền Nam Việt Nam]], và sau này là Chính phủ Cách mạng lâm thời [[Cộng hòa Miền Nam Việt Nam]] cùng với [[Việt Nam Dân chủ Cộng hòa]], không công nhận tên gọi tỉnh của Việt Nam Cộng hoà mà vẫn gọi theo tên tỉnh Bạc Liêu.
+
+Tháng 6 năm 1956, Tỉnh ủy Bạc Liêu quyết định tách huyện Cà Mau thành 2 huyện: Cà Mau Bắc và Cà Mau Nam. Tháng 10 năm 1956, tách huyện Cà Mau Nam thành 2 huyện: Cái Nước và Ngọc Hiển.
+
+Năm [[1957]], Liên Tỉnh uỷ miền Tây giải thể tỉnh Bạc Liêu, đồng thời đưa các huyện [[Giá Rai]], [[Vĩnh Lợi]], [[Vĩnh Châu]], [[Hồng Dân]], [[bạc Liêu (thành phố)|thị xã Bạc Liêu]] giao về [[sóc Trăng|tỉnh Sóc Trăng]] quản lý. Tỉnh uỷ [[Sóc Trăng]] quyết định hợp nhất huyện [[Vĩnh Châu]] và huyện [[Vĩnh Lợi]], thành huyện [[Vĩnh Lợi]] - [[Vĩnh Châu]]. Năm [[1962]], huyện [[Giá Rai]] sáp nhập vào [[cà Mau|tỉnh Cà Mau]]. Năm [[1963]], Tỉnh uỷ [[Sóc Trăng]] quyết định giải thể huyện Vĩnh Lợi - Vĩnh Châu để tái lập huyện [[Vĩnh Lợi]] và huyện [[Vĩnh Châu]]. Ngày [[7 tháng 3]] năm [[1972]], nhập xã [[Vĩnh Hưng]] của huyện [[Giá Rai]] vào huyện [[Vĩnh Lợi]].
+
+Trong giai đoạn [[1964]]–[[1973]], địa bàn tỉnh Bạc Liêu của chính quyền [[Việt Nam Cộng hòa]] vẫn do tỉnh [[Sóc Trăng]] của chính quyền cách mạng quản lý, ngoại trừ huyện [[Giá Rai]] thuộc tỉnh [[Cà Mau]]. [[Tháng 11]] năm [[1973]], Khu ủy Tây Nam Bộ quyết định tái lập tỉnh Bạc Liêu, gồm 4 đơn vị hành chính cấp huyện: [[Vĩnh Lợi]], [[Giá Rai]], [[Hồng Dân]] và [[Bạc Liêu (thành phố)|thị xã Bạc Liêu]]. Tuy nhiên, chính quyền Cách mạng vẫn đặt huyện [[Vĩnh Châu]] thuộc tỉnh [[Sóc Trăng]] cho đến đầu năm [[1976]].
+
+Sau ngày [[30 tháng 4]] năm [[1975]], chính quyền quân quản [[Cộng hòa miền Nam Việt Nam]] ban đầu vẫn duy trì tỉnh Bạc Liêu cho đến đầu năm [[1976]]. Lúc này, chính quyền Cách mạng cũng bỏ danh xưng "quận" có từ thời Pháp thuộc và lấy danh xưng "huyện" (quận và phường dành cho các đơn vị hành chánh tương đương khi đã đô thị hóa).
+
+Ngày [[20 tháng 9]] năm [[1975]], Bộ Chính trị ra Nghị quyết số 245-NQ/TW về việc bỏ khu, hợp tỉnh trong toàn quốc "nhằm xây dựng các tỉnh thành những đơn vị kinh tế, kế hoạch và đơn vị hành chính có khả năng giải quyết đến mức cao nhất những yêu cầu về đẩy mạnh sản xuất, tổ chức đời sống vật chất, văn hóa của nhân dân, về củng cố quốc phòng, bảo vệ trị an, và có khả năng đóng góp tốt nhất vào sự nghiệp chung của cả nước". Theo Nghị quyết này, tỉnh [[Cà Mau]], tỉnh Bạc Liêu và hai huyện [[Vĩnh Thuận]], [[An Biên]] (ngoại trừ 2 xã Đông Yên và Tây Yên) của [[Rạch Giá (tỉnh)|tỉnh Rạch Giá]] sẽ hợp nhất lại thành một tỉnh, tên gọi tỉnh mới cùng với nơi đặt tỉnh lỵ sẽ do địa phương đề nghị lên.
+
+Nhưng đến ngày [[20 tháng 12]] năm [[1975]], Bộ Chính trị lại ra Nghị quyết số 19/NQ điều chỉnh lại việc hợp nhất tỉnh ở miền Nam Việt Nam cho sát với tình hình thực tế, theo đó tỉnh [[Cà Mau]] và tỉnh Bạc Liêu được tiến hành hợp nhất vào ngày [[1 tháng 1]] năm [[1976]] với tên gọi ban đầu là tỉnh Cà Mau - Bạc Liêu.
+
+===Tỉnh Minh Hải giai đoạn 1976-1996===
+{{chính|Minh Hải (tỉnh)}}
+[[Hình: Rạch Bạc Liêu, TX.Bạc Liêu.jpg|nhỏ|phải|250px|<center>Rạch Bạc Liêu-Cà Mau ở Tp Bạc Liêu]]
+
+Ngày [[10 tháng 3]] năm [[1976]], Ban đại diện [[Trung ương Đảng]] và [[Chính phủ]] đổi tên tỉnh Cà Mau - Bạc Liêu thành tỉnh [[Minh Hải (tỉnh)|Minh Hải]], đồng thời thị xã Bạc Liêu cũng được đổi tên thành thị xã Minh Hải và trở thành tỉnh lỵ của tỉnh Minh Hải. Tuy nhiên, đến năm 1984, thị xã Minh Hải được đổi về tên cũ là thị xã Bạc Liêu<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/quyet-dinh-75-hdbt-phan-vach-dia-gioi-huyen-thi-xa-thuoc-tinh-minh-hai-43458.aspx|tựa đề=Quyết định 75-HĐBT năm 1984 phân vạch địa giới một số huyện, thị xã thuộc tỉnh Minh Hải do Hội đồng Bộ trưởng ban hành|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> và tỉnh lỵ cũng được dời về thị xã [[Cà Mau (thành phố)|Cà Mau]].<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-170-HDBT-chuyen-tinh-ly-tinh-Minh-Hai-thi-xa-Ca-Mau-43531.aspx|tựa đề=Quyết định 170-HĐBT năm 1984 về việc chuyển tỉnh lỵ tỉnh Minh Hải về thị xã Cà Mau do Hội đồng Bộ trưởng ban hành|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref>
+
+===Tỉnh Bạc Liêu từ năm 1997 đến nay===
+[[Hình: Logo Bạc Liêu cũ.svg|nhỏ|trái|242px|<center>Logo trước đây của tỉnh Bạc Liêu</center>]]
+[[Hình: Thị trấn Giá Rai, Bạc Liêu.jpg|nhỏ|phải|250px|<center>Thị xã Giá Rai]]
+[[Hình: Kênh Bạc Liêu - Cà Mau, đoạn qua Giá Rai.jpg|nhỏ|phải|250px|<center>Kênh Xáng Bạc Liêu - Cà Mau<br>đoạn qua Thị xã Giá Rai]]
+Ngày [[6 tháng 11]] năm [[1996]], kỳ họp thứ 10, Quốc hội khoá IX, ra Nghị quyết chia và điều chỉnh địa giới một số tỉnh<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-chia-va-dieu-chinh-dia-gioi-hanh-chinh-tinh-40091.aspx|tựa đề=Nghị quyết về việc chia và điều chỉnh địa giới hành chính một số tỉnh do Quốc hội ban hành|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref>. Theo đó, chia tỉnh Minh Hải thành hai tỉnh Bạc Liêu và [[Cà Mau]].
+
+Tỉnh Bạc Liêu lúc này có 4 đơn vị hành chính trực thuộc, gồm [[Bạc Liêu (thành phố)|thị xã Bạc Liêu]] (tỉnh lỵ) và 3 huyện: [[Giá Rai]], [[Hồng Dân]], [[Vĩnh Lợi]].
+
+Ngày [[25 tháng 9]] năm [[2000]], Chính phủ ban hành Nghị định số 51/2000/NĐ-CP<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bat-dong-san/Nghi-dinh-51-2000-ND-CP-dieu-chinh-dia-gioi-hanh-chinh-huyen-Hong-Dan-de-thanh-lap-huyen-Phuoc-Long-tinh-Bac-Lieu-46903.aspx|tựa đề=Nghị định 51/2000/NĐ-CP về việc điều chỉnh địa giới hành chính huyện Hồng Dân để thành lập huyện Phước Long, tỉnh Bạc Liêu|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref>. Theo đó, điều chỉnh một phần diện tích và dân số của huyện Hồng Dân để tái lập huyện [[Phước Long (huyện)|Phước Long]].
+
+Ngày [[24 tháng 12]] năm [[2001]], Chính phủ ban hành Nghị định số 98/2001/NĐ-CP<ref name=ND98>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bat-dong-san/Nghi-dinh-98-2001-ND-CP-chia-huyen-Gia-Rai-tinh-Bac-Lieu-thanh-hai-huyen-Dong-Hai-va-Gia-Rai-7393.aspx|tựa đề=Nghị định 98/2001/NĐ-CP về việc chia huyện Giá Rai, tỉnh Bạc Liêu thành hai huyện Đông Hải và Giá Rai|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref>. Theo đó, điều chỉnh một phần diện tích và dân số của huyện Giá Rai để thành lập huyện [[Đông Hải (huyện)|Đông Hải]].
+
+Ngày [[26 tháng 7]] năm [[2005]], Chính phủ ban hành Nghị định số 96/2005/NĐ-CP<ref name=ND96>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bat-dong-san/Nghi-dinh-96-2005-ND-CP-thanh-lap-huyen-Hoa-Binh-tinh-Bac-Lieu-2564.aspx|tựa đề=Nghị định 96/2005/NĐ-CP về việc thành lập huyện Hòa Bình, tỉnh Bạc Liêu|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref>. Theo đó, điều chỉnh một phần diện tích và dân số của huyện Vĩnh Lợi để thành lập huyện [[Hòa Bình (huyện)|Hòa Bình]].
+
+Từ đó, tỉnh Bạc Liêu có 7 đơn vị hành chính cấp huyện trực thuộc, bao gồm thị xã [[Bạc Liêu (thành phố)|Bạc Liêu]] và 6 huyện: [[Đông Hải (huyện)|Đông Hải]], [[Giá Rai]], [[Hòa Bình (huyện)|Hòa Bình]], [[Hồng Dân]], [[Phước Long (huyện)|Phước Long]], [[Vĩnh Lợi]].
+
+Ngày [[27 tháng 8]] năm [[2010]], Chính phủ ban hành Nghị quyết số 32/NQ-CP về việc thành lập thành phố Bạc Liêu thuộc tỉnh Bạc Liêu trên cơ sở toàn bộ diện tích và dân số của thị xã Bạc Liêu.<ref name=NQ32>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-32-NQ-CP-thanh-lap-thanh-pho-Bac-Lieu-110874.aspx|tựa đề=Nghị quyết 32/NQ-CP năm 2010 về việc thành lập thành phố Bạc Liêu thuộc tỉnh Bạc Liêu|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref>
+
+Ngày [[16 tháng 4]] năm [[2014]], Thủ tướng Chính phủ ban hành Quyết định số 537/QĐ-TTg công nhận thành phố Bạc Liêu là [[Đô thị Việt Nam#Đô thị loại II|đô thị loại II]] trực thuộc tỉnh Bạc Liêu.<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Quyet-dinh-537-QD-TTg-cong-nhan-thanh-pho-Bac-Lieu-la-do-thi-loai-II-2014-226546.aspx|tựa đề=Quyết định số 537/QĐ-TTg công nhận thành phố Bạc Liêu là đô thị loại II|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref>
+
+Ngày [[15 tháng 5]] năm [[2015]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 930/NQ-UBTVQH13 về việc thành lập thị xã Giá Rai trên cơ sở toàn bộ diện tích tự nhiên và dân số của huyện Giá Rai.<ref>Nghị quyết số 930/NQ-UBTVQH13 về việc thành lập thị xã Giá Rai và 3 phường thuộc thị xã Giá Rai, tỉnh Bạc Liêu.</ref>
+
+Tỉnh Bạc Liêu có 1 thành phố, 1 thị xã và 5 huyện như hiện nay.<ref name=DVHC />
+
+==Kinh tế==
+{{Chính|Danh sách đơn vị hành chính Việt Nam theo GRDP}}{{Chính|Danh sách đơn vị hành chính Việt Nam theo GRDP bình quân đầu người}}
+
+Tỉnh Bạc Liêu định hướng phát triển kinh tế với 5 trụ cột gồm: nông nghiệp, mà trọng tâm là nông nghiệp ứng dụng công nghệ cao, nâng cao hiệu quả sản xuất tôm, lúa gạo; năng lượng tái tạo gồm điện gió, điện mặt trời và điện khí; phát triển du lịch; phát triển thương mại - dịch vụ, giáo dục, y tế chất lượng cao; phát triển kinh tế biển gắn với đảm bảo quốc phòng - an ninh.
+
+[[Hình: Lúa-hồng-dân.jpg|nhỏ|phải|250px|<center>Cánh đồng lúa chín ở huyện Hồng Dân]]
+
+Tình hình kinh tế tỉnh Bạc Liêu năm 2020:
+
+Tăng trưởng kinh tế: Tổng sản phẩm trong tỉnh (GRDP) ước tính tăng 4,08% so với năm 2019. Trong đó, khu vực nông, lâm nghiệp và thủy sản tăng 3,52%; khu vực công nghiệp và xây dựng tăng 7,71%; khu vực dịch vụ tăng 2,79%; thuế sản phẩm trừ trợ cấp sản phẩm tăng 4,21%. Tổng sản phẩm (GRDP) bình quân đầu người ước tính đạt 54,37 triệu đồng. Cơ cấu nền kinh tế năm 2020 tiếp tục chuyển dịch theo hướng công nghiệp hóa, trong đó khu vực nông, lâm nghiệp và thủy sản chiếm tỷ trọng 42,57%; khu vực công nghiệp và xây dựng chiếm 19,20%; khu vực dịch vụ chiếm 33,15%; thuế sản phẩm trừ trợ cấp sản phẩm chiếm 5,08% trong tổng cơ cấu chung của toàn ngành kinh tế.
+
+Thu, chi ngân sách và bảo hiểm: Tổng thu ngân sách Nhà nước trên địa bàn tỉnh Bạc Liêu ước đạt 11.150,65 tỷ đồng, giảm 1,58% so với cùng kỳ. Tổng chi ngân sách trên địa bàn tỉnh Bạc Liêu đạt 10.882,34 tỷ đồng, tăng 18,08% so với cùng kỳ. Một số khoản chi lớn bao gồm: Chi sự nghiệp kinh tế 783,70 tỷ đồng; chi sự nghiệp giáo dục - đào tạo đạt 1.499,80 tỷ đồng; chi sự nghiệp y tế là 583,25 tỷ đồng,... Tổng số thu bảo hiểm năm 2020 đạt 1.294 tỷ đồng, tăng 4,08% so với năm 2019, trong đó: Thu bảo hiểm xã hội đạt 606 tỷ đồng, tăng 5,97%; bảo hiểm y tế là 649 tỷ đồng, tăng 2,39%; bảo hiểm thất nghiệp là 39 tỷ đồng, tăng 4% so cùng kỳ. Tổng số chi bảo hiểm năm 2020 là 1.480 tỷ đồng, bằng 94,22% so cùng kỳ, trong đó chi bảo hiểm xã hội là 603 tỷ đồng, tăng 11,67%; chi bảo hiểm y tế 813 tỷ đồng, bằng 82,39%; chi bảo hiểm thất nghiệp 64 tỷ đồng, tăng 45,45% so cùng kỳ.
+
+Đầu tư–xây dựng: Tổng vốn đầu tư thực hiện toàn xã hội tỉnh Bạc Liêu theo giá hiện hành đạt 27.542,31 tỷ đồng, tăng 17,83% so với năm 2019, bao gồm: Vốn khu vực Nhà nước đạt 3.768,42 tỷ đồng (chiếm 13,68% tổng vốn đầu tư thực hiện toàn xã hội), tăng 10,74% so cùng kỳ; khu vực ngoài Nhà nước đạt 23.614,10 tỷ đồng (chiếm 85,74%), tăng 18,71%; khu vực có vốn đầu tư nước ngoài đạt 159,79 tỷ đồng (chiếm 0,58%), tăng 101,38% so năm trước. Về thu hút đầu tư trực tiếp nước ngoài: Năm 2020, tỉnh có 1 dự án vốn đầu tư trực tiếp nước ngoài mới được triển khai với tổng vốn đầu tư đăng kí 4 tỷ USD.
+
+Chỉ số giá tiêu dùng, chỉ số giá vàng và đô la Mỹ:
+Năm 2020, trong điều kiện giá một số mặt hàng thiết yếu tăng trở lại, nhưng với sự quan tâm chỉ đạo của các cấp, các ngành có liên quan nhằm thực hiện đồng bộ các biện pháp từ sản xuất, tiêu dùng, điều hòa 
+cung cầu, bình ổn giá cả,... nên lạm phát đã được kiểm soát trong giới hạn cho phép. CPI bình quân năm 2020 tăng 6,12% so với bình quân năm 2019. Chỉ số giá tiêu dùng (CPI) tháng 12/2020 tăng 3,54% so cùng kỳ và tăng 0,45% so tháng trước. Chỉ số giá vàng tháng 12 năm 2020 tăng 29,35% so với cùng kỳ 
+năm trước; bình quân năm 2020 tăng 26,55% so với bình quân năm 2019. Chỉ số giá đô la Mỹ tháng 12 năm 2020 tăng 0,01% so với tháng 12 năm 2019; bình quân năm 2020 tăng 0,16% so với bình quân 
+năm 2019.
+
+Doanh nghiệp, hợp tác xã và cơ sở kinh doanh cá thể phi nông nghiệp: Số doanh nghiệp thực tế hoạt động tại thời điểm 31/12/2019 trên địa bàn tỉnh Bạc Liêu là 1.858 doanh nghiệp, tăng 20,10% so với năm 2018 (tương đương tăng 311 doanh nghiệp), trong đó: Doanh nghiệp ngoài Nhà nước chiếm 99,46%/tổng số doanh nghiệp, với 1.848 doanh nghiệp, tăng 20,47%; doanh nghiệp có vốn đầu tư nước ngoài là 06 doanh nghiệp, giảm 14,29%; số lượng doanh nghiệp Nhà nước với 04 doanh nghiệp, giảm 33,33% so với năm 2018. Lao động làm việc trong toàn bộ khu vực doanh nghiệp có 34.132 người, tăng 7,68% so với cùng thời điểm năm 2018, trong đó: Lao động ở khu vực doanh nghiệp ngoài Nhà nước là 31.311 người, tăng 9,73%; lao động khu vực doanh nghiệp có vốn đầu tư nước 
+ngoài là 2.455 người, bằng 93,38%; lao động làm việc trong khu vực doanh nghiệp nhà nước chỉ có 366 người, bằng 68,54% so cùng kỳ. Năm 2019, toàn tỉnh có 84 HTX hoạt động trên địa bàn, tăng 9,09% so với năm 2018 (tăng 07 hợp tác xã). Số lao động làm việc trong hợp tác xã là 4.637 người, tăng 17,69% so với cùng kỳ. Số cơ sở kinh doanh cá thể phi nông, lâm nghiệp và thủy sản năm 2020 trên địa bàn tỉnh gồm có 56.917 cơ sở, bằng 96,77% so với năm 2019 (giảm 1.898 cơ sở).
+
+Nông, lâm nghiệp và thủy sản: Sản lượng lương thực có hạt của toàn tỉnh năm 2020 đạt 1.172,18 nghìn tấn, tăng 2,05% so cùng kỳ (tương đương tăng 23,55 nghìn tấn). Trong đó, sản lượng lúa đạt 1.171,13 nghìn tấn, tăng 2,05% (tương đương tăng 23,50 nghìn tấn): Sản lượng lúa Đông xuân đạt 364,18 nghìn tấn; lúa Hè thu 585,38 nghìn tấn; lúa Mùa (thu đông) đạt 221,57 nghìn tấn. Sản lượng ngô (bắp) là 1.048 tấn, tăng 4,9% so với cùng kỳ. Năm 2020, diện tích trồng rừng mới tập trung của toàn tỉnh Bạc Liêu đạt 1,57 ha, bằng 2,37% so với cùng kỳ. Toàn bộ diện tích rừng mới là rừng phòng hộ. Sản lượng gỗ khai thác đạt 4.320 m³, tăng 2,49% so với cùng kỳ. Năm 2020, sản lượng thủy sản đạt 380,75 nghìn tấn, tăng 5,74% so với năm 2019. Sản lượng thủy sản nuôi trồng đạt 257,68 nghìn tấn, tăng 6,54%; sản lượng thủy sản khai thác 123,07 nghìn tấn, tăng 4,11%. Trong năm, tỉnh tiếp tục tổ chức thực hiện Đề án "Tái cơ cấu ngành thủy sản tỉnh Bạc Liêu đến năm 2020, định hướng 2030 theo hướng nâng cao giá trị gia tăng và phát triển bền vững". Với mục tiêu đưa "Bạc Liêu trở thành trung tâm công nghiệp tôm của cả nước" theo chỉ đạo của Thủ tướng Chính phủ, Bạc Liêu đã triển khai xây dựng "Khu nông nghiệp ứng dụng công nghệ cao phát triển tôm Bạc Liêu". Hiện dự án đã hoàn thành gần 90% hạ tầng kỹ thuật giai 
+đoạn I và đã tuyển chọn được 09 doanh nghiệp đầu tư vào khu.
+
+Công nghiệp: Chỉ số sản xuất toàn ngành công nghiệp năm 2020 tăng 4,11% so với năm 2019. Trong đó: Chỉ số ngành khai khoáng (khai thác muối) tăng 11,17%; ngành công nghiệp chế biến, chế tạo tăng 5,13%; ngành sản xuất và phân phối điện, khí đốt, hơi nước và điều hòa không khí, chỉ số bằng 92,85% và cuối cùng là ngành cung cấp nước, hoạt động quản lý xử lý rác thải tăng 12,61% so cùng kỳ. Năm 2020, một số sản phẩm công nghiệp chủ yếu trên địa bàn tỉnh Bạc Liêu có sản lượng tăng cao so với năm trước như: Thủy sản đông lạnh xuất khẩu đạt 97.146 tấn, tăng 9,80%; muối Iốt 10.152 tấn, tăng 5,09%; điện thương phẩm, sản lượng 1.101,40 triệu kwh, tăng 5,21%; nước thương phẩm 19.285,89 nghìn m³, tăng 80,49%; bia các loại 31,98 triệu lít, bằng 66,03% so cùng kỳ,...
+
+Thương mại và dịch vụ, vận tải: Năm 2020, tổng mức bán lẻ hàng hóa và doanh thu dịch vụ tiêu dùng trên địa bàn tỉnh Bạc Liêu đạt 63.838,64 tỷ đồng, tăng 3,69% so với năm trước. Doanh thu du lịch lữ hành năm 2020 tỉnh Bạc Liêu đạt 4,64 tỷ đồng, tăng 87,05% so với cùng kỳ. Số lượt khách nghỉ qua đêm có 620,81 nghìn lượt người, bằng 87,51% so với cùng kỳ năm trước; khách trong ngày 2.400,15 nghìn lượt khách, bằng 91,15%; khách du lịch do các cơ sở lưu trú phục vụ có 3.020,97 nghìn lượt khách, bằng 90,38% so cùng kỳ. Khối lượng vận chuyển hành khách trong năm 2020 đạt 128,22 triệu hành khách, tăng 4,67% so với cùng kỳ; luân chuyển đạt 3.006,29 triệu hành khách/km, tăng 4,32% so với cùng kỳ. Vận chuyển hàng hóa trong năm 2020 đạt 17,33 triệu tấn, tăng 5,44% so với năm trước; luân chuyển 821,91 triệu tấn/km, tăng 4,75% so với cùng kỳ.<ref name=BACLIEU2020/>
+
+Năm 2018 là năm tỉnh Bạc Liêu gặt hái được nhiều thành công trên hầ hết các lĩnh vực kinh tế - xã hội: Trong 20 chỉ tiêu chủ yếu, có 19 chỉ tiêu đạt và vượt kế hoạch. Trong đó, tốc độ tăng trưởng kinh tế đạt 8,36%, cao nhất từ đầu nhiệm kỳ đến nay và liên tục năm sau tăng cao hơn năm trước (năm 2016 tăng trưởng 5,38%, năm 2017 tăng trưởng 6,5%). Cơ cấu kinh tế chuyển dịch tích cực, là năm đánh dấu tỷ trọng khu vực dịch vụ vượt qua khu vực nông nghiệp. Thu nhập bình quân đầu người đạt 42,05 triệu đồng, tăng 12,21% so với cùng kỳ. Tái cơ cấu nông nghiệp gắn với xây dựng nông thôn mới có nhiều khởi sắc; nhiều mô hình sản xuất hiệu quả được nhân rộng, đặc biệt mô hình nuôi tôm siêu thâm canh ứng dụng công nghệ cao trong nhà kín, nhà lưới, mô hình cánh đồng lớn sản xuất lúa chất lượng cao phục vụ tiêu thụ trong nước và đóng góp quan trọng trong tổng kim ngạch xuất khẩu 606 triệu USD của tỉnh.
+
+[[Hình:Hoàng hôn trên cánh đồng lúa ở xã Vĩnh Mỹ A, huyện Hòa Bình, tỉnh Bạc Liêu.jpg|nhỏ|phải|250px|<center>Cánh đồng lúa ở xã Vĩnh Mỹ A<br>huyện Hòa Bình (huyện)]]
+
+Đầu tư từ khu vực tư nhân phát triển mạnh mẽ, trong đó sôi động nhất là lĩnh vực năng lượng, với nhiều dự án điện gió, điện mặt trời đăng ký đầu tư phủ kín khu vực bờ biển và nhiều khu vực trên đất liền của tỉnh. Đặc biệt, tỉnh đã thu hút được dự án Nhà máy điện khí LNG Bạc Liêu với quy mô công suất 3.200MW, tổng vốn đầu tư 4,3 tỷ USD, hiện đang được các bộ, ngành Trung ương thẩm định, dự kiến hoàn tất thủ tục để khởi công trong năm 2019. Các lĩnh vực văn hóa, xã hội được quan tâm; công tác đền ơn đáp nghĩa, chăm lo gia đình chính sách, đồng bào dân tộc được thực hiện đầy đủ, kịp thời, qua đó góp phần tích cực vào việc duy trì ổn định chính trị, bảo đảm trật tự, an toàn xã hội, nâng cao đời sống vật chất, tinh thần của nhân dân. Đặc biệt, công tác giảm nghèo được thực hiện quyết liệt và đạt được kết quả tốt, với 4,12% hộ thoát nghèo (chỉ tiêu đề ra là 2%), kéo tỷ lệ hộ nghèo xuống còn 4,3%.
+
+[[Hình: BLcity.jpg|nhỏ|phải|250px|<center>Khu phố thương mại TP. Bạc Liêu]]
+
+Trong đó, điểm nhấn là chỉ đạo định hướng của Thủ tướng Chính phủ vào đầu năm và kết luận bổ sung của Ban Chấp hành Đảng bộ tỉnh vào giữa năm xác định 5 trụ cột trong phát triển kinh tế - xã hội của tỉnh gồm: (1) nông nghiệp, mà trọng tâm là nông nghiệp ứng dụng công nghệ cao, nâng cao hiệu quả sản xuất tôm, lúa gạo; (2) năng lượng tái tạo gồm điện gió, điện mặt trời và điện khí; (3) phát triển du lịch; (4) phát triển thương mại - dịch vụ, giáo dục, y tế chất lượng cao; (5) phát triển kinh tế biển gắn với đảm bảo quốc phòng - an ninh. Quyết định táo bạo này đã tạo nên đường hướng rõ ràng, cụ thể, giúp cho công tác chỉ đạo, điều hành của tỉnh cũng như các nguồn lực đầu tư xã hội được tập trung đúng mục tiêu, tạo sự mạch lạc, đồng bộ và có tính hiệu quả tốt hơn, qua đó phát huy được yếu tố thời cơ trong phát triển của tỉnh.
+
+Mục tiêu lớn nhất của Bạc Liêu trong nhiệm kỳ này là thúc đẩy phát triển kinh tế - xã hội, phấn đấu đến cuối nhiệm kỳ, đưa Bạc Liêu đứng vào tốp các tỉnh khá trong khu vực và trung bình khá của cả nước. Để đạt được mục tiêu này, từ đầu nhiệm kỳ tỉnh đã nhận thức rằng còn rất nhiều khó khăn cần phải vượt qua. Bởi lẽ, Bạc Liêu còn nghèo, với nhiều bất lợi về kết cấu hạ tầng, nguồn nội lực của nền kinh tế cũng như quy mô và sức cạnh tranh của doanh nghiệp còn yếu, hơn nữa vị trí địa lý của tỉnh cũng không thuận lợi. Nếu so sánh với các tỉnh trong vùng Đồng bằng sông Cửu Long thì hầu hết các chỉ số kinh tế - xã hội của Bạc Liêu đều nằm trong nhóm thứ hạng từ 9 đến 13, nếu không bứt phá, không phát triển nhanh hơn các tỉnh bạn thì mục tiêu chính của nhiệm kỳ sẽ không thể đạt được. Hơn nữa, trong 2 năm đầu nhiệm kỳ, do nhiều nguyên nhân khác nhau, trong đó khó khăn lớn nhất là cơn hạn mặn lịch sử làm cho tốc độ phát triển của tỉnh chưa đạt như kỳ vọng và thấp hơn rất xa mức bình quân của các tỉnh, thành phố trong khu vực; nếu với tốc độ đó thì Bạc Liêu mãi mãi không thể vươn lên để đạt mục tiêu đề ra.
+
+Trước tình thế bất lợi đó, Ban Chấp hành Đảng bộ tỉnh đã thảo luận và thống nhất xác định năm 2018 là năm bản lề, là động lực trong phát triển của tỉnh, phải quyết tâm, quyết liệt tối đa, tạo đột phá mạnh mẽ để Bạc Liêu bứt phá vươn lên. Nếu năm 2018 không thực hiện được, thì với thời gian 2 năm còn lại (2019 - 2020) không thể xoay chuyển được tình thế và có thể xem như Bạc Liêu chính thức không hoàn thành mục tiêu đề ra của nhiệm kỳ. Với quyết tâm đó, Ban Chấp hành Đảng bộ tỉnh đã thống nhất điều chỉnh nâng cao thêm đối với 6 chỉ tiêu kinh tế - xã hội, nhất là nâng tốc độ tăng trưởng từ 6,5 - 7% lên 7 - 7,5%; đồng thời xác định đường hướng phát triển dựa trên 5 trụ cột kinh tế - xã hội; về định lượng của mục tiêu này, tỉnh đã xác định 5 chỉ tiêu quan trọng phải đứng trong tốp 5 của các tỉnh, thành phố vùng Đồng bằng sông Cửu Long, đó là: Tăng trưởng kinh tế, thu nhập bình quân đầu người, tổng mức đầu tư toàn xã hội, sản lượng thủy sản và tỷ lệ giảm nghèo.
+
+Hội nghị sơ kết giữa nhiệm kỳ thực hiện Nghị quyết Đại hội Đảng bộ tỉnh lần thứ XV, Ban Chấp hành Đảng bộ tỉnh đã xác định 5 chỉ tiêu chủ yếu để so sánh với các tỉnh, thành phố bạn trong khu vực. Nếu so sánh theo 5 tiêu chí này thì đến cuối năm 2018, Bạc Liêu xếp thứ 4/13 về tăng trưởng kinh tế, 7/13 về thu nhập bình quân đầu người, 6/13 về tổng mức đầu tư toàn xã hội, 6/13 về sản lượng thủy sản và 5/13 về tỷ lệ hộ nghèo. Tổng hợp lại có thể thấy Bạc Liêu hiện đang đứng ở tốp giữa của khu vực Đồng bằng sông Cửu Long.
+
+Những kết quả đạt được trong năm 2018 của Bạc Liêu là khá tốt, song nếu tính cho cả giai đoạn 3 năm (2016 - 2018), chúng ta phát triển vẫn còn chậm, nhìn nhận khách quan thì tốc độ phát triển của Bạc Liêu cũng chỉ vừa đạt mức yêu cầu. Những khó khăn phía trước vẫn còn nhiều, nhiệm vụ cần phải thực hiện trong giai đoạn còn lại vẫn còn rất nặng nề; chúng ta phải vừa cùng "chạy", vừa tách tốp vượt lên, đây là một "cuộc đua" không hề dễ dàng. Song tôi tin tưởng rằng, với đường hướng phát triển đã được xác định rõ, cộng với đà phát triển hiện nay, nhất là làn sóng đầu tư vào 5 lĩnh vực trụ cột của tỉnh, thì những cơ hội phía trước để tỉnh Bạc Liêu hoàn thành mục tiêu lịch sử của nhiệm kỳ là tương đối tốt.
+
+Năm 2019, tốc độ tăng trưởng kinh tế đạt 10,61%, cao nhất từ đầu nhiệm kỳ đến nay, xếp thứ 2 ở khu vực ĐBSCL. Về phát triển công nghiệp, tỉnh đã tập trung phát triển năng lượng tái tạo gồm điện gió, điện mặt trời và điện khí. Hiện Nhà máy Điện gió Bạc Liêu đã hòa lưới điện quốc gia gần 800 triệu kWh và tiếp tục đầu tư giai đoạn 3. Nhà máy Điện gió Đông Hải 1 và Hòa Bình 1 cũng đã được khởi công trong năm. Riêng Dự án Nhà máy Điện khí LNG Bạc Liêu, quy mô công suất 3.200 MW, với tổng vốn đầu tư 4 tỷ USD, dự kiến khởi công vào cuối năm 2020.
+
+Lĩnh vực du lịch tiếp tục phát triển với nhiều kỳ vọng khi hạ tầng các khu, điểm du lịch được quan tâm đầu tư và khởi động nhiều dự án (đặc biệt là Dự án khu văn hóa đa năng ngoài công lập Công tử Bạc Liêu), sản phẩm dịch vụ - du lịch từng bước được hoàn thiện. Doanh thu du lịch - dịch vụ đạt khoảng 2.308 tỷ đồng, tăng 42,46% so với cùng kỳ, lượng khách cũng tăng 38,95% với hơn 2,5 triệu lượt khách. Công tác tuyên truyền, quảng bá, liên kết về du lịch ngày càng được chú trọng; trong đó, việc kết nối du lịch giữa TP. Hồ Chí Minh và 13 tỉnh, thành ĐBSCL trong năm là bước hội nhập đầy lạc quan của du lịch tỉnh nhà trước xu thế mới.
+
+'''Những lợi thế kinh tế''': Với những lợi thế về thiên nhiên, Bạc Liêu có nhiều tiềm năng để phát triển kinh tế biển, bao gồm: đánh bắt hải sản, nuôi trồng thủy sản, công nghiệp chế biến, dịch vụ tổng hợp, du lịch và giao thông, có ý nghĩa quan trọng tác động vào sự nghiệp phát triển kinh tế của tỉnh.
+
+Tỉnh Bạc Liêu đã có những chính sách đầu tư tín dụng ưu đãi góp phần nâng dần phương tiện khai thác biển với công suất lớn để thực hiện việc đánh bắt xa bờ, mở rộng diện tích nuôi tôm công nghiệp, bán công nghiệp, nâng cấp và xây dựng mới các nhà máy chế biến thủy sản với những thiết bị và công nghệ tiên tiến theo hướng xuất khẩu và có sức cạnh tranh trên thị trường thế giới. Bên cạnh đó, tăng cường đầu tư xây dựng kết cấu hạ tầng cho nghề biển mà trước mắt là hoàn chỉnh việc xây dựng cảng cá Gành Hào, một cảng cá có vị trí thuận lợi không chỉ đối với nghề biển Bạc Liêu mà còn đối với cả nước.
+
+'''Trung tâm ngành công nghiệp tôm'''
+
+[[Khu nông nghiệp ứng dụng công nghệ cao phát triển tôm Bạc Liêu]], được thành lập theo Quyết định số 694/QĐ-TTg<ref>{{Chú thích web|url=http://vanban.chinhphu.vn/portal/page/portal/chinhphu/hethongvanban?class_id=2&_page=1&mode=detail&document_id=189845#:~:text=Quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20s%E1%BB%91%20694%2FQ%C4%90,ph%C3%A1t%20tri%E1%BB%83n%20t%C3%B4m%20B%E1%BA%A1c%20Li%C3%AAu|tựa đề=Về việc thành lập và ban hành Quy chế hoạt động của Khu nông nghiệp ứng dụng công nghệ cao phát triển tôm Bạc Liêu|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref>, ngày 24/5/2017 của Thủ tướng Chính phủ. Khu nông nghiệp được xây dựng trên diện tích là 418,91 ha, thuộc địa bàn xã Hiệp Thành, thành phố Bạc Liêu. Chính thức khởi công xây dựng vào ngày 30/01/2018.
+
+==Xã hội==
+===Giáo dục===
+Hệ thống giáo dục của tỉnh Bạc Liêu có nhiều cấp học, bao gồm giáo dục mầm non, giáo dục phổ thông và giáo dục chuyên nghiệp. Theo thống kê đến ngày 30 tháng 9 năm 2007, Bạc Liêu có 234 trường học ở các cấp phổ thông, thấp nhất khu vực Đồng bằng Sông Cửu Long<ref>Theo số liệu của Tổng cục Thống kê, tại thời điểm 30-09-2007</ref>. Sáng ngày 20 tháng 7 năm 2009, 100% xã, phường, thị trấn trong toàn tỉnh có phòng học kiên cố. Toàn tỉnh Bạc Liêu có:
+* 64 trường Mầm non 
+* 154 trường Tiểu học 
+* 67 trường trung học cơ sở 
+* 85 trường Trung học
+*3 trường Cao đẳng (Cao đẳng Y tế Bạc Liêu; Cao đẳng nghề Bạc Liêu; Cao đẳng Kinh tế - Kỹ thuật Bạc Liêu)
+* 1 trường Đại học ([[Trường Đại học Bạc Liêu|Đại học Bạc Liêu]])
+Chỉ tiêu phổ cập đúng độ tuổi và THCS đều đạt và vượt tiêu chuẩn do Bộ Giáo dục & Đào tạo quy định: 96,93% đối tượng tốt nghiệp lớp 9; 81,35% đối tượng từ 15-18 tuổi có bằng tốt nghiệp THCS, trẻ em 6 tuổi vào lớp 1 đạt 99,10%, trẻ em 11-14 tuổi tốt nghiệp Tiểu học đạt 90,79%. 31/61 xã, phường đạt chuẩn phổ cập giáo dục tiểu học đúng độ tuổi.
+
+===Y tế===
+*Bệnh viện Thanh Vũ Media: Phường 3, TP. Bạc Liêu
+*Bệnh viện Thanh Vũ Media: Quốc lộ 1, phường 7, TP. Bạc Liêu
+*Các trung tâm y tế TP. Bạc Liêu, TX. Giá Rai, các huyện: Đông Hải, Hòa Bình, Hồng Dân, Phước Long, Vĩnh Lợi và các trung tâm y tế các xã, phường, thị trấn.
+
+==Dân số== 
+{{Lịch sử dân số
+|title = Lịch sử phát triển dân số tỉnh Bạc Liêu qua các năm
+|type = 
+|align = 
+|direction =
+| cols = 2
+|width = 12em
+|state = 
+|shading = 
+|pop_name =
+|percentages = 
+|footnote = 
+|source = Dân số tỉnh Bạc Liêu qua các năm
+<ref name=BAOBACLIEU>{{Chú thích web|url=http://www.baobaclieu.vn/tin-tuc/hoi-nghi-truc-tuyen-cong-bo-ket-qua-so-bo-tong-dieu-tra-dan-so-va-nha-o-nam-2019-59846.html|tựa đề= Tổng kết công tác điều tra dân số và nhà ở năm 2019 |ngày= 23 tháng 10 năm 2019 |website= Báo Bạc Liêu Online |url-status=live}}</ref><ref name="Số liệu của Tổng cục Thống kê">Số liệu của Tổng cục Thống kê</ref><ref name=ReferenceA>Niên giám thống kê tỉnh Bạc Liêu năm 2017, trang 73.</ref><ref name=BACLIEU2018>{{Chú thích web|url=https://www.cucthongkebaclieu.gov.vn/web/viewer.html?file=https://www.cucthongkebaclieu.gov.vn/TapTin/NoiDung/13/2019/07/ND20190716105157_Nien_giam_thong_ke_2018_tinh_Bac_Lieu.pdf|tựa đề= Niên giám Thống kê năm 2018 tỉnh Bạc Liêu |ngày= 30 tháng 6 năm 2019 |website= Cục thống kê tỉnh Bạc Liêu |url-status=live}}</ref>
+
+|[[1995]] |709.500
+|[[1996]] |716.300
+|[[1997]] |724.200
+|[[1998]] |732.100
+|[[1999]] |738.200
+|[[2000]] |749.700
+|[[2001]] |764.200
+|[[2002]] |777.400
+|[[2003]] |789.100
+|[[2004]] |801.300
+|[[2005]] |812.800
+|[[2006]] |823.800
+|[[2007]] |835.800
+|[[2008]] |847.500
+|[[2009]] |856.800
+|[[2010]] |866.082
+|[[2011]] |864.900
+|[[2012]] |869.300
+|[[2013]] |873.600
+|[[2014]] |885.547
+|[[2015]] |889.109
+|[[2016]] |891.641
+|[[2017]] |894.257
+|[[2018]] |897.020
+|[[2019]] |907.236
+|[[2020]] |913.481
+|[[2021]] |918.207
+|[[2022]] |921.809
+|[[31 tháng 12|31/12]]/[[2022]]|1.043.764
+}}
+
+Theo điều tra dân số ngày 1 tháng 4 năm 2019, dân số của Bạc Liêu là 907.236 người, mật độ dân số đạt 335 người/km², dân số sống tại thành thị đạt 251.676 người, chiếm khoảng 27,74% dân số toàn tỉnh, dân số sống tại nông thôn đạt 655.560 người, chiếm 72,26% dân số, trong đó nam đạt 453.972 người, nữ đạt 453.264 người. Tỷ lệ đô thị hóa tính đến năm 2022 đạt 28%.
+
+Bạc Liêu có ba dân tộc chủ yếu là [[Người Việt|Kinh]], [[Người Hoa|Hoa]] và [[Người Khmer (Việt Nam)|Khmer]]. Sự hòa quyện văn hóa giữa ba dân tộc đã tạo cho Bạc Liêu một nền văn hóa rất riêng biệt khó trộn lẫn từ văn hóa ẩm thực cho đến phong cách sống, giao tiếp hàng ngày.
+
+Tính đến ngày [[1 tháng 4]] năm [[2019]], toàn tỉnh có 10 [[tôn giáo]] khác nhau đạt 157.029 người, nhiều nhất là [[Phật giáo Việt Nam|Phật giáo]] đạt 131.226 người, [[Công giáo tại Việt Nam|Công giáo]] có 19.206 người, [[đạo Cao Đài]] có 5.550 người, [[Kháng Cách|đạo Tin Lành]] có 618 người, [[Tịnh độ cư sĩ Phật hội Việt Nam]] đạt 354 người. Còn lại các tôn giáo khác như [[Phật giáo Hòa Hảo]] có 39 người, [[Minh Sư Đạo]] có 15 người, [[Hồi giáo tại Việt Nam|Hồi giáo]] có 14 người, [[Baha'i giáo]] có năm người và [[Bửu Sơn Kỳ Hương]] chỉ có hai người.<ref name=dstcdtvn>[http://www.gso.gov.vn/Modules/Doc_Download.aspx?DocID=12724 Kết quả toàn bộ Tổng điều tra Dân số và Nhà ở Việt Nam năm 2009], Tổng cục Thống kê Việt Nam.</ref>
+
+Dân số trung bình năm 2020 của tỉnh Bạc Liêu đạt 913.481 người, tăng 5.240 người, tương đương tăng 0,58% so với năm 2019. Trong đó, dân số thành thị là 253.644 người chiếm 27,76%; dân số nông thôn 659.837 người chiếm 72,23%; dân số nam 457.072 người chiếm 50,04%; dân số nữ 456.409 người chiếm 49,96% trong tổng dân số.<ref name=BACLIEU2020/>
+
+Theo kết quả điều tra ngày 1 tháng 11 năm 2021, tỉnh Bạc Liêu có 918.207 người. Trong đó, dân số thành thị là 255.248 người (27,80%), dân số nông thôn là 662.959 người (72,20%).<ref name="BACLIEU1/11/2021">{{Chú thích web |url= https://vpubnd.baclieu.gov.vn/documents/211576/0/tai+lieu+%283%29.rar/abf44a7a-85bc-1d4a-7925-967b0208b56f?t=1637483803707 |tựa đề= Báo cáo kết quả sơ bộ tổng điều tra rà soát hộ nghèo, hộ cận nghèo trên địa bàn tỉnh Bạc Liêu giai đoạn 2022 – 2025: Họp với các Sở, ngành có liên quan để nghe báo cáo kết quả điều tra rà soát hộ nghèo |tác giả=  |ngày= 2021-11-22 |website= Văn phòng UBND tỉnh Bạc Liêu |url lưu trữ= https://web.archive.org/web/20211122152640/https://vpubnd.baclieu.gov.vn/documents/211576/0/tai%20lieu%20%283%29.rar/abf44a7a-85bc-1d4a-7925-967b0208b56f?t=1637483803707 |ngày lưu trữ= 2021-11-22 |ngày truy cập= 2021-11-22 |url-status= dead }}</ref>
+
+Dân số trung bình năm 2022 của tỉnh Bạc Liêu đạt 921.809 người, tăng 3.299 người, tương đương tăng 0,36% so với năm 2021. Trong đó, dân số thành thị 255.891 người, chiếm 27,76%; dân số nông thôn 665.918 người, chiếm 72,24%; dân số nam 462.136 người, chiếm 50,13%; dân số nữ 459.673 người, chiếm 49,87% trong tổng dân số.<ref name=BL2022>{{Chú thích web|url=https://baclieu.gov.vn/-/t%E1%BB%95ng-quan-kinh-t%E1%BA%BF-x%C3%A3-h%E1%BB%99i-t%E1%BB%89nh-b%E1%BA%A1c-li%C3%AAu?p_p_id=com_liferay_journal_web_portlet_JournalPortlet|tựa đề= Tổng quan kinh tế - xã hội tỉnh Bạc Liêu năm 2022 |tác giả= Niên giám Thống kê tỉnh Bạc Liêu năm 2022 |ngày= 2023-11-23 |website= Cổng thông tin điện tử tỉnh Bạc Liêu |url lưu trữ=https://web.archive.org/web/20231204195055/https://baclieu.gov.vn/-/t%E1%BB%95ng-quan-kinh-t%E1%BA%BF-x%C3%A3-h%E1%BB%99i-t%E1%BB%89nh-b%E1%BA%A1c-li%C3%AAu?p_p_id=com_liferay_journal_web_portlet_JournalPortlet|ngày lưu trữ= 2023-12-04 |ngày truy cập= 2023-12-04}}</ref>
+
+Dân số quy đổi tính đến ngày 31/12/2022 là 1.043.764 người.<ref name="02/ĐA-UBND">{{Chú thích web|url=https://baclieu.gov.vn/documents/35805/0/1757-TUHDND.pdf/7a681793-3a93-f3e6-9844-4a277fbe4f20?t=1724894324027|tựa đề= Đề án số 02/ĐA-UBND về việc sắp xếp đơn vị hành chính cấp huyện, cấp xã giai đoạn 2023 – 2025 của tỉnh Bạc Liêu |tác giả= N.Kim Yến |ngày= 2024-08-20 |website= Cổng thông tin điện tử tỉnh Bạc Liêu |url lưu trữ=https://web.archive.org/web/20240829105823/https://baclieu.gov.vn/documents/35805/0/1757-TUHDND.pdf/7a681793-3a93-f3e6-9844-4a277fbe4f20?t=1724894324027|ngày lưu trữ= 2024-08-29 |ngày truy cập= 2024-08-29 |url-status=dead}}</ref>
+
+Tỉnh Bạc Liêu hiện có dân số 925.170 người.<ref>{{Chú thích web|url=https://www.baobaclieu.vn/doi-song-xa-hoi/day-nhanh-cong-tac-dieu-tra-thu-thap-thong-tin-ve-thuc-trang-kinh-te-xa-hoi-cac-dan-toc-thieu-so-95749.html|tựa đề= Đẩy nhanh công tác điều tra, thu thập thông tin về thực trạng kinh tế - xã hội các dân tộc thiểu số |tác giả= Minh Đạt |ngày= 2024-07-15 |website= Báo Bạc Liêu |url lưu trữ=https://web.archive.org/web/20240918150049/https://www.baobaclieu.vn/doi-song-xa-hoi/day-nhanh-cong-tac-dieu-tra-thu-thap-thong-tin-ve-thuc-trang-kinh-te-xa-hoi-cac-dan-toc-thieu-so-95749.html|ngày lưu trữ= 2024-09-18 |ngày truy cập= 2024-09-18 |url-status=dead}}</ref><ref>{{Chú thích web|url=https://dantocmiennui.vn/bac-lieu-dieu-tra-thu-thap-de-co-thong-tin-chinh-xac-khi-xay-dung-chinh-sach-ve-dong-bao-dan-toc-post352437.html|tựa đề= Bạc Liêu điều tra, thu thập để có thông tin chính xác khi xây dựng chính sách về đồng bào dân tộc |tác giả= Tuấn Kiệt (TTXVN) |ngày= 2024-07-03 |website= Báo ảnh Dân tộc và Miền núi – TTXVN |url lưu trữ=https://web.archive.org/web/20240918150049/https://dantocmiennui.vn/bac-lieu-dieu-tra-thu-thap-de-co-thong-tin-chinh-xac-khi-xay-dung-chinh-sach-ve-dong-bao-dan-toc-post352437.html|ngày lưu trữ= 2024-09-18 |ngày truy cập= 2024-09-18 |url-status=dead}}</ref>
+
+==Cao ốc Bạc Liêu==
+[[Hình: Cao-ốc-bl.jpg|nhỏ|phải|250px|<center>Cao ốc ở thành phố Bạc Liêu]]
+
+Baclieu Tower từng là tòa nhà cao nhất [[Đồng bằng sông Cửu Long]] thời điểm tòa nhà này được khánh thành (năm 2011), cao 18 tầng, nằm tại trung tâm thành phố Bạc Liêu, đối diện bưu điện tỉnh Bạc Liêu, có vị trí đẹp nhất trung tâm thành phố.
+
+Tòa nhà này được đầu tư bởi tập đoàn PetroVietnam, khởi công từ ngày 29 tháng 9 năm 2010 và khánh thành vào ngày 30 tháng 4 năm 2011.
+
+Baclieu Tower có 18 tầng, bao gồm 1 tầng hầm, từ sân thượng của tòa nhà có thể thấy tổng quan về thành phố Bạc Liêu.
+
+Tuy nhiên, tòa nhà này không được khai thác sử dụng hiệu quả vì chủ đầu tư thua lỗ, dẫn tới một số hạng mục xuống cấp trầm trọng gây lãng phí.
+
+Tòa nhà này đã được quy hoạch trung tâm thương mại, khách sạn, trung tâm hội nghị, văn phòng...
+
+==Văn hóa==
+===Khám phá những giá trị văn hóa phi vật thể===
+Bên cạnh những di tích vật thể thì Bạc Liêu còn độc đáo bởi những giá trị văn hóa phi vật thể như các lễ hội, phong tục, tập quán cổ truyền. Đó là các lễ hội Kỳ yên, lễ hội Phật giáo Thượng Ngươn, Trung Ngươn, Hạ Ngươn; lễ hội Chôl Chnăm Thmây, Oóc-om-bóc, Đôn-ta của người Khmer; lễ Giỗ tổ cổ nhạc, lễ cúng Thanh minh...
+
+Văn hóa ẩm thực cũng tạo nên nét đặc trưng cho vùng đất cuối trời Nam này. Ẩm thực Bạc Liêu mang sắc thái dân tộc và yếu tố bản địa vùng miền. Nhiều món ăn tạo nên thương hiệu Bạc Liêu như bún bò cay, bánh xèo, bún nước lèo...
+
+Bạc Liêu là một trong những cái nôi của đờn ca tài tử Nam bộ. Đây là nơi sinh ra các nhạc sư, nghệ nhân, nhiều ca sĩ, nghệ sĩ lừng danh... Và nói đến đất nước - con người Bạc Liêu, không thể không nhắc đến những trang sử vẻ vang của hai lần giành lại chính quyền từ tay giặc không đổ máu, những cuộc nổi dậy của nông dân Ninh Thạnh Lợi, nông dân Nọc Nạng... Tất cả làm nên một Bạc Liêu với nhiều kỳ tích!
+
+Một sức hấp dẫn rất Bạc Liêu sẽ không chỉ dừng lại ở những địa điểm du lịch, những nét văn hóa phi vật thể độc đáo mà còn quyến rũ bởi văn hóa ứng xử, văn hóa giao tiếp, văn hóa làm du lịch của Bạc Liêu. Du khách về thăm Bạc Liêu hãy cảm nhận sức hấp dẫn, sự quyến rũ ấy bằng chính giác quan và cảm quan của mình!<ref>{{Chú thích web | url = http://baobaclieu.vn/newsdetails/1D3FE182765/Ve_Bac_Lieu_du_lich_mua_Festival_.aspx | tiêu đề =.:: Bạc Liêu Online::. | tác giả 1 = | ngày = | ngày truy cập = 23 tháng 9 năm 2015 | nơi xuất bản = | ngôn ngữ = }}</ref>
+
+==Du lịch==
+[[Hình: Tượng Cao Văn Lầu.jpg|nhỏ|phải|250px|<center>Khu di tích nhạc sĩ Cao Văn Lầu]]
+
+'''Tiềm năng du lịch''': Thế mạnh du lịch của Bạc Liêu là du lịch sinh thái, du lịch biển với những cảnh quan thiên nhiên độc đáo như vườn chim, vườn nhãn... đồng thời với những di tích lịch sử – văn hoá như: [[tháp cổ Vĩnh Hưng]], Nọc Nạng, đền thờ Chủ tịch Hồ Chí Minh, nhà lưu niệm cố nhạc sĩ Cao Văn Lầu, hệ thống đình, chùa... Sự hấp dẫn của du lịch Bạc Liêu còn ở những nét độc đáo trong ẩm thực, trang phục, lễ hội, dân tộc Việt và một bộ phận dân cư người Khmer, người Hoa.
+
+'''Thăm di tích, thắng cảnh...'''
+Vùng đất Bạc Liêu có nhiều di tích ghi dấu những sự kiện từ ngày đầu khai hoang mở đất. Đây còn là vùng đất hội tụ văn hóa của ba dân tộc Kinh - Hoa - Khmer thể hiện qua những công trình văn hóa độc đáo, tạo nên vẻ đẹp riêng Bạc Liêu.
+
+Trước hết, phải kể đến di tích quốc gia đặc biệt [[Tháp cổ Vĩnh Hưng|Di tích khảo cổ Vĩnh Hưng]]. Di tích này nằm cách thành phố Bạc Liêu khoảng 20&nbsp;km về hướng Tây Bắc, thuộc ấp Trung Hưng 1B, xã Vĩnh Hưng A, huyện Vĩnh Lợi. Đây là công trình kiến trúc nghệ thuật có niên đại 892 sau Công nguyên. Những cổ vật được phát hiện nơi này đã "kể lại" những ngày vàng son của nền văn hóa Óc Eo một thời.<ref>{{Chú thích web|url=https://baochinhphu.vn/xep-hang-3-di-tich-quoc-gia-dac-biet-1022407181913109.htm|tựa đề= Xếp hạng 3 di tích quốc gia đặc biệt |tác giả=|ngày= 2024-07-18 |website= Báo Điện tử Chính phủ |url lưu trữ=https://web.archive.org/web/20240718155856/https://baochinhphu.vn/xep-hang-3-di-tich-quoc-gia-dac-biet-1022407181913109.htm|ngày lưu trữ= 2024-07-18 |ngày truy cập= 2024-07-18 |url-status=dead}}</ref>
+
+Trở lại thành phố Bạc Liêu, du khách hãy đến xem [[đồng hồ Thái Dương]], một sản phẩm của nhà bác vật đầu tiên ở Việt Nam - ông [[Lưu Văn Lang]] (1880-1969). Đồng hồ Thái Dương được xây dựng bằng gạch và xi măng, chỉ dựa vào hướng đi của ánh nắng mặt trời để báo giờ.
+
+Quần thể nhà [[Công tử Bạc Liêu]] tọa lạc trên đường Điện Biên Phủ (phường 3) là địa chỉ không thể bỏ qua của du khách khi đến Bạc Liêu. Đây là nhà của ông Trần Trinh Trạch, cha của Trần Trinh Huy - người được mệnh danh là Công tử Bạc Liêu. Ngôi nhà xây dựng năm 1919 được coi là bề thế nhất của Bạc Liêu thời đó, do kỹ sư người Pháp thiết kế và có nhiều vật liệu phải chở từ Pháp sang. Nhà Công tử Bạc Liêu hiện được bày biện, phục tráng gần như nguyên trạng.
+
+Du khách muốn tận hưởng không khí mát dịu trong lành của rừng hoang sơ giữa lòng thành phố Bạc Liêu, hãy đến với vườn chim Bạc Liêu, cách trung tâm thành phố 6&nbsp;km về hướng biển. Đây là cảnh quan độc đáo mà thiên nhiên ban tặng cho Bạc Liêu, cũng là thảm rừng ngập mặn quý hiếm còn sót lại ở Việt Nam, là nơi cư trú của nhiều loài động, thực vật quý hiếm...
+
+Giữa lòng thành phố Bạc Liêu còn có khu du lịch sinh thái Hồ Nam, một trong sáu điểm du lịch tiêu biểu đồng bằng sông Cửu Long ở Bạc Liêu. Khu du lịch này có vị trí đắc địa về phong thủy với hồ nước rộng đến 12 ha bốn bề lộng gió, hệ thống các dịch vụ vừa hiện đại, vừa mang đậm tính dân dã truyền thống của Bạc Liêu xưa, đáp ứng nhu cầu vui chơi, giải trí, nghỉ dưỡng...
+
+Sau khi ngắm vườn chim, thăm vườn nhãn cổ, xem cây xoài 300 tuổi, một điểm không thể bỏ qua là khu Quán âm Phật đài được xây dựng gần cửa biển Nhà Mát - một công trình kiến trúc, văn hóa, tâm linh ở Bạc Liêu. Cách đây không xa lại có thêm khu biển nhân tạo vừa được mở cửa để phục vụ du khách. Ngoài ra, Bạc Liêu còn có rất nhiều đình, chùa và các đền thờ được xây dựng để thờ các vị tiền nhân có công lao đối với quê hương Bạc Liêu (chùa Vĩnh Đức, chùa Long Phước, chùa Xiêm Cán, chùa Giác Hoa, đình thần Nguyễn Trung Trực, đình Tân Hưng...). Đặc biệt, Bạc Liêu còn có Đền thờ Bác Hồ ở xã Châu Thới, huyện Vĩnh Lợi với khuôn viên rộng 6.000 m²; khu di tích Đồng Nọc Nạng (thị xã Giá Rai); khu di tích Ninh Thạnh Lợi (huyện Hồng Dân); khu lưu niệm Nghệ thuật đờn ca tài tử Nam bộ và nghệ nhân Cao Văn Lầu,...
+
+Vừa qua hiệp hội du lịch đồng bằng sông Cửu Long đã công nhận thêm 3 điểm du lịch tiêu biểu vùng đồng bằng sông Cửu Long năm 2014 ở Bạc Liêu là: Quảng trường Hùng Vương (thành phố Bạc Liêu), Khu nhà công tử Bạc Liêu (thành phố Bạc Liêu), Khu biển nhân tạo thuộc khu du lịch Nhà Mát (thành phố Bạc Liêu) nâng tổng số điểm du lịch tiêu biểu của tỉnh lên 6 điểm du lịch nhiều nhất toàn vùng.
+
+Hiện nay, Bạc Liêu chiếm 9/41 điểm du lịch tiêu biểu của ĐBSCL và dẫn đầu khu vực.
+*Trong năm 2015 du lịch Bạc Liêu đã có bước chuyển mình mạnh mẽ. Theo đó trong năm 2015 tỉnh đã đón 1,1 triệu lượt khách, doanh thu du lịch đạt gần 1000 tỷ đồng.
+*Trong năm 2016 du lịch Bạc Liêu đón tiếp gần 1,3 triệu lượt khách du lịch, trong đó doanh thu du lịch đạt 1100 tỷ đồng.
+*Trong năm 2017 du lịch Bạc Liêu đã đón hơn 1,5 triệu lượt khách và doanh thu đạt 1200 tỷ đồng.
+*Trong năm 2018 ngành du lịch tỉnh đón tiếp 1,8 triệu lượt khách, doanh thu hơn 1620 tỷ đồng.
+*Phấn đấu năm 2019 sẽ tiếp đón 2,2 triệu lượt khách du lịch và doanh thu đạt 2200 tỷ đồng.
+*Ngành du lịch Bạc Liêu phấn đấu đến năm 2030 tỉnh sẽ đón 4 triệu lượt khách du lịch.
+
+Hiện Bạc Liêu đứng thứ 5 khu vực Đồng bằng sông Cửu Long về lượng khách du lịch (sau Đồng Tháp, Tiền Giang, An Giang, Cần Thơ, Kiên Giang) và dẫn đầu khu vực về số lượng điểm du lịch tiêu biểu.
+
+Hiệp hội du lịch đồng bằng sông Cửu Long đã công nhận thêm 2 điểm du lịch tiêu biểu vùng đồng bằng sông Cửu Long năm 2022 ở Bạc Liêu là: Di tích lịch sử - văn hóa chùa Xiêm Cán (thành phố Bạc Liêu) và Di tích lịch sử Nọc Nạng (thị xã Giá Rai).
+
+Tính đến hết năm 2022, tỉnh Bạc Liêu có 11/53 điểm du lịch tiêu biểu của ĐBSCL và dẫn đầu khu vực.
+
+==Giao thông==
+
+*'''Đường bộ''':
+
+1. '''Quốc lộ 1''', đi qua huyện Vĩnh Lợi, thành phố Bạc Liêu, huyện Hòa Bình và thị xã Giá Rai.
+
+2. '''Tỉnh lộ 1''', nối huyện Hồng Dân với thành phố Bạc Liêu, đi qua các huyện Hồng Dân, Phước Long, Vĩnh Lợi, Hòa Bình.
+
+3. '''Tỉnh lộ 2''', nối thị trấn Phước Long (huyện Phước Long) với '''Quốc lộ 1''' tại xã Vĩnh Mỹ B (huyện Hòa Bình), để đến thành phố Bạc Liêu, '''tỉnh lộ 2''' đi qua huyện Phước Long và Hòa Bình.
+
+[[Hình: XebusPL.jpg|nhỏ|phải|250px|<center>Xe buýt tuyến Phước Long đi Bạc Liêu]]
+
+4. '''Quốc lộ Quản Lộ - Phụng Hiệp''': nối thành phố Ngã Bảy với thành phố Cà Mau, đi qua huyện Hồng Dân, Phước Long và thị xã Giá Rai.
+
+[[Hình: Kênhblcm.jpg|nhỏ|phải|250px|<center>Kênh Xáng Bạc Liêu - Cà Mau, đoạn qua chợ huyện Hòa Bình]]
+
+5. '''Tuyến đường Giá Rai - Gành Hào''': nối thị xã Giá Rai với huyện Đông Hải, đi qua thị xã Giá Rai và huyện Đông Hải.
+
+6. '''Quốc lộ 91C - đường Nam Sông Hậu''', chạy dọc theo sông Hậu và biển Đông, nối thành phố Cần Thơ với thành phố Bạc Liêu.
+
+7. '''Tuyến đường đê biển''', chạy dọc theo bờ biển Bạc Liêu, nối thị trấn Gành Hào với thành phố Bạc Liêu, đi qua thành phố Bạc Liêu, huyện Hòa Bình và huyện Đông Hải.
+
+8. Các hương lộ, huyện lộ khác và đường đô thị ở các phường, thị trấn.
+
+9. Đặc điểm chung của các tuyến đường ở Bạc Liêu (trừ các tuyến đường ở thành phố, thị xã và thị trấn) là đều nằm cạnh một con sông, con kênh nhất định. Đây cũng là đặc điểm của giao thông miền Tây Nam Bộ.
+
+*'''Đường thủy''': Bạc Liêu chỉ có hai con sông tự nhiên nằm ở phía bắc và phía nam của tỉnh đó là sông Gành Hào - ranh giới tự nhiên với tỉnh Cà Mau và sông Cái - ranh giới tự nhiên với tỉnh Hậu Giang, còn lại trên địa bàn tỉnh là các kênh đào. Giống như các tỉnh khác ở miền Tây, Bạc Liêu sở hữu cho mình một hệ thống kênh rạch chằng chịt nhưng đa phần là các con kênh nhỏ, chỉ có một vài con kênh lớn, lớn nhất là kênh Bạc Liêu - Cà Mau và kênh Quản Lộ - Phụng Hiệp. Kênh rạch ở Bạc Liêu chia làm 2 phần riêng biệt, từ kênh Bạc Liêu - Cà Mau trở xuống phía Nam đến bờ biển, nước của các con kênh ở đây là nước mặn, hệ sinh thái dưới nước của các con kênh này là hệ sinh thái nước mặn. Còn từ kênh Bạc Liêu - Cà Mau trở ra phía Bắc, nước của các con kênh ở đây là nước ngọt, hệ sinh thái dưới nước của các con kênh này là hệ sinh thái nước ngọt. Vào mùa khô, đôi khi tình trạng xâm nhập mặn vào các con kênh nội đồng vẫn còn hay xảy ra.
+
+'''Biển số xe'''
+
+* Biển số xe của tỉnh Bạc Liêu: 94.
+* Mỗi huyện, thị xã, thành phố của Bạc Liêu lại có các ký hiệu biển số xe mô tô khác nhau để phân biệt.
+
+- Thành phố Bạc Liêu: 94-K1/K2
+
+- Thị xã Giá Rai: 94-D1
+
+- Huyện Phước Long: 94-E1
+
+- Huyện Hồng Dân: 94-F1
+
+- Huyện Vĩnh Lợi: 94-C1/K1/K2
+
+- Huyện Đông Hải: 94-B1
+
+- Huyện Hòa Bình: 94-G1/K1/K2
+
+- Ký hiệu biển số xe ô tô ở tỉnh Bạc Liêu bao gồm: 94A, 94B, 94C, 94D, 94E, 94F, 94G, 94H, 94LD.
+
+- Ký hiệu biển số xe 50cc của tỉnh Bạc Liêu bao gồm: 94AB, 94AH.
+
+==Hình ảnh==
+<center><gallery>
+Hình:TP. Bạc Liêu, Bạc Liêu 1.jpg|Thành phố Bạc Liêu nhìn từ trên cao
+Hình:Bản đồ đá tỉnh Bạc Liêu.jpg|Bản đồ đá tỉnh Bạc Liêu
+Hình:Biểu tượng cây đờn kìm 1 Bạc Liêu.jpg|Cây đờn kìm về đêm 1
+Hình:Biểu tượng cây đờn kìm 2 Bạc Liêu.jpg|Cây đờn kìm về đêm 2
+Hình:Biểu tượng cây đờn kìm 3 Bạc Liêu.jpg|Biểu tượng cây đờn kìm
+Hình:Biểu tượng cây đờn kìm 4 Bạc Liêu.jpg|Cây đờn kìm nhìn từ đường Nguyễn Tất Thành
+Hình:Biểu tượng cây đờn kìm 5 Bạc Liêu.jpg|Cây đờn kìm nhìn từ đường Trần Huỳnh
+Hình:Biểu tượng cây đờn kìm 6 Bạc Liêu.jpg|Cây đờn kìm nhìn từ trên cao
+Hình:Quảng trường Hùng Vương Bạc Liêu 1+.jpg|Toàn cảnh trung tâm cây đờn kìm
+Hình:Quảng trường Hùng Vương Bạc Liêu 2.jpg|Quảng trường Hùng Vương về đêm 1
+Hình:Quảng trường Hùng Vương Bạc Liêu 3.jpg|Quảng trường Hùng Vương về đêm 2
+Hình:Quảng trường Hùng Vương Bạc Liêu 4.jpg|Một góc của cây đờn kìm
+Hình:Quảng trường Hùng Vương Bạc Liêu 5.jpg|Toàn cảnh Quảng trường Hùng Vương nhìn từ trên cao theo hướng đường Nguyễn Tất Thành
+Hình:Quảng trường Hùng Vương Bạc Liêu 6.jpg|Toàn cảnh Quảng trường Hùng Vương nhìn từ trên cao theo hướng đường Trần Huỳnh
+Hình:Quảng trường Hùng Vương Bạc Liêu 7.jpg|Một góc Quảng trường Hùng Vương
+Hình:Nhà hát Cao Văn Lầu 1 Bạc Liêu.jpg|Nhà hát Cao Văn Lầu
+Hình:Nhà hát Cao Văn Lầu 2 Bạc Liêu.jpg|Nhà hát Cao Văn Lầu mặt chính
+Hình:Nhà hát Cao Văn Lầu 3 Bạc Liêu.jpg|Nhà hát Cao Văn Lầu nhìn từ trên cao
+Hình:Biểu tượng kết nghĩa Bạc Liêu – Ninh Bình.jpg|Biểu tượng kết nghĩa Bạc Liêu – Ninh Bình mặt chính
+Hình:Biểu tượng kết nghĩa Bạc Liêu – Ninh Bình 2.jpg|Biểu tượng kết nghĩa Bạc Liêu – Ninh Bình mặt sau
+Hình:Biểu tượng kết nghĩa Bạc Liêu – Ninh Bình 3.jpg|Biểu tượng kết nghĩa Bạc Liêu – Ninh Bình
+Tập tin:Ngã tư cầu quay.jpg|<center>Ngã tư trung tâm <br> thành phố Bạc Liêu
+Tập tin:Đường phố Bạc Liêu.JPG|<center>Thành phố Bạc Liêu về đêm
+Tập tin:Một góc TX.Bạc Liêu..jpg|<center>Đường phố trung tâm thành phố Bạc Liêu
+Tập tin:BLcity.jpg|<center>Khu phố thương mại thành phố Bạc Liêu
+Tập tin:Khu lưu niệm Đờn ca tài tử Nam Bộ.jpg|Khu lưu niệm Đờn ca tài tử Nam Bộ ở thành phố Bạc Liêu
+Tập tin:Bạc Liêu skyline.jpg|<center> Phố thị bên dòng sông và bờ kè
+Tập tin:Nhà thiếu nhi Bạc Liêu.jpg|<center>Nhà Thiếu nhi Phùng Ngọc Liêm
+Tập tin:Nhà Công tử Bạc Liêu, TX.Bạc Liêu.jpg|<center>Nhà công tử Bạc Liêu
+Tập tin:Cao-ốc-bl.jpg|<center>Cao ốc ở thành phố Bạc Liêu
+Tập tin:Tượng Cao Văn Lầu.jpg|<center>Khu tưởng niệm<br> Cố nhạc sĩ Cao Văn Lầu
+Tập tin:Mộ Cao Văn Lầu.jpg|<center>Mộ hai ông bà<br>Cao Văn Lầu
+Tập tin:Quan Âm Phật Đài.jpg|<center> Quán Âm Phật Đài
+Tập tin:Tượng Quán Thế Âm ở Bạc Liêu.jpg|<center>Tượng Quan Âm
+Tập tin:Chùa Bang.jpg|<center>Cổ Miếu Phước Đức
+Tập tin:Địa Mẫu Cung.jpg|<center>Đền Địa Mẫu
+Tập tin:Kênh Nhà Mát.jpg|<center>Kênh Nhà Mát, phường Nhà Mát, thành phố Bạc Liêu
+Tập tin:Rạch Bạc Liêu, TX.Bạc Liêu.jpg|<center>Rạch ở Bạc Liêu<br>đi xuống Cà Mau
+Tập tin:Sông Gành Hào.jpg|<center>Sông Gành Hào ranh<br>giới giữa Bạc Liêu <br> và Cà Mau
+Tập tin:Sôngcáiblhg.jpg|<center>Sông Cái ranh giới <br> Tỉnh Bạc Liêu - Tỉnh Hậu Giang
+Tập tin:Bạc Liêu windpower farm.jpg|<center>Công trình điện gió <br> ở ven biển xã Vĩnh Trạch Đông, thành phố Bạc Liêu
+Tập tin:Thị trấn Giá Rai, Bạc Liêu.jpg|<center>Thị xã Giá Rai
+Tập tin:Kênh Bạc Liêu - Cà Mau, đoạn qua Giá Rai.jpg|<center>Kênh Bạc Liêu - Cà Mau<br>qua thị xã Giá Rai
+Tập tin:Nhà thờ Tắc Sậy.jpg|<center>Nhà thờ Tắc Sậy<br>ở xã Tân Phong, thị xã Giá Rai
+Tập tin:Cổng vào nhà thờ Tắc Sậy.jpg|<center>Cổng Nhà thờ Tắc Sậy, xã Tân Phong, thị xã Giá Rai
+Tập tin:Nơi an nghỉ của Cha Diệp trước 2004.jpg|<center>Tượng cố linh mục<br>Trương Bửu Diệp ở xã Tân Phong, thị xã Giá Rai
+Tập tin:Nơi an nghỉ của Cha Diệp.jpg|<center>Lăng mộ Cha Diệp ở xã Tân Phong, thị xã Giá Rai
+Tập tin:Kênhblcm.jpg|<center>Kênh Bạc Liêu -Cà Mau<br>qua Hòa Bình
+Tập tin:Lúa-hồng-dân.jpg|<center>Đồng lúa chín ở<br>huyện Hồng Dân
+Tập tin:Tượng đài Chiến Thắng Bạc Liêu.jpg|Tượng đài Chiến Thắng Bạc Liêu
+</gallery></center>
+
+==Tỉnh kết nghĩa==
+[[Hình:Biểu tượng kết nghĩa Bạc Liêu – Ninh Bình.jpg|250px|nhỏ|Biểu tượng kết nghĩa Bạc Liêu – Ninh Bình thuộc quần thể Quảng trường Hùng Vương]]
+
+[[Ninh Bình]] có các công trình phục vụ phát triển kinh tế xã hội mang tên các địa danh của tỉnh Bạc Liêu như: trường cấp II Ninh Bình - Bạc Liêu, sông Vĩnh Lợi, cống Vĩnh Lợi, cống Bạc Liêu ở xã Yên Mỹ, cống Bạc Liêu ở xã Khánh Lợi, trạm bơm Bạc Liêu, trục kênh Bạc Liêu.<ref>{{Chú thích web |url=http://www.dulichninhbinh.com.vn/ninhbinh-news/Nhung-cong-trinh-mang-nang-nghia-tinh-Ninh-Binh-Bac-Lieu.html |ngày truy cập=2017-03-26 |tựa đề=Những công trình mang nặng nghĩa tình Ninh Bình - Bạc Liêu |archive-date = ngày 27 tháng 3 năm 2017 |archive-url=https://web.archive.org/web/20170327080359/http://www.dulichninhbinh.com.vn/ninhbinh-news/Nhung-cong-trinh-mang-nang-nghia-tinh-Ninh-Binh-Bac-Lieu.html |url-status=dead }}</ref>
+
+Bạc Liêu có đường Ninh Bình là tuyến đường có Di tích lịch sử văn hóa Quốc gia là Khu lưu niệm nghệ thuật Đờn ca tài tử Nam Bộ và nhạc sĩ Cao Văn Lầu- đây là điểm tham quan, du lịch tiêu biểu của tỉnh Bạc Liêu. Trên Quảng trường Hùng Vương lớn nhất khu vực Đồng bằng sông Cửu Long tại Phường 1, Tp. Bạc Liêu có một công trình mang tên "Biểu tượng kết nghĩa Bạc Liêu - Ninh Bình". Đó là một biểu tượng có hồ nước rộng 176 m² với 3 vòm cong trên hồ liên kết với nhau tượng trưng cho sự trùng trùng điệp điệp, hùng vĩ của thiên nhiên đèo Ba Dội [[Ninh Bình]] hòa quyện với những ruộng muối đặc trưng của Bạc Liêu. Ngoài ra còn có một số công trình khác mang địa danh Ninh Bình như Trường THCS Bạc Liêu - Ninh Bình, Cầu Kim Sơn, Trường Tiểu học Hoa Lư, cầu [[Gia Viễn]], cầu Trường Yên, khu dân cư [[Tràng An]],... tại các huyện, thị xã, thành phố của tỉnh Bạc Liêu.<ref>{{chú thích web|url=http://dulich.dantri.com.vn/du-lich/co-mot-ninh-binh-o-bac-lieu-1427184883.htm|tiêu đề=Có một Ninh Bình ở Bạc Liêu|ngày=ngày 16 tháng 3 năm 2015|tác giả=Huỳnh Hải|website=dulich.dantri.com.vn|ngày truy cập=ngày 4 tháng 9 năm 2021}}</ref>
+* {{flagicon|CAM}} Tỉnh [[Sihanoukville (tỉnh)|Preah Sihanouk]], [[Vương quốc Campuchia]].
+* {{flagicon|JAP}} Tỉnh [[Nagasaki]], [[Nhật Bản]].
+* {{flagicon|LAO}} Tỉnh [[Borikhamxay]], [[Lào]].
+
+==Chú thích==
+{{tham khảo|30em}}
+===Sách===
+*[[Sơn Nam (nhà văn)|Sơn Nam]], ''Lịch sử khẩn hoang miền Nam'', Nhà xuất bản Trẻ, năm 2017.
+
+== Liên kết ngoài ==
+{{thể loại Commons|Bac Lieu}}
+{{Đơn vị hành chính cấp tỉnh Việt Nam}}
+{{Đơn vị hành chính thuộc tỉnh Bạc Liêu}}
+
+[[Thể loại:Bạc Liêu| ]]
+[[Thể loại:Tỉnh ven biển Việt Nam]]

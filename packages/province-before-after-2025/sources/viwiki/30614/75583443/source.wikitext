@@ -1,0 +1,294 @@
+{{nhiều vấn đề|
+{{Chú thích trong bài|date=tháng 7/2026}}
+{{cần biên tập|date=tháng 7/2026}}
+}}
+{{other|Đắk Nông (định hướng)}}
+{{Thông tin đơn vị hành chính Việt Nam 
+| Tỉnh
+| tên = Đắk Nông
+| tên cũ = [[Quảng Đức (tỉnh)|Quảng Đức]]
+| biệt danh = Xứ sở của những âm điệu <br> Thủ phủ [[hồ tiêu]] <br> Thủ phủ [[cà phê]]
+| logo = Logo tỉnh Đắk Nông.svg
+| ghi chú logo = Biểu trưng
+| hình = DraySap400.jpg
+| ghi chú hình = Một góc [[thác Đray Sáp]]
+| vĩ độ = 12.256812
+| kinh độ = 107.701721
+| diện tích = 6.509,27 km² <ref name=TT/><ref name="DT">{{Chú thích web |url= https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm |tựa đề= Dự kiến chi tiết diện tích, dân số, quy mô kinh tế của 34 tỉnh, thành mới |tác giả= Lê Hoa |ngày= 2025-06-09 |website= Báo Dân Trí |url lưu trữ= https://web.archive.org/web/20250610031809/https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm |ngày lưu trữ= 2025-06-10 |ngày truy cập= 2025-06-09 |url-status= dead }}</ref>
+| dân số = 746.149 người <ref name=TT/><ref name="DT">{{Chú thích web |url= https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm |tựa đề= Dự kiến chi tiết diện tích, dân số, quy mô kinh tế của 34 tỉnh, thành mới |tác giả= Lê Hoa |ngày= 2025-06-09 |website= Báo Dân Trí |url lưu trữ= https://web.archive.org/web/20250610031809/https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm |ngày lưu trữ= 2025-06-10 |ngày truy cập= 2025-06-09 |url-status= dead }}</ref>
+| thời điểm dân số = 31/12/2024
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:746.149|R}}/{{formatnum:6.509,27|R}})}} }} người/km² <ref name=TT>{{Chú thích web|url=https://tuoitre.vn/chi-tiet-du-kien-quy-mo-dan-so-dien-tich-kinh-te-cua-34-tinh-thanh-sau-sap-nhap-20250513081155167.htm|tựa đề= Chi tiết dự kiến quy mô dân số, diện tích, kinh tế của 34 tỉnh, thành sau sáp nhập |tác giả= Thành Chung |ngày= 2025-05-13 |website= Tuổi Trẻ Online |url lưu trữ=https://web.archive.org/web/20250513080219/https://tuoitre.vn/chi-tiet-du-kien-quy-mo-dan-so-dien-tich-kinh-te-cua-34-tinh-thanh-sau-sap-nhap-20250513081155167.htm|ngày lưu trữ= 2025-05-13 |ngày truy cập= 2025-05-13 |url-status= dead }}</ref><ref name="DT">{{Chú thích web |url= https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm |tựa đề= Dự kiến chi tiết diện tích, dân số, quy mô kinh tế của 34 tỉnh, thành mới |tác giả= Lê Hoa |ngày= 2025-06-09 |website= Báo Dân Trí |url lưu trữ= https://web.archive.org/web/20250610031809/https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm |ngày lưu trữ= 2025-06-10 |ngày truy cập= 2025-06-09 |url-status= dead }}</ref>
+| vùng = [[Duyên hải Nam Trung Bộ và Tây Nguyên|Tây Nguyên]]
+| dân tộc = [[Người Việt|Kinh]], [[Người Ê Đê|Ê-đê]], [[Người Nùng|Nùng]], [[Người M'Nông|M'Nông]], [[Người Tày|Tày]]
+| tỉnh lỵ = Thành phố [[Gia Nghĩa]] 
+| thành lập = 1 tháng 1 năm 2004<ref>{{Chú thích web|url=https://hethongphapluat.com/nghi-quyet-so-22-2003-qh11-ve-viec-chia-va-dieu-chinh-dia-gioi-hanh-chinh-mot-so-tinh-do-quoc-hoi-ban-hanh.html|tựa đề= Nghị quyết số 22/2003/QH11 về việc chia và điều chỉnh địa giới hành chính một số tỉnh |ngày= 2003-11-26 |website= Hệ thống pháp luật |url lưu trữ=|ngày lưu trữ=|ngày truy cập= |url-status=live}}</ref>
+| giải thể = 12 tháng 6 năm 2025<ref name="202/2025/QH15"/>
+| chủ tịch UBND = [[Hồ Văn Mười]]
+| hội đồng nhân dân = 52 đại biểu
+| chủ tịch HĐND = [[Lưu Văn Trung]]
+| chủ tịch UBMTTQ = [[Điểu Xuân Hùng]]
+| chánh án TAND = [[Bùi Danh Đại]]
+| viện trưởng VKSND = [[Tạ Đình Đề]]
+| bí thư = [[Ngô Thanh Danh]]
+| phân chia hành chính = 1 thành phố, 7 huyện
+| thời điểm kinh tế = 2024
+| GRDP = 56.806,5 tỉ đồng (2,48 tỉ USD) <ref name=TT/><ref name="DT">{{Chú thích web |url= https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm |tựa đề= Dự kiến chi tiết diện tích, dân số, quy mô kinh tế của 34 tỉnh, thành mới |tác giả= Lê Hoa |ngày= 2025-06-09 |website= Báo Dân Trí |url lưu trữ= https://web.archive.org/web/20250610031809/https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm |ngày lưu trữ= 2025-06-10 |ngày truy cập= 2025-06-09 |url-status= dead }}</ref>
+| GRDP bình quân đầu người = 76,48 triệu đồng (3.248 USD) <ref name=TT/><ref name="DT">{{Chú thích web |url= https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm |tựa đề= Dự kiến chi tiết diện tích, dân số, quy mô kinh tế của 34 tỉnh, thành mới |tác giả= Lê Hoa |ngày= 2025-06-09 |website= Báo Dân Trí |url lưu trữ= https://web.archive.org/web/20250610031809/https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm |ngày lưu trữ= 2025-06-10 |ngày truy cập= 2025-06-09 |url-status= dead }}</ref>
+| mã địa lý = [[ISO 3166-2:VN|VN-72]]
+| mã hành chính = 67<ref>{{Chú thích web |url=https://danhmuchanhchinh.gso.gov.vn/ |title=Tổng cục Thống kê |access-date=2022-04-09 |archive-date=2021-01-10 |archive-url=https://web.archive.org/web/20210110034519/https://www.gso.gov.vn/phuong-phap-thong-ke/danh-muc/don-vi-hanh-chinh/ |url-status=dead }}</ref>
+| mã bưu chính = [[Mã bưu chính Việt Nam|64xxxx]]
+| mã điện thoại = [[Mã điện thoại Việt Nam|0261]]
+| biển số xe = [[Biển xe cơ giới Việt Nam|48]]
+}}
+
+'''Đắk Nông''' là một [[Tỉnh (Việt Nam)|tỉnh]] cũ thuộc vùng [[Duyên hải Nam Trung Bộ và Tây Nguyên|Tây Nguyên]], [[Trung Bộ|miền Trung]] [[Việt Nam]]. Từng tồn tại trong hai giai đoạn: Từ ngày [[23 tháng 1]] năm [[1959]] (khi đó mang tên tỉnh [[Quảng Đức (tỉnh)|Quảng Đức]]) đến ngày [[24 tháng 2]] năm [[1976]] và từ ngày [[26 tháng 11]] năm [[2003]] đến ngày [[1 tháng 7]] năm [[2025]]. Địa phận của tỉnh hiện nay tương ứng với phần phía bắc của tỉnh [[Lâm Đồng]].
+
+Năm [[2024]], Đắk Nông là tỉnh, thành [[Việt Nam]] đông thứ 57 về số dân, xếp thứ 52 về [[Tổng sản phẩm trên địa bàn (GRDP)]], xếp thứ 47 về [[Tổng sản phẩm trên địa bàn (GRDP)|GRDP]] bình quân đầu người, đứng thứ 7 về tốc độ tăng trưởng [[Tổng sản phẩm trên địa bàn (GRDP)|GRDP]]. Với 746.149 người dân,<ref>{{Chú thích web|url=https://www.gso.gov.vn/default.aspx?tabid=714|title=Dân số các tỉnh Việt Nam|last=|first=|date=|website=Tổng cục Thống Kê Việt Nam|archive-url=|archive-date=|url-status=|access-date=Ngày 30 tháng 9 năm 2019}}</ref> số liệu GRDP đạt 56.807 tỉ [[Đồng (đơn vị tiền tệ)|Đồng]] (tương ứng với 2,48 tỷ USD), GRDP bình quân đầu người đạt 76,48 triệu đồng (tương ứng với 3.248 USD), tốc độ tăng trưởng GRDP đạt 8,63%.<ref name=":0">{{Chú thích web|url=https://baodaknong.org.vn/thoi-su-trong-tinh/toc-do-tang-truong-dak-nong-dung-thu-7-ca-nuoc-90837.html#:~:text=Ng%C3%A0y%2029%2F12%2C%20C%E1%BB%A5c%20Th%E1%BB%91ng%20k%C3%AA%20t%E1%BB%89nh%20%C4%90%E1%BA%AFk%20N%C3%B4ng,t%E1%BB%B7%20%C4%91%E1%BB%93ng%2C%20t%C4%83ng%208%2C63%25%20so%20v%E1%BB%9Bi%20n%C4%83m%20tr%C6%B0%E1%BB%9Bc.|title=Tình hình kinh tế, xã hội Đắk Nông năm 2021|last=|first=|date=|website=Bộ Kế hoạch và Đầu tư|archive-url=https://web.archive.org/web/20220109142838/https://baodaknong.org.vn/thoi-su-trong-tinh/toc-do-tang-truong-dak-nong-dung-thu-7-ca-nuoc-90837.html#:~:text=Ng%C3%A0y%2029%2F12%2C%20C%E1%BB%A5c%20Th%E1%BB%91ng%20k%C3%AA%20t%E1%BB%89nh%20%C4%90%E1%BA%AFk%20N%C3%B4ng,t%E1%BB%B7%20%C4%91%E1%BB%93ng%2C%20t%C4%83ng%208%2C63%25%20so%20v%E1%BB%9Bi%20n%C4%83m%20tr%C6%B0%E1%BB%9Bc.|archive-date=2022-01-09|url-status=dead|access-date=Ngày 30 tháng 12 năm 2021}}</ref>
+
+Ngày [[12 tháng 6]] năm [[2025]], [[Quốc hội Việt Nam|Quốc hội]] thông qua Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh năm 2025, theo đó tỉnh được giải thể cùng tỉnh [[Bình Thuận (tỉnh)|Bình Thuận]] để sáp nhập vào tỉnh [[Lâm Đồng]].<ref name="202/2025/QH15">{{Chú thích web|url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94532|tựa đề= Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh |ngày= 2025-06-12 |website= Cổng thông tin điện tử Quốc hội Việt Nam |url lưu trữ=https://web.archive.org/web/20250612150244/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94532|ngày lưu trữ= 2025-06-12 |ngày truy cập= 2025-06-12 |url-status=live}}</ref><ref name=":NQSN2025">{{Chú thích web |date=16 tháng 6 năm 2025 |title=TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm |publisher=Báo Điện tử Chính phủ |access-date=2025-06-30 |archive-date=2025-06-30 |archive-url=https://web.archive.org/web/20250630073035/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm |url-status=live }}</ref>
+
+==Địa lý==
+===Vị trí địa lý===
+[[Đắc Nông|Đắk Nông]] nằm ở cửa ngõ [[Phía Tây Nam|phía tây nam]] của [[Tây Nguyên (Việt Nam)|Tây Nguyên]], nằm trong vùng [[Tọa độ địa lý|tọa độ]] từ 11°45 đến 12°50 [[vĩ độ|vĩ độ bắc]] và từ 107°12 đến 108°07 [[Kinh độ|kinh độ đông]].<ref name="toado">[http://tipcdaknong.com.vn/vi/gii-thiu/thong-tin-quy-hoch/201-v-tri-a-ly Vị trí địa lý tỉnh Đắk Nông] {{Webarchive|url=https://web.archive.org/web/20120830164225/http://tipcdaknong.com.vn/vi/gii-thiu/thong-tin-quy-hoch/201-v-tri-a-ly |date = ngày 30 tháng 8 năm 2012}}, Trang Thông tin Điện Tử TTXT - Đầu tư, TM & DL Tỉnh Đắk Nông.</ref> Trung tâm hành chính của tỉnh là thành phố [[Gia Nghĩa]], nằm cách thành phố [[Buôn Ma Thuột (thành phố)|Buôn Ma Thuột]] 125&nbsp;km theo đường [[quốc lộ 14]], cách trung tâm [[Thành phố Hồ Chí Minh]] khoảng 250&nbsp;km về phía Nam, cách trung tâm thành phố [[Đà Nẵng]] khoảng 689&nbsp;km về phía Bắc, cách trung tâm thủ đô [[Hà Nội]] khoảng 1358&nbsp;km về phía Bắc, có vị trí địa lý:
+*Phía đông và phía bắc giáp tỉnh [[Đắk Lắk]]
+*Phía tây giáp tỉnh [[Bình Phước (tỉnh)|Bình Phước]] và tỉnh [[Mondulkiri]] ([[Campuchia]]) với [[biên giới|đường biên giới]] dài khoảng 141&nbsp;km<ref>[http://biengioilanhtho.gov.vn/vie/chieudaibiengioitrendat-nd-a554016d.aspx Chiều dài biên giới trên đất liền Việt Nam - Campuchia] {{Webarchive|url=https://web.archive.org/web/20121204052117/http://biengioilanhtho.gov.vn/vie/chieudaibiengioitrendat-nd-a554016d.aspx |date = ngày 4 tháng 12 năm 2012}}, Ủy ban Biên giới Quốc gia, Bộ Ngoại giao Việt Nam</ref>
+*Phía nam giáp tỉnh [[Lâm Đồng]].<ref name="vitri1">[http://www.chinhphu.vn/portal/page/portal/chinhphu/cactinhvathanhpho/tinhdaknong/thongtintinhthanh?view=introduction&provinceId=1356 Vị trí địa lý], Cổng Thông tin điện tử Chính phủ.</ref>
+
+==== Các điểm cực của tỉnh Đắk Nông ====
+*Điểm cực Đông: xã [[Đắk Som]], huyện [[Đắk Glong]]
+*Điểm cực Tây: xã [[Quảng Trực]], huyện [[Tuy Đức (huyện)|Tuy Đức]]
+*Điểm cực Nam: xã [[Quảng Tín (xã)|Hưng Bình]], huyện [[Đắk R'lấp]]
+*Điểm cực Bắc: xã [[Ea Pô]], huyện [[Cư Jút (huyện)|Cư Jút]].
+
+Trên địa bàn tỉnh Đắk Nông có 2 cửa khẩu quốc tế với [[Campuchia|Vương quốc Campuchia]] là cửa khẩu [[cửa khẩu Đăk Per|Đăk Per]] thuộc huyện [[Đắk Mil (huyện)|Đắk Mil]] và [[Bup'rang]] thuộc địa phận [[Tuy Đức (huyện)|Tuy Đức]].<ref name="toado" />
+
+===Điều kiện tự nhiên===
+[[Hình: Cao nguyên Mơ Nông, Đắk Nông.jpg|nhỏ|phải|250px|<center>Cao nguyên Mơ Nông</center>]]
+
+Đắk Nông nằm trọn trên [[M'nông|cao nguyên M'Nông]], với độ cao trung bình từ 600 mét đến 700 mét so với mặt nước biển, cao nhất là ở Tà Đùng với độ cao lên đến 1.982 mét. Nhìn chung [[địa hình]] Đắk Nông chạy dài và thấp dần từ đông sang tây. Địa hình đa dạng, phong phú và bị chia cắt mạnh, có sự xen kẽ giữa các núi cao, với các [[cao nguyên]] rộng lớn, dốc thoải, lư­ợn sóng, khá bằng phẳng xen kẽ các dải đồng bằng thấp trũng.<ref name="dktn01">[http://www.daknong.gov.vn/gioithieu/Pages/dieu-kien-tu-nhien.aspx Điều kiện tự nhiên tỉnh Đắc Nông] {{Webarchive|url=https://web.archive.org/web/20170302134220/http://www.daknong.gov.vn/gioithieu/Pages/dieu-kien-tu-nhien.aspx |date=2017-03-02 }}, Cổng thông tin điện tử [[Đắc Nông|tỉnh Đắk Nông]]</ref>
+
+Khí hậu Đắk Nông chuyển tiếp giữa hai tiểu vùng khí hậu Tây Nguyên và Đông Nam Bộ, chính vì vậy chế độ khí hậu mang đặc điểm chung của khí hậu nhiệt đới gió mùa cận xích đạo, nhưng có sự nâng lên của địa hình nên có đặc trưng của khí hậu cao nguyên nhiệt đới ẩm, vừa chịu ảnh hưởng của [[gió mùa Tây Nam]] khô nóng. Khí hậu phân hóa thành 2 mùa rõ rệt là mùa mưa và mùa khô. Mùa mưa thường kéo dài từ tháng 4 đến hết tháng 11, tập trung trên 90% lượng mưa cả năm. Lượng mưa trung bình năm 2.513mm. Mùa khô từ tháng 12 đến hết tháng 3 năm sau, lượng mưa không đáng kể. Nhiệt độ trung bình năm 22–23<sup>0</sup>C, nhiệt độ cao nhất 35<sup>0</sup>C, thấp nhất 14<sup>0</sup>C. Với điều kiện thời tiết này rất phù hợp với phát triển các cây trồng nhiệt đới lâu năm. Tuy nhiên [[khí hậu]] ở Đắk Nông cũng có những mặt bắt lợi là sự mất cân đối về lượng mưa trong năm và sự biến động lớn về biên độ nhiệt ngày đêm và theo mùa, nên yếu tố quyết định đến sản xuất và sinh hoạt là việc cấp nước, giữ nước và việc bố trí mùa vụ cây trồng.<ref name="dktn01"/>
+
+Đắk Nông có mạng lưới sông suối, hồ, đập phân bố tương đối đều khắp, thuận lợi để khai thác nguồn nước phục vụ sản xuất nông nghiệp, công nghiệp, xây dựng các công trình thủy điện. Đất đai Đắk Nông khá phong phú và đa dạng, được chia thành 5 nhóm đất chính gồm Nhóm đất xám, đất đỏ bazan, còn lại là đất đen bồi tụ. [[Đất nông nghiệp]] chiếm 47% tổng diện tích tự nhiên. Trong đó đất trồng cây công nghiệp lâu năm chiếm phần lớn diện tích.<ref name="dktn01"/>
+
+==Hành chính==
+Tỉnh Đắk Nông có 8 đơn vị hành chính cấp huyện, bao gồm 1 thành phố và 7 huyện với 71 đơn vị hành chính cấp xã, bao gồm 6 phường, 5 thị trấn và 60 xã.<ref name=NQ835 /> Tỉnh còn được phân chia thành 731 thôn, buôn, tổ dân phố.<ref>{{Chú thích web|url=https://vbpl.vn/daknong/Pages/vbpq-van-ban-goc.aspx?ItemID=168997|tiêu đề=Về việc Quy định số lượng Tổ bảo vệ an ninh, trật tự; số lượng thành viên Tổ bảo vệ an ninh, trật tự trên địa bàn tỉnh Đắk Nông|ngày=2024-07-01|url-status=live}}</ref>
+{|class= "wikitable sortable" style= "font-size:90%; width:90%; border:0; text-align: center; line-height:100%;"
+|+ 
+|-
+!style= "background:#e5e4e2; color:#0047ab; height:17px; " |Đơn vị hành chính
+!style= "background: #96c; color:#7fffd4;" |Thành phố <br>[[Gia Nghĩa]]
+!style= "background: #96c; color:#7fffd4;" |Huyện <br>[[Cư Jút (huyện)|Cư Jút]]
+!style= "background: #96c; color:#7fffd4;" |Huyện <br>[[Đắk Glong]]
+!style= "background: #96c; color:#7fffd4;" |Huyện <br>[[Đắk Mil (huyện)|Đắk Mill]]
+!style= "background: #96c; color:#7fffd4;" |Huyện <br>[[Đắk R'lấp]]
+!style= "background: #96c; color:#7fffd4;" |Huyện <br>[[Đắk Song (huyện)|Đắk Song]]
+!style= "background: #96c; color:#7fffd4;" |Huyện <br>[[Krông Nô (huyện)|Krông Nô]]
+!style= "background: #96c; color:#7fffd4;" |Huyện <br>[[Tuy Đức (huyện)|Tuy Đức]]
+|-
+!style= "background:#9cc; color:navy; " | Diện tích (km²)
+|style= "background: beige; color:#000;" | 284,11
+|style= "background: beige; color:#000;" | 720,70
+|style= "background: beige; color:#000;" | 1.447,76
+|style= "background: beige; color:#000;" | 681,58
+|style= "background: beige; color:#000;" | 635,56
+|style= "background: beige; color:#000;" | 806,46
+|style= "background: beige; color:#000;" | 813,74
+|style= "background: beige; color:#000;" | 1.119,25
+|-
+!style= "background:#9cc; color:navy; " |Dân số (người) 
+|style= "background: #ACE1AF; color: black; " | 63.046
+|style= "background: #ACE1AF; color: black; " | 92.464
+|style= "background: #ACE1AF; color: black; " | 67.782
+|style= "background: #ACE1AF; color: black; " | 100.702
+|style= "background: #ACE1AF; color: black; " | 84.283
+|style= "background: #ACE1AF; color: black; " | 80.726
+|style= "background: #ACE1AF; color: black; " | 75.435
+|style= "background: #ACE1AF; color: black; " | 61.384
+|-
+!style= "background:#9cc; color:navy; " | Mật độ (người/km²)
+|style= "background: lavender; color:#000;" | 221,91
+|style= "background: lavender; color:#000;" | 128,30
+|style= "background: lavender; color:#000;" | 46,82
+|style= "background: lavender; color:#000;" | 147,75
+|style= "background: lavender; color:#000;" | 132,59
+|style= "background: lavender; color:#000;" | 100,10
+|style= "background: lavender; color:#000;" | 92,70
+|style= "background: lavender; color:#000;" | 54,84
+|-
+!style= "background:#9cc; color:navy; " |Số đơn vị hành chính
+|style= "background:#ccf; color:#000;" | 6 phường, 2 xã 
+|style= "background:#ccf; color:#000;" | 1 thị trấn, 7 xã 
+|style= "background:#ccf; color:#000;" | 7 xã
+|style= "background:#ccf; color:#000;" | 1 thị trấn, 9 xã
+|style= "background:#ccf; color:#000;" | 1 thị trấn, 10 xã
+|style= "background:#ccf; color:#000;" | 1 thị trấn, 8 xã
+|style= "background:#ccf; color:#000;" | 1 thị trấn, 11 xã
+|style= "background:#ccf; color:#000;" | 6 xã
+|-
+!style= "background:#9cc; color:navy; " | Năm thành lập
+|style= "background: lavender; color:#000;" | 2020
+|style= "background: lavender; color:#000;" | 1990
+|style= "background: lavender; color:#000;" | 1975
+|style= "background: lavender; color:#000;" | 1975
+|style= "background: lavender; color:#000;" | 1986
+|style= "background: lavender; color:#000;" | 2001
+|style= "background: lavender; color:#000;" | 1987
+|style= "background: lavender; color:#000;" | 2006
+|-
+|colspan="14" style="text-align: center; font-size:90%;"|
+|}
+
+==Lịch sử==
+{{chính|Lịch sử hành chính Đắk Nông}}
+[[Thời Pháp thuộc]] năm 1893, [[người Pháp]] toàn quyền cai trị vùng cao nguyên Trung phần, trong đó có khu vực nay là tỉnh Đắk Nông. Hệ thống hành chính thực dân tập trung ở [[Đăk Mil]] và [[Đăk Song]]. Trong thời gian từ năm 1912 đến năm 1936, tại khu vực cao nguyên M'Nông đã diễn ra cuộc khởi nghĩa lớn và quy mô kéo dài chống lại thực dân Pháp do thủ lĩnh người dân tộc [[M'Nông]] là [[N'trang Lơng]] lãnh đạo. Năm 1940, bên cạnh nhà tù [[Buôn Ma Thuột (thành phố)|Buôn Ma Thuột]], Pháp cho xây dựng Ngục [[Đăk Mil]] (nay thuộc huyện [[Đăk Mil]]).
+
+Khu vực này năm 1946 thuộc [[Xứ Thượng Nam Đông Dương]] rồi đến năm 1950 thì gom vào [[Hoàng triều Cương thổ]] trước khi đơn vị này bị xóa bỏ năm 1955 dưới chính thể [[Việt Nam Cộng hòa]]. Từ năm 1959, khu vực Nâm Nung trở thành khu căn cứ của lực lượng quân cách mạng.
+
+Tháng 1 năm 1959, chính quyền [[Việt Nam Cộng hòa]] thành lập tỉnh [[Quảng Đức (tỉnh)|Quảng Đức]] trên cơ sở tách gần như toàn bộ quận [[Đắk Song (huyện)|Đăk Song]] (trừ tổng Đăk Lao ở phía bắc) và một phần quận Lăk từ tỉnh Darlac ([[Đắk Lắk]]), cùng với một phần nhỏ tỉnh [[Phước Long (tỉnh)|Phước Long]] và tỉnh [[Lâm Đồng]]. Tỉnh lị đặt tại [[Gia Nghĩa]]. Địa giới hành chính tỉnh Quảng Đức, về cơ bản giống như địa giới tỉnh Đắk Nông ngày nay (trừ huyện [[Cư Jút (huyện)|Cư Jút]] hiện nay khi đó thuộc quận [[Ban Mê Thuột]] của tỉnh Darlac), được chia làm 3 quận: Đức Lập, Kiến Đức, Khiêm Đức và khu hành chính [[Đức Xuyên]]. Tháng 12 năm 1960, Chính quyền Cách mạng cũng đã quyết định thành lập tỉnh Quảng Đức, giữa năm 1961, tỉnh Quảng Đức do khu VI trực tiếp chỉ đạo. Đầu năm 1962, Chính quyền Cách mạng quyết định giải thể tỉnh Quảng Đức, chuyển Đức Lập, Đức Xuyên nhập về tỉnh Đắk Lắk, Kiến Đức nhập về tỉnh Phước Long, Khiêm Đức nhập về tỉnh Lâm Đồng.
+
+Sau ngày hai miền thống nhất, tháng 5 tháng 1975, tỉnh Quảng Đức được tái lập lại.
+
+Ngày 20 tháng 9 năm 1975, Bộ Chính trị ban hành Nghị quyết số 245-NQ/TW<ref>{{Chú thích web|url=https://photo.znews.vn/w660/Uploaded/dqmblcvo/2025_03_13/1.jpg|tựa đề= Nghị quyết số 245-NQ/TW về việc bỏ khu, hợp tỉnh |tác giả=|ngày= 1975-09-20 |website=|url lưu trữ=https://web.archive.org/web/20250407082825/https://photo.znews.vn/w660/Uploaded/dqmblcvo/2025_03_13/1.jpg|ngày lưu trữ= 2025-04-07 |ngày truy cập= 2025-04-07 |url-status=live}}</ref> về việc Hợp nhất tỉnh [[Đắk Lắk]], thêm các huyện [[Ayun Pa (thị xã)|Cheo Reo]], [[Đắk Mil (huyện)|Đức Lập]] của tỉnh [[Quảng Đức (tỉnh)|Quảng Đức]], tên gọi tỉnh mới cùng với nơi đặt tỉnh lỵ sẽ do địa phương đề nghị lên.
+
+Tháng 11 năm 1975, tỉnh Quảng Đức sáp nhập vào tỉnh [[Đắk Lắk]].
+
+Ngày 24 tháng 2 năm 1976, Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam ban hành Nghị định số 3/NQ/1976<ref>{{Chú thích web|url=http://luutruquocgia1.org.vn/wp-content/uploads/2017/05/anh2.png|tựa đề= Nghị định số 3/NQ/1976 về việc giải thể khu, hợp nhất tỉnh ở miền Nam Việt Nam |tác giả=|ngày= 1976-02-24 |website= Trung tâm Lưu trữ quốc gia I |url lưu trữ=https://web.archive.org/web/20250507064804/http://luutruquocgia1.org.vn/wp-content/uploads/2017/05/anh2.png|ngày lưu trữ= 2025-05-07 |ngày truy cập= 2025-05-07 |url-status= dead }}</ref> về việc Sáp nhập tỉnh [[Quảng Đức (tỉnh)|Quảng Đức]] vào tỉnh [[Đắk Lắk]], tên gọi tỉnh mới cùng với nơi đặt tỉnh lỵ sẽ do địa phương đề nghị lên.
+
+Ngày 26 tháng 11 năm 2003, Quốc hội ban hành Nghị quyết số 22/2003/QH11<ref>{{Chú thích web|url=https://hethongphapluat.com/nghi-quyet-so-22-2003-qh11-ve-viec-chia-va-dieu-chinh-dia-gioi-hanh-chinh-mot-so-tinh-do-quoc-hoi-ban-hanh.html|tựa đề= Nghị quyết số 22/2003/QH11 về việc chia và điều chỉnh địa giới hành chính một số tỉnh |ngày= 2003-11-26 |website= Hệ thống pháp luật |url lưu trữ=|ngày lưu trữ=|ngày truy cập= |url-status=live}}</ref> về việc chia tỉnh [[Đắk Lắk]] thành tỉnh [[Đắk Lắk]] và tỉnh Đắk Nông.
+
+Khi tách ra, tỉnh Đắk Nông có 6 đơn vị hành chính gồm 6 huyện: [[Cư Jút (huyện)|Cư Jút]], [[Đắk Mil (huyện)|Đắk Mil]], [[Đắk Nông (huyện)|Đắk Nông]], [[Đắk R'lấp]], [[Đắk Song (huyện)|Đắk Song]], [[Krông Nô (huyện)|Krông Nô]]. Tỉnh lỵ đặt tại thị trấn Gia Nghĩa, huyện Đắk Nông.<ref name=NQ22>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-22-2003-QH11-chia-va-dieu-chinh-dia-gioi-hanh-chinh-tinh-51694.aspx|tựa đề=Nghị quyết số 22/2003/QH11 về việc chia và điều chỉnh địa giới hành chính một số tỉnh do Quốc Hội ban hành|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref>
+
+Ngày [[27 tháng 6]] năm [[2005]], chia huyện Đắk Nông thành [[Gia Nghĩa|thị xã Gia Nghĩa]] (thị xã tỉnh lị tỉnh Đắk Nông) và huyện [[Đắk Glong]].<ref>{{Chú thích web |url=http://thuvienphapluat.vn/archive/Nghi-dinh/Nghi-dinh-82-2005-ND-CP-thanh-lap-phuong-xa-thi-xa-Gia-Nghia-va-doi-ten-huyen-Dak-Nong-thanh-huyen-Dak-Glong-tinh-Dak-Nong-vb2482t11.aspx |title=Nghị định 82/2005/NĐ-CP về việc thành lập thị xã Gia Nghĩa, thành lập các phường, xã thuộc thị xã Gia Nghĩa và đổi tên huyện Đắk Nông thành huyện Đắk Glong, tỉnh Đắk Nông |access-date=2013-12-31 |archive-date=2017-03-28 |archive-url=https://web.archive.org/web/20170328195518/http://thuvienphapluat.vn/archive/Nghi-dinh/Nghi-dinh-82-2005-ND-CP-thanh-lap-phuong-xa-thi-xa-Gia-Nghia-va-doi-ten-huyen-Dak-Nong-thanh-huyen-Dak-Glong-tinh-Dak-Nong-vb2482t11.aspx |url-status=dead }}</ref>
+
+Ngày [[22 tháng 11]] năm [[2006]], chia huyện Đắk R'lấp thành 2 huyện: [[Đắk R'lấp]] và [[Tuy Đức (huyện)|Tuy Đức]].<ref>[http://thuvienphapluat.vn/archive/Nghi-dinh/Nghi-dinh-142-2006-ND-CP-dieu-chinh-dia-gioi-hanh-chinh-xa-huyen-thanh-lap-xa-thuoc-huyen-Dak-R-Lap-Song-Mil-thanh-lap-Tuy-Duc-thuoc-Dak-Nong-vb15650t11.aspx Nghị định 142/2006/NĐ-CP về việc điều chỉnh địa giới hành chính xã, huyện; thành lập xã thuộc các huyện Đắk R'Lấp, Đắk Song, Đắk Mil và thành lập huyện Tuy Đức thuộc tỉnh Đắk Nông]</ref>
+
+Ngày [[1 tháng 1]] năm [[2020]], chuyển thị xã Gia Nghĩa thành [[Gia Nghĩa|thành phố Gia Nghĩa]]. Từ đó, tỉnh Đắk Nông có 1 thành phố Gia Nghĩa (tỉnh lị) và 7 huyện: Cư Jút, Đắk Glong, Đắk Mil, Đắk R'lấp, Đắk Song, Krông Nô, Tuy Đức.<ref name="NQ835">{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-835-NQ-UBTVQH14-2019-thanh-lap-phuong-Quang-Thanh-thi-xa-Gia-Nghia-Dak-Nong-433007.aspx|tựa đề=Nghị quyết 835/NQ-UBTVQH14 năm 2019 về việc thành lập phường Quảng Thành thuộc thị xã Gia Nghĩa và thành phố Gia Nghĩa thuộc tỉnh Đắk Nông|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref>
+
+Ngày 12 tháng 6 năm 2025, Quốc hội ban hành Nghị quyết số 202/2025/QH15<ref name="202/2025/QH15"/> về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực ngày thông qua và chính thực đi vào hoạt động từ ngày [[1 tháng 7]] năm [[2025]]). Theo đó, sáp nhập tỉnh Đắk Nông vào tỉnh [[Lâm Đồng]].
+
+==Kinh tế==
+{{Chính|Danh sách đơn vị hành chính Việt Nam theo GRDP bình quân đầu người}}
+{{Chính|Danh sách đơn vị hành chính Việt Nam theo GRDP}}Năm 2021, mức độ tăng trưởng kinh tế tỉnh Đắk Nông đứng thứ 2 Khu vực [[Tây Nguyên]] và đứng thứ 7 so với cả nước. Tổng sản phẩm trên địa bàn ([[GRDP]]) năm 2021 theo giá so sánh 2010 ước đạt 20.728 tỉ đồng (tương đương 896,1 triệu [[USD]]), tăng 8,63% so với năm trước. Thu nhập bình quân đầu người ước đạt 59,61 triệu đồng/người (tương đương 2.225 USD/người). Thu ngân sách Nhà nước trên địa bàn tỉnh năm 2021 ước đạt 2.847 tỉ đồng, đạt 103,74% dự toán địa phương giao và đạt 112,25% so với cùng kỳ năm trước; Chi ngân sách là 8.598 tỉ đồng, đạt 121,69% dự toán địa phương giao và tăng 12,91% so với năm trước. Tổng mức bán lẻ hàng hóa và doanh thu dịch vụ tiêu dùng ước tính năm 2021 tăng thấp hơn so với mức tăng của các năm trước (năm 2021 tăng 4,90%, năm 2020 tăng 6,37%, năm 2019 tăng 10,38% so với cùng kỳ).<ref>{{Chú thích web |url=https://baodaknong.org.vn/thoi-su-trong-tinh/toc-do-tang-truong-dak-nong-dung-thu-7-ca-nuoc-90837.html#:~:text=Ng%C3%A0y%2029%2F12%2C%20C%E1%BB%A5c%20Th%E1%BB%91ng%20k%C3%AA%20t%E1%BB%89nh%20%C4%90%E1%BA%AFk%20N%C3%B4ng,t%E1%BB%B7%20%C4%91%E1%BB%93ng%2C%20t%C4%83ng%208%2C63%25%20so%20v%E1%BB%9Bi%20n%C4%83m%20tr%C6%B0%E1%BB%9Bc. |title=Bản sao đã lưu trữ |access-date=2022-01-09 |archive-date=2022-01-09 |archive-url=https://web.archive.org/web/20220109142838/https://baodaknong.org.vn/thoi-su-trong-tinh/toc-do-tang-truong-dak-nong-dung-thu-7-ca-nuoc-90837.html#:~:text=Ng%C3%A0y%2029%2F12%2C%20C%E1%BB%A5c%20Th%E1%BB%91ng%20k%C3%AA%20t%E1%BB%89nh%20%C4%90%E1%BA%AFk%20N%C3%B4ng,t%E1%BB%B7%20%C4%91%E1%BB%93ng%2C%20t%C4%83ng%208%2C63%25%20so%20v%E1%BB%9Bi%20n%C4%83m%20tr%C6%B0%E1%BB%9Bc. |url-status=dead }}</ref>
+
+Về cơ cấu nền kinh tế năm 2021, khu vực nông, lâm nghiệp và thủy sản chiếm 38,11% GRDP; khu vực công nghiệp và xây dựng chiếm 18,74%; khu vực dịch vụ chiếm 38,69%; thuế sản phẩm (-) trừ trợ cấp sản phẩm, chiếm 4,46%.
+
+Tổng sản lượng lương thực năm 2011 đạt 317,5 ngàn tấn, bằng 99,97% kế hoạch. Sản lượng cà phê nhân 140.069 tấn, 75% hộ dân cư nông thôn được sử dụng nước sạch. Giá trị sản xuất trên 01 ha canh tác đạt 39,02 triệu, tăng 2,03 triệu so với năm [[2010]].<ref name="kt2011">[http://vukehoach.mard.gov.vn/DataStore/chienluoc/2068BC%20Tong%20ket%202011%20So%20NN%20(chinh%20thuc2).doc Năm 2011, tốc độ tăng trưởng GDP toàn tỉnh đạt 12,13%] {{Webarchive|url=https://web.archive.org/web/20130512125032/http://vukehoach.mard.gov.vn/DataStore/chienluoc/2068BC%20Tong%20ket%202011%20So%20NN%20(chinh%20thuc2).doc |date=2013-05-12 }}, UBND tỉnh Đắk Nông - Vụ Kế hoạch</ref>
+
+Trong năm 2022, UBND tỉnh đã chỉ đạo, điều hành thực hiện hoàn thành vượt và đạt 11/11 chỉ tiêu kinh tế - xã hội đã đề ra. Tốc độ tăng trưởng GRDP ước đạt 7,59%, tăng 0,09% so với kế hoạch; thu ngân sách Nhà nước ước đạt 3.475 tỷ đồng, vượt 15,8% kế hoạch; tổng vốn đầu tư toàn xã hội ước đạt 19.280 tỷ đồng, tăng 14,5% so với năm 2021; GRDP bình quân đầu người ước đạt 59,61 triệu đồng, đạt 112% kế hoạch; Tỷ lệ hộ nghèo giảm trên 3%, tỷ lệ hộ nghèo đồng bào dân tộc thiểu số tại chỗ giảm trên 5%; Tổng mức bán lẻ hàng hóa và doanh thu dịch vụ đạt 19.312 tỷ đồng, tăng 21% so với cùng kỳ; Tổng lượt khách du lịch đến Đắk Nông năm ước thực hiện cả năm 2022 đạt 480.000 lượt, tăng 280,6% so với cùng kỳ; Tỷ lệ che phủ rừng đạt 38,5%, trồng mới rừng tập trung đạt 2.039,57 ha; xây dựng nông thôn mới tiếp tục được quan tâm, dự kiến có thêm 3 xã đạt chuẩn nông thôn mới và 2 xã đạt chuẩn nông thôn mới nâng cao; công tác đảm bảo an sinh xã hội, chăm lo đời sống nhân dân, các lĩnh vực văn hoá, giáo dục, môi trường, cải cách hành chính, chuyển đổi số, phòng chống tham nhũng, tiêu cực tiếp tục được quan tâm chỉ đạo và có những chuyển biến tích cực; quốc phòng, an ninh, trật tự an toàn xã hội được giữ vững...
+
+==Xã hội==
+===Giáo dục===
+Tính đến thời điểm ngày 30 tháng 9 năm 2011, trên địa bàn toàn tỉnh Đắk Nông có 240 trường học ở cấp phổ, trong đó có Trung học phổ thông (cấp 3) có 22 trường, Trung học cơ sở (cấp 2) có 82 trường, Tiểu học có 136 trường, bên cạnh đó còn có 89 trường mẫu giáo.<ref name="gdvn2011"/> Với hệ thống trường học như thế, nền giáo dục trong địa bàn tỉnh Đắk Nông cũng tương đối hoàn chỉnh, góp phần giảm thiểu nạn mù chữ trong địa bàn tỉnh.<ref name="gdvn2011">[http://www.gso.gov.vn/Modules/Doc_Download.aspx?DocID=15355 Thống kê về Giáo dục Việt Nam, Niên giám thống kê 2011], Theo tổng cục thống kê [[Việt Nam]]</ref>
+Ngoài ra tỉnh có 1 trường chuyên đó là Trường THPT chuyên Nguyễn Chí Thanh: Số 08 Lê Duẩn, Thành phố Gia Nghĩa.
+
+Tính đến hết năm 2022, toàn tỉnh có 367 cơ sở giáo dục, trong đó có 41 cơ sở giáo dục ngoài công lập, có 179/316 trường MN-PT công lập đạt chuẩn quốc gia, đạt 56,65%. Cụ thể: Giáo dục mầm non có 126 trường, 36 trường ngoài công lập, 41 trường chuẩn quốc gia, đạt 45,5%. Tiểu học có 119 trường, 01 trường ngoài công lập, 72 trường chuẩn quốc gia, đạt 61,53%. THCS có 79 trường, 02 trường ngoài công lập, 52 trường trường chuẩn quốc gia, đạt 67,53%. THPT có 33 trường, 01 trường ngoài công, 14 trường chuẩn quốc gia, đạt 43,75%. Giáo dục thường xuyên có 08 trung tâm (gồm 01 trung tâm cấp tỉnh và 07 trung tâm cấp huyện). Giáo dục hòa nhập có 02 trung tâm, 01 trung tâm tư thục.
+
+===Y tế===
+Theo thống kê về y tế năm 2011, trên địa bàn toàn tỉnh Đắk Nông có 79 cơ sở khám chữa bệnh trực thuộc Sở Y tế. Trong đó có 8 [[trạm xá]], 71 trạm y tế phường xã, với 1029 giường bệnh và 258 bác sĩ, 596 y sĩ, 859 y tá và khoảng 483 nữ hộ sinh.<ref>[http://www.gso.gov.vn/Modules/Doc_Download.aspx?DocID=15356 Y tế, Văn hoá, Thể thao và Mức sống dân cư ], Tổng cục thống kê</ref>
+
+Đắk Nông có bệnh viện tuyến tỉnh là Bệnh viện Đa khoa tỉnh Đắk Nông, nhưng cơ sở vật chất và kỹ thuật tại bệnh viện còn nhiều mặt hạn chế, thiếu các máy móc thiết bị hỗ trợ nên tình trạng bệnh nhân phải chuyển tuyến đến các bệnh viện tuyến trên như: [[Bệnh viện Chợ Rẫy]] (Hồ Chí Minh), [[Bệnh viện Đà Nẵng]] (Đà Nẵng), [[Bệnh viện Bạch Mai]] (Hà Nội), Bệnh viện Đa khoa vùng Tây Nguyên (tỉnh [[Đắk Lắk]]) còn cao. Ngành Y tế của tỉnh đang tập trung về nhân lực, tìm hiểu các kỹ thuật hiện đại, tham gia các khóa đào tạo từ các bệnh viện tuyến trên để hạn chế được tình trạng trên.
+
+Toàn ngành có 14 đơn vị trực thuộc Sở Y tế (trong đó, có 06 đơn vị tuyến tỉnh: Chi cục Dân số KHHGĐ, Chi cục An toàn Vệ sinh thực phẩm, Bệnh viên đa khoa tỉnh, Trung tâm Giám đinh y khoa, Trung tâm Pháp Y, Trung tâm kiểm soát bệnh tật tỉnh và 08 Trung tâm Y tế các huyện/thành phố) với khoảng hơn 2.000 cán bộ công chức, viên chức và người lao động. Tổng số biên chế hiện có/biên chế giao là 2186/2156, trong đó, tổng số bác sĩ là 507 (sau đại học là 149); cử nhân và thạc sĩ y tế công cộng là 11; chủng loại khác là 1668.
+
+Bệnh viện đa khoa tỉnh với quy mô 380 giường bệnh với 411 cán bộ y tế (Bác sỹ: 119; Dược: 24; Điều dưỡng: 149; Kỹ thuật viên: 32, Chuyên ngành khác: 87).
+
+Tuyến huyện gồm 7 Trung tâm Y tế đa chức năng có 915 giường bệnh với 991 cán bộ y tế (Bác sỹ: 249; Dược: 106; Điều dưỡng: 261; Kỹ thuật viên: 59, Chuyên ngành khác: 316).
+
+Tuyến xã gồm 71 xã, phường, thị trấn: 561 cán bộ y tế (Bác sỹ: 85; Dược: 73; Điều dưỡng: 148; Chuyên ngành khác: 225).
+
+==Dân số==
+{{Lịch sử dân số
+|title = Lịch sử phát triển dân số tỉnh Đắk Nông qua các năm
+|type = 
+|align = 
+|direction =
+|cols = 2
+|width = 12em
+|state = 
+|shading = 
+|pop_name =
+|percentages = 
+|footnote = 
+|source = Niên giám thống kê tỉnh Đắk Nông, Tổng cục Thống kê <ref name="Diện tích, dân số và mật độ dân số phân theo địa phương"/>
+| [[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2003]] | 363.118
+| [[2004]] | 403.400
+| [[2005]] | 423.600
+| [[2006]] | 440.900
+| [[2007]] | 457.300
+| [[2008]] | 474.400
+| [[2009]] | 491.000
+| [[2010]] | 505.200
+| [[2011]] | 519.600
+| [[2012]] | 536.700
+| [[2013]] | 555.100
+| [[2014]] | 571.300
+| [[2015]] | 587.800
+| [[2016]] | 605.400
+| [[2017]] | 625.600
+| [[2018]] | 645.400
+| [[2019]] | 625.800
+| [[2020]] | 637.900
+| [[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2020]] | 737.907
+| [[2021]] | 664.400
+| [[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2021]] | 734.448
+| [[2022]] | 670.600
+| [[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2022]] | 674.206
+| [[2023]] | 681.900
+| [[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2023]] | 777.777
+| [[1 tháng 4|01]]/[[Tháng tư|04]]/[[2024]] | 692.896
+| [[2024]] | 695.684
+| [[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2024]] | 746.149
+}}
+
+Tính đến năm 2024, tỉnh Đắk Nông có diện tích tự nhiên 6.509,27&nbsp;km²,<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương"/> dân số trung bình là 695.680 người,<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương"/> trong đó dân số nam ước tính đạt khoảng 355.510 người chiếm ({{formatnum:{{#expr:355510/695680*100round2}}}}%),<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương">[https://www.nso.gov.vn/px-web-2/?pxid=V0203-07&theme=D%C3%A2n%20s%E1%BB%91%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng Diện tích, dân số và mật độ dân số phân theo địa phương], Trang Thông tin điện tử Cục Thống kê - Bộ Tài chính</ref> dân số nữ ước tính đạt khoảng 340.170 người chiếm ({{formatnum:{{#expr:340170/695680*100round2}}}}%),<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương"/> dân số thành thị ước tính đạt khoảng 120.030 người chiếm ({{formatnum:{{#expr:120030/695680*100round2}}}}%),<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương">[https://www.nso.gov.vn/px-web-2/?pxid=V0203-07&theme=D%C3%A2n%20s%E1%BB%91%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng Diện tích, dân số và mật độ dân số phân theo địa phương], Trang Thông tin điện tử Cục Thống kê - Bộ Tài chính</ref> dân số nông thôn ước tính đạt khoảng 575.650 người chiếm ({{formatnum:{{#expr:575650/695680*100round2}}}}%),<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương"/> với mật độ dân số là {{formatnum:{{#expr:floor({{formatnum:695.680|R}}/{{formatnum:6.509,27|R}})}} }} người/km².<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương"/>
+
+Tính đến ngày 31 tháng 12 năm 2024, tỉnh Đắk Nông có diện tích tự nhiên 6.509,27&nbsp;km², dân số là 746.149 người, với mật độ dân số {{formatnum:{{#expr:floor({{formatnum:746.149|R}}/{{formatnum:6.509,27|R}})}} }} người/km².<ref name=TT/><ref name="DT">{{Chú thích web |url= https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm |tựa đề= Dự kiến chi tiết diện tích, dân số, quy mô kinh tế của 34 tỉnh, thành mới |tác giả= Lê Hoa |ngày= 2025-06-09 |website= Báo Dân Trí |url lưu trữ= https://web.archive.org/web/20250610031809/https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm |ngày lưu trữ= 2025-06-10 |ngày truy cập= 2025-06-09 |url-status= dead }}</ref>
+
+Tính đến ngày [[1 tháng 4]] năm [[2019]], toàn tỉnh có 12 [[tôn giáo]] khác nhau đạt 281.643 người, nhiều nhất là [[Công giáo tại Việt Nam|Công giáo]] có 176.790 người, tiếp theo là [[Kháng Cách|đạo Tin Lành]] có 83.700 người, [[Phật giáo Việt Nam|Phật giáo]] có 20.600 người, [[đạo Cao Đài]] có 341 người. Còn lại các tôn giáo khác như [[Phật giáo Hòa Hảo]] có 97 người, [[Minh Lý đạo]] có 70 người, [[Hồi giáo tại Việt Nam|Hồi giáo]] có 18 người, [[Tứ Ân Hiếu Nghĩa]] có chín người, [[Baha'i|tôn giáo Baha'i]] có bảy người, [[Tịnh độ cư sĩ Phật hội Việt Nam]] có sáu người, [[Bà La Môn]] có bốn người và 1 người theo [[Minh Sư đạo]].<ref name="dstcdtvn">[http://www.gso.gov.vn/Modules/Doc_Download.aspx?DocID=12724 Kết quả toàn bộ Tổng điều tra Dân số và Nhà ở Việt Nam năm 2009], Tổng cục Thống kê Việt Nam.</ref>
+
+Theo thống kê của tổng cục thống kê [[Việt Nam]], tính đến ngày 1 tháng 4 năm 2009, toàn tỉnh [[Đắc Nông|Đắk Nông]] có 40 dân tộc. Trong đó, đông nhất là [[người Việt|người kinh]] với 332.431 người, xếp thứ 2 là [[người Mnông]] với 39.964 người, vị trí thứ 3 là [[người Nùng]] với 27.333 người, [[người Mông]] ở vị trí thứ 4 với 21.952 người, cùng với các dân tộc khác như [[người Tày]] với 20.475 người, [[người Dao]] có 13.932 người, [[Người Thái (Việt Nam)|người Thái]] có 10.311 người, [[người Mạ]] có 6.456 người, Ê Đê có 5.271 người, [[Người Hoa tại Việt Nam|người Hoa]] có 4.686 người, [[người Mường]] có 4.070 người<ref name="dstcdtvn"/>...cùng một số dân tộc ít người khác.
+
+==Văn hóa==
+Nét đặc sắc của Đắk Nông có lẽ vẫn phần nào là rất nhiều của Đắk Lắk do một thời gian dài tỉnh này là một khu vực của Đắk Lắk.
+
+Vùng đất này có nền văn hóa cổ truyền khá đa dạng của nhiều dân tộc đậm nét truyền thống và bản sắc riêng. Nơi đây còn lưu giữ nhiều pho sử thi truyền miệng rất độc đáo như [[Đam San|sử thi ''Đam San'']] dài hàng ngàn câu. Các luật tục cổ, kiến trúc [[nhà sàn]], [[nhà rông]] và tượng nhà mồ còn chứa bao điều bí ẩn đầy hấp dẫn.
+
+Các loại nhạc cụ dân tộc từ lâu đời đã trở nên nổi tiếng và là niềm tự hào của cả vùng [[Tây Nguyên]], của văn hóa dân gian Việt Nam: bộ đàn đá của người M'Nông (huyện Lăk - Đăk Lăk), bộ chiêng đá được phát hiện tại [[Đắk R'lấp]] có niên đại hàng ngàn năm về trước, đàn [[T'rưng]], đàn [[K'lông pút]], đàn nước, kèn, sáo... Nếu đúng dịp, du khách sẽ được tham dự những lễ hội độc đáo còn nguyên chất dân gian. Trong lễ hội, cả buôn làng cầm tay nhau nhảy múa xung quanh đống lửa theo nhịp của cồng, chiêng.
+
+Đăk Nông là vùng đất sinh sống từ hàng ngàn đời của đồng bào các dân tộc tại chỗ, đồng thời cũng là vùng đất quần tụ của cư dân từ nhiều vùng miền về sinh cơ, lập nghiệp nên đời sống tâm linh, tôn giáo, tín ngưỡng cũng vô cùng phong phú.
+
+Ngoài ra, đồng bào các dân tộc Đăk Nông còn có rất nhiều tín ngưỡng để tôn thờ, đặc biệt là đồng bào các dân tộc tại chỗ thờ cúng Yàng (Trời), thần Núi, thần Sông v.v. và rất nhiều lễ hội như: Lễ hội Đâm trâu (ăn trâu). Lễ mừng nhà mới, Lễ mừng mùa, Lễ bỏ mả .v.v. phong phú và đặc sắc.
+
+==Giao thông==
+Có [[Quốc lộ 14]], [[Quốc lộ 14C]], [[Quốc lộ 28]], [[Quốc lộ 55]] đi qua.
+
+==Đài phát thanh - truyền hình==
+Tỉnh Đắk Nông hiện tại có 1 đài phát thanh - truyền hình là [[Đài Phát thanh - Truyền hình Đắk Nông]] (PTD) nằm ở Số 82, Đường 23/3, Nghĩa Đức, [[Gia Nghĩa]], Đắk Nông.
+
+==Hình ảnh==
+<gallery class="center">
+Hình: Gia Nghĩa,Đắk Nông,Việt Nam.jpg|Nhà hàng Sơn Mã Palace
+Hình: Dak Nong, Viet Nam.jpg|Sông Dak R'Tih
+Hình: DraySap400.jpg|Thác Gia Long
+Hình: Draynur falls.jpg|Thác Dray Nur
+Hình: Trúc Lâm Đạo Nguyên 5.jpg|Thiền viện Trúc Lâm<br>Cao nguyên
+Hình: Trúc Lâm Đạo Nguyên 4.jpg|Toàn cảnh Trúc Lâm
+Hình: Kiến Đức.jpg|Thị trấn Kiến Đức
+Hình: TT.Đắk Mil, Đắk Nông.jpg|Thị trấn Đắk Mil
+</gallery>
+
+==Chú thích==
+{{tham khảo|30em}}
+
+==Liên kết ngoài==
+{{Commonscat|Dak Nong}}
+* {{Website chính thức|https://daknong.gov.vn/}} [https://web.archive.org/web/20250624111906/https://daknong.gov.vn/ lưu trữ]
+* {{TĐBKVN|35084|Đắc Nông}}
+{{sơ khai Lâm Đồng}}
+
+{{Du lịch Đắk Nông}}
+{{Tỉnh cũ Việt Nam}}
+{{Kiểm soát tính nhất quán}}
+
+[[Thể loại:Đắk Nông| ]]

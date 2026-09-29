@@ -1,0 +1,1098 @@
+{{other|Bắc Ninh (định hướng)}}
+{{Thông tin đơn vị hành chính Việt Nam | thành phố trực thuộc trung ương | tên = Bắc Ninh
+| tên cũ = [[Kinh Bắc]], [[Hà Bắc (tỉnh Việt Nam)|Hà Bắc]], [[Bắc Giang (tỉnh)|Bắc Giang]], [[Lục Nam]]<!-- Vui lòng không xóa tên Lục Nam khỏi hộp thông tin. Nếu có ý kiến về vấn đề này, xin hãy thảo luận tại trang thảo luận của bài viết. Xin cảm ơn – LOL369YT -->
+| biệt danh = *Vùng đất [[Quan họ]]
+*Cái nôi của [[Phật giáo Việt Nam]]
+*Thủ phủ công nghiệp miền Bắc
+*Thủ phủ [[vải thiều]] 
+*Quê hương [[sông Lục]] núi Huyền
+| logo = Logo thành phố Bắc Ninh (2026).png
+| ghi chú logo = Biểu trưng
+| nhiều hình = {{multiple image
+| border = infobox
+| total_width = 299
+| image_style = border:1;
+| caption_align = center
+| perrow = 1/2/3/2/3
+| image1 = Trung tâm văn hóa Kinh Bắc.jpg
+| caption1 = Trung tâm văn hóa Kinh Bắc
+| image2 = Đường phố thành phố Bắc Giang.jpg
+| caption2 = Quảng trường 3/2
+| image3 = Chùa Vĩnh Nghiêm - Yên Dũng - Bắc Giang - panoramio (21).jpg
+| caption3 = [[Chùa Vĩnh Nghiêm (Bắc Ninh)|Chùa Vĩnh Nghiêm]]
+| image4 = 4G4A3956 HDR.jpg
+| caption4 = [[Đền Đô]]
+| image5 = NNU Chùabổđà.jpg
+| caption5 = [[Chùa Bổ Đà]]
+| image6 = Newone - tam quan đền bà chúa kho Bắc Ninh.jpg
+| caption6 = [[Đền Bà Chúa Kho (Bắc Ninh)|Đền Bà Chúa Kho]]
+| image7 = VN But Thap3 tango7174.jpg
+| caption7 = [[Chùa Bút Tháp]]
+| image8 = Dau_pagoda.jpg
+| caption8 = [[Chùa Dâu]]
+| image9 = Thư viện tỉnh Bắc Ninh.jpg
+| caption9 = Thư viện Bắc Ninh số 2
+| image10 = HoangVan DinhChoVan.JPG|Đình Chợ Vân
+| caption10 = [[An toàn khu II]]
+}}
+| vĩ độ = 21.187548
+| kinh độ = 106.073406
+| bản đồ 1 = {{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=2|stroke-color=#000000}}
+| diện tích = 4.713,75 km²<ref name="1315/QĐ-BXD"/><ref>https://danviet.vn/quy-hoach-moi-nhat-co-dieu-chinh-cua-tinh-bac-ninh-gom-dia-phan-bac-giang-cu-voi-66-xa-33-phuong-co-gi-dac-biet-d1440088.html</ref>
+| dân số = 3.989.623 người<ref name="1315/QĐ-BXD"/><ref name="phapluatplus.baophapluat.vn">https://phapluatplus.baophapluat.vn/thong-qua-de-an-cong-nhan-bac-ninh-dat-tieu-chi-do-thi-loai-i.html</ref>
+| thời điểm dân số = 31/12/2025
+| dân số thành thị = 2.458.891 người ({{formatnum:{{percentage|{{formatnum:2.458.891|R}}|{{formatnum:3.989.623|R}}|2}} }})<ref name="1315/QĐ-BXD"/>
+| dân số nông thôn = 1.530.732 người ({{formatnum:{{percentage|{{formatnum:1.530.732|R}}|{{formatnum:3.989.623|R}}|2}} }})<ref name="1315/QĐ-BXD"/>
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:3.989.623|R}}/{{formatnum:4.713,75|R}})}} }} người/km²<ref name="phapluatplus.baophapluat.vn"/>
+| dân tộc = [[Kinh]], [[Nùng]], [[Tày]], [[Sán Chay]], [[Dao]],...
+| vùng = [[Đồng bằng sông Hồng]] <small>(địa lý)</small><br>[[Vùng thủ đô Hà Nội]] <small>(đô thị)</small>
+| quận trung tâm = Phường [[Bắc Giang (phường)|Bắc Giang]] 
+| thành lập = 20/9/2026<ref name=":3"/>
+| phân chia hành chính = 45 phường, 54 xã
+| loại đô thị = [[Đô thị Việt Nam#Đô thị loại I|Loại I]]
+| năm công nhận = 2026<ref name="1315/QĐ-BXD"/>
+| trụ sở UBND = Số 82, đường Hùng Vương, phường [[Bắc Giang (phường)|Bắc Giang]]
+| đại biểu quốc hội = [[Danh sách Đại biểu Quốc hội Việt Nam khóa XV#Bắc Ninh|16]] đại biểu
+| chủ tịch UBND = [[Phạm Hoàng Sơn]]
+| hội đồng nhân dân = 114 đại biểu
+| chủ tịch HĐND = [[Nguyễn Việt Oanh]]
+| chủ tịch UBMTTQ = [[Nguyễn Thị Hà]]
+| chánh án TAND = [[Mai Anh Tài]]
+| viện trưởng VKSND = [[Đoàn Anh Phương]]
+| bí thư = [[Nguyễn Hồng Thái (tướng quân đội)|Nguyễn Hồng Thái]]
+| thời điểm kinh tế = 2025<ref name="bacninh.gov.vn">{{Chú thích web|url=https://bacninh.gov.vn/news/-/details/37632/bac-ninh-thong-tin-ve-ket-qua-thuc-hien-nhiem-vu-phat-trien-kinh-te-xa-hoi-nam-2025-83697512 | |tựa đề = Thông cáo báo chí Tình hình kinh tế tỉnh Bắc Ninh | website= Cổng thông tin điện tử tỉnh Bắc Ninh|ngày truy cập= 2026-04-01 }}</ref>
+| GRDP = 522.618 tỉ đồng (19.85 tỉ USD)<ref name="bacninh.gov.vn"/>
+| GRDP bình quân đầu người = 154,0 triệu đồng (5.852 USD)<ref name="bacninh.gov.vn"/>
+| biển số xe = [[Biển xe cơ giới Việt Nam|99]], [[Biển xe cơ giới Việt Nam|98]]
+| mã điện thoại = [[Mã điện thoại Việt Nam|222]]
+| mã địa lý = [[ISO 3166-2:VN|VN-56]]
+| mã hành chính = 24<ref>{{Chú thích web|url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf|tựa đề= Quyết định số 19/2025/QĐ-TTg về việc ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |ngày= 2025-06-30 |website= Cổng Thông tin điện tử Chính phủ |url lưu trữ=https://web.archive.org/web/20251224142347/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf|ngày lưu trữ= 2025-12-24 |ngày truy cập= 2025-12-24 |url-status= dead }}</ref>
+| mã bưu chính = [[Mã bưu chính Việt Nam|22xxxx]]
+| web = {{url|bacninh.gov.vn}}
+}}
+
+'''Bắc Ninh''' là một trong chín [[Thành phố trực thuộc trung ương (Việt Nam)|thành phố trực thuộc trung ương]] của [[Việt Nam]], thuộc vùng [[Đồng bằng sông Hồng]],<ref name=":3">{{Chú thích web |last=Quốc hội |date=2026-08-24 |title=Nghị quyết số 39/2026/QH16 về việc thành lập thành phố Bắc Ninh |url=https://www.bacninh.gov.vn/documents/37632/142033447/36.NQ_TPBN_%28phat+hanh%29.pdf/01227e28-fef9-883c-d770-3a9bd633a5db?t=1787732345549 |access-date=2026-08-30 |website=Cổng Thông tin điện tử tỉnh Bắc Ninh}}</ref><ref>{{Chú thích web |last= |date=2026-08-30 |title=Chủ tịch Quốc hội Trần Thanh Mẫn ký chứng thực 9 nghị quyết của Quốc hội khóa XVI |url=https://vietnam.vnanet.vn/vietnamese/tin-van/chu-tich-quoc-hoi-tran-thanh-man-ky-chung-thuc-9-nghi-quyet-cua-quoc-hoi-khoa-xvi-464571.html |access-date=2026-08-30 |website=Thông tấn xã Việt Nam}}</ref> [[vùng thủ đô Hà Nội]] và nằm trong [[Vùng động lực phía Bắc Việt Nam|vùng kinh tế trọng điểm Bắc Bộ]]. Bắc Ninh tương ứng với xứ [[Kinh Bắc]] xưa, là cái nôi của [[dân ca Quan họ]] và đồng hiện diện các di sản [[ca trù]], [[hát then]], [[Tín ngưỡng thờ Mẫu Việt Nam|tín ngưỡng thờ Mẫu]] được ghi danh là di sản văn hóa phi vật thể đại diện của nhân loại. Bắc Ninh cũng là một trong ba thành phố sở hữu [[quần thể di tích và danh thắng Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc]] đã được UNESCO công nhận là di sản thế giới.
+
+==Địa lý==
+
+=== Vị trí địa lý và lãnh thổ ===
+Thành phố Bắc Ninh nằm về phía Bắc của vùng [[đồng bằng sông Hồng]], cách trung tâm thủ đô [[Hà Nội]] khoảng 50&nbsp;km về phía Đông Bắc, có vị trí địa lý:
+*Phía đông giáp thành phố [[Quảng Ninh]]
+*Phía tây giáp thành phố [[Hà Nội]]
+*Phía nam giáp thành phố [[Hải Phòng]] và tỉnh [[Hưng Yên]]
+*Phía bắc giáp các tỉnh [[Lạng Sơn]] và [[Thái Nguyên]].
+=== Các điểm cực của thành phố Bắc Ninh ===
+* Điểm cực Bắc tại: vùng núi Gốc Bòng, xã [[Xuân Lương]]
+* Điểm cực Tây tại: thôn Đa Hội, xã [[Hợp Thịnh]]
+* Điểm cực Nam tại: thôn Ngọc Quan, xã [[Lâm Thao, Bắc Ninh|Lâm Thao]]
+* Điểm cực Đông tại: khu bảo tồn thiên nhiên Khe Rỗ, xã [[An Lạc (xã)|An Lạc]].
+* Điểm đặt tại trung tâm nhất tại phường [[Đa Mai]].
+
+Trong quy hoạch xây dựng, thành phố này thuộc [[quy hoạch vùng thủ đô Hà Nội|vùng Thủ đô]]. Bắc Ninh nằm trên hai hành lang kinh tế của miền Bắc là [[Côn Minh]] – [[Lào Cai]] – Hà Nội – Hải Phòng – Quảng Ninh và [[Nam Ninh, Quảng Tây|Nam Ninh]] – [[Lạng Sơn]] – Hà Nội – Hải Phòng – Quảng Ninh.
+
+Bắc Ninh nổi tiếng với dân ca quan họ, là trung tâm xứ [[Kinh Bắc]] cổ xưa. Hiện nay trên địa bàn thành phố có khoảng 41 lễ hội đáng chú ý trong năm được duy trì. Trong đó có những lễ hội lớn như: hội Yên Thế, hội Xương Giang, hội [[chùa Bổ Đà]], hội Thổ Hà, hội [[chùa Dâu]], [[Hội Lim]], hội [[Đền Đô]] (Đền Lý Bát Đế – thờ 8 vị vua nhà Lý), hội [[Đền Bà Chúa Kho (Bắc Ninh)|đền Bà Chúa Kho]], hội [[Chùa Vĩnh Nghiêm (Bắc Ninh)|chùa Vĩnh Nghiêm]].<ref>[http://vinanet.vn/tin-thi-truong-hang-hoa-viet-nam.gplist.491.gpopen.204680.gpside.1.gpnewtitle.gioi-thieu-tiem-nang-du-lich-tinh-bac-ninh.asmx Giới thiệu tiềm năng Du lịch tỉnh Bắc Ninh]{{Liên kết hỏng|date=2024-10-01 |bot=InternetArchiveBot }} Trung tâm Thông tin Công nghiệp và Thương mại - Bộ Công Thương (VITIC) Cập nhật: Thứ tư, ngày 22 tháng 8 năm 2012</ref> Bắc Ninh được biết đến là vùng đất với nghề tơ tằm, gốm sứ, đúc đồng, khắc gỗ, làm giấy, tranh vẽ dân gian...<ref>[http://bacninh.gov.vn/Trang/gioithieutinh.aspx?gt=Ti%E1%BB%81m%20n%C4%83ng%20ph%C3%A1t%20tri%E1%BB%83n Tiềm năng và định hướng phát triển tỉnh Bắc Ninh giai đoạn 2011-2016] {{Webarchive|url=https://web.archive.org/web/20131207175857/http://bacninh.gov.vn/Trang/gioithieutinh.aspx?gt=Ti%E1%BB%81m%20n%C4%83ng%20ph%C3%A1t%20tri%E1%BB%83n |date = ngày 7 tháng 12 năm 2013}} Cổng Thông tin Điện tử tỉnh Bắc Ninh</ref><ref>[http://skhdt.bacninh.gov.vn/Index.aspx?mn=106&tong-quan-bac-ninh.html Tổng quan Bắc Ninh] {{Webarchive|url=https://web.archive.org/web/20130704062554/http://skhdt.bacninh.gov.vn/Index.aspx?mn=106&tong-quan-bac-ninh.html |date = ngày 4 tháng 7 năm 2013}} Sở Kế hoạch và Đầu tư Bắc Ninh</ref><ref name="autogenerated1">[http://baothanhhoa.vn/vn/bht/n105429/Ve-mien-quan-ho Về miền quan họ] {{Webarchive|url=https://web.archive.org/web/20131207141053/http://baothanhhoa.vn/vn/bht/n105429/Ve-mien-quan-ho |date = ngày 7 tháng 12 năm 2013}} Thu Huệ, báo Thanh Hóa cập nhật 21/03/2013</ref>
+
+=== Điều kiện tự nhiên ===
+
+====Địa hình====
+Bắc Ninh có địa hình trải dài từ đồng bằng đến trung du và là vùng chuyển tiếp giữa vùng núi phía bắc với châu thổ sông Hồng ở phía nam. Tuy phần lớn diện tích tự nhiên của thành phố là núi đồi nhưng nhìn chung địa hình không bị chia cắt nhiều. Phía bắc và phía đông nam của thành phố là vùng rừng núi cao từ 300m – 900 m. Vùng đồi núi thấp và đồng bằng trung du nằm kẹp giữa hai dãy núi hình cánh cung là [[dãy núi Đông Triều|cánh cung Đông Triều]] phía ở phía đông nam và [[khối núi Bắc Sơn|cánh cung Bắc Sơn]] ở phía tây – bắc. Cánh cung Đông Triều với dãy núi [[Núi Yên Tử|Yên Tử]], cao trung bình 300–900 m so với mặt biển, trong đó đỉnh cao nhất là 1.068 m. Tại vùng núi phía đông bắc thành phố, giáp với [[Quảng Ninh]] có khu rừng nguyên sinh Khe Rỗ rộng 7153 ha với hệ động vật và thực vật phong phú, bao gồm 236 [[loài]] cây thân gỗ, 255 loài cây dược liệu, 37 loài thú, 73 loài chim và 18 loài bò sát. Phía Tây và Tây Nam giáp [[Hà Nội]], [[Hưng Yên]] và [[Hải Phòng]] chủ yếu là Vùng châu thổ ven các bờ sông Đuống, sông Cầu và sông Thương, đây cũng là cùng trọng điểm kinh tế của Thành phố Bắc Ninh.
+
+==== Thủy văn ====
+Bắc Ninh có mạng lưới sông ngòi khá dày đặc, mật độ mạng lưới sông khá cao, trung bình 1 – 1,2&nbsp;km/km², có 5 sông lớn chảy qua gồm [[sông Đuống]], [[sông Cầu]] và [[sông Thái Bình]], [[sông Thương]] và [[sông Lục Nam]]. Đây là 5/6 con sông của [[Sông Lục Đầu|Lục Đầu Giang]] cùng với [[sông Kinh Thầy]].
+*[[Sông Đuống]] có [[chiều dài]] 42&nbsp;km nằm trên đất Bắc Ninh, tổng lượng nước bình quân 31,6 tỷ m<sup>3</sup>. Mực nước cao nhất tại bến Hồ tháng 8 năm 1945 là 9,64 m, cao hơn so với mặt ruộng là 3 – 4 m. Sông Đuống có hàm lượng phù sa cao, vào mùa mưa trung bình cứ 1 m<sup>3</sup> nước có 2,8&nbsp;kg phù sa.
+*[[Sông Cầu]] có [[chiều dài]] sông Cầu là 290&nbsp;km với đoạn hữu ngạn chảy qua thành phố Bắc Ninh dài 70&nbsp;km, lưu lượng nước hàng năm khoảng 5 tỷ m<sup>3</sup>. Sông Cầu có mực nước trong mùa lũ cao từ 3 – 6 m, cao nhất là 8 m, trên mặt ruộng 1 – 2 m, trong mùa cạn mức nước sông lại xuống quá thấp (0,5 – 0,8 m).
+*[[Sông Thái Bình]] thuộc vào loại sông lớn của miền Bắc có [[chiều dài]] 385&nbsp;km, đoạn chảy qua thành phố Bắc Ninh dài 17&nbsp;km.<ref>{{Chú thích web |url=http://bacninh.gov.vn/Trang/gioithieutinh.aspx?gt=%C4%90%E1%BB%8Ba%20l%C3%BD%20t%E1%BB%B1%20nhi%C3%AAn%20-%20T%C3%A0i%20nguy%C3%AAn%20v%C3%A0%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng |ngày truy cập=2013-06-27 |tựa đề=Địa lý tự nhiên - Tài nguyên và môi trường |archive-date = ngày 8 tháng 12 năm 2013 |archive-url=https://web.archive.org/web/20131208013259/http://bacninh.gov.vn/Trang/gioithieutinh.aspx?gt=%C4%90%E1%BB%8Ba%20l%C3%BD%20t%E1%BB%B1%20nhi%C3%AAn%20-%20T%C3%A0i%20nguy%C3%AAn%20v%C3%A0%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng |url-status=dead }}</ref> Do phần lớn lưu vực sông bắt nguồn từ các vùng đồi trọc miền Đông Bắc, đất đai bị xói mòn nhiều nên nước sông rất đục, hàm lượng phù sa lớn. Do đặc điểm lòng sông rộng, ít dốc, đáy nông nên sông Thái Bình là một trong những sông bị bồi lấp nhiều nhất. Theo tài liệu thực đo thì mức nước lũ lụt lịch sử sông Thái Bình đo được tại Phả Lại năm 1971 đạt tới 7,21 m với lưu lượng lớn nhất tại Cát Khê là 5000 m<sup>3</sup>/s.
+*[[Sông Thương]] bắt nguồn từ hai vùng có địa hình và địa chất khác nhau nên nước chảy đôi dòng: bên đục, bên trong.
+*[[Sông Lục Nam]] chảy qua vùng núi đá vôi nên quanh năm nước trong xanh.
+*Ngoài ra trên địa bàn thành phố còn có các hệ thống sông ngòi nội địa như [[Sông Ngũ Huyện Khê|sông Ngũ huyện Khê]], [[sông Ngụ]], [[sông Dâu]], sông Đông Côi, sông Bùi, ngòi Tào Khê, sông Đồng Khởi, sông Đại Quảng Bình. Bắc Ninh cũng có nhiều hồ, đầm, trong đó có [[hồ Cấm Sơn]] và Khuôn Thần. Hồ Cấm Sơn nằm ở khu vực giáp tỉnh [[Lạng Sơn]], dài 30&nbsp;km, nơi rộng nhất 7&nbsp;km và chỗ hẹp nhất 200m. Hồ Cấm Sơn có diện tích mặt nước 2.600 ha, vào mùa mưa có thể lên tới 3.000 ha. Hồ Khuôn Thần có diện tích mặt nước 240 ha và lòng hồ có 5 đồi đảo được phủ kín bởi rừng [[chi Thông|thông]] 20 tuổi. Người ta có thể dạo chơi trên hồ Khuôn Thần bằng [[thuyền]] đạp chân hoặc thuyền gắn máy, vừa cùng người [[Người Sán Chay|Sán Chỉ]], [[Cao Lan]], [[Người Nùng|Nùng]] bản địa hát soong hao, vừa thưởng thức những sản phẩm độc đáo của địa phương như hạt dẻ, mật ong và rượu tắc kè.
+
+Với hệ thống sông này nếu biết khai thác trị thủy và điều tiết nước sẽ đóng vai trò quan trọng trong hệ thống tiêu thoát nước của thành phố. Trong khi đó tổng lưu lượng nước mặt của Bắc Ninh ước khoảng 177,5 tỷ m<sup>3</sup>, trong đó lượng nước chủ yếu chứa trong các sông là 176 tỷ m<sup>3</sup>; được đánh giá là khá dồi dào. Cùng với kết quả thăm dò địa chất cho thấy trữ lượng nước ngầm cũng khá lớn, trung bình 400.000 m<sup>3</sup>/ngày, tầng chứa nước cách mặt đất trung bình 3 – 5 m và có bề dày khoảng 40 m, chất lượng nước tốt. Toàn bộ nguồn nước này có thể khai thác để phục vụ chung cho cả sản xuất và sinh hoạt trong toàn thành phố, trong đó có các hoạt động của đô thị.
+
+====Khí hậu====
+Bắc Ninh nằm trong vùng khí hậu cận nhiệt đới ẩm, chia làm 4 mùa rõ rệt (xuân, hạ, thu, đông). Có sự chênh lệch rõ ràng về nhiệt độ giữa mùa hè nóng ẩm và mùa đông khô lạnh. Sự chênh lệch đạt 15 – 16&nbsp;°C. Mùa mưa kéo dài từ tháng 5 đến tháng 9 hàng năm. Lượng mưa trong mùa này chiếm 80% tổng lượng mưa cả năm. Lượng mưa trung bình hàng năm: 1.400 – 1.700&nbsp;mm. Nhiệt độ trung bình: 23,3&nbsp;°C. Số giờ nắng trong năm: 1.530 – 1.776 giờ. Độ ẩm tương đối trung bình: 79%.
+
+{{Weather box
+|metric first=Y
+|single line=Y
+|location= Bắc Ninh
+|Jan high C= 19.9
+|Feb high C= 20.4
+|Mar high C= 23
+|Apr high C= 27.4
+|May high C= 31.8
+|Jun high C= 33
+|Jul high C= 32.8
+|Aug high C= 32.2
+|Sep high C= 31.2
+|Oct high C= 29
+|Nov high C= 25.6
+|Dec high C= 22.1
+|year high C = 27.37
+|Jan mean C= 16.5
+|Feb mean C= 17.4
+|Mar mean C= 20
+|Apr mean C= 24
+|May mean C= 27.7
+|Jun mean C= 29.2
+|Jul mean C= 29.2
+|Aug mean C= 28.8
+|Sep mean C= 27.7
+|Oct mean C= 25.2
+|Nov mean C= 21.6
+|Dec mean C= 18.5
+|year mean C = 23.82
+|Jan low C= 13.2
+|Feb low C=14.4
+|Mar low C= 17.1
+|Apr low C= 20.6
+|May low C= 23.7
+|Jun low C= 24.6
+|Jul low C= 25.5
+|Aug low C= 25.4
+|Sep low C= 24.2
+|Oct low C= 21.4
+|Nov low C= 17.7
+|Dec low C= 14.9
+|year low C = 20.23
+|rain colour = green
+|Jan rain mm= 12
+|Feb rain mm= 33
+|Mar rain mm= 34
+|Apr rain mm= 87
+|May rain mm= 211
+|Jun rain mm= 245
+|Jul rain mm= 332
+|Aug rain mm= 337
+|Sep rain mm= 234
+|Oct rain mm= 98
+|Nov rain mm= 34
+|Dec rain mm= 23 
+|Jan rain days = 7
+|Feb rain days = 7
+|Mar rain days = 10
+|Apr rain days = 9
+|May rain days = 14
+|Jun rain days = 15
+|Jul rain days = 17
+|Aug rain days = 18
+|Sep rain days = 13
+|Oct rain days = 9
+|Nov rain days = 6
+|Dec rain days = 5
+|year rain days = 
+|Jan humidity = 71
+|Feb humidity = 74
+|Mar humidity = 77
+|Apr humidity = 78
+|May humidity = 79
+|Jun humidity = 80
+|Jul humidity = 81
+|Aug humidity = 85
+|Sep humidity = 81
+|Oct humidity = 75
+|Nov humidity = 72
+|Dec humidity = 68
+|source= climate-data.org<ref name=WMO >{{chú thích web |url= http://en.climate-data.org/location/4267 |title= Bac ninh weather |publisher= |access-date =ngày 27 tháng 6 năm 2013 }}</ref>
+|date= June 2013|width=auto}}
+
+====Tài nguyên, khoáng sản====
+Tài nguyên rừng:
+
+Phía bắc và đông của thành phố: Có nhiều rừng, tập trung ven các dãy núi [[cánh cung Bắc Sơn]] và [[cánh cung Đông Triều]]. Khu vực có nhiều núi là Lục Ngạn, Sa Lý, Lục Nam, Biển Động, Sơn Động, Tây Yên Tử, Yên Thế, Xuân Lương, Bố Hạ.
+
+Phía nam thành phố: không lớn, chủ yếu là rừng trồng. Tổng diện tích đất rừng là 661,26 ha phân bố tập trung ở Quế Võ (317,9 ha) và Tiên Du (254,95 ha). Tổng trữ lượng gỗ ước tính 3.279 m³, trong đó rừng phòng hộ 363 m³, rừng đặc dụng 2916 m³.
+
+Tài nguyên khoáng sản:
+Phía tây và nam Bắc Ninh không có nhiều tài nguyên khoáng sản, chủ yếu chỉ có vật liệu xây dựng như đất sét làm gạch, ngói, gốm, với trữ lượng khoảng 4 triệu tấn ở Quế Võ và Tiên Du, đất sét làm gạch chịu lửa ở Kinh Bắc, đá cát kết với trữ lượng khoảng 1 triệu tấn ở Kinh Bắc, đá sa thạch ở Vũ Ninh có trữ lượng khoảng 300.000 m³. Ngoài ra còn có than bùn ở Yên Phong với trữ lượng 60.000 – 200.000 tấn. Tuy nhiên ở phía bắc và đông thành phố là vùng có mỏ than lớn (ở Yên Thế).
+
+==Lịch sử==
+{{main|Lịch sử hành chính Bắc Ninh}}
+
+[[Hình: Một cửa thành Bắc Ninh.jpg|nhỏ|<center>Thành Bắc Ninh</center>]]
+
+Bắc Ninh hình thành lâu đời gắn liền với nền [[văn minh sông Hồng]]. [[Luy Lâu]] từng là trung tâm tôn giáo cổ xưa nhất của Việt Nam, ngoài ra từng là trị sở Giao Chỉ. Từ hàng nghìn năm trước người Việt cổ đã cư trú và lập làng ở ven sông Cầu, sông Dâu, sông Đuống, sông Ngũ Huyện Khê, sông Tiêu Vương sống chủ yếu bằng canh tác nông nghiệp kết hợp làm nghề thủ công. Hàng loạt di vật như trống đồng, dao găm, rìu, giáo, tấm che ngực, mảnh giáp bằng đồng với những hoa văn độc đáo được tìm thấy ở các di tích Lãng Ngâm, Đại Trạch, Quả Cảm, Đại Lai mảnh khuôn đúc trống đồng trong thành cổ Luy Lâu đã chứng tỏ người xứ Bắc rất tinh xảo trong nghề đúc đồng, chế tác các đồ trang sức, làm gốm.<ref>http://www.bacninh.gov.vn/Trang/gioithieutinh.aspx?gt=L%E1%BB%8Bch%20s%E1%BB%AD%20-%20V%C4%83n%20h%C3%B3a {{Webarchive|url=https://web.archive.org/web/20131207181703/http://www.bacninh.gov.vn/Trang/gioithieutinh.aspx?gt=L%E1%BB%8Bch%20s%E1%BB%AD%20-%20V%C4%83n%20h%C3%B3a|date=ngày 7 tháng 12 năm 2013}} Lịch sử Bắc Ninh</ref> Những giá trị tinh thần, tư tưởng được phản ánh qua các huyền thoại ông Đùng, bà Đùng, ông khổng lồ cắn nát núi, hút sạch rừng, băng ngang lũ; về Kinh Dương Vương, Lạc Long Quân, Âu Cơ. Cùng với huyền thoại truyền thuyết là đậm đặc các di tích tiêu biểu như lăng mộ Kinh Dương vương, đền thờ Lạc Long Quân, Âu Cơ ở Thuận Thành.
+
+=== Thời phong kiến ===
+Thời kỳ [[Hồng Bàng]], nước [[Văn Lang]] được chia làm có 15 bộ, bộ [[Vũ Ninh (bộ)|Vũ Ninh]] là vùng lãnh thổ thuộc phần lớn thành phố Bắc Ninh hiện nay. Trong thời [[Bắc thuộc]], [[Giao Chỉ]] gồm có 10 huyện trong đó có huyện [[Luy Lâu]]. Luy Lâu đã từng là đô thị lớn, là trung tâm thương mại trong suốt thời kỳ dài từ cuối thế kỷ thứ II đến thế kỷ IX – X. Xung quanh Luy Lâu là các làng nông nghiệp, làng thủ công, làng buôn bán phát triển. Tại đây, tư tưởng Nho giáo và văn hoá Hán Đường đã được truyền bá liên tục vào Việt Nam. Trung tâm Luy Lâu là nơi đầu tiên có trường dạy chữ và văn hoá Hán ở Việt Nam. Ngoài ra Luy Lâu còn là trung tâm Phật giáo lớn và cổ xưa nhất của người Việt. Hệ thống di tích, chùa tháp quần tụ đậm đặc ở đây với trung tâm là chùa Dâu cùng nhiều nguồn di vật, tài liệu như tượng pháp, bia ký, bản khắc Cổ Châu Pháp Vân và lễ hội chùa Dâu – lễ hội Phật giáo lớn nhất trong đồng bằng Bắc Bộ với các nghi lễ Tân Phật, rước Tứ Pháp, rước nước chứng tỏ Luy Lâu là tổ đình của Phật giáo Việt Nam. Luy Lâu là không gian điển hình đan xen, hỗn dung tiếp xúc, biến đổi hội tụ và kết tinh văn hoá Việt Nam cổ với văn hoá Phật – Ấn, Nam Á và Trung Á, văn hoá Nho Lão (Trung Hoa – Đông Á) để rồi sinh thành bản sắc văn hoá Kinh Việt. Đến thời [[Ngô Quyền]], [[Giao Châu]] gồm các vùng phía nam [[sông Hồng]] và [[sông Đuống]], thuộc Hà Nội, Bắc Ninh, một phần Hưng Yên.
+
+[[Tập tin:Luc-nam Province 1891.jpg|nhỏ|Bản đồ tỉnh Lục Nam năm 1891, trước khi giải thể, nay là phần phía đông bắc thành phố Bắc Ninh]]
+
+Thời [[loạn 12 sứ quân]], địa bàn Bắc Ninh là nơi chiếm đóng của 2 sứ quân [[Nguyễn Thủ Tiệp]] và [[Lý Khuê]] với các căn cứ ở Tiên Du và Thuận Thành. Các vua [[nhà Lý|thời Lý]] lập Phủ Thiên Đức (vốn là châu Cổ Pháp). Bắc Ninh là đất phát tích nhà Lý – triều đại khai mở ra nền văn minh Đại Việt gắn liền với tên tuổi của những nhân vật lịch sử – văn hoá kiệt xuất như: [[Lý Thái Tổ|Lý Công Uẩn]], [[Lý Nhân Tông]], [[Lê Văn Thịnh]]. Đây là nơi vang vọng bài thơ [[Nam quốc sơn hà]] – bản tuyên ngôn độc lập đầu tiên của dân tộc Việt Nam.
+
+[[Tập tin:Bac Ninh 1891.jpg|nhỏ|Bản đồ tỉnh Bắc Ninh năm 1891, nay là phần phía nam thành phố Bắc Ninh]]
+
+Cuối thời Trần, cả nước có 24 đơn vị hành chính. Lộ Bắc Giang bao trùm Bắc Ninh và một phần Hà Nội ngày nay, gồm có 3 châu, lộ trực tiếp quản lý 2 huyện Siêu Loại và Gia Lâm. Châu Gia Lâm gồm 3 huyện: An Định, Tế Giang, Thiện Tài; châu Vũ Ninh gồm: Tiên Du, Vũ Ninh, Đông Ngàn ([[Từ Sơn (thành phố)|Từ Sơn]] và một phần [[Sóc Sơn (huyện)|Sóc Sơn]] thuộc Hà Nội hiện nay), Từ Sơn ([[Quế Võ (thị xã)|Quế Võ]] hiện nay), Yên Phong ([[Yên Phong (huyện)|Yên Phong]] hiện nay). Châu Bắc Giang gồm 3 huyện Tân Phúc (Đa Phúc cũ, một phần Sóc Sơn của Hà Nội hiện nay), Phật Thệ ([[Hiệp Hòa (huyện)|Hiệp Hòa]]), Yên Việt ([[Việt Yên]] hiện nay). Năm 1490, vua [[Lê Thánh Tông]] cho định lại bản đồ cả nước, gồm 13 (đạo) xứ thừa tuyên. Vùng đất Bắc Ninh thuộc trấn (xứ) [[Kinh Bắc]].
+
+Thời [[Minh Mạng]], cả nước được chia thành 31 đơn vị hành chính: phủ Thừa Thiên là trung tâm, các trấn (tên đơn vị hành chính thời Hậu Lê và Tây Sơn) được đổi thành 30 tỉnh. Việc lập các tỉnh được thực hiện trong 2 đợt. Đợt đầu tiên vào năm 1831, Minh Mạng thực hiện chia các trấn phía bắc làm 18 tỉnh. Tỉnh Bắc Ninh được thành lập (nay là Bắc Ninh, một phần đất [[Hà Nội]] và [[Hưng Yên]] này nay) với tỉnh lỵ ở [[Thành cổ Bắc Ninh|Thành Bắc Ninh]] (nay thuộc phường [[Kinh Bắc (phường)|Kinh Bắc]])
+
+=== Thời Pháp thuộc ===
+Bắc Ninh là cửa ngõ của cố đô Thăng Long, là vùng đất trung chuyển giữa kinh đô xưa với miền địa đầu giáp giới Trung Quốc. Do có đường quốc lộ lên ải Bắc chạy qua, nên vị trí quân sự của Bắc Ninh cực kỳ hệ trọng. Chính vì thế, mùa xuân 1884, Pháp đánh thành [[Trận Bắc Ninh (1884)|Bắc Ninh]] hoàn thành gấp công cuộc thống trị và bảo hộ Việt Nam.
+
+[[Tập tin:Flag of Nguyen dynasty's administrative unit - Bac Ninh.png|nhỏ|Cờ thành phố Bắc Ninh thời Nguyễn]]
+
+Ngày 5 tháng 11 năm 1889, tỉnh Lục Nam được thành lập bao gồm các huyện [[Lục Ngạn (huyện)|Lục Ngạn]], Bảo Lộc, Phượng Nhỡn, [[Hữu Lũng (huyện)|Hữu Lũng]] (tách từ tỉnh Bắc Ninh), [[Sơn Động (huyện)|Yên Bác]] (tách từ tỉnh [[Lạng Sơn]]). Tỉnh lỵ đặt tại thị trấn Lục Nam (nay thuộc phường [[Lục Nam (phường)|Lục Nam]], thành phố Bắc Ninh).<ref>{{chú thích sách|tác giả=Sở Văn hóa Thông tin tỉnh Bắc Giang|tựa đề=Sơ thảo lịch sử 40 năm báo Bắc Giang: 1-1-1962 - 1-1-2002|nhà xuất bản=|year=2002|nơi=|trang=10|url=https://www.google.com/books/edition/Sơ_th̉ao_lịch_sử_40_năm_báo_Bắ/OhIwsz16hF8C|doi=|id=|isbn=}}</ref> Thureau làm Công sứ Pháp ở Lục Nam. Tháng 9 năm 1891, sau khi trả hai huyện Bảo Lộc và Phượng Nhỡn cho tỉnh Bắc Ninh, tỉnh Lục Nam bị xóa bỏ để nhập vào Đạo Quan binh I.<ref>{{chú thích sách|tác giả=|tựa đề=Địa chí Bắc Giang: lịch sử và văn hóa|nhà xuất bản=Sở văn hóa thông tin Bắc Giang, Trung tâm Unesco thông tin tư liệu lịch sử và văn hóa Việt Nam|year=2006|nơi=|trang=63|url=https://www.google.com/books/edition/Địa_chí_Bắc_Giang/MIJuAAAAMAAJ|doi=|id=|isbn=}}</ref>
+
+Ngày 10 tháng 10 năm 1895, tỉnh Bắc Giang được thành lập sau khi tách ra từ tỉnh Bắc Ninh, bao gồm phủ Lạng Giang, phủ Đa Phúc và các huyện [[Kim Anh (huyện)|Kim Anh]], [[Yên Dũng (huyện)|Yên Dũng]], Phượng Nhỡn, Việt Yên, Hiệp Hòa, Yên Thế và một số tổng nằm ở phía nam sông Lục Nam. Tỉnh lỵ là Phủ Lạng Thương (sau này là khu vực phường [[Bắc Giang (thành phố)|Bắc Giang]]), công sứ đầu tiên là E. Quennec (1895 – 1910). Năm 1896, phủ Đa Phúc và huyện Kim Anh từ tỉnh Bắc Giang được trả lại cho tỉnh Bắc Ninh. Năm 1903, tách các huyện [[Đông Anh (huyện)|Đông Anh]], Kim Anh, [[Đa Phúc (huyện)|Đa Phúc]] nhập vào tỉnh [[Vĩnh Yên (tỉnh)|Vĩnh Yên]] (từ năm 1977, 2 huyện Kim Anh và Đa Phúc hợp nhất thành huyện [[Sóc Sơn (huyện)|Sóc Sơn]]).
+
+[[Tập tin:Bac Giang Province 1900.jpg|nhỏ|Bản đồ tỉnh Bắc Giang năm 1900, nay là phía Bắc và phía Đông thành phố Bắc Ninh]]
+
+[[Tập tin:Province de Bac-Giang (1909).jpg|nhỏ|Bản đồ tỉnh Bắc Giang năm 1909, ngày nay là thành phố Bắc Ninh]]
+
+Ngày 24 tháng 2 năm 1942, Tổng sứ Bắc Kỳ ban hành Nghị định số 5247A-NĐ về việc thành lập thị xã Phủ Lạng Thương trên cơ sở toàn bộ xã Thọ Châu.
+
+=== Sau năm 1945 ===
+Năm 1947, huyện [[Văn Giang (huyện)|Văn Giang]] của Bắc Ninh được tách sang tỉnh [[Hưng Yên]]. Ngày 28 tháng 11 năm 1948, huyện Gia Lâm sáp nhập vào tỉnh Hưng Yên nhưng đến ngày 7 tháng 11 năm 1949 lại sáp nhập trở lại tỉnh Bắc Ninh. Ngày 1 tháng 2 năm 1955, thị xã Phủ Lạng Thương được tái lập.<ref>Nghị định số 451-TTg ngày 1/2/1955 của Thủ tướng Chính phủ về việc tái lập thị xã Phủ Lạng Thương trực thuộc tỉnh Bắc Giang.</ref><ref>{{chú thích sách|url=https://books.google.com/books/download/%C4%90%E1%BB%8Ba_ch%C3%AD_B%E1%BA%AFc_Giang.pdf?id=MIJuAAAAMAAJ&output=pdf&hl=vi&gl=vn|tựa đề= Địa chí Bắc Giang: Lịch sử và văn hóa |tác giả=|nhà xuất bản= Sở văn hóa thông tin Bắc Giang và Trung tâm Unesco thông tin tư liệu lịch sử và văn hóa Việt Nam |year= 2006 |trang= 96 |doi=|id=|isbn=}}</ref> Ngày 21 tháng 1 năm 1957, thành lập huyện [[Lục Nam (huyện)|Lục Nam]] từ một số xã của các huyện Yên Dũng, Lạng Giang, Lục Ngạn, Sơn Động và 3 xã của huyện [[Chí Linh (thành phố)|Chí Linh]], tỉnh [[Hải Dương (tỉnh)|Hải Dương]]. Ngày 6 tháng 11 năm 1957, chia huyện Yên Thế thành 2 huyện: Yên Thế và [[Tân Yên (huyện)|Tân Yên]]. Năm 1959, đổi tên thị xã Phủ Lạng Thương thành thị xã Bắc Giang.
+
+[[Tập tin:Province de Bac-Ninh (1909).jpg|250px|phải|nhỏ|Bản đồ tỉnh Bắc Ninh năm 1909]]
+
+Ngày 20 tháng 4 năm 1961, thành phố Hà Nội được mở rộng địa giới hành chính; theo đó, toàn bộ huyện [[Gia Lâm (huyện)|Gia Lâm]] gồm 15 xã: Giang Biên, Phúc Lợi, Thạch Bàn, Cự Khối, Trung Thành, Tiền Phong, Quyết Tiến, Quyết Thắng, Toàn Thắng, Quyết Chiến, Tân Hưng, Đại Hưng, Thừa Thiên, Quang Minh, Kim Lan được nhập vào thành phố Hà Nội. Ngày 31 tháng 5 năm 1961, tách thị trấn Yên Viên và 5 xã: Dương Hà, Đình Xuyên, Ninh Hiệp, Quang Trung, Tiền Phong thuộc huyện [[Từ Sơn (thành phố)|Từ Sơn]]; 2 xã Phù Đổng, Trung Hưng thuộc huyện [[Tiên Du (huyện)|Tiên Du]]; 2 xã Đức Thắng, Chiến Thắng thuộc huyện [[Thuận Thành (thị xã)|Thuận Thành]] để nhập vào huyện Gia Lâm, thành phố Hà Nội. Cùng với đó, 5 xã Liên Hà, Vân Hà, Dục Tú, Đông Hội, Mai Lâm của huyện Từ Sơn được tách ra để nhập vào huyện [[Đông Anh (huyện)|Đông Anh]], thành phố Hà Nội.
+
+Ngày 27 tháng 10 năm 1962, Quốc hội ban hành Nghị quyết<ref>{{Chú thích web|url=https://www.hethongphapluat.com/nghi-quyet-ve-viec-hop-nhat-thanh-pho-hai-phong-va-tinh-kien-an-hop-nhat-tinh-bac-ninh-va-tinh-bac-giang-do-quoc-hoi-ban-hanh.html|tựa đề= Nghị quyết về việc hợp nhất thành phố Hải Phòng và tỉnh Kiến An, hợp nhất tỉnh Bắc Ninh và tỉnh Bắc Giang |ngày= 1962-10-27 |website= Hệ thống pháp luật |url lưu trữ=|ngày lưu trữ=|ngày truy cập=|url-status=live}}</ref> về việc thành lập tỉnh [[Hà Bắc (tỉnh Việt Nam)|Hà Bắc]] trên cơ sở hợp nhất tỉnh [[Bắc Giang (tỉnh)|Bắc Giang]] và tỉnh Bắc Ninh, tên gọi tỉnh mới cùng với nơi đặt tỉnh lỵ sẽ do địa phương đề nghị lên.<ref name=":0">{{Chú thích web |tác giả= |họ= |tên= |ngày= |tựa đề=Nghị quyết về việc hợp nhất thành phố Hải Phòng và tỉnh Kiến An, hợp nhất tỉnh Bắc Ninh và tỉnh Bắc Giang do Quốc hội ban hành |url=https://thuvienso.quochoi.vn/handle/11742/16458 |url lưu trữ= |ngày lưu trữ= |ngày truy cập= |website=}}</ref> Tỉnh Hà Bắc ban đầu gồm 2 thị xã: [[Bắc Giang (thành phố)|Bắc Giang]] (tỉnh lỵ), [[Bắc Ninh (thành phố thuộc tỉnh)|Bắc Ninh]] và 16 huyện: [[Gia Lương]], [[Hiệp Hòa (huyện)|Hiệp Hòa]], [[Lạng Giang (huyện)|Lạng Giang]], [[Lục Nam (huyện)|Lục Nam]], [[Lục Ngạn (huyện)|Lục Ngạn]], [[Quế Dương]], [[Sơn Động (huyện)|Sơn Động]], [[Tân Yên (huyện)|Tân Yên]], [[Thuận Thành (thị xã)|Thuận Thành]], [[Tiên Du (huyện)|Tiên Du]], [[Từ Sơn (thành phố)|Từ Sơn]], [[Việt Yên (thị xã)|Việt Yên]], [[Võ Giàng]], [[Yên Dũng (huyện)|Yên Dũng]], [[Yên Phong (huyện)|Yên Phong]], [[Yên Thế (huyện)|Yên Thế]]. Năm 1962, hợp nhất 2 huyện [[Quế Dương (Bắc Ninh)|Quế Dương]] và Võ Giàng thành huyện [[Quế Võ (thị xã)|Quế Võ]]. Ngày 14 tháng 4 năm 1963, hợp nhất 2 huyện Tiên Du và Từ Sơn thành huyện [[Tiên Sơn (huyện)|Tiên Sơn]].
+
+Ngày 20 tháng 9 năm 1975, Bộ Chính trị ban hành Nghị quyết số 245-NQ/TW<ref>{{Chú thích web|url=https://photo.znews.vn/w660/Uploaded/dqmblcvo/2025_03_13/1.jpg|tựa đề= Nghị quyết số 245-NQ/TW về việc bỏ khu, hợp tỉnh |ngày= 1975-09-20 |website=|url lưu trữ=https://web.archive.org/web/20250407082825/https://photo.znews.vn/w660/Uploaded/dqmblcvo/2025_03_13/1.jpg|ngày lưu trữ= 2025-04-07 |ngày truy cập= 2025-04-07 |url-status= dead }}</ref> về việc giữ nguyên tỉnh [[Hà Bắc (tỉnh Việt Nam)|Hà Bắc]], tên gọi tỉnh mới cùng với nơi đặt tỉnh lỵ sẽ do địa phương đề nghị lên.
+
+Ngày 3 tháng 5 năm 1985, Hội đồng Bộ trưởng ban hành Quyết định 130-HĐBT về điều chỉnh địa giới các huyện Tiên Sơn, Quế Võ, Việt Yên, Lạng Giang và hai thị xã Bắc Ninh, Bắc Giang thuộc tỉnh Hà Bắc.
+
+=== 1997–2026: Tỉnh Bắc Ninh ===
+Ngày 6 tháng 11 năm 1996, Quốc hội ban hành Nghị quyết<ref>{{Chú thích web|url=https://hethongphapluat.com/nghi-quyet-ve-viec-chia-va-dieu-chinh-dia-gioi-hanh-chinh-mot-so-tinh-do-quoc-hoi-ban-hanh.html|tựa đề= Nghị quyết về việc chia và điều chỉnh địa giới hành chính một số tỉnh |tác giả=|ngày= 1996-11-06 |website= Hệ thống pháp luật |url lưu trữ=|ngày lưu trữ=|ngày truy cập=|url-status=live}}</ref> về việc chia tỉnh [[Hà Bắc (tỉnh Việt Nam)|Hà Bắc]] thành tỉnh [[Bắc Giang (tỉnh)|Bắc Giang]] và tỉnh Bắc Ninh. Tỉnh Bắc Giang lúc này có 10 đơn vị hành chính gồm thị xã Bắc Giang (tỉnh lỵ) và 9 huyện: Hiệp Hòa, Lạng Giang, Lục Nam, Lục Ngạn, Sơn Động, Tân Yên, Việt Yên, Yên Dũng, Yên Thế. Tỉnh Bắc Ninh sau khi tách có 6 đơn vị hành chính gồm thị xã Bắc Ninh (tỉnh lỵ) và 5 huyện Gia Lương, Quế Võ, Thuận Thành, Tiên Sơn, Yên Phong.<ref>{{Chú thích web |url=http://www.vietlaw.gov.vn/LAWNET/docView.do?docid=4265&type=html&searchType=fulltextsearch&searchText= |title=Nghị quyết của Quốc hội khóa IX kì họp thứ 10 |access-date=2013-08-03 |archive-date=2013-12-08 |archive-url=https://web.archive.org/web/20131208182038/http://www.vietlaw.gov.vn/LAWNET/docView.do?docid=4265&type=html&searchType=fulltextsearch&searchText= |url-status=dead }}</ref> Ngày 9 tháng 8 năm 1999, huyện Tiên Sơn được chia lại thành hai huyện Tiên Du và Từ Sơn; huyện Gia Lương được chia thành hai huyện [[Gia Bình (huyện)|Gia Bình]] và [[Lương Tài (huyện)|Lương Tài]]. Ngày 7 tháng 6 năm 2005, chuyển thị xã Bắc Giang thành thành phố Bắc Giang. Ngày 25 tháng 1 năm 2006, chuyển thị xã Bắc Ninh thành thành phố Bắc Ninh. Ngày 24 tháng 9 năm 2008, chuyển huyện Từ Sơn thành thị xã Từ Sơn.
+
+Ngày 25 tháng 6 năm 2014, thành phố Bắc Ninh được công nhận là [[Đô thị Việt Nam|đô thị loại II]]<ref>[http://www.chinhphu.vn/portal/page/portal/chinhphu/hethongvanban?class_id=2&_page=1&mode=detail&document_id=174593 Quyết định số 1044/QĐ-TTg của Thủ tướng Chính phủ: Về việc công nhận thành phố Bắc Ninh là đô thị loại II thuộc tỉnh Bắc Ninh]</ref> và đến ngày 25 tháng 12 năm 2017 được công nhận là [[Đô thị loại I (Việt Nam)|đô thị loại I]] trực thuộc tỉnh Bắc Ninh.<ref>{{Chú thích web |tác giả= |họ= |tên= |ngày= |title=Quyết định 2088/QĐ-TTg năm 2017 về việc công nhận thành phố Bắc Ninh là đô thị loại I trực thuộc tỉnh Bắc Ninh |url=https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Quyet-dinh-2088-QD-TTg-2017-cong-nhan-thanh-pho-Bac-Ninh-do-thi-loai-I-truc-thuoc-tinh-Bac-Ninh-370645.aspx |url lưu trữ= |ngày lưu trữ= |ngày truy cập= |website=}}</ref> Ngày 3 tháng 12 năm 2014, thành phố Bắc Giang được công nhận là đô thị loại II.<ref name="2168/QĐ-TTg">{{Chú thích web|url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2014/12/2168.signed.pdf|tựa đề= Quyết định số 2168/QĐ-TTg công nhận thành phố Bắc Giang là đô thị loại II trực thuộc tỉnh Bắc Giang |tác giả=|ngày= 2024-07-31 |website= Cổng thông tin điện tử Chính phủ |url lưu trữ=https://web.archive.org/web/20240731105606/https://datafiles.chinhphu.vn/cpp/files/vbpq/2014/12/2168.signed.pdf|ngày lưu trữ= 2024-07-31 |ngày truy cập= 2024-07-31 |url-status=dead}}</ref> Ngày 1 tháng 12 năm 2018, thị xã Từ Sơn được công nhận là [[Đô thị loại III (Việt Nam)|đô thị loại III]]. Ngày 1 tháng 11 năm 2021, chuyển thị xã Từ Sơn thành thành phố Từ Sơn.<ref name="NQ387">{{Chú thích web |tựa đề=Nghị quyết số 387/NQ-UBTVQH15 năm 2021 về việc thành lập thành phố Từ Sơn thuộc tỉnh Bắc Ninh |url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-387-NQ-UBTVQH15-thanh-lap-Toa-an-nhan-dan-thanh-pho-Tu-Son-thuoc-tinh-Bac-Ninh-490766.aspx |url-status=live}}</ref> Ngày 10 tháng 4 năm 2023, chuyển hai huyện Thuận Thành và Quế Võ thành hai thị xã có tên tương ứng.<ref name="NQ723">{{Chú thích web |tựa đề=Nghị quyết số 723/NQ-UBTVQH15 năm 2023 về việc thành lập thị xã Thuận Thành và các phường thuộc thị xã Thuận Thành, thị xã Quế Võ và các phường thuộc thị xã Quế Võ, tỉnh Bắc Ninh |url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-723-NQ-UBTVQH15-2023-thanh-lap-thi-xa-Thuan-Thanh-va-phuong-thuoc-thi-xa-Bac-Ninh-556500.aspx |url-status=live}}</ref> Ngày 1 tháng 2 năm 2024, thành lập thị xã [[Việt Yên (thị xã)|Việt Yên]] trên cơ sở toàn bộ diện tích và dân số huyện Việt Yên.<ref>[https://daibieunhandan.vn/thoi-su-quoc-hoi/nghi-quyet-ve-viec-thanh-lap-thi-xa-viet-yen-va-cac-phuong-thuoc-thi-xa-viet-yen-tinh-bac-giang-i354573/ NGHỊ QUYẾT Về việc thành lập thị xã Việt Yên và các phường thuộc thị xã Việt Yên, tỉnh Bắc Giang]</ref> Ngày 1 tháng 1 năm 2025, thành lập thị xã [[Chũ (thị xã)|Chũ]] trên cơ sở tách thị trấn Chũ và 9 xã: Hồng Giang, Thanh Hải (sau điều chỉnh địa giới hành chính), Kiên Thành, Kiên Lao, Trù Hựu, Quý Sơn, Phượng Sơn, Mỹ An, Nam Dương của huyện [[Lục Ngạn (huyện)|Lục Ngạn]]. Huyện [[Yên Dũng (huyện)|Yên Dũng]] sáp nhập vào thành phố [[Bắc Giang (thành phố)|Bắc Giang]].
+
+Ngày 12 tháng 6 năm 2025, Quốc hội ban hành Nghị quyết số 202/2025/QH15<ref name="202/2025/QH15">{{Chú thích web |ngày=2025-06-12 |tựa đề=Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh |url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94532 |url-status=live |url lưu trữ=https://web.archive.org/web/20250612150244/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94532 |ngày lưu trữ=2025-06-12 |ngày truy cập=2025-06-12 |website=Cổng thông tin điện tử Quốc hội Việt Nam}}</ref> về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực ngày thông qua và chính thức đi vào hoạt động từ ngày 1 tháng 7 năm 2025). Theo đó, hợp nhất tỉnh Bắc Giang và tỉnh Bắc Ninh cũ thành một đơn vị hành chính mới với tên gọi tỉnh Bắc Ninh. Sau khi hợp nhất, tỉnh Bắc Ninh mới có 4.718,60&nbsp;km² diện tích tự nhiên và quy mô dân số là 3.619.433 người. Ngày 16 tháng 6 năm 2025, theo nghị quyết sửa đổi Hiến pháp năm 2013, toàn bộ các đơn vị hành chính cấp huyện tại tỉnh Bắc Ninh được giải thể. Cùng ngày, Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 1658/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã (nghị quyết có hiệu lực từ ngày 16 tháng 6 năm 2025). Theo đó, tỉnh Bắc Ninh được chia thành 99 đơn vị hành chính cấp xã, bao gồm 33 phường và 66 xã.<ref>{{Chú thích web|url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94585|tựa đề= Nghị quyết số 203/2025/QH15 về việc Sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |ngày= 2025-06-16 |website= Cổng thông tin điện tử Quốc hội Việt Nam |url lưu trữ=https://web.archive.org/web/20250616150846/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94585|ngày lưu trữ= 2025-06-16 |ngày truy cập= 2025-06-16 |url-status= dead }}</ref><ref name="1658/NQ-UBTVQH15">{{Chú thích web|url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94598|tựa đề= Nghị quyết số 1658/NQ-UBTVQH15 về việc sắp xếp các đơn vị hành chính cấp xã của tỉnh Bắc Ninh năm 2025 |ngày= 2025-06-16 |website= Cổng thông tin điện tử Quốc hội Việt Nam |url lưu trữ=https://web.archive.org/web/20250616150846/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94598|ngày lưu trữ= 2025-06-16 |ngày truy cập= 2025-06-16 |url-status= dead }}</ref>
+
+=== 2026–nay: Thành phố Bắc Ninh ===
+Ngày 28 tháng 7 năm 2026, tỉnh Bắc Ninh được công nhận đạt tiêu chí [[Đô thị Việt Nam#Đô thị loại I|đô thị loại I]].<ref name="1315/QĐ-BXD">{{Chú thích web |title=Bộ Xây dựng công nhận tỉnh Bắc Ninh đạt tiêu chí đô thị loại I |url=https://baobacninhtv.vn/bo-xay-dung-cong-nhan-tinh-bac-ninh-dat-tieu-chi-do-thi-loai-i-postid451133.bbg |access-date=2026-07-29 |website=Báo Bắc Ninh |language=vi}}</ref>
+
+Ngày 4 tháng 8 năm 2026, Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 388/NQ-UBTVQH16 (nghị quyết có hiệu lực từ ngày 20 tháng 9 năm 2026) về việc thành lập 12 phường thuộc tỉnh Bắc Ninh trên cơ sở giữ nguyên trạng diện tích và dân số của 12 xã: Bố Hạ, Chi Lăng, Gia Bình, Hiệp Hòa, Kép, Lạng Giang, Lục Nam, Lương Tài, Nhân Thắng, Phù Lãng, Tiên Du, Yên Phong.
+
+Tỉnh Bắc Ninh có 45 phường và 54 xã.<ref name=":4">{{Chú thích web |title=Nghị quyết số 388/NQ-UBTVQH16 về việc thành lập các phường thuộc tỉnh Bắc Ninh |url=https://congbao.chinhphu.vn/van-ban/nghi-quyet-so-388-nq-ubtvqh16-470313.htm|date=2026-08-28|access-date=2026-09-10|website=Văn phòng Chính phủ xuất bản|last=Ủy ban thường vụ Quốc hội}}</ref>
+
+Ngày 24 tháng 8 năm 2026, Quốc hội ban hành Nghị quyết 39/2026/QH16 (nghị quyết có hiệu lực từ ngày 20 tháng 9 năm 2026) về việc thành lập thành phố Bắc Ninh trên cơ sở toàn bộ diện tích tự nhiên và quy mô dân số của tỉnh Bắc Ninh.<ref name=":3" /> 
+
+Thành phố Bắc Ninh có 45 phường và 54 xã như hiện nay.
+
+==Hành chính==
+{{Main|Danh sách đơn vị hành chính thuộc thành phố Bắc Ninh|Đô thị tại Bắc Ninh}}
+
+Thành phố Bắc Ninh có 99 [[Đơn vị hành chính cấp xã (Việt Nam)|đơn vị hành chính cấp xã]], bao gồm 45 [[Phường (Việt Nam)|phường]] và 54 [[Xã (Việt Nam)|xã]].<ref name=":4" /><ref name=":2">{{Chú thích web |title=Nghị quyết số 1658/NQ-UBTVQH15 của UBTVQH về việc sắp xếp các đơn vị hành chính cấp xã của tỉnh Bắc Ninh năm 2025 |url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94598}}</ref>
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các đơn vị hành chính trực thuộc thành phố Bắc Ninh
+|-
+| valign="top" width="25%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Diện tích<br>(km²)
+! style="border-bottom: 2px solid #CCCCFF;" |Dân số<br>(người)
+|-
+| colspan="3" align="left" style="background: #F5F5DC; padding-left: 30px;" |'''Phường (45)'''
+|-
+| align="left" |[[Bắc Giang (phường)|Bắc Giang]]
+|23,28
+|130.654
+|-
+| align="left" |[[Bố Hạ]]
+|41,24
+|28.109
+|-
+| align="left" |[[Bồng Lai (phường)|Bồng Lai]]
+|19,76
+|25.375
+|-
+| align="left" |[[Cảnh Thụy]]
+|27,73
+| 26.928
+|-
+| align="left" |[[Chi Lăng, Bắc Ninh|Chi Lăng]]
+|23,33
+|24.253
+|-
+| align="left" |[[Chũ (phường)|Chũ]]
+|69,16
+|58.409
+|-
+| align="left" |[[Đa Mai]]
+|33,10
+|51.733
+|-
+| align="left" |[[Đào Viên (phường)|Đào Viên]]
+|26,63
+|34.724
+|-
+| align="left" |[[Đồng Nguyên]]
+|12,63
+|47.203
+|-
+| align="left" |[[Gia Bình (phường)|Gia Bình]]
+|29,99
+|43.782
+|-
+| align="left" |[[Hạp Lĩnh]]
+|12,66
+|28.250
+|-
+| align="left" |[[Hiệp Hòa, Bắc Ninh|Hiệp Hòa]]
+|62,14
+|92.583
+|-
+| align="left" |[[Kép (phường)|Kép]]
+|58,59
+|43.164
+|-
+| align="left" |[[Kinh Bắc (phường)|Kinh Bắc]]
+|19,86
+|88.064
+|-
+| align="left" |[[Lạng Giang (phường)|Lạng Giang]]
+|55,39
+|64.714
+|-
+| align="left" |[[Lục Nam (phường)|Lục Nam]]
+|58,97
+|60.618
+|-
+| align="left" |[[Lương Tài (phường)|Lương Tài]]
+|24,69
+|32.955
+|-
+| align="left" |[[Mão Điền]]
+|19,50
+|42.785
+|-
+| align="left" |[[Nam Sơn]]
+|18,53
+|95.696
+|-
+| align="left" |[[Nếnh]]
+|35,98
+|183.562
+|-
+| align="left" |[[Nhân Hòa (phường)|Nhân Hòa]]
+|20,30
+|30.909
+|-
+| align="left" |[[Nhân Thắng]]
+|22,14
+|27.050
+|-
+| align="left" |[[Ninh Xá]]
+|15,81
+|22.369
+|-
+| align="left" |[[Phù Khê]]
+|14,03
+|50.983
+|-
+| align="left" |[[Phù Lãng]]
+|27,95
+|27.357
+|}
+| valign="top" width="25%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Diện tích<br>(km²)
+! style="border-bottom: 2px solid #CCCCFF;" |Dân số<br>(người)
+|-
+| align="left" |[[Phương Liễu]]
+|13,37
+|42.255
+|-
+| align="left" |[[Phượng Sơn]]
+|78,74
+|41.342
+|-
+| align="left" |[[Quế Võ (phường)|Quế Võ]]
+|23,51
+|40.194
+|-
+| align="left" |[[Song Liễu]]
+|17,75
+|31.758
+|-
+| align="left" |[[Tam Sơn (phường)|Tam Sơn]]
+|14,11
+|29.414
+|-
+| align="left" |[[Tân An, Bắc Ninh|Tân An]]
+|42,87
+|37.816
+|-
+| align="left" |[[Tân Tiến (phường)|Tân Tiến]]
+|25,46
+|34.321
+|-
+| align="left" |[[Thuận Thành (phường)|Thuận Thành]]
+|26,58
+|52.318
+|-
+| align="left" |[[Tiên Du (phường)|Tiên Du]]
+|20,97
+|46.296
+|-
+| align="left" |[[Tiền Phong (phường)|Tiền Phong]]
+|30,69
+|67.383
+|-
+| align="left" |[[Trạm Lộ]]
+|18,24
+|21.132
+|-
+| align="left" |[[Trí Quả]]
+|19,95
+|34.574
+|-
+| align="left" |[[Tự Lạn]]
+|39,89
+|45.470
+|-
+| align="left" |[[Từ Sơn (phường)|Từ Sơn]]
+|20,32
+|73.154
+|-
+| align="left" |[[Vân Hà]]
+|43,17
+|58.177
+|-
+| align="left" |[[Việt Yên (phường)|Việt Yên]]
+|51,97
+|59.470
+|-
+| align="left" |[[Võ Cường]]
+|18,08
+|75.174
+|-
+| align="left" |[[Vũ Ninh]]
+|13,39
+|47.278
+|-
+| align="left" |[[Yên Dũng (phường)|Yên Dũng]]
+|52,42
+|44.149
+|-
+| align="left" |[[Yên Phong, Bắc Ninh|Yên Phong]]
+|27,86
+|70.146
+|-
+| colspan="3" align="left" style="background: #F5F5DC; padding-left: 30px;" |'''Xã (54)'''
+|-
+| align="left" |[[An Lạc (xã)|An Lạc]]
+|134,15
+|8.331
+|-
+| align="left" |[[Bảo Đài]]
+|83,02
+|59.169
+|-
+| align="left" |[[Bắc Lũng]]
+|53,72
+|38.118
+|-
+| align="left" |[[Biên Sơn]]
+|282,24
+|16.112
+|-
+| align="left" |[[Biển Động]]
+|57,70
+|17.198
+|}
+| valign="top" width="25%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Diện tích<br>(km²)
+! style="border-bottom: 2px solid #CCCCFF;" |Dân số<br>(người)
+|-
+| align="left" |[[Cao Đức]]
+|19,76
+|16.966
+|-
+| align="left" |[[Cẩm Lý]]
+|49,08
+|20.084
+|-
+| align="left" |[[Dương Hưu]]
+|142,59
+|12.499
+|-
+| align="left" |[[Đại Đồng, Bắc Ninh|Đại Đồng]]
+|19,88
+|84.258
+|-
+| align="left" |[[Đại Lai]]
+|15,32
+|19.308
+|-
+| align="left" |[[Đại Sơn, Bắc Ninh|Đại Sơn]]
+|76,38
+|12.153
+|-
+| align="left" |[[Đèo Gia]]
+|102,93
+|14.680
+|-
+| align="left" |[[Đông Cứu]]
+|20,39
+|28.528
+|-
+| align="left" |[[Đông Phú]]
+|77,05
+|23.733
+|-
+| align="left" |[[Đồng Kỳ]]
+|61,44
+|22.833
+|-
+| align="left" |[[Đồng Việt]]
+|33,21
+|26.714
+|-
+| align="left" |[[Hoàng Vân]]
+|40,23
+|52.899
+|-
+| align="left" |[[Hợp Thịnh]]
+|49,27
+|71.714
+|-
+| align="left" |[[Kiên Lao]]
+|67,19
+|16.989
+|-
+| align="left" |[[Lâm Thao, Bắc Ninh|Lâm Thao]]
+|26,26
+|32.432
+|-
+| align="left" |[[Liên Bão]]
+|19,82
+|34.273
+|-
+| align="left" |[[Lục Ngạn (xã)|Lục Ngạn]]
+|82,71
+|42.367
+|-
+| align="left" |[[Lục Sơn]]
+|125,98
+|16.499
+|-
+| align="left" |[[Mỹ Thái]]
+|46,63
+|46.469
+|-
+| align="left" |[[Nam Dương (xã)|Nam Dương]]
+|85,57
+|18.987
+|-
+| align="left" |[[Nghĩa Phương]]
+|88,32
+|27.830
+|-
+| align="left" |[[Ngọc Thiện]]
+|51,26
+|56.702
+|-
+| align="left" |[[Nhã Nam]]
+|34,43
+|33.127
+|-
+| align="left" |[[Phật Tích]]
+|16,83
+|23.960
+|-
+| align="left" |[[Phúc Hòa]]
+|32,69
+|24.998
+|-
+| align="left" |[[Quang Trung, Bắc Ninh|Quang Trung]]
+|31,36
+|30.398
+|}
+| valign="top" width="25%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Diện tích<br>(km²)
+! style="border-bottom: 2px solid #CCCCFF;" |Dân số<br>(người)
+|-
+| align="left" |[[Sa Lý]]
+|83,95
+|6.352
+|-
+| align="left" |[[Sơn Động (xã)|Sơn Động]]
+|78,72
+|24.394
+|-
+| align="left" |[[Sơn Hải, Bắc Ninh|Sơn Hải]]
+|102,89
+|9.591
+|-
+| align="left" |[[Tam Đa]]
+|20,52
+|36.730
+|-
+| align="left" |[[Tam Giang, Bắc Ninh|Tam Giang]]
+|14,93
+|25.590
+|-
+| align="left" |[[Tam Tiến]]
+|60,34
+|17.639
+|-
+| align="left" |[[Tân Chi]]
+|18,11
+|27.812
+|-
+| align="left" |[[Tân Dĩnh]]
+|31,96
+|35.334
+|-
+| align="left" |[[Tân Sơn, Bắc Ninh|Tân Sơn]]
+|95,37
+|14.823
+|-
+| align="left" |[[Tân Yên, Bắc Ninh|Tân Yên]]
+|48,13
+|50.732
+|-
+| align="left" |[[Tây Yên Tử]]
+|132,76
+|10.612
+|-
+| align="left" |[[Tiên Lục]]
+|51,49
+|59.220
+|-
+| align="left" |[[Trung Chính, Bắc Ninh|Trung Chính]]
+|27,64
+|26.960
+|-
+| align="left" |[[Trung Kênh]]
+|27,32
+|38.606
+|-
+| align="left" |[[Trường Sơn, Bắc Ninh|Trường Sơn]]
+|72,55
+|18.634
+|-
+| align="left" |[[Tuấn Đạo]]
+|97,87
+|6.407
+|-
+| align="left" |[[Văn Môn]]
+|15,26
+|37.449
+|-
+| align="left" |[[Vân Sơn, Bắc Ninh|Vân Sơn]]
+|134,15
+|8.331
+|-
+| align="left" |[[Xuân Cẩm]]
+|54,32
+|73.763
+|-
+| align="left" |[[Xuân Lương]]
+|99,67
+|19.226
+|-
+| align="left" |[[Yên Định, Bắc Ninh|Yên Định]]
+|48,17
+|9.342
+|-
+| align="left" |[[Yên Thế (xã)|Yên Thế]]
+|43,67
+|30.651
+|-
+| align="left" |[[Yên Trung, Bắc Ninh|Yên Trung]]
+|18,34
+|36.329
+|}
+|}
+
+==Kinh tế==
+{{Chính|Danh sách đơn vị hành chính Việt Nam theo GRDP}}{{Chính|Danh sách đơn vị hành chính Việt Nam theo GRDP bình quân đầu người}}
+Khi tái lập, Bắc Ninh có cơ cấu nông nghiệp chiếm 45,1%, dịch vụ 31,1%, công nghiệp – xây dựng 23,8%, thu ngân sách 164 tỷ đồng, GDP đầu người 144 USD/năm; có bốn doanh nghiệp FDI với tổng vốn đăng ký 117 triệu USD, kết cấu hạ tầng yếu kém, công nghiệp chỉ có các cơ sở sản xuất nhỏ, giá trị sản xuất công nghiệp trên địa bàn đạt 569 tỷ đồng.<ref>{{Chú thích web|url=http://www.nhandan.com.vn/kinhte/tin-tuc/item/21308802-bac-ninh-thu-hut-dau-tu-gan-voi-phat-trien-cong-nghiep-ho-tro.html|tiêu đề=Bắc Ninh thu hút đầu tư gắn với phát triển công nghiệp hỗ trợ|nhà xuất bản=nhandan.com.vn|ngày truy cập=ngày 9 tháng 10 năm 2013}}</ref> Sau năm 1997 kinh tế Bắc Ninh đã phát triển.<ref name="autogenerated1" /> Giai đoạn 2006 – 2010 GDP tăng trưởng trung bình 15,3% trong đó có năm 2010 tăng trưởng tới 17.86% (cao nhất từ trước tới nay của thành phố).
+
+Kinh tế năm 2020:<ref>{{Chú thích web|url=http://ctk.bacninh.gov.vn/documents/7868686/21973997/NGTK_2020.pdf/d91c80d5-b410-44fa-a768-212f13841cb1|tựa đề=Niên giám thống kê Bắc Ninh 2020|ngày=2021|url-status=dead|access-date=2021-07-28|archive-date=2021-10-28|archive-url=https://web.archive.org/web/20211028151713/https://ctk.bacninh.gov.vn/documents/7868686/21973997/NGTK_2020.pdf/d91c80d5-b410-44fa-a768-212f13841cb1}}</ref> Tổng sản phẩm trên địa bàn (GRDP) tuy không đạt mức tăng theo kế hoạch đề ra nhưng có kết quả tăng trưởng dương GRDP (theo giá so sánh 2010) cả năm ước đạt 124.975 tỷ đồng, tăng 3,31%; theo giá hiện hành ước đạt 209.227 tỷ đồng, tăng 4,58%. Kết quả này phản ánh những nỗ lực rất lớn của thành phố, đặc biệt trong 4 tháng cuối năm. Khu vực công nghiệp xây dựng, ngành công nghiệp ước đạt 88.404 tỷ đồng duy trì mức tăng 5,0% (năm 2019 giảm 0,2%), đóng góp 3,5 điểm phần trăm vào mức tăng chung. Cùng với xu hướng của cả nước, công nghiệp của Bắc Ninh chuyển dịch theo hướng phát triển các ngành công nghiệp có giá trị tăng cao và qui mô xuất khẩu lớn. Trong khu vực dịch vụ, đóng góp của một số ngành dịch vụ thị trường có tỷ trọng lớn vào mức tăng chung như sau: Bán buôn bán lẻ tăng 2.8%, đóng góp lớn nhất vào mức tăng chung 0,12 điểm phân trăm, hoạt động tài chính, ngân hàng và bảo hiểm tăng 8,3%, đóng góp 0,14 điểm phần trăm hoạt động kinh doanh bất động sản tăng 3,9% đóng góp 0,049 điểm phần trăm, hoạt động giáo dục và đào tạo tăng 40%, đóng góp 0,06 điểm phần trăm. Tổng thu NSNN trên địa bàn năm 2020 là 30.731 tỷ đồng, tăng 1,1% so với năm 2019. Trong đó, thu hải quan 6.375 tỷ đồng, tăng 5,5%; thu nội địa 24.356 tỷ đồng, tăng nhẹ +0,04%. Về cơ cấu thụ, năm 2020 thu hải quan chiếm 20,7% tổng thu ngân sách Nhà nước trên địa bản (tăng 0,9% so với năm 2019); thu nội địa chiếm 79,3%. Chi ngân sách địa phương là 24.053 tỷ đồng, giảm 13% so với năm 2019. Trong đó, chi đầu tư phát triển là 11.811 tỷ đồng, tăng 24,3%; chỉ thường xuyên là 8.560 tỷ đồng, tăng 2,8%. Tổng dư nợ tín dụng thời điểm cuối năm 2020 ước đạt 101.094 tỷ đồng, tăng 12,9%.
+
+Năm 2021, quy mô kinh tế (GRDP): 227.615 tỷ đồng. Chỉ số sản xuất công nghiệp IIP tăng 9,67%. Giá trị sản xuất công nghiệp (giá so sánh 2010): 1.284.569 tỷ đồng; tính theo giá hiện hành là 1.500.000 tỷ đồng. Tăng trưởng GRDP (giá hiện hành): 8,8%. Tăng trưởng GRDP (giá so sánh 2010): 6,9%. GRDP bình quân đầu người: 6.738 USD. Thu nhập bình quân đầu người: 71,8 triệu VNĐ. Thu ngân sách: 33.052 tỷ đồng; trong đó thu nội địa: 25.327 tỷ đồng. Dân số: 1.462.945 người. Tỷ lệ đô thị hóa: 38%. Xuất khẩu: 46,408 tỷ USD. Nhập khẩu: 41,260 tỷ USD. Tổng nguồn vốn huy động trên địa bàn đạt 196.200 tỷ đồng. Tổng mức bán lẻ hàng hóa và dịch vụ: 61.903 tỷ đồng. Số doanh nghiệp thành lập mới: 2.344 tổng vốn 28.622 tỷ đồng. Thút đầu tư FDI (tính đến 20 tháng 12 năm 2021): 1,663 tỷ USD; lũy kế 21,243 tỷ USD. Thu hút đầu tư trong nước (tính đến 20 tháng 12 năm 2021) 27.543 tỷ VNĐ. Tổng vốn đầu tư phát triển năm 2021: 58,2 nghìn tỷ đồng. Tỷ lệ huyện đạt chuẩn nông thôn mới: 100%. Tỷ lệ hộ nghèo theo chuẩn đa chiều: 0,85%.
+
+Theo dữ liệu [[sáp nhập tỉnh, thành Việt Nam 2025]], Bắc Ninh có diện tích: 4.719&nbsp;km², xếp thứ 30; dân số: 3.619.433 người, xếp thứ 14; GRDP 2024: 439.776.542 triệu VNĐ, xếp thứ 5; thu ngân sách 2024: 53.804.577 triệu VNĐ, xếp thứ 8; thu nhập bình quân: 65,10 triệu VNĐ/năm, xếp thứ 8.<ref>{{Chú thích web |tiêu đề=Danh sách dự kiến tên gọi của 34 tỉnh, thành phố và trung tâm chính trị - hành chính |url=https://vtv.vn/chinh-tri/danh-sach-du-kien-ten-goi-cua-34-tinh-thanh-pho-va-trung-tam-chinh-tri-hanh-chinh-20250413230809506.htm |ngày truy cập=14 tháng 4 năm 2025 |website=vtv.vn |ngôn ngữ=vi}}</ref>
+
+==Xã hội==
+===Giáo dục===
+[[Hình: Le Van Thinh.JPG|nhỏ|phải|250px|<center>Tượng Thủ khoa Minh kinh bác học Lê Văn Thịnh</center>]]
+
+Trong lịch sử, Bắc Ninh là nơi có nhiều [[trạng nguyên Việt Nam|Trạng nguyên]] nhất Việt Nam. Khoa thi đầu tiên là khoa Minh kinh bác học, và khoa thi Nho học với tên gọi Trạng nguyên chính thống lần đầu thì người khai khoa đều là người Bắc Ninh. Trong những kỳ thi Đình dưới các triều đại phong kiến, cả nước chọn được 47 Trạng nguyên và 2991 Tiến sĩ thì riêng Kinh Bắc đã có tới 17 Trạng nguyên và 622 Tiến sĩ. Riêng thôn Tam Sơn có 2 Trạng nguyên. Có 2 vị được đi sứ dự thi cùng các Nho sĩ Trung Quốc, được đỗ đầu trở thành Lưỡng quốc Trạng nguyên. Bắc Ninh là mảnh đất địa linh, nhân kiệt với câu vè mang tính ước lệ nói về các vị tài danh xứ [[Kinh Bắc]]: "Một giỏ ông Đồ/ Một bồ ông Cống/Một đống ông Nghè/Một bè Tiến sỹ/Một bị Trạng nguyên/Một thuyền Bảng nhãn". Riêng làng Ngọc Quan vì có tính đặc sắc trong khoa cử được mang danh hiệu ''Làng Khôi nguyên xứ Bắc''.<ref>{{Chú thích web |last=Truyền thống và Phát triển |date=2024-09-24 |title=Làng Khôi nguyên xứ Bắc |url=https://truyenthongphattrien.com.vn/wp-content/uploads/2024/09/tap-chi-so-9-full-bai-update-da-nen_compressed.pdf |access-date=2024-09-24 |website=Truyền thống và Phát triển |language=vi |archive-date=2024-11-09 |archive-url=https://web.archive.org/web/20241109195304/https://truyenthongphattrien.com.vn/wp-content/uploads/2024/09/tap-chi-so-9-full-bai-update-da-nen_compressed.pdf |url-status=dead }}</ref>
+
+Có những vị vừa là Thủ khoa Nho học vừa là Tể tướng như [[Nguyễn Đăng Đạo]] (Trạng nguyên – [[Tham tụng]]), [[Vũ Miên]] ([[Hội nguyên]] – Tham tụng, [[Quốc tử giám]] Tế tửu, [[Quốc sử quán (nhà Nguyễn)|Quốc sử quán]] Tổng tài). Có những dòng họ lưu giữ được truyền thống nhiều đời: dòng họ Vũ làng Lương Xá ([[Vũ Kính]], [[Vũ Giới]]...), họ Vũ [[Lâm Thao, Bắc Ninh|làng Xuân Lan]] (Vũ Miên)
+
+Các Trạng nguyên người Bắc Ninh bao gồm
+*Thủ khoa Minh kinh bác học [[Lê Văn Thịnh]] – Gia Bình (1075) – Người đứng đầu khoa thi đầu tiên trong lịch sử phong kiến Việt Nam khi chưa có danh hiệu Trạng nguyên.
+*[[Nguyễn Quan Quang]] – Từ Sơn – Trạng nguyên đầu tiên (bắt đầu gọi là Trạng nguyên) (1234) – Tam Sơn
+*[[Huyền Quang|Lý Đạo Tái]] (1272) – Gia Bình – Tổ thứ ba (Huyền Quang) của thiền phái Trúc Lâm Yên Tử
+*[[Lưu Thúc Kiệm]] (1400) – Thuận Thành
+*[[Nguyễn Nghiêu Tư]] (1448) – Từ Sơn (theo bia văn miếu) – Trạng Lợn, Lưỡng quốc Trạng nguyên
+*[[Vũ Kiệt]] (1472) – Thuận Thành
+*[[Nguyễn Quang Bật]] (1484) – Thuận Thành
+*[[Nghiêm Hoản]] (1496) – Quế Võ
+*[[Nguyễn Giản Thanh]] (1508) – Từ Sơn – Trạng Me
+*[[Ngô Miễn Thiệu]] (1518) – Từ Sơn – Trạng nguyên – Tam Sơn
+*[[Hoàng Văn Tán]] (1523) – Từ Sơn
+*[[Nguyễn Lượng Thái]] (1553) – Thuận Thành
+*[[Phạm Quang Tiến]] (1565) – Lương Tài
+*[[Vũ Giới]] (1577) – Lương Tài
+*[[Nguyễn Xuân Chính]] (1637) – Từ Sơn
+*[[Nguyễn Đăng Đạo]] (1683) – Tiên Du – Trạng Bịu, Lưỡng quốc Trạng nguyên
+*[[Giáp Hải]] – Bắc Giang
+*Đệ nhất giáp khoa xuất thân Nguyễn Viết Chất
+*Đình nguyên khoa Nguyễn Đình Tuân (Đinh Mão 1867 – 1941)
+*Thám hoa [[Quách Nhẫn]] (1251 – 1258)
+
+Riêng bảng nhãn, thám hoa, tiến sĩ có rất nhiều. Đặc biệt Làng Kim Đôi có 25 vị trong đó, họ Nguyễn có 18 vị, họ Phạm có 7 vị (Theo Trạng nguyên, Bảng nhãn, Thám hoa Việt Nam). Làng Tam Sơn là làng duy nhất của cả nước có đủ (Trạng nguyên, Bảng nhãn, Thám hoa).<ref name="bn">[http://www.bacninh.gov.vn/dukhach/Trang/Tin%20chi%20ti%E1%BA%BFt.aspx?newsid=926&dt=ngày 18 tháng 3 năm 2013&cid=2 Văn miếu Bắc Ninh]{{Liên kết hỏng|date = ngày 8 tháng 2 năm 2021 |bot=InternetArchiveBot }}</ref>
+[[Tập tin:Cổng chính CBN.jpg|nhỏ|[[Trường Trung học phổ thông chuyên Bắc Ninh|Trường THPT Chuyên Bắc Ninh]]]]
+Sự nghiệp giáo dục – đào tạo phát triển toàn diện theo hướng bền vững. Công tác phổ cập giáo dục ở các cấp học tiếp tục được quan tâm và công nhận hoàn thành phổ cập giáo dục – xóa mù chữ các cấp học ở mức độ cao nhất cả nước. Cơ sở vật chất, trang thiết bị dạy học được đầu tư có trọng tâm, trọng điểm, đồng bộ, hiện đại.
+
+Thành phố Bắc Ninh đã và đang quy hoạch 3 làng Đại học: 
+*Làng Đại học I có diện tích khoảng 200 ha tại phường [[Võ Cường]] và xã [[Liên Bão]].
+*Làng Đại học II quy hoạch theo hướng "Công viên các trường Đại học" với diện tích tổng thể khoảng 1.300 ha tại các phường [[Hạp Lĩnh]], xã [[Tân Chi]], [[Liên Bão]], [[Phật Tích]]. 
+*Làng Đại học III hiện thành phố Bắc Ninh đang xúc tiến quy hoạch và lập dự án đầu tư quy mô 1000 ha.<ref>{{Chú thích web |url=http://www.ktdt.com.vn/news/detail/329851/bac-ninh-di-truoc-trong-quy-hoach-dau-tu-do-thi-dai-hoc.aspx |ngày truy cập=2013-06-21 |tựa đề=Quy hoạch - Báo kinh tế đô thị<!-- Bot generated title --> |archive-date = ngày 23 tháng 1 năm 2013 |archive-url=https://web.archive.org/web/20130123090520/http://www.ktdt.com.vn/news/detail/329851/bac-ninh-di-truoc-trong-quy-hoach-dau-tu-do-thi-dai-hoc.aspx |url-status=dead }}</ref>
+{{xem thêm|Danh sách trường đại học và cao đẳng tại Bắc Ninh}}Năm 2008, toàn Bắc Ninh có 18.293 học sinh tốt nghiệp Trung học phổ thông, thì có 19.380 lượt học sinh dự thi ĐH, với tổng điểm bình quân 3 môn thi ĐH là 12,85. Bắc Ninh xếp thứ 6 toàn quốc về tổng điểm bình quân 3 môn thi
+{{xem thêm|Danh sách trường trung học phổ thông tại tỉnh Bắc Ninh}}
+
+===Y tế===
+Cùng với hệ thống y tế của nhà nước, cũng có một hệ thống bệnh viện, phòng khám tư nhân đang dần phát triển. Bắc Ninh hiện có các bệnh viện sau:
+*Bệnh viện Đa khoa Bắc Ninh số 1
+*Bệnh viện Đa khoa Bắc Ninh số 2
+*Bệnh viện Sản nhi Bắc Ninh số 1
+*Bệnh viện Sản nhi Bắc Ninh số 2
+*Bệnh viện Quân y 110.
+*Bệnh viện Y học cổ truyền – Phục hồi chức năng thành phố Bắc Ninh.
+*Bệnh viện sức khỏe Tâm thần Bắc Ninh.
+*Bệnh viện Da liễu thành phố Bắc Ninh.
+*Bệnh viện Mắt thành phố Bắc Ninh.
+*Bệnh viện Phổi thành phố Bắc Ninh.
+*Bệnh viện đa khoa Kinh Bắc II.
+*Bệnh viện Mắt Sông Cầu.
+*Bệnh viện đa khoa Hồng Phúc.
+*Bệnh viện đa khoa Ngã Tư Hồ.
+*Hệ thống các bệnh viện đa khoa khu vực của thành phố.
+
+==Dân số==
+{{Lịch sử dân số
+| title = Lịch sử phát triển dân số thành phố Bắc Ninh qua các năm
+| type = 
+| align = right
+| cols = 2
+| direction = 
+| width = 15
+| state = 
+| shading = 
+| pop_name = 
+| percentages = 
+| footnote = 
+| source = Trang Thông tin điện tử Cục Thống kê - Bộ Tài chính<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương"/>
+|[[1995]] | 916.000
+|[[1996]] | 925.300
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[1996]] | 922.210
+|[[1997]] | 931.700
+|[[1998]] | 937.600
+|[[1999]] | 943.000
+|[[2000]] | 950.600
+|[[2001]] | 958.900
+|[[2002]] | 967.600
+|[[2003]] | 975.300
+|[[2004]] | 983.200
+|[[2005]] | 991.100
+|[[2006]] | 999.800
+|[[2007]] | 1.009.400
+|[[2008]] | 1.018.100
+|[[2009]] | 1.026.500
+|[[2010]] | 1.045.900
+|[[2011]] | 1.063.400
+|[[2012]] | 1.085.800
+|[[2013]] | 1.108.200
+|[[2014]] | 1.131.200
+|[[2015]] | 1.154.700 
+|[[2016]] | 1.178.600
+|[[2017]] | 1.215.200
+|[[2018]] | 1.247.500
+|[[2019]] | 1.378.600
+|[[2020]] | 1.419.100
+|[[2021]] | 1.462.900
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2021]] | 1.490.899
+|[[2022]] | 1.488.200
+|[[2023]] | 1.517.400
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2023]] | 1.568.684
+|[[2024]] | 1.546.590
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2024]] | 1.561.515
+|[[12 tháng 6|12]]/[[Tháng sáu|6]]/[[2025]] | 3.619.433
+|[[1 tháng 7|1]]/[[Tháng bảy|7]]/[[2025]] | 3.572.400
+|[[31 tháng 8|31]]/[[Tháng tám|08]]/[[2025]] | 3.380.870
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2025]] | 3.989.623
+}}
+
+Tính đến năm 2024, tỉnh Bắc Ninh (tiền thân của thành phố Bắc Ninh) có diện tích tự nhiên 822,71&nbsp;km²,<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương"/> dân số trung bình là 1.546.590 người,<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương"/> trong đó dân số nam ước tính đạt khoảng 759.380 người chiếm ({{formatnum:{{#expr:759380/1546590*100round1}}}}%),<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương">[https://www.nso.gov.vn/px-web-2/?pxid=V0203-07&theme=D%C3%A2n%20s%E1%BB%91%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng Diện tích, dân số và mật độ dân số phân theo địa phương] {{Webarchive|url=https://web.archive.org/web/20250714103730/https://www.nso.gov.vn/px-web-2/?pxid=V0203-07&theme=D%C3%A2n%20s%E1%BB%91%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng |date=2025-07-14 }}, Trang Thông tin điện tử Cục Thống kê - Bộ Tài chính</ref> dân số nữ ước tính đạt khoảng 787.220 người chiếm ({{formatnum:{{#expr:787220/1546590*100round1}}}}%),<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương"/> dân số thành thị ước tính đạt khoảng 787.920 người chiếm ({{formatnum:{{#expr:787920/1546590*100round1}}}}%),<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương"/> dân số nông thôn ước tính đạt khoảng 758.670 người chiếm ({{formatnum:{{#expr:758670/1546590*100round1}}}}%),<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương"/> với mật độ dân số là {{formatnum:{{#expr:floor({{formatnum:1.546.590|R}}/{{formatnum:822,71|R}})}} }} người/km².<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương"/>
+
+Tính đến ngày 12 tháng 6 năm 2025, tỉnh Bắc Ninh có diện tích tự nhiên 4.718,60&nbsp;km², quy mô dân số là 3.619.433 người, với mật độ dân số {{formatnum:{{#expr:floor({{formatnum:3.619.433|R}}/{{formatnum:4.718,60|R}})}} }} người/km².<ref name="202/2025/QH15"/><ref name=TT>{{Chú thích web|url=https://tuoitre.vn/chi-tiet-du-kien-quy-mo-dan-so-dien-tich-kinh-te-cua-34-tinh-thanh-sau-sap-nhap-20250513081155167.htm|tựa đề= Chi tiết dự kiến quy mô dân số, diện tích, kinh tế của 34 tỉnh, thành sau sáp nhập |tác giả= Thành Chung |ngày= 2025-05-13 |website= Tuổi Trẻ Online |url lưu trữ=https://web.archive.org/web/20250513080219/https://tuoitre.vn/chi-tiet-du-kien-quy-mo-dan-so-dien-tich-kinh-te-cua-34-tinh-thanh-sau-sap-nhap-20250513081155167.htm|ngày lưu trữ= 2025-05-13 |ngày truy cập= 2025-05-13 |url-status= dead }}</ref><ref name="DT">{{Chú thích web |url= https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm |tựa đề= Dự kiến chi tiết diện tích, dân số, quy mô kinh tế của 34 tỉnh, thành mới |tác giả= Lê Hoa |ngày= 2025-06-09 |website= Báo Dân Trí |url lưu trữ= https://web.archive.org/web/20250610031809/https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm |ngày lưu trữ= 2025-06-10 |ngày truy cập= 2025-06-09 |url-status= dead }}</ref>
+
+Tính đến ngày 31 tháng 12 năm 2025, Bắc Ninh có diện tích tự nhiên 4.713,75&nbsp;km²,<ref name="nguoiquansat.vn">https://nguoiquansat.vn/tinh-sap-tro-thanh-thanh-pho-truc-thuoc-trung-uong-duoc-thong-qua-nghi-quyet-thanh-lap-12-phuong-moi-308548.html</ref> quy mô dân số là 3.989.623 người,<ref name="nguoiquansat.vn"/> trong đó dân số thành thị ước tính đạt khoảng 1.795.137 người chiếm ({{formatnum:{{percentage|{{formatnum:1.795.137|R}}|{{formatnum:3.989.623|R}}|2}} }}),<ref name="nguoiquansat.vn"/> dân số nông thôn ước tính đạt khoảng 2.194.486 người chiếm ({{formatnum:{{percentage|{{formatnum:2.194.486|R}}|{{formatnum:3.989.623|R}}|2}} }}),<ref name="nguoiquansat.vn"/> với mật độ dân số là {{formatnum:{{#expr:floor({{formatnum:3.989.623|R}}/{{formatnum:4.713,75|R}})}} }} người/km².<ref name="nguoiquansat.vn"/>
+
+Bắc Ninh có lực lượng lao động là 789.420 người, chiếm 53,04% tổng dân số. Tính đến năm 2022 Bắc Ninh có 60,34% dân số sống tại các đô thị (I, III, IV, V) với 898.010 người và 39,66% với 590.240 người sống ngoài đô thị. Mục tiêu của Bắc Ninh phù hợp với tiêu chí đô thị loại I trực thuộc trung ương.<ref>{{chú thích web|title=Bắc Ninh tạo đột phá trong quy hoạch hạ tầng đô thị|url=https://nhandan.com.vn/tin-tuc-xa-hoi/bac-ninh-tao-dot-pha-trong-quy-hoach-ha-tang-do-thi--613698/|access-date = ngày 22 tháng 8 năm 2020}}</ref>
+
+Trên địa bàn thành phố hiện có nhiều dân tộc sinh sống, trong đó [[Người Việt|Kinh]] chiếm đa số.
+
+Hiện nay, trên địa bàn thành phố có 45 thành phần dân tộc, trong đó có 7 DTTS có dân số đông, sinh sống thành cộng đồng (Nùng 97.876 người, Tày 57.224 người, Sán Dìu 33.135 người, Hoa 22.960 người, Cao Lan 19.021 người, Sán Chí 12.495 người, Dao 12.271 người), còn lại trên 2.200 người thuộc 29 DTTS khác. Có 4 huyện đông người DTTS, gồm: Sơn Động 45.338 người, Lục Ngạn 122.294 người, Lục Nam 35.972 người, Yên Thế 36.054 người.
+
+Dưới đây là 3 dân tộc đông dân nhất là:<ref name="TK">Ban chỉ đạo Tổng điều tra dân số và nhà ở trung ương. [http://www.gso.gov.vn/Modules/Doc_Download.aspx?DocID=12724 Tổng điều tra dân số và nhà ở Việt Nam năm 2009: Kết quả toàn bộ. Hà Nội.]</ref>
+
+Cũng giống như phần lớn các tỉnh thành khác tại [[Miền Bắc (Việt Nam)|Miền Bắc Việt Nam]], Bắc Ninh có đại đa số cư dân "không tôn giáo". Theo thống kê năm 2019, số người theo có tôn giáo tại Bắc Ninh là 43.573 người, tức chiếm 3,7% tổng dân số của nơi này.<ref name="TK" /> Hiện nay, Bắc Ninh có 7 tôn giáo hoạt động là [[Phật giáo]], [[Công giáo]], [[Tin Lành]], [[Hồi giáo]], [[Minh Lý đạo]],[[Phật giáo Hòa Hảo]] và [[Cao Đài]]. Bắc Ninh có 40 xứ đạo Công giáo hoạt động và tất cả các hoạt động Công giáo ở Bắc Ninh đều do Toà Giám mục [[Giáo phận Bắc Ninh]] chỉ đạo.<ref name="CEMA">[http://btgcp.gov.vn/Plus.aspx/vi/News/38/0/248/0/3901/] {{Webarchive|url=https://web.archive.org/web/20230407145140/https://btgcp.gov.vn/Plus.aspx/vi/News/38/0/248/0/3901/ |date=2023-04-07 }}, Bắc Ninh: Tổng kết 8 năm thực hiện Pháp lệnh tín ngưỡng, tôn giáo</ref>
+
+==Văn hóa==
+Bắc Ninh là thành phố sở hữu 8 Di sản UNESCO – nhiều nhất Việt Nam<ref name="baobacninhtv.vn">{{Chú thích web|url= https://baobacninhtv.vn/bg/infographics/bac-ninh-dan-dau-ca-nuoc-ve-so-luong-di-san-duoc-unesco-ghi-danh-postid450698.bbg.|tiêu đề= Bắc Ninh dẫn đầu cả nước về số lượng di sản được UNESCO ghi danh |ngày=2026-07-23|website=Báo và phát thanh truyền hình Bắc Ninh|ngôn ngữ=vi|ngày truy cập=2026-07-23}}</ref> (bằng thành phố [[Huế]]).
+
+[[Hình: Chùa Vĩnh Nghiêm - Yên Dũng - Bắc Giang - panoramio (24).jpg |nhỏ|250px| [[Chùa Vĩnh Nghiêm (Bắc Ninh)|Chùa Vĩnh Nghiêm]] tại Bắc Ninh là 1 trong 12 cụm di tích thuộc [[Quần thể di tích và danh thắng Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc]] đã được UNESCO công nhận là [[Di sản văn hoá thế giới]] năm 2025.<ref name="baochinhphu.vn">{{Chú thích web |last=baochinhphu.vn |date=2025-12-20 |title=Quần thể di tích và danh thắng Yên Tử-Vĩnh Nghiêm-Côn Sơn, Kiếp Bạc đón nhận Bằng công nhận Di sản văn hóa thế giới |url=https://baochinhphu.vn/quan-the-di-tich-va-danh-thang-yen-tu-vinh-nghiem-con-son-kiep-bac-don-nhan-bang-cong-nhan-di-san-van-hoa-the-gioi-102251220221019981.htm |access-date=2026-08-23 |website=baochinhphu.vn |language=vi}}</ref>]]
+
+[[Hình: Liền chị quan họ - Hội Lim, Bắc Ninh.JPG|nhỏ|250px|Liền chị quan họ tại [[Hội Lim]], Bắc Ninh]]
+Bắc Ninh có một nền văn hoá đặc sắc, một vùng quê có nhiều di tích lịch sử văn hoá, lễ hội dân gian, làng nghề truyền thống. Những dấu ấn lịch sử sống động truyền thống văn hoá Việt Nam, đậm đà bản sắc Kinh Bắc, được kết tinh trong những di sản văn hoá, các lễ hội dân gian. Bắc Ninh là địa phương thứ 3 xây dựng văn miếu có tầm cỡ, quy mô, trang trọng. [[Văn miếu Bắc Ninh]] với 677 vị đại khoa, chiếm 1/3 tổng số vị đại khoa của cả nước đã được vinh danh. Văn miếu Bắc Ninh với những trang lịch sử văn hóa, giáo dục còn lưu giữ được cho đến ngày nay là những cứ liệu vô cùng giá trị của nền văn minh ở vùng Kinh Bắc, nơi có thành cổ [[Luy Lâu]], nơi [[Sĩ Nhiếp]] truyền bá [[Hán học]]. [[Chùa Dâu]], [[Chùa Phật Tích]], Chùa Bút Tháp là những nơi phát tích của [[Phật giáo Việt Nam]], [[Chùa Dận]]. Bắc Ninh với các làn điệu [[quan họ]], các làng nghề như [[tranh Đông Hồ|làng tranh Đông Hồ]], [[làng gốm Phù Lãng]], gỗ mỹ nghệ Đồng Kỵ, rèn sắt Đa Hội, đúc đồng Đại Bái, dệt Hồi Quan. Các di tích lịch sử đáng kể có Lăng và đền thờ [[Kinh Dương Vương]] – thờ Thủy Tổ Việt Nam, [[Đền Lý Bát Đế|đền Đô]] – thờ tám vị vua triều Lý, [[đền Phụ Quốc]], [[Từ Sơn (phường)|đình làng Đình Bảng]], [[Chùa Vĩnh Nghiêm (Bắc Ninh)|chùa Vĩnh Nghiêm]], [[chùa Bổ Đà]], chùa Cổ Lũng v.v... Bắc Ninh có một số đặc sản như bánh phu thê Đình Bảng, bánh tẻ làng Chờ, bánh khúc làng Diềm, nem Bùi (Ninh Xá){{fact}}, rượu nếp làng Cẩm,<ref name=":1">{{Chú thích web |url=http://vietq.vn/mobile/25/chat-luong-song/148-gh233-bac-ninh-nghe-quan-ho-nem-dac-san |ngày truy cập=2013-05-18 |tựa đề=Chất lượng Việt Nam Online<!-- Bot generated title --> |archive-date = ngày 4 tháng 3 năm 2016 |archive-url=https://web.archive.org/web/20160304130308/http://vietq.vn/mobile/25/chat-luong-song/148-gh233-bac-ninh-nghe-quan-ho-nem-dac-san |url-status=dead }}</ref> cháo cá Bắc Ninh,<ref>{{Chú thích web |url=http://vietpictures.net/vi/s-vn/581-nh-mai-hng-v-chao-ca-bc-ninh.html#.UZdDdUo_aTY |ngày truy cập=2013-05-18 |tựa đề=Nhớ mãi hương vị cháo cá Bắc Ninh<!-- Bot generated title --> |archive-date = ngày 11 tháng 6 năm 2013 |archive-url=https://web.archive.org/web/20130611093050/http://vietpictures.net/vi/s-vn/581-nh-mai-hng-v-chao-ca-bc-ninh.html#.UZdDdUo_aTY |url-status=dead }}</ref> tương Đình Tổ, bánh tro. Các nghề có truyền thống lâu đời như tơ tằm, gốm sứ, đúc đồng, khắc gỗ, làm giấy, tranh vẽ dân gian. Thành phố Bắc Ninh cũng là nơi có nhiều nhân tài có đóng góp tích cực cho xã hội như: lực sĩ Trịnh Văn Vinh, vận động viên đá cầu Nguyễn Anh Tuấn, nghệ sĩ nhân dân Tự Long, ca sĩ Hoà Minzy và nghệ sĩ thị giác Vũ Tú<ref>''Những tài năng làm rạng danh quê hương Bắc Ninh'' | Tạp chí điện tử GIẢI TRÍ VĂN HÓA (đăng ngày 29/10/2025)</ref>.
+
+Tính đến ngày 31 tháng 12 năm 2025, Bắc Ninh đã nhận 8<ref name="baobacninhtv.vn"/> danh hiệu di sản của UNESCO – nhiều nhất Việt Nam đó là:
+*Dân ca [[Quan họ|Quan họ Bắc Ninh]]. 
+*[[Ca trù]]. 
+*Mộc bản [[Chùa Vĩnh Nghiêm (Bắc Ninh)|chùa Vĩnh Nghiêm]]
+*Tín ngưỡng thờ Mẫu Tam phủ của người Việt
+*Trò chơi Kéo co truyền thống (kéo co được công nhận ngày 3 tháng 12 năm 2015 – là hồ sơ đa quốc gia cùng với Hàn Quốc, Campuchia, Philippines).
+*Thực hành Then
+*Nghề làm [[Tranh Đông Hồ|tranh dân gian Đông Hồ]]
+*[[Quần thể di tích và danh thắng Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc]] được UNESCO công nhận là [[Di sản văn hoá thế giới]]<ref name="baochinhphu.vn" />
+
+===Lễ hội===
+[[Hình: Đồng Kỵ 07.jpg|nhỏ|phải|250px|<center>Lễ hội [[Đồng Kỵ|làng Đồng Kỵ]] 2009</center>]]
+[[Hình: Lý Thái Tổ monument Oct 2010.jpg|nhỏ|phải|250px|<center>Tượng vua Lý Thái Tổ</center>]]
+Hàng năm, trên địa bàn thành phố Bắc Ninh diễn ra hơn 1.300 <ref>{{Chú thích web|url=https://baobacninhtv.vn/bg2/baobacgiang.vn/bac-ninh-ron-rang-mua-le-hoi-xuan-postid439774.bbg.|tiêu đề=Bắc Ninh rộng ràng mùa lễ hội|họ=L.T|ngày=2026-02-25|website=Báo và phát thanh truyền hình Bắc Ninh|ngôn ngữ=vi-VN|ngày truy cập=2026-02-25|archive-date=2026-08-24|archive-url=https://web.archive.org/web/20260824234852/https://baobacninhtv.vn/bg2/baobacgiang.vn/bac-ninh-ron-rang-mua-le-hoi-xuan-postid439774.bbg.|url-status=dead}}</ref> lễ hội lớn nhỏ khác nhau. Một số lễ hội tiêu biểu được liệt kê dưới đây (Theo âm lịch):
+*Lễ hội [[Kinh Dương Vương]] – [[Lạc Long Quân]] và [[Âu Cơ]] (Tổ dân phố Á Lữ, phường [[Thuận Thành]]) được tổ chức vào ngày 16, 17, 18 tháng Giêng, nơi thờ Thủy Tổ người Việt, ông nội vua Hùng.
+*Hội chùa Tổ (Thôn Vạn Ty, phường [[Nhân Thắng]]). Đây là quê hương của Huyền Quang (Lý Đạo Tái) một trong ba vị sáng lập thiền phái Trúc Lâm đời Trần. Lễ hội diễn ra từ 18 đến 21 tháng 2 âm lịch hàng năm.
+*Lễ hội làng Đại Lâm (xã [[Tam Đa]]) được tổ chức vào 24, 25, 26 tháng giêng, hội có môn bơi bơi chải kỉ niệm chiến thắng sông Như Nguyệt.
+*Lễ [[hội Lim]] ở phường [[Tiên Du (phường)|Tiên Du]], được tổ chức vào 11 đến 13 [[tháng giêng]].
+*Lễ hội làng Tam Tảo (phường [[Tiên Du]]) được tổ chức vào mồng 10 tháng 2 hàng năm.
+*Lễ hội [[Đền Bà Chúa Kho (Bắc Ninh)|Đền Bà Chúa Kho]] (thuộc phường [[Vũ Ninh]] ngay bên bờ hữu ngạn sông Cầu), khai hội vào ngày 14 tháng 1 Âm lịch nhằm tưởng niệm ngày giỗ Bà.
+*Lễ hội [[chùa Phật Tích]] (chùa nằm trên đồi Phật Tích hay còn gọi là núi Lạn Kha, Rìu Mục) thuộc xã [[Phật Tích]], lễ hội từ mùng 3 đến mùng 5 Tết.
+*Lễ hội làng Kim Chân (làng Tiến sĩ) thuộc phường [[Vũ Ninh]]. Được tổ chức vào ngày 26 đến 28 tháng 2.
+*Lễ hội [[Đền Lý Bát Đế|Đền Đô]] (phường [[Từ Sơn]]) để kỷ niệm ngày đăng quang của vua Lý Thái Tổ – 15 tháng 3 năm Canh Tuất 1010, và tưởng niệm các vị vua [[nhà Lý]].
+*Lễ hội [[hội Gióng|chùa Bút Tháp]] (chùa Thấp) ngày 22 đến 24 tháng 3 âm lịch ở tổ dân phố Bút Tháp, phường Trí Quả
+*Lễ hội Thập Đình ngày 5 đến 7 tháng 2 âm lịch (10 làng thuộc hội Thập đình gồm: Bảo Tháp, Cứu Sơn, Yên Việt, Hiệp Sơn, Đông Cao (xã [[Đông Cứu]]), Hương Vinh (phường [[Gia Bình]]), Chi Nhị, Huề Đông, Địch Chung (xã [[Đại Lai]]) và tổ dân phố Vân Xá (phường [[Bồng Lai (phường)|Bồng Lai]]) để kỷ niệm trạng nguyên đầu tiên của Việt Nam tức Thái sư [[Lê Văn Thịnh]] và Doãn Công (Cao Doãn Công), chính hội được tổ chức ở Đình Cả tại thôn Bảo Tháp, xã [[Đông Cứu]].
+*Lễ hội [[Cao Lỗ|Cao Lỗ Vương]] ngày 10 tháng 3 ở làng Tiểu Than (làng Dựng) và làng Đại Than (làng Lớ) ở xã [[Cao Đức]].<ref>http://btv.gov.vn/Tint%E1%BB%A9c/Ch%C3%ADnhtr%E1%BB%8Bx%C3%A3h%E1%BB%99i/tabid/546/newsId/1389/ModuleId/1999/Default.aspx{{Liên kết hỏng|date = ngày 8 tháng 2 năm 2021 |bot=InternetArchiveBot }}</ref>
+*Lễ hội [[Đồng Kỵ]] (phường [[Đồng Nguyên]]) ngày 4 tháng Giêng.
+*Lễ hội Khám (chùa Linh Ứng, phố Khám, phường [[Thuận Thành]]) ngày 7 tháng 4 âm lịch.
+*Lễ hội [[Chùa Dâu]] ngày 8 tháng 4 âm lịch. Chùa tọa lạc ngay cạnh Quốc lộ 17 thuộc tổ dân phố Khương Tự, phường [[Trí Quả]].
+*Lễ hội truyền thống làng Vĩnh Kiều thuộc phường [[Đồng Nguyên]].
+:Có câu:<ref>{{Chú thích web | url = http://www.thanhgiong.org/vi/video.nl145.html | tiêu đề = Hội Gióng | tác giả = | ngày = | ngày truy cập = 8 tháng 2 năm 2015 | nơi xuất bản = | ngôn ngữ = }}</ref>
+:Mùng bảy hội Khám, mùng tám hội Dâu
+:Mùng chín đâu đâu cũng về hội Gióng hội làng Diềm – Từ ngày mồng 5 đến ngày mồng 7 tháng 2 âm lich hằng năm tại tổ dân phố Viêm Xá (còn gọi là làng Diềm), phường [[Kinh Bắc (phường)|Kinh Bắc]].
+
+*Lễ hội kéo co khu phố Hữu Chấp, phường [[Kinh Bắc (phường)|Kinh Bắc]] – Ngày mồng 4 tháng giêng
+*Lễ hội truyền thống chùa Thượng Phúc thuộc tổ dân phố Cung Kiệm, phường [[Nhân Hòa (phường)|Nhân Hòa]], ngày 10 tháng 2 âm lịch hàng năm. Nơi đặt tượng "Quan Thế Âm" – [[Bảo vật quốc gia (Việt Nam)|Bảo vật quốc gia]] được khắc từ năm 1449.<ref>{{Chú thích web|url=https://nhandan.vn/don-bang-cong-nhan-bao-vat-quoc-gia-tuong-quan-the-am-tai-bac-ninh-post781039.html#:~:text=Hi%E1%BB%87n%20v%E1%BA%ADt%20mang%20t%C3%ADnh%20%C4%91%E1%BB%99c,th%E1%BB%9Di%20L%C3%AA%20S%C6%A1%20duy%20nh%E1%BA%A5t.|tiêu đề=Đón bằng công nhận Bảo vật quốc gia tượng Quan Thế Âm tại Bắc Ninh|ngày=2023-11-04|website=Báo Nhân Dân điện tử|ngôn ngữ=vi|ngày truy cập=2025-03-15}}</ref>
+*Lễ hội Xương Giang : Ngày 6, 7 tháng Giêng âm lịch
+*Lễ hội Yên Thế : Ngày 16 tháng Ba dương lịch
+*Lễ hội Tiên Lục Ngày 9 tháng Giêng âm lịch các năm nhuận
+*Lễ hội đền Từ Hả : Ngày 7, 8 tháng Giêng âm lịch
+*Lễ hội Cầu Vồng : Ngày 15, 16, 17 tháng Giêng âm lịch
+*Lễ hội [[Thổ Hà]] : Ngày 21, 22 tháng Giêng âm lịch
+*Lễ hội [[Chùa Vĩnh Nghiêm (Bắc Giang)|chùa Vĩnh Nghiêm]] : Ngày 13, 14, 15 tháng Hai âm lịch
+*Lễ hội [[Chùa Bổ Đà|Bổ Đà]] : Ngày 17, 18 tháng Hai âm lịch
+*Lễ hội đình Dĩnh Thép : Ngày 6 tháng Ba âm lịch
+*Lễ hội Suối Mỡ : Ngày 30 tháng Ba và 1 tháng Tư âm lịch
+{{xem thêm|Danh sách các lễ hội ở Bắc Ninh}}
+
+===Di tích, di sản văn hóa===
+[[Hình: Đình Đại Vi.jpg|nhỏ|phải|250px|<center>Đình Đại Vi (Tiên Du), nơi thờ 3 vị [[tướng nhà Đinh]] có công dẹp [[loạn 12 sứ quân]]</center>]]
+Bắc Ninh có khoảng gần 4.000 di tích lịch sử văn hoá, trong đó có hơn 1.400 di tích được xếp hạng (trong đó có hơn 220 di tích xếp hạng cấp Quốc gia, 12 di tích Quốc gia đặc biệt, hơn 600 di tích xếp hạng cấp tỉnh), 33 bảo vật quốc gia.<ref>[http://www2.bacninh.gov.vn/Zone/VanHoaDuLich/DiTichDiSanVanHoa.html Di tích, di sản văn hóa] {{Webarchive|url=https://web.archive.org/web/20130629135917/http://www2.bacninh.gov.vn/Zone/VanHoaDuLich/DiTichDiSanVanHoa.html |date = ngày 29 tháng 6 năm 2013}} [http://www2.bacninh.gov.vn/Zone/VanHoaDuLich/DiTichDiSanVanHoa/Trang-2.html trang 2] {{Webarchive|url=https://web.archive.org/web/20131207180615/http://www2.bacninh.gov.vn/Zone/VanHoaDuLich/DiTichDiSanVanHoa/Trang-2.html |date = ngày 7 tháng 12 năm 2013}}</ref> Là thành phố có nhiều di tích cấp quốc gia chỉ sau thành phố Hà Nội. Điều đặc biệt ở Bắc Ninh là tín ngưỡng thờ [[Thánh Tam Giang]] rất phổ biến với vài trăm làng thờ, tập trung nhiều ở các làng quan họ ven [[sông Cầu]].
+
+Bắc Ninh có Di sản văn hóa phi vật thể tiêu biểu nhất ở Bắc Ninh là dân ca [[Quan họ|Quan họ Bắc Ninh]]<ref>[http://www.unesco.org/culture/ich/index.php?RL=00183 Quan Họ Bắc Ninh folk songs] 2009</ref> đã được [[Tổ chức Giáo dục, Khoa học và Văn hóa Liên Hợp Quốc]] xếp vào [[Kiệt tác di sản truyền khẩu và phi vật thể của nhân loại|Kiệt tác truyền khẩu và phi vật thể nhân loại]].<ref>[http://www.unesco.org/culture/ich/index.php?pg=00011 Lists of intangible cultural heritage and Register of best safeguarding practices]</ref> [[Chùa Vĩnh Nghiêm (Bắc Giang)|Chùa Vĩnh Nghiêm]], [[Chùa Bổ Đà]], [[Khu di tích và danh thắng Tây Yên Tử]] nằm trong [[Quần thể di tích và danh thắng Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc]] đã được UNESCO công nhận là [[di sản văn hóa thế giới]]. 
+{{xem thêm|Danh sách di tích, di sản văn hóa ở Bắc Ninh}}
+
+===Làng nghề truyền thống===
+[[Hình: Đám cưới chuột.JPG|nhỏ|phải|250px|<center>Tranh Đông Hồ <br>Đám cưới chuột (Bắc NInh)</center>]]
+Bắc Ninh với nhiều làng nghề truyền thống có tuổi đời hàng trăm năm, đã làm ra những sản phẩm thủ công tinh xảo, độc đáo. Hiện nay, Bắc Ninh có 62 làng có nghề. Trong đó 30 làng nghề đã được cấp bằng công nhận gồm 21 làng nghề truyền thống, 9 làng nghề mới, 32 làng có nghề. Các làng nghề chủ yếu trong các lĩnh vực như đồ gỗ mỹ nghệ xuất khẩu, sản xuất giấy, gốm, sắt, thép tái chế, đúc đồng. Các làng nghề đã góp phần rất lớn trong việc giải quyết công ăn việc làm cho nhân dân trong thành phố (trên 72.000 lao động thường xuyên và trên 10.000 lao động thời vụ).<ref>{{Chú thích web|url=http://www.tapchicongsan.org.vn/Home/Viet-nam-tren-duong-doi-moi/2010/2422/Phat-trien-lang-nghe-o-Bac-Ninh-theo-huong-ben-vung.aspx|tiêu đề=Phát triển làng nghề ở Bắc Ninh theo hướng bền vững|website=Tạp chí Cộng sản|ngày truy cập=2013-05-30|archive-date=2013-01-16|archive-url=https://web.archive.org/web/20130116142734/http://www.tapchicongsan.org.vn/Home/Viet-nam-tren-duong-doi-moi/2010/2422/Phat-trien-lang-nghe-o-Bac-Ninh-theo-huong-ben-vung.aspx|url-status=dead}}</ref>
+{{xem thêm|Danh sách làng nghề truyền thống ở Bắc Ninh}}
+
+===Ẩm thực===
+Món ăn đặc trưng địa phương của thành phố không có nhiều nhưng cũng ấn tượng: bánh đa thôn Đoài, bánh tro (âm) Đình Tổ, bánh khoai Thị Cầu, đậu gù Trà Lâm, bún tươi Khắc Niệm, tỏi An Thịnh, bánh phu thê Đình Bảng, gà Hồ, bánh tẻ Chờ, giò chả Tân Hồng, cà rốt Gia Lương, thịt chuột Đình Bảng, kẹo lạc, cháo thái Đình Tổ, khoai tây Quế Võ, rượu nếp làng Cẩm, phở gan cháy Đáp Cầu, kẹo cốm Lũng Giang, bánh đa nem Yên Phụ, mì gạo Tử Nê, bánh cuốn Mão Điền, rượu Đại Lâm, tương Đình Tổ, nem Bùi, bánh khúc làng Diềm.
+
+Vải thiều Lục Ngạn,Gà đồi Yên Thế, Mỳ Chũ, Cam Bố Hạ, Na Lục Nam, Bánh đa Thổ Hà, Gỏi cá mè, Xôi trứng kiến, Dứa Lục Nam, Rượu làng Vân, bánh đúc Đồng Quan, Bánh tro, Bún Đa Mai, bánh đa Kế, nham cá....
+
+===Môi trường===
+Ô nhiễm môi trường làng nghề ở Bắc Ninh đã và đang diễn ra ở nhiều làng nghề như Văn Môn,<ref>{{Chú thích web |date=2020-03-17 |title=Người dân Bắc Ninh: 'Sống đâu âu đấy' làng nghề ô nhiễm mà phải chịu |url=https://kinhtemoitruong.vn/nguoi-dan-bac-ninh-song-dau-au-day-lang-nghe-o-nhiem-ma-phai-chiu-15060.html |access-date=2025-09-01 |website=kinhtemoitruong.vn |language=vi}}</ref> Phong Khê,<ref>{{Chú thích web |last=thanhnien.vn |date=2017-06-23 |title=Bắc Ninh: Ô nhiễm môi trường 'bủa vây' làng giấy Phong Khê |url=https://thanhnien.vn/bac-ninh-o-nhiem-moi-truong-bua-vay-lang-giay-phong-khe-185673280.htm |access-date=2025-09-01 |website=Báo Thanh Niên |language=vi}}</ref> Đại Bái,<ref>{{Chú thích web |last=baodientuvtv |date=2025-04-08 |title=Bắc Ninh kiên quyết giải quyết ô nhiễm môi trường tại làng nghề đúc đồng Đại Bái |url=https://vtv.vn/xa-hoi/bac-ninh-kien-quyet-giai-quyet-o-nhiem-moi-truong-tai-lang-nghe-duc-dong-dai-bai-20250408134401228.htm |access-date=2025-09-01 |website=BAO DIEN TU VTV |language=vi}}</ref> Mẫn Xá.<ref>{{Chú thích web |last=tử |first=Báo Nhân Dân điện |date=2024-11-20 |title=Bắc Ninh: Sẽ dừng hoạt động vĩnh viễn tại cụm công nghiệp làng nghề Mẫn Xá nếu không khắc phục vi phạm |url=https://nhandan.vn/bac-ninh-se-dung-hoat-dong-vinh-vien-tai-cum-cong-nghiep-lang-nghe-man-xa-neu-khong-khac-phuc-vi-pham-post845998.html |access-date=2025-09-01 |website=Báo Nhân Dân điện tử |language=vi}}</ref> Ngoài ra, một số công ty trong các khu công nghiệp cũng gây ô nhiễm như công ty Kingmo New Materials (khu công nghiệp Tiên Sơn).<ref>{{Chú thích web | url = http://www.vietnamplus.vn/Home/Bac-Ninh-Nguoi-dan-song-mon-voi-khi-thai-KCN/201211/169992.vnplus | tiêu đề = Bắc Ninh: Người dân "sống mòn" với khí thải KCN | tác giả = | ngày = 22 tháng 11 năm 2012 | ngày truy cập = 8 tháng 2 năm 2015 | nơi xuất bản = [[Thông tấn xã Việt Nam]] | ngôn ngữ = }}{{Liên kết hỏng|date=2024-05-09 |bot=InternetArchiveBot }}</ref>. Nhiều biện pháp đã được chính quyền đưa ra nhăm giải quyết tình trạng này.<ref>{{Chú thích báo |last=cand.com.vn |title=Giải quyết hiệu quả ô nhiễm môi trường ở các làng nghề tại Bắc Ninh |url=https://cand.com.vn/Ban-doc-cand/giai-quyet-hieu-qua-o-nhiem-moi-truong-o-cac-lang-nghe-tai-bac-ninh-i755188/ |archive-url=https://web.archive.org/web/20250328091041/https://cand.com.vn/Ban-doc-cand/giai-quyet-hieu-qua-o-nhiem-moi-truong-o-cac-lang-nghe-tai-bac-ninh-i755188/ |archive-date=2025-03-28 |access-date=2025-09-01 |work=Báo Công an Nhân dân điện tử |language=vi-VN |url-status=live }}</ref>
+
+===Thể thao===
+Bắc Ninh có [[Câu lạc bộ bóng chuyền Kinh Bắc Bắc Ninh]] là đội bóng chuyên nghiệp đang thi đấu tại [[Giải vô địch bóng chuyền quốc gia Việt Nam]].
+
+[[Câu lạc bộ bóng đá Bắc Ninh|Câu lạc bộ bóng đá Bắc Ninh FC]] là đội bóng chuyên nghiệp đang thi đấu tại [[Giải bóng đá hạng Nhất Quốc gia Việt Nam|Giải vô địch bóng đá Hạng Nhất Quốc qia]]
+
+==Du lịch==
+{{xem thêm|Các điểm du lịch Bắc Ninh}}
+[[Hình: ChuaDau ToanCanh.JPG|nhỏ|phải|250px|<center>[[Chùa Dâu]]</center>]]
+
+Bắc Ninh hiện có hàng trăm di tích lịch sử văn hóa với nhiều đình, chùa, lễ hội và những làn điệu dân ca [[Quan họ]]. Bề dày lịch sử, văn hóa đã tạo cho Bắc Ninh tiềm năng phát triển du lịch văn hóa.<ref>{{Chú thích web|url=http://www.cinet.gov.vn/ArticleDetail.aspx?articleid=60334&sitepageid=63|tựa đề=Bộ Văn hóa, Thể thao và Du lịch Việt Nam<!-- Bot generated title -->|archive-url=https://web.archive.org/web/20131208050601/http://www.cinet.gov.vn/ArticleDetail.aspx?articleid=60334&sitepageid=63|archive-date=ngày 8 tháng 12 năm 2013|url-status=dead|ngày truy cập=2013-06-15}}</ref>
+
+Bắc Ninh có 3 khu du lịch là: Khu du lịch văn hoá Quan họ Cổ Mễ (phường [[Kinh Bắc (phường)|Kinh Bắc]]); khu du lịch văn hoá Đền Đầm (phường [[Từ Sơn]]); khu du lịch văn hoá Phật Tích (xã [[Phật Tích]]).
+
+Bên cạnh đó, theo dự kiến sẽ có 3 khu du lịch khác là: Khu du lịch lâm viên Thiên Thai (xã [[Đông Cứu]]); khu du lịch văn hoá lịch sử Như Nguyệt (xã [[Tam Giang, Bắc Ninh|Tam Giang]]); khu du lịch tâm linh Hàm Long – Núi Dạm (phường [[Nam Sơn]]) và lựa chọn 22 điểm di tích quy hoạch phát triển thành điểm du lịch làm động lực cho các tuyến du lịch khép kín, liên hoàn và hấp dẫn trên địa bàn.
+
+Trong đó có một số di tích lịch sử – văn hóa tiêu biểu để hình thành các điểm, các tuyến du lịch hấp dẫn như Văn Miếu Bắc Ninh (phường [[Võ Cường]]); chùa Phật Tích (xã [[Phật Tích]]); lăng Kinh Dương Vương (phường [[Thuận Thành]]); chùa Dâu, chùa Bút Tháp (phường [[Trí Quả]]), đền Đô (phường [[Từ Sơn]]); đền thờ Lê Văn Thịnh (xã [[Đông Cứu]]); Đền, chùa Cổ Lũng, Chùa Lim (phường [[Tiên Du]]).
+
+Ngoài ra, còn có du lịch cộng đồng tại làng gốm Phù Lãng (phường [[Phù Lãng]]), khu vực chùa Bút Tháp (phường [[Trí Quả]]), làng Quan họ Viêm Xá (phường [[Kinh Bắc (phường)|Kinh Bắc]]), làng gỗ mĩ nghệ [[Đồng Kỵ]] (phường [[Đồng Nguyên]]).<ref>{{Chú thích web|url=http://vanhoattdlbacninh.gov.vn/vi/news_detail/445/bac-ninh-trien-khai-tour-du-lich-cong-dong-lang-gom-phu-lang-huyen-que-vo-%E2%80%93-chua-but-thap-huyen-thuan-thanh-%E2%80%93-lang-quan-ho-co-viem-xa-thanh-pho-bac-ninh.html|tựa đề=Bắc Ninh: Triển khai tour du lịch cộng đồng Làng gốm Phù Lãng (huyện Quế Võ) – Chùa Bút Tháp (huyện Thuận Thành) – Làng Quan họ cổ Viêm Xá (Thành phố Bắc Ninh)|archive-url=https://web.archive.org/web/20131208095043/http://vanhoattdlbacninh.gov.vn/vi/news_detail/445/bac-ninh-trien-khai-tour-du-lich-cong-dong-lang-gom-phu-lang-huyen-que-vo-%E2%80%93-chua-but-thap-huyen-thuan-thanh-%E2%80%93-lang-quan-ho-co-viem-xa-thanh-pho-bac-ninh.html|archive-date=ngày 8 tháng 12 năm 2013|url-status=dead|ngày truy cập=2013-06-15}}</ref>. Điểm du lịch sinh thái Đồng Dao và điểm du lịch bản Bắc Hoa – nhà trình tường dân tộc Nùng (xã [[Tân Sơn, Bắc Ninh|Tân Sơn]]), thác Ba Tia và Bản Mậu, xã Tây Yên Tử
+
+[[Tây Yên Tử|Khu danh thắng Tây Yên Tử]], rừng nguyên sinh Khe Rỗ, suối Nước Vàng, cao nguyên Đồng Cao, khu du lịch sinh thái Suối Mỡ, hồ Khuôn Thần, hồ Cấm Sơn, dãy núi Nham Biền,...
+
+Khu du lịch tâm linh – sinh thái Tây Yên Tử, Khu di tích Khởi nghĩa Yên Thế, [[Chùa Vĩnh Nghiêm (Bắc Giang)|chùa Vĩnh Nghiêm]], [[chùa Bổ Đà]], vùng cây ăn quả xã [[Lục Ngạn (xã)|Lục Ngạn]], các điểm du lịch: Bầu Tiên (xã [[Kiên Lao]]), Bản Ven (xã [[Xuân Lương]]), Vạn Hoa Hồ Va (xã [[Đông Phú]])...
+
+==Giao thông==
+{{xem thêm|Giao thông Bắc Ninh}}
+[[Tập tin:Quoclo1Amoi.JPG|nhỏ|[[Quốc lộ 1]] đoạn đi trùng với {{Banner đường Việt Nam|CT|01|2|link=1}} thuộc Bắc Ninh]]
+Bắc Ninh là thành phố có hệ thống giao thông đa dạng, gồm cả đường bộ, đường sắt và đường sông. Trong đó, hệ thống đường bộ được đánh giá là tương đối đồng bộ so với các tỉnh thành khác trong cả nước.
+
+Giao thông đường bộ, Bắc Ninh có mạng lưới giao thông phát triển với nhiều tuyến huyết mạch đi qua như [[Quốc lộ 1]], [[Quốc lộ 18]] và [[Quốc lộ 38]]. Ngoài ra, tuyến đường cao tốc [[Đường cao tốc Hà Nội – Bắc Giang|Hà Nội – Bắc Giang]] và [[Đường cao tốc Nội Bài – Bắc Ninh – Hạ Long|Nội Bài – Bắc Ninh – Hạ Long]], [[Đường vành đai 4 (Hà Nội)|vành đai 4 vùng thủ đô]] giúp rút ngắn đáng kể thời gian di chuyển giữa Bắc Ninh và các tỉnh, thành lân cận. Hệ thống đường tỉnh, đường huyện cũng được đầu tư nâng cấp, thuận lợi cho việc vận chuyển hàng hóa từ các khu công nghiệp tại Bắc Ninh đến thủ đô Hà Nội hay các cảng biển lớn như [[Cảng Hải Phòng|Hải Phòng]], [[Cảng Cái Lân|Cái Lân]] nhanh chóng và thuận tiện.Tuy nhiên, vào giờ cao điểm, một số tuyến đường vẫn xảy ra tình trạng ùn tắc cục bộ do mật độ phương tiện ngày càng tăng.
+[[Tập tin:Viet Nam VNR B.41002.jpg|nhỏ|Toa xe lửa số hiệu B.41002 dừng tại Ga Kép]]
+Về đường sắt, Bắc Ninh có tuyến đường sắt [[Đường sắt Hà Nội – Đồng Đăng|Hà Nội – Đồng Đăng]] chạy dọc qua địa bàn thành phố. Tuyến đường này đi qua các ga quan trọng như [[ga Từ Sơn]], [[ga Thị Cầu]], [[ga Kép]],.... Mạng lưới đường sắt đóng vai trò quan trọng trong việc vận chuyển hàng hóa khối lượng lớn, đặc biệt là kết nối giao thương qua cửa khẩu quốc tế với Trung Quốc khi ga Kép được nâng cấp thành ga liên vận quốc tế vào đầu năm 2023.
+
+Giao thông đường thủy nội địa của Bắc Ninh cũng là một thế mạnh lớn nhờ được bao bọc và chia cắt các con sông lớn: sông Đuống, sông Cầu và sông Thái Bình. Trên địa bàn thành phố có nhiều cảng sông, bến bãi đang hoạt động hiệu quả, tiêu biểu như cảng Đáp Cầu hay cảng Hồ, giúp giảm tải đáng kể cho hệ thống giao thông đường bộ.
+
+Về đường hàng không, Bắc Ninh hiện hưởng lợi lớn nhờ vị trí kề cận thủ đô, chỉ mất khoảng 30 đến 45 phút di chuyển qua cao tốc để đến [[Sân bay quốc tế Nội Bài|sân bay Quốc tế Nội Bài]], đáp ứng nhu cầu xuất nhập khẩu và giao thương quốc tế. Đặc biệt, hạ tầng của thành phố đang có bước ngoặt lịch sử với dự án [[Sân bay quốc tế Gia Bình|sân bay Gia Bình]] đang được thi công, hướng tới phục vụ an ninh quốc phòng và phát triển lưỡng dụng. Ngoài ra, Bắc Ninh còn có sân bay quân sự [[Sân bay Kép|Kép]] ở phường [[Kép (phường)|Kép]].
+
+== Danh nhân ==
+
+* [[Cao Lỗ]]
+* [[Lý Thái Tổ]]
+* [[Vũ Miên]]
+* [[Vũ Trinh]]
+* [[Hàn Thuyên]]
+* [[Nguyễn Đăng Đạo]]
+* [[Cao Bá Quát]]
+* [[Thánh Tam Giang]]
+* [[Tô Hiệu]]
+* [[Bạch Đa]]
+* [[Ngô Gia Tự]]
+* [[Ngọ Doãn Trù]]
+* Thánh [[Hùng Linh Công]]
+* [[Thánh Thiên]] Công chúa
+* [[Đoàn Xuân Lôi]]
+* [[Trịnh Ngô Dụng]]
+* [[Hoàng Hoa Thám]]
+* [[Nguyễn Đình Tuân]]
+* [[Nguyễn Khắc Nhu]]
+* [[Cô Giang]] (Nguyễn Thị Giang)
+* [[Bàng Bá Lân]]
+* [[Cô Bắc]] (Nguyễn Thị Bắc)
+* [[Thân Nhân Trung]]
+* Trạng nguyên [[Giáp Hải]]
+* [[Tướng Nhà Đinh]]: Cao Y, Lý Long, Lý Khang
+* Danh tướng [[Hoàng Ngũ Phúc]]
+* Nhà văn [[Nguyên Hồng]]
+* Đại tướng [[Phạm Văn Trà]], nguyên Bộ trưởng Bộ Quốc phòng, Anh hùng Lực lượng vũ trang nhân dân Việt Nam
+* Trung tướng [[Nguyễn Văn Cốc]], Anh hùng Lực lượng vũ trang nhân dân, nguyên Chánh Thanh tra Bộ Quốc phòng
+* Đô đốc [[Giáp Văn Cương]], nguyên Phó Tổng tham mưu trưởng Quân đội nhân dân Việt Nam, nguyên Tư lệnh Quân chủng Hải quân
+* [[Thượng tướng]] [[Ngô Minh Tiến]], [[Phó Tổng tham mưu trưởng Quân đội nhân dân Việt Nam]]
+* Trung tướng [[Lư Giang (trung tướng)|Lư Giang]], nguyên Tư lệnh Quân khu Thủ đô, nay là Bộ Tư lệnh Thủ đô Hà Nội
+* Trung tướng [[Nguyễn Ân]], nguyên Hiệu trưởng Trường Sĩ quan Lục quân 1
+* Trung tướng [[Nguyễn Ngọc Văn]], nguyên Viện trưởng Viện Chiến lược Quân sự Bộ Quốc phòng
+* Trung tướng, PGS.TS [[Lưu Văn Miểu]], nguyên Giám đốc Học viện Hậu cần
+* [[Thượng tướng]] [[Nguyễn Văn Nghĩa]], [[Phó Tổng tham mưu trưởng Quân đội nhân dân Việt Nam]]
+* Thiếu tướng, Nhạc sĩ [[Đức Trịnh]], nguyên Hiệu trưởng Trường Đại học Văn hóa Nghệ thuật Quân đội
+* Thiếu tướng [[Trịnh Quốc Đoàn]], nguyên Phó Tổng cục trưởng Tổng cục Hậu cần – Kỹ thuật, Bộ Công an
+* Trung tướng [[Trần Văn Nhuận]], nguyên Phó Tổng cục trưởng Chính trị, Bộ Công an
+* Thiếu tướng [[Bùi Xuân Khang]], nguyên Phó Tổng cục trưởng Tổng cục II, Bộ Quốc phòng
+* Thiếu tướng Lê Văn Duy, Bí thư Đảng ủy, Chính ủy Trường Sĩ quan Lục quân 1
+* Thiếu tướng [[Hoàng Đăng Huệ]], nguyên Phó Tư lệnh Chính trị Binh chủng Tăng – Thiết giáp
+* Thiếu tướng [[Chu Công Phu]], nguyên Phó Chính ủy Học viện Chính trị Quân sự
+* Thiếu tướng [[Triệu Văn Thế]], nguyên Cục trưởng Cục Quản lý xuất nhập cảnh, Bộ Công an
+* [[Thượng tướng]] [[Nguyễn Văn Long (sĩ quan)|Nguyễn Văn Long]], Thứ trưởng Bộ Công an
+* Đại tá [[Trần Ngọc Phương (Anh Hùng lực lượng vũ trang nhân dân Việt Nam)|Trần Ngọc Phương]], Anh hùng Lực lượng vũ trang nhân dân
+* [[Mai Dinh (Anh Hùng lực lượng vũ trang nhân dân Việt Nam)|Mai Dinh]], Anh hùng Lực lượng vũ trang nhân dân
+* [[Nguyễn Văn Huy (liệt sĩ)|Nguyễn Văn Huy]], Anh hùng Lực lượng vũ trang nhân dân, liệt sĩ
+* Ông [[Hà Văn Thắm]], nguyên Chủ tịch Tập đoàn Đại Dương, nguyên Chủ tịch Hội đồng quản trị Ngân hàng Thương mại Cổ phần Đại Dương
+* Ông [[Đỗ Bình Dương]], nguyên Tổng Kiểm toán Nhà nước
+* Ông [[Trịnh Long Biên]], nguyên Phó Chủ nhiệm Ủy ban Kiểm tra Trung ương
+* Ông [[Trần Đình Thủy]], nguyên Ủy viên Ủy ban Kiểm tra Trung ương
+* Ông [[Nguyễn Quốc Cường (Bắc Giang)|Nguyễn Quốc Cường]], nguyên Ủy viên Trung ương Đảng các khóa IX, X, XI, nguyên Bí thư Tỉnh ủy, Chủ tịch Hội đồng nhân dân tỉnh Bắc Giang, nguyên Chủ tịch Hội Nông dân Việt Nam
+* Bà [[Phạm Thị Hải Chuyền]], nguyên Ủy viên Trung ương Đảng, nguyên Bộ trưởng Bộ Lao động – Thương binh và Xã hội
+* Ông [[Đào Xuân Cần]], nguyên Ủy viên Trung ương Đảng khóa XI, nguyên Bí thư Tỉnh ủy Bắc Giang, nguyên Chủ tịch Liên minh Hợp tác xã Việt Nam
+* Ông [[Nguyễn Trọng Giảng]], nguyên Hiệu trưởng Trường Đại học Bách khoa Hà Nội
+* Ông Nguyễn Trọng Cơ, nguyên Bí thư Đảng ủy, Giám đốc Học viện Tài chính
+* Ông Ngô Thế Chi, nguyên Bí thư Đảng ủy, Giám đốc Học viện Tài chính
+* Ông [[Nguyễn Văn Vọng]], nguyên Thứ trưởng Bộ Giáo dục và Đào tạo
+* Ông [[Nguyễn Thái Lai]], nguyên Thứ trưởng Bộ Tài nguyên và Môi trường
+* Ông [[Phạm Quý Tỵ]], nguyên Thứ trưởng Bộ Tư pháp
+* Ông [[Đỗ Văn Bát]], nguyên Thứ trưởng Bộ Xây dựng
+* Ông [[Nguyễn Đăng Khoa]], nguyên Thứ trưởng Bộ Nông nghiệp và Phát triển nông thôn
+* Ông [[Hà Văn Núi]], nguyên Phó Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam
+* Ông [[Bùi Văn Hải]], Ủy viên Trung ương Đảng khóa XII, nguyên Bí thư Tỉnh ủy, Chủ tịch Hội đồng nhân dân tỉnh Bắc Giang
+* Ông [[Nguyễn Đình Khang]], Ủy viên Trung ương Đảng khóa XII, Chủ tịch Tổng Liên đoàn Lao động Việt Nam
+* Ông [[Đặng Hoàng An]], Chủ tịch Tập đoàn Điện lực Việt Nam
+* Ông [[Ngô Sách Thực]], nguyên Phó Chủ tịch [[Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam]]
+* [[Hoàng Thế Anh]], Quán quân [[Đường lên đỉnh Olympia]] năm thứ 13
+* [[Nguyễn Nhân Bỉ]] (1448–1517), người xã Kim Đôi, huyện Vũ Ninh, nay thuộc thành phố Bắc Ninh; đỗ Tiến sĩ năm 1466, từng đi sứ nhà Minh, là thành viên Hội Tao Đàn nhị thập bát tú, làm quan đến Thượng thư Bộ Binh
+* [[Nguyễn Xung Xác]] (1451–?), người xã Kim Đôi, huyện Vũ Ninh, nay thuộc thành phố Bắc Ninh; đỗ Tiến sĩ năm 1469, từng giữ chức Hàn lâm thị độc, Chưởng viện sự và Tả Thị lang Bộ Lại, là thành viên Hội Tao Đàn nhị thập bát tú
+* [[Nguyễn Nhân Bị]], người xã Kim Đôi, huyện Vũ Ninh, nay thuộc thành phố Bắc Ninh; đỗ Tiến sĩ khoa Tân Sửu năm 1481, làm quan đến chức Hàn lâm viện Kiểm thảo
+* [[Chu Huân]], người xã Ngọc Đôi, huyện Vũ Ninh, nay thuộc thành phố Bắc Ninh; đỗ Tiến sĩ năm 1493, làm quan đến chức Thừa chính sứ, là thành viên Hội Tao Đàn nhị thập bát tú
+* [[Đàm Văn Lễ]] (1452–1505), người xã Lãm Sơn, huyện Quế Dương, nay thuộc thành phố Bắc Ninh; đỗ Tiến sĩ năm 1469, làm quan đến Thượng thư Bộ Lễ, Chưởng Hàn lâm viện sự kiêm Đông các Đại học sĩ
+* [[Nguyễn Nhân Thiếp]] (1442–?), người xã Kim Đôi, huyện Vũ Ninh, nay thuộc thành phố Bắc Ninh; đỗ Tiến sĩ năm 1466, từng đi sứ nhà Minh, làm quan đến Thượng thư Bộ Lại và là thành viên Hội Tao Đàn nhị thập bát tú
+* [[Nguyễn Phúc Xuyên]] (1613–1696), người xã Đại Vũ, nay thuộc thành phố Bắc Ninh; danh y thời Lê – Trịnh, được phong Hộ quốc Thiền sư, Thánh tổ Bồ tát và được người đương thời tôn vinh là “Hoạt Phật”
+* [[Nguyễn Củng Thuận]] (1472–?), người xã Kim Đôi, huyện Vũ Ninh, nay thuộc thành phố Bắc Ninh; đỗ Tiến sĩ năm 1496, làm quan đến Tả Thị lang Bộ Lại kiêm Đô Ngự sử đài
+* [[Hoàng Quốc Việt]] (1905–1992), nhà cách mạng, quê tại Đáp Cầu, nay thuộc thành phố Bắc Ninh; nguyên Bí thư Xứ ủy Bắc Kỳ, Chủ tịch Tổng Công đoàn Việt Nam, Viện trưởng Viện Kiểm sát nhân dân tối cao, Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam
+* [[Ngô Trọng Tố]] (1823–?), danh sĩ và quan lại triều Nguyễn, quê Đáp Cầu; từng giữ chức Tuần phủ, Tổng đốc Sơn Hưng Tuyên
+* [[Ngô Thế Loan]] (1898–?), quê Đáp Cầu; từng tham gia hoạt động cách mạng và giữ chức Chủ tịch Ủy ban Hành chính tỉnh Bắc Ninh
+* Ngô Thế Phúc (1906–1995), quê Đáp Cầu; nguyên Chủ tịch Hội Truyền bá Quốc ngữ Bắc Ninh và Hội Cứu tế Bắc Ninh
+* [[Vũ Đình Huy]] (sinh năm 1943), quê Đáp Cầu; Giáo sư, Tiến sĩ khoa học, Viện sĩ, nhà khoa học trong lĩnh vực ăn mòn kim loại
+* [[Trần Bá Linh]], Hoàng giáp, người có công khai lập làng, xã và đình chùa Đáp Cầu
+* [[Dương Danh Lập]], Phó bảng, người thành phố Bắc Ninh, đỗ khoa Ất Sửu năm 1865
+* [[Nguyễn Dũng Nghĩa]], danh nhân khoa bảng thuộc dòng họ Nguyễn Kim Đôi
+* [[Nguyễn Nhân Dư]], danh nhân khoa bảng thuộc dòng họ Nguyễn Kim Đôi
+* [[Nguyễn Nhân Dịch]], danh nhân khoa bảng thuộc dòng họ Nguyễn Kim Đôi
+* [[Nguyễn Nhân Phùng]], danh nhân khoa bảng thuộc dòng họ Nguyễn Kim Đôi
+* [[Nguyễn Nhân Đạc]], danh nhân khoa bảng thuộc dòng họ Nguyễn Kim Đôi
+* [[Phạm Thiệu]], Hoàng giáp, người làng Kim Đôi
+* [[Phạm Đình Châu]], danh nhân khoa bảng người làng Kim Đôi
+* [[Phạm Nguyễn Đạt]], Tiến sĩ, người làng Kim Đôi, từng được triều đình cử đi sứ nhà Thanh
+* [[Phạm Đình Dư]], danh nhân khoa bảng người làng Kim Đôi
+* [[Phạm Quỹ]], danh nhân khoa bảng người làng Kim Đôi
+* [[Phạm Bá Thiều]], danh nhân khoa bảng người làng Kim Đôi
+* [[Vũ Miên]], danh nhân khoa bảng thuộc dòng họ Vũ ở Vĩ Vũ, nay thuộc thành phố Bắc Ninh
+* [[Bành Bắc Hải]] (1958–2025) là đạo diễn âm thanh, Nghệ sĩ nhân dân Việt Nam, quê quán tại Bố Hạ, nay thuộc phường Bố Hạ, thành phố Bắc Ninh; con trai nhà biên kịch [[Bành Châu (nhà biên kịch)|Bành Châu]] và cháu ruột nhà biên kịch [[Bành Bảo]].<ref>[https://nhandan.vn/dao-dien-am-thanh-nghe-si-nhan-dan-banh-bac-hai-qua-doi-post870507.html Báo Nhân Dân]</ref>
+* Trung tướng [[Nguyễn Ân]] (1928–2019), nguyên Hiệu trưởng [[Trường Sĩ quan Lục quân 1]], nguyên Tư lệnh [[Mặt trận 379]], sinh tại xã Bố Hạ, huyện Yên Thế, tỉnh Bắc Giang, nay thuộc phường Bố Hạ, thành phố Bắc Ninh.<ref>[https://www.qdnd.vn/ban-doc/tin-buon/tin-buon-571764 Báo Quân đội nhân dân]</ref>
+* [[Dương Trung Ý]] (sinh năm 1971), quê quán xã Bố Hạ, nay thuộc phường Bố Hạ, thành phố Bắc Ninh; Phó Giáo sư, Tiến sĩ, Ủy viên Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam khóa XIV, Tổng Biên tập Tạp chí Cộng sản và đại biểu Quốc hội khóa XVI.<ref>[https://hssk.tapchicongsan.org.vn/chuong-trinh-hanh-dong-cua-pgs-ts-duong-trung-y-uy-vien-trung-uong-dang-tong-bien-tap-tap-chi-cong-san-ung-cu-vien-dai-bieu-quoc-hoi-khoa-xvi-6282.html Tạp chí Cộng sản]</ref><ref>[https://tulieuvankien.dangcongsan.vn/bo-chinh-tri-ban-bi-thu-ban-chap-hanh-trung-uong/ban-chap-hanh-trung-uong/khoa-xiv/duong-trung-y.html Tư liệu Văn kiện Đảng]</ref>
+
+==Hình ảnh==
+ <center><gallery>
+Tập tin:Bịt mắt đập niêu - Hội Lim, Bắc Ninh.JPG|<center>Bịt mắt đập niêu<br>Hội Lim</center>
+Tập tin:Bịt mắt bắt dê - Hội Lim, Bắc Ninh.JPG|<center>Bịt mắt bắt dê<br>Hội Lim</center>
+Tập tin:Chùa Lim, Bắc Ninh.JPG|<center>Chùa Lim</center>
+Tập tin:Quan Ho-Ensemble.JPG|<center>Liền chị Quan họ</center>
+Tập tin:Bảo tàng Bắc Ninh.jpg|<center>Bảo tàng Bắc Ninh</center>
+Tập tin:Thư viện tỉnh Bắc Ninh.jpg|<center>Thư viện Bắc Ninh</center>
+Tập tin:Mời Trầu - hội Lim, Bắc Ninh.JPG|<center>Mời trầu, Hội Lim</center>
+Tập tin:VN But Thap1 tango7174.JPG|<center>Chùa Bút Tháp</center>
+Tập tin:Sân đấu vật - hội Lim, Bắc Ninh.JPG|<center>Sân đấu vật<br>Hội Lim</center>
+Tập tin:Bao Nghiem tower.jpg|<center>Tháp Báo Nghiêm<br>chùa Bút Tháp</center>
+Tập tin:Đánh đu - hội Lim, Bắc Ninh.JPG|<center>Đánh đu, Hội Lim
+Tập tin:Den Do (Den Ly Bat De).jpg|<center>Đền Lý Bát Đế (Đền Đô)
+Tập tin:Sông Cầu, đoạn qua Bắc Giang.JPG|<center>Sông Cầu, đoạn qua Vân Hà và Kinh Bắc
+Tập tin:Thành phố bắc giang.jpg|Một góc đô thị thành phố Bắc Ninh.
+Tập tin:Bac giang 6.jpg|Quăng chài trên sông Thương
+Tập tin:Bac giang 1.jpg|Bắc Ninh về đêm
+</gallery></center>
+
+== Biểu trưng ==
+<center><gallery>
+Tập tin:Biểu trưng tỉnh Bắc Ninh.svg|<center>Biểu trưng cũ (trước 2026)</center>
+Tập tin:Logo thành phố Bắc Ninh (2026).png|<center>Biểu trưng hiện tại<center>
+</gallery></center>
+
+==Chú thích==
+{{tham khảo|30em}}
+==Tham khảo==
+{{Commonscat|Bac Ninh}}
+{{Wikivoyage|Bắc Ninh}}
+*{{TĐBKVN|26461|Tỉnh Bắc Ninh}}
+{{Sơ khai Bắc Ninh}}
+{{Kiểm soát tính nhất quán}}
+{{Đơn vị hành chính cấp tỉnh Việt Nam}}{{Đơn vị hành chính thuộc thành phố Bắc Ninh}}{{Các chủ đề|Việt Nam}}
+{{Việt Nam năm 2025}}
+
+[[Thể loại:Bắc Ninh]]
+[[Thể loại:Đô thị Việt Nam loại I]]

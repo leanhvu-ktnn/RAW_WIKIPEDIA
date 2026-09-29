@@ -1,0 +1,354 @@
+{{Thông tin đơn vị hành chính Việt Nam | tỉnh
+| tên = Gia Lai
+| logo =Logo tỉnh Gia Lai.svg
+| ghi chú logo = Biểu trưng 
+| hình = Chiều_cao_nguyên_-_Late_afternoon_in_the_Central_High_Plateaux_-_panoramio.jpg
+| ghi chú hình = [[Hồ T'Nưng]]
+| vĩ độ = 13.904742
+| kinh độ = 108.179626
+| bản đồ 1 = {{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=2|stroke-color=#000000}}
+| diện tích = 15.536,92 km²<ref>{{Chú thích web|url=https://thanhnien.vn/gia-lai-du-kien-se-con-5-phuong-va-48-xa-185250326151409634.htm|tiêu đề=Gia Lai dự kiến sẽ còn 5 phường và 48 xã|tác giả=Trần Hiếu|họ=|ngày=2025-03-26|website=Báo Thanh Niên|ngôn ngữ=vi|url-status=live|ngày truy cập=2025-03-31}}</ref>
+| dân số = 1.613.895 người<ref name="Tổng_cục_Thống_kê_2022"/>{{rp|93}}
+| thời điểm dân số = 2023
+| dân số thành thị = 475.131 người ({{formatnum:{{#expr:510900/1621700*100round2}}}}%)<ref name="Tổng_cục_Thống_kê_2022"/>{{rp|99}}
+| dân số nông thôn = 1.138.764 người ({{formatnum:{{#expr:1110800/1621700*100round2}}}}%)<ref name="Tổng_cục_Thống_kê_2022"/>{{rp|101}}
+| mật độ dân số = 104 người/km²<ref name="Tổng_cục_Thống_kê_2022"/>{{rp|90}}
+| vùng = [[Tây Nguyên]] 
+| tỉnh lỵ = Thành phố [[Pleiku]] 
+| chủ tịch UBND = Rah Lan Chung
+| hội đồng nhân dân = 71 đại biểu
+| chủ tịch HĐND = [[Hồ Văn Niên]]
+| chủ tịch UBMTTQ = Hồ Văn Điềm
+| chánh án TAND = [[Phạm Duy Lam]]
+| viện trưởng VKSND = [[Nguyễn Đình Quang (kiểm sát viên)|Nguyễn Đình Quang]]
+|bí thư =  [[Hồ Văn Niên]]
+| phân chia hành chính = 1 thành phố, 2 thị xã, 14 huyện
+| trụ sở UBND = Số 02 đường Trần Phú, phường [[Tây Sơn, Pleiku|Tây Sơn]], thành phố [[Pleiku]]
+| mã địa lý = [[ISO 3166-2:VN|VN-30]]
+| mã hành chính = 64<ref>[https://danhmuchanhchinh.gso.gov.vn/ Tổng cục Thống kê]</ref>
+| mã bưu chính = [[Mã bưu chính Việt Nam|60xxxx]]
+| mã điện thoại = [[Mã điện thoại Việt Nam|0269]]
+| biển số xe = [[Biển xe cơ giới Việt Nam|81]]
+| web = {{url|gialai.gov.vn}}
+| thời điểm kinh tế = 2022
+| GRDP = 107.052 tỉ đồng (4,54 tỷ USD)
+| GRDP bình quân đầu người = 66,0 triệu đồng (2.803 USD)|biệt danh=Phố núi<br>Tuyệt cảnh giữa đại ngàn Tây Nguyên|tên cũ=[[Pleiku (tỉnh)|Pleiku]]}}
+
+'''Gia Lai''' là một [[Tỉnh thành Việt Nam|tỉnh]] [[cao nguyên|miền núi]] phía bắc của vùng [[Tây Nguyên]], [[miền Trung]] [[Việt Nam]] và là tỉnh có diện tích lớn thứ hai [[Việt Nam]].<ref>Sau Nghệ An</ref> Tỉnh Gia Lai cũng đứng thứ nhất về diện tích và đứng thứ hai về dân số vùng Tây Nguyên. [[Tỉnh lỵ (Việt Nam)|Thủ phủ]] của tỉnh là [[thành phố Pleiku]].
+
+Tính đến năm 2023, toàn tỉnh Gia Lai là đơn vị hành chính [[Việt Nam]] đông thứ 18 về số dân số với 1.613.895 người, [[Danh sách đơn vị hành chính Việt Nam theo GRDP|xếp thứ 30]] về [[Tổng sản phẩm trên địa bàn (GRDP)]], [[Danh sách đơn vị hành chính Việt Nam theo GRDP bình quân đầu người|xếp thứ 33]] về [[Tổng sản phẩm trên địa bàn (GRDP)|GRDP]] bình quân đầu người, [[Danh sách đơn vị hành chính Việt Nam theo GRDP|đứng thứ 33]] về tốc độ tăng trưởng [[Tổng sản phẩm trên địa bàn (GRDP)|GRDP]]. Năm 2020 GRDP năm 2020 đạt 80.000,32 tỉ [[Đồng (đơn vị tiền tệ)|Đồng]], bình quân đầu người 51,9 triệu đồng, tốc độ tăng trưởng GRDP đạt 8,00%.<ref name=":0">{{Chú thích web|url=https://gialai.gov.vn/tin-tuc/bao-cao-ve-tinh-hinh-thuc-hien-nhiem-vu-cong-tac-nam-2018-trien-khai-nhiem-vu-cong-tac-nam-2019.62292.aspx|title=Tình hình kinh tế, xã hội Gia Lai năm 2018|last=|first=|date=|website=UBND tỉnh Gia Lai|archive-url=|archive-date=|url-status=|access-date =Ngày 12 tháng 10 năm 2019}}</ref>
+Gia Lai cũng là một địa bàn chiến lược về quốc phòng, là nơi đóng trụ sở Bộ Tư lệnh [[Quân đoàn 3, Quân đội nhân dân Việt Nam|Quân đoàn 34]] và Bộ Tư lệnh [[Binh đoàn 15, Bộ Quốc phòng (Việt Nam)|Binh đoàn 15]].
+
+Nguồn gốc tên gọi Gia Lai bắt nguồn từ chữ [[người Gia Rai|Jarai]], tên gọi của một dân tộc thiểu số trong tỉnh, cách gọi này vẫn còn giữ trong tiếng của người Ê-đê, Ba Na, Lào, Thái Lan và Campuchia để gọi vùng đất này là Jarai, Charay có nghĩa là vùng đất của người Jarai, có lẽ ám chỉ vùng đất của [[Thủy Xá]] và [[Hỏa Xá]] thuộc [[tiểu quốc Jarai]] xưa.
+
+Tỉnh Gia Lai được tái lập vào ngày [[12 tháng 8]] năm [[1991]] khi tỉnh [[Gia Lai - Kon Tum]] tách thành hai tỉnh là Gia Lai và [[Kon Tum]]. Tỉnh lỵ tỉnh Gia Lai được đặt tại thành phố [[Pleiku]]. Đến tháng 4/2019, tỉnh Gia Lai có hơn 34 dân tộc cùng sinh sống, và 5 tôn giáo được công nhận, chiếm nhiều nhất là người [[Kinh]] với 53,77%. Vùng trung tâm tỉnh Gia Lai như thành phố Pleiku là nơi người [[Người Việt|Kinh]] tập trung đông nhất (87,5%).
+
+==Vị trí địa lý==
+Gia Lai là một tỉnh vùng cao nằm ở phía bắc [[Tây Nguyên]] trên độ cao trung bình 700 - 800 [[mét]] so với mực nước biển<ref name="vtdl02">[http://baogialai.com.vn/channel/8216/201204/Vi-tri-dia-ly-dia-danh-va-dia-gioi-hanh-chinh-tinh-Gia-Lai-2143887/ Vị trí địa lý - địa danh và địa giới hành chính tỉnh Gia Lai], Theo báo Gia Lai.</ref>. Gia Lai cách [[Hà Nội]] 1120&nbsp;km, cách [[Đà Nẵng]] 396&nbsp;km, cách [[Thành phố Hồ Chí Minh]] 491&nbsp;km. Tỉnh Gia Lai trải dài từ 12°58'20" đến 14°36'30" vĩ bắc, từ 107°27'23" đến 108°54'40"kinh đông.
+* Phía đông giáp tỉnh [[Bình Định]] và tỉnh [[Phú Yên]]
+* Phía nam giáp tỉnh [[Đắk Lắk]]
+* Phía bắc giáp tỉnh [[Kon Tum]] và tỉnh [[Quảng Ngãi]]
+* Phía tây giáp tỉnh [[Ratanakiri]] của [[Campuchia]]
+Gia Lai là một tỉnh miền núi nằm ở phía bắc Tây Nguyên trên độ cao trung bình 700 – 800 m so với mực nước biển] {{Webarchive|url=https://web.archive.org/web/20120831100438/http://gialai.gov.vn/Pages/glp-bando-glpsite-1.html |date = ngày 31 tháng 8 năm 2012}}, Website tỉnh Gia Lai. khoảng 100&nbsp;km đường biên chủ yếu là huyện Krông Pa, 1 phần huyện Ia Pa và Kông Chro. Phía tây giáp tỉnh [[Ratanakiri (tỉnh)|Ratanakiri]] thuộc [[Campuchia]], có [[Biên giới|đường biên giới]] chạy dài khoảng 90&nbsp;km, gồm các huyện Đức Cơ, Chư Prông, và 1 ít của huyện Ia Grai. Phía nam giáp tỉnh [[Đắk Lắk]], và phía bắc của tỉnh giáp tỉnh [[Kon Tum]]<ref name="vtdlgialai1">[http://www.chinhphu.vn/portal/page/portal/chinhphu/cactinhvathanhpho/tinhgialai/thongtintinhthanh?view=introduction&provinceId=1346 Gia Lai là một tỉnh miền núi nằm ở khu vực phía Bắc cao nguyên Trung Bộ] {{Webarchive|url=https://web.archive.org/web/20181010174334/http://www.chinhphu.vn/portal/page/portal/chinhphu/cactinhvathanhpho/tinhgialai/thongtintinhthanh?view=introduction&provinceId=1346 |date=2018-10-10 }}, Cổng Thông tin điện tử Chính phủ.</ref>.
+
+==Điều kiện tự nhiên==
+Gia Lai nằm trên một phần của nền đá cổ rộng lớn, dày trên 4.000 m, thuộc Địa khối [[Kon Tum]]. Gần vào phía cuối nam của khối núi Trường Sơn Nam. Gia Lai nằm gần như hoàn toàn phía đông dãy Trường Sơn. Khối địa khối nâng lên không đều từ cuối kỷ Đệ Tam. Nhưng địa hình được núi lửa và phong hóa nhiều năm trở nên bằng phẳng tạo nên các cao nguyên không hoàn toàn bằng phẳng mà nhấp nhô nhiều đồi xen kẽ các vùng tương đối trũng. Địa hình thấp dần từ bắc xuống nam và nghiêng từ đông sang tây, với các đồi núi, cao nguyên và thung lũng xen kẽ nhau khá phức tạp. Càng gần về phía nam chia nhau một nửa vùng đồng bằng với Đăk Lăk, và vùng thấp phía tây của Campuchia. Địa hình Gia Lai có thể chia thành 3 dạng chính là địa hình đồi núi, cao nguyên và thung lũng<ref name="2.5dientich"/>. Trong đó, cao nguyên là dạng địa hình phổ biến và quan trọng của Gia Lai, với hai cao nguyên là [[Cao nguyên Kon Hà Nừng]] và [[Cao nguyên Pleiku]]. Địa hình thứ hai là địa hình đồi núi, chiếm 2/5 [[diện tích]] tự nhiên toàn tỉnh<ref name="2.5dientich">[http://www.chinhphu.vn/portal/page/portal/chinhphu/cactinhvathanhpho/tinhgialai/thongtintinhthanh?view=introduction&provinceId=1346 Địa hình thấp dần từ Bắc xuống Nam và nghiêng từ Đông sang Tây] {{Webarchive|url=https://web.archive.org/web/20181010174334/http://www.chinhphu.vn/portal/page/portal/chinhphu/cactinhvathanhpho/tinhgialai/thongtintinhthanh?view=introduction&provinceId=1346 |date=2018-10-10 }}, Cổng Thông tin điện tử Chính phủ.</ref>, phần lớn nằm ở phía bắc, địa hình núi phân cách mạnh, bề mặt các dạng địa hình khác của Gia Lai như các cao nguyên, những thung lũng đồng bằng cũng đều rải rác có núi, độ cao trung bình của cả 2 cao nguyên là 800m, với đỉnh Kon Ka Kinh - "nóc nhà" của Gia Lai. Sự dập vỡ kiến tạo đa dạng là cơ sở cho trữ lượng nước ngầm. Các vùng trũng tương đối thường hình thành các con sông khi đi qua vùng đứt gãy đột ngột xuống vùng đồng bằng tạo nên các thác nước nổi tiếng ở đây. Địa hình thứ ba là Các vùng trũng, những vùng này sớm được con người khai thác để sản xuất lương thực. Hầu hết các vùng trũng nằm ở phía nam của tỉnh, các thung lũng ở đông nam. Ngoài ra đất đai Gia Lai được chia làm 27 loại khác nhau, gồm 7 nhóm chính: đất phù sa, đất xám, đất đen, đất đỏ, đất mùn vàng đỏ, nhóm đất xói mòn trơ sỏi đá.<ref name="đâti">https://gialai.gov.vn/gioi-thieu/dieu-kien-tu-nhien.7.aspx</ref> Chủ yếu là nhóm đất đỏ bazan, phân bố ở cao nguyên Pleiku, dày cho canh tác, các loại đất khác chủ yếu ở các cùng đất rìa cao nguyên hoặc vùng trũng, ven các con sông.
+
+Gia Lai thuộc vùng khí hậu nhiệt đới gió mùa, dồi dào về độ ẩm, có lượng mưa lớn, không có bão và sương muối, ngoài ra nhiệt độ còn phụ thuộc vào độ cao các vùng. Khí hậu ở đây được chia làm 2 mùa rõ rệt là mùa mưa và mùa khô. Trong đó, mùa mưa thường bắt đầu từ tháng 5 và kết thúc vào tháng 10. Mùa khô từ tháng 11 đến tháng 4 năm sau. Nhiệt độ trung bình năm là 22 – 25<small><sup>0</sup></small>C. Vùng vùng Đông [[Dãy Trường Sơn|Trường Sơn]] từ 1.200 – 1.750&nbsp;mm, Tây [[Dãy Trường Sơn|Trường Sơn]] có lượng mưa trung bình năm từ 2.200 – 2.500&nbsp;mm. Khí hậu và thổ nhưỡng Gia Lai rất thích hợp cho việc phát triển nhiều loại cây công nghiệp ngắn và dài ngày, chăn nuôi và kinh doanh tổng hợp nông lâm nghiệp đem lại hiệu quả [[kinh tế]] cao<ref name="2.5dientich"/>.
+
+Toàn tỉnh có 27 loại đất, được hình thành trên nhiều loại đá mẹ thuộc 7 nhóm chính. Tài nguyên khoáng sản là một tiềm năng kinh tế quan trọng của tỉnh Gia Lai, với nhiều khoáng sản, nổi bật nhất là vàng, nguồn vật liệu xây dựng, [[bô xít]] và đá quý<ref name="2.5dientich"/>.
+
+==Hành chính==
+Tỉnh Gia Lai có 17 đơn vị hành chính cấp huyện, bao gồm 1 thành phố, 2 thị xã và 14 huyện, với 218 đơn vị hành chính cấp xã, bao gồm 24 phường, 14 thị trấn và 180 xã.<ref name="1195/NQ-UBTVQH15">{{Chú thích web|url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=89884|tựa đề= Nghị quyết số 1195/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh Gia Lai giai đoạn 2023 – 2025 |tác giả=|ngày= 2024-09-28 |website= Cổng thông tin điện tử Quốc hội Việt Nam |url lưu trữ=https://web.archive.org/web/20241010105114/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=89884|ngày lưu trữ= 2024-10-10 |ngày truy cập= 2024-10-10 |url-status=dead}}</ref>
+
+{|cellpadding= "0" cellspacing= "6" width= "100%" align="center" style= "background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+!colspan= "3" style= "background: #E6E6FA; font-size: 95%;" | Danh sách các đơn vị hành chính trực thuộc tỉnh Gia Lai
+|-
+|width= "50%" valign= "top" style= "background: #f9f9f9;"|
+{|cellpadding ="1" cellspacing= "1" style= "background: #f9f9f9; font-size: 90%; text-align: right;" width="100%"
+|-
+!align= "left" style= "border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" | Tên!! style= "border-bottom: 2px solid #CCCCFF;" |Dân&nbsp;số (người)<small><sup>2023</sup></small>!! style= "border-bottom: 2px solid #CCCCFF;" | Hành chính
+|-
+|align= "left" colspan= "3" style ="background: #F5F5DC; padding-left: 30px;" |'''Thành phố (1)'''
+|-bgcolor="#f5f5f5"
+|align= "left" style= "padding-left: 6px; white-space:nowrap" |[[Pleiku]] || 274.018||''14 phường, 7 xã''
+|-
+|align= "left" colspan= "3" style= "background: #F5F5DC; padding-left: 30px;" |'''Thị xã (2)'''
+|-
+|align= "left" style= "padding-left: 6px; white-space:nowrap" |[[An Khê]] || 68.773 ||''6 phường, 5 xã''
+|-bgcolor="#f5f5f5"
+|align= "left" style= "padding-left: 6px; white-space:nowrap" |[[Ayun Pa]]|| 42.069 ||''4 phường, 4 xã''
+|-
+|align= "left" colspan= "3" style="background: #F5F5DC; padding-left: 30px;" |'''Huyện (14)'''
+|-
+|align= "left" style= "padding-left: 6px; white-space:nowrap" |[[Chư Păh]] || 82.426 ||''2 thị trấn, 12 xã''
+|-bgcolor= "#F5F5F5"
+|align= "left" style= "padding-left: 6px; white-space:nowrap" |[[Chư Prông]] || 131.056 ||''1 thị trấn, 19 xã''
+|-
+|align= "left" style= "padding-left: 6px; white-space:nowrap" |[[Chư Pưh]] || 83.232||''1 thị trấn, 8 xã''
+|-bgcolor= "#F5F5F5"
+|align= "left" style= "padding-left: 6px; white-space:nowrap" |[[Chư Sê]] || 129.410 ||''1 thị trấn, 14 xã''
+|}
+|width= "50%" valign= "top" style= "background: #f9f9f9;" |
+{|cellpadding= "1" cellspacing= "1" style="background: #f9f9f9; font-size: 90%; text-align: right;" width="100%"
+|-
+!align= "left" style= "border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" | Tên!! style= "border-bottom: 2px solid #CCCCFF;" | Dân&nbsp;số (người)<small><sup>2019</sup></small>!! style= "border-bottom: 2px solid #CCCCFF;" | Hành chính
+|-
+|align= "left" style= "padding-left: 6px; white-space:nowrap" |[[Đak Đoa]] || 131.867 ||''1 thị trấn, 16 xã''
+|-bgcolor="#F5F5F5"
+|align= "left" style= "padding-left: 6px; white-space:nowrap" |[[Đak Pơ]]|| 42.568 ||''1 thị trấn, 7 xã''
+|-
+|align= "left" style= "padding-left: 6px; white-space:nowrap" | [[Đức Cơ]] || 81.673 ||''1 thị trấn, 9 xã''
+|-bgcolor="#F5F5F5"
+|align= "left" style= "padding-left: 6px; white-space:nowrap" | [[Ia Grai]] || 111.570 ||''1 thị trấn, 12 xã''
+|-
+|align= "left" style= "padding-left: 6px; white-space:nowrap" | [[Ia Pa]] || 60.508 ||''9 xã''
+|-bgcolor="#F5F5F5"
+|align= "left" style= "padding-left: 6px; white-space:nowrap" | [[Kbang]] || 70.469 ||''1 thị trấn, 12 xã''
+|-
+|align= "left" style= "padding-left: 6px; white-space:nowrap" | [[Kông Chro]] || 56.209 ||''1 thị trấn, 13 xã''
+|-bgcolor="#F5F5F5"
+|align= "left" style= "padding-left: 6px; white-space:nowrap" |[[Krông Pa]] || 91.967 ||''1 thị trấn, 13 xã''
+|-
+|align= "left" style= "padding-left: 6px; white-space:nowrap" | [[Mang Yang]] || 73.887 ||''1 thị trấn, 11 xã''
+|-bgcolor="#F5F5F5"
+|align= "left" style= "padding-left: 6px; white-space:nowrap" | [[Phú Thiện]] || 82.193 ||''1 thị trấn, 9 xã''
+|}
+|valign= "top" style= "background: #f9f9f9; font-size: 90%" |
+|}
+== Lịch sử ==
+{{main|Lịch sử hành chính Gia Lai}}[[Hình: Dãy Trường Sơn Nam, Mang Yang, Gia Lai.JPG|nhỏ|phải|220px|Dãy Trường Sơn Nam]]
+
+Tỉnh Gia Lai ngày nay xưa kia là địa bàn sinh sống lâu đời của các [[người Gia Rai|dân tộc Jrai]], [[Người Ba Na|Ba Na]], [[Chăm|Chăm hroi]], tập quán sống thành từng làng. Trước khi [[người Pháp]] đặt ách đô hộ lên [[Tây Nguyên]], các dân tộc Gia Lai đang ở giai đoạn cuối của xã hội nguyên thủy chuyển sang giai đoạn xã hội có giai cấp<ref name="dantocjrai">[http://baogialai.com.vn/channel/8216/201203/Gioi-thieu-chung-ve-tinh-Gia-Lai-2137448/ Vùng đất tỉnh Gia Lai ngày nay là địa bàn cư trú lâu đời của các dân tộc Jrai, Bahnar có tập quán sống thành từng làng, Theo Báo Gia Lai.]</ref>.
+
+Từ những năm đầu thập niên 40 của thế kỷ 19, các giáo sĩ người Pháp bắt đầu truyền đạo ở khu vực cư trú của [[người Ba Na]] thuộc xã Hà Tây thuộc huyện [[Chư Pah]] và xã Hà Đông thuộc địa phận huyện [[Đak Đoa]] ngày nay. Lúc này người Pháp ngày càng tiến sâu vào Bắc [[Tây Nguyên]], đồng thời tạo nên những xáo trộn mới bằng những chính sách chia để trị, dựa vào nhóm này để chống nhóm khác, chia rẽ [[Người Việt|Kinh]] - Thượng, chia rẽ các dân tộc trong tỉnh, trong khu vực với nhau.
+
+Cuối thế kỷ 19 đến đầu thế kỷ 20, [[Pháp]] đã từng bước thiết lập bộ máy cai trị trên đất Gia Lai. Sau nhiều lần thay đổi, sáp nhập, chia tách để thành lập các đơn vị hành chính trên vùng [[Tây Nguyên]], ngày 24 tháng 5 năm 1932, theo Nghị định [[Toàn quyền Đông Dương]] lúc này [[Pleiku (tỉnh)|tỉnh Pleiku]] được thành lập.
+
+Đến trước Cách mạng tháng 8 năm 1945, [[Pleiku (tỉnh)|tỉnh Pleiku]] có [[Pleiku|Thị xã Pleiku]]<ref>Thị xã Pleiku được thành lập ngày 3 tháng 12 năm 1929 theo Nghị định Khâm sứ Trung Kỳ</ref>, huyện [[An Khê]], huyện [[Plei kli]], huyện [[Chư Ty]] và huyện [[Cheo Reo]].
+
+Sau năm 1945, chính quyền [[cách mạng]] gọi là tỉnh Gia Lai. Tháng 6 năm 1946, Pháp chiếm lại vùng đất Gia Lai và gọi tên đây là [[Pleiku (tỉnh)|tỉnh Pleiku]]. Giai đoạn từ năm 1946 đến năm 1954, [[Pleiku (tỉnh)|tỉnh Pleiku]] nói riêng, [[Tây Nguyên]] nói chung trải qua nhiều lần chủ thể cai quản theo các văn bản của chính quyền thực dân.<ref>[http://www.thongtintuyengiaogialai.vn/Files/lich%20su%20dang%20bo%20tinh%20gia%20lai.doc Thông tin lịch sử tỉnh Gia Lai, Tỉnh Gia Lai.] {{Webarchive|url=https://web.archive.org/web/20120619092113/http://www.thongtintuyengiaogialai.vn/Files/lich%20su%20dang%20bo%20tinh%20gia%20lai.doc |date=2012-06-19 }}.</ref>
+
+Tuy nhiên về phía chính quyền cách mạng, trong những năm [[chiến tranh Đông Dương|kháng chiến chống Pháp]], vẫn gọi là tỉnh Gia Lai, nhưng qua từng thời điểm khác nhau, tỉnh Gia Lai lại thuộc sự chỉ đạo trực tiếp của các cơ quan khác nhau trong khu vực, các huyện trong tỉnh cũng nhiều lần thay đổi tên gọi và địa giới hành chính.
+
+Dưới chính thể [[Việt Nam Cộng hòa]] thì tỉnh mang tên [[Pleiku (tỉnh)|Pleiku]] với ba quận. Năm 1962 tách quận Cheo Reo lập tỉnh [[Phú Bổn]] nên Pleiku chỉ còn hai quận: [[Lệ Trung]] và Lệ Thanh. trước năm 1958 thì đổi [[Lệ Thanh (quận)|Lệ Thanh]] thành [[Lệ Thanh (quận)|Thanh An]].
+
+Sau năm 1975, tỉnh [[Pleiku (tỉnh)|Pleiku]] đổi tên thành tỉnh Gia Lai.[[Hình: Thị trấn Kon Dơng và các xã lân cận nhìn từ Đá Chải..jpg|nhỏ|220px|Thị trấn Kon Dơng (huyện Mang Yang)|liên_kết=Special:FilePath/Thị_trấn_Kon_Dong_và_các_xã_lân_cận_nhìn_từ_Đá_Chải..jpg]]
+
+Ngày [[20 tháng 9]] năm [[1975]], thực hiện theo Nghị quyết của [[Bộ Chính trị Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam|Bộ Chính trị]], hợp nhất hai tỉnh Gia Lai và [[Kon Tum]] thành tỉnh mới là [[Gia Lai - Kon Tum]].
+
+Ngày [[23 tháng 4]] năm [[1979]], chia huyện Ayun Pa thành 2 huyện: [[Ayun Pa]] và [[Krông Pa]].<ref>[http://thuvienphapluat.vn/archive/Quyet-dinh/Quyet-dinh-77-CP-thanh-lap-dieu-chinh-dia-gioi-xa-thi-tran-huyen-Chu-Prong-An-Khe-Sa-Thay-Ayun-Pa-tinh-Gia-Lai-KonTum-vb58187t17.aspx Quyết định 77-CP năm 1979 về việc thành lập và điều chỉnh địa giới một số xã, thị trấn thuộc các huyện Chư Prông, An Khê, Sa Thầy và Ayun Pa, tỉnh Gia Lai - Kon Tum]</ref>
+
+Ngày [[17 tháng 8]] năm [[1981]], thành lập huyện [[Chư Sê]] trên cơ sở tách ra từ 2 huyện: [[Chư Prông]] và [[Mang Yang]].<ref>[http://thuvienphapluat.vn/archive/Quyet-dinh/Quyet-dinh-34-HDBT-thanh-lap-huyen-Chu-Se-tinh-Gia-Lai-Kon-Tum-vb43115t17.aspx Quyết định 34-HĐBT năm 1981 về việc thành lập huyện Chư Sê thuộc tỉnh Gia Lai-Kon Tum]</ref>
+
+Ngày [[28 tháng 12]] năm [[1984]], chia huyện An Khê thành 2 huyện: [[An Khê]] và [[Kbang]].<ref>[http://thuvienphapluat.vn/archive/Quyet-dinh/Quyet-dinh-181-HDBT-dieu-chinh-dia-gioi-huyen-Kon-Plong-chia-huyen-An-Khe-tinh-Gia-Lai-Kon-Tum-vb43536t17.aspx Quyết định 181-HĐBT năm 1984 về việc điều chỉnh địa giới huyện Kon Plong và chia huyện An Khê thuộc tỉnh Gia Lai-Kon Tum]</ref>
+
+Ngày [[30 tháng 5]] năm [[1988]], chia tiếp huyện An Khê thành 2 huyện: [[An Khê]] và [[Kông Chro]].<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-96-HDBT-phan-vach-lai-dia-gioi-hanh-chinh-huyen-An-Khe-mot-so-xa-thi-tran-thuoc-tinh-Gia-Lai-Kon-Tum/37567/noi-dung.aspx|tựa đề=Quyết định 96-HĐBT năm 1988 về việc phân vạch lại địa giới hành chính huyện An Khê và một số xã, thị trấn thuộc tỉnh Gia Lai - Kon Tum|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref>
+
+Ngày [[12 tháng 8]] năm [[1991]], theo Nghị quyết kỳ họp thứ 9 của Quốc hội khoá VIII, [[Gia Lai - Kon Tum]] tách thành 2 tỉnh: Gia Lai và [[Kon Tum]]<ref name="gilaikontum">[http://www.gialai.gov.vn/Pages/glp-intro-lichsuhinhthanh-glpstatic-7-glpdyn-0-glpsite-1.html Nghị quyết kỳ họp thứ 9 của Quốc hội khoá VIII, Gia Lai - Kon Tum tách thành hai tỉnh: Gia Lai và Kon Tum.] {{Webarchive|url=https://web.archive.org/web/20120621075947/http://www.gialai.gov.vn/Pages/glp-intro-lichsuhinhthanh-glpstatic-7-glpdyn-0-glpsite-1.html |date = ngày 21 tháng 6 năm 2012}}, UBND tỉnh Gia Lai.</ref>. Khi tách ra, tỉnh Gia Lai có tỉnh lị là [[Pleiku|thị xã Pleiku]] và 9 huyện: [[An Khê]], [[Ayun Pa]], [[Chư Păh]], [[Chư Prông]], [[Chư Sê]], [[Kbang]], [[Kông Chro]], [[Krông Pa]], [[Mang Yang]].
+
+Ngày [[15 tháng 10]] năm [[1991]], thành lập huyện [[Đức Cơ]] trên cơ sở tách ra từ 2 huyện: [[Chư Pah]] và [[Chư Prông]].<ref>[http://thuvienphapluat.vn/archive/Quyet-dinh/Quyet-dinh-315-HDBT-thanh-lap-huyen-moi-Duc-Co-tinh-Gia-Lai-vb38196t17.aspx Quyết định 315-HĐBT năm 1991 thành lập huyện mới Đức Cơ thuộc tỉnh Gia Lai]</ref>
+
+Ngày [[11 tháng 11]] năm [[1996]], chia huyện Chư Pah thành 2 huyện: [[Chư Pah]] và [[Ia Grai]].<ref>[http://thuvienphapluat.vn/archive/Nghi-dinh/Nghi-dinh-70-CP-dieu-chinh-dia-gioi-hanh-chinh-thanh-lap-mot-so-xa-thi-tran-va-huyen-Ia-Grai-thuoc-tinh-Gia-Lai-vb40216t11.aspx Nghị định 70/CP năm 1996 về việc điều chỉnh địa giới hành chính, thành lập một số xã, thị trấn và huyện Ia Grai thuộc tỉnh Gia Lai]</ref>
+
+Ngày [[24 tháng 4]] năm [[1999]], chuyển thị xã Pleiku thành thành phố [[Pleiku]].<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bat-dong-san/Nghi-dinh-29-1999-ND-CP-thanh-lap-thanh-pho-Pleiku-thuoc-tinh-Gia-Lai-45244.aspx|tựa đề=Nghị định 29/1999/NĐ-CP về việc thành lập thành phố Pleiku thuộc tỉnh Gia Lai|url-status=live}}</ref>[[Hình: Thị trấn Đak Đoa, Gia Lai.JPG|nhỏ|phải|220px|Thị trấn Đăk Đoa]]Ngày [[21 tháng 8]] năm [[2000]], chia huyện Mang Yang thành 2 huyện: [[Mang Yang]] và [[Đak Đoa]].<ref>[http://thuvienphapluat.vn/archive/Nghi-dinh/Nghi-dinh-37-2000-ND-CP-doi-ten-xa-thi-tran-lap-xa-thuoc-huyen-Mang-Yang-tinh-Gia-Lai-va-chia-huyen-Mang-Yang-thanh-hai-huyen-Dak-Doa-va-Mang-yang-vb46708t11.aspx Nghị định 37/2000/NĐ-CP về việc đổi tên xã, thị trấn, thành lập xã thuộc huyện Mang Yang, tỉnh Gia Lai và chia huyện Mang Yang thành hai huyện Đak Đoa và Mang Yang]</ref>
+
+Ngày [[18 tháng 12]] năm [[2002]], chia huyện Ayun Pa thành 2 huyện: [[Ayun Pa]] và [[Ia Pa]].<ref>[http://thuvienphapluat.vn/archive/Nghi-dinh/Nghi-dinh-104-2002-ND-CP-chia-tach-huyen-Ayun-Pa-thanh-hai-huyen-Ia-Pa-Ayun-Pa-tinh-Gia-Lai-vb6634t11.aspx Nghị định 104/2002/NĐ-CP về việc chia tách huyện Ayun Pa thành hai huyện Ia Pa và Ayun Pa, tỉnh Gia Lai]</ref>
+
+Ngày [[9 tháng 12]] năm [[2003]], chia huyện An Khê thành thị xã [[An Khê]] và huyện [[Đak Pơ]].<ref>[http://thuvienphapluat.vn/archive/Nghi-dinh/Nghi-dinh-155-2003-ND-CP-thanh-lap-thi-xa-An-Khe-huyen-Dak-Po-thanh-lap-xa-Dak-Po-thuoc-huyen-Dak-Po-tinh-Gia-Lai-vb6265t11.aspx Nghị định 155/2003/NĐ-CP về việc thành lập thị xã An Khê và huyện Đak Pơ, thành lập xã Đak Pơ thuộc huyện Đak Pơ, tỉnh Gia Lai]</ref>
+
+Ngày [[26 tháng 4]] năm [[2007]], chia huyện Ayun Pa thành thị xã [[Ayun Pa]] và huyện [[Phú Thiện]].<ref>[http://thuvienphapluat.vn/archive/Nghi-dinh/Nghi-dinh-50-2007-ND-CP-dieu-chinh-dia-gioi-hanh-chinh-huyen-Ayun-Pa-lap-thi-xa-Ayun-Pa-huyen-Phu-Thien-phuong-Cheo-Reo-Hoa-Binh-Doan-Ket-Song-Bo-vb17980t11.aspx Nghị định 50/2007/NĐ-CP về việc điều chỉnh địa giới hành chính huyện Ayun Pa;thành lập thị xã Ayun Pa và huyện Phú Thiện;thành lập các phường Cheo Reo, Hòa Bình, Đoàn Kết, Sông Bờ]</ref>
+
+Ngày [[27 tháng 8]] năm [[2009]], chia huyện Chư Sê thành 2 huyện: [[Chư Sê]] và [[Chư Pưh]].<ref>[http://thuvienphapluat.vn/archive/Nghi-quyet/Nghi-quyet-43-NQ-CP-dieu-chinh-dia-gioi-hanh-chinh-xa-de-lap-xa-thuoc-huyen-Chu-Se-huyen-Chu-Se-de-thanh-lap-huyen-Chu-Puh-Gia-Lai-vb93958t13.aspx Nghị quyết số 43/NQ-CP về điều chỉnh địa giới hành chính xã để thành lập xã thuộc huyện Chư Sê; điều chỉnh địa giới hành chính huyện Chư Sê để thành lập huyện Chư Pưh thuộc tỉnh Gia Lai]</ref>
+
+Tỉnh Gia Lai có 1 thành phố, 2 thị xã và 14 huyện như hiện nay.
+
+==Dân số==
+===Lịch sử phát triển dân số===
+{|class= "wikitable"
+|- 
+!width= "3%" |Năm
+!width= "8%" |Số dân<br>(người)
+!width= "3%" |Năm
+!width= "8%" |Số dân<br>(người)
+!width= "3%" |Năm
+!width= "8%" |Số dân<br>(người)
+!width= "3%" |Năm
+!width= "8%" |Số dân<br>(người)
+|-
+|<center> 1995
+|<center> 850.700
+|<center> 2000
+|<center> 1.026.300
+|<center> 2005
+|<center> 1.174.600
+|<center> 2009
+|<center> 1.281.000
+|-
+|<center> 1996
+|<center> 881.500
+|<center> 2001
+|<center> 1.065.600
+|<center> 2006
+|<center> 1.200.500
+|<center> 2010
+|<center> 1.301.600
+|-
+|<center> 1997
+|<center> 912.800
+|<center> 2002
+|<center> 1.092.900
+|<center> 2007
+|<center> 1.225.500
+|<center> 2011
+|<center> 1.322.000
+|-
+|<center> 1998
+|<center> 946.100
+|<center> 2003
+|<center> 1.119.100
+|<center> 2008
+|<center> 1.251.300
+|<center> 2019
+|<center> 1.513.847
+|-
+|<center> 1999
+|<center> 981.500
+|<center> 2004
+|<center> 1.147.100
+|<center> 2020
+|<center> 1.541.829
+|2023
+|1.613.895
+|-
+|}
+
+Theo thống kê năm 2023 tỉnh Gia Lai có diện tích 1.613.895&nbsp;km², dân số năm 2020 là 1.541.829 người<ref name=DAKLAK2020>{{Chú thích web|url=https://www.gso.gov.vn/wp-content/uploads/2021/05/Nien-giam-TC-2021.pdf|tựa đề=Niên giám tổ chức ngành Thống kê năm 2021 (41 – CỤC THỐNG KÊ TỈNH ĐẮK LẮK/ Dân số tỉnh Đắk Lắk đến ngày 31/12/2020 trang 309)|ngày=5 tháng 5 năm 2021|website=Tổng cục Thống kê|url-status=live}}</ref>, mật độ dân số đạt 99 người/km².
+
+Tính đến ngày 1 tháng 4 năm 2019, dân số toàn tỉnh Gia Lai đạt gần 1.513.847 người, mật độ dân số đạt 102 người/km². Dân số phân bố rất không đều: tại tp. Pleiku đã chiếm 27,53% dân cư của toàn tỉnh Gia Lai với mật độ rất cao lên tới 1662 người/km2, tại thị xã An Khê là 408 người/km2, các huyện, thị xã còn lại đều có mật độ dưới 200 người/km2, thậm chí huyện K’ Bang chỉ có mật độ 45 người/km2, chỉ bằng 1/2 tiêu chuẩn mật độ trung bình.<ref name="tongcucthongke2011">[http://www.gso.gov.vn/default.aspx?tabid=387&idmid=3&ItemID=12875 Diện tích, dân số và mật độ dân số năm 2011 phân theo địa phương], Theo Tổng cục thống kê Việt Nam.
+</ref> Trong đó dân số sống tại thành thị đạt 438.062 người, chiếm 28,9% dân số toàn tỉnh<ref name="dsthanhthi2011">[http://www.gso.gov.vn/default.aspx?tabid=387&idmid=3&ItemID=12869 Dân số thành thị trung bình phân theo địa phương], Theo Tổng cục thống kê Việt Nam.</ref>, dân số sống tại nông thôn đạt 1.075.785 người, chiếm 71,1% dân số<ref name="dsnongthong2011">[http://www.gso.gov.vn/default.aspx?tabid=387&idmid=3&ItemID=12868 Dân số nông thôn trung bình phân theo địa phương], Theo Tổng cục thống kê Việt Nam.</ref>. Dân số nam đạt 758.759 người<ref name="dsnam2011">[http://www.gso.gov.vn/default.aspx?tabid=387&idmid=3&ItemID=12871 Dân số nam trung bình phân theo địa phương], Theo Tổng cục thống kê Việt Nam.</ref>, trong khi đó nữ đạt 755.258 người<ref name="dsnu2011">[http://www.gso.gov.vn/default.aspx?tabid=387&idmid=3&ItemID=12870 Dân số nữ trung bình phân theo địa phương], Theo Tổng cục thống kê Việt Nam.</ref>. Tỷ lệ tăng tự nhiên dân số phân theo địa phương tăng 1,72 ‰<ref name="tangdanso">[http://www.gso.gov.vn/default.aspx?tabid=387&idmid=3&ItemID=12861 Tỷ lệ tăng tự nhiên dân số phân theo địa phương], Theo Tổng cục thống kê Việt Nam.</ref> Tỷ lệ đô thị hóa tính đến năm 2022 đạt 31%.
+
+Theo thống kê của tổng cục thống kê [[Việt Nam]], tính đến ngày 1 tháng 4 năm 2009, toàn tỉnh Gia Lai có 38 dân tộc cùng người nước ngoài sinh sống. Trong đó dân tộc [[người Việt|Kinh]] chiếm nhiều nhất với 713.403 người, [[người Gia Rai]] có 372.302 người, [[người Ba Na]] có 150.416 người, [[người Tày]] có 10.107 người, [[người Nùng]] có 10.045 người, tiếp theo là [[người Mường]] có 6.133 người, [[Người Thái (Việt Nam)|người Thái]] có 3.584 người, [[người Dao]] có 4.420 người.
+
+Tính đến ngày 1 tháng 4 năm 2019, Toàn tỉnh Gia Lai có 10 Tôn giáo khác nhau chiếm 397.566 người, Trong đó, nhiều nhất là [[Công giáo]] có 166.996 người, [[tin Lành|đạo Tin Lành]] có 142.220 người, xếp thứ ba là [[Phật giáo]] có 85.229 người, [[đạo Cao Đài]] có 2.971 người, cùng các đạo khác như [[Bahá'í]] có 59 người, [[Phật giáo Hòa Hảo]] có 41 người, [[Đạo Tứ Ân Hiếu Nghĩa]] có 23 người, [[Minh Lý Đạo]] có 18 người, [[Tịnh độ cư sĩ Phật hội Việt Nam]] có năm người, ít nhất là [[Hồi giáo]] với 4 người.
+
+==Kinh tế==
+{{Chính|Danh sách đơn vị hành chính Việt Nam theo GRDP}}{{Chính|Danh sách đơn vị hành chính Việt Nam theo GRDP bình quân đầu người}}
+
+Gia Lai có tiềm năng về thủy điện rất lớn với trữ năng lý thuyết khoảng 10,5 – 11 tỷ kW, trữ năng kinh tế kỹ thuật là 7,1 tỷ kW với công suất lắp máy 1.502 MWh<ref name="thử">[http://baogialai.com.vn/channel/722/201301/Thuy-dien-o-Gia-Lai-va-giac-mo-ba-chu-2210590/Thủy điện ở Gia Lai và giấc mơ "bá chủ"], Theo báo Gia Lai.</ref>. Ngoài 4 công trình thủy điện lớn có công suất lắp máy 1.422 MW, còn có 85 công trình thủy điện nhỏ với công suất 80.200&nbsp;kW phân bố khá đều khắp, tạo điều kiện cho phát triển sản xuất. Bên cạnh đó, công trình thủy điện Yaly với công suất 720 MW và sản lượng điện 3,68 tỷ kWh đã hoàn thành vào tháng 4/2002 có tác động lớn đến phát triển các ngành kinh tế của tỉnh, đảm bảo nhu cầu năng lượng cho toàn vùng. Thủy điện Sê San 3 với công suất thiết kế 273 MW, gồm 2 tổ máy có tổng công suất 260 MW, sản lượng điện trung bình hàng năm 1,12 tỉ KWh điện, nằm trên phía hạ lưu của thủy điện Ia Ly<ref name="seyan3">[http://baogialai.com.vn/channel/722/201004/Thuy-dien-Se-San-3-Them-mot-lan-thu-thach-1938033/ Thủy điện Sê San 3: Thêm một lần thử thách], Theo Báo Gia Lai.</ref>. Tổng trữ lượng nguồn nước mặt khoảng 24 tỷ m<small><sup>3</sup></small>. Đây chính là những tiềm năng lớn để công nghiệp điện năng được coi là [[công nghiệp]] mũi nhọn ở Gia Lai. Tỉnh Gia Lai hiện có 4 nhà máy thủy điện lớn có công suất lớn hơn 100MW, gồm có Yali, Kanak-An Khê, Sêsan 3, và Sêsan 4<ref name="thuyeidne">[http://www.vncold.vn/Web/Content.aspx?distid=112 Các nhà máy thủy điện lớn (>100MW) của Việt Nam] {{Webarchive|url=https://web.archive.org/web/20160420015026/http://vncold.vn/Web/Content.aspx?distid=112 |date=2016-04-20 }}, Hội đập lớn và phát triển nguồn nước Việt Nam.</ref>.
+
+Tổng thu ngân sách từ sau năm 1975 đến năm 1991 chỉ đạt 40 tỷ đồng, năm 2001 đạt 256 tỷ đồng, đến năm 2010 đạt 2.300 tỷ đồng và năm 2011 đạt 3.200 tỷ đồng. Chất lượng cuộc sống của người dân được nâng lên rõ rệt, [[Tổng sản phẩm nội địa|GDP bình quân đầu người]] năm 2011 đạt 19,5 triệu đồng, gấp 3,82 lần so với năm 2005, gấp 6,5 lần so với năm 2000<ref name="kinhtegialai2011">[http://baogialai.com.vn/channel/8462/201205/Gia-Lai-80-nam-xay-dung-va-phat-trien-2154288/ Gia Lai 80 năm xây dựng và phát triển], Theo Báo Gia Lai.</ref>.
+
+Giai đoạn 6 tháng đầu năm 2012, tổng sản phẩm trong nước ([[Tổng sản phẩm nội địa|GDP]]) tăng 4,38% so với cùng kỳ năm 2011, giá trị sản xuất nông lâm nghiệp và thủy sản tăng 3,8% so với cùng kỳ, trong đó nông nghiệp tăng 3%, lâm nghiệp tăng 5,7% và thủy sản tăng 5,8%<ref name=ytr2 />. Trong khi đó, chỉ số sản xuất công nghiệp tăng 4,5%. Đáng chú ý một số ngành công nghiệp có mức tăng cao là đóng và sửa chữa tàu, chế biến bảo quản rau quả, sản xuất sản phẩm bơ sữa...Chỉ số tiêu thụ của ngành công nghiệp chế biến 6 tháng chỉ tăng 3,6% so với cùng kỳ, thấp hơn nhiều so với mức 17,5% của năm ngoái. Chỉ số tồn kho của ngành này tăng 26%. Những ngành có chỉ số tồn kho tăng cao là sản xuất giấy và bao bì 130%, sản xuất xe có động cơ 116,7%, chế biến và bảo quản rau quả 113,3%<ref name="kinhte6thang">[http://baogialai.com.vn/channel/722/201207/GdP-6-thang-dau-nam-tang-438-2167780/ GDP 6 tháng đầu năm tăng 4,38%], Báo Gia Lai.</ref>...[[Hình: Đèo An Khê, Gia Lai-Bình Định.JPG|nhỏ|phải|220px|[[Đèo An Khê]]]]
+==Giao thông==
+Giao thông Gia Lai khá thuận lợi không những về đường bộ mà còn cả đường hàng không. Tỉnh có [[Quốc lộ 14]] nối các tỉnh [[Đắk Lắk]], [[Kon Tum]] thông đến Đà Nẵng, [[Thành phố Hồ Chí Minh]], đặc biệt tuyến [[đường Hồ Chí Minh]] đã rút ngắn khoảng cách từ Gia Lai đến các trung tâm kinh tế chính trị lớn của cả nước. Các tuyến [[Quốc lộ 19]] xuống [[quy Nhơn|thành phố Quy Nhơn]], thuộc [[Bình Định]], [[Quốc lộ 25]] đến [[Tuy Hòa|Tuy Hoà]], thuộc địa phận [[phú Yên|tỉnh Phú Yên]]. Ngoài ra, [[Sân bay Pleiku]] của Gia Lai, có đường bay nối [[Pleiku]] với các thành phố lớn là [[Đà Nẵng]] (ngưng hoạt động)<ref>{{Chú thích web|url = http://www.danang.gov.vn/|tiêu đề = |ngày truy cập = 2015-12-12|archive-date = 2005-10-28|archive-url = https://web.archive.org/web/20051028000059/http://www.danang.gov.vn/|url-status = dead}}</ref>, [[Hà Nội]], [[Thành phố Hồ Chí Minh]], [[Hải Phòng]] (ngưng hoạt động).
+
+==Y tế và giáo dục==
+===Y tế===
+[[Hình: Đèo Mang Yang, Gia Lai.JPG|nhỏ|phải|220px|[[Đèo Mang Yang]]]]Những năm gần đây hệ thống y tế Gia Lai từng bước được cải thiện và nâng lên về mặt chất lượng với các bệnh viện lớn.
+
+Việc cung ứng các dịch vụ y tế được mở rộng, tỷ lệ đồng bào dân tộc thiểu số được khám chữa bệnh và hưởng các dịch vụ chăm sóc sức khỏe ngày càng tăng<ref name="ytr2">[http://khdtgialai.gov.vn/Gioi-thieu-tinh-Gia-Lai/Gioi-thieu-tong-quan-Gia-Lai.aspx Nâng cấp y tế Gia Lai] {{Webarchive|url=https://web.archive.org/web/20121220120032/http://khdtgialai.gov.vn/Gioi-thieu-tinh-Gia-Lai/Gioi-thieu-tong-quan-Gia-Lai.aspx |date = ngày 20 tháng 12 năm 2012}}, Sở Kế Hoạch và Đầu tư Tỉnh Gia Lai.</ref> Với một số bệnh viện lớn như: Bệnh viện Đa khoa tỉnh Gia Lai, [[Bệnh viện Quân y 211]] (''[[Quân đoàn 3, Quân đội nhân dân Việt Nam|Binh đoàn Tây Nguyên]]''), Bệnh viện Quân y 15 (''[[Binh đoàn 15, Bộ Quốc phòng (Việt Nam)|Binh đoàn 15]]''), [[Bệnh viện Đại học Y Dược - Hoàng Anh Gia Lai]] đã hạn chế được tình trạng các bệnh nhân phải chuyển tuyến đến các bệnh viện tuyến trên như: [[Bệnh viện Chợ Rẫy]] (Hồ Chí Minh), [[Bệnh viện Đà Nẵng]] (Đà Nẵng), [[Bệnh viện Bạch Mai]] (Hà Nội). Với sự hình thành của Bệnh viện Nhi tỉnh Gia Lai đã góp phần nâng cao chất lượng về Y tế của tỉnh. Bệnh nhân ít phải chuyển tuyến đến các bệnh viện tuyến trên hiện nay đã quá tải trầm trọng như: Bệnh viện Nhi đồng (Hồ Chí Minh), Bệnh viện Phụ sản - Nhi Đà Nẵng (Đà Nẵng), Bệnh viện Nhi Trung ương (Hà Nội).
+
+Theo số liệu thống kê từ Sở Y tế, tỉnh Gia Lai có 5 bệnh viện, 2 chi cục (là ''Dân số - Kế hoạch hóa gia đình'' và ''An toàn Vệ sinh Thực phẩm''), 7 trung tâm y tế dự phòng, trường trung cấp y tế, trung tâm giám định sức khỏe và ban quản lý dự án đầu tư Chuyên ngành Y tế. Có 17 Phòng Y tế, 17 Trung tâm Y tế huyện, 17 Trung tâm Dân số - Kế hoạch hóa gia đình, 220 xã, phường, thị trấn có y tế hoạt động, trong đó có 208 trạm y tế xã và 14 trạm y tế trung tâm cấp xã<ref name="yte">[http://soytegialai.gov.vn/index.php?page=20&news=231 Y tế Gia Lai- Những bước tiến dài] {{Webarchive|url=https://web.archive.org/web/20120512002734/http://soytegialai.gov.vn/index.php?page=20&news=231 |date = ngày 12 tháng 5 năm 2012}}, Mạng thông tin ngành Y tế Tỉnh Gia Lai.</ref>.
+
+===Giáo dục===
+Tính đến thời điểm ngày 30 tháng 9 năm 2011, trên địa bàn toàn tỉnh Gia Lai có 530 trường học phổ thông, bao gồm 41 trường trung học phổ thông, nổi bật là [[Trường Trung học phổ thông chuyên Hùng Vương, Gia Lai|Trường Trung học phổ thông chuyên Hùng Vương]], 229 trường trung học cơ sở và 226 trường tiểu học. Bên cạnh đó còn có 236 trường mẫu giáo.<ref name="gdvn2011"/> Với hệ thống trường học như thế, nền giáo dục trong địa bàn tỉnh Gia Lai cũng tương đối hoàn chỉnh, góp phần giảm thiểu nạn mù chữ trong địa bàn tỉnh.<ref name="gdvn2011">[http://www.gso.gov.vn/Modules/Doc_Download.aspx?DocID=15355 Thống kê về Giáo dục Việt Nam, Niên giám thống kê 2011], Theo tổng cục thống kê [[Việt Nam]]</ref>
+
+Địa bàn tỉnh Gia Lai có một vài cơ sở giáo dục bậc [[đại học và cao đẳng]], bao gồm phân hiệu [[Trường Đại học Nông Lâm Thành phố Hồ Chí Minh]], phân hiệu [[Trường Đại học Lâm nghiệp]], phân hiệu [[Trường Đại học Sư phạm Thành phố Hồ Chí Minh]] (được chuyển đổi từ Trường Cao đẳng Sư phạm Gia Lai vào năm 2023),<ref>{{Chú thích web|url=https://tuoitre.vn/news-20230429103601392.htm|tựa đề=Trường đại học Sư phạm TP.HCM có thêm phân hiệu tại Gia Lai|tác giả=Minh Giảng|họ=|tên=|ngày=2023-04-29|website=Tuổi Trẻ|ngôn ngữ=vi|url-status=live|ngày truy cập=2023-07-10}}</ref> Trường Cao đẳng Gia Lai và Trường Cao đẳng số 21 (trực thuộc Bộ Quốc phòng).
+
+==Du lịch==
+[[Hình: Chùa Minh Thành.JPG|nhỏ|phải|220px|Chùa Minh Thành ở thành phố Pleiku]]
+
+Tiềm năng du lịch của Gia Lai rất phong phú, đa dạng với núi rùng cao có nhiều cảnh quan tự nhiên và nhân tạo. Rừng nguyên sinh nơi đây có hệ thống động thực vật phong phú, nhiều ghềnh thác, suối, hồ như [[Hồ T'Nưng|Biển Hồ]] (hay Hồ T'Nưng) là một thắng cảnh nổi tiếng, ngoài ra có [[chùa Minh Thành (Gia Lai)]]. Di tích Đền tưởng niệm liệt sỹ và Tượng đài Chiến thắng Đak Pơ tại [[Đak Pơ|huyện Đak Pơ]] - nơi tưởng niệm các liệt sỹ hi sinh trong [[Trận Đắk Pơ|trận đánh Đak Pơ]].<ref>{{chú thích web|url= https://dakpo.gialai.gov.vn/Tin-tuc/Kinh-te-van-hoa-xa-hoi/Di-tich-Đen-tuong-niem-liet-si-va-Tuong-đai-chien.aspx |tựa đề = DI TÍCH ĐỀN TƯỞNG NIỆM LIỆT SĨ VÀ TƯỢNG ĐÀI CHIẾN THẮNG ĐAK PƠ - CÔNG TRÌNH KHẮC GHI LÒNG BIẾT ƠN VÀ NIỀM TỰ HÀO}}</ref> Nhiều đồi núi như [[Mang Yang|cổng trời Mang Yang]], đỉnh Hàm Rồng, thác Hang Dơi và thác [[Vườn quốc gia Kon Ka Kinh|K50]] (Huyện Kbang). Các cảnh quan nhân tạo có các rừng cao su, đồi chè, cà phê bạt ngàn. Kết hợp với tuyến đường rừng, có các tuyến dã ngoại bằng thuyền trên sông, cưỡi voi xuyên rừng,v.v...
+
+Ngoài ra, Gia Lai còn có nền văn hoá lâu đời của đồng bào dân tộc, chủ yếu là dân tộc [[Người Gia Rai|Gia Rai]] và [[Người Ba Na|Ba Na]] thể hiện qua kiến trúc nhà rông, nhà sàn, nhà mồ, qua lễ hội truyền thống, qua y phục và nhạc cụ...
+
+Các nhạc cụ đặc trưng của các dân tộc thiểu số như [[Cồng chiêng]], [[Đàn đá]], [[K’ny|Đàn K'ni]], [[K'lông pút]], [[Goong|Đàn Goong]], [[T'rưng]], [[Alal]],... Các lễ hội như Lễ hội đâm trâu, Lễ ăn cơm mới, Lễ bỏ mả,... Ngoài ra, tỉnh còn có các món đặc sản như [[Rượu ghè|Rượu cần]], Cơm cháy - Rượu nếp, Phở khô (Loại phở hai tô) và điêu khắc nổi tiếng là [[Nhà mồ Tây Nguyên|Tượng nhà mồ]].
+
+== Danh nhân ==
+
+=== Chính trị, lịch sử ===
+
+* [[Đinh Núp|Anh Hùng Núp (Đinh Núp)]], anh hùng lực lượng vũ trang nhân dân
+* [[Kpă KLơng]], anh hùng lực lượng vũ trang nhân dân
+* [[Puih San]], anh hùng lực lượng vũ trang nhân dân
+* [[Nay Der]], người sáng lập bộ chữ viết đầu tiên của dân tộc Jrai
+* [[Ksor H’Bơ Khăp|Ksor H'Bơ Khăp]], Trung tá Công an nhân dân Việt Nam
+* [[Wừu]], anh hùng lực lượng vũ trang nhân dân
+
+=== Nghệ thuật ===
+
+* [[Binz (rapper)|Binz]], rapper
+* [[Hương Ly (người mẫu)|Nguyễn Thị Hương Ly]], người mẫu, quán quân [[Người mẫu Việt Nam: Vietnam's Next Top Model|Vietnam's Next Top Model 2015]], Top 5 [[Hoa hậu Hoàn vũ Việt Nam 2022]]
+* [[Phi Nhung]], ca sĩ
+
+=== Khác ===
+
+* [[Công Tố (MC)|Công Tố]], người dẫn chương trình, biên tập viên kênh truyền hình [[VTV6]]
+
+== Hình ảnh ==
+
+=== Thành phố Pleiku ===
+<gallery>
+Tập tin:Pleiku 2.jpg|Ngã ba Phù Đổng
+Tập tin:Pleiku 02.png|Đường Lê Duẩn - Thành phố Pleiku
+Tập tin:Pleiku Airport, December 2018.jpg|Sân bay Pleiku năm 2018
+Tập tin:Chùa Một cột ở Pleiku - panoramio.jpg|Chùa Một cột ở Pleiku
+Tập tin:Đường phố ở Pleiku.JPG|Đường phố ở Pleiku
+Tập tin:Pleiku Square.jpg|Quảng trường Đại đoàn kết
+Tập tin:Pleiku2.JPG|Pleiku về đêm
+Tập tin:Trên cao nguyên Pleiku.JPG|Trên cao nguyên Pleiku
+Tập tin:Ho T'Nung (2).jpg|Ho T'Nung (Biển Hồ)
+</gallery>
+
+=== Thị xã An Khê ===
+<gallery>
+Tập tin:Một góc An Khê.jpg|Một góc An khê
+Tập tin:Thị xã An Khê, Gia Lai.jpg|Thị xã An Khê, Gia Lai
+Tập tin:An Khê Trường - 1.jpg|Di tích An Khê Trường
+Tập tin:Tượng Quang Trung - Nguyễn Huệ tại di tích An Khê Đình.jpg|Tượng Quang Trung - Nguyễn Huệ
+Tập tin:Rìu tay An Khê - có niên đại hơn 80 vạn năm.jpg|Rìu tay An Khê
+Tập tin:Nhà trưng bày Tây Sơn Thượng đạo tại An Khê.jpg|Nhà trưng bày Tây Sơn Thượng đạo tại An Khê
+Tập tin:Lễ cũng Quý Xuân tại An Khê Đình.jpg|Lễ tế Quý xuân tại Đình An Khê
+</gallery>
+
+=== Huyện Mang Yang ===
+<gallery>
+Tập tin:Đèo Mang Yang, Gia Lai.JPG|Đèo Mang Yang, Gia Lai năm 2010
+Tập tin:Đền tưởng niệm các anh hùng liệt sĩ trung đoàn bộ binh 95 ( Đoàn Mang Yang ).jpg|Đền tưởng niệm các anh hùng liệt sĩ trung đoàn bộ binh 95 (Đoàn Mang Yang)
+Tập tin:Ngã ba thị trấn Kon Dơng.jpg|Ngã ba thị trấn Kon Dơng
+Tập tin:Đập thủy điện Đăkpihao 1.jpg|Đập thủy điện Đăkpihao 1, xã Kon Chiêng, huyện Mang Yang
+Tập tin:Một góc xã H'ra 2.jpg|Xã H'Ra, huyện Mang Yang
+</gallery>
+
+=== Huyện Đăk Pơ ===
+<gallery>
+Tập tin:TrusoUBNDhuyenDakPo2.jpg|Trụ sở UBND huyện Đăk Pơ
+Tập tin:Dakpo020.jpg
+</gallery>
+
+== Xem thêm ==
+
+* [[Đài Phát thanh – Truyền hình Gia Lai]]
+
+==Chú thích==
+{{tham khảo|30em}}
+
+==Liên kết ngoài==
+*[https://gialai.gov.vn Web của Gia Lai]
+{{Thể loại Commons|Gia Lai}}
+{{Địa phương lân cận
+|Giữa = Gia Lai
+|Bắc = [[Kon Tum]]
+|Đông Bắc = [[Quảng Ngãi]]
+|Đông = [[Bình Định]], [[Phú Yên]]
+|Đông Nam = Phú Yên
+|Nam = [[Đắk Lắk]]
+|Tây Nam = [[Mondulkiri]]
+|Tây = [[Ratanakiri]]
+|Tây Bắc = Kon Tum, Ratanakiri
+}}
+{{Đơn vị hành chính thuộc tỉnh Gia Lai}}
+{{Đơn vị hành chính cấp tỉnh Việt Nam}}
+
+[[Thể loại:Gia Lai| ]]

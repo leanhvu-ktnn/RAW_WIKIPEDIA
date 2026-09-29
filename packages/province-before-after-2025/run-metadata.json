@@ -1,0 +1,15 @@
+{
+  "base_git_commit": "d471e18a8635208d1bd5355bde0a264764000274",
+  "input_read_only": true,
+  "source_sha256_rechecked": "b70c2ab311adcee3fca2963b21a49f00c32966f595bea57b433fe8b00e24751d",
+  "retained_request_count": 239,
+  "first_retrieved_at": "2026-09-29T15:20:06.158117Z",
+  "last_retrieved_at": "2026-09-29T15:30:52.540635Z",
+  "header_policy": "Only content/date/cache-validation/retry headers retained; cookies and client-identifying headers omitted from metadata. Original API response bodies and revision wikitext unchanged.",
+  "tool_sha256": {
+    "tools/crawl_province_2025.py": "1be4913f58773724f7dad250851a2be37a6ab88468414e849edb0db18112dd26",
+    "tools/province_package.py": "f95940637cd879c33281d44506bc9b21ebd20bfde3e320469e178eecf7f67c02",
+    "tools/finalize_province_2025.py": "ab21e701ea5eb25dd3bdce64bc596479dbcb4fe355bffcfdc5a32e7bbff7465e",
+    "tools/review_province_2025.py": "0222af18bb19316d77006ee27f01003b357756b15f1f4ed52dd919163872d4b6"
+  }
+}
