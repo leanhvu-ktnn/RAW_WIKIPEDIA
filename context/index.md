@@ -24,3 +24,6 @@ Tài liệu chuẩn của kho độc lập; không trộn context vào dữ li�
 - [[context/trao-doi-inf-raw|Hợp đồng trao đổi INF–RAW 0.1.0]]
 
 - [[context/crawl-province-2025|Thu thập tỉnh trước/sau NQ202/2025]]
+
+- [[context/de-xuat-doi-soat-dia-ban-co-quan-website|Đề xuất đối soát toàn danh mục và website]]
+- [[context/doi-soat-website-record-design|Thiết kế record website (draft)]]

@@ -1,0 +1,38 @@
+{
+  "schema_version": "0.1.0",
+  "run_id": "push-only-boundary-2026-09-29",
+  "task": "Áp dụng chỉ đạo RAW không truy cập IN/INF; nhận payload push vào inbox RAW",
+  "recorded_at": "2026-09-29T16:13:38.927517+00:00",
+  "evidence_sha256": "5dd48406eef64d28e9c4da8c4915b5fef878263b35ef28d893bec54902bd07ae",
+  "evidence_filename": "push-only-boundary.json",
+  "evidence_raw": "{\n  \"decision\": \"configured_by_explicit_user_instruction\",\n  \"boundary\": \"INF pushes data into RAW; RAW must not read/search/fetch upstream INF\",\n  \"collector_version\": \"0.1.1\",\n  \"allowed_inputs\": [\n    \"RAW/inbox/inf payloads\",\n    \"RAW/packages/*/input frozen copies\"\n  ],\n  \"no_upstream_data_read_for_this_change\": true,\n  \"tests\": {\n    \"status\": \"PASS\",\n    \"count\": 24,\n    \"boundary_cases\": [\n      \"outside path rejected before read_bytes\",\n      \"inbox/frozen inputs allowed\",\n      \"file symlink escape rejected\",\n      \"inbox-root symlink escape rejected\"\n    ]\n  },\n  \"package_integrity\": \"existing 97-target inventory PASS; package untouched\",\n  \"legacy_audit\": \"existing baseline FAIL unchanged\",\n  \"website_candidate_evolution\": \"deferred; no independent evaluation or external website crawl\",\n  \"file_sha256\": {\n    \"tools/crawl_province_2025.py\": \"bd3c4fcf1789981ec9b68e09c90baf29b897506fc5a04f93fd254748e233a0bc\",\n    \"skills/discover-wikipedia-websites/SKILL.md\": \"bb004bedf9ec716e6b5cd40f726b27db4638e67a825711165676708d51adec76\",\n    \"AGENTS.md\": \"d3bff14561d306b77ba5a5328b480f43785cf8427f2ee9c9f7dffc67966957fc\",\n    \"context/trao-doi-inf-raw.md\": \"ed759892b563090f1a85cb7fe4acdb7eed2ba76c574a01005334dfa9a19fa23e\"\n  }\n}\n",
+  "evidence": {
+    "decision": "configured_by_explicit_user_instruction",
+    "boundary": "INF pushes data into RAW; RAW must not read/search/fetch upstream INF",
+    "collector_version": "0.1.1",
+    "allowed_inputs": [
+      "RAW/inbox/inf payloads",
+      "RAW/packages/*/input frozen copies"
+    ],
+    "no_upstream_data_read_for_this_change": true,
+    "tests": {
+      "status": "PASS",
+      "count": 24,
+      "boundary_cases": [
+        "outside path rejected before read_bytes",
+        "inbox/frozen inputs allowed",
+        "file symlink escape rejected",
+        "inbox-root symlink escape rejected"
+      ]
+    },
+    "package_integrity": "existing 97-target inventory PASS; package untouched",
+    "legacy_audit": "existing baseline FAIL unchanged",
+    "website_candidate_evolution": "deferred; no independent evaluation or external website crawl",
+    "file_sha256": {
+      "tools/crawl_province_2025.py": "bd3c4fcf1789981ec9b68e09c90baf29b897506fc5a04f93fd254748e233a0bc",
+      "skills/discover-wikipedia-websites/SKILL.md": "bb004bedf9ec716e6b5cd40f726b27db4638e67a825711165676708d51adec76",
+      "AGENTS.md": "d3bff14561d306b77ba5a5328b480f43785cf8427f2ee9c9f7dffc67966957fc",
+      "context/trao-doi-inf-raw.md": "ed759892b563090f1a85cb7fe4acdb7eed2ba76c574a01005334dfa9a19fa23e"
+    }
+  }
+}

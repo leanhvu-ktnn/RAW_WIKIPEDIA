@@ -16,3 +16,7 @@ Trace được tạo bằng `tools/record_trace.py` với ID duy nhất, không 
 - [Kiểm định hợp đồng INF–RAW](exchange-contract-2026-09-29.json) — offline, không phải crawl.
 
 - [Kiểm định gói 97 target NQ202](province-nq202-2026-09-29.json) — crawl thực tế, nguồn và revision có checksum.
+
+- [Nghiên cứu skill website](coverage-websites-2026-09-29.json) — trích lại nguồn đã tải; không phải đợt crawl website ngoài.
+
+- [Ranh giới push-only](push-only-boundary-2026-09-29.json) — chỉ đạo người dùng và kiểm thử chặn input upstream.

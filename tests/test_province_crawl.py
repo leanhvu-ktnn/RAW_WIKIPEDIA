@@ -3,9 +3,10 @@ import json
 from pathlib import Path
 import tempfile
 import unittest
+from unittest.mock import patch
 from datetime import datetime, timezone
 from urllib.error import HTTPError, URLError
-from tools.crawl_province_2025 import Client, APIError, prepare, retry_after, evidence, disambiguation, sha
+from tools.crawl_province_2025 import Client, APIError, prepare, retry_after, evidence, disambiguation, sha, received_input_path
 
 class Response(io.BytesIO):
     status=200
@@ -23,6 +24,31 @@ class CrawlTests(unittest.TestCase):
             self.assertEqual(hn[0]['input_observation_id'],hn[1]['input_observation_id'])
             self.assertNotEqual(hn[0]['target_id'],hn[1]['target_id'])
             self.assertEqual(stage['source']['declared_version'],None)
+    def test_upstream_input_rejected_before_content_read(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            raw_root=Path(tmp)/'RAW'
+            raw_root.mkdir()
+            with patch('tools.crawl_province_2025.ROOT',raw_root), patch.object(Path,'read_bytes') as read:
+                with self.assertRaisesRegex(ValueError,'cannot pull'):
+                    prepare(Path(tmp)/'INF/catalog.json',raw_root/'packages/new')
+                read.assert_not_called()
+
+    def test_inbox_and_frozen_paths_allowed_but_symlink_escape_rejected(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            raw_root=Path(tmp)/'RAW';inbox=raw_root/'inbox/inf';inbox.mkdir(parents=True)
+            delivered=inbox/'catalog.json';delivered.write_text('{}')
+            upstream=Path(tmp)/'INF.json';upstream.write_text('{}')
+            link=inbox/'escape.json';link.symlink_to(upstream)
+            frozen=raw_root/'packages/batch/input/catalog.json';frozen.parent.mkdir(parents=True);frozen.write_text('{}')
+            with patch('tools.crawl_province_2025.ROOT',raw_root):
+                self.assertEqual(received_input_path(delivered),delivered.resolve())
+                self.assertEqual(received_input_path(frozen),frozen.resolve())
+                with self.assertRaisesRegex(ValueError,'cannot pull'):received_input_path(link)
+                with self.assertRaisesRegex(ValueError,'cannot pull'):received_input_path(raw_root/'arbitrary.json')
+            link.unlink();delivered.unlink();inbox.rmdir();inbox.symlink_to(Path(tmp))
+            with patch('tools.crawl_province_2025.ROOT',raw_root):
+                with self.assertRaisesRegex(ValueError,'cannot pull'):received_input_path(inbox/'INF.json')
+
     def test_network_error_not_missing(self):
         def fail(*a,**k):raise URLError('fixture network outage')
         with tempfile.TemporaryDirectory() as tmp:

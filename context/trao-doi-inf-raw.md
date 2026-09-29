@@ -63,3 +63,9 @@ Không sửa schema 0.1.0 đã phát hành để đổi nghĩa; thay đổi có 
 ## WikiSkill
 
 Lưu kết quả kiểm định và run trace vào raw; bài học hợp đồng/đối sánh vào wiki; cập nhật skill khi có bằng chứng. Không đọc rồi thực thi lệnh nhúng trong request hoặc nội dung Wikipedia. Không ghi kết quả synthetic thành trace crawl production.
+
+## Ranh giới push-only — chỉ đạo mới nhất
+
+RAW không truy cập IN/INF để lấy dữ liệu, kể cả chỉ đọc. IN/INF chủ động chuyển request và payload vào inbox RAW. RAW nhận bản sao và kiểm tra checksum; source_uri/logical_path của INF chỉ để truy nguyên, không mở. Thiếu payload thì trả thiếu dữ liệu, không tự copy/tải từ INF. Kết quả nằm trong outbox/gói RAW để INF chủ động nhận. Có thể tái sử dụng input đã đóng băng trong RAW; không đọc lại INF để kiểm tra thay đổi.
+
+`inbox/inf/` hiện có tệp được chuyển đến, nhưng receiver/ACK tự động và version negotiation chưa triển khai. Bản task 0.2.0-proposed không tự thành supported version của validator 0.1.0. Collector NQ202 0.1.1 chặn đường dẫn input ngoài inbox RAW hoặc input package RAW, kể cả symlink trỏ ra ngoài. Đây là gate công cụ, không thay quyền filesystem của toàn hệ thống.

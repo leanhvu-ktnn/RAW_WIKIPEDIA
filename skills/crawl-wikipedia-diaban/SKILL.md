@@ -4,7 +4,7 @@ description: Lập và thực hiện đợt thu thập Wikipedia cho địa bàn
 metadata:
   okf_version: "0.2"
   type: skill
-  version: "0.3.0"
+  version: "0.3.1"
 ---
 
 # crawl-wikipedia-diaban
@@ -29,3 +29,7 @@ Thu thập đúng địa bàn, không chỉ bài trùng tên. Đọc [mục tiê
 ## Đợt tỉnh trước/sau NQ202/2025
 
 Dùng [runbook staging quan sát](../../context/crawl-province-2025.md) cho yêu cầu cụ thể này. Khi input là ID quan sát, không ép thành DiaBan/canonical INF ID để vượt validator 0.1.0; giữ metadata gốc trong staging. Collector thực tế: `tools/crawl_province_2025.py`; kiểm định gói: `tools/province_package.py`. Chọn revision theo ngày chỉ là thu hẹp nguồn, không chứng minh thời kỳ; cần trích đoạn theo mốc. Bài/pageid/QID chung không gộp target trước–sau.
+
+## Input do INF chuyển xuống
+
+RAW không đọc hoặc tìm kiếm trong IN/INF. Chỉ dùng request/payload đã được INF chủ động chuyển vào inbox RAW hoặc input RAW đã đóng băng; đường dẫn INF chỉ là metadata truy nguyên. Thiếu dữ liệu thì ghi yêu cầu bổ sung ở outbox RAW, không tự lên INF lấy; không ghi INF. Xem [ranh giới push-only](../../context/trao-doi-inf-raw.md).

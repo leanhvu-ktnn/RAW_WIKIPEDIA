@@ -13,3 +13,5 @@ status: active
 - [[wiki/patterns/PAT-003-thieu-revision|Thiếu provenance revision]] — observed
 
 - [[wiki/patterns/PAT-004-quan-sat-theo-moc|Giữ ID quan sát và thời kỳ độc lập]] — observed
+
+- [[wiki/patterns/PAT-005-website-khong-dong-nhat-chu-the|Link website không đồng nhất với chủ thể]] — observed, cần validation độc lập.

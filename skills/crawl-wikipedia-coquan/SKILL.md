@@ -4,7 +4,7 @@ description: Lập và thực hiện đợt thu thập bài riêng về Bộ, c�
 metadata:
   okf_version: "0.2"
   type: skill
-  version: "0.2.0"
+  version: "0.2.1"
 ---
 
 # crawl-wikipedia-coquan
@@ -25,3 +25,7 @@ Dừng retry theo giới hạn, giữ error riêng với missing. Manifest D leg
 ## Hợp đồng INF–RAW
 
 Đọc [schema trao đổi](../../context/trao-doi-inf-raw.md). INF xác định phần thiếu và cấp inf_ref/request_item_id; RAW chỉ tìm, lưu nguyên bản và báo cáo, không ghi vào INF. Giữ ID đối tượng INF, wiki page_id và revision_id riêng biệt. Request/report phải qua `tools/validate_exchange.py`; PASS schema không chứng minh crawl hoặc match thành công. Ưu tiên địa bàn, chỉ chuyển sang cơ quan ở giai đoạn sau theo yêu cầu.
+
+## Input do INF chuyển xuống
+
+RAW không đọc hoặc tìm kiếm trong IN/INF. Chỉ dùng request/payload đã được INF chủ động chuyển vào inbox RAW hoặc input RAW đã đóng băng; đường dẫn INF chỉ là metadata truy nguyên. Thiếu dữ liệu thì ghi yêu cầu bổ sung ở outbox RAW, không tự lên INF lấy; không ghi INF. Xem [ranh giới push-only](../../context/trao-doi-inf-raw.md).

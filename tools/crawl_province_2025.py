@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Read-only Wikipedia API collector for 63+34 INF observation targets. No INF writes."""
+"""Read-only Wikipedia API collector for 63+34 INF observation targets. Input only from RAW inbox or frozen RAW packages; no INF reads/writes."""
 from __future__ import annotations
 import argparse
 from collections import Counter
@@ -18,7 +18,7 @@ from urllib.parse import urlencode, quote
 from urllib.request import Request, urlopen
 
 ROOT = Path(__file__).resolve().parents[1]
-VERSION = '0.1.0'
+VERSION = '0.1.1'
 API = 'https://vi.wikipedia.org/w/api.php'
 UA = 'RAW-WIKIPEDIA/0.3 (https://github.com/leanhvu-ktnn/RAW_WIKIPEDIA; contact via repository issues)'
 GROUPS = [('before', 'historical_before_reorganization', 63), ('after', 'post_reorganization_baseline', 34)]
@@ -42,7 +42,21 @@ def check_root(root):
     if not root.is_relative_to(ROOT) or root==ROOT: raise ValueError('Output must be a package directory inside RAW_WIKIPEDIA')
     return root
 
+def received_input_path(input_path):
+    """Resolve and reject upstream/outside paths before reading any payload bytes."""
+    path=Path(input_path).resolve()
+    inbox=(ROOT/'inbox/inf').resolve()
+    packages=(ROOT/'packages').resolve()
+    # The allowed roots themselves must not redirect outside this RAW checkout.
+    local=ROOT.resolve()
+    inbox_ok=inbox.is_relative_to(local) and path.is_relative_to(inbox)
+    frozen_ok=packages.is_relative_to(local) and path.is_relative_to(packages) and path.parent.name=='input'
+    if not (inbox_ok or frozen_ok):
+        raise ValueError('RAW cannot pull input from INF or external paths; INF must deliver data into RAW inbox/inf, or reuse a frozen RAW package input.')
+    return path
+
 def prepare(input_path, root):
+    input_path=received_input_path(input_path)
     raw=input_path.read_bytes();data=json.loads(raw)
     frozen=root/'input/province-before-after-2025.json'
     if frozen.exists() and frozen.read_bytes()!=raw: raise ValueError('Input changed; use a new package. Frozen input must not be replaced.')

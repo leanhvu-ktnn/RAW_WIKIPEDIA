@@ -1,0 +1,78 @@
+{
+  "schema_version": "0.1.0",
+  "run_id": "coverage-websites-2026-09-29",
+  "task": "Đúc kết NQ202 và đề xuất skill website cho địa bàn/cơ quan; chưa crawl website ngoài",
+  "recorded_at": "2026-09-29T16:11:32.960992+00:00",
+  "evidence_sha256": "bdeb36d6d8e6ea4f41c8298b99159352be34169250372e3f089f50312d4680d2",
+  "evidence_filename": "coverage-websites-evidence.json",
+  "evidence_raw": "{\n  \"proposal_id\": \"coverage-websites-2026-09-29\",\n  \"status\": \"deferred\",\n  \"purpose\": \"Research and candidate skill; no new agency or external website crawl\",\n  \"baseline_commit\": \"a4d06c4ea67b27eb7a3983a90ab60b87067e7863\",\n  \"package_input_sha256\": \"b70c2ab311adcee3fca2963b21a49f00c32966f595bea57b433fe8b00e24751d\",\n  \"package_inventory_sha256\": \"f4084f71f8da67516c34fab9eea76f0f1dd3120ed0ee349860bc0d58d0f07d3c\",\n  \"counts\": {\n    \"targets\": 97,\n    \"before\": 63,\n    \"after\": 34,\n    \"status\": {\n      \"found\": 97\n    },\n    \"unique_retrieved_pages\": 68,\n    \"unique_retrieved_revisions\": 169,\n    \"selected_pages\": 64,\n    \"selected_revisions\": 149\n  },\n  \"observations\": [\n    {\n      \"source_path\": \"packages/province-before-after-2025/sources/viwiki/80/73509990/source.wikitext\",\n      \"sha256\": \"1064e8633bcc9a428d589ebf85023ae617258f101de0012de8a6bd9e7569dce2\",\n      \"page_id\": \"80\",\n      \"revision_id\": \"73509990\",\n      \"line_start\": 71,\n      \"line_end\": 71,\n      \"excerpt\": \"| web = {{url|hanoi.gov.vn}}\",\n      \"scope\": \"Wikipedia source text only; no current website availability or agency ownership verification\"\n    },\n    {\n      \"source_path\": \"packages/province-before-after-2025/sources/viwiki/80/73509990/source.wikitext\",\n      \"sha256\": \"1064e8633bcc9a428d589ebf85023ae617258f101de0012de8a6bd9e7569dce2\",\n      \"page_id\": \"80\",\n      \"revision_id\": \"73509990\",\n      \"line_start\": 465,\n      \"line_end\": 465,\n      \"excerpt\": \"Cũng như các tỉnh và thành phố khác của [[Việt Nam]], [[Hội đồng nhân dân thành phố Hà Nội|Hội đồng Nhân dân Thành phố Hà Nội]] do người dân thành phố trực tiếp bầu lên, là cơ quan quyền lực [[Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam|Nhà nước]] ở thành phố. [[Hội đồng nhân dân thành phố Hà Nội|Hội đồng Nhân dân Hà Nội]] hiện nay, nhiệm kỳ [[2021]]–[[2026]], gồm 95 đại biểu.<ref>{{Chú thích web|url=http://dbndhanoi.gov.vn/portals/9/Tai%20lieu%20ky%20hop%20HDND/BC%20Ket%20qua%20bau%20cu.pdf|website=TRANG WEB ĐOÀN ĐẠI BIỂU QUỐC HỘI VÀ HỘI ĐỒNG NHÂN DÂN THÀNH PHỐ HÀ NỘI|tiêu đề=Báo cáo kết quả bầu cử HĐND nhiệm kỳ 2016 - 2021|ngày truy cập=2017-10-28|archive-date = ngày 10 tháng 1 năm 2021 |archive-url=https://web.archive.org/web/20210110061853/http://dbndhanoi.gov.vn/portals/9/Tai%20lieu%20ky%20hop%20HDND/BC%20Ket%20qua%20bau%20cu.pdf|url-status=live}}</ref> [[Chủ tịch Hội đồng nhân dân thành phố Hà Nội|Chủ tịch HĐND]] Hà Nội hiện nay là ông [[Nguyễn Ngọc Tuấn (Hà Nội)|Nguyễn Ngọc Tuấn]].\",\n      \"scope\": \"Wikipedia source text only; no current website availability or agency ownership verification\"\n    }\n  ],\n  \"baseline_skills\": {\n    \"skills/sync-wikipedia-github/SKILL.md\": \"caa17fdaf42be4184d4da16b8b433ed995b60949d33140f033980cd19f0e3eb3\",\n    \"skills/wiki-maintainer/SKILL.md\": \"9d74fd7d75ca7ac89d505b58ab5b4fe10414dfe9de047aa105ba12580efac49d\",\n    \"skills/crawl-wikipedia-diaban/SKILL.md\": \"cbfc4c5f614c0671a5f1360ce6db829dc0343f1d630cee889b4bcadac25b6cc5\",\n    \"skills/crawl-wikipedia-coquan/SKILL.md\": \"659c2a87c8c48574bfb99e478cb62c6e0748791e0cd46263cb759a7db27cad5d\",\n    \"skills/resolve-wikipedia-entity/SKILL.md\": \"25554d138564da0caca033ea8945e9454f93637ff37b8b6587b30fb08114b6e2\",\n    \"skills/wisdom-skill-proposer/SKILL.md\": \"ab6e9a506e343a7a035b62277857468112bc7e7431ea99f100694c334c6bd62b\",\n    \"skills/stat-wikipedia/SKILL.md\": \"503195947a04453d091fa8ba1ab7fd5430103be9cec27c60ab6bab981702a3c7\",\n    \"skills/ontology-wikipedia/SKILL.md\": \"899080f56d85b46e4c7e77e10a4b09c2f9fc56ce776e8d1448b423a7ea4c1fc6\"\n  },\n  \"candidate_skill\": \"skills/discover-wikipedia-websites/SKILL.md\",\n  \"candidate_version\": \"0.1.0-draft\",\n  \"candidate_sha256\": \"de815053368376a63e288821a089695811afdf5c6c0d51ae0461f1f9e0918fea\",\n  \"evaluations\": {\n    \"baseline_task_score\": null,\n    \"candidate_task_score\": null,\n    \"independent_validation\": \"not_run\"\n  },\n  \"references\": [\n    \"https://arxiv.org/html/2608.27454v1\",\n    \"https://www.mediawiki.org/wiki/API:Extlinks\",\n    \"https://www.mediawiki.org/wiki/API:Parsing_wikitext\",\n    \"https://www.wikidata.org/wiki/Property:P856\",\n    \"https://www.mediawiki.org/wiki/API:Etiquette\",\n    \"https://www.rfc-editor.org/rfc/rfc9309.html\",\n    \"https://docs.scrapy.org/en/latest/topics/jobs.html\"\n  ]\n}\n",
+  "evidence": {
+    "proposal_id": "coverage-websites-2026-09-29",
+    "status": "deferred",
+    "purpose": "Research and candidate skill; no new agency or external website crawl",
+    "baseline_commit": "a4d06c4ea67b27eb7a3983a90ab60b87067e7863",
+    "package_input_sha256": "b70c2ab311adcee3fca2963b21a49f00c32966f595bea57b433fe8b00e24751d",
+    "package_inventory_sha256": "f4084f71f8da67516c34fab9eea76f0f1dd3120ed0ee349860bc0d58d0f07d3c",
+    "counts": {
+      "targets": 97,
+      "before": 63,
+      "after": 34,
+      "status": {
+        "found": 97
+      },
+      "unique_retrieved_pages": 68,
+      "unique_retrieved_revisions": 169,
+      "selected_pages": 64,
+      "selected_revisions": 149
+    },
+    "observations": [
+      {
+        "source_path": "packages/province-before-after-2025/sources/viwiki/80/73509990/source.wikitext",
+        "sha256": "1064e8633bcc9a428d589ebf85023ae617258f101de0012de8a6bd9e7569dce2",
+        "page_id": "80",
+        "revision_id": "73509990",
+        "line_start": 71,
+        "line_end": 71,
+        "excerpt": "| web = {{url|hanoi.gov.vn}}",
+        "scope": "Wikipedia source text only; no current website availability or agency ownership verification"
+      },
+      {
+        "source_path": "packages/province-before-after-2025/sources/viwiki/80/73509990/source.wikitext",
+        "sha256": "1064e8633bcc9a428d589ebf85023ae617258f101de0012de8a6bd9e7569dce2",
+        "page_id": "80",
+        "revision_id": "73509990",
+        "line_start": 465,
+        "line_end": 465,
+        "excerpt": "Cũng như các tỉnh và thành phố khác của [[Việt Nam]], [[Hội đồng nhân dân thành phố Hà Nội|Hội đồng Nhân dân Thành phố Hà Nội]] do người dân thành phố trực tiếp bầu lên, là cơ quan quyền lực [[Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam|Nhà nước]] ở thành phố. [[Hội đồng nhân dân thành phố Hà Nội|Hội đồng Nhân dân Hà Nội]] hiện nay, nhiệm kỳ [[2021]]–[[2026]], gồm 95 đại biểu.<ref>{{Chú thích web|url=http://dbndhanoi.gov.vn/portals/9/Tai%20lieu%20ky%20hop%20HDND/BC%20Ket%20qua%20bau%20cu.pdf|website=TRANG WEB ĐOÀN ĐẠI BIỂU QUỐC HỘI VÀ HỘI ĐỒNG NHÂN DÂN THÀNH PHỐ HÀ NỘI|tiêu đề=Báo cáo kết quả bầu cử HĐND nhiệm kỳ 2016 - 2021|ngày truy cập=2017-10-28|archive-date = ngày 10 tháng 1 năm 2021 |archive-url=https://web.archive.org/web/20210110061853/http://dbndhanoi.gov.vn/portals/9/Tai%20lieu%20ky%20hop%20HDND/BC%20Ket%20qua%20bau%20cu.pdf|url-status=live}}</ref> [[Chủ tịch Hội đồng nhân dân thành phố Hà Nội|Chủ tịch HĐND]] Hà Nội hiện nay là ông [[Nguyễn Ngọc Tuấn (Hà Nội)|Nguyễn Ngọc Tuấn]].",
+        "scope": "Wikipedia source text only; no current website availability or agency ownership verification"
+      }
+    ],
+    "baseline_skills": {
+      "skills/sync-wikipedia-github/SKILL.md": "caa17fdaf42be4184d4da16b8b433ed995b60949d33140f033980cd19f0e3eb3",
+      "skills/wiki-maintainer/SKILL.md": "9d74fd7d75ca7ac89d505b58ab5b4fe10414dfe9de047aa105ba12580efac49d",
+      "skills/crawl-wikipedia-diaban/SKILL.md": "cbfc4c5f614c0671a5f1360ce6db829dc0343f1d630cee889b4bcadac25b6cc5",
+      "skills/crawl-wikipedia-coquan/SKILL.md": "659c2a87c8c48574bfb99e478cb62c6e0748791e0cd46263cb759a7db27cad5d",
+      "skills/resolve-wikipedia-entity/SKILL.md": "25554d138564da0caca033ea8945e9454f93637ff37b8b6587b30fb08114b6e2",
+      "skills/wisdom-skill-proposer/SKILL.md": "ab6e9a506e343a7a035b62277857468112bc7e7431ea99f100694c334c6bd62b",
+      "skills/stat-wikipedia/SKILL.md": "503195947a04453d091fa8ba1ab7fd5430103be9cec27c60ab6bab981702a3c7",
+      "skills/ontology-wikipedia/SKILL.md": "899080f56d85b46e4c7e77e10a4b09c2f9fc56ce776e8d1448b423a7ea4c1fc6"
+    },
+    "candidate_skill": "skills/discover-wikipedia-websites/SKILL.md",
+    "candidate_version": "0.1.0-draft",
+    "candidate_sha256": "de815053368376a63e288821a089695811afdf5c6c0d51ae0461f1f9e0918fea",
+    "evaluations": {
+      "baseline_task_score": null,
+      "candidate_task_score": null,
+      "independent_validation": "not_run"
+    },
+    "references": [
+      "https://arxiv.org/html/2608.27454v1",
+      "https://www.mediawiki.org/wiki/API:Extlinks",
+      "https://www.mediawiki.org/wiki/API:Parsing_wikitext",
+      "https://www.wikidata.org/wiki/Property:P856",
+      "https://www.mediawiki.org/wiki/API:Etiquette",
+      "https://www.rfc-editor.org/rfc/rfc9309.html",
+      "https://docs.scrapy.org/en/latest/topics/jobs.html"
+    ]
+  }
+}

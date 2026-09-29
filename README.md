@@ -47,3 +47,7 @@ python3 -m venv .venv
 ## Trao đổi với INF
 
 **Địa bàn trước, cơ quan sau.** INF khai báo nhu cầu; RAW tìm, lưu bản nguồn và báo cáo, không ghi INF. [Hợp đồng đề xuất 0.1.0](context/trao-doi-inf-raw.md) có JSON Schema, fixture và kiểm định offline; chưa có tích hợp/crawl production.
+
+## Ranh giới nhận dữ liệu
+
+INF chủ động chuyển request và payload vào inbox RAW; RAW không đọc, tìm kiếm hoặc tải dữ liệu từ IN/INF. Chỉ dùng dữ liệu đã nhận hoặc input RAW đã đóng băng. [Quy chuẩn push-only](context/trao-doi-inf-raw.md) và [đề xuất website địa bàn/cơ quan](context/de-xuat-doi-soat-dia-ban-co-quan-website.md).

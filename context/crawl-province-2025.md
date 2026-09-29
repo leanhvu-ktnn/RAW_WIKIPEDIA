@@ -39,3 +39,7 @@ Pilot Gia Lai cũ, Bình Định cũ, Gia Lai mới và Hà Nội hai mốc ph�
 ## Bàn giao
 
 Package root: `packages/province-before-after-2025/`. INF đọc manifest, target-page-revision-evidence.jsonl hoặc CSV, report.md và validation.json. checksums.json kiểm kê file toàn gói (trừ chính nó). Gói là sản phẩm RAW, không ghi trực tiếp INF. Nợ legacy của corpus cũ không bị che hoặc tự sửa trong đợt này.
+
+## Cập nhật ranh giới input
+
+Đợt đã công bố từng đọc tham chiếu INF theo yêu cầu tại thời điểm đó; giữ nguyên gói và trace lịch sử. Theo chỉ đạo mới, mọi lượt sau dùng bản input đã đóng băng trong RAW hoặc payload do INF chủ động đặt vào `inbox/inf/`. Không mở logical_path nguồn INF, không kiểm tra lại checksum bằng cách đọc INF. Collector 0.1.1 áp dụng kiểm tra containment trước khi đọc input, từ chối đường dẫn ngoài RAW và symlink thoát vùng nhận. Lệnh mẫu ở trên dùng input RAW nên vẫn phù hợp.
