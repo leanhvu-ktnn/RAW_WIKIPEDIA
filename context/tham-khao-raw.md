@@ -18,3 +18,5 @@ status: active
 | INF/context/nghiencuu | Phân biệt diaBan/capDonVi/capHanhChinh/theHe, namespace legal | Không đồng nhất bài Wikipedia với thực thể hay ghi đè tên pháp lý. |
 
 Các đường dẫn trên là nguồn ngoài vault, không phải file đã đóng gói. Căn cứ nghiên cứu gốc: [WikiSkill](https://arxiv.org/abs/2608.27454). Dự án bên thứ ba mang tên WikiSkill không mặc nhiên là implementation chính thức Google. Tham khảo crawler và parser nằm trong [[context/nghien-cuu-2026-09-29|báo cáo nghiên cứu]].
+
+Đã tìm thấy crawler legacy tại `VBPL/tools/download_wikipedia_vi.py` ngoài kho; xem phần bổ sung trong [[context/nghien-cuu-2026-09-29|nghiên cứu]] trước khi tái sử dụng. Không chạy trực tiếp vì đường dẫn ghi phụ thuộc vault gốc.

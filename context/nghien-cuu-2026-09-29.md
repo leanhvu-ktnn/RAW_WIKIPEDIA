@@ -69,3 +69,17 @@ Nguồn được đọc ngày 29/09/2026; đánh giá phù hợp dưới đây l
 - **Giai đoạn 3:** chỉ mở rộng sau khi đạt các gate trong [quy chuẩn](quy-chuan-crawl.md). Không tối đa hóa tỷ lệ hit bằng cách chấp nhận kết quả tìm kiếm đầu tiên.
 
 Skill và quy chuẩn mới không đồng nghĩa crawler đã hoàn thành; tình trạng lỗi dữ liệu được giữ rõ trong README và báo cáo.
+
+## Bổ sung: đã tìm thấy crawler gốc ngoài kho
+
+Cuối phiên tìm được `VBPL/tools/download_wikipedia_vi.py` trong dự án VBPL cạnh vault. Đã đọc tĩnh các phần client, matching, fetch, run_wave; chưa chạy vì có side effect vào vault gốc. Mã có 1.063 dòng, import `build_coquan_donvi`, `import_dvhc`, `vault` và dùng `VAULT_ROOT`. Không thể chỉ chép một file rồi coi kho này chạy độc lập.
+
+Các phát hiện trực tiếp trong mã:
+
+- `first_existing` (dòng 344) trả bài đầu tiên tồn tại và không định hướng, không nhận target để đối chiếu cấp/tỉnh/thời kỳ. Điều này phù hợp với rủi ro ghép nhầm đã quan sát; chưa có trace lần crawl gốc để chứng minh toàn bộ chuỗi nguyên nhân.
+- `WikiClient.get` (dòng 127) không thêm maxlag, trả JSON mà chưa phân loại `error` HTTP 200; retry 429 chỉ hiểu Retry-After dạng số, không xử lý HTTP-date. Khoảng nghỉ cho phép hạ tới 0,2 giây.
+- `run_wave` bắt mọi exception fetch rồi gán page=None (dòng 872 trở đi), sau đó ghi miss. Do skip catalog cả miss, lỗi tạm thời có thể bị bỏ qua ở lần chạy sau.
+- Manifest được tạo rỗng đầu run và chỉ thêm hit mới; cuối run ghi đè file (dòng 939–940). Nếu toàn bộ target bị skip, manifest có thể thành mảng rỗng. Đây là cơ chế có thể giải thích D rỗng, chưa chứng minh đó chính là lần chạy đã tạo dữ liệu hiện tại.
+- Dry-run vẫn append catalog; không phải dry-run hoàn toàn không thay dữ liệu.
+
+Kế hoạch kế thừa: tách input/output khỏi VAULT_ROOT, loại phụ thuộc vault không đóng gói, sửa matching/error states/manifest merge/dry-run rồi kiểm thử và pilot. Hệ thống skill mới đã ràng buộc các điểm này; engine cũ chưa được nhập vào kho hoặc chạy tự động.
