@@ -14,3 +14,7 @@ status: active
 4. Gate hệ thống skill/context: `.venv/bin/python tools/validate_project.py`; unit tests: `.venv/bin/python -m unittest discover -s tests -v`.
 5. Gate dữ liệu: `python3 tools/audit_corpus.py --strict` hiện còn FAIL do legacy; chạy và công bố lỗi trước khi kết thúc. Commit thiết lập có thể mang baseline lỗi đã công khai, không có nghĩa gate dữ liệu PASS. Crawl mở rộng phải thỏa các gate dữ liệu mới, không vượt gate chỉ vì skill hợp lệ.
 6. Đồng bộ GitHub: kiểm tra diff, commit, push không force rồi so SHA. Không bật crawl định kỳ hoặc merge thay đổi người khác trong lần thiết lập.
+
+## Ưu tiên và thực trạng bổ sung
+
+Địa bàn trước, cơ quan sau. Đã bổ sung hợp đồng đề xuất INF–RAW 0.1.0, fixture và validator offline; chưa có inbox tích hợp INF, request thật, snapshot downloader hoặc crawl mới. Baseline audit 3.331 trang chưa đổi. Việc có schema không có nghĩa trao đổi hai hệ thống đã hoạt động.

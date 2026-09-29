@@ -31,3 +31,7 @@ Khóa target phải kèm nguồn danh mục và thời kỳ nếu mã có thể 
 Ví dụ cơ quan cấp xã: `cap: Tinh`, `capHanhChinh: xa`, `diaBan: Đà Nẵng`, `loaiDonVi: UBND_xa`. Không dùng ví dụ này để khẳng định một cơ quan cụ thể đang tồn tại.
 
 `tools/validate_project.py` kiểm tra parse RDF và sự hiện diện các lớp/quan hệ lõi, không phải OWL reasoner hay SHACL toàn corpus. Export ABox production là bước tiếp theo, chưa triển khai.
+
+## Đối tượng INF và tài liệu RAW
+
+`inf_ref` là tham chiếu opaque do INF sở hữu, không phải pageid/oldid. [[context/trao-doi-inf-raw|Hợp đồng 0.1.0]] bổ sung kiểu thông điệp và provenance trao đổi; không thay ontology pháp lý. `wiki:target` biểu diễn đối tượng được đề nghị đối sánh, không cấp quyền ghi INF. RAW trả report để INF tự xét duyệt/nhập.

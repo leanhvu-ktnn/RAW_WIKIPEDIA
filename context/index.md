@@ -20,3 +20,5 @@ Tài liệu chuẩn của kho độc lập; không trộn context vào dữ li�
 - [[context/ke-hoach|Kế hoạch triển khai và gate]]
 - [[context/nghien-cuu-2026-09-29|Nghiên cứu và bằng chứng kiểm kê]]
 - [[context/tham-khao-raw|Đối chiếu dự án RAW trước]]
+
+- [[context/trao-doi-inf-raw|Hợp đồng trao đổi INF–RAW 0.1.0]]

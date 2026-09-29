@@ -1,0 +1,34 @@
+{
+  "schema_version": "0.1.0",
+  "okf_version": "0.2",
+  "message_type": "report",
+  "message_id": "00000000-0000-4000-8000-000000000003",
+  "request_id": "00000000-0000-4000-8000-000000000002",
+  "created_at": "2026-09-29T00:00:00Z",
+  "producer": "RAW_WIKIPEDIA",
+  "consumer": "INF",
+  "request_sha256": "483fb4e0b1b81e17bf8a5bb0d0873e89323dac34d0fb3a77e2c4de846ee7e329",
+  "run_id": "fixture-no-network",
+  "final": true,
+  "inf_action": "review_only",
+  "items": [
+    {
+      "request_item_id": "diaban-fixture-001",
+      "inf_ref": {
+        "namespace": "urn:fixture:inf",
+        "entity_id": "diaban:fixture-001",
+        "entity_type": "DiaBan"
+      },
+      "status": "error",
+      "reason": "Ví dụ kiểm định schema; chưa gửi truy vấn, chưa crawl và chưa xác minh nguồn.",
+      "queries": [],
+      "candidates": [],
+      "selected_candidate_id": null,
+      "retryable": false,
+      "missing_fields_unresolved": [
+        "wikipedia_source",
+        "revision_snapshot"
+      ]
+    }
+  ]
+}

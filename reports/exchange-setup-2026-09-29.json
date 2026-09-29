@@ -1,0 +1,29 @@
+{
+  "schema_version": "0.1.0",
+  "task": "INF–RAW exchange contract setup",
+  "implementation_status": "draft-contract-offline-validator",
+  "priority": [
+    "DiaBan",
+    "CoQuan"
+  ],
+  "verified": {
+    "system_profile": "PASS",
+    "unit_tests_passed": 13,
+    "schema_fixtures": "PASS; synthetic, no network",
+    "artifact_integrity": "PASS on synthetic unit-test bytes"
+  },
+  "not_implemented": [
+    "INF inbox integration",
+    "production snapshot downloader",
+    "real INF request execution",
+    "automatic INF ingestion"
+  ],
+  "legacy_audit": {
+    "status": "FAIL",
+    "pages": 3331,
+    "manifest_missing_page": 92,
+    "duplicate_pageid_groups": 11
+  },
+  "inf_writes": false,
+  "production_crawl_executed": false
+}

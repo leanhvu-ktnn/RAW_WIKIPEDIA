@@ -9,3 +9,5 @@ status: active
 # Báo cáo kiểm định
 
 [Audit legacy 29/09/2026](audit-2026-09-29.json). Báo cáo không tự thay đổi corpus.
+
+[Trạng thái thiết lập hợp đồng INF–RAW](exchange-setup-2026-09-29.json).

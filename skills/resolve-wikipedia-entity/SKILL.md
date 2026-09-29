@@ -4,7 +4,7 @@ description: Đối sánh ứng viên Wikipedia với thực thể địa bàn h
 metadata:
   okf_version: "0.2"
   type: skill
-  version: "0.1.0"
+  version: "0.2.0"
 ---
 
 # resolve-wikipedia-entity
@@ -20,3 +20,7 @@ Dùng [ontology](../../context/ontology-schema.md). Nhận một target có ngu�
 
 ## Phục hồi
 Thiếu input thời kỳ/địa bàn thì tiếp tục phần kiểm kê độc lập, yêu cầu thông tin còn thiếu cho quyết định match. Không đoán mã, sửa tên chính thức hay gắn sameAs để vượt gate.
+
+## Hợp đồng INF–RAW
+
+Đọc [schema trao đổi](../../context/trao-doi-inf-raw.md). INF xác định phần thiếu và cấp inf_ref/request_item_id; RAW chỉ tìm, lưu nguyên bản và báo cáo, không ghi vào INF. Giữ ID đối tượng INF, wiki page_id và revision_id riêng biệt. Request/report phải qua `tools/validate_exchange.py`; PASS schema không chứng minh crawl hoặc match thành công. Ưu tiên địa bàn, chỉ chuyển sang cơ quan ở giai đoạn sau theo yêu cầu.

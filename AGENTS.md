@@ -28,3 +28,7 @@ python3 tools/audit_corpus.py --strict
 Gate hệ thống và tests phải PASS. Audit legacy đang FAIL: báo lỗi thật, không sửa baseline để che dữ liệu. Commit thiết lập và tài liệu được phép giữ corpus legacy với báo cáo lỗi đã công khai; không dùng ngoại lệ này để đưa hit mới chưa kiểm định vào corpus. Với thay đổi dữ liệu, kiểm định phạm vi mới/sửa và không thêm vi phạm so baseline; vẫn công bố tình trạng toàn corpus.
 
 Đồng bộ GitHub khi người dùng giao: fetch/kiểm tra diff, commit/push không force, xác minh SHA remote. Không ghi đè việc người dùng hoặc sửa các dự án RAW khác.
+
+## Ranh giới INF–RAW
+
+Ưu tiên địa bàn trước, cơ quan sau. INF xác định thiếu gì và gửi yêu cầu; RAW nhận, tìm, lưu bản nguồn và phản hồi. RAW không ghi trực tiếp vào INF. ID đối tượng INF, ID bài và revision tách biệt. Hợp đồng đề xuất: [[context/trao-doi-inf-raw|schema trao đổi 0.1.0]].

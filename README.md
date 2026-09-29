@@ -43,3 +43,7 @@ python3 -m venv .venv
 .venv/bin/python -m pip install -r requirements-dev.txt
 .venv/bin/python tools/validate_project.py
 ```
+
+## Trao đổi với INF
+
+**Địa bàn trước, cơ quan sau.** INF khai báo nhu cầu; RAW tìm, lưu bản nguồn và báo cáo, không ghi INF. [Hợp đồng đề xuất 0.1.0](context/trao-doi-inf-raw.md) có JSON Schema, fixture và kiểm định offline; chưa có tích hợp/crawl production.
