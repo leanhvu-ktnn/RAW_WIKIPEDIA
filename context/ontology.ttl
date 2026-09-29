@@ -1,0 +1,39 @@
+@prefix wiki: <https://github.com/leanhvu-ktnn/RAW_WIKIPEDIA/ontology#> .
+@prefix legal: <http://vbpl.vn/ontology/legal#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<https://github.com/leanhvu-ktnn/RAW_WIKIPEDIA/ontology> a owl:Ontology ;
+    owl:versionInfo "0.1.0" ;
+    dct:title "RAW_WIKIPEDIA territory, agency and provenance profile"@en .
+legal:DiaBan a owl:Class .
+legal:CoQuan a owl:Class ; owl:disjointWith legal:DiaBan .
+wiki:Page a owl:Class .
+wiki:Revision a owl:Class .
+wiki:Match a owl:Class .
+wiki:CrawlRun a owl:Class .
+legal:thuocDiaBan a owl:ObjectProperty ; rdfs:range legal:DiaBan .
+legal:diaBan a owl:DatatypeProperty ; rdfs:range xsd:string .
+legal:capDonVi a owl:DatatypeProperty ; rdfs:range xsd:string .
+legal:capHanhChinh a owl:DatatypeProperty ; rdfs:range xsd:string .
+legal:theHeDiaBan a owl:DatatypeProperty ; rdfs:range xsd:string .
+wiki:entityStatus a owl:DatatypeProperty ; rdfs:range xsd:string .
+wiki:administrativeCode a owl:DatatypeProperty ; rdfs:domain legal:DiaBan ; rdfs:range xsd:string .
+wiki:agencyId a owl:DatatypeProperty ; rdfs:domain legal:CoQuan ; rdfs:range xsd:string .
+wiki:hasRevision a owl:ObjectProperty ; rdfs:domain wiki:Page ; rdfs:range wiki:Revision .
+wiki:target a owl:ObjectProperty ; rdfs:domain wiki:Match .
+wiki:candidatePage a owl:ObjectProperty ; rdfs:domain wiki:Match ; rdfs:range wiki:Page .
+wiki:observedIn a owl:ObjectProperty ; rdfs:domain wiki:Match ; rdfs:range wiki:CrawlRun .
+wiki:matchStatus a owl:DatatypeProperty ; rdfs:domain wiki:Match ; rdfs:range xsd:string .
+wiki:evidence a owl:DatatypeProperty ; rdfs:domain wiki:Match ; rdfs:range xsd:string .
+wiki:pageId a owl:DatatypeProperty ; rdfs:domain wiki:Page ; rdfs:range xsd:string .
+wiki:language a owl:DatatypeProperty ; rdfs:domain wiki:Page ; rdfs:range xsd:string .
+wiki:oldid a owl:DatatypeProperty ; rdfs:domain wiki:Revision ; rdfs:range xsd:string .
+wiki:rawSha256 a owl:DatatypeProperty ; rdfs:domain wiki:Revision ; rdfs:range xsd:string .
+wiki:sourceUrl a owl:DatatypeProperty ; rdfs:range xsd:anyURI .
+wiki:revisionTimestamp a owl:DatatypeProperty ; rdfs:domain wiki:Revision ; rdfs:range xsd:dateTime .
+wiki:extractedAt a owl:DatatypeProperty ; rdfs:range xsd:dateTime .
+wiki:validFrom a owl:DatatypeProperty ; rdfs:range xsd:date .
+wiki:validTo a owl:DatatypeProperty ; rdfs:range xsd:date .

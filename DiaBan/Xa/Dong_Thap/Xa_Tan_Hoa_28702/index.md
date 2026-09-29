@@ -1,0 +1,35 @@
+---
+okf_version: "0.2"
+type: "wiki_page"
+title: "Tân Hòa, Đồng Tháp"
+wiki_title: "Tân Hòa, Đồng Tháp"
+wiki_pageid: "792900"
+source_url: "https://vi.wikipedia.org/wiki/T%C3%A2n_H%C3%B2a,_%C4%90%E1%BB%93ng_Th%C3%A1p"
+wikidata_qid: "Q10830464"
+oldid: "75410303"
+license: "CC-BY-SA-4.0"
+extracted_at: "2026-09-01T05:00:09Z"
+extract_mode: "lead_infobox"
+wiki_kind: "DiaBan"
+capHanhChinh: "xa"
+diaBan: "Đồng Tháp"
+ma_dvhc: "28702"
+cq_id: "Tinh.Dong_Thap.Xa_Tan_Hoa_28702"
+nhom_chu: "Dong_Thap"
+wave: "C"
+wikipedia: "https://vi.wikipedia.org/wiki/T%C3%A2n_H%C3%B2a,_%C4%90%E1%BB%93ng_Th%C3%A1p"
+website: ""
+---
+# Tân Hòa, Đồng Tháp
+
+Tân Hòa là một xã thuộc tỉnh Đồng Tháp, Việt Nam.
+
+## Liên kết
+- Wikipedia: [Tân Hòa, Đồng Tháp](https://vi.wikipedia.org/wiki/T%C3%A2n_H%C3%B2a,_%C4%90%E1%BB%93ng_Th%C3%A1p)
+- Website: *(chưa có trên Wikidata / infobox)*
+
+## Đối chiếu vault
+- COQUAN: [[INF/COQUAN_DONVI/Tinh/Dong_Thap/UBND/Xa_Tan_Hoa_28702|Tinh.Dong_Thap.Xa_Tan_Hoa_28702]]
+
+---
+Nguồn: [Tân Hòa, Đồng Tháp](https://vi.wikipedia.org/wiki/T%C3%A2n_H%C3%B2a,_%C4%90%E1%BB%93ng_Th%C3%A1p) — Wikipedia tiếng Việt, bản sửa `75410303`, giấy phép [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).

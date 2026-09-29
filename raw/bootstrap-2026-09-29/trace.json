@@ -1,0 +1,3137 @@
+{
+  "schema_version": "0.1.0",
+  "run_id": "bootstrap-2026-09-29",
+  "task": "Kiểm kê offline corpus legacy; chưa crawl mạng hoặc đánh giá evolution",
+  "recorded_at": "2026-09-29T14:52:28.750366+00:00",
+  "evidence_sha256": "982e1ed7e678795e2f83ffe034613206f8b32651ce6e16537f35095af5c9f40e",
+  "evidence_filename": "audit-2026-09-29.json",
+  "evidence_raw": "{\n  \"scope\": \"Offline structural audit; not factual/entity validation or full YAML validation.\",\n  \"pages\": 3331,\n  \"page_groups\": {\n    \"CoQuan\": 18,\n    \"DiaBan\": 3313\n  },\n  \"catalog_records\": 11043,\n  \"catalog_events_by_wave_status\": {\n    \"B/hit\": 129,\n    \"B/miss\": 2,\n    \"C/hit\": 3181,\n    \"C/miss\": 57,\n    \"C/skip\": 83,\n    \"D/hit\": 18,\n    \"D/miss\": 7537,\n    \"D/skip\": 36\n  },\n  \"manifest_records\": {\n    \"_manifest.json\": 129,\n    \"_manifest_C.json\": 3181,\n    \"_manifest_D.json\": 0\n  },\n  \"finding_counts\": {\n    \"catalog_hit_missing_file\": 92,\n    \"duplicate_pageid\": 11,\n    \"invalid_id\": 4,\n    \"manifest_missing_page\": 92,\n    \"missing_diaban_links\": 2,\n    \"missing_link_section\": 2,\n    \"missing_required\": 4,\n    \"pages_without_manifest\": 113,\n    \"url_mismatch\": 1\n  },\n  \"findings\": {\n    \"catalog_hit_missing_file\": [\n      {\n        \"label\": \"Phường Hải Vân\",\n        \"titles\": [\n          \"Phường Hải Vân, Đà Nẵng\",\n          \"Phường Hải Vân, Thành phố Đà Nẵng\",\n          \"Hải Vân, Đà Nẵng\",\n          \"Phường Hải Vân\",\n          \"Hải Vân\",\n          \"Hải Vân\",\n          \"HảiVân\",\n          \"Hải Vân (phường)\",\n          \"H ải V ân\",\n          \"H ải V ân (xã)\",\n          \"H ải V ân, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Hai_Van\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20194\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Hai_Van\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Hải Vân (phường)\",\n        \"wiki_pageid\": 19959739,\n        \"oldid\": 75488287,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Hai_Van/index.md\"\n      },\n      {\n        \"label\": \"Phường Liên Chiểu\",\n        \"titles\": [\n          \"Phường Liên Chiểu, Đà Nẵng\",\n          \"Phường Liên Chiểu, Thành phố Đà Nẵng\",\n          \"Liên Chiểu, Đà Nẵng\",\n          \"Phường Liên Chiểu\",\n          \"Liên Chiểu\",\n          \"Liên Chiểu\",\n          \"LiênChiểu\",\n          \"Liên Chiểu (phường)\",\n          \"Li ên Chi ểu\",\n          \"Li ên Chi ểu (xã)\",\n          \"Li ên Chi ểu, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Lien_Chieu\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20197\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Lien_Chieu\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Liên Chiểu (phường)\",\n        \"wiki_pageid\": 19959744,\n        \"oldid\": 75474258,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Lien_Chieu/index.md\"\n      },\n      {\n        \"label\": \"Phường Hòa Khánh\",\n        \"titles\": [\n          \"Phường Hòa Khánh, Đà Nẵng\",\n          \"Phường Hòa Khánh, Thành phố Đà Nẵng\",\n          \"Hòa Khánh, Đà Nẵng\",\n          \"Phường Hòa Khánh\",\n          \"Hòa Khánh\",\n          \"Hòa Khánh\",\n          \"HòaKhánh\",\n          \"Hòa Khánh (phường)\",\n          \"H òa Kh ánh\",\n          \"H òa Kh ánh (xã)\",\n          \"H òa Kh ánh, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Hoa_Khanh\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20200\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Hoa_Khanh\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Hòa Khánh (phường)\",\n        \"wiki_pageid\": 3684031,\n        \"oldid\": 75371751,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Hoa_Khanh/index.md\"\n      },\n      {\n        \"label\": \"Phường Thanh Khê\",\n        \"titles\": [\n          \"Phường Thanh Khê, Đà Nẵng\",\n          \"Phường Thanh Khê, Thành phố Đà Nẵng\",\n          \"Thanh Khê, Đà Nẵng\",\n          \"Phường Thanh Khê\",\n          \"Thanh Khê\",\n          \"Thanh Khê\",\n          \"ThanhKhê\",\n          \"Thanh Khê (phường)\",\n          \"Thanh Kh ê\",\n          \"Thanh Kh ê (xã)\",\n          \"Thanh Kh ê, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Thanh_Khe\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20209\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Thanh_Khe\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Thanh Khê (phường)\",\n        \"wiki_pageid\": 560958,\n        \"oldid\": 75353655,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Thanh_Khe/index.md\"\n      },\n      {\n        \"label\": \"Phường Hải Châu\",\n        \"titles\": [\n          \"Phường Hải Châu, Đà Nẵng\",\n          \"Phường Hải Châu, Thành phố Đà Nẵng\",\n          \"Hải Châu, Đà Nẵng\",\n          \"Phường Hải Châu\",\n          \"Hải Châu\",\n          \"Hải Châu\",\n          \"HảiChâu\",\n          \"Hải Châu (phường)\",\n          \"H ải Ch âu\",\n          \"H ải Ch âu (xã)\",\n          \"H ải Ch âu, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Hai_Chau\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20242\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Hai_Chau\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Hải Châu (phường)\",\n        \"wiki_pageid\": 19902758,\n        \"oldid\": 75479323,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Hai_Chau/index.md\"\n      },\n      {\n        \"label\": \"Phường Hòa Cường\",\n        \"titles\": [\n          \"Phường Hòa Cường, Đà Nẵng\",\n          \"Phường Hòa Cường, Thành phố Đà Nẵng\",\n          \"Hòa Cường, Đà Nẵng\",\n          \"Phường Hòa Cường\",\n          \"Hòa Cường\",\n          \"Hòa Cường\",\n          \"HòaCường\",\n          \"Hòa Cường (phường)\",\n          \"H òa C ư ờng\",\n          \"H òa C ư ờng (xã)\",\n          \"H òa C ư ờng, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Hoa_Cuong\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20257\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Hoa_Cuong\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Hòa Cường\",\n        \"wiki_pageid\": 19947684,\n        \"oldid\": 75500712,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Hoa_Cuong/index.md\"\n      },\n      {\n        \"label\": \"Phường Cẩm Lệ\",\n        \"titles\": [\n          \"Phường Cẩm Lệ, Đà Nẵng\",\n          \"Phường Cẩm Lệ, Thành phố Đà Nẵng\",\n          \"Cẩm Lệ, Đà Nẵng\",\n          \"Phường Cẩm Lệ\",\n          \"Cẩm Lệ\",\n          \"Cẩm Lệ\",\n          \"CẩmLệ\",\n          \"Cẩm Lệ (phường)\",\n          \"C ẩm L ệ\",\n          \"C ẩm L ệ (xã)\",\n          \"C ẩm L ệ, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Cam_Le\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20260\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Cam_Le\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Cẩm Lệ (phường)\",\n        \"wiki_pageid\": 19959735,\n        \"oldid\": 75353618,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Cam_Le/index.md\"\n      },\n      {\n        \"label\": \"Phường Sơn Trà\",\n        \"titles\": [\n          \"Phường Sơn Trà, Đà Nẵng\",\n          \"Phường Sơn Trà, Thành phố Đà Nẵng\",\n          \"Sơn Trà, Đà Nẵng\",\n          \"Phường Sơn Trà\",\n          \"Sơn Trà\",\n          \"Sơn Trà\",\n          \"SơnTrà\",\n          \"Sơn Trà (phường)\",\n          \"S ơn Tr à\",\n          \"S ơn Tr à (xã)\",\n          \"S ơn Tr à, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Son_Tra\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20263\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Son_Tra\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Sơn Trà (phường)\",\n        \"wiki_pageid\": 19956443,\n        \"oldid\": 75260791,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Son_Tra/index.md\"\n      },\n      {\n        \"label\": \"Phường An Hải\",\n        \"titles\": [\n          \"Phường An Hải, Đà Nẵng\",\n          \"Phường An Hải, Thành phố Đà Nẵng\",\n          \"An Hải, Đà Nẵng\",\n          \"Phường An Hải\",\n          \"An Hải\",\n          \"An Hải\",\n          \"AnHải\",\n          \"An Hải (phường)\",\n          \"An H ải\",\n          \"An H ải (xã)\",\n          \"An H ải, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_An_Hai\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20275\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_An_Hai\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"An Hải, Đà Nẵng\",\n        \"wiki_pageid\": 19935058,\n        \"oldid\": 75494447,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_An_Hai/index.md\"\n      },\n      {\n        \"label\": \"Phường Ngũ Hành Sơn\",\n        \"titles\": [\n          \"Phường Ngũ Hành Sơn, Đà Nẵng\",\n          \"Phường Ngũ Hành Sơn, Thành phố Đà Nẵng\",\n          \"Ngũ Hành Sơn, Đà Nẵng\",\n          \"Phường Ngũ Hành Sơn\",\n          \"Ngũ Hành Sơn\",\n          \"Ngũ Hành Sơn\",\n          \"NgũHànhSơn\",\n          \"Ngũ Hành Sơn (phường)\",\n          \"Ng ũ H ành S ơn\",\n          \"Ng ũ H ành S ơn (xã)\",\n          \"Ng ũ H ành S ơn, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Ngu_Hanh_Son\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20285\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Ngu_Hanh_Son\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Ngũ Hành Sơn (phường)\",\n        \"wiki_pageid\": 19956413,\n        \"oldid\": 75496703,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Ngu_Hanh_Son/index.md\"\n      },\n      {\n        \"label\": \"Phường An Khê\",\n        \"titles\": [\n          \"Phường An Khê, Đà Nẵng\",\n          \"Phường An Khê, Thành phố Đà Nẵng\",\n          \"An Khê, Đà Nẵng\",\n          \"Phường An Khê\",\n          \"An Khê\",\n          \"An Khê\",\n          \"AnKhê\",\n          \"An Khê (phường)\",\n          \"An Kh ê\",\n          \"An Kh ê (xã)\",\n          \"An Kh ê, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_An_Khe\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20305\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_An_Khe\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"An Khê, Đà Nẵng\",\n        \"wiki_pageid\": 1242196,\n        \"oldid\": 75493876,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_An_Khe/index.md\"\n      },\n      {\n        \"label\": \"Phường Hòa Xuân\",\n        \"titles\": [\n          \"Phường Hòa Xuân, Đà Nẵng\",\n          \"Phường Hòa Xuân, Thành phố Đà Nẵng\",\n          \"Hòa Xuân, Đà Nẵng\",\n          \"Phường Hòa Xuân\",\n          \"Hòa Xuân\",\n          \"Hòa Xuân\",\n          \"HòaXuân\",\n          \"Hòa Xuân (phường)\",\n          \"H òa Xu ân\",\n          \"H òa Xu ân (xã)\",\n          \"H òa Xu ân, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Hoa_Xuan\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20314\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Hoa_Xuan\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Hòa Xuân (phường)\",\n        \"wiki_pageid\": 1244555,\n        \"oldid\": 75501060,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Hoa_Xuan/index.md\"\n      },\n      {\n        \"label\": \"Phường Bàn Thạch\",\n        \"titles\": [\n          \"Phường Bàn Thạch, Đà Nẵng\",\n          \"Phường Bàn Thạch, Thành phố Đà Nẵng\",\n          \"Bàn Thạch, Đà Nẵng\",\n          \"Phường Bàn Thạch\",\n          \"Bàn Thạch\",\n          \"Bàn Thạch\",\n          \"BànThạch\",\n          \"Bàn Thạch (phường)\",\n          \"B àn Th ạch\",\n          \"B àn Th ạch (xã)\",\n          \"B àn Th ạch, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Ban_Thach\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20335\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Ban_Thach\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Bàn Thạch\",\n        \"wiki_pageid\": 19959733,\n        \"oldid\": 75377398,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Ban_Thach/index.md\"\n      },\n      {\n        \"label\": \"Phường Tam Kỳ\",\n        \"titles\": [\n          \"Phường Tam Kỳ, Đà Nẵng\",\n          \"Phường Tam Kỳ, Thành phố Đà Nẵng\",\n          \"Tam Kỳ, Đà Nẵng\",\n          \"Phường Tam Kỳ\",\n          \"Tam Kỳ\",\n          \"Tam Kỳ\",\n          \"TamKỳ\",\n          \"Tam Kỳ (phường)\",\n          \"Tam K ỳ\",\n          \"Tam K ỳ (xã)\",\n          \"Tam K ỳ, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Tam_Ky\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20341\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Tam_Ky\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Tam Kỳ (phường)\",\n        \"wiki_pageid\": 1242224,\n        \"oldid\": 75476824,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Tam_Ky/index.md\"\n      },\n      {\n        \"label\": \"Phường Hương Trà\",\n        \"titles\": [\n          \"Phường Hương Trà, Đà Nẵng\",\n          \"Phường Hương Trà, Thành phố Đà Nẵng\",\n          \"Hương Trà, Đà Nẵng\",\n          \"Phường Hương Trà\",\n          \"Hương Trà\",\n          \"Hương Trà\",\n          \"HươngTrà\",\n          \"Hương Trà (phường)\",\n          \"H ư ơng Tr à\",\n          \"H ư ơng Tr à (xã)\",\n          \"H ư ơng Tr à, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Huong_Tra\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20350\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Huong_Tra\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Hương Trà, Đà Nẵng\",\n        \"wiki_pageid\": 19959741,\n        \"oldid\": 75217981,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Huong_Tra/index.md\"\n      },\n      {\n        \"label\": \"Phường Quảng Phú\",\n        \"titles\": [\n          \"Phường Quảng Phú, Đà Nẵng\",\n          \"Phường Quảng Phú, Thành phố Đà Nẵng\",\n          \"Quảng Phú, Đà Nẵng\",\n          \"Phường Quảng Phú\",\n          \"Quảng Phú\",\n          \"Quảng Phú\",\n          \"QuảngPhú\",\n          \"Quảng Phú (phường)\",\n          \"Qu ảng Ph ú\",\n          \"Qu ảng Ph ú (xã)\",\n          \"Qu ảng Ph ú, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Quang_Phu\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20356\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Quang_Phu\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Quảng Phú, Đà Nẵng\",\n        \"wiki_pageid\": 1252460,\n        \"oldid\": 75474337,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Quang_Phu/index.md\"\n      },\n      {\n        \"label\": \"Phường Hội An Tây\",\n        \"titles\": [\n          \"Phường Hội An Tây, Đà Nẵng\",\n          \"Phường Hội An Tây, Thành phố Đà Nẵng\",\n          \"Hội An Tây, Đà Nẵng\",\n          \"Phường Hội An Tây\",\n          \"Hội An Tây\",\n          \"Hội An Tây\",\n          \"HộiAnTây\",\n          \"Hội An Tây (phường)\",\n          \"H ội An T ây\",\n          \"H ội An T ây (xã)\",\n          \"H ội An T ây, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Hoi_An_Tay\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20401\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Hoi_An_Tay\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Hội An Tây\",\n        \"wiki_pageid\": 1252496,\n        \"oldid\": 75345465,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Hoi_An_Tay/index.md\"\n      },\n      {\n        \"label\": \"Phường Hội An\",\n        \"titles\": [\n          \"Phường Hội An, Đà Nẵng\",\n          \"Phường Hội An, Thành phố Đà Nẵng\",\n          \"Hội An, Đà Nẵng\",\n          \"Phường Hội An\",\n          \"Hội An\",\n          \"Hội An\",\n          \"HộiAn\",\n          \"Hội An (phường)\",\n          \"H ội An\",\n          \"H ội An (xã)\",\n          \"H ội An, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Hoi_An\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20410\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Hoi_An\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Hội An (phường)\",\n        \"wiki_pageid\": 1252272,\n        \"oldid\": 75502952,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Hoi_An/index.md\"\n      },\n      {\n        \"label\": \"Phường Hội An Đông\",\n        \"titles\": [\n          \"Phường Hội An Đông, Đà Nẵng\",\n          \"Phường Hội An Đông, Thành phố Đà Nẵng\",\n          \"Hội An Đông, Đà Nẵng\",\n          \"Phường Hội An Đông\",\n          \"Hội An Đông\",\n          \"Hội An Đông\",\n          \"HộiAnĐông\",\n          \"Hội An Đông (phường)\",\n          \"H ội An Đ ông\",\n          \"H ội An Đ ông (xã)\",\n          \"H ội An Đ ông, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Hoi_An_Dong\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20413\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Hoi_An_Dong\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Hội An Đông\",\n        \"wiki_pageid\": 1242896,\n        \"oldid\": 75500402,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Hoi_An_Dong/index.md\"\n      },\n      {\n        \"label\": \"Phường Điện Bàn\",\n        \"titles\": [\n          \"Phường Điện Bàn, Đà Nẵng\",\n          \"Phường Điện Bàn, Thành phố Đà Nẵng\",\n          \"Điện Bàn, Đà Nẵng\",\n          \"Phường Điện Bàn\",\n          \"Điện Bàn\",\n          \"Điện Bàn\",\n          \"ĐiệnBàn\",\n          \"Điện Bàn (phường)\",\n          \"Đi ện B àn\",\n          \"Đi ện B àn (xã)\",\n          \"Đi ện B àn, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Dien_Ban\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20551\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Dien_Ban\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Điện Bàn (phường)\",\n        \"wiki_pageid\": 1254145,\n        \"oldid\": 75488113,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Dien_Ban/index.md\"\n      },\n      {\n        \"label\": \"Phường Điện Bàn Bắc\",\n        \"titles\": [\n          \"Phường Điện Bàn Bắc, Đà Nẵng\",\n          \"Phường Điện Bàn Bắc, Thành phố Đà Nẵng\",\n          \"Điện Bàn Bắc, Đà Nẵng\",\n          \"Phường Điện Bàn Bắc\",\n          \"Điện Bàn Bắc\",\n          \"Điện Bàn Bắc\",\n          \"ĐiệnBànBắc\",\n          \"Điện Bàn Bắc (phường)\",\n          \"Đi ện B àn B ắc\",\n          \"Đi ện B àn B ắc (xã)\",\n          \"Đi ện B àn B ắc, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Dien_Ban_Bac\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20557\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Dien_Ban_Bac\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Điện Bàn Bắc\",\n        \"wiki_pageid\": 1243505,\n        \"oldid\": 75474378,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Dien_Ban_Bac/index.md\"\n      },\n      {\n        \"label\": \"Phường An Thắng\",\n        \"titles\": [\n          \"Phường An Thắng, Đà Nẵng\",\n          \"Phường An Thắng, Thành phố Đà Nẵng\",\n          \"An Thắng, Đà Nẵng\",\n          \"Phường An Thắng\",\n          \"An Thắng\",\n          \"An Thắng\",\n          \"AnThắng\",\n          \"An Thắng (phường)\",\n          \"An Th ắng\",\n          \"An Th ắng (xã)\",\n          \"An Th ắng, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_An_Thang\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20575\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_An_Thang\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"An Thắng\",\n        \"wiki_pageid\": 1243486,\n        \"oldid\": 75504790,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_An_Thang/index.md\"\n      },\n      {\n        \"label\": \"Phường Điện Bàn Đông\",\n        \"titles\": [\n          \"Phường Điện Bàn Đông, Đà Nẵng\",\n          \"Phường Điện Bàn Đông, Thành phố Đà Nẵng\",\n          \"Điện Bàn Đông, Đà Nẵng\",\n          \"Phường Điện Bàn Đông\",\n          \"Điện Bàn Đông\",\n          \"Điện Bàn Đông\",\n          \"ĐiệnBànĐông\",\n          \"Điện Bàn Đông (phường)\",\n          \"Đi ện B àn Đ ông\",\n          \"Đi ện B àn Đ ông (xã)\",\n          \"Đi ện B àn Đ ông, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Dien_Ban_Dong\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20579\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Dien_Ban_Dong\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Điện Bàn Đông\",\n        \"wiki_pageid\": 1243528,\n        \"oldid\": 75474363,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Dien_Ban_Dong/index.md\"\n      },\n      {\n        \"label\": \"Xã Bà Nà\",\n        \"titles\": [\n          \"Xã Bà Nà, Đà Nẵng\",\n          \"Xã Bà Nà, Thành phố Đà Nẵng\",\n          \"Bà Nà, Đà Nẵng\",\n          \"Xã Bà Nà\",\n          \"Bà Nà\",\n          \"Bà Nà\",\n          \"BàNà\",\n          \"Bà Nà (xã)\",\n          \"B à N à\",\n          \"B à N à (xã)\",\n          \"B à N à, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Ba_Na\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20308\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Ba_Na\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Bà Nà (xã)\",\n        \"wiki_pageid\": 1244482,\n        \"oldid\": 75496782,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Ba_Na/index.md\"\n      },\n      {\n        \"label\": \"Xã Hòa Vang\",\n        \"titles\": [\n          \"Xã Hòa Vang, Đà Nẵng\",\n          \"Xã Hòa Vang, Thành phố Đà Nẵng\",\n          \"Hòa Vang, Đà Nẵng\",\n          \"Xã Hòa Vang\",\n          \"Hòa Vang\",\n          \"Hòa Vang\",\n          \"HòaVang\",\n          \"Hòa Vang (xã)\",\n          \"H òa Vang\",\n          \"H òa Vang (xã)\",\n          \"H òa Vang, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Hoa_Vang\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20320\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Hoa_Vang\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Hòa Vang (xã)\",\n        \"wiki_pageid\": 1244487,\n        \"oldid\": 75462127,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Hoa_Vang/index.md\"\n      },\n      {\n        \"label\": \"Xã Hòa Tiến\",\n        \"titles\": [\n          \"Xã Hòa Tiến, Đà Nẵng\",\n          \"Xã Hòa Tiến, Thành phố Đà Nẵng\",\n          \"Hòa Tiến, Đà Nẵng\",\n          \"Xã Hòa Tiến\",\n          \"Hòa Tiến\",\n          \"Hòa Tiến\",\n          \"HòaTiến\",\n          \"Hòa Tiến (xã)\",\n          \"H òa Ti ến\",\n          \"H òa Ti ến (xã)\",\n          \"H òa Ti ến, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Hoa_Tien\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20332\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Hoa_Tien\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Hòa Tiến\",\n        \"wiki_pageid\": 1244540,\n        \"oldid\": 75496529,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Hoa_Tien/index.md\"\n      },\n      {\n        \"label\": \"Xã Tây Hồ\",\n        \"titles\": [\n          \"Xã Tây Hồ, Đà Nẵng\",\n          \"Xã Tây Hồ, Thành phố Đà Nẵng\",\n          \"Tây Hồ, Đà Nẵng\",\n          \"Xã Tây Hồ\",\n          \"Tây Hồ\",\n          \"Tây Hồ\",\n          \"TâyHồ\",\n          \"Tây Hồ (xã)\",\n          \"T ây H ồ\",\n          \"T ây H ồ (xã)\",\n          \"T ây H ồ, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Tay_Ho\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20380\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Tay_Ho\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Tây Hồ (xã)\",\n        \"wiki_pageid\": 1252463,\n        \"oldid\": 75219004,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Tay_Ho/index.md\"\n      },\n      {\n        \"label\": \"Xã Phú Ninh\",\n        \"titles\": [\n          \"Xã Phú Ninh, Đà Nẵng\",\n          \"Xã Phú Ninh, Thành phố Đà Nẵng\",\n          \"Phú Ninh, Đà Nẵng\",\n          \"Xã Phú Ninh\",\n          \"Phú Ninh\",\n          \"Phú Ninh\",\n          \"PhúNinh\",\n          \"Phú Ninh (xã)\",\n          \"Ph ú Ninh\",\n          \"Ph ú Ninh (xã)\",\n          \"Ph ú Ninh, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Phu_Ninh\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20392\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Phu_Ninh\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Phú Ninh (xã)\",\n        \"wiki_pageid\": 1252425,\n        \"oldid\": 75218904,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Phu_Ninh/index.md\"\n      },\n      {\n        \"label\": \"Xã Tân Hiệp\",\n        \"titles\": [\n          \"Xã Tân Hiệp, Đà Nẵng\",\n          \"Xã Tân Hiệp, Thành phố Đà Nẵng\",\n          \"Tân Hiệp, Đà Nẵng\",\n          \"Xã Tân Hiệp\",\n          \"Tân Hiệp\",\n          \"Tân Hiệp\",\n          \"TânHiệp\",\n          \"Tân Hiệp (xã)\",\n          \"T ân Hi ệp\",\n          \"T ân Hi ệp (xã)\",\n          \"T ân Hi ệp, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Tan_Hiep\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20434\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Tan_Hiep\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Tân Hiệp, Đà Nẵng\",\n        \"wiki_pageid\": 824924,\n        \"oldid\": 75488320,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Tan_Hiep/index.md\"\n      },\n      {\n        \"label\": \"Xã Hùng Sơn\",\n        \"titles\": [\n          \"Xã Hùng Sơn, Đà Nẵng\",\n          \"Xã Hùng Sơn, Thành phố Đà Nẵng\",\n          \"Hùng Sơn, Đà Nẵng\",\n          \"Xã Hùng Sơn\",\n          \"Hùng Sơn\",\n          \"Hùng Sơn\",\n          \"HùngSơn\",\n          \"Hùng Sơn (xã)\",\n          \"H ùng S ơn\",\n          \"H ùng S ơn (xã)\",\n          \"H ùng S ơn, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Hung_Son\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20443\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Hung_Son\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Hùng Sơn\",\n        \"wiki_pageid\": 1242098,\n        \"oldid\": 75443063,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Hung_Son/index.md\"\n      },\n      {\n        \"label\": \"Xã Tây Giang\",\n        \"titles\": [\n          \"Xã Tây Giang, Đà Nẵng\",\n          \"Xã Tây Giang, Thành phố Đà Nẵng\",\n          \"Tây Giang, Đà Nẵng\",\n          \"Xã Tây Giang\",\n          \"Tây Giang\",\n          \"Tây Giang\",\n          \"TâyGiang\",\n          \"Tây Giang (xã)\",\n          \"T ây Giang\",\n          \"T ây Giang (xã)\",\n          \"T ây Giang, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Tay_Giang\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20455\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Tay_Giang\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Tây Giang (xã)\",\n        \"wiki_pageid\": 1242093,\n        \"oldid\": 75191670,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Tay_Giang/index.md\"\n      },\n      {\n        \"label\": \"Xã A vương\",\n        \"titles\": [\n          \"Xã A vương, Đà Nẵng\",\n          \"Xã A vương, Thành phố Đà Nẵng\",\n          \"A vương, Đà Nẵng\",\n          \"Xã A vương\",\n          \"A vương\",\n          \"A Vương\",\n          \"Avương\",\n          \"A vương (xã)\",\n          \"A v ư ơng\",\n          \"A v ư ơng (xã)\",\n          \"A v ư ơng, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_A_Vuong\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20458\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_A_Vuong\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Avương\",\n        \"wiki_pageid\": 1242097,\n        \"oldid\": 75230225,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_A_Vuong/index.md\"\n      },\n      {\n        \"label\": \"Xã Đông Giang\",\n        \"titles\": [\n          \"Xã Đông Giang, Đà Nẵng\",\n          \"Xã Đông Giang, Thành phố Đà Nẵng\",\n          \"Đông Giang, Đà Nẵng\",\n          \"Xã Đông Giang\",\n          \"Đông Giang\",\n          \"Đông Giang\",\n          \"ĐôngGiang\",\n          \"Đông Giang (xã)\",\n          \"Đ ông Giang\",\n          \"Đ ông Giang (xã)\",\n          \"Đ ông Giang, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Dong_Giang\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20467\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Dong_Giang\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Đông Giang, Đà Nẵng\",\n        \"wiki_pageid\": 1251370,\n        \"oldid\": 75227902,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Dong_Giang/index.md\"\n      },\n      {\n        \"label\": \"Xã Sông Kôn\",\n        \"titles\": [\n          \"Xã Sông Kôn, Đà Nẵng\",\n          \"Xã Sông Kôn, Thành phố Đà Nẵng\",\n          \"Sông Kôn, Đà Nẵng\",\n          \"Xã Sông Kôn\",\n          \"Sông Kôn\",\n          \"Sông Kôn\",\n          \"SôngKôn\",\n          \"Sông Kôn (xã)\",\n          \"S ông K ôn\",\n          \"S ông K ôn (xã)\",\n          \"S ông K ôn, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Song_Kon\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20476\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Song_Kon\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Sông Kôn (xã)\",\n        \"wiki_pageid\": 1252326,\n        \"oldid\": 75191664,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Song_Kon/index.md\"\n      },\n      {\n        \"label\": \"Xã Sông Vàng\",\n        \"titles\": [\n          \"Xã Sông Vàng, Đà Nẵng\",\n          \"Xã Sông Vàng, Thành phố Đà Nẵng\",\n          \"Sông Vàng, Đà Nẵng\",\n          \"Xã Sông Vàng\",\n          \"Sông Vàng\",\n          \"Sông Vàng\",\n          \"SôngVàng\",\n          \"Sông Vàng (xã)\",\n          \"S ông V àng\",\n          \"S ông V àng (xã)\",\n          \"S ông V àng, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Song_Vang\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20485\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Song_Vang\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Sông Vàng (xã)\",\n        \"wiki_pageid\": 1242336,\n        \"oldid\": 75191662,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Song_Vang/index.md\"\n      },\n      {\n        \"label\": \"Xã Bến Hiên\",\n        \"titles\": [\n          \"Xã Bến Hiên, Đà Nẵng\",\n          \"Xã Bến Hiên, Thành phố Đà Nẵng\",\n          \"Bến Hiên, Đà Nẵng\",\n          \"Xã Bến Hiên\",\n          \"Bến Hiên\",\n          \"Bến Hiên\",\n          \"BếnHiên\",\n          \"Bến Hiên (xã)\",\n          \"B ến Hi ên\",\n          \"B ến Hi ên (xã)\",\n          \"B ến Hi ên, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Ben_Hien\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20494\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Ben_Hien\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Bến Hiên\",\n        \"wiki_pageid\": 1250462,\n        \"oldid\": 75464401,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Ben_Hien/index.md\"\n      },\n      {\n        \"label\": \"Xã Đại Lộc\",\n        \"titles\": [\n          \"Xã Đại Lộc, Đà Nẵng\",\n          \"Xã Đại Lộc, Thành phố Đà Nẵng\",\n          \"Đại Lộc, Đà Nẵng\",\n          \"Xã Đại Lộc\",\n          \"Đại Lộc\",\n          \"Đại Lộc\",\n          \"ĐạiLộc\",\n          \"Đại Lộc (xã)\",\n          \"Đ ại L ộc\",\n          \"Đ ại L ộc (xã)\",\n          \"Đ ại L ộc, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Dai_Loc\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20500\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Dai_Loc\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Đại Lộc (xã)\",\n        \"wiki_pageid\": 229215,\n        \"oldid\": 75474347,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Dai_Loc/index.md\"\n      },\n      {\n        \"label\": \"Xã Thượng Đức\",\n        \"titles\": [\n          \"Xã Thượng Đức, Đà Nẵng\",\n          \"Xã Thượng Đức, Thành phố Đà Nẵng\",\n          \"Thượng Đức, Đà Nẵng\",\n          \"Xã Thượng Đức\",\n          \"Thượng Đức\",\n          \"Thượng Đức\",\n          \"ThượngĐức\",\n          \"Thượng Đức (xã)\",\n          \"Th ư ợng Đ ức\",\n          \"Th ư ợng Đ ức (xã)\",\n          \"Th ư ợng Đ ức, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Thuong_Duc\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20506\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Thuong_Duc\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Thượng Đức, Đà Nẵng\",\n        \"wiki_pageid\": 1262791,\n        \"oldid\": 75472445,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Thuong_Duc/index.md\"\n      },\n      {\n        \"label\": \"Xã Hà Nha\",\n        \"titles\": [\n          \"Xã Hà Nha, Đà Nẵng\",\n          \"Xã Hà Nha, Thành phố Đà Nẵng\",\n          \"Hà Nha, Đà Nẵng\",\n          \"Xã Hà Nha\",\n          \"Hà Nha\",\n          \"Hà Nha\",\n          \"HàNha\",\n          \"Hà Nha (xã)\",\n          \"H à Nha\",\n          \"H à Nha (xã)\",\n          \"H à Nha, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Ha_Nha\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20515\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Ha_Nha\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Hà Nha\",\n        \"wiki_pageid\": 115181,\n        \"oldid\": 75366591,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Ha_Nha/index.md\"\n      },\n      {\n        \"label\": \"Xã Vu Gia\",\n        \"titles\": [\n          \"Xã Vu Gia, Đà Nẵng\",\n          \"Xã Vu Gia, Thành phố Đà Nẵng\",\n          \"Vu Gia, Đà Nẵng\",\n          \"Xã Vu Gia\",\n          \"Vu Gia\",\n          \"Vu Gia\",\n          \"VuGia\",\n          \"Vu Gia (xã)\"\n        ],\n        \"slug\": \"Xa_Vu_Gia\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20539\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Vu_Gia\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Vu Gia\",\n        \"wiki_pageid\": 1262795,\n        \"oldid\": 75505021,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Vu_Gia/index.md\"\n      },\n      {\n        \"label\": \"Xã Phú Thuận\",\n        \"titles\": [\n          \"Xã Phú Thuận, Đà Nẵng\",\n          \"Xã Phú Thuận, Thành phố Đà Nẵng\",\n          \"Phú Thuận, Đà Nẵng\",\n          \"Xã Phú Thuận\",\n          \"Phú Thuận\",\n          \"Phú Thuận\",\n          \"PhúThuận\",\n          \"Phú Thuận (xã)\",\n          \"Ph ú Thu ận\",\n          \"Ph ú Thu ận (xã)\",\n          \"Ph ú Thu ận, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Phu_Thuan\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20542\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Phu_Thuan\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Phú Thuận, Đà Nẵng\",\n        \"wiki_pageid\": 1262818,\n        \"oldid\": 75496770,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Phu_Thuan/index.md\"\n      },\n      {\n        \"label\": \"Xã Điện Bàn Tây\",\n        \"titles\": [\n          \"Xã Điện Bàn Tây, Đà Nẵng\",\n          \"Xã Điện Bàn Tây, Thành phố Đà Nẵng\",\n          \"Điện Bàn Tây, Đà Nẵng\",\n          \"Xã Điện Bàn Tây\",\n          \"Điện Bàn Tây\",\n          \"Điện Bàn Tây\",\n          \"ĐiệnBànTây\",\n          \"Điện Bàn Tây (xã)\",\n          \"Đi ện B àn T ây\",\n          \"Đi ện B àn T ây (xã)\",\n          \"Đi ện B àn T ây, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Dien_Ban_Tay\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20569\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Dien_Ban_Tay\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Điện Bàn Tây\",\n        \"wiki_pageid\": 1243554,\n        \"oldid\": 75505064,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Dien_Ban_Tay/index.md\"\n      },\n      {\n        \"label\": \"Xã Gò Nổi\",\n        \"titles\": [\n          \"Xã Gò Nổi, Đà Nẵng\",\n          \"Xã Gò Nổi, Thành phố Đà Nẵng\",\n          \"Gò Nổi, Đà Nẵng\",\n          \"Xã Gò Nổi\",\n          \"Gò Nổi\",\n          \"Gò Nổi\",\n          \"GòNổi\",\n          \"Gò Nổi (xã)\",\n          \"G ò N ổi\",\n          \"G ò N ổi (xã)\",\n          \"G ò N ổi, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Go_Noi\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20587\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Go_Noi\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Gò Nổi\",\n        \"wiki_pageid\": 1243558,\n        \"oldid\": 75496714,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Go_Noi/index.md\"\n      },\n      {\n        \"label\": \"Xã Nam Phước\",\n        \"titles\": [\n          \"Xã Nam Phước, Đà Nẵng\",\n          \"Xã Nam Phước, Thành phố Đà Nẵng\",\n          \"Nam Phước, Đà Nẵng\",\n          \"Xã Nam Phước\",\n          \"Nam Phước\",\n          \"Nam Phước\",\n          \"NamPhước\",\n          \"Nam Phước (xã)\",\n          \"Nam Ph ư ớc\",\n          \"Nam Ph ư ớc (xã)\",\n          \"Nam Ph ư ớc, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Nam_Phuoc\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20599\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Nam_Phuoc\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Nam Phước\",\n        \"wiki_pageid\": 1250912,\n        \"oldid\": 75474276,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Nam_Phuoc/index.md\"\n      },\n      {\n        \"label\": \"Xã Thu Bồn\",\n        \"titles\": [\n          \"Xã Thu Bồn, Đà Nẵng\",\n          \"Xã Thu Bồn, Thành phố Đà Nẵng\",\n          \"Thu Bồn, Đà Nẵng\",\n          \"Xã Thu Bồn\",\n          \"Thu Bồn\",\n          \"Thu Bồn\",\n          \"ThuBồn\",\n          \"Thu Bồn (xã)\",\n          \"Thu B ồn\",\n          \"Thu B ồn (xã)\",\n          \"Thu B ồn, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Thu_Bon\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20611\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Thu_Bon\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Thu Bồn (xã)\",\n        \"wiki_pageid\": 1243937,\n        \"oldid\": 75500434,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Thu_Bon/index.md\"\n      },\n      {\n        \"label\": \"Xã Duy Xuyên\",\n        \"titles\": [\n          \"Xã Duy Xuyên, Đà Nẵng\",\n          \"Xã Duy Xuyên, Thành phố Đà Nẵng\",\n          \"Duy Xuyên, Đà Nẵng\",\n          \"Xã Duy Xuyên\",\n          \"Duy Xuyên\",\n          \"Duy Xuyên\",\n          \"DuyXuyên\",\n          \"Duy Xuyên (xã)\",\n          \"Duy Xuy ên\",\n          \"Duy Xuy ên (xã)\",\n          \"Duy Xuy ên, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Duy_Xuyen\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20623\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Duy_Xuyen\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Duy Xuyên (xã)\",\n        \"wiki_pageid\": 1243951,\n        \"oldid\": 75504986,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Duy_Xuyen/index.md\"\n      },\n      {\n        \"label\": \"Xã Duy Nghĩa\",\n        \"titles\": [\n          \"Xã Duy Nghĩa, Đà Nẵng\",\n          \"Xã Duy Nghĩa, Thành phố Đà Nẵng\",\n          \"Duy Nghĩa, Đà Nẵng\",\n          \"Xã Duy Nghĩa\",\n          \"Duy Nghĩa\",\n          \"Duy Nghĩa\",\n          \"DuyNghĩa\",\n          \"Duy Nghĩa (xã)\",\n          \"Duy Ngh ĩa\",\n          \"Duy Ngh ĩa (xã)\",\n          \"Duy Ngh ĩa, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Duy_Nghia\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20635\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Duy_Nghia\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Duy Nghĩa\",\n        \"wiki_pageid\": 86712,\n        \"oldid\": 75192304,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Duy_Nghia/index.md\"\n      },\n      {\n        \"label\": \"Xã Quế Sơn\",\n        \"titles\": [\n          \"Xã Quế Sơn, Đà Nẵng\",\n          \"Xã Quế Sơn, Thành phố Đà Nẵng\",\n          \"Quế Sơn, Đà Nẵng\",\n          \"Xã Quế Sơn\",\n          \"Quế Sơn\",\n          \"Quế Sơn\",\n          \"QuếSơn\",\n          \"Quế Sơn (xã)\",\n          \"Qu ế S ơn\",\n          \"Qu ế S ơn (xã)\",\n          \"Qu ế S ơn, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Que_Son\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20641\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Que_Son\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Quế Sơn (xã)\",\n        \"wiki_pageid\": 1243731,\n        \"oldid\": 75437731,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Que_Son/index.md\"\n      },\n      {\n        \"label\": \"Xã Xuân Phú\",\n        \"titles\": [\n          \"Xã Xuân Phú, Đà Nẵng\",\n          \"Xã Xuân Phú, Thành phố Đà Nẵng\",\n          \"Xuân Phú, Đà Nẵng\",\n          \"Xã Xuân Phú\",\n          \"Xuân Phú\",\n          \"Xuân Phú\",\n          \"XuânPhú\",\n          \"Xuân Phú (xã)\",\n          \"Xu ân Ph ú\",\n          \"Xu ân Ph ú (xã)\",\n          \"Xu ân Ph ú, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Xuan_Phu\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20650\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Xuan_Phu\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Xuân Phú, Đà Nẵng\",\n        \"wiki_pageid\": 1252049,\n        \"oldid\": 75500397,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Xuan_Phu/index.md\"\n      },\n      {\n        \"label\": \"Xã Nông Sơn\",\n        \"titles\": [\n          \"Xã Nông Sơn, Đà Nẵng\",\n          \"Xã Nông Sơn, Thành phố Đà Nẵng\",\n          \"Nông Sơn, Đà Nẵng\",\n          \"Xã Nông Sơn\",\n          \"Nông Sơn\",\n          \"Nông Sơn\",\n          \"NôngSơn\",\n          \"Nông Sơn (xã)\",\n          \"N ông S ơn\",\n          \"N ông S ơn (xã)\",\n          \"N ông S ơn, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Nong_Son\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20656\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Nong_Son\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Nông Sơn (xã)\",\n        \"wiki_pageid\": 1262693,\n        \"oldid\": 75499146,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Nong_Son/index.md\"\n      },\n      {\n        \"label\": \"Xã Quế Sơn Trung\",\n        \"titles\": [\n          \"Xã Quế Sơn Trung, Đà Nẵng\",\n          \"Xã Quế Sơn Trung, Thành phố Đà Nẵng\",\n          \"Quế Sơn Trung, Đà Nẵng\",\n          \"Xã Quế Sơn Trung\",\n          \"Quế Sơn Trung\",\n          \"Quế Sơn Trung\",\n          \"QuếSơnTrung\",\n          \"Quế Sơn Trung (xã)\",\n          \"Qu ế S ơn Trung\",\n          \"Qu ế S ơn Trung (xã)\",\n          \"Qu ế S ơn Trung, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Que_Son_Trung\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20662\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Que_Son_Trung\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Quế Sơn Trung\",\n        \"wiki_pageid\": 1252055,\n        \"oldid\": 75505000,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Que_Son_Trung/index.md\"\n      },\n      {\n        \"label\": \"Xã Quế Phước\",\n        \"titles\": [\n          \"Xã Quế Phước, Đà Nẵng\",\n          \"Xã Quế Phước, Thành phố Đà Nẵng\",\n          \"Quế Phước, Đà Nẵng\",\n          \"Xã Quế Phước\",\n          \"Quế Phước\",\n          \"Quế Phước\",\n          \"QuếPhước\",\n          \"Quế Phước (xã)\",\n          \"Qu ế Ph ư ớc\",\n          \"Qu ế Ph ư ớc (xã)\",\n          \"Qu ế Ph ư ớc, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Que_Phuoc\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20669\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Que_Phuoc\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Quế Phước\",\n        \"wiki_pageid\": 1252050,\n        \"oldid\": 75437728,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Que_Phuoc/index.md\"\n      },\n      {\n        \"label\": \"Xã Thạnh Mỹ\",\n        \"titles\": [\n          \"Xã Thạnh Mỹ, Đà Nẵng\",\n          \"Xã Thạnh Mỹ, Thành phố Đà Nẵng\",\n          \"Thạnh Mỹ, Đà Nẵng\",\n          \"Xã Thạnh Mỹ\",\n          \"Thạnh Mỹ\",\n          \"Thạnh Mỹ\",\n          \"ThạnhMỹ\",\n          \"Thạnh Mỹ (xã)\",\n          \"Th ạnh Mỹ\",\n          \"Th ạnh Mỹ (xã)\",\n          \"Th ạnh Mỹ, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Thanh_My\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20695\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Thanh_My\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Thạnh Mỹ\",\n        \"wiki_pageid\": 1253131,\n        \"oldid\": 75191659,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Thanh_My/index.md\"\n      },\n      {\n        \"label\": \"Xã La Dêê\",\n        \"titles\": [\n          \"Xã La Dêê, Đà Nẵng\",\n          \"Xã La Dêê, Thành phố Đà Nẵng\",\n          \"La Dêê, Đà Nẵng\",\n          \"Xã La Dêê\",\n          \"La Dêê\",\n          \"La Dêê\",\n          \"LaDêê\",\n          \"La Dêê (xã)\",\n          \"La D ê ê\",\n          \"La D ê ê (xã)\",\n          \"La D ê ê, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_La_Dee\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20704\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_La_Dee\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"La Dêê\",\n        \"wiki_pageid\": 1249994,\n        \"oldid\": 75191651,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_La_Dee/index.md\"\n      },\n      {\n        \"label\": \"Xã Nam Giang\",\n        \"titles\": [\n          \"Xã Nam Giang, Đà Nẵng\",\n          \"Xã Nam Giang, Thành phố Đà Nẵng\",\n          \"Nam Giang, Đà Nẵng\",\n          \"Xã Nam Giang\",\n          \"Nam Giang\",\n          \"Nam Giang\",\n          \"NamGiang\",\n          \"Nam Giang (xã)\"\n        ],\n        \"slug\": \"Xa_Nam_Giang\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20707\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Nam_Giang\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Nam Giang (xã)\",\n        \"wiki_pageid\": 1243078,\n        \"oldid\": 75211668,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Nam_Giang/index.md\"\n      },\n      {\n        \"label\": \"Xã Bến Giằng\",\n        \"titles\": [\n          \"Xã Bến Giằng, Đà Nẵng\",\n          \"Xã Bến Giằng, Thành phố Đà Nẵng\",\n          \"Bến Giằng, Đà Nẵng\",\n          \"Xã Bến Giằng\",\n          \"Bến Giằng\",\n          \"Bến Giằng\",\n          \"BếnGiằng\",\n          \"Bến Giằng (xã)\",\n          \"B ến Gi ằng\",\n          \"B ến Gi ằng (xã)\",\n          \"B ến Gi ằng, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Ben_Giang\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20710\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Ben_Giang\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Bến Giằng\",\n        \"wiki_pageid\": 1242874,\n        \"oldid\": 75191639,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Ben_Giang/index.md\"\n      },\n      {\n        \"label\": \"Xã Đắc Pring\",\n        \"titles\": [\n          \"Xã Đắc Pring, Đà Nẵng\",\n          \"Xã Đắc Pring, Thành phố Đà Nẵng\",\n          \"Đắc Pring, Đà Nẵng\",\n          \"Xã Đắc Pring\",\n          \"Đắc Pring\",\n          \"Đắc Pring\",\n          \"ĐắcPring\",\n          \"Đắc Pring (xã)\",\n          \"Đ ắc Pring\",\n          \"Đ ắc Pring (xã)\",\n          \"Đ ắc Pring, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Dac_Pring\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20716\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Dac_Pring\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Đắc Pring\",\n        \"wiki_pageid\": 1262755,\n        \"oldid\": 75482858,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Dac_Pring/index.md\"\n      },\n      {\n        \"label\": \"Xã Khâm Đức\",\n        \"titles\": [\n          \"Xã Khâm Đức, Đà Nẵng\",\n          \"Xã Khâm Đức, Thành phố Đà Nẵng\",\n          \"Khâm Đức, Đà Nẵng\",\n          \"Xã Khâm Đức\",\n          \"Khâm Đức\",\n          \"Khâm Đức\",\n          \"KhâmĐức\",\n          \"Khâm Đức (xã)\",\n          \"Kh âm Đ ức\",\n          \"Kh âm Đ ức (xã)\",\n          \"Kh âm Đ ức, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Kham_Duc\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20722\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Kham_Duc\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Khâm Đức\",\n        \"wiki_pageid\": 1262691,\n        \"oldid\": 75192036,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Kham_Duc/index.md\"\n      },\n      {\n        \"label\": \"Xã Phước Hiệp\",\n        \"titles\": [\n          \"Xã Phước Hiệp, Đà Nẵng\",\n          \"Xã Phước Hiệp, Thành phố Đà Nẵng\",\n          \"Phước Hiệp, Đà Nẵng\",\n          \"Xã Phước Hiệp\",\n          \"Phước Hiệp\",\n          \"Phước Hiệp\",\n          \"PhướcHiệp\",\n          \"Phước Hiệp (xã)\",\n          \"Ph ư ớc Hi ệp\",\n          \"Ph ư ớc Hi ệp (xã)\",\n          \"Ph ư ớc Hi ệp, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Phuoc_Hiep\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20728\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Phuoc_Hiep\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Phước Hiệp\",\n        \"wiki_pageid\": 1251780,\n        \"oldid\": 75191982,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Phuoc_Hiep/index.md\"\n      },\n      {\n        \"label\": \"Xã Phước Năng\",\n        \"titles\": [\n          \"Xã Phước Năng, Đà Nẵng\",\n          \"Xã Phước Năng, Thành phố Đà Nẵng\",\n          \"Phước Năng, Đà Nẵng\",\n          \"Xã Phước Năng\",\n          \"Phước Năng\",\n          \"Phước Năng\",\n          \"PhướcNăng\",\n          \"Phước Năng (xã)\",\n          \"Ph ư ớc N ăng\",\n          \"Ph ư ớc N ăng (xã)\",\n          \"Ph ư ớc N ăng, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Phuoc_Nang\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20734\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Phuoc_Nang\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Phước Năng\",\n        \"wiki_pageid\": 1251812,\n        \"oldid\": 75192039,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Phuoc_Nang/index.md\"\n      },\n      {\n        \"label\": \"Xã Phước Chánh\",\n        \"titles\": [\n          \"Xã Phước Chánh, Đà Nẵng\",\n          \"Xã Phước Chánh, Thành phố Đà Nẵng\",\n          \"Phước Chánh, Đà Nẵng\",\n          \"Xã Phước Chánh\",\n          \"Phước Chánh\",\n          \"Phước Chánh\",\n          \"PhướcChánh\",\n          \"Phước Chánh (xã)\",\n          \"Ph ư ớc Ch ánh\",\n          \"Ph ư ớc Ch ánh (xã)\",\n          \"Ph ư ớc Ch ánh, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Phuoc_Chanh\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20740\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Phuoc_Chanh\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Phước Chánh\",\n        \"wiki_pageid\": 1251762,\n        \"oldid\": 75191775,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Phuoc_Chanh/index.md\"\n      },\n      {\n        \"label\": \"Xã Phước Thành\",\n        \"titles\": [\n          \"Xã Phước Thành, Đà Nẵng\",\n          \"Xã Phước Thành, Thành phố Đà Nẵng\",\n          \"Phước Thành, Đà Nẵng\",\n          \"Xã Phước Thành\",\n          \"Phước Thành\",\n          \"Phước Thành\",\n          \"PhướcThành\",\n          \"Phước Thành (xã)\",\n          \"Ph ư ớc Th ành\",\n          \"Ph ư ớc Th ành (xã)\",\n          \"Ph ư ớc Th ành, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Phuoc_Thanh\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20752\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Phuoc_Thanh\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Phước Thành, Đà Nẵng\",\n        \"wiki_pageid\": 1251830,\n        \"oldid\": 75191886,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Phuoc_Thanh/index.md\"\n      },\n      {\n        \"label\": \"Xã Việt An\",\n        \"titles\": [\n          \"Xã Việt An, Đà Nẵng\",\n          \"Xã Việt An, Thành phố Đà Nẵng\",\n          \"Việt An, Đà Nẵng\",\n          \"Xã Việt An\",\n          \"Việt An\",\n          \"Việt An\",\n          \"ViệtAn\",\n          \"Việt An (xã)\",\n          \"Vi ệt An\",\n          \"Vi ệt An (xã)\",\n          \"Vi ệt An, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Viet_An\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20767\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Viet_An\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Việt An\",\n        \"wiki_pageid\": 1242740,\n        \"oldid\": 75233006,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Viet_An/index.md\"\n      },\n      {\n        \"label\": \"Xã Phước Trà\",\n        \"titles\": [\n          \"Xã Phước Trà, Đà Nẵng\",\n          \"Xã Phước Trà, Thành phố Đà Nẵng\",\n          \"Phước Trà, Đà Nẵng\",\n          \"Xã Phước Trà\",\n          \"Phước Trà\",\n          \"Phước Trà\",\n          \"PhướcTrà\",\n          \"Phước Trà (xã)\",\n          \"Ph ư ớc Tr à\",\n          \"Ph ư ớc Tr à (xã)\",\n          \"Ph ư ớc Tr à, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Phuoc_Tra\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20770\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Phuoc_Tra\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Phước Trà\",\n        \"wiki_pageid\": 1251840,\n        \"oldid\": 75232958,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Phuoc_Tra/index.md\"\n      },\n      {\n        \"label\": \"Xã Hiệp Đức\",\n        \"titles\": [\n          \"Xã Hiệp Đức, Đà Nẵng\",\n          \"Xã Hiệp Đức, Thành phố Đà Nẵng\",\n          \"Hiệp Đức, Đà Nẵng\",\n          \"Xã Hiệp Đức\",\n          \"Hiệp Đức\",\n          \"Hiệp Đức\",\n          \"HiệpĐức\",\n          \"Hiệp Đức (xã)\",\n          \"Hi ệp Đ ức\",\n          \"Hi ệp Đ ức (xã)\",\n          \"Hi ệp Đ ức, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Hiep_Duc\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20779\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Hiep_Duc\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Hiệp Đức, Đà Nẵng\",\n        \"wiki_pageid\": 1252495,\n        \"oldid\": 75336203,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Hiep_Duc/index.md\"\n      },\n      {\n        \"label\": \"Xã Thăng Bình\",\n        \"titles\": [\n          \"Xã Thăng Bình, Đà Nẵng\",\n          \"Xã Thăng Bình, Thành phố Đà Nẵng\",\n          \"Thăng Bình, Đà Nẵng\",\n          \"Xã Thăng Bình\",\n          \"Thăng Bình\",\n          \"Thăng Bình\",\n          \"ThăngBình\",\n          \"Thăng Bình (xã)\",\n          \"Th ăng B ình\",\n          \"Th ăng B ình (xã)\",\n          \"Th ăng B ình, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Thang_Binh\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20791\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Thang_Binh\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Thăng Bình, Đà Nẵng\",\n        \"wiki_pageid\": 1244155,\n        \"oldid\": 75312281,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Thang_Binh/index.md\"\n      },\n      {\n        \"label\": \"Xã Thăng An\",\n        \"titles\": [\n          \"Xã Thăng An, Đà Nẵng\",\n          \"Xã Thăng An, Thành phố Đà Nẵng\",\n          \"Thăng An, Đà Nẵng\",\n          \"Xã Thăng An\",\n          \"Thăng An\",\n          \"Thăng An\",\n          \"ThăngAn\",\n          \"Thăng An (xã)\",\n          \"Th ăng An\",\n          \"Th ăng An (xã)\",\n          \"Th ăng An, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Thang_An\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20794\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Thang_An\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Thăng An\",\n        \"wiki_pageid\": 1242707,\n        \"oldid\": 75454042,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Thang_An/index.md\"\n      },\n      {\n        \"label\": \"Xã Đồng Dương\",\n        \"titles\": [\n          \"Xã Đồng Dương, Đà Nẵng\",\n          \"Xã Đồng Dương, Thành phố Đà Nẵng\",\n          \"Đồng Dương, Đà Nẵng\",\n          \"Xã Đồng Dương\",\n          \"Đồng Dương\",\n          \"Đồng Dương\",\n          \"ĐồngDương\",\n          \"Đồng Dương (xã)\",\n          \"Đ ồng D ư ơng\",\n          \"Đ ồng D ư ơng (xã)\",\n          \"Đ ồng D ư ơng, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Dong_Duong\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20818\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Dong_Duong\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Đồng Dương\",\n        \"wiki_pageid\": 1242694,\n        \"oldid\": 75225698,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Dong_Duong/index.md\"\n      },\n      {\n        \"label\": \"Xã Thăng Phú\",\n        \"titles\": [\n          \"Xã Thăng Phú, Đà Nẵng\",\n          \"Xã Thăng Phú, Thành phố Đà Nẵng\",\n          \"Thăng Phú, Đà Nẵng\",\n          \"Xã Thăng Phú\",\n          \"Thăng Phú\",\n          \"Thăng Phú\",\n          \"ThăngPhú\",\n          \"Thăng Phú (xã)\",\n          \"Th ăng Ph ú\",\n          \"Th ăng Ph ú (xã)\",\n          \"Th ăng Ph ú, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Thang_Phu\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20827\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Thang_Phu\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Thăng Phú\",\n        \"wiki_pageid\": 1242779,\n        \"oldid\": 75271969,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Thang_Phu/index.md\"\n      },\n      {\n        \"label\": \"Xã Thăng Trường\",\n        \"titles\": [\n          \"Xã Thăng Trường, Đà Nẵng\",\n          \"Xã Thăng Trường, Thành phố Đà Nẵng\",\n          \"Thăng Trường, Đà Nẵng\",\n          \"Xã Thăng Trường\",\n          \"Thăng Trường\",\n          \"Thăng Trường\",\n          \"ThăngTrường\",\n          \"Thăng Trường (xã)\",\n          \"Th ăng Tr ư ờng\",\n          \"Th ăng Tr ư ờng (xã)\",\n          \"Th ăng Tr ư ờng, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Thang_Truong\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20836\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Thang_Truong\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Thăng Trường\",\n        \"wiki_pageid\": 1242788,\n        \"oldid\": 75197001,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Thang_Truong/index.md\"\n      },\n      {\n        \"label\": \"Xã Thăng Điền\",\n        \"titles\": [\n          \"Xã Thăng Điền, Đà Nẵng\",\n          \"Xã Thăng Điền, Thành phố Đà Nẵng\",\n          \"Thăng Điền, Đà Nẵng\",\n          \"Xã Thăng Điền\",\n          \"Thăng Điền\",\n          \"Thăng Điền\",\n          \"ThăngĐiền\",\n          \"Thăng Điền (xã)\",\n          \"Th ăng Đi ền\",\n          \"Th ăng Đi ền (xã)\",\n          \"Th ăng Đi ền, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Thang_Dien\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20848\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Thang_Dien\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Thăng Điền\",\n        \"wiki_pageid\": 1242841,\n        \"oldid\": 75197007,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Thang_Dien/index.md\"\n      },\n      {\n        \"label\": \"Xã Tiên Phước\",\n        \"titles\": [\n          \"Xã Tiên Phước, Đà Nẵng\",\n          \"Xã Tiên Phước, Thành phố Đà Nẵng\",\n          \"Tiên Phước, Đà Nẵng\",\n          \"Xã Tiên Phước\",\n          \"Tiên Phước\",\n          \"Tiên Phước\",\n          \"TiênPhước\",\n          \"Tiên Phước (xã)\",\n          \"Ti ên Ph ư ớc\",\n          \"Ti ên Ph ư ớc (xã)\",\n          \"Ti ên Ph ư ớc, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Tien_Phuoc\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20854\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Tien_Phuoc\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Tiên Phước (xã)\",\n        \"wiki_pageid\": 1253509,\n        \"oldid\": 75197384,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Tien_Phuoc/index.md\"\n      },\n      {\n        \"label\": \"Xã Sơn Cẩm Hà\",\n        \"titles\": [\n          \"Xã Sơn Cẩm Hà, Đà Nẵng\",\n          \"Xã Sơn Cẩm Hà, Thành phố Đà Nẵng\",\n          \"Sơn Cẩm Hà, Đà Nẵng\",\n          \"Xã Sơn Cẩm Hà\",\n          \"Sơn Cẩm Hà\",\n          \"Sơn Cẩm Hà\",\n          \"SơnCẩmHà\",\n          \"Sơn Cẩm Hà (xã)\",\n          \"S ơn C ẩm H à\",\n          \"S ơn C ẩm H à (xã)\",\n          \"S ơn C ẩm H à, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Son_Cam_Ha\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20857\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Son_Cam_Ha\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Sơn Cẩm Hà\",\n        \"wiki_pageid\": 1253540,\n        \"oldid\": 75197559,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Son_Cam_Ha/index.md\"\n      },\n      {\n        \"label\": \"Xã Lãnh Ngọc\",\n        \"titles\": [\n          \"Xã Lãnh Ngọc, Đà Nẵng\",\n          \"Xã Lãnh Ngọc, Thành phố Đà Nẵng\",\n          \"Lãnh Ngọc, Đà Nẵng\",\n          \"Xã Lãnh Ngọc\",\n          \"Lãnh Ngọc\",\n          \"Lãnh Ngọc\",\n          \"LãnhNgọc\",\n          \"Lãnh Ngọc (xã)\",\n          \"L ãnh Ng ọc\",\n          \"L ãnh Ng ọc (xã)\",\n          \"L ãnh Ng ọc, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Lanh_Ngoc\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20875\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Lanh_Ngoc\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Lãnh Ngọc\",\n        \"wiki_pageid\": 1253499,\n        \"oldid\": 75197329,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Lanh_Ngoc/index.md\"\n      },\n      {\n        \"label\": \"Xã Thạnh Bình\",\n        \"titles\": [\n          \"Xã Thạnh Bình, Đà Nẵng\",\n          \"Xã Thạnh Bình, Thành phố Đà Nẵng\",\n          \"Thạnh Bình, Đà Nẵng\",\n          \"Xã Thạnh Bình\",\n          \"Thạnh Bình\",\n          \"Thạnh Bình\",\n          \"ThạnhBình\",\n          \"Thạnh Bình (xã)\",\n          \"Th ạnh B ình\",\n          \"Th ạnh B ình (xã)\",\n          \"Th ạnh B ình, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Thanh_Binh\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20878\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Thanh_Binh\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Thạnh Bình, Đà Nẵng\",\n        \"wiki_pageid\": 1253487,\n        \"oldid\": 75479206,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Thanh_Binh/index.md\"\n      },\n      {\n        \"label\": \"Xã Trà My\",\n        \"titles\": [\n          \"Xã Trà My, Đà Nẵng\",\n          \"Xã Trà My, Thành phố Đà Nẵng\",\n          \"Trà My, Đà Nẵng\",\n          \"Xã Trà My\",\n          \"Trà My\",\n          \"Trà My\",\n          \"TràMy\",\n          \"Trà My (xã)\",\n          \"Tr à My\",\n          \"Tr à My (xã)\",\n          \"Tr à My, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Tra_My\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20900\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Tra_My\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Trà My (xã)\",\n        \"wiki_pageid\": 15190600,\n        \"oldid\": 75496738,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Tra_My/index.md\"\n      },\n      {\n        \"label\": \"Xã Trà Liên\",\n        \"titles\": [\n          \"Xã Trà Liên, Đà Nẵng\",\n          \"Xã Trà Liên, Thành phố Đà Nẵng\",\n          \"Trà Liên, Đà Nẵng\",\n          \"Xã Trà Liên\",\n          \"Trà Liên\",\n          \"Trà Liên\",\n          \"TràLiên\",\n          \"Trà Liên (xã)\",\n          \"Tr à Li ên\",\n          \"Tr à Li ên (xã)\",\n          \"Tr à Li ên, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Tra_Lien\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20908\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Tra_Lien\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Trà Liên\",\n        \"wiki_pageid\": 1253616,\n        \"oldid\": 75479605,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Tra_Lien/index.md\"\n      },\n      {\n        \"label\": \"Xã Trà Đốc\",\n        \"titles\": [\n          \"Xã Trà Đốc, Đà Nẵng\",\n          \"Xã Trà Đốc, Thành phố Đà Nẵng\",\n          \"Trà Đốc, Đà Nẵng\",\n          \"Xã Trà Đốc\",\n          \"Trà Đốc\",\n          \"Trà Đốc\",\n          \"TràĐốc\",\n          \"Trà Đốc (xã)\",\n          \"Tr à Đ ốc\",\n          \"Tr à Đ ốc (xã)\",\n          \"Tr à Đ ốc, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Tra_Doc\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20920\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Tra_Doc\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Trà Đốc\",\n        \"wiki_pageid\": 1253613,\n        \"oldid\": 75479720,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Tra_Doc/index.md\"\n      },\n      {\n        \"label\": \"Xã Trà Tân\",\n        \"titles\": [\n          \"Xã Trà Tân, Đà Nẵng\",\n          \"Xã Trà Tân, Thành phố Đà Nẵng\",\n          \"Trà Tân, Đà Nẵng\",\n          \"Xã Trà Tân\",\n          \"Trà Tân\",\n          \"Trà Tân\",\n          \"TràTân\",\n          \"Trà Tân (xã)\",\n          \"Tr à T ân\",\n          \"Tr à T ân (xã)\",\n          \"Tr à T ân, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Tra_Tan\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20923\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Tra_Tan\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Trà Tân, Đà Nẵng\",\n        \"wiki_pageid\": 1253641,\n        \"oldid\": 75479634,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Tra_Tan/index.md\"\n      },\n      {\n        \"label\": \"Xã Trà Giáp\",\n        \"titles\": [\n          \"Xã Trà Giáp, Đà Nẵng\",\n          \"Xã Trà Giáp, Thành phố Đà Nẵng\",\n          \"Trà Giáp, Đà Nẵng\",\n          \"Xã Trà Giáp\",\n          \"Trà Giáp\",\n          \"Trà Giáp\",\n          \"TràGiáp\",\n          \"Trà Giáp (xã)\",\n          \"Tr à Gi áp\",\n          \"Tr à Gi áp (xã)\",\n          \"Tr à Gi áp, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Tra_Giap\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20929\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Tra_Giap\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Trà Giáp\",\n        \"wiki_pageid\": 1253622,\n        \"oldid\": 75479598,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Tra_Giap/index.md\"\n      },\n      {\n        \"label\": \"Xã Trà Leng\",\n        \"titles\": [\n          \"Xã Trà Leng, Đà Nẵng\",\n          \"Xã Trà Leng, Thành phố Đà Nẵng\",\n          \"Trà Leng, Đà Nẵng\",\n          \"Xã Trà Leng\",\n          \"Trà Leng\",\n          \"Trà Leng\",\n          \"TràLeng\",\n          \"Trà Leng (xã)\",\n          \"Tr à Leng\",\n          \"Tr à Leng (xã)\",\n          \"Tr à Leng, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Tra_Leng\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20938\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Tra_Leng\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Trà Leng\",\n        \"wiki_pageid\": 1253629,\n        \"oldid\": 75479603,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Tra_Leng/index.md\"\n      },\n      {\n        \"label\": \"Xã Trà Tập\",\n        \"titles\": [\n          \"Xã Trà Tập, Đà Nẵng\",\n          \"Xã Trà Tập, Thành phố Đà Nẵng\",\n          \"Trà Tập, Đà Nẵng\",\n          \"Xã Trà Tập\",\n          \"Trà Tập\",\n          \"Trà Tập\",\n          \"TràTập\",\n          \"Trà Tập (xã)\",\n          \"Tr à T ập\",\n          \"Tr à T ập (xã)\",\n          \"Tr à T ập, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Tra_Tap\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20941\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Tra_Tap\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Trà Tập\",\n        \"wiki_pageid\": 1253644,\n        \"oldid\": 75228050,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Tra_Tap/index.md\"\n      },\n      {\n        \"label\": \"Xã Nam Trà My\",\n        \"titles\": [\n          \"Xã Nam Trà My, Đà Nẵng\",\n          \"Xã Nam Trà My, Thành phố Đà Nẵng\",\n          \"Nam Trà My, Đà Nẵng\",\n          \"Xã Nam Trà My\",\n          \"Nam Trà My\",\n          \"Nam Trà My\",\n          \"NamTràMy\",\n          \"Nam Trà My (xã)\",\n          \"Nam Tr à My\",\n          \"Nam Tr à My (xã)\",\n          \"Nam Tr à My, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Nam_Tra_My\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20944\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Nam_Tra_My\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Nam Trà My (xã)\",\n        \"wiki_pageid\": 1253631,\n        \"oldid\": 75227508,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Nam_Tra_My/index.md\"\n      },\n      {\n        \"label\": \"Xã Trà Linh\",\n        \"titles\": [\n          \"Xã Trà Linh, Đà Nẵng\",\n          \"Xã Trà Linh, Thành phố Đà Nẵng\",\n          \"Trà Linh, Đà Nẵng\",\n          \"Xã Trà Linh\",\n          \"Trà Linh\",\n          \"Trà Linh\",\n          \"TràLinh\",\n          \"Trà Linh (xã)\",\n          \"Tr à Linh\",\n          \"Tr à Linh (xã)\",\n          \"Tr à Linh, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Tra_Linh\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20950\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Tra_Linh\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Trà Linh\",\n        \"wiki_pageid\": 1253630,\n        \"oldid\": 75228212,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Tra_Linh/index.md\"\n      },\n      {\n        \"label\": \"Xã Trà Vân\",\n        \"titles\": [\n          \"Xã Trà Vân, Đà Nẵng\",\n          \"Xã Trà Vân, Thành phố Đà Nẵng\",\n          \"Trà Vân, Đà Nẵng\",\n          \"Xã Trà Vân\",\n          \"Trà Vân\",\n          \"Trà Vân\",\n          \"TràVân\",\n          \"Trà Vân (xã)\",\n          \"Tr à V ân\",\n          \"Tr à V ân (xã)\",\n          \"Tr à V ân, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Tra_Van\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20959\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Tra_Van\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Trà Vân\",\n        \"wiki_pageid\": 1253649,\n        \"oldid\": 75479695,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Tra_Van/index.md\"\n      },\n      {\n        \"label\": \"Xã Núi Thành\",\n        \"titles\": [\n          \"Xã Núi Thành, Đà Nẵng\",\n          \"Xã Núi Thành, Thành phố Đà Nẵng\",\n          \"Núi Thành, Đà Nẵng\",\n          \"Xã Núi Thành\",\n          \"Núi Thành\",\n          \"Núi Thành\",\n          \"NúiThành\",\n          \"Núi Thành (xã)\",\n          \"N úi Th ành\",\n          \"N úi Th ành (xã)\",\n          \"N úi Th ành, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Nui_Thanh\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20965\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Nui_Thanh\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Núi Thành (xã)\",\n        \"wiki_pageid\": 1251359,\n        \"oldid\": 75474250,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Nui_Thanh/index.md\"\n      },\n      {\n        \"label\": \"Xã Tam Xuân\",\n        \"titles\": [\n          \"Xã Tam Xuân, Đà Nẵng\",\n          \"Xã Tam Xuân, Thành phố Đà Nẵng\",\n          \"Tam Xuân, Đà Nẵng\",\n          \"Xã Tam Xuân\",\n          \"Tam Xuân\",\n          \"Tam Xuân\",\n          \"TamXuân\",\n          \"Tam Xuân (xã)\",\n          \"Tam Xu ân\",\n          \"Tam Xu ân (xã)\",\n          \"Tam Xu ân, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Tam_Xuan\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20971\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Tam_Xuan\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Tam Xuân\",\n        \"wiki_pageid\": 1252485,\n        \"oldid\": 75456834,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Tam_Xuan/index.md\"\n      },\n      {\n        \"label\": \"Xã Đức Phú\",\n        \"titles\": [\n          \"Xã Đức Phú, Đà Nẵng\",\n          \"Xã Đức Phú, Thành phố Đà Nẵng\",\n          \"Đức Phú, Đà Nẵng\",\n          \"Xã Đức Phú\",\n          \"Đức Phú\",\n          \"Đức Phú\",\n          \"ĐứcPhú\",\n          \"Đức Phú (xã)\",\n          \"Đ ức Ph ú\",\n          \"Đ ức Ph ú (xã)\",\n          \"Đ ức Ph ú, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Duc_Phu\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20977\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Duc_Phu\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Đức Phú\",\n        \"wiki_pageid\": 819323,\n        \"oldid\": 75378436,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Duc_Phu/index.md\"\n      },\n      {\n        \"label\": \"Xã Tam Anh\",\n        \"titles\": [\n          \"Xã Tam Anh, Đà Nẵng\",\n          \"Xã Tam Anh, Thành phố Đà Nẵng\",\n          \"Tam Anh, Đà Nẵng\",\n          \"Xã Tam Anh\",\n          \"Tam Anh\",\n          \"Tam Anh\",\n          \"TamAnh\",\n          \"Tam Anh (xã)\"\n        ],\n        \"slug\": \"Xa_Tam_Anh\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20984\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Tam_Anh\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Tam Anh\",\n        \"wiki_pageid\": 1252413,\n        \"oldid\": 75222432,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Tam_Anh/index.md\"\n      },\n      {\n        \"label\": \"Xã Tam Hải\",\n        \"titles\": [\n          \"Xã Tam Hải, Đà Nẵng\",\n          \"Xã Tam Hải, Thành phố Đà Nẵng\",\n          \"Tam Hải, Đà Nẵng\",\n          \"Xã Tam Hải\",\n          \"Tam Hải\",\n          \"Tam Hải\",\n          \"TamHải\",\n          \"Tam Hải (xã)\",\n          \"Tam H ải\",\n          \"Tam H ải (xã)\",\n          \"Tam H ải, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Tam_Hai\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20992\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Tam_Hai\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Tam Hải\",\n        \"wiki_pageid\": 1252437,\n        \"oldid\": 75259672,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Tam_Hai/index.md\"\n      },\n      {\n        \"label\": \"Xã Tam Mỹ\",\n        \"titles\": [\n          \"Xã Tam Mỹ, Đà Nẵng\",\n          \"Xã Tam Mỹ, Thành phố Đà Nẵng\",\n          \"Tam Mỹ, Đà Nẵng\",\n          \"Xã Tam Mỹ\",\n          \"Tam Mỹ\",\n          \"Tam Mỹ\",\n          \"TamMỹ\",\n          \"Tam Mỹ (xã)\"\n        ],\n        \"slug\": \"Xa_Tam_My\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"21004\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Tam_My\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Tam Mỹ\",\n        \"wiki_pageid\": 1252456,\n        \"oldid\": 75229291,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Tam_My/index.md\"\n      },\n      {\n        \"label\": \"Đặc khu Hoàng Sa\",\n        \"titles\": [\n          \"Đặc khu Hoàng Sa, Đà Nẵng\",\n          \"Đặc khu Hoàng Sa, Thành phố Đà Nẵng\",\n          \"Hoàng Sa, Đà Nẵng\",\n          \"Đặc khu Hoàng Sa\",\n          \"Hoàng Sa\",\n          \"Hoàng Sa\",\n          \"HoàngSa\",\n          \"Hoàng Sa (đặc khu)\",\n          \"Ho àng Sa\",\n          \"Ho àng Sa (xã)\",\n          \"Ho àng Sa, Đà Nẵng\"\n        ],\n        \"slug\": \"Xa_Hoang_Sa\",\n        \"wave\": \"B\",\n        \"group\": \"xa\",\n        \"wiki_kind\": \"DiaBan\",\n        \"ma_dvhc\": \"20333\",\n        \"cq_id\": \"Tinh.Da_Nang.Xa_Hoang_Sa\",\n        \"status\": \"hit\",\n        \"wiki_title\": \"Hoàng Sa (đặc khu)\",\n        \"wiki_pageid\": 1404129,\n        \"oldid\": 75499121,\n        \"path\": \"RAW/WIKIPEDIA/DiaBan/Xa/Xa_Hoang_Sa/index.md\"\n      }\n    ],\n    \"duplicate_pageid\": [\n      {\n        \"pageid\": \"3970\",\n        \"paths\": [\n          \"DiaBan/Tinh/Phu_Tho/index.md\",\n          \"DiaBan/Xa/Ho_Chi_Minh/Xa_Phu_Tho_27226/index.md\"\n        ]\n      },\n      {\n        \"pageid\": \"19935058\",\n        \"paths\": [\n          \"DiaBan/Xa/Da_Nang/Xa_An_Hai/index.md\",\n          \"DiaBan/Xa/Da_Nang/Xa_An_Hai_20275/index.md\"\n        ]\n      },\n      {\n        \"pageid\": \"19902758\",\n        \"paths\": [\n          \"DiaBan/Xa/Da_Nang/Xa_Hai_Chau/index.md\",\n          \"DiaBan/Xa/Da_Nang/Xa_Hai_Chau_20242/index.md\"\n        ]\n      },\n      {\n        \"pageid\": \"19959741\",\n        \"paths\": [\n          \"DiaBan/Xa/Da_Nang/Xa_Huong_Tra/index.md\",\n          \"DiaBan/Xa/Da_Nang/Xa_Huong_Tra_20350/index.md\"\n        ]\n      },\n      {\n        \"pageid\": \"1252425\",\n        \"paths\": [\n          \"DiaBan/Xa/Da_Nang/Xa_Phu_Ninh/index.md\",\n          \"DiaBan/Xa/Da_Nang/Xa_Phu_Ninh_20392/index.md\"\n        ]\n      },\n      {\n        \"pageid\": \"1252460\",\n        \"paths\": [\n          \"DiaBan/Xa/Da_Nang/Xa_Quang_Phu/index.md\",\n          \"DiaBan/Xa/Da_Nang/Xa_Quang_Phu_20356/index.md\"\n        ]\n      },\n      {\n        \"pageid\": \"1252463\",\n        \"paths\": [\n          \"DiaBan/Xa/Da_Nang/Xa_Tay_Ho/index.md\",\n          \"DiaBan/Xa/Da_Nang/Xa_Tay_Ho_20380/index.md\"\n        ]\n      },\n      {\n        \"pageid\": \"1244155\",\n        \"paths\": [\n          \"DiaBan/Xa/Da_Nang/Xa_Thang_Binh/index.md\",\n          \"DiaBan/Xa/Da_Nang/Xa_Thang_Binh_20791/index.md\"\n        ]\n      },\n      {\n        \"pageid\": \"1253487\",\n        \"paths\": [\n          \"DiaBan/Xa/Da_Nang/Xa_Thanh_Binh/index.md\",\n          \"DiaBan/Xa/Da_Nang/Xa_Thanh_Binh_20878/index.md\"\n        ]\n      },\n      {\n        \"pageid\": \"1262791\",\n        \"paths\": [\n          \"DiaBan/Xa/Da_Nang/Xa_Thuong_Duc/index.md\",\n          \"DiaBan/Xa/Da_Nang/Xa_Thuong_Duc_20506/index.md\"\n        ]\n      },\n      {\n        \"pageid\": \"1253630\",\n        \"paths\": [\n          \"DiaBan/Xa/Da_Nang/Xa_Tra_Linh/index.md\",\n          \"DiaBan/Xa/Da_Nang/Xa_Tra_Linh_20950/index.md\"\n        ]\n      }\n    ],\n    \"invalid_id\": [\n      {\n        \"path\": \"DiaBan/Tinh/Quang_Nam/index.md\",\n        \"field\": \"wiki_pageid\"\n      },\n      {\n        \"path\": \"DiaBan/Tinh/Quang_Nam/index.md\",\n        \"field\": \"oldid\"\n      },\n      {\n        \"path\": \"DiaBan/Xa/Da_Nang/Xa_Chien_Dan/index.md\",\n        \"field\": \"wiki_pageid\"\n      },\n      {\n        \"path\": \"DiaBan/Xa/Da_Nang/Xa_Chien_Dan/index.md\",\n        \"field\": \"oldid\"\n      }\n    ],\n    \"manifest_missing_page\": [\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Hai_Van/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Lien_Chieu/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Hoa_Khanh/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Thanh_Khe/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Hai_Chau/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Hoa_Cuong/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Cam_Le/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Son_Tra/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_An_Hai/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Ngu_Hanh_Son/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_An_Khe/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Hoa_Xuan/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Ban_Thach/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Tam_Ky/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Huong_Tra/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Quang_Phu/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Hoi_An_Tay/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Hoi_An/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Hoi_An_Dong/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Dien_Ban/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Dien_Ban_Bac/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_An_Thang/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Dien_Ban_Dong/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Ba_Na/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Hoa_Vang/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Hoa_Tien/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Tay_Ho/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Phu_Ninh/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Tan_Hiep/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Hung_Son/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Tay_Giang/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_A_Vuong/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Dong_Giang/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Song_Kon/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Song_Vang/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Ben_Hien/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Dai_Loc/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Thuong_Duc/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Ha_Nha/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Vu_Gia/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Phu_Thuan/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Dien_Ban_Tay/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Go_Noi/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Nam_Phuoc/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Thu_Bon/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Duy_Xuyen/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Duy_Nghia/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Que_Son/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Xuan_Phu/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Nong_Son/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Que_Son_Trung/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Que_Phuoc/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Thanh_My/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_La_Dee/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Nam_Giang/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Ben_Giang/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Dac_Pring/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Kham_Duc/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Phuoc_Hiep/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Phuoc_Nang/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Phuoc_Chanh/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Phuoc_Thanh/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Viet_An/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Phuoc_Tra/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Hiep_Duc/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Thang_Binh/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Thang_An/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Dong_Duong/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Thang_Phu/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Thang_Truong/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Thang_Dien/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Tien_Phuoc/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Son_Cam_Ha/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Lanh_Ngoc/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Thanh_Binh/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Tra_My/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Tra_Lien/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Tra_Doc/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Tra_Tan/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Tra_Giap/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Tra_Leng/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Tra_Tap/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Nam_Tra_My/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Tra_Linh/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Tra_Van/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Nui_Thanh/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Tam_Xuan/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Duc_Phu/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Tam_Anh/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Tam_Hai/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Tam_My/index.md\"\n      },\n      {\n        \"manifest\": \"_manifest.json\",\n        \"path\": \"DiaBan/Xa/Xa_Hoang_Sa/index.md\"\n      }\n    ],\n    \"missing_diaban_links\": [\n      {\n        \"path\": \"DiaBan/Tinh/Quang_Nam/index.md\",\n        \"field\": \"wikipedia\"\n      },\n      {\n        \"path\": \"DiaBan/Tinh/Quang_Nam/index.md\",\n        \"field\": \"website\"\n      }\n    ],\n    \"missing_link_section\": [\n      \"DiaBan/Tinh/Quang_Nam/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Chien_Dan/index.md\"\n    ],\n    \"missing_required\": [\n      {\n        \"path\": \"DiaBan/Tinh/Quang_Nam/index.md\",\n        \"field\": \"wiki_pageid\"\n      },\n      {\n        \"path\": \"DiaBan/Tinh/Quang_Nam/index.md\",\n        \"field\": \"oldid\"\n      },\n      {\n        \"path\": \"DiaBan/Xa/Da_Nang/Xa_Chien_Dan/index.md\",\n        \"field\": \"wiki_pageid\"\n      },\n      {\n        \"path\": \"DiaBan/Xa/Da_Nang/Xa_Chien_Dan/index.md\",\n        \"field\": \"oldid\"\n      }\n    ],\n    \"pages_without_manifest\": [\n      \"CoQuan/TW/Bo_Cong_An/index.md\",\n      \"CoQuan/TW/Bo_Cong_Thuong/index.md\",\n      \"CoQuan/TW/Bo_Dan_Toc_Va_Ton_Giao/index.md\",\n      \"CoQuan/TW/Bo_Giao_Duc_Va_Dao_Tao/index.md\",\n      \"CoQuan/TW/Bo_Khoa_Hoc_Va_Cong_Nghe/index.md\",\n      \"CoQuan/TW/Bo_Ngoai_Giao/index.md\",\n      \"CoQuan/TW/Bo_Noi_Vu/index.md\",\n      \"CoQuan/TW/Bo_Nong_Nghiep_Va_Moi_Truong/index.md\",\n      \"CoQuan/TW/Bo_Quoc_Phong/index.md\",\n      \"CoQuan/TW/Bo_Tai_Chinh/index.md\",\n      \"CoQuan/TW/Bo_Tu_Phap/index.md\",\n      \"CoQuan/TW/Bo_Van_Hoa_The_Thao_Va_Du_Lich/index.md\",\n      \"CoQuan/TW/Bo_Xay_Dung/index.md\",\n      \"CoQuan/TW/Bo_Y_Te/index.md\",\n      \"CoQuan/TW/Chinh_phu/index.md\",\n      \"CoQuan/Tinh/Da_Nang_HDND/index.md\",\n      \"CoQuan/Tinh/Ha_Noi_HDND/index.md\",\n      \"CoQuan/Tinh/Ha_Noi_UBND/index.md\",\n      \"DiaBan/Tinh/Quang_Nam/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_A_Vuong/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_An_Hai/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_An_Khe/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_An_Thang/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Ba_Na/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Ban_Thach/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Ben_Giang/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Ben_Hien/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Cam_Le/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Chien_Dan/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Dac_Pring/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Dai_Loc/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Dien_Ban/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Dien_Ban_Bac/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Dien_Ban_Dong/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Dien_Ban_Tay/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Dong_Duong/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Dong_Giang/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Duc_Phu/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Duy_Nghia/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Duy_Xuyen/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Go_Noi/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Ha_Nha/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Hai_Chau/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Hai_Van/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Hiep_Duc/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Hoa_Cuong/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Hoa_Khanh/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Hoa_Tien/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Hoa_Vang/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Hoa_Xuan/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Hoang_Sa/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Hoi_An/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Hoi_An_Dong/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Hoi_An_Tay/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Hung_Son/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Huong_Tra/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Kham_Duc/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_La_Dee/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Laee/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Lanh_Ngoc/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Lien_Chieu/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Nam_Giang/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Nam_Phuoc/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Nam_Tra_My/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Ngu_Hanh_Son/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Nong_Son/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Nui_Thanh/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Phu_Ninh/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Phu_Thuan/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Phuoc_Chanh/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Phuoc_Hiep/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Phuoc_Nang/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Phuoc_Thanh/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Phuoc_Tra/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Quang_Phu/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Que_Phuoc/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Que_Son/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Que_Son_Trung/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Son_Cam_Ha/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Son_Tra/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Song_Kon/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Song_Vang/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Tam_Anh/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Tam_Hai/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Tam_Ky/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Tam_My/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Tam_Xuan/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Tan_Hiep/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Tay_Giang/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Tay_Ho/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Thang_An/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Thang_Binh/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Thang_Dien/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Thang_Phu/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Thang_Truong/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Thanh_Binh/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Thanh_Khe/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Thanh_My/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Thu_Bon/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Thuong_Duc/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Tien_Phuoc/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Tra_Doc/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Tra_Giap/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Tra_Leng/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Tra_Lien/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Tra_Linh/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Tra_My/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Tra_Tan/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Tra_Tap/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Tra_Van/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Viet_An/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Vu_Gia/index.md\",\n      \"DiaBan/Xa/Da_Nang/Xa_Xuan_Phu/index.md\"\n    ],\n    \"url_mismatch\": [\n      \"DiaBan/Tinh/Quang_Nam/index.md\"\n    ]\n  }\n}\n",
+  "evidence": {
+    "scope": "Offline structural audit; not factual/entity validation or full YAML validation.",
+    "pages": 3331,
+    "page_groups": {
+      "CoQuan": 18,
+      "DiaBan": 3313
+    },
+    "catalog_records": 11043,
+    "catalog_events_by_wave_status": {
+      "B/hit": 129,
+      "B/miss": 2,
+      "C/hit": 3181,
+      "C/miss": 57,
+      "C/skip": 83,
+      "D/hit": 18,
+      "D/miss": 7537,
+      "D/skip": 36
+    },
+    "manifest_records": {
+      "_manifest.json": 129,
+      "_manifest_C.json": 3181,
+      "_manifest_D.json": 0
+    },
+    "finding_counts": {
+      "catalog_hit_missing_file": 92,
+      "duplicate_pageid": 11,
+      "invalid_id": 4,
+      "manifest_missing_page": 92,
+      "missing_diaban_links": 2,
+      "missing_link_section": 2,
+      "missing_required": 4,
+      "pages_without_manifest": 113,
+      "url_mismatch": 1
+    },
+    "findings": {
+      "catalog_hit_missing_file": [
+        {
+          "label": "Phường Hải Vân",
+          "titles": [
+            "Phường Hải Vân, Đà Nẵng",
+            "Phường Hải Vân, Thành phố Đà Nẵng",
+            "Hải Vân, Đà Nẵng",
+            "Phường Hải Vân",
+            "Hải Vân",
+            "Hải Vân",
+            "HảiVân",
+            "Hải Vân (phường)",
+            "H ải V ân",
+            "H ải V ân (xã)",
+            "H ải V ân, Đà Nẵng"
+          ],
+          "slug": "Xa_Hai_Van",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20194",
+          "cq_id": "Tinh.Da_Nang.Xa_Hai_Van",
+          "status": "hit",
+          "wiki_title": "Hải Vân (phường)",
+          "wiki_pageid": 19959739,
+          "oldid": 75488287,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Hai_Van/index.md"
+        },
+        {
+          "label": "Phường Liên Chiểu",
+          "titles": [
+            "Phường Liên Chiểu, Đà Nẵng",
+            "Phường Liên Chiểu, Thành phố Đà Nẵng",
+            "Liên Chiểu, Đà Nẵng",
+            "Phường Liên Chiểu",
+            "Liên Chiểu",
+            "Liên Chiểu",
+            "LiênChiểu",
+            "Liên Chiểu (phường)",
+            "Li ên Chi ểu",
+            "Li ên Chi ểu (xã)",
+            "Li ên Chi ểu, Đà Nẵng"
+          ],
+          "slug": "Xa_Lien_Chieu",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20197",
+          "cq_id": "Tinh.Da_Nang.Xa_Lien_Chieu",
+          "status": "hit",
+          "wiki_title": "Liên Chiểu (phường)",
+          "wiki_pageid": 19959744,
+          "oldid": 75474258,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Lien_Chieu/index.md"
+        },
+        {
+          "label": "Phường Hòa Khánh",
+          "titles": [
+            "Phường Hòa Khánh, Đà Nẵng",
+            "Phường Hòa Khánh, Thành phố Đà Nẵng",
+            "Hòa Khánh, Đà Nẵng",
+            "Phường Hòa Khánh",
+            "Hòa Khánh",
+            "Hòa Khánh",
+            "HòaKhánh",
+            "Hòa Khánh (phường)",
+            "H òa Kh ánh",
+            "H òa Kh ánh (xã)",
+            "H òa Kh ánh, Đà Nẵng"
+          ],
+          "slug": "Xa_Hoa_Khanh",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20200",
+          "cq_id": "Tinh.Da_Nang.Xa_Hoa_Khanh",
+          "status": "hit",
+          "wiki_title": "Hòa Khánh (phường)",
+          "wiki_pageid": 3684031,
+          "oldid": 75371751,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Hoa_Khanh/index.md"
+        },
+        {
+          "label": "Phường Thanh Khê",
+          "titles": [
+            "Phường Thanh Khê, Đà Nẵng",
+            "Phường Thanh Khê, Thành phố Đà Nẵng",
+            "Thanh Khê, Đà Nẵng",
+            "Phường Thanh Khê",
+            "Thanh Khê",
+            "Thanh Khê",
+            "ThanhKhê",
+            "Thanh Khê (phường)",
+            "Thanh Kh ê",
+            "Thanh Kh ê (xã)",
+            "Thanh Kh ê, Đà Nẵng"
+          ],
+          "slug": "Xa_Thanh_Khe",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20209",
+          "cq_id": "Tinh.Da_Nang.Xa_Thanh_Khe",
+          "status": "hit",
+          "wiki_title": "Thanh Khê (phường)",
+          "wiki_pageid": 560958,
+          "oldid": 75353655,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Thanh_Khe/index.md"
+        },
+        {
+          "label": "Phường Hải Châu",
+          "titles": [
+            "Phường Hải Châu, Đà Nẵng",
+            "Phường Hải Châu, Thành phố Đà Nẵng",
+            "Hải Châu, Đà Nẵng",
+            "Phường Hải Châu",
+            "Hải Châu",
+            "Hải Châu",
+            "HảiChâu",
+            "Hải Châu (phường)",
+            "H ải Ch âu",
+            "H ải Ch âu (xã)",
+            "H ải Ch âu, Đà Nẵng"
+          ],
+          "slug": "Xa_Hai_Chau",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20242",
+          "cq_id": "Tinh.Da_Nang.Xa_Hai_Chau",
+          "status": "hit",
+          "wiki_title": "Hải Châu (phường)",
+          "wiki_pageid": 19902758,
+          "oldid": 75479323,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Hai_Chau/index.md"
+        },
+        {
+          "label": "Phường Hòa Cường",
+          "titles": [
+            "Phường Hòa Cường, Đà Nẵng",
+            "Phường Hòa Cường, Thành phố Đà Nẵng",
+            "Hòa Cường, Đà Nẵng",
+            "Phường Hòa Cường",
+            "Hòa Cường",
+            "Hòa Cường",
+            "HòaCường",
+            "Hòa Cường (phường)",
+            "H òa C ư ờng",
+            "H òa C ư ờng (xã)",
+            "H òa C ư ờng, Đà Nẵng"
+          ],
+          "slug": "Xa_Hoa_Cuong",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20257",
+          "cq_id": "Tinh.Da_Nang.Xa_Hoa_Cuong",
+          "status": "hit",
+          "wiki_title": "Hòa Cường",
+          "wiki_pageid": 19947684,
+          "oldid": 75500712,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Hoa_Cuong/index.md"
+        },
+        {
+          "label": "Phường Cẩm Lệ",
+          "titles": [
+            "Phường Cẩm Lệ, Đà Nẵng",
+            "Phường Cẩm Lệ, Thành phố Đà Nẵng",
+            "Cẩm Lệ, Đà Nẵng",
+            "Phường Cẩm Lệ",
+            "Cẩm Lệ",
+            "Cẩm Lệ",
+            "CẩmLệ",
+            "Cẩm Lệ (phường)",
+            "C ẩm L ệ",
+            "C ẩm L ệ (xã)",
+            "C ẩm L ệ, Đà Nẵng"
+          ],
+          "slug": "Xa_Cam_Le",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20260",
+          "cq_id": "Tinh.Da_Nang.Xa_Cam_Le",
+          "status": "hit",
+          "wiki_title": "Cẩm Lệ (phường)",
+          "wiki_pageid": 19959735,
+          "oldid": 75353618,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Cam_Le/index.md"
+        },
+        {
+          "label": "Phường Sơn Trà",
+          "titles": [
+            "Phường Sơn Trà, Đà Nẵng",
+            "Phường Sơn Trà, Thành phố Đà Nẵng",
+            "Sơn Trà, Đà Nẵng",
+            "Phường Sơn Trà",
+            "Sơn Trà",
+            "Sơn Trà",
+            "SơnTrà",
+            "Sơn Trà (phường)",
+            "S ơn Tr à",
+            "S ơn Tr à (xã)",
+            "S ơn Tr à, Đà Nẵng"
+          ],
+          "slug": "Xa_Son_Tra",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20263",
+          "cq_id": "Tinh.Da_Nang.Xa_Son_Tra",
+          "status": "hit",
+          "wiki_title": "Sơn Trà (phường)",
+          "wiki_pageid": 19956443,
+          "oldid": 75260791,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Son_Tra/index.md"
+        },
+        {
+          "label": "Phường An Hải",
+          "titles": [
+            "Phường An Hải, Đà Nẵng",
+            "Phường An Hải, Thành phố Đà Nẵng",
+            "An Hải, Đà Nẵng",
+            "Phường An Hải",
+            "An Hải",
+            "An Hải",
+            "AnHải",
+            "An Hải (phường)",
+            "An H ải",
+            "An H ải (xã)",
+            "An H ải, Đà Nẵng"
+          ],
+          "slug": "Xa_An_Hai",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20275",
+          "cq_id": "Tinh.Da_Nang.Xa_An_Hai",
+          "status": "hit",
+          "wiki_title": "An Hải, Đà Nẵng",
+          "wiki_pageid": 19935058,
+          "oldid": 75494447,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_An_Hai/index.md"
+        },
+        {
+          "label": "Phường Ngũ Hành Sơn",
+          "titles": [
+            "Phường Ngũ Hành Sơn, Đà Nẵng",
+            "Phường Ngũ Hành Sơn, Thành phố Đà Nẵng",
+            "Ngũ Hành Sơn, Đà Nẵng",
+            "Phường Ngũ Hành Sơn",
+            "Ngũ Hành Sơn",
+            "Ngũ Hành Sơn",
+            "NgũHànhSơn",
+            "Ngũ Hành Sơn (phường)",
+            "Ng ũ H ành S ơn",
+            "Ng ũ H ành S ơn (xã)",
+            "Ng ũ H ành S ơn, Đà Nẵng"
+          ],
+          "slug": "Xa_Ngu_Hanh_Son",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20285",
+          "cq_id": "Tinh.Da_Nang.Xa_Ngu_Hanh_Son",
+          "status": "hit",
+          "wiki_title": "Ngũ Hành Sơn (phường)",
+          "wiki_pageid": 19956413,
+          "oldid": 75496703,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Ngu_Hanh_Son/index.md"
+        },
+        {
+          "label": "Phường An Khê",
+          "titles": [
+            "Phường An Khê, Đà Nẵng",
+            "Phường An Khê, Thành phố Đà Nẵng",
+            "An Khê, Đà Nẵng",
+            "Phường An Khê",
+            "An Khê",
+            "An Khê",
+            "AnKhê",
+            "An Khê (phường)",
+            "An Kh ê",
+            "An Kh ê (xã)",
+            "An Kh ê, Đà Nẵng"
+          ],
+          "slug": "Xa_An_Khe",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20305",
+          "cq_id": "Tinh.Da_Nang.Xa_An_Khe",
+          "status": "hit",
+          "wiki_title": "An Khê, Đà Nẵng",
+          "wiki_pageid": 1242196,
+          "oldid": 75493876,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_An_Khe/index.md"
+        },
+        {
+          "label": "Phường Hòa Xuân",
+          "titles": [
+            "Phường Hòa Xuân, Đà Nẵng",
+            "Phường Hòa Xuân, Thành phố Đà Nẵng",
+            "Hòa Xuân, Đà Nẵng",
+            "Phường Hòa Xuân",
+            "Hòa Xuân",
+            "Hòa Xuân",
+            "HòaXuân",
+            "Hòa Xuân (phường)",
+            "H òa Xu ân",
+            "H òa Xu ân (xã)",
+            "H òa Xu ân, Đà Nẵng"
+          ],
+          "slug": "Xa_Hoa_Xuan",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20314",
+          "cq_id": "Tinh.Da_Nang.Xa_Hoa_Xuan",
+          "status": "hit",
+          "wiki_title": "Hòa Xuân (phường)",
+          "wiki_pageid": 1244555,
+          "oldid": 75501060,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Hoa_Xuan/index.md"
+        },
+        {
+          "label": "Phường Bàn Thạch",
+          "titles": [
+            "Phường Bàn Thạch, Đà Nẵng",
+            "Phường Bàn Thạch, Thành phố Đà Nẵng",
+            "Bàn Thạch, Đà Nẵng",
+            "Phường Bàn Thạch",
+            "Bàn Thạch",
+            "Bàn Thạch",
+            "BànThạch",
+            "Bàn Thạch (phường)",
+            "B àn Th ạch",
+            "B àn Th ạch (xã)",
+            "B àn Th ạch, Đà Nẵng"
+          ],
+          "slug": "Xa_Ban_Thach",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20335",
+          "cq_id": "Tinh.Da_Nang.Xa_Ban_Thach",
+          "status": "hit",
+          "wiki_title": "Bàn Thạch",
+          "wiki_pageid": 19959733,
+          "oldid": 75377398,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Ban_Thach/index.md"
+        },
+        {
+          "label": "Phường Tam Kỳ",
+          "titles": [
+            "Phường Tam Kỳ, Đà Nẵng",
+            "Phường Tam Kỳ, Thành phố Đà Nẵng",
+            "Tam Kỳ, Đà Nẵng",
+            "Phường Tam Kỳ",
+            "Tam Kỳ",
+            "Tam Kỳ",
+            "TamKỳ",
+            "Tam Kỳ (phường)",
+            "Tam K ỳ",
+            "Tam K ỳ (xã)",
+            "Tam K ỳ, Đà Nẵng"
+          ],
+          "slug": "Xa_Tam_Ky",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20341",
+          "cq_id": "Tinh.Da_Nang.Xa_Tam_Ky",
+          "status": "hit",
+          "wiki_title": "Tam Kỳ (phường)",
+          "wiki_pageid": 1242224,
+          "oldid": 75476824,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Tam_Ky/index.md"
+        },
+        {
+          "label": "Phường Hương Trà",
+          "titles": [
+            "Phường Hương Trà, Đà Nẵng",
+            "Phường Hương Trà, Thành phố Đà Nẵng",
+            "Hương Trà, Đà Nẵng",
+            "Phường Hương Trà",
+            "Hương Trà",
+            "Hương Trà",
+            "HươngTrà",
+            "Hương Trà (phường)",
+            "H ư ơng Tr à",
+            "H ư ơng Tr à (xã)",
+            "H ư ơng Tr à, Đà Nẵng"
+          ],
+          "slug": "Xa_Huong_Tra",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20350",
+          "cq_id": "Tinh.Da_Nang.Xa_Huong_Tra",
+          "status": "hit",
+          "wiki_title": "Hương Trà, Đà Nẵng",
+          "wiki_pageid": 19959741,
+          "oldid": 75217981,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Huong_Tra/index.md"
+        },
+        {
+          "label": "Phường Quảng Phú",
+          "titles": [
+            "Phường Quảng Phú, Đà Nẵng",
+            "Phường Quảng Phú, Thành phố Đà Nẵng",
+            "Quảng Phú, Đà Nẵng",
+            "Phường Quảng Phú",
+            "Quảng Phú",
+            "Quảng Phú",
+            "QuảngPhú",
+            "Quảng Phú (phường)",
+            "Qu ảng Ph ú",
+            "Qu ảng Ph ú (xã)",
+            "Qu ảng Ph ú, Đà Nẵng"
+          ],
+          "slug": "Xa_Quang_Phu",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20356",
+          "cq_id": "Tinh.Da_Nang.Xa_Quang_Phu",
+          "status": "hit",
+          "wiki_title": "Quảng Phú, Đà Nẵng",
+          "wiki_pageid": 1252460,
+          "oldid": 75474337,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Quang_Phu/index.md"
+        },
+        {
+          "label": "Phường Hội An Tây",
+          "titles": [
+            "Phường Hội An Tây, Đà Nẵng",
+            "Phường Hội An Tây, Thành phố Đà Nẵng",
+            "Hội An Tây, Đà Nẵng",
+            "Phường Hội An Tây",
+            "Hội An Tây",
+            "Hội An Tây",
+            "HộiAnTây",
+            "Hội An Tây (phường)",
+            "H ội An T ây",
+            "H ội An T ây (xã)",
+            "H ội An T ây, Đà Nẵng"
+          ],
+          "slug": "Xa_Hoi_An_Tay",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20401",
+          "cq_id": "Tinh.Da_Nang.Xa_Hoi_An_Tay",
+          "status": "hit",
+          "wiki_title": "Hội An Tây",
+          "wiki_pageid": 1252496,
+          "oldid": 75345465,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Hoi_An_Tay/index.md"
+        },
+        {
+          "label": "Phường Hội An",
+          "titles": [
+            "Phường Hội An, Đà Nẵng",
+            "Phường Hội An, Thành phố Đà Nẵng",
+            "Hội An, Đà Nẵng",
+            "Phường Hội An",
+            "Hội An",
+            "Hội An",
+            "HộiAn",
+            "Hội An (phường)",
+            "H ội An",
+            "H ội An (xã)",
+            "H ội An, Đà Nẵng"
+          ],
+          "slug": "Xa_Hoi_An",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20410",
+          "cq_id": "Tinh.Da_Nang.Xa_Hoi_An",
+          "status": "hit",
+          "wiki_title": "Hội An (phường)",
+          "wiki_pageid": 1252272,
+          "oldid": 75502952,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Hoi_An/index.md"
+        },
+        {
+          "label": "Phường Hội An Đông",
+          "titles": [
+            "Phường Hội An Đông, Đà Nẵng",
+            "Phường Hội An Đông, Thành phố Đà Nẵng",
+            "Hội An Đông, Đà Nẵng",
+            "Phường Hội An Đông",
+            "Hội An Đông",
+            "Hội An Đông",
+            "HộiAnĐông",
+            "Hội An Đông (phường)",
+            "H ội An Đ ông",
+            "H ội An Đ ông (xã)",
+            "H ội An Đ ông, Đà Nẵng"
+          ],
+          "slug": "Xa_Hoi_An_Dong",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20413",
+          "cq_id": "Tinh.Da_Nang.Xa_Hoi_An_Dong",
+          "status": "hit",
+          "wiki_title": "Hội An Đông",
+          "wiki_pageid": 1242896,
+          "oldid": 75500402,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Hoi_An_Dong/index.md"
+        },
+        {
+          "label": "Phường Điện Bàn",
+          "titles": [
+            "Phường Điện Bàn, Đà Nẵng",
+            "Phường Điện Bàn, Thành phố Đà Nẵng",
+            "Điện Bàn, Đà Nẵng",
+            "Phường Điện Bàn",
+            "Điện Bàn",
+            "Điện Bàn",
+            "ĐiệnBàn",
+            "Điện Bàn (phường)",
+            "Đi ện B àn",
+            "Đi ện B àn (xã)",
+            "Đi ện B àn, Đà Nẵng"
+          ],
+          "slug": "Xa_Dien_Ban",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20551",
+          "cq_id": "Tinh.Da_Nang.Xa_Dien_Ban",
+          "status": "hit",
+          "wiki_title": "Điện Bàn (phường)",
+          "wiki_pageid": 1254145,
+          "oldid": 75488113,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Dien_Ban/index.md"
+        },
+        {
+          "label": "Phường Điện Bàn Bắc",
+          "titles": [
+            "Phường Điện Bàn Bắc, Đà Nẵng",
+            "Phường Điện Bàn Bắc, Thành phố Đà Nẵng",
+            "Điện Bàn Bắc, Đà Nẵng",
+            "Phường Điện Bàn Bắc",
+            "Điện Bàn Bắc",
+            "Điện Bàn Bắc",
+            "ĐiệnBànBắc",
+            "Điện Bàn Bắc (phường)",
+            "Đi ện B àn B ắc",
+            "Đi ện B àn B ắc (xã)",
+            "Đi ện B àn B ắc, Đà Nẵng"
+          ],
+          "slug": "Xa_Dien_Ban_Bac",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20557",
+          "cq_id": "Tinh.Da_Nang.Xa_Dien_Ban_Bac",
+          "status": "hit",
+          "wiki_title": "Điện Bàn Bắc",
+          "wiki_pageid": 1243505,
+          "oldid": 75474378,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Dien_Ban_Bac/index.md"
+        },
+        {
+          "label": "Phường An Thắng",
+          "titles": [
+            "Phường An Thắng, Đà Nẵng",
+            "Phường An Thắng, Thành phố Đà Nẵng",
+            "An Thắng, Đà Nẵng",
+            "Phường An Thắng",
+            "An Thắng",
+            "An Thắng",
+            "AnThắng",
+            "An Thắng (phường)",
+            "An Th ắng",
+            "An Th ắng (xã)",
+            "An Th ắng, Đà Nẵng"
+          ],
+          "slug": "Xa_An_Thang",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20575",
+          "cq_id": "Tinh.Da_Nang.Xa_An_Thang",
+          "status": "hit",
+          "wiki_title": "An Thắng",
+          "wiki_pageid": 1243486,
+          "oldid": 75504790,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_An_Thang/index.md"
+        },
+        {
+          "label": "Phường Điện Bàn Đông",
+          "titles": [
+            "Phường Điện Bàn Đông, Đà Nẵng",
+            "Phường Điện Bàn Đông, Thành phố Đà Nẵng",
+            "Điện Bàn Đông, Đà Nẵng",
+            "Phường Điện Bàn Đông",
+            "Điện Bàn Đông",
+            "Điện Bàn Đông",
+            "ĐiệnBànĐông",
+            "Điện Bàn Đông (phường)",
+            "Đi ện B àn Đ ông",
+            "Đi ện B àn Đ ông (xã)",
+            "Đi ện B àn Đ ông, Đà Nẵng"
+          ],
+          "slug": "Xa_Dien_Ban_Dong",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20579",
+          "cq_id": "Tinh.Da_Nang.Xa_Dien_Ban_Dong",
+          "status": "hit",
+          "wiki_title": "Điện Bàn Đông",
+          "wiki_pageid": 1243528,
+          "oldid": 75474363,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Dien_Ban_Dong/index.md"
+        },
+        {
+          "label": "Xã Bà Nà",
+          "titles": [
+            "Xã Bà Nà, Đà Nẵng",
+            "Xã Bà Nà, Thành phố Đà Nẵng",
+            "Bà Nà, Đà Nẵng",
+            "Xã Bà Nà",
+            "Bà Nà",
+            "Bà Nà",
+            "BàNà",
+            "Bà Nà (xã)",
+            "B à N à",
+            "B à N à (xã)",
+            "B à N à, Đà Nẵng"
+          ],
+          "slug": "Xa_Ba_Na",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20308",
+          "cq_id": "Tinh.Da_Nang.Xa_Ba_Na",
+          "status": "hit",
+          "wiki_title": "Bà Nà (xã)",
+          "wiki_pageid": 1244482,
+          "oldid": 75496782,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Ba_Na/index.md"
+        },
+        {
+          "label": "Xã Hòa Vang",
+          "titles": [
+            "Xã Hòa Vang, Đà Nẵng",
+            "Xã Hòa Vang, Thành phố Đà Nẵng",
+            "Hòa Vang, Đà Nẵng",
+            "Xã Hòa Vang",
+            "Hòa Vang",
+            "Hòa Vang",
+            "HòaVang",
+            "Hòa Vang (xã)",
+            "H òa Vang",
+            "H òa Vang (xã)",
+            "H òa Vang, Đà Nẵng"
+          ],
+          "slug": "Xa_Hoa_Vang",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20320",
+          "cq_id": "Tinh.Da_Nang.Xa_Hoa_Vang",
+          "status": "hit",
+          "wiki_title": "Hòa Vang (xã)",
+          "wiki_pageid": 1244487,
+          "oldid": 75462127,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Hoa_Vang/index.md"
+        },
+        {
+          "label": "Xã Hòa Tiến",
+          "titles": [
+            "Xã Hòa Tiến, Đà Nẵng",
+            "Xã Hòa Tiến, Thành phố Đà Nẵng",
+            "Hòa Tiến, Đà Nẵng",
+            "Xã Hòa Tiến",
+            "Hòa Tiến",
+            "Hòa Tiến",
+            "HòaTiến",
+            "Hòa Tiến (xã)",
+            "H òa Ti ến",
+            "H òa Ti ến (xã)",
+            "H òa Ti ến, Đà Nẵng"
+          ],
+          "slug": "Xa_Hoa_Tien",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20332",
+          "cq_id": "Tinh.Da_Nang.Xa_Hoa_Tien",
+          "status": "hit",
+          "wiki_title": "Hòa Tiến",
+          "wiki_pageid": 1244540,
+          "oldid": 75496529,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Hoa_Tien/index.md"
+        },
+        {
+          "label": "Xã Tây Hồ",
+          "titles": [
+            "Xã Tây Hồ, Đà Nẵng",
+            "Xã Tây Hồ, Thành phố Đà Nẵng",
+            "Tây Hồ, Đà Nẵng",
+            "Xã Tây Hồ",
+            "Tây Hồ",
+            "Tây Hồ",
+            "TâyHồ",
+            "Tây Hồ (xã)",
+            "T ây H ồ",
+            "T ây H ồ (xã)",
+            "T ây H ồ, Đà Nẵng"
+          ],
+          "slug": "Xa_Tay_Ho",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20380",
+          "cq_id": "Tinh.Da_Nang.Xa_Tay_Ho",
+          "status": "hit",
+          "wiki_title": "Tây Hồ (xã)",
+          "wiki_pageid": 1252463,
+          "oldid": 75219004,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Tay_Ho/index.md"
+        },
+        {
+          "label": "Xã Phú Ninh",
+          "titles": [
+            "Xã Phú Ninh, Đà Nẵng",
+            "Xã Phú Ninh, Thành phố Đà Nẵng",
+            "Phú Ninh, Đà Nẵng",
+            "Xã Phú Ninh",
+            "Phú Ninh",
+            "Phú Ninh",
+            "PhúNinh",
+            "Phú Ninh (xã)",
+            "Ph ú Ninh",
+            "Ph ú Ninh (xã)",
+            "Ph ú Ninh, Đà Nẵng"
+          ],
+          "slug": "Xa_Phu_Ninh",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20392",
+          "cq_id": "Tinh.Da_Nang.Xa_Phu_Ninh",
+          "status": "hit",
+          "wiki_title": "Phú Ninh (xã)",
+          "wiki_pageid": 1252425,
+          "oldid": 75218904,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Phu_Ninh/index.md"
+        },
+        {
+          "label": "Xã Tân Hiệp",
+          "titles": [
+            "Xã Tân Hiệp, Đà Nẵng",
+            "Xã Tân Hiệp, Thành phố Đà Nẵng",
+            "Tân Hiệp, Đà Nẵng",
+            "Xã Tân Hiệp",
+            "Tân Hiệp",
+            "Tân Hiệp",
+            "TânHiệp",
+            "Tân Hiệp (xã)",
+            "T ân Hi ệp",
+            "T ân Hi ệp (xã)",
+            "T ân Hi ệp, Đà Nẵng"
+          ],
+          "slug": "Xa_Tan_Hiep",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20434",
+          "cq_id": "Tinh.Da_Nang.Xa_Tan_Hiep",
+          "status": "hit",
+          "wiki_title": "Tân Hiệp, Đà Nẵng",
+          "wiki_pageid": 824924,
+          "oldid": 75488320,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Tan_Hiep/index.md"
+        },
+        {
+          "label": "Xã Hùng Sơn",
+          "titles": [
+            "Xã Hùng Sơn, Đà Nẵng",
+            "Xã Hùng Sơn, Thành phố Đà Nẵng",
+            "Hùng Sơn, Đà Nẵng",
+            "Xã Hùng Sơn",
+            "Hùng Sơn",
+            "Hùng Sơn",
+            "HùngSơn",
+            "Hùng Sơn (xã)",
+            "H ùng S ơn",
+            "H ùng S ơn (xã)",
+            "H ùng S ơn, Đà Nẵng"
+          ],
+          "slug": "Xa_Hung_Son",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20443",
+          "cq_id": "Tinh.Da_Nang.Xa_Hung_Son",
+          "status": "hit",
+          "wiki_title": "Hùng Sơn",
+          "wiki_pageid": 1242098,
+          "oldid": 75443063,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Hung_Son/index.md"
+        },
+        {
+          "label": "Xã Tây Giang",
+          "titles": [
+            "Xã Tây Giang, Đà Nẵng",
+            "Xã Tây Giang, Thành phố Đà Nẵng",
+            "Tây Giang, Đà Nẵng",
+            "Xã Tây Giang",
+            "Tây Giang",
+            "Tây Giang",
+            "TâyGiang",
+            "Tây Giang (xã)",
+            "T ây Giang",
+            "T ây Giang (xã)",
+            "T ây Giang, Đà Nẵng"
+          ],
+          "slug": "Xa_Tay_Giang",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20455",
+          "cq_id": "Tinh.Da_Nang.Xa_Tay_Giang",
+          "status": "hit",
+          "wiki_title": "Tây Giang (xã)",
+          "wiki_pageid": 1242093,
+          "oldid": 75191670,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Tay_Giang/index.md"
+        },
+        {
+          "label": "Xã A vương",
+          "titles": [
+            "Xã A vương, Đà Nẵng",
+            "Xã A vương, Thành phố Đà Nẵng",
+            "A vương, Đà Nẵng",
+            "Xã A vương",
+            "A vương",
+            "A Vương",
+            "Avương",
+            "A vương (xã)",
+            "A v ư ơng",
+            "A v ư ơng (xã)",
+            "A v ư ơng, Đà Nẵng"
+          ],
+          "slug": "Xa_A_Vuong",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20458",
+          "cq_id": "Tinh.Da_Nang.Xa_A_Vuong",
+          "status": "hit",
+          "wiki_title": "Avương",
+          "wiki_pageid": 1242097,
+          "oldid": 75230225,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_A_Vuong/index.md"
+        },
+        {
+          "label": "Xã Đông Giang",
+          "titles": [
+            "Xã Đông Giang, Đà Nẵng",
+            "Xã Đông Giang, Thành phố Đà Nẵng",
+            "Đông Giang, Đà Nẵng",
+            "Xã Đông Giang",
+            "Đông Giang",
+            "Đông Giang",
+            "ĐôngGiang",
+            "Đông Giang (xã)",
+            "Đ ông Giang",
+            "Đ ông Giang (xã)",
+            "Đ ông Giang, Đà Nẵng"
+          ],
+          "slug": "Xa_Dong_Giang",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20467",
+          "cq_id": "Tinh.Da_Nang.Xa_Dong_Giang",
+          "status": "hit",
+          "wiki_title": "Đông Giang, Đà Nẵng",
+          "wiki_pageid": 1251370,
+          "oldid": 75227902,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Dong_Giang/index.md"
+        },
+        {
+          "label": "Xã Sông Kôn",
+          "titles": [
+            "Xã Sông Kôn, Đà Nẵng",
+            "Xã Sông Kôn, Thành phố Đà Nẵng",
+            "Sông Kôn, Đà Nẵng",
+            "Xã Sông Kôn",
+            "Sông Kôn",
+            "Sông Kôn",
+            "SôngKôn",
+            "Sông Kôn (xã)",
+            "S ông K ôn",
+            "S ông K ôn (xã)",
+            "S ông K ôn, Đà Nẵng"
+          ],
+          "slug": "Xa_Song_Kon",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20476",
+          "cq_id": "Tinh.Da_Nang.Xa_Song_Kon",
+          "status": "hit",
+          "wiki_title": "Sông Kôn (xã)",
+          "wiki_pageid": 1252326,
+          "oldid": 75191664,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Song_Kon/index.md"
+        },
+        {
+          "label": "Xã Sông Vàng",
+          "titles": [
+            "Xã Sông Vàng, Đà Nẵng",
+            "Xã Sông Vàng, Thành phố Đà Nẵng",
+            "Sông Vàng, Đà Nẵng",
+            "Xã Sông Vàng",
+            "Sông Vàng",
+            "Sông Vàng",
+            "SôngVàng",
+            "Sông Vàng (xã)",
+            "S ông V àng",
+            "S ông V àng (xã)",
+            "S ông V àng, Đà Nẵng"
+          ],
+          "slug": "Xa_Song_Vang",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20485",
+          "cq_id": "Tinh.Da_Nang.Xa_Song_Vang",
+          "status": "hit",
+          "wiki_title": "Sông Vàng (xã)",
+          "wiki_pageid": 1242336,
+          "oldid": 75191662,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Song_Vang/index.md"
+        },
+        {
+          "label": "Xã Bến Hiên",
+          "titles": [
+            "Xã Bến Hiên, Đà Nẵng",
+            "Xã Bến Hiên, Thành phố Đà Nẵng",
+            "Bến Hiên, Đà Nẵng",
+            "Xã Bến Hiên",
+            "Bến Hiên",
+            "Bến Hiên",
+            "BếnHiên",
+            "Bến Hiên (xã)",
+            "B ến Hi ên",
+            "B ến Hi ên (xã)",
+            "B ến Hi ên, Đà Nẵng"
+          ],
+          "slug": "Xa_Ben_Hien",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20494",
+          "cq_id": "Tinh.Da_Nang.Xa_Ben_Hien",
+          "status": "hit",
+          "wiki_title": "Bến Hiên",
+          "wiki_pageid": 1250462,
+          "oldid": 75464401,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Ben_Hien/index.md"
+        },
+        {
+          "label": "Xã Đại Lộc",
+          "titles": [
+            "Xã Đại Lộc, Đà Nẵng",
+            "Xã Đại Lộc, Thành phố Đà Nẵng",
+            "Đại Lộc, Đà Nẵng",
+            "Xã Đại Lộc",
+            "Đại Lộc",
+            "Đại Lộc",
+            "ĐạiLộc",
+            "Đại Lộc (xã)",
+            "Đ ại L ộc",
+            "Đ ại L ộc (xã)",
+            "Đ ại L ộc, Đà Nẵng"
+          ],
+          "slug": "Xa_Dai_Loc",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20500",
+          "cq_id": "Tinh.Da_Nang.Xa_Dai_Loc",
+          "status": "hit",
+          "wiki_title": "Đại Lộc (xã)",
+          "wiki_pageid": 229215,
+          "oldid": 75474347,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Dai_Loc/index.md"
+        },
+        {
+          "label": "Xã Thượng Đức",
+          "titles": [
+            "Xã Thượng Đức, Đà Nẵng",
+            "Xã Thượng Đức, Thành phố Đà Nẵng",
+            "Thượng Đức, Đà Nẵng",
+            "Xã Thượng Đức",
+            "Thượng Đức",
+            "Thượng Đức",
+            "ThượngĐức",
+            "Thượng Đức (xã)",
+            "Th ư ợng Đ ức",
+            "Th ư ợng Đ ức (xã)",
+            "Th ư ợng Đ ức, Đà Nẵng"
+          ],
+          "slug": "Xa_Thuong_Duc",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20506",
+          "cq_id": "Tinh.Da_Nang.Xa_Thuong_Duc",
+          "status": "hit",
+          "wiki_title": "Thượng Đức, Đà Nẵng",
+          "wiki_pageid": 1262791,
+          "oldid": 75472445,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Thuong_Duc/index.md"
+        },
+        {
+          "label": "Xã Hà Nha",
+          "titles": [
+            "Xã Hà Nha, Đà Nẵng",
+            "Xã Hà Nha, Thành phố Đà Nẵng",
+            "Hà Nha, Đà Nẵng",
+            "Xã Hà Nha",
+            "Hà Nha",
+            "Hà Nha",
+            "HàNha",
+            "Hà Nha (xã)",
+            "H à Nha",
+            "H à Nha (xã)",
+            "H à Nha, Đà Nẵng"
+          ],
+          "slug": "Xa_Ha_Nha",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20515",
+          "cq_id": "Tinh.Da_Nang.Xa_Ha_Nha",
+          "status": "hit",
+          "wiki_title": "Hà Nha",
+          "wiki_pageid": 115181,
+          "oldid": 75366591,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Ha_Nha/index.md"
+        },
+        {
+          "label": "Xã Vu Gia",
+          "titles": [
+            "Xã Vu Gia, Đà Nẵng",
+            "Xã Vu Gia, Thành phố Đà Nẵng",
+            "Vu Gia, Đà Nẵng",
+            "Xã Vu Gia",
+            "Vu Gia",
+            "Vu Gia",
+            "VuGia",
+            "Vu Gia (xã)"
+          ],
+          "slug": "Xa_Vu_Gia",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20539",
+          "cq_id": "Tinh.Da_Nang.Xa_Vu_Gia",
+          "status": "hit",
+          "wiki_title": "Vu Gia",
+          "wiki_pageid": 1262795,
+          "oldid": 75505021,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Vu_Gia/index.md"
+        },
+        {
+          "label": "Xã Phú Thuận",
+          "titles": [
+            "Xã Phú Thuận, Đà Nẵng",
+            "Xã Phú Thuận, Thành phố Đà Nẵng",
+            "Phú Thuận, Đà Nẵng",
+            "Xã Phú Thuận",
+            "Phú Thuận",
+            "Phú Thuận",
+            "PhúThuận",
+            "Phú Thuận (xã)",
+            "Ph ú Thu ận",
+            "Ph ú Thu ận (xã)",
+            "Ph ú Thu ận, Đà Nẵng"
+          ],
+          "slug": "Xa_Phu_Thuan",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20542",
+          "cq_id": "Tinh.Da_Nang.Xa_Phu_Thuan",
+          "status": "hit",
+          "wiki_title": "Phú Thuận, Đà Nẵng",
+          "wiki_pageid": 1262818,
+          "oldid": 75496770,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Phu_Thuan/index.md"
+        },
+        {
+          "label": "Xã Điện Bàn Tây",
+          "titles": [
+            "Xã Điện Bàn Tây, Đà Nẵng",
+            "Xã Điện Bàn Tây, Thành phố Đà Nẵng",
+            "Điện Bàn Tây, Đà Nẵng",
+            "Xã Điện Bàn Tây",
+            "Điện Bàn Tây",
+            "Điện Bàn Tây",
+            "ĐiệnBànTây",
+            "Điện Bàn Tây (xã)",
+            "Đi ện B àn T ây",
+            "Đi ện B àn T ây (xã)",
+            "Đi ện B àn T ây, Đà Nẵng"
+          ],
+          "slug": "Xa_Dien_Ban_Tay",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20569",
+          "cq_id": "Tinh.Da_Nang.Xa_Dien_Ban_Tay",
+          "status": "hit",
+          "wiki_title": "Điện Bàn Tây",
+          "wiki_pageid": 1243554,
+          "oldid": 75505064,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Dien_Ban_Tay/index.md"
+        },
+        {
+          "label": "Xã Gò Nổi",
+          "titles": [
+            "Xã Gò Nổi, Đà Nẵng",
+            "Xã Gò Nổi, Thành phố Đà Nẵng",
+            "Gò Nổi, Đà Nẵng",
+            "Xã Gò Nổi",
+            "Gò Nổi",
+            "Gò Nổi",
+            "GòNổi",
+            "Gò Nổi (xã)",
+            "G ò N ổi",
+            "G ò N ổi (xã)",
+            "G ò N ổi, Đà Nẵng"
+          ],
+          "slug": "Xa_Go_Noi",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20587",
+          "cq_id": "Tinh.Da_Nang.Xa_Go_Noi",
+          "status": "hit",
+          "wiki_title": "Gò Nổi",
+          "wiki_pageid": 1243558,
+          "oldid": 75496714,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Go_Noi/index.md"
+        },
+        {
+          "label": "Xã Nam Phước",
+          "titles": [
+            "Xã Nam Phước, Đà Nẵng",
+            "Xã Nam Phước, Thành phố Đà Nẵng",
+            "Nam Phước, Đà Nẵng",
+            "Xã Nam Phước",
+            "Nam Phước",
+            "Nam Phước",
+            "NamPhước",
+            "Nam Phước (xã)",
+            "Nam Ph ư ớc",
+            "Nam Ph ư ớc (xã)",
+            "Nam Ph ư ớc, Đà Nẵng"
+          ],
+          "slug": "Xa_Nam_Phuoc",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20599",
+          "cq_id": "Tinh.Da_Nang.Xa_Nam_Phuoc",
+          "status": "hit",
+          "wiki_title": "Nam Phước",
+          "wiki_pageid": 1250912,
+          "oldid": 75474276,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Nam_Phuoc/index.md"
+        },
+        {
+          "label": "Xã Thu Bồn",
+          "titles": [
+            "Xã Thu Bồn, Đà Nẵng",
+            "Xã Thu Bồn, Thành phố Đà Nẵng",
+            "Thu Bồn, Đà Nẵng",
+            "Xã Thu Bồn",
+            "Thu Bồn",
+            "Thu Bồn",
+            "ThuBồn",
+            "Thu Bồn (xã)",
+            "Thu B ồn",
+            "Thu B ồn (xã)",
+            "Thu B ồn, Đà Nẵng"
+          ],
+          "slug": "Xa_Thu_Bon",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20611",
+          "cq_id": "Tinh.Da_Nang.Xa_Thu_Bon",
+          "status": "hit",
+          "wiki_title": "Thu Bồn (xã)",
+          "wiki_pageid": 1243937,
+          "oldid": 75500434,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Thu_Bon/index.md"
+        },
+        {
+          "label": "Xã Duy Xuyên",
+          "titles": [
+            "Xã Duy Xuyên, Đà Nẵng",
+            "Xã Duy Xuyên, Thành phố Đà Nẵng",
+            "Duy Xuyên, Đà Nẵng",
+            "Xã Duy Xuyên",
+            "Duy Xuyên",
+            "Duy Xuyên",
+            "DuyXuyên",
+            "Duy Xuyên (xã)",
+            "Duy Xuy ên",
+            "Duy Xuy ên (xã)",
+            "Duy Xuy ên, Đà Nẵng"
+          ],
+          "slug": "Xa_Duy_Xuyen",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20623",
+          "cq_id": "Tinh.Da_Nang.Xa_Duy_Xuyen",
+          "status": "hit",
+          "wiki_title": "Duy Xuyên (xã)",
+          "wiki_pageid": 1243951,
+          "oldid": 75504986,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Duy_Xuyen/index.md"
+        },
+        {
+          "label": "Xã Duy Nghĩa",
+          "titles": [
+            "Xã Duy Nghĩa, Đà Nẵng",
+            "Xã Duy Nghĩa, Thành phố Đà Nẵng",
+            "Duy Nghĩa, Đà Nẵng",
+            "Xã Duy Nghĩa",
+            "Duy Nghĩa",
+            "Duy Nghĩa",
+            "DuyNghĩa",
+            "Duy Nghĩa (xã)",
+            "Duy Ngh ĩa",
+            "Duy Ngh ĩa (xã)",
+            "Duy Ngh ĩa, Đà Nẵng"
+          ],
+          "slug": "Xa_Duy_Nghia",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20635",
+          "cq_id": "Tinh.Da_Nang.Xa_Duy_Nghia",
+          "status": "hit",
+          "wiki_title": "Duy Nghĩa",
+          "wiki_pageid": 86712,
+          "oldid": 75192304,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Duy_Nghia/index.md"
+        },
+        {
+          "label": "Xã Quế Sơn",
+          "titles": [
+            "Xã Quế Sơn, Đà Nẵng",
+            "Xã Quế Sơn, Thành phố Đà Nẵng",
+            "Quế Sơn, Đà Nẵng",
+            "Xã Quế Sơn",
+            "Quế Sơn",
+            "Quế Sơn",
+            "QuếSơn",
+            "Quế Sơn (xã)",
+            "Qu ế S ơn",
+            "Qu ế S ơn (xã)",
+            "Qu ế S ơn, Đà Nẵng"
+          ],
+          "slug": "Xa_Que_Son",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20641",
+          "cq_id": "Tinh.Da_Nang.Xa_Que_Son",
+          "status": "hit",
+          "wiki_title": "Quế Sơn (xã)",
+          "wiki_pageid": 1243731,
+          "oldid": 75437731,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Que_Son/index.md"
+        },
+        {
+          "label": "Xã Xuân Phú",
+          "titles": [
+            "Xã Xuân Phú, Đà Nẵng",
+            "Xã Xuân Phú, Thành phố Đà Nẵng",
+            "Xuân Phú, Đà Nẵng",
+            "Xã Xuân Phú",
+            "Xuân Phú",
+            "Xuân Phú",
+            "XuânPhú",
+            "Xuân Phú (xã)",
+            "Xu ân Ph ú",
+            "Xu ân Ph ú (xã)",
+            "Xu ân Ph ú, Đà Nẵng"
+          ],
+          "slug": "Xa_Xuan_Phu",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20650",
+          "cq_id": "Tinh.Da_Nang.Xa_Xuan_Phu",
+          "status": "hit",
+          "wiki_title": "Xuân Phú, Đà Nẵng",
+          "wiki_pageid": 1252049,
+          "oldid": 75500397,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Xuan_Phu/index.md"
+        },
+        {
+          "label": "Xã Nông Sơn",
+          "titles": [
+            "Xã Nông Sơn, Đà Nẵng",
+            "Xã Nông Sơn, Thành phố Đà Nẵng",
+            "Nông Sơn, Đà Nẵng",
+            "Xã Nông Sơn",
+            "Nông Sơn",
+            "Nông Sơn",
+            "NôngSơn",
+            "Nông Sơn (xã)",
+            "N ông S ơn",
+            "N ông S ơn (xã)",
+            "N ông S ơn, Đà Nẵng"
+          ],
+          "slug": "Xa_Nong_Son",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20656",
+          "cq_id": "Tinh.Da_Nang.Xa_Nong_Son",
+          "status": "hit",
+          "wiki_title": "Nông Sơn (xã)",
+          "wiki_pageid": 1262693,
+          "oldid": 75499146,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Nong_Son/index.md"
+        },
+        {
+          "label": "Xã Quế Sơn Trung",
+          "titles": [
+            "Xã Quế Sơn Trung, Đà Nẵng",
+            "Xã Quế Sơn Trung, Thành phố Đà Nẵng",
+            "Quế Sơn Trung, Đà Nẵng",
+            "Xã Quế Sơn Trung",
+            "Quế Sơn Trung",
+            "Quế Sơn Trung",
+            "QuếSơnTrung",
+            "Quế Sơn Trung (xã)",
+            "Qu ế S ơn Trung",
+            "Qu ế S ơn Trung (xã)",
+            "Qu ế S ơn Trung, Đà Nẵng"
+          ],
+          "slug": "Xa_Que_Son_Trung",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20662",
+          "cq_id": "Tinh.Da_Nang.Xa_Que_Son_Trung",
+          "status": "hit",
+          "wiki_title": "Quế Sơn Trung",
+          "wiki_pageid": 1252055,
+          "oldid": 75505000,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Que_Son_Trung/index.md"
+        },
+        {
+          "label": "Xã Quế Phước",
+          "titles": [
+            "Xã Quế Phước, Đà Nẵng",
+            "Xã Quế Phước, Thành phố Đà Nẵng",
+            "Quế Phước, Đà Nẵng",
+            "Xã Quế Phước",
+            "Quế Phước",
+            "Quế Phước",
+            "QuếPhước",
+            "Quế Phước (xã)",
+            "Qu ế Ph ư ớc",
+            "Qu ế Ph ư ớc (xã)",
+            "Qu ế Ph ư ớc, Đà Nẵng"
+          ],
+          "slug": "Xa_Que_Phuoc",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20669",
+          "cq_id": "Tinh.Da_Nang.Xa_Que_Phuoc",
+          "status": "hit",
+          "wiki_title": "Quế Phước",
+          "wiki_pageid": 1252050,
+          "oldid": 75437728,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Que_Phuoc/index.md"
+        },
+        {
+          "label": "Xã Thạnh Mỹ",
+          "titles": [
+            "Xã Thạnh Mỹ, Đà Nẵng",
+            "Xã Thạnh Mỹ, Thành phố Đà Nẵng",
+            "Thạnh Mỹ, Đà Nẵng",
+            "Xã Thạnh Mỹ",
+            "Thạnh Mỹ",
+            "Thạnh Mỹ",
+            "ThạnhMỹ",
+            "Thạnh Mỹ (xã)",
+            "Th ạnh Mỹ",
+            "Th ạnh Mỹ (xã)",
+            "Th ạnh Mỹ, Đà Nẵng"
+          ],
+          "slug": "Xa_Thanh_My",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20695",
+          "cq_id": "Tinh.Da_Nang.Xa_Thanh_My",
+          "status": "hit",
+          "wiki_title": "Thạnh Mỹ",
+          "wiki_pageid": 1253131,
+          "oldid": 75191659,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Thanh_My/index.md"
+        },
+        {
+          "label": "Xã La Dêê",
+          "titles": [
+            "Xã La Dêê, Đà Nẵng",
+            "Xã La Dêê, Thành phố Đà Nẵng",
+            "La Dêê, Đà Nẵng",
+            "Xã La Dêê",
+            "La Dêê",
+            "La Dêê",
+            "LaDêê",
+            "La Dêê (xã)",
+            "La D ê ê",
+            "La D ê ê (xã)",
+            "La D ê ê, Đà Nẵng"
+          ],
+          "slug": "Xa_La_Dee",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20704",
+          "cq_id": "Tinh.Da_Nang.Xa_La_Dee",
+          "status": "hit",
+          "wiki_title": "La Dêê",
+          "wiki_pageid": 1249994,
+          "oldid": 75191651,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_La_Dee/index.md"
+        },
+        {
+          "label": "Xã Nam Giang",
+          "titles": [
+            "Xã Nam Giang, Đà Nẵng",
+            "Xã Nam Giang, Thành phố Đà Nẵng",
+            "Nam Giang, Đà Nẵng",
+            "Xã Nam Giang",
+            "Nam Giang",
+            "Nam Giang",
+            "NamGiang",
+            "Nam Giang (xã)"
+          ],
+          "slug": "Xa_Nam_Giang",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20707",
+          "cq_id": "Tinh.Da_Nang.Xa_Nam_Giang",
+          "status": "hit",
+          "wiki_title": "Nam Giang (xã)",
+          "wiki_pageid": 1243078,
+          "oldid": 75211668,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Nam_Giang/index.md"
+        },
+        {
+          "label": "Xã Bến Giằng",
+          "titles": [
+            "Xã Bến Giằng, Đà Nẵng",
+            "Xã Bến Giằng, Thành phố Đà Nẵng",
+            "Bến Giằng, Đà Nẵng",
+            "Xã Bến Giằng",
+            "Bến Giằng",
+            "Bến Giằng",
+            "BếnGiằng",
+            "Bến Giằng (xã)",
+            "B ến Gi ằng",
+            "B ến Gi ằng (xã)",
+            "B ến Gi ằng, Đà Nẵng"
+          ],
+          "slug": "Xa_Ben_Giang",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20710",
+          "cq_id": "Tinh.Da_Nang.Xa_Ben_Giang",
+          "status": "hit",
+          "wiki_title": "Bến Giằng",
+          "wiki_pageid": 1242874,
+          "oldid": 75191639,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Ben_Giang/index.md"
+        },
+        {
+          "label": "Xã Đắc Pring",
+          "titles": [
+            "Xã Đắc Pring, Đà Nẵng",
+            "Xã Đắc Pring, Thành phố Đà Nẵng",
+            "Đắc Pring, Đà Nẵng",
+            "Xã Đắc Pring",
+            "Đắc Pring",
+            "Đắc Pring",
+            "ĐắcPring",
+            "Đắc Pring (xã)",
+            "Đ ắc Pring",
+            "Đ ắc Pring (xã)",
+            "Đ ắc Pring, Đà Nẵng"
+          ],
+          "slug": "Xa_Dac_Pring",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20716",
+          "cq_id": "Tinh.Da_Nang.Xa_Dac_Pring",
+          "status": "hit",
+          "wiki_title": "Đắc Pring",
+          "wiki_pageid": 1262755,
+          "oldid": 75482858,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Dac_Pring/index.md"
+        },
+        {
+          "label": "Xã Khâm Đức",
+          "titles": [
+            "Xã Khâm Đức, Đà Nẵng",
+            "Xã Khâm Đức, Thành phố Đà Nẵng",
+            "Khâm Đức, Đà Nẵng",
+            "Xã Khâm Đức",
+            "Khâm Đức",
+            "Khâm Đức",
+            "KhâmĐức",
+            "Khâm Đức (xã)",
+            "Kh âm Đ ức",
+            "Kh âm Đ ức (xã)",
+            "Kh âm Đ ức, Đà Nẵng"
+          ],
+          "slug": "Xa_Kham_Duc",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20722",
+          "cq_id": "Tinh.Da_Nang.Xa_Kham_Duc",
+          "status": "hit",
+          "wiki_title": "Khâm Đức",
+          "wiki_pageid": 1262691,
+          "oldid": 75192036,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Kham_Duc/index.md"
+        },
+        {
+          "label": "Xã Phước Hiệp",
+          "titles": [
+            "Xã Phước Hiệp, Đà Nẵng",
+            "Xã Phước Hiệp, Thành phố Đà Nẵng",
+            "Phước Hiệp, Đà Nẵng",
+            "Xã Phước Hiệp",
+            "Phước Hiệp",
+            "Phước Hiệp",
+            "PhướcHiệp",
+            "Phước Hiệp (xã)",
+            "Ph ư ớc Hi ệp",
+            "Ph ư ớc Hi ệp (xã)",
+            "Ph ư ớc Hi ệp, Đà Nẵng"
+          ],
+          "slug": "Xa_Phuoc_Hiep",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20728",
+          "cq_id": "Tinh.Da_Nang.Xa_Phuoc_Hiep",
+          "status": "hit",
+          "wiki_title": "Phước Hiệp",
+          "wiki_pageid": 1251780,
+          "oldid": 75191982,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Phuoc_Hiep/index.md"
+        },
+        {
+          "label": "Xã Phước Năng",
+          "titles": [
+            "Xã Phước Năng, Đà Nẵng",
+            "Xã Phước Năng, Thành phố Đà Nẵng",
+            "Phước Năng, Đà Nẵng",
+            "Xã Phước Năng",
+            "Phước Năng",
+            "Phước Năng",
+            "PhướcNăng",
+            "Phước Năng (xã)",
+            "Ph ư ớc N ăng",
+            "Ph ư ớc N ăng (xã)",
+            "Ph ư ớc N ăng, Đà Nẵng"
+          ],
+          "slug": "Xa_Phuoc_Nang",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20734",
+          "cq_id": "Tinh.Da_Nang.Xa_Phuoc_Nang",
+          "status": "hit",
+          "wiki_title": "Phước Năng",
+          "wiki_pageid": 1251812,
+          "oldid": 75192039,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Phuoc_Nang/index.md"
+        },
+        {
+          "label": "Xã Phước Chánh",
+          "titles": [
+            "Xã Phước Chánh, Đà Nẵng",
+            "Xã Phước Chánh, Thành phố Đà Nẵng",
+            "Phước Chánh, Đà Nẵng",
+            "Xã Phước Chánh",
+            "Phước Chánh",
+            "Phước Chánh",
+            "PhướcChánh",
+            "Phước Chánh (xã)",
+            "Ph ư ớc Ch ánh",
+            "Ph ư ớc Ch ánh (xã)",
+            "Ph ư ớc Ch ánh, Đà Nẵng"
+          ],
+          "slug": "Xa_Phuoc_Chanh",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20740",
+          "cq_id": "Tinh.Da_Nang.Xa_Phuoc_Chanh",
+          "status": "hit",
+          "wiki_title": "Phước Chánh",
+          "wiki_pageid": 1251762,
+          "oldid": 75191775,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Phuoc_Chanh/index.md"
+        },
+        {
+          "label": "Xã Phước Thành",
+          "titles": [
+            "Xã Phước Thành, Đà Nẵng",
+            "Xã Phước Thành, Thành phố Đà Nẵng",
+            "Phước Thành, Đà Nẵng",
+            "Xã Phước Thành",
+            "Phước Thành",
+            "Phước Thành",
+            "PhướcThành",
+            "Phước Thành (xã)",
+            "Ph ư ớc Th ành",
+            "Ph ư ớc Th ành (xã)",
+            "Ph ư ớc Th ành, Đà Nẵng"
+          ],
+          "slug": "Xa_Phuoc_Thanh",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20752",
+          "cq_id": "Tinh.Da_Nang.Xa_Phuoc_Thanh",
+          "status": "hit",
+          "wiki_title": "Phước Thành, Đà Nẵng",
+          "wiki_pageid": 1251830,
+          "oldid": 75191886,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Phuoc_Thanh/index.md"
+        },
+        {
+          "label": "Xã Việt An",
+          "titles": [
+            "Xã Việt An, Đà Nẵng",
+            "Xã Việt An, Thành phố Đà Nẵng",
+            "Việt An, Đà Nẵng",
+            "Xã Việt An",
+            "Việt An",
+            "Việt An",
+            "ViệtAn",
+            "Việt An (xã)",
+            "Vi ệt An",
+            "Vi ệt An (xã)",
+            "Vi ệt An, Đà Nẵng"
+          ],
+          "slug": "Xa_Viet_An",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20767",
+          "cq_id": "Tinh.Da_Nang.Xa_Viet_An",
+          "status": "hit",
+          "wiki_title": "Việt An",
+          "wiki_pageid": 1242740,
+          "oldid": 75233006,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Viet_An/index.md"
+        },
+        {
+          "label": "Xã Phước Trà",
+          "titles": [
+            "Xã Phước Trà, Đà Nẵng",
+            "Xã Phước Trà, Thành phố Đà Nẵng",
+            "Phước Trà, Đà Nẵng",
+            "Xã Phước Trà",
+            "Phước Trà",
+            "Phước Trà",
+            "PhướcTrà",
+            "Phước Trà (xã)",
+            "Ph ư ớc Tr à",
+            "Ph ư ớc Tr à (xã)",
+            "Ph ư ớc Tr à, Đà Nẵng"
+          ],
+          "slug": "Xa_Phuoc_Tra",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20770",
+          "cq_id": "Tinh.Da_Nang.Xa_Phuoc_Tra",
+          "status": "hit",
+          "wiki_title": "Phước Trà",
+          "wiki_pageid": 1251840,
+          "oldid": 75232958,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Phuoc_Tra/index.md"
+        },
+        {
+          "label": "Xã Hiệp Đức",
+          "titles": [
+            "Xã Hiệp Đức, Đà Nẵng",
+            "Xã Hiệp Đức, Thành phố Đà Nẵng",
+            "Hiệp Đức, Đà Nẵng",
+            "Xã Hiệp Đức",
+            "Hiệp Đức",
+            "Hiệp Đức",
+            "HiệpĐức",
+            "Hiệp Đức (xã)",
+            "Hi ệp Đ ức",
+            "Hi ệp Đ ức (xã)",
+            "Hi ệp Đ ức, Đà Nẵng"
+          ],
+          "slug": "Xa_Hiep_Duc",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20779",
+          "cq_id": "Tinh.Da_Nang.Xa_Hiep_Duc",
+          "status": "hit",
+          "wiki_title": "Hiệp Đức, Đà Nẵng",
+          "wiki_pageid": 1252495,
+          "oldid": 75336203,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Hiep_Duc/index.md"
+        },
+        {
+          "label": "Xã Thăng Bình",
+          "titles": [
+            "Xã Thăng Bình, Đà Nẵng",
+            "Xã Thăng Bình, Thành phố Đà Nẵng",
+            "Thăng Bình, Đà Nẵng",
+            "Xã Thăng Bình",
+            "Thăng Bình",
+            "Thăng Bình",
+            "ThăngBình",
+            "Thăng Bình (xã)",
+            "Th ăng B ình",
+            "Th ăng B ình (xã)",
+            "Th ăng B ình, Đà Nẵng"
+          ],
+          "slug": "Xa_Thang_Binh",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20791",
+          "cq_id": "Tinh.Da_Nang.Xa_Thang_Binh",
+          "status": "hit",
+          "wiki_title": "Thăng Bình, Đà Nẵng",
+          "wiki_pageid": 1244155,
+          "oldid": 75312281,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Thang_Binh/index.md"
+        },
+        {
+          "label": "Xã Thăng An",
+          "titles": [
+            "Xã Thăng An, Đà Nẵng",
+            "Xã Thăng An, Thành phố Đà Nẵng",
+            "Thăng An, Đà Nẵng",
+            "Xã Thăng An",
+            "Thăng An",
+            "Thăng An",
+            "ThăngAn",
+            "Thăng An (xã)",
+            "Th ăng An",
+            "Th ăng An (xã)",
+            "Th ăng An, Đà Nẵng"
+          ],
+          "slug": "Xa_Thang_An",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20794",
+          "cq_id": "Tinh.Da_Nang.Xa_Thang_An",
+          "status": "hit",
+          "wiki_title": "Thăng An",
+          "wiki_pageid": 1242707,
+          "oldid": 75454042,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Thang_An/index.md"
+        },
+        {
+          "label": "Xã Đồng Dương",
+          "titles": [
+            "Xã Đồng Dương, Đà Nẵng",
+            "Xã Đồng Dương, Thành phố Đà Nẵng",
+            "Đồng Dương, Đà Nẵng",
+            "Xã Đồng Dương",
+            "Đồng Dương",
+            "Đồng Dương",
+            "ĐồngDương",
+            "Đồng Dương (xã)",
+            "Đ ồng D ư ơng",
+            "Đ ồng D ư ơng (xã)",
+            "Đ ồng D ư ơng, Đà Nẵng"
+          ],
+          "slug": "Xa_Dong_Duong",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20818",
+          "cq_id": "Tinh.Da_Nang.Xa_Dong_Duong",
+          "status": "hit",
+          "wiki_title": "Đồng Dương",
+          "wiki_pageid": 1242694,
+          "oldid": 75225698,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Dong_Duong/index.md"
+        },
+        {
+          "label": "Xã Thăng Phú",
+          "titles": [
+            "Xã Thăng Phú, Đà Nẵng",
+            "Xã Thăng Phú, Thành phố Đà Nẵng",
+            "Thăng Phú, Đà Nẵng",
+            "Xã Thăng Phú",
+            "Thăng Phú",
+            "Thăng Phú",
+            "ThăngPhú",
+            "Thăng Phú (xã)",
+            "Th ăng Ph ú",
+            "Th ăng Ph ú (xã)",
+            "Th ăng Ph ú, Đà Nẵng"
+          ],
+          "slug": "Xa_Thang_Phu",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20827",
+          "cq_id": "Tinh.Da_Nang.Xa_Thang_Phu",
+          "status": "hit",
+          "wiki_title": "Thăng Phú",
+          "wiki_pageid": 1242779,
+          "oldid": 75271969,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Thang_Phu/index.md"
+        },
+        {
+          "label": "Xã Thăng Trường",
+          "titles": [
+            "Xã Thăng Trường, Đà Nẵng",
+            "Xã Thăng Trường, Thành phố Đà Nẵng",
+            "Thăng Trường, Đà Nẵng",
+            "Xã Thăng Trường",
+            "Thăng Trường",
+            "Thăng Trường",
+            "ThăngTrường",
+            "Thăng Trường (xã)",
+            "Th ăng Tr ư ờng",
+            "Th ăng Tr ư ờng (xã)",
+            "Th ăng Tr ư ờng, Đà Nẵng"
+          ],
+          "slug": "Xa_Thang_Truong",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20836",
+          "cq_id": "Tinh.Da_Nang.Xa_Thang_Truong",
+          "status": "hit",
+          "wiki_title": "Thăng Trường",
+          "wiki_pageid": 1242788,
+          "oldid": 75197001,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Thang_Truong/index.md"
+        },
+        {
+          "label": "Xã Thăng Điền",
+          "titles": [
+            "Xã Thăng Điền, Đà Nẵng",
+            "Xã Thăng Điền, Thành phố Đà Nẵng",
+            "Thăng Điền, Đà Nẵng",
+            "Xã Thăng Điền",
+            "Thăng Điền",
+            "Thăng Điền",
+            "ThăngĐiền",
+            "Thăng Điền (xã)",
+            "Th ăng Đi ền",
+            "Th ăng Đi ền (xã)",
+            "Th ăng Đi ền, Đà Nẵng"
+          ],
+          "slug": "Xa_Thang_Dien",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20848",
+          "cq_id": "Tinh.Da_Nang.Xa_Thang_Dien",
+          "status": "hit",
+          "wiki_title": "Thăng Điền",
+          "wiki_pageid": 1242841,
+          "oldid": 75197007,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Thang_Dien/index.md"
+        },
+        {
+          "label": "Xã Tiên Phước",
+          "titles": [
+            "Xã Tiên Phước, Đà Nẵng",
+            "Xã Tiên Phước, Thành phố Đà Nẵng",
+            "Tiên Phước, Đà Nẵng",
+            "Xã Tiên Phước",
+            "Tiên Phước",
+            "Tiên Phước",
+            "TiênPhước",
+            "Tiên Phước (xã)",
+            "Ti ên Ph ư ớc",
+            "Ti ên Ph ư ớc (xã)",
+            "Ti ên Ph ư ớc, Đà Nẵng"
+          ],
+          "slug": "Xa_Tien_Phuoc",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20854",
+          "cq_id": "Tinh.Da_Nang.Xa_Tien_Phuoc",
+          "status": "hit",
+          "wiki_title": "Tiên Phước (xã)",
+          "wiki_pageid": 1253509,
+          "oldid": 75197384,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Tien_Phuoc/index.md"
+        },
+        {
+          "label": "Xã Sơn Cẩm Hà",
+          "titles": [
+            "Xã Sơn Cẩm Hà, Đà Nẵng",
+            "Xã Sơn Cẩm Hà, Thành phố Đà Nẵng",
+            "Sơn Cẩm Hà, Đà Nẵng",
+            "Xã Sơn Cẩm Hà",
+            "Sơn Cẩm Hà",
+            "Sơn Cẩm Hà",
+            "SơnCẩmHà",
+            "Sơn Cẩm Hà (xã)",
+            "S ơn C ẩm H à",
+            "S ơn C ẩm H à (xã)",
+            "S ơn C ẩm H à, Đà Nẵng"
+          ],
+          "slug": "Xa_Son_Cam_Ha",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20857",
+          "cq_id": "Tinh.Da_Nang.Xa_Son_Cam_Ha",
+          "status": "hit",
+          "wiki_title": "Sơn Cẩm Hà",
+          "wiki_pageid": 1253540,
+          "oldid": 75197559,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Son_Cam_Ha/index.md"
+        },
+        {
+          "label": "Xã Lãnh Ngọc",
+          "titles": [
+            "Xã Lãnh Ngọc, Đà Nẵng",
+            "Xã Lãnh Ngọc, Thành phố Đà Nẵng",
+            "Lãnh Ngọc, Đà Nẵng",
+            "Xã Lãnh Ngọc",
+            "Lãnh Ngọc",
+            "Lãnh Ngọc",
+            "LãnhNgọc",
+            "Lãnh Ngọc (xã)",
+            "L ãnh Ng ọc",
+            "L ãnh Ng ọc (xã)",
+            "L ãnh Ng ọc, Đà Nẵng"
+          ],
+          "slug": "Xa_Lanh_Ngoc",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20875",
+          "cq_id": "Tinh.Da_Nang.Xa_Lanh_Ngoc",
+          "status": "hit",
+          "wiki_title": "Lãnh Ngọc",
+          "wiki_pageid": 1253499,
+          "oldid": 75197329,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Lanh_Ngoc/index.md"
+        },
+        {
+          "label": "Xã Thạnh Bình",
+          "titles": [
+            "Xã Thạnh Bình, Đà Nẵng",
+            "Xã Thạnh Bình, Thành phố Đà Nẵng",
+            "Thạnh Bình, Đà Nẵng",
+            "Xã Thạnh Bình",
+            "Thạnh Bình",
+            "Thạnh Bình",
+            "ThạnhBình",
+            "Thạnh Bình (xã)",
+            "Th ạnh B ình",
+            "Th ạnh B ình (xã)",
+            "Th ạnh B ình, Đà Nẵng"
+          ],
+          "slug": "Xa_Thanh_Binh",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20878",
+          "cq_id": "Tinh.Da_Nang.Xa_Thanh_Binh",
+          "status": "hit",
+          "wiki_title": "Thạnh Bình, Đà Nẵng",
+          "wiki_pageid": 1253487,
+          "oldid": 75479206,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Thanh_Binh/index.md"
+        },
+        {
+          "label": "Xã Trà My",
+          "titles": [
+            "Xã Trà My, Đà Nẵng",
+            "Xã Trà My, Thành phố Đà Nẵng",
+            "Trà My, Đà Nẵng",
+            "Xã Trà My",
+            "Trà My",
+            "Trà My",
+            "TràMy",
+            "Trà My (xã)",
+            "Tr à My",
+            "Tr à My (xã)",
+            "Tr à My, Đà Nẵng"
+          ],
+          "slug": "Xa_Tra_My",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20900",
+          "cq_id": "Tinh.Da_Nang.Xa_Tra_My",
+          "status": "hit",
+          "wiki_title": "Trà My (xã)",
+          "wiki_pageid": 15190600,
+          "oldid": 75496738,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Tra_My/index.md"
+        },
+        {
+          "label": "Xã Trà Liên",
+          "titles": [
+            "Xã Trà Liên, Đà Nẵng",
+            "Xã Trà Liên, Thành phố Đà Nẵng",
+            "Trà Liên, Đà Nẵng",
+            "Xã Trà Liên",
+            "Trà Liên",
+            "Trà Liên",
+            "TràLiên",
+            "Trà Liên (xã)",
+            "Tr à Li ên",
+            "Tr à Li ên (xã)",
+            "Tr à Li ên, Đà Nẵng"
+          ],
+          "slug": "Xa_Tra_Lien",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20908",
+          "cq_id": "Tinh.Da_Nang.Xa_Tra_Lien",
+          "status": "hit",
+          "wiki_title": "Trà Liên",
+          "wiki_pageid": 1253616,
+          "oldid": 75479605,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Tra_Lien/index.md"
+        },
+        {
+          "label": "Xã Trà Đốc",
+          "titles": [
+            "Xã Trà Đốc, Đà Nẵng",
+            "Xã Trà Đốc, Thành phố Đà Nẵng",
+            "Trà Đốc, Đà Nẵng",
+            "Xã Trà Đốc",
+            "Trà Đốc",
+            "Trà Đốc",
+            "TràĐốc",
+            "Trà Đốc (xã)",
+            "Tr à Đ ốc",
+            "Tr à Đ ốc (xã)",
+            "Tr à Đ ốc, Đà Nẵng"
+          ],
+          "slug": "Xa_Tra_Doc",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20920",
+          "cq_id": "Tinh.Da_Nang.Xa_Tra_Doc",
+          "status": "hit",
+          "wiki_title": "Trà Đốc",
+          "wiki_pageid": 1253613,
+          "oldid": 75479720,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Tra_Doc/index.md"
+        },
+        {
+          "label": "Xã Trà Tân",
+          "titles": [
+            "Xã Trà Tân, Đà Nẵng",
+            "Xã Trà Tân, Thành phố Đà Nẵng",
+            "Trà Tân, Đà Nẵng",
+            "Xã Trà Tân",
+            "Trà Tân",
+            "Trà Tân",
+            "TràTân",
+            "Trà Tân (xã)",
+            "Tr à T ân",
+            "Tr à T ân (xã)",
+            "Tr à T ân, Đà Nẵng"
+          ],
+          "slug": "Xa_Tra_Tan",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20923",
+          "cq_id": "Tinh.Da_Nang.Xa_Tra_Tan",
+          "status": "hit",
+          "wiki_title": "Trà Tân, Đà Nẵng",
+          "wiki_pageid": 1253641,
+          "oldid": 75479634,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Tra_Tan/index.md"
+        },
+        {
+          "label": "Xã Trà Giáp",
+          "titles": [
+            "Xã Trà Giáp, Đà Nẵng",
+            "Xã Trà Giáp, Thành phố Đà Nẵng",
+            "Trà Giáp, Đà Nẵng",
+            "Xã Trà Giáp",
+            "Trà Giáp",
+            "Trà Giáp",
+            "TràGiáp",
+            "Trà Giáp (xã)",
+            "Tr à Gi áp",
+            "Tr à Gi áp (xã)",
+            "Tr à Gi áp, Đà Nẵng"
+          ],
+          "slug": "Xa_Tra_Giap",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20929",
+          "cq_id": "Tinh.Da_Nang.Xa_Tra_Giap",
+          "status": "hit",
+          "wiki_title": "Trà Giáp",
+          "wiki_pageid": 1253622,
+          "oldid": 75479598,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Tra_Giap/index.md"
+        },
+        {
+          "label": "Xã Trà Leng",
+          "titles": [
+            "Xã Trà Leng, Đà Nẵng",
+            "Xã Trà Leng, Thành phố Đà Nẵng",
+            "Trà Leng, Đà Nẵng",
+            "Xã Trà Leng",
+            "Trà Leng",
+            "Trà Leng",
+            "TràLeng",
+            "Trà Leng (xã)",
+            "Tr à Leng",
+            "Tr à Leng (xã)",
+            "Tr à Leng, Đà Nẵng"
+          ],
+          "slug": "Xa_Tra_Leng",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20938",
+          "cq_id": "Tinh.Da_Nang.Xa_Tra_Leng",
+          "status": "hit",
+          "wiki_title": "Trà Leng",
+          "wiki_pageid": 1253629,
+          "oldid": 75479603,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Tra_Leng/index.md"
+        },
+        {
+          "label": "Xã Trà Tập",
+          "titles": [
+            "Xã Trà Tập, Đà Nẵng",
+            "Xã Trà Tập, Thành phố Đà Nẵng",
+            "Trà Tập, Đà Nẵng",
+            "Xã Trà Tập",
+            "Trà Tập",
+            "Trà Tập",
+            "TràTập",
+            "Trà Tập (xã)",
+            "Tr à T ập",
+            "Tr à T ập (xã)",
+            "Tr à T ập, Đà Nẵng"
+          ],
+          "slug": "Xa_Tra_Tap",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20941",
+          "cq_id": "Tinh.Da_Nang.Xa_Tra_Tap",
+          "status": "hit",
+          "wiki_title": "Trà Tập",
+          "wiki_pageid": 1253644,
+          "oldid": 75228050,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Tra_Tap/index.md"
+        },
+        {
+          "label": "Xã Nam Trà My",
+          "titles": [
+            "Xã Nam Trà My, Đà Nẵng",
+            "Xã Nam Trà My, Thành phố Đà Nẵng",
+            "Nam Trà My, Đà Nẵng",
+            "Xã Nam Trà My",
+            "Nam Trà My",
+            "Nam Trà My",
+            "NamTràMy",
+            "Nam Trà My (xã)",
+            "Nam Tr à My",
+            "Nam Tr à My (xã)",
+            "Nam Tr à My, Đà Nẵng"
+          ],
+          "slug": "Xa_Nam_Tra_My",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20944",
+          "cq_id": "Tinh.Da_Nang.Xa_Nam_Tra_My",
+          "status": "hit",
+          "wiki_title": "Nam Trà My (xã)",
+          "wiki_pageid": 1253631,
+          "oldid": 75227508,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Nam_Tra_My/index.md"
+        },
+        {
+          "label": "Xã Trà Linh",
+          "titles": [
+            "Xã Trà Linh, Đà Nẵng",
+            "Xã Trà Linh, Thành phố Đà Nẵng",
+            "Trà Linh, Đà Nẵng",
+            "Xã Trà Linh",
+            "Trà Linh",
+            "Trà Linh",
+            "TràLinh",
+            "Trà Linh (xã)",
+            "Tr à Linh",
+            "Tr à Linh (xã)",
+            "Tr à Linh, Đà Nẵng"
+          ],
+          "slug": "Xa_Tra_Linh",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20950",
+          "cq_id": "Tinh.Da_Nang.Xa_Tra_Linh",
+          "status": "hit",
+          "wiki_title": "Trà Linh",
+          "wiki_pageid": 1253630,
+          "oldid": 75228212,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Tra_Linh/index.md"
+        },
+        {
+          "label": "Xã Trà Vân",
+          "titles": [
+            "Xã Trà Vân, Đà Nẵng",
+            "Xã Trà Vân, Thành phố Đà Nẵng",
+            "Trà Vân, Đà Nẵng",
+            "Xã Trà Vân",
+            "Trà Vân",
+            "Trà Vân",
+            "TràVân",
+            "Trà Vân (xã)",
+            "Tr à V ân",
+            "Tr à V ân (xã)",
+            "Tr à V ân, Đà Nẵng"
+          ],
+          "slug": "Xa_Tra_Van",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20959",
+          "cq_id": "Tinh.Da_Nang.Xa_Tra_Van",
+          "status": "hit",
+          "wiki_title": "Trà Vân",
+          "wiki_pageid": 1253649,
+          "oldid": 75479695,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Tra_Van/index.md"
+        },
+        {
+          "label": "Xã Núi Thành",
+          "titles": [
+            "Xã Núi Thành, Đà Nẵng",
+            "Xã Núi Thành, Thành phố Đà Nẵng",
+            "Núi Thành, Đà Nẵng",
+            "Xã Núi Thành",
+            "Núi Thành",
+            "Núi Thành",
+            "NúiThành",
+            "Núi Thành (xã)",
+            "N úi Th ành",
+            "N úi Th ành (xã)",
+            "N úi Th ành, Đà Nẵng"
+          ],
+          "slug": "Xa_Nui_Thanh",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20965",
+          "cq_id": "Tinh.Da_Nang.Xa_Nui_Thanh",
+          "status": "hit",
+          "wiki_title": "Núi Thành (xã)",
+          "wiki_pageid": 1251359,
+          "oldid": 75474250,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Nui_Thanh/index.md"
+        },
+        {
+          "label": "Xã Tam Xuân",
+          "titles": [
+            "Xã Tam Xuân, Đà Nẵng",
+            "Xã Tam Xuân, Thành phố Đà Nẵng",
+            "Tam Xuân, Đà Nẵng",
+            "Xã Tam Xuân",
+            "Tam Xuân",
+            "Tam Xuân",
+            "TamXuân",
+            "Tam Xuân (xã)",
+            "Tam Xu ân",
+            "Tam Xu ân (xã)",
+            "Tam Xu ân, Đà Nẵng"
+          ],
+          "slug": "Xa_Tam_Xuan",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20971",
+          "cq_id": "Tinh.Da_Nang.Xa_Tam_Xuan",
+          "status": "hit",
+          "wiki_title": "Tam Xuân",
+          "wiki_pageid": 1252485,
+          "oldid": 75456834,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Tam_Xuan/index.md"
+        },
+        {
+          "label": "Xã Đức Phú",
+          "titles": [
+            "Xã Đức Phú, Đà Nẵng",
+            "Xã Đức Phú, Thành phố Đà Nẵng",
+            "Đức Phú, Đà Nẵng",
+            "Xã Đức Phú",
+            "Đức Phú",
+            "Đức Phú",
+            "ĐứcPhú",
+            "Đức Phú (xã)",
+            "Đ ức Ph ú",
+            "Đ ức Ph ú (xã)",
+            "Đ ức Ph ú, Đà Nẵng"
+          ],
+          "slug": "Xa_Duc_Phu",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20977",
+          "cq_id": "Tinh.Da_Nang.Xa_Duc_Phu",
+          "status": "hit",
+          "wiki_title": "Đức Phú",
+          "wiki_pageid": 819323,
+          "oldid": 75378436,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Duc_Phu/index.md"
+        },
+        {
+          "label": "Xã Tam Anh",
+          "titles": [
+            "Xã Tam Anh, Đà Nẵng",
+            "Xã Tam Anh, Thành phố Đà Nẵng",
+            "Tam Anh, Đà Nẵng",
+            "Xã Tam Anh",
+            "Tam Anh",
+            "Tam Anh",
+            "TamAnh",
+            "Tam Anh (xã)"
+          ],
+          "slug": "Xa_Tam_Anh",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20984",
+          "cq_id": "Tinh.Da_Nang.Xa_Tam_Anh",
+          "status": "hit",
+          "wiki_title": "Tam Anh",
+          "wiki_pageid": 1252413,
+          "oldid": 75222432,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Tam_Anh/index.md"
+        },
+        {
+          "label": "Xã Tam Hải",
+          "titles": [
+            "Xã Tam Hải, Đà Nẵng",
+            "Xã Tam Hải, Thành phố Đà Nẵng",
+            "Tam Hải, Đà Nẵng",
+            "Xã Tam Hải",
+            "Tam Hải",
+            "Tam Hải",
+            "TamHải",
+            "Tam Hải (xã)",
+            "Tam H ải",
+            "Tam H ải (xã)",
+            "Tam H ải, Đà Nẵng"
+          ],
+          "slug": "Xa_Tam_Hai",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20992",
+          "cq_id": "Tinh.Da_Nang.Xa_Tam_Hai",
+          "status": "hit",
+          "wiki_title": "Tam Hải",
+          "wiki_pageid": 1252437,
+          "oldid": 75259672,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Tam_Hai/index.md"
+        },
+        {
+          "label": "Xã Tam Mỹ",
+          "titles": [
+            "Xã Tam Mỹ, Đà Nẵng",
+            "Xã Tam Mỹ, Thành phố Đà Nẵng",
+            "Tam Mỹ, Đà Nẵng",
+            "Xã Tam Mỹ",
+            "Tam Mỹ",
+            "Tam Mỹ",
+            "TamMỹ",
+            "Tam Mỹ (xã)"
+          ],
+          "slug": "Xa_Tam_My",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "21004",
+          "cq_id": "Tinh.Da_Nang.Xa_Tam_My",
+          "status": "hit",
+          "wiki_title": "Tam Mỹ",
+          "wiki_pageid": 1252456,
+          "oldid": 75229291,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Tam_My/index.md"
+        },
+        {
+          "label": "Đặc khu Hoàng Sa",
+          "titles": [
+            "Đặc khu Hoàng Sa, Đà Nẵng",
+            "Đặc khu Hoàng Sa, Thành phố Đà Nẵng",
+            "Hoàng Sa, Đà Nẵng",
+            "Đặc khu Hoàng Sa",
+            "Hoàng Sa",
+            "Hoàng Sa",
+            "HoàngSa",
+            "Hoàng Sa (đặc khu)",
+            "Ho àng Sa",
+            "Ho àng Sa (xã)",
+            "Ho àng Sa, Đà Nẵng"
+          ],
+          "slug": "Xa_Hoang_Sa",
+          "wave": "B",
+          "group": "xa",
+          "wiki_kind": "DiaBan",
+          "ma_dvhc": "20333",
+          "cq_id": "Tinh.Da_Nang.Xa_Hoang_Sa",
+          "status": "hit",
+          "wiki_title": "Hoàng Sa (đặc khu)",
+          "wiki_pageid": 1404129,
+          "oldid": 75499121,
+          "path": "RAW/WIKIPEDIA/DiaBan/Xa/Xa_Hoang_Sa/index.md"
+        }
+      ],
+      "duplicate_pageid": [
+        {
+          "pageid": "3970",
+          "paths": [
+            "DiaBan/Tinh/Phu_Tho/index.md",
+            "DiaBan/Xa/Ho_Chi_Minh/Xa_Phu_Tho_27226/index.md"
+          ]
+        },
+        {
+          "pageid": "19935058",
+          "paths": [
+            "DiaBan/Xa/Da_Nang/Xa_An_Hai/index.md",
+            "DiaBan/Xa/Da_Nang/Xa_An_Hai_20275/index.md"
+          ]
+        },
+        {
+          "pageid": "19902758",
+          "paths": [
+            "DiaBan/Xa/Da_Nang/Xa_Hai_Chau/index.md",
+            "DiaBan/Xa/Da_Nang/Xa_Hai_Chau_20242/index.md"
+          ]
+        },
+        {
+          "pageid": "19959741",
+          "paths": [
+            "DiaBan/Xa/Da_Nang/Xa_Huong_Tra/index.md",
+            "DiaBan/Xa/Da_Nang/Xa_Huong_Tra_20350/index.md"
+          ]
+        },
+        {
+          "pageid": "1252425",
+          "paths": [
+            "DiaBan/Xa/Da_Nang/Xa_Phu_Ninh/index.md",
+            "DiaBan/Xa/Da_Nang/Xa_Phu_Ninh_20392/index.md"
+          ]
+        },
+        {
+          "pageid": "1252460",
+          "paths": [
+            "DiaBan/Xa/Da_Nang/Xa_Quang_Phu/index.md",
+            "DiaBan/Xa/Da_Nang/Xa_Quang_Phu_20356/index.md"
+          ]
+        },
+        {
+          "pageid": "1252463",
+          "paths": [
+            "DiaBan/Xa/Da_Nang/Xa_Tay_Ho/index.md",
+            "DiaBan/Xa/Da_Nang/Xa_Tay_Ho_20380/index.md"
+          ]
+        },
+        {
+          "pageid": "1244155",
+          "paths": [
+            "DiaBan/Xa/Da_Nang/Xa_Thang_Binh/index.md",
+            "DiaBan/Xa/Da_Nang/Xa_Thang_Binh_20791/index.md"
+          ]
+        },
+        {
+          "pageid": "1253487",
+          "paths": [
+            "DiaBan/Xa/Da_Nang/Xa_Thanh_Binh/index.md",
+            "DiaBan/Xa/Da_Nang/Xa_Thanh_Binh_20878/index.md"
+          ]
+        },
+        {
+          "pageid": "1262791",
+          "paths": [
+            "DiaBan/Xa/Da_Nang/Xa_Thuong_Duc/index.md",
+            "DiaBan/Xa/Da_Nang/Xa_Thuong_Duc_20506/index.md"
+          ]
+        },
+        {
+          "pageid": "1253630",
+          "paths": [
+            "DiaBan/Xa/Da_Nang/Xa_Tra_Linh/index.md",
+            "DiaBan/Xa/Da_Nang/Xa_Tra_Linh_20950/index.md"
+          ]
+        }
+      ],
+      "invalid_id": [
+        {
+          "path": "DiaBan/Tinh/Quang_Nam/index.md",
+          "field": "wiki_pageid"
+        },
+        {
+          "path": "DiaBan/Tinh/Quang_Nam/index.md",
+          "field": "oldid"
+        },
+        {
+          "path": "DiaBan/Xa/Da_Nang/Xa_Chien_Dan/index.md",
+          "field": "wiki_pageid"
+        },
+        {
+          "path": "DiaBan/Xa/Da_Nang/Xa_Chien_Dan/index.md",
+          "field": "oldid"
+        }
+      ],
+      "manifest_missing_page": [
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Hai_Van/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Lien_Chieu/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Hoa_Khanh/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Thanh_Khe/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Hai_Chau/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Hoa_Cuong/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Cam_Le/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Son_Tra/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_An_Hai/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Ngu_Hanh_Son/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_An_Khe/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Hoa_Xuan/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Ban_Thach/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Tam_Ky/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Huong_Tra/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Quang_Phu/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Hoi_An_Tay/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Hoi_An/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Hoi_An_Dong/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Dien_Ban/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Dien_Ban_Bac/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_An_Thang/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Dien_Ban_Dong/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Ba_Na/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Hoa_Vang/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Hoa_Tien/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Tay_Ho/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Phu_Ninh/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Tan_Hiep/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Hung_Son/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Tay_Giang/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_A_Vuong/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Dong_Giang/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Song_Kon/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Song_Vang/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Ben_Hien/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Dai_Loc/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Thuong_Duc/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Ha_Nha/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Vu_Gia/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Phu_Thuan/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Dien_Ban_Tay/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Go_Noi/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Nam_Phuoc/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Thu_Bon/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Duy_Xuyen/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Duy_Nghia/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Que_Son/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Xuan_Phu/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Nong_Son/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Que_Son_Trung/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Que_Phuoc/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Thanh_My/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_La_Dee/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Nam_Giang/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Ben_Giang/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Dac_Pring/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Kham_Duc/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Phuoc_Hiep/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Phuoc_Nang/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Phuoc_Chanh/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Phuoc_Thanh/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Viet_An/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Phuoc_Tra/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Hiep_Duc/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Thang_Binh/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Thang_An/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Dong_Duong/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Thang_Phu/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Thang_Truong/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Thang_Dien/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Tien_Phuoc/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Son_Cam_Ha/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Lanh_Ngoc/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Thanh_Binh/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Tra_My/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Tra_Lien/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Tra_Doc/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Tra_Tan/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Tra_Giap/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Tra_Leng/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Tra_Tap/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Nam_Tra_My/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Tra_Linh/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Tra_Van/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Nui_Thanh/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Tam_Xuan/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Duc_Phu/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Tam_Anh/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Tam_Hai/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Tam_My/index.md"
+        },
+        {
+          "manifest": "_manifest.json",
+          "path": "DiaBan/Xa/Xa_Hoang_Sa/index.md"
+        }
+      ],
+      "missing_diaban_links": [
+        {
+          "path": "DiaBan/Tinh/Quang_Nam/index.md",
+          "field": "wikipedia"
+        },
+        {
+          "path": "DiaBan/Tinh/Quang_Nam/index.md",
+          "field": "website"
+        }
+      ],
+      "missing_link_section": [
+        "DiaBan/Tinh/Quang_Nam/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Chien_Dan/index.md"
+      ],
+      "missing_required": [
+        {
+          "path": "DiaBan/Tinh/Quang_Nam/index.md",
+          "field": "wiki_pageid"
+        },
+        {
+          "path": "DiaBan/Tinh/Quang_Nam/index.md",
+          "field": "oldid"
+        },
+        {
+          "path": "DiaBan/Xa/Da_Nang/Xa_Chien_Dan/index.md",
+          "field": "wiki_pageid"
+        },
+        {
+          "path": "DiaBan/Xa/Da_Nang/Xa_Chien_Dan/index.md",
+          "field": "oldid"
+        }
+      ],
+      "pages_without_manifest": [
+        "CoQuan/TW/Bo_Cong_An/index.md",
+        "CoQuan/TW/Bo_Cong_Thuong/index.md",
+        "CoQuan/TW/Bo_Dan_Toc_Va_Ton_Giao/index.md",
+        "CoQuan/TW/Bo_Giao_Duc_Va_Dao_Tao/index.md",
+        "CoQuan/TW/Bo_Khoa_Hoc_Va_Cong_Nghe/index.md",
+        "CoQuan/TW/Bo_Ngoai_Giao/index.md",
+        "CoQuan/TW/Bo_Noi_Vu/index.md",
+        "CoQuan/TW/Bo_Nong_Nghiep_Va_Moi_Truong/index.md",
+        "CoQuan/TW/Bo_Quoc_Phong/index.md",
+        "CoQuan/TW/Bo_Tai_Chinh/index.md",
+        "CoQuan/TW/Bo_Tu_Phap/index.md",
+        "CoQuan/TW/Bo_Van_Hoa_The_Thao_Va_Du_Lich/index.md",
+        "CoQuan/TW/Bo_Xay_Dung/index.md",
+        "CoQuan/TW/Bo_Y_Te/index.md",
+        "CoQuan/TW/Chinh_phu/index.md",
+        "CoQuan/Tinh/Da_Nang_HDND/index.md",
+        "CoQuan/Tinh/Ha_Noi_HDND/index.md",
+        "CoQuan/Tinh/Ha_Noi_UBND/index.md",
+        "DiaBan/Tinh/Quang_Nam/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_A_Vuong/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_An_Hai/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_An_Khe/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_An_Thang/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Ba_Na/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Ban_Thach/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Ben_Giang/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Ben_Hien/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Cam_Le/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Chien_Dan/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Dac_Pring/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Dai_Loc/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Dien_Ban/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Dien_Ban_Bac/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Dien_Ban_Dong/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Dien_Ban_Tay/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Dong_Duong/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Dong_Giang/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Duc_Phu/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Duy_Nghia/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Duy_Xuyen/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Go_Noi/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Ha_Nha/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Hai_Chau/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Hai_Van/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Hiep_Duc/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Hoa_Cuong/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Hoa_Khanh/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Hoa_Tien/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Hoa_Vang/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Hoa_Xuan/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Hoang_Sa/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Hoi_An/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Hoi_An_Dong/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Hoi_An_Tay/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Hung_Son/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Huong_Tra/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Kham_Duc/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_La_Dee/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Laee/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Lanh_Ngoc/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Lien_Chieu/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Nam_Giang/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Nam_Phuoc/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Nam_Tra_My/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Ngu_Hanh_Son/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Nong_Son/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Nui_Thanh/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Phu_Ninh/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Phu_Thuan/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Phuoc_Chanh/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Phuoc_Hiep/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Phuoc_Nang/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Phuoc_Thanh/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Phuoc_Tra/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Quang_Phu/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Que_Phuoc/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Que_Son/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Que_Son_Trung/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Son_Cam_Ha/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Son_Tra/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Song_Kon/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Song_Vang/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Tam_Anh/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Tam_Hai/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Tam_Ky/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Tam_My/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Tam_Xuan/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Tan_Hiep/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Tay_Giang/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Tay_Ho/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Thang_An/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Thang_Binh/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Thang_Dien/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Thang_Phu/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Thang_Truong/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Thanh_Binh/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Thanh_Khe/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Thanh_My/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Thu_Bon/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Thuong_Duc/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Tien_Phuoc/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Tra_Doc/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Tra_Giap/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Tra_Leng/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Tra_Lien/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Tra_Linh/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Tra_My/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Tra_Tan/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Tra_Tap/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Tra_Van/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Viet_An/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Vu_Gia/index.md",
+        "DiaBan/Xa/Da_Nang/Xa_Xuan_Phu/index.md"
+      ],
+      "url_mismatch": [
+        "DiaBan/Tinh/Quang_Nam/index.md"
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+---
+name: crawl-wikipedia-coquan
+description: Lập và thực hiện đợt thu thập bài riêng về Bộ, cơ quan, UBND và HĐND từ Wikipedia; phân biệt cơ quan với địa bàn cùng tên.
+metadata:
+  okf_version: "0.2"
+  type: skill
+  version: "0.1.0"
+---
+
+# crawl-wikipedia-coquan
+
+## Mục đích và đầu vào
+Đọc [quy chuẩn](../../context/quy-chuan-crawl.md) và [ontology](../../context/ontology-schema.md). Input cần cq_id, tên chính thức, loại cơ quan, khối cap, cấp hành chính, địa bàn và thời kỳ từ danh mục chuẩn. Không sinh cq_id từ tên Wikipedia.
+
+## Runbook
+1. Audit corpus, nhóm target Bộ/TW, tỉnh, xã. Xác định lịch sử đổi tên/sáp nhập của cơ quan từ input; không dùng ngày sửa bài làm ngày hiệu lực.
+2. Tìm bài tên cơ quan đầy đủ, cho phép alias viết tắt có bằng chứng; chuyển sang `resolve-wikipedia-entity` xác minh. UBND và HĐND là hai target khác nhau; bài tỉnh/xã hoặc trang định hướng không phải bài cơ quan.
+3. Cơ quan xã giữ `cap: Tinh`, `capHanhChinh: xa`, `loaiDonVi` thích hợp; `diaBan` là tên địa bàn, không phải cấp. Quan hệ cơ quan–địa bàn là `legal:thuocDiaBan`, không sameAs.
+4. Thu thập pilot API và snapshot đúng revision theo chuẩn. Không có bài riêng thì missing/ambiguous tùy bằng chứng, không tạo bản hit từ đoạn nói về chính quyền trong bài địa bàn. Hiện chưa có CLI crawler production; không báo đã crawl chỉ vì đã lập kế hoạch.
+5. Ghi `CoQuan/{TW|Tinh}/{slug}/index.md` hoặc `CoQuan/Xa/{tinh}/{slug}/index.md`, manifest và trace cùng run. Dùng `stat-wikipedia` kiểm tra path/ID/provenance; báo riêng độ phủ bài cơ quan.
+
+## Phục hồi
+Dừng retry theo giới hạn, giữ error riêng với missing. Manifest D legacy rỗng không có nghĩa không có bài CoQuan; kiểm kê file trước khi đề xuất tải lại. Không chép bài địa bàn để làm đầy manifest.
