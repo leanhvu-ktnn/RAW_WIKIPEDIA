@@ -1,0 +1,757 @@
+{{nhiều vấn đề|
+{{Chú thích trong bài|date=tháng 7/2026}}
+{{cần biên tập|date=tháng 7/2026}}
+}}
+{{other|Bình Định (định hướng)}}
+{{Thông tin đơn vị hành chính Việt Nam 
+| Tỉnh
+| tên = Bình Định
+| tên khác = Xứ Nẫu (cùng với [[Phú Yên (tỉnh)|Phú Yên]])
+| biệt danh = 
+*Đất [[Võ thuật Bình Định|võ]], trời [[Văn học Việt Nam|văn]] 
+*Đất tổ của nghệ thuật [[hát bội]]
+*Xứ [[dừa]] của [[Trung Bộ|Miền Trung]] 
+*Vùng đất [[Nhà Tây Sơn|Tây Sơn hào kiệt]] 
+*Viên ngọc xanh của [[Trung Bộ|miền Trung]] 
+| tên cũ = [[Quy Nhơn]], [[Quy Ninh]], [[Hoài Nhơn]], [[Bình Phú (tỉnh)|Bình Phú]], [[Nghĩa Bình]]
+| logo = Biểu trưng tỉnh Bình Định.svg
+| cỡ logo = 
+| ghi chú logo = Biểu trưng
+| nhiều hình = {{multiple image
+| border = infobox
+| total_width = 280
+| image_style = border:1;
+| perrow = 1/1/2
+| image = Quy-Nhon-morning-city-view-1300px.jpg
+}}
+| ghi chú hình = Thành phố Quy Nhơn nhìn từ trên cao
+| vĩ độ = 14.195163
+| kinh độ = 108.880005
+| diện tích = 6.066,40 km²<ref name="TT"/><ref name="DT">{{Chú thích web |url= https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm |tựa đề= Dự kiến chi tiết diện tích, dân số, quy mô kinh tế của 34 tỉnh, thành mới |tác giả= Lê Hoa |ngày= 2025-06-09 |website= Báo Dân Trí |url lưu trữ= https://web.archive.org/web/20250610031809/https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm |ngày lưu trữ= 2025-06-10 |ngày truy cập= 2025-06-09 |url-status= dead }}</ref>
+| dân số = 1.813.101 người<ref name="TT"/><ref name="DT"/>
+| thời điểm dân số = 31/12/2024
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:1.813.101|R}}/{{formatnum:6.066,40|R}})}} }} người/km²<ref name="TT">{{Chú thích web|url=https://tuoitre.vn/chi-tiet-du-kien-quy-mo-dan-so-dien-tich-kinh-te-cua-34-tinh-thanh-sau-sap-nhap-20250513081155167.htm|tựa đề= Chi tiết dự kiến quy mô dân số, diện tích, kinh tế của 34 tỉnh, thành sau sáp nhập |tác giả= Thành Chung |ngày= 2025-05-13 |website= Tuổi Trẻ Online |url lưu trữ=https://web.archive.org/web/20250513080219/https://tuoitre.vn/chi-tiet-du-kien-quy-mo-dan-so-dien-tich-kinh-te-cua-34-tinh-thanh-sau-sap-nhap-20250513081155167.htm|ngày lưu trữ= 2025-05-13 |ngày truy cập= 2025-05-13 |url-status= dead }}</ref><ref name="DT"/>
+| dân tộc = [[Người Việt|Kinh]], [[Người Chăm|Chăm]], [[Người Ba Na|Ba Na]], [[Người Hrê|Hrê]],...
+| vùng = 
+*[[Duyên hải Nam Trung Bộ và Tây Nguyên|Duyên hải Nam Trung Bộ]] 
+*[[Vùng động lực miền Trung Việt Nam|Kinh tế trọng điểm miền Trung]] 
+| tỉnh lỵ = Thành phố [[Quy Nhơn (thành phố)|Quy Nhơn]]
+| thành lập = 1832
+| giải thể = 12/6/2025<ref name="202/2025/QH15"/>
+| phân chia hành chính = 1 thành phố, 2 thị xã, 8 huyện
+| chủ tịch UBND = [[Phạm Anh Tuấn (chính khách)|Phạm Anh Tuấn]] 
+| hội đồng nhân dân = 57 đại biểu
+| chủ tịch HĐND = [[Hồ Quốc Dũng]]
+| chủ tịch UBMTTQ = [[Nguyễn Thị Phong Vũ]]
+| chánh án TAND = [[Đặng Công Lý]]
+| viện trưởng VKSND = [[Trần Văn Sang]]
+| bí thư = [[Hồ Quốc Dũng]] 
+| thời điểm kinh tế = 2024
+| GRDP = 130.799,7 tỉ đồng (5,56 tỉ USD)<ref name="TT"/><ref name="DT"/>
+| GRDP đầu người = 77,78 triệu đồng (3.334 USD)<ref name="TT"/><ref name="DT"/>
+| mã điện thoại = [[Mã điện thoại Việt Nam|256]]
+| mã địa lý = [[ISO 3166-2:VN|VN-31]]
+| mã hành chính = 52<ref>{{Chú thích web |url=https://danhmuchanhchinh.gso.gov.vn/ |title=Tổng cục Thống kê |access-date=2022-04-09 |archive-date=2021-01-10 |archive-url=https://web.archive.org/web/20210110034519/https://www.gso.gov.vn/phuong-phap-thong-ke/danh-muc/don-vi-hanh-chinh/ |url-status=dead }}</ref>
+| biển số xe = [[Biển xe cơ giới Việt Nam|77]]
+| mã bưu chính = [[Mã bưu chính Việt Nam|59xxxx]]
+| web = {{url|binhdinh.gov.vn}}
+| hình = Quy-Nhon-morning-city-view-1300px.jpg
+}}
+'''Bình Định''' là một [[Tỉnh (Việt Nam)|tỉnh]] [[Bờ biển|ven biển]] cũ thuộc khu vực [[Duyên hải Nam Trung Bộ và Tây Nguyên|Duyên hải Nam Trung Bộ]], [[Trung Bộ|miền Trung]] của [[Việt Nam]]. Từng tồn tại trong hai giai đoạn: Từ năm [[1831]] đến ngày [[24 tháng 2]] năm [[1976]] và từ ngày [[30 tháng 6]] năm [[1989]] đến ngày [[1 tháng 7]] năm [[2025]]. Địa phận của tỉnh hiện nay tương ứng với phần phía đông của tỉnh [[Gia Lai]].
+
+Ngày [[12 tháng 6]] năm [[2025]], [[Quốc hội Việt Nam|Quốc hội]] thông qua Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh năm [[2025]], theo đó tỉnh được giải thể để sáp nhập vào tỉnh [[Gia Lai]].<ref name="202/2025/QH15">{{Chú thích web|url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94532|tựa đề= Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh |ngày= 2025-06-12 |website= Cổng thông tin điện tử Quốc hội Việt Nam |url lưu trữ=https://web.archive.org/web/20250612150244/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94532|ngày lưu trữ= 2025-06-12 |ngày truy cập= 2025-06-12 |url-status=live}}</ref><ref name=":NQSN2025">{{Chú thích web |date=16 tháng 6 năm 2025 |title=TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm |publisher=Báo Điện tử Chính phủ |access-date=2025-06-30 |archive-date=2025-06-30 |archive-url=https://web.archive.org/web/20250630073035/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm |url-status=live }}</ref>
+
+== Nguồn gốc tên gọi ==
+Theo các tài liệu cổ sử, tên gọi Bình Định xuất hiện kể từ khi vua Gia Long chiếm lại vùng đất này từ nhà Tây Sơn. Theo Đại Nam thực lục 大南實錄, đệ nhất kỉ, quyển X, thực lục về Thế tổ cao hoàng đế, đã ghi chép về thời điểm thành Quy Nhơn được đổi thành thành Bình Định, chúng tôi xin lược ghi như sau: Kỷ mùi (1799) (tức năm thứ 4 đời Thanh Gia Khánh), vào tháng 5, quân Nguyễn Ánh đã tập kết và tiến sát đến thành Quy Nhơn. Tháng 6, [[Nguyễn Văn Thành (nhà Nguyễn)|Nguyễn Văn Thành]] đem quân qua sông Đào Lô, đánh phá Bảo Ưu Đàm của Tây Sơn… Quân ta (tức quân Nguyễn Ánh) đã lấy lại được thành Quy Nhơn. Thái phủ của Tây Sơn là Lê Văn Ứng đã thua, trong thành quân ít, lương cạn. Đại Tổng quan [[Lê Văn Thanh]], Binh bộ thượng thư Nguyễn Đại Phác, Thiếu uý Trương Tiến Thuý của nhà Tây Sơn dâng biểu xin hàng. Vua sai Lại bộ tham tri Nguyễn Bảo Tiến và Tham mưu Trần Quang Thái đưa chỉ dụ rằng: “Bọn ngươi đã biết quy thuận, ta cũng lấy lòng thành mà tiếp đại, ngày trước lài cừu địch, ngày nay là vua tôi, đều không nên ngờ sợ gì”. Bèn cho xa giá vào thành. Bọn Thành cùng tướng tốt 1 vạn 3 trăm người đều tự trói cổ lạy phục. Vua sai tuyên chỉ an ủi, ban cho 5000 quan tiền để chia nhau. Đổi tên thành Quy Nhơn làm thành Bình Định. Thời Tây Sơn, khu vực này là kinh đô của [[Nguyễn Nhạc|Thái Đức]] trung ương hoàng đế nên có tên gọi là thành Hoàng đế. Đến tháng 6 năm 1799, sau khi hạ được thành Quy Nhơn, [[Gia Long|Nguyễn Ánh]] bèn cho đổi tên Bình Định, có lẽ dụng ý của ông muốn thể hiện tư thế ngạo nghễ của người chiến thắng. Ngoài ra, cần lưu ý một điểm, đây là đất thang mộc của nhà Tây Sơn. [[Phan Huy Ích]] đã cho rằng Quy Nhơn là ấp thang mộc (Quy Nhơn thang mộc địa). Thang mộc ấp là một điển cố xuất phát từ trong cổ văn. Từ này được dùng đầu tiên trong Công Dương truyện, mục Ẩn Công bát niên, ban đầu nó có nghĩa là nơi các vua tắm gội để giữ mình thanh khiết trước khi cúng thiên tế địa. Về sau được dùng để chỉ cho vùng đất phát tích ra một triều đại, một vị vua nào đó. Với ý nghĩa sâu xa ấy, sau khi đã trấn áp được vùng đất này, Nguyễn Ánh đã cho là mình đã vào tận đất phát tích của nhà Tây Sơn, là bình định được loạn đảng “nguỵ Tây” (theo cách nói của các vua triều Nguyễn trước đây). Tên gọi Bình Định chính thức được sử dụng từ tháng 6 năm 1799. Năm 1808, dinh Bình Định chuyển thành trấn Bình Định và năm 1816 đặt Tri phủ Quy Nhơn trông coi ba huyện: Bồng Sơn, Phù Ly, Tuy Viễn. Đến thời vua [[Minh Mạng]] được nâng cấp và đổi tên thành tỉnh Bình Định (1832) và đặt chức Tổng đốc Bình Phú kiêm quản hai tỉnh Bình Định và [[Phú Yên (tỉnh)|Phú Yên]]. Từ đó, tỉnh Bình Định tiếp tục có nhiều thay đổi về hành chính cho đến ngày nay. Vì vậy, "Bình" có nghĩa là dẹp yên thiên hạ, "Định" có nghĩa là định đoạt lại giang sơn nên tên gọi "Bình Định" có nghĩa là "dẹp yên thiên hạ định lại giang sơn".
+
+== Địa lý ==
+Bình Định là tỉnh duyên hải [[miền Trung (Việt Nam)|miền Trung Việt Nam]]. Lãnh thổ của tỉnh trải dài 110&nbsp;km theo hướng Bắc – Nam, có chiều ngang với độ hẹp trung bình là 55&nbsp;km (chỗ hẹp nhất 50&nbsp;km, chỗ rộng nhất 60&nbsp;km), có vị trí địa lý:
+
+*Phía Bắc giáp tỉnh [[Quảng Ngãi]]
+*Phía Tây giáp tỉnh [[Gia Lai]]
+*Phía Nam giáp tỉnh [[Phú Yên (tỉnh)|Phú Yên]]
+*Phía Đông giáp [[Biển Đông]]
+
+[[Thủ phủ tỉnh thành Việt Nam|Trung tâm hành chính]] tỉnh Bình Định là thành phố cảng [[Quy Nhơn (thành phố)|Quy Nhơn]], cách Thủ đô [[Hà Nội]] 1.070&nbsp;km về phía nam, cách thành phố [[Đà Nẵng]] 323&nbsp;km về phía nam và cách [[Thành phố Hồ Chí Minh]] 652&nbsp;km về phía bắc theo đường [[Quốc lộ 1]].<ref name="BĐ">http://www.gso.gov.vn/default.aspx?tabid=387&idmid=3&ItemID=14632</ref> Điểm cực Đông là xã Nhơn Châu ([[Cù Lao Xanh]]) thuộc thành phố [[Quy Nhơn (thành phố)|Quy Nhơn]] (có tọa độ: 13°36'33 Bắc, 109°21' Đông). Bình Định được xem là một trong những cửa ngõ ra [[biển]] của các tỉnh [[Tây Nguyên]] và vùng nam [[Lào]].
+
+=== Địa hình ===
+[[Tập tin:Đầm Thị Nại, Quy Nhơn.JPG|nhỏ|phải|250px|<center>[[Đầm Thị Nại]] (TP Quy Nhơn, Tuy Phước, Phù Cát)</center>]]
+
+Địa hình của tỉnh tương đối phức tạp, thấp dần từ tây sang đông. Phía tây của tỉnh là vùng núi rìa phía đông của dãy [[Dãy Trường Sơn|Trường Sơn Nam]], kế tiếp là vùng trung du và tiếp theo là vùng ven biển. Các dạng địa hình phổ biến là các dãy núi cao, đồi thấp xen lẫn thung lũng hẹp độ cao trên dưới 100 mét, hướng vuông góc với dãy [[Dãy Trường Sơn|Trường Sơn]], các đồng bằng lòng chảo, các đồng bằng duyên hải bị chia nhỏ do các nhánh núi đâm ra biển. Ngoài cùng là cồn cát ven biển có độ dốc không đối xứng giữa 2 hướng sườn đông và tây. Các dạng địa hình chủ yếu của tỉnh là:
+
+*Vùng núi: Nằm về phía tây bắc và phía tây của tỉnh. Đại bộ phận sườn dốc hơn 20°. Có diện tích khoảng 249.866 ha, phân bố ở các huyện [[An Lão (huyện Bình Định)|An Lão]] (63.367 ha), [[Vĩnh Thạnh (huyện Bình Định)|Vĩnh Thạnh]] (78.249 ha), [[Vân Canh (huyện)|Vân Canh]] (75.932 ha), [[Tây Sơn (huyện Bình Định)|Tây Sơn]] và [[Hoài Ân (huyện)|Hoài Ân]] (31.000 ha). Bốn huyện [[An Lão (huyện Bình Định)|An Lão]], [[Vân Canh (huyện)|Vân Canh]], [[Vĩnh Thạnh (huyện Bình Định)|Vĩnh Thạnh]], Tây Sơn được xem là thuộc khu vực Tây Sơn theo một văn bản quy phạm pháp luật của Việt Nam.<ref>[http://vanban.chinhphu.vn/portal/page/portal/chinhphu/hethongvanban?class_id=2&_page=1&mode=detail&document_id=171908 Quyết định số 124/QĐ-TTg của Thủ tướng Chính phủ: Phê duyệt Đề án tiếp tục củng cố, kiện toàn chính quyền cơ sở vùng Tây Nguyên giai đoạn 2014 - 2020]</ref> Địa hình khu vực này phân cắt mạnh, sông suối có độ dốc lớn, là nơi phát nguồn của các sông trong tỉnh. Chiếm 70% diện tích toàn tỉnh thường có độ cao trung bình 500-1.000 m, trong đó có 11 đỉnh cao trên 1.000 m. Hai đỉnh cao trên 1.150 m, tại tọa độ: (14.573366, 108.709717) và (14.589110, 108.711478), ở phía Bắc xã An Toàn (huyện An Lão) được xem là cao nhất Bình Định. Còn lại có 13 đỉnh cao 700–1000 m. Các dãy núi chạy theo hướng Bắc - Nam, có sườn dốc đứng. Nhiều khu vực núi ăn ra sát biển tạo thành các mỏm núi đá dọc theo bờ, vách núi dốc đứng và dưới chân là các dải cát hẹp. Đặc tính này đã làm cho địa hình ven biển trở thành một hệ thống các dãy núi thấp xen lẫn với các cồn cát và đầm phá.
+*Vùng đồi: tiếp giáp giữa miền núi phía tây và đồng bằng phía đông, có diện tích khoảng 159.276 ha (chiếm khoảng 10% diện tích), có độ cao dưới 100 m, độ dốc tương đối lớn từ 10° đến 15°. Phân bố ở các thị xã [[Hoài Nhơn (thị xã)|Hoài Nhơn]] (15.089 ha), An Lão (5.058 ha) và Vân Canh (7.924 ha).
+*Vùng đồng bằng: Bình Định không có dạng đồng bằng châu thổ mà phần lớn là các đồng bằng nhỏ được tạo thành do các yếu tố địa hình và khí hậu, các đồng bằng này thường nằm trên lưu vực của các con sông hoặc ven biển và được ngăn cách với biển bởi các đầm phá, các đồi cát hay các dãy núi. Độ cao trung bình của dạng địa hình đồng bằng lòng chảo này khoảng 25–50 m và chiếm diện tích khoảng 1.000&nbsp;km². Đồng bằng lớn nhất của tỉnh là đồng bằng thuộc hạ lưu sông Côn, còn lại là các đồng bằng nhỏ thường phân bố dọc theo các nhánh sông hay dọc theo các chân núi và ven biển.
+*Vùng ven biển: Bao gồm các cồn cát, đụn cát tạo thành một dãy hẹp chạy dọc ven biển với chiều rộng trung bình khoảng 2&nbsp;km, hình dạng và quy mô biến đổi theo thời gian. Trong tỉnh có các dãi cát lớn là: dãi cát từ Hà Ra đến Tân Phụng, dãi cát từ Tân Phụng đến vĩnh Lợi, dãi cát từ Đề Gi đến Tân Thắng, dãi cát từ Trung Lương đến Lý Hưng. Ven biển còn có nhiều đầm như [[đầm Trà Ổ]], [[đầm Nước Ngọt]], đầm Mỹ Khánh, [[đầm Thị Nại]]; các vịnh như [[vịnh Làng Mai]], vịnh Quy Nhơn, vịnh Vũng Mới...; các cửa biển như Cửa Tam Quan, cửa An Dũ, cửa Hà Ra, cửa Đề Gi và cửa Quy Nhơn. Các cửa trên là cửa trao đổi nước giữa sông và biển. Hiện tại ngoại trừ cửa Quy Nhơn và cửa Tam Quan khá ổn định, còn các cửa An Dũ, Hà Ra, Đề Gi luôn có sự bồi lấp và biến động.
+
+=== Hải đảo ===
+Ven bờ biển tỉnh Bình Định gồm có 33 đảo lớn nhỏ được chia thành 10 cụm đảo hoặc đảo đơn lẻ.
+
+*Tại khu vực biển thuộc thành phố Quy Nhơn gồm cụm đảo Cù Lao Xanh là cụm đảo lớn gồm 3 đảo nhỏ; cụm Đảo Hòn Đất gồm các đảo nhỏ như Hòn Ngang, Hòn Đất, Hòn Rớ; cụm Đảo Hòn Khô còn gọi là cù lao Hòn Khô gồm 2 đảo nhỏ; cụm Đảo Nghiêm Kinh Chiểu gồm 10 đảo nhỏ (lớn nhất là Hòn Sẹo); cụm Đảo Hòn Cân gồm 5 đảo nhỏ trong đó có Hòn ông Căn là điểm A9 trong 12 điểm để xác định đường cơ sở của Việt Nam; Đảo đơn Hòn Ông Cơ.
+*Tại khu vực biển thuộc huyện Phù Mỹ gồm cụm Đảo Hòn Trâu hay Hòn Trâu Nằm gồm 4 đảo nhỏ; Đảo Hòn Khô còn gọi là Hòn Rùa. Ven biển xã Mỹ Thọ có 3 đảo nhỏ gồm: Đảo Hòn Đụn còn gọi là Hòn Nước hay Đảo Đồn; Đảo Hòn Tranh còn gọi là Đảo Quy vì có hình dáng giống như con rùa, đảo này nằm rất gần bờ có thể đi bộ ra đảo khi thủy triều xuống; Đảo Hòn Nhàn nằm cạnh Hòn Đụn.
+
+Trong các đảo nói trên thì chỉ đảo Cù Lao Xanh là có dân cư sinh sống, các đảo còn lại là những đảo nhỏ một số đảo còn không có thực vật sinh sống chỉ toàn đá và cát. Dọc bờ biển của tỉnh, ngoài các đèn hiệu hướng dẫn tàu thuyền ra vào cảng Quy Nhơn, thì Bình Định còn có 3 ngọn hải đăng: một ngọn được xây dựng trên mạng bắc của núi Gò Dưa thuộc thôn Tân Phụng xã Mỹ Thọ huyện Phù Mỹ, ngọn này có tên gọi là [[Hải đăng Hòn Nước|Hải đăng Vũng Mới]] (hay Hải đăng Hòn Nước); ngọn thứ hai là Hải đăng Cù Lao Xanh được xây dựng trên đảo Cù Lao Xanh thuộc xã Nhơn Châu thành phố Quy Nhơn; ngon thứ ba là Hải đăng Phước Mai tọa lạc ở chóp mũi bán đảo Phương Mai, làng chài Hải Minh (khu vực 9, P.Hải Cảng, TP.Quy Nhơn).
+
+=== Sông ngòi ===
+Các sông trong tỉnh đều bắt nguồn từ những vùng núi cao của sườn phía đông dãy Trường Sơn. Các sông ngòi không lớn, độ dốc cao, ngắn, hàm lượng phù sa thấp, tổng trữ lượng nước 5,2 tỷ m³, tiềm năng thủy điện 182,4 triệu kw. Ở thượng lưu có nhiều dãy núi bám sát bờ sông nên độ dốc rất lớn, lũ lên xuống rất nhanh, thời gian truyền lũ ngắn. Ở đoạn đồng bằng lòng sông rộng và nông có nhiều luồng lạch, mùa kiệt nguồn nước rất nghèo nàn; nhưng khi lũ lớn nước tràn ngập mênh mông vùng hạ lưu gây ngập úng dài ngày vì các cửa sông nhỏ và các công trình che chắn nên thoát lũ kém. Trong tỉnh có bốn con sông lớn là [[sông Côn|Côn]], [[Lại Giang]], [[sông La Tinh|La Tinh]] và [[sông Hà Thanh|Hà Thanh]] cùng các sông nhỏ như Châu Trúc hay Tam Quan. Ngoài các sông đáng kể nói trên còn lại là hệ thống các suối nhỏ chằng chịt thường chỉ có nước chảy về mùa lũ và mạng lưới các sông suối ở miền núi tạo điều kiện cho phát triển thủy lợi và thủy điện. Độ che phủ của rừng đến nay chỉ còn khoảng trên 40% nên hàng năm các sông này gây lũ lụt, sa bồi, thủy phá nghiêm trọng. Ngược lại, mùa khô nước các sông cạn kiệt, thiếu nước tưới.
+
+=== Hồ đầm ===
+Toàn tỉnh Bình Định có nhiều hồ nhân tạo được xây dựng để phục vụ mục đích tưới tiêu trong mùa khô. Trong đó có thể kể tên một số hồ lớn tại các huyện trong tỉnh như: hồ Hưng Long (An Lão); hồ Vạn Hội, Mỹ Đức và Thạch Khê (Hoài Ân); hồ Mỹ Bình (Hoài Nhơn); hồ Hội Sơn và Mỹ Thuận (Phù Cát); hồ Diêm Tiêu, Hóc Nhạn và Phú Hà (Phù Mỹ); hồ Định Bình, Thuận Ninh (Tây Sơn); hồ Núi Một (Vân Canh - An Nhơn); hồ Vĩnh Sơn, [[hồ Định Bình]] (Vĩnh Thạnh). Ngoài ra Bình Định còn có một đầm nước ngọt khá rộng là đầm Trà Ổ (Phù Mỹ) và hai đầm nước lợ là Đề Gi (Phù Mỹ - Phù Cát) và Thị Nại (Tuy Phước - Quy Nhơn). Hệ thống hồ đầm này tạo điều kiện thuận lợi cho việc phát triển nông nghiệp và nuôi trồng thủy hải sản. Đặc biệt đầm Thị Nại là đầm lớn rất thuận lợi cho việc phát triển cảng biển tầm cỡ quốc gia và góp phần phát triển khu kinh tế Nhơn Hội, đầm còn được biết đến với cây cầu vượt biển dài thứ hai Việt Nam hiện nay sau cầu Đình Vũ (Hải Phòng).
+
+=== Khí hậu ===
+Khí hậu Bình Định có tính chất nhiệt đới ẩm, gió mùa. Do sự phức tạp của địa hình nên gió mùa khi vào đất liền đã thay đổi hướng và cường độ khá nhiều, được chia làm hai mùa là mùa khô và mùa mưa, mùa khô bắt đầu từ tháng 1 cho đến hết tháng 8 với đầu mùa khí hậu lạnh và hanh khô còn cuối mùa với khí hậu nóng và khô còn mùa mưa bắt đầu từ tháng 9 cho đến hết tháng 12.
+
+*Nhiệt độ không khí trung bình năm: ở khu vực miền núi biến đổi 15,1 - 26,1&nbsp;°C, cao nhất là 31,7&nbsp;°C và thấp nhất là 6,5&nbsp;°C. Tại vùng duyên hải, nhiệt độ không khí trung bình năm là 27,0&nbsp;°C, cao nhất 39,9&nbsp;°C và thấp nhất 10,8&nbsp;°C.
+*Độ ẩm tuyệt đối trung bình tháng trong năm: tại khu vực miền núi là 30 - 40% và độ ẩm tương đối 60 - 70%; tại vùng duyên hải độ ẩm tuyệt đối trung bình là 20 - 30% và độ ẩm tương đối trung bình là 70 - 80%.
+*Chế độ mưa: mùa mưa bắt đầu từ tháng 9 đến tháng 12. Riêng đối với khu vực miền núi có thêm một mùa mưa phụ tháng 5 - 8 do ảnh hưởng của mùa mưa Tây Nguyên. Mùa khô kéo dài tháng 1 - 8. Đối với các huyện miền núi tổng lượng mưa trung bình năm 2.000 - 2.400&nbsp;mm. Đối với vùng duyên hải tổng lượng mưa trung bình năm là 1.751&nbsp;mm. Tổng lượng mưa trung bình có xu thế giảm dần từ miền núi xuống duyên hải và có xu thế giảm dần từ Tây Bắc xuống Đông Nam.
+*Về bão: Bình Định nằm ở miền Duyên hải Nam Trung Bộ, đây là miền thường có bão đổ bộ vào đất liền. Hàng năm trong đoạn bờ biển từ Quảng Nam - Đà Nẵng đến Khánh Hòa trung bình có 1,04 cơn bão đổ bộ vào. Tần suất xuất hiện bão lớn nhất tháng 9 - 11.
+
+== Hành chính ==
+{{chính|Lịch sử hành chính Bình Định}}
+
+[[Tập_tin:BandoxaBD2.png|nhỏ|Bản đồ các xã, thị trấn và phường thuộc các huyện, thị xã, thành phố của tỉnh Bình Định]]
+
+Tỉnh Bình Định có 11 đơn vị hành chính cấp huyện bao gồm: 1 thành phố, 2 thị xã và 8 huyện; được phân chia thành 155 đơn vị hành chính cấp xã gồm 28 phường, 12 thị trấn và 115 xã.<ref name="1257/NQ-UBTVQH15">{{Chú thích web|url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=90598|tựa đề= Nghị quyết số 1257/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh Bình Định giai đoạn 2023 – 2025 |tác giả=|ngày= 2024-10-24 |website= Cổng thông tin điện tử Quốc hội Việt Nam |url lưu trữ=https://web.archive.org/web/20241102122247/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=90598|ngày lưu trữ= 2024-11-02 |ngày truy cập= 2024-11-02 |url-status= live }}</ref>
+
+{|cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #F9F9F9; border: 1px #aaa solid; margin-top: 16px"
+!colspan="4" style="background: #E6E6FA; font-size: 95%;" | Danh sách các đơn vị hành chính trực thuộc tỉnh Bình Định
+|-
+|width="50%" valign="top" style="background: #F9F9F9;"|
+{|cellpadding="1" cellspacing="1" style="background: #F9F9F9; font-size: 90%; text-align: right;" width="100%"
+|-
+!align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" | Tên !! style="border-bottom: 2px solid #CCCCFF;" | Diện&nbsp;tích (km²) !! style="border-bottom: 2px solid #CCCCFF;" | Dân&nbsp;số (người) !! style="border-bottom: 2px solid #CCCCFF;" | Đơn vị&nbsp;hành chính
+|-
+|align="left" colspan="4" style="background: #F5F5DC; padding-left: 30px;" | '''Thành phố (1)'''
+|-
+|align="left" style="padding-left: 6px; white-space:nowrap" |[[Quy Nhơn (thành phố)|Quy Nhơn]] || 286,06 || 522.644 || ''12 phường, 5 xã''
+|-
+|align="left" colspan="4" style="background: #F5F5DC; padding-left: 30px;" | '''Thị xã (2)'''
+|-bgcolor="#F5F5F5"
+|align="left" style="padding-left: 6px; white-space:nowrap" |[[An Nhơn (thị xã)|An Nhơn]] || 244,49 || 308.932 || ''5 phường, 10 xã''
+|-
+|align="left" style="padding-left: 6px; white-space:nowrap" |[[Hoài Nhơn (thị xã)|Hoài Nhơn]] || 420,88 || 456.954 || ''11 phường, 6 xã''
+|-
+|align="left" colspan="4" style="background: #F5F5DC; padding-left: 30px;" | '''Huyện (8)'''
+|-bgcolor="#F5F5F5"
+|align="left" style="padding-left: 6px; white-space:nowrap" |[[An Lão (huyện Bình Định)|An Lão]] || 696,88 || 33.197 || ''1 thị trấn, 9 xã''
+|}
+|width="50%" valign="top" style="background: #F9F9F9;" |
+{|cellpadding="1" cellspacing="1" style="background: #F9F9F9; font-size: 90%; text-align: right;" width="100%"
+|-
+!align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" | Tên !! style="border-bottom: 2px solid #CCCCFF;" | Diện&nbsp;tích (km²) !! style="border-bottom: 2px solid #CCCCFF;" | Dân&nbsp;số (người) !! style="border-bottom: 2px solid #CCCCFF;" | Đơn vị&nbsp;hành chính
+|-
+|align="left" style="padding-left: 6px; white-space:nowrap" |[[Hoài Ân (huyện)|Hoài Ân]] || 753,21 || 111.634 || ''1 thị trấn, 14 xã''
+|-bgcolor="#F5F5F5"
+|align="left" style="padding-left: 6px; white-space:nowrap" |[[Phù Cát (huyện)|Phù Cát]] || 680,72 || 227.169 || ''3 thị trấn, 15 xã''
+|-
+|align="left" style="padding-left: 6px; white-space:nowrap" |[[Phù Mỹ (huyện)|Phù Mỹ]] || 556,08 || 227.690 || ''2 thị trấn, 17 xã''
+|-bgcolor="#F5F5F5"
+|align="left" style="padding-left: 6px; white-space:nowrap" |[[Tây Sơn (huyện Bình Định)|Tây Sơn]] || 692,19 || 150.503 || ''1 thị trấn, 14 xã''
+|-
+|align="left" style="padding-left: 6px; white-space:nowrap" |[[Tuy Phước (huyện)|Tuy Phước]] || 219,87 || 221.393 || ''2 thị trấn, 11 xã''
+|-bgcolor="#F5F5F5"
+|align="left" style="padding-left: 6px; white-space:nowrap" |[[Vân Canh (huyện)|Vân Canh]] || 799,14 || 33.039 || ''1 thị trấn, 6 xã''
+|-
+|align="left" style="padding-left: 6px; white-space:nowrap" |[[Vĩnh Thạnh (huyện Bình Định)|Vĩnh Thạnh]] || 716,91 || 36.004 || ''1 thị trấn, 8 xã''
+|}
+|valign="top" style="background: #F9F9F9; font-size: 90%" |
+|}
+
+==Lịch sử==
+{{main|Lịch sử hành chính Bình Định}}
+
+[[Tập tin:BinhDinhTinh.jpg|nhỏ|phải|250px|Bản đồ tỉnh Bình Định của Nhà Nguyễn trong [[Đại Nam nhất thống chí]] ]]
+
+Bình Định đời [[nhà Hán]] là huyện Tượng Lâm thuộc quận Nhật Nam, năm Vĩnh Hoà 2 (137) người trong quận làm chức Công Tào tên là Khu Liên đã giết viên huyện lệnh chiếm đất và tự phong là Lâm Ấp vương.
+
+Đời [[nhà Tùy]] (605) dẹp [[Lâm Ấp]] đặt tên là Xung Châu, sau đó lại lấy tên cũ là Lâm Ấp.
+
+Đời [[nhà Đường]], năm 627 đổi tên là Lâm Châu. Năm 803, nhà Đường bỏ đất này và nước [[Chiêm Thành]] của người Chăm ra đời, đất này được đổi là Đồ Bàn, Thị Nại.
+
+Năm 999, Harivarman II thành lập vương triều Vijaya, đóng đô ở thành Phật Thệ (cũng gọi là Vijaya)<ref>Theo ''Đại Việt sử ký toàn thư''. Quyển ''An Nam chí lược'' của Lê Tắc, Chiêm Thành lập quốc ở mé biển, tên ban đầu là Hồ Tôn, tàu thuyền vượt bể qua các nước phiên phục, thường tập trung ở nơi đây lấy củi và nước</ref>. Thời Vijaya, các vua Chăm xây dựng 7 cụm tháp gồm 13 tháp, các cụm tháp hiện còn là cụm Cánh Tiên, Phú Lốc, Dương Long....<ref>Trung tâm lưu trữ lịch sử tỉnh Bình Định (2024), ''Bình Định theo dòng lịch sử''. Triển lãm trực tuyến.</ref>. Người Chăm thời Vijaya xây dựng ba ngôi thành, với thành Đồ Bàn (Vijaya) có chức năng ngoại giao và chứng kiến các bước phát triển của lịch sử Champa, thành Cha có chức năng hành chính và quân sự, thành Thị Nại có chức năng là thương cảng<ref name="ReferenceA">Trung tâm lưu trữ quốc gia IV, ''Bình Định theo dòng lịch sử'' (triển lãm trực tuyến)</ref>
+
+[[Tập tin:Cổng chính tử cấm thành, thành Hoàng Đế.JPG|nhỏ|trái|250px|Di tích Tử cấm Thành của Thành Hoàng Đế ở An Nhơn]]
+
+Đời [[nhà Lê sơ|nhà Lê]], tháng 7 năm 1471, vua Lê cho lập phủ Hoài Nhơn gồm 3 huyện là: [[Bồng Sơn]], Phù Ly và [[Tuy Viễn (huyện)|Tuy Viễn]]. Từ đó người Việt bắt đầu tiến vào sinh sống trên vùng đất Bình Định ngày nay. Năm 1490 (chưa đầy 20 năm sau), theo Thiên nam dư hạ tập cho biết: dưới thời [[Lê Thánh Tông|Hồng Đức]], Phủ [[Hoài Nhơn (thị xã)|Hoài Nhơn]] có 19 tổng và 100 xã.
+
+Năm 1602, chúa [[Nguyễn Hoàng]] cho đổi phủ Hoài Nhơn thành phủ Quy Nhơn thuộc dinh Quảng Nam.
+
+Năm 1651, chúa [[Nguyễn Phúc Tần]], đã đổi tên phủ Quy Nhơn thành phủ Quy Ninh.
+
+Năm 1725, ở phủ Quy Nhơn đặt các chức quan trông coi: Chánh hộ, Khám lý, Đề đốc, Đề lãnh, Ký lục, Cai phủ, Thư ký, mỗi chức đặt một người; mỗi huyện đặt cai tri, thư ký, mỗi chức một người và 2 viên lục lại; mỗi tổng có cai tổng.
+
+Năm 1742, chúa [[Nguyễn Phúc Khoát]] cho lấy lại tên cũ là Quy Nhơn.
+
+Năm 1744, chúa Nguyễn Phúc Khoát đặt các đạo làm dinh, nhưng cấp phủ vẫn giữ nguyên. Phủ Quy Nhơn vẫn thuộc về dinh Quảng Nam, đặt các chức tuần phủ và khám lý để cai trị. Phủ lỵ dời ra phía Bắc thành Đồ Bàn, đóng tại thôn Châu Thành (nay là phường Nhơn Thành, thị xã An Nhơn).
+
+Giữa thế kỷ 18, có cuộc khởi nghĩa của một chàng trai ở [[Gò Sặt]] võ nghệ cao cường, tên là Lía. Chàng chọn Truông Mây làm căn cứ. Ngày nay còn có câu:
+{{cquote|''Chiều chiều én liệng Truông Mây<ref>Sách ''Kho tàng truyện cổ tích Việt Nam'' của Nguyễn Đổng Chi viết ''én liệng truông Mây' thay vì ''én liệng Truông Mây''.</ref>''
+''Cảm thương chú Lía bị vây trong thành''}}
+
+Từ 1773 đến 1797, [[nhà Tây Sơn]] chiếm cứ đất này, sau khi lấy lại đất này [[Gia Long|Nguyễn Ánh]] đổi tên đất này là dinh Bình Định, sai [[Võ Tánh]] và [[Ngô Tùng Châu]] trấn thủ và đặt quan cai trị gọi là Lưu Thủ, Cai Bộ, Ký Lục.
+
+Năm 1799, khi Nguyễn Ánh lấy thành [[Quy Nhơn (thành phố)|Quy Nhơn]] và đổi tên thành Bình Định. Sách ''Đại Nam nhất thống chí'' ghi lại: "Thành cũ Chà Bàn: Ở địa phận 3 thôn Nam Định, Bắc Thuận và Bả Canh về phía Đông Bắc huyện Tuy Viễn. Xưa là quốc đô của Chiêm Thành, chu vi 30 dặm, trong thành có tháp cổ có nghê đá, voi đá, đều của người Chiêm Thành. Tây Sơn Nguyễn Văn Nhạc chiếm cứ thành này, nhân nền cũ xây đá ong, tiếm xưng là thành Hoàng đế. Năm Kỷ Mùi (1799), đầu đời Trung Hưng khi mới thu phục được đất này, đổi tên là thành Bình Định..."<ref>{{Chú thích web|url=https://baobinhdinh.vn/viewer.aspx?macm=18&macmp=18&mabb=280579#:~:text=Th%C3%A0nh%20B%C3%ACnh%20%C4%90%E1%BB%8Bnh%20l%C3%A0%20m%E1%BB%99t,%C4%90%C3%B4ng%20B%E1%BA%AFc%20huy%E1%BB%87n%20Tuy%20Vi%E1%BB%85n.|tiêu đề=Thành Bình Định xưa và những điều còn đọng lại|website=BBD-Tin tức hay|ngày truy cập=2024-09-22}}</ref>.
+
+Năm 1802, vua Gia Long cho đặt phủ Quy Nhơn thành dinh Bình Định<ref name="ReferenceA"/>
+
+Năm 1808 đổi dinh Bình Định thành trấn Bình Định.
+
+Năm Canh Ngọ (1810), vua Gia Long đã cho dời thành đến một địa điểm khác, thành Hoàng Đế cũ bị phế bỏ. Việc dời đến vị trí mới của thành Bình Định mới cũng được mộc bản sách ''Đại Nam thực lục'' chính biên đệ nhất kỷ, quyển 40, mặt khắc 27 ghi lại: "Dời trấn thành Bình Định đến Tân An (tên xã thuộc huyện Tuy Viễn)... Quan trấn thành thấy dân đương làm ruộng, xin sai 17.500 người, chia làm hai ban, 10 ngày thay một lần. Lại xin hoãn bắt lính một tháng. Vua đều theo lời. Ruộng đất nào bị mở vào, sai cấp cho 4 phần 10 giá tiền"<ref>{{Chú thích web|url=https://baobinhdinh.vn/viewer.aspx?macm=18&macmp=18&mabb=225493|tiêu đề=Dấu xưa thành cổ Bình Định|website=BBD-Tin tức hay|ngày truy cập=2024-09-22}}</ref>.
+
+Năm 1814, vua [[Gia Long]] cho xây dựng lại [[Thành Bình Định]] mới, ngày nay ở phường Bình Định thị xã An Nhơn, nằm về phía đông nam và cách thành cũ khoảng 5&nbsp;km ở phía gần [[sông Côn]]. Sau khi xây xong cho chuyển toàn bộ nhà cửa về thành mới này.
+
+Năm 1825 đặt tri phủ Quy Nhơn, năm 1831 lại đổi thành phủ Hoài Nhơn.
+
+[[Tập tin:Province de Binh-Dinh (1909).jpg|250px|phải|nhỏ|Bản đồ tỉnh Bình Định năm 1909 (bấy giờ địa bàn bao gồm cả tỉnh Kon Tum và một phần tỉnh Gia Lai ngày nay)]]
+
+Năm 1832, vua Minh Mạng thành lập tỉnh Bình Định. Mộc bản sách ''Đại Nam thực lục'' chính biên đệ nhị kỷ, quyển 85, mặt khắc 12 cũng khắc ghi sự kiện này như sau: "Chia đặt các tỉnh hạt... Tỉnh Bình Định: thống trị 2 phủ, An Nhân, Hoài Nhân và 5 huyện Tuy Viễn, Tuy Phúc, Phù Cát, Phù Mỹ, Bồng Sơn. Huyện Tuy Viễn được chia ra làm 2 huyện Tuy Viễn, Tuy Phúc đặt riêng làm phủ An Nhân; huyện Phù Ly chia làm 2 huyện Phù Cát, Phù Mỹ. Ba huyện Phù Cát, Phù Mỹ, Bồng Sơn, thuộc phủ Hoài Nhân"<ref name="baobinhdinh.vn">{{Chú thích web|url=https://baobinhdinh.vn/viewer.aspx?macm=18&macmp=18&mabb=226018#:~:text=%C4%90%E1%BA%BFn%20%C4%91%E1%BB%9Di%20vua%20Minh%20M%E1%BA%A1ng,c%C3%A1c%20dinh,%20tr%E1%BA%A5n%20th%C3%A0nh%20t%E1%BB%89nh.|tiêu đề=Danh xưng tỉnh Bình Định qua Mộc bản triều Nguyễn|website=BBD-Tin tức hay|ngày truy cập=2024-09-22}}</ref>.
+
+Năm Quý Sửu (1853), vua cho hợp tỉnh Phú Yên vào tỉnh Bình Định, đặt đạo Phú Yên, tất cả các giấy tờ sổ sách đều nêu lên đầu tên tỉnh Bình Định. Mộc bản sách ''Đại Nam thực lục'' chính biên đệ tứ kỷ, quyển 9, mặt khắc 24 có ghi việc này rằng: "Đổi lại 3 tỉnh Quảng Trị, Phú Yên, Hà Tĩnh làm đạo, bấy giờ, đình thần bàn, phần nhiều nói: 3 tỉnh đều là tỉnh nhỏ, việc ít, nên đổi làm đạo, để rút bớt quan lại... Đạo Quảng Trị để chữ Thừa Thiên phủ lên đầu; đạo Phú Yên để chữ Bình Định tỉnh lên đầu".<ref name="baobinhdinh.vn"/>
+
+Năm 1885 Bình Định là một tỉnh lớn ở [[Trung Kỳ]], nhiều vùng đất của [[Gia Lai]] - [[Kon Tum (tỉnh)|Kon Tum]] còn thuộc về Bình Định. Cai trị lúc này là Công sứ Quy Nhơn Eugene Navelle (1883 - 1886). Khi Charles Lemire làm Công sứ Quy Nhơn (1886 - 1888), Pháp lập huyện Bình Khê.
+
+Năm 1890, [[đế quốc thực dân Pháp|thực dân Pháp]] sáp nhập thêm [[Phú Yên (tỉnh)|Phú Yên]] vào tỉnh Bình Định thành tỉnh [[Bình Phú (tỉnh)|Bình Phú]], tỉnh lỵ là Quy Nhơn, do Edmond Guiomar làm Công sứ (1888 - 1890). Nhưng đến năm 1899, [[Phú Yên (tỉnh)|Phú Yên]] tách ra khỏi [[Bình Phú (tỉnh)|Bình Phú]].<ref>''Annuaire general de l'Indochine'', 1900 ghi viên công sứ cuối cùng ở Bình - Phú là Celoron Blainville. Năm 1900, Pháp cử Dufrenil làm công sứ Bình Định, Antony làm công sứ Sông Cầu (Phú Yên)</ref>
+
+Năm 1900, Toàn quyền Đông Dương ban hành Nghị định ngày 14/3/1900, quyết định thành lập thị xã Quy Nhơn, gồm hai xã Cẩm Thượng và Chánh Thành<ref name="ReferenceA"/>. Cai trị tỉnh Bình Định lúc này là Paul E. Dufrenil, phó công sứ Leon Garnier; các quan lại Nam triều ở tỉnh gồm tổng đốc Phạm Hường, bố chánh Võ Duy Tịnh, án sát Huỳnh Ngũ Bản<ref>''Annuaire general de l'Indochine'', 1900</ref>
+
+Ngày 4 tháng 7 năm 1905, [[Toàn quyền Đông Dương]] ra nghị định thành lập tỉnh tự trị Pleikou Derr, tỉnh lỵ đặt tại làng Pleiku Der của dân tộc [[Người Gia Rai|Gia Rai]]. Địa bàn tỉnh Pleikou Derr bao gồm các vùng cư trú của đồng bào thiểu số [[Người Xơ Đăng|Xơ Đăng]], [[Người Ba Na|Ba Na]], [[Người Gia Rai|Gia Rai]] tách từ tỉnh Bình Định ra.
+
+Ngày 25 tháng 4 năm 1907 xoá bỏ tỉnh Pleikou Derr. Toàn bộ đất đai của tỉnh này chia làm hai phần: một là Đại lý Kontum cho sáp nhập trở lại tỉnh Bình Định và đặt dưới sự cai trị của viên Công sứ Bình Định là Augustin Sandré (1907 - 1910); một gọi là Đại lý [[Cheo Reo]], cho sáp nhập vào tỉnh [[Phú Yên (tỉnh)|Phú Yên]] và đặt dưới sự cai trị của viên Công sứ Phú Yên Benjamin Léhé (1907 - 1910)
+
+Năm 1913, thực dân [[Pháp]] lại sáp nhập [[Phú Yên (tỉnh)|Phú Yên]] vào Bình Định thành tỉnh [[Bình Phú (tỉnh)|Bình Phú]] và thành lập tỉnh [[Kon Tum (tỉnh)|Kon Tum]] làm tỉnh riêng; địa bàn tỉnh [[Kon Tum (tỉnh)|Kon Tum]] bao gồm Đại lý Kontum tách từ tỉnh Bình Định, Đại lý Cheo Reo tách từ tỉnh [[Phú Yên (tỉnh)|Phú Yên]] và tỉnh [[Đắk Lắk]]. Ngày 28 tháng 3 năm 1917 cắt tổng Tân Phong và tổng An Khê thuộc cao nguyên An Khê, tỉnh Bình Định sáp nhập vào tỉnh Kontum.
+
+Ngày 28 tháng 3 năm 1917, Pháp cắt tổng Tân Phong và tổng An Khê thuộc cao nguyên An Khê, tỉnh Bình Định, sáp nhập vào tỉnh [[Kon Tum (tỉnh)|Kon Tum]].
+
+Năm 1921, thực dân Pháp cắt tỉnh [[Phú Yên (tỉnh)|Phú Yên]] ra khỏi tỉnh Bình Định và kéo dài cho đến năm [[1945]]. Thời [[Việt Nam Cộng hòa]] đổi các huyện thành quận, tỉnh Bình Định có 11 quận, 1 thị xã, trong đó có 4 quận miền núi.
+
+{| class="wikitable" style="float:right; margin:1em; margin-top:0;"
+|-
+! colspan="2" | '''Dân số tỉnh Bình Định 1967'''<ref>''Việt Nam Cộng hòa bản đồ hành chánh''. Đà Lạt: Phân cục Địa dư Quốc gia, 1967.</ref>
+|- style="background:lightgrey;"
+! Quận
+! Dân số
+|-
+| An Nhơn || 110.875 
+|-
+| An Túc || 15.193 
+|-
+| Bình Khê || 63.746 
+|-
+| Hoài Ân || 41.586 
+|-
+| Hoài Nhơn || 164.783 
+|-
+| Phù Cát || 108.081 
+|-
+| Phù Mỹ || 121.488 
+|-
+| Tuy Phước || 176.351 
+|-
+| '''Tổng số''' || '''802.103''' 
+|}
+
+Ngày 20 tháng 9 năm 1975, Bộ Chính trị ban hành Nghị quyết số 245-NQ/TW<ref>{{Chú thích web|url=https://photo.znews.vn/w660/Uploaded/dqmblcvo/2025_03_13/1.jpg|tựa đề= Nghị quyết số 245-NQ/TW về việc bỏ khu, hợp tỉnh |ngày= 1975-09-20 |website=|url lưu trữ=https://web.archive.org/web/20250407082825/https://photo.znews.vn/w660/Uploaded/dqmblcvo/2025_03_13/1.jpg|ngày lưu trữ= 2025-04-07 |ngày truy cập= 2025-04-07 |url-status= dead }}</ref> về việc Hợp nhất tỉnh Bình Định và tỉnh [[Quảng Ngãi]] thành một tỉnh, tên gọi tỉnh mới cùng với nơi đặt tỉnh lỵ sẽ do địa phương đề nghị lên.
+
+Ngày 24 tháng 2 năm 1976, Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam ban hành Nghị định số 3/NQ/1976<ref>{{Chú thích web|url=http://luutruquocgia1.org.vn/wp-content/uploads/2017/05/anh2.png|tựa đề= Nghị định số 3/NQ/1976 về việc giải thể khu, hợp nhất tỉnh ở miền Nam Việt Nam |tác giả=|ngày= 1976-02-24 |website= Trung tâm Lưu trữ quốc gia I |url lưu trữ=https://web.archive.org/web/20250507064804/http://luutruquocgia1.org.vn/wp-content/uploads/2017/05/anh2.png|ngày lưu trữ= 2025-05-07 |ngày truy cập= 2025-05-07 |url-status= dead }}</ref> về việc thành lập tỉnh [[Nghĩa Bình|Nghĩa Bình]] trên cơ sở hợp nhất tỉnh Bình Định và tỉnh [[Quảng Ngãi]], tên gọi tỉnh mới cùng với nơi đặt tỉnh lỵ sẽ do địa phương đề nghị lên.
+
+Ngày [[24 tháng 8]] năm [[1981]], chia huyện Hoài An thành 2 huyện: [[Hoài Ân (huyện)|Hoài Ân]] và [[An Lão (huyện Bình Định)|An Lão]]; chia huyện [[Phước Vân (huyện)|Phước Vân]] thành 2 huyện: [[Tuy Phước (huyện)|Tuy Phước]] và [[Vân Canh (huyện)|Vân Canh]]; chia huyện Tây Sơn thành 2 huyện: [[Tây Sơn (huyện Bình Định)|Tây Sơn]] và [[Vĩnh Thạnh (huyện Bình Định)|Vĩnh Thạnh]].
+
+Ngày [[3 tháng 7]] năm [[1986]], chuyển thị xã Quy Nhơn thành thành phố [[Quy Nhơn (thành phố)|Quy Nhơn]].<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Quyet-dinh-81-HDBTmo-rong-doi-ten-thi-xa-Quy-Nhon-thanh-thanh-pho-Quy-Nhon-tinh-Nghia-Binh-37124.aspx|title=Quyết định 81-HĐBT năm 1986 về việc mở rộng và đổi tên thị xã Quy Nhơn thành thành phố Quy Nhơn thuộc tỉnh Nghĩa Bình|last=|first=|date=|website=|archive-url=|archive-date=|url-status=|access-date =}}</ref>
+
+Ngày [[30 tháng 6]] năm [[1989]], tỉnh Bình Định được tái lập từ tỉnh [[Nghĩa Bình]] cũ.<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-phan-vach-dai-gioi-hanh-chinh-cua-cac-tinh-Nghia-Binh-Phu-Khanh-va-Binh-Tri-Thien-42792.aspx|title=Nghị quyết về việc phân vạch địa giới hành chính các tỉnh Nghĩa Bình, Phú Khánh và Bình Trị Thiên|last=|first=|date=|website=|archive-url=|archive-date=|url-status=|access-date =}}</ref>
+
+Khi tách ra, tỉnh Bình Định có 11 đơn vị hành chính gồm: thành phố [[Quy Nhơn (thành phố)|Quy Nhơn]] (tỉnh lỵ) và 10 huyện: [[An Lão (huyện Bình Định)|An Lão]], [[An Nhơn (thị xã)|An Nhơn]], [[Hoài Ân (huyện)|Hoài Ân]], [[Hoài Nhơn (thị xã)|Hoài Nhơn]], [[Phù Cát (huyện)|Phù Cát]], [[Phù Mỹ (huyện)|Phù Mỹ]], [[Tây Sơn (huyện Bình Định)|Tây Sơn]], [[Tuy Phước (huyện)|Tuy Phước]], [[Vân Canh (huyện)|Vân Canh]], [[Vĩnh Thạnh (huyện Bình Định)|Vĩnh Thạnh]].
+
+Ngày [[4 tháng 7]] năm [[1998]], thành phố [[Quy Nhơn (thành phố)|Quy Nhơn]] được công nhận là [[Đô thị Việt Nam|đô thị loại II]].<ref>[http://thuvienphapluat.vn/archive/Quyet-dinh/Quyet-dinh-558-QD-TTg-cong-nhan-thanh-pho-Quy-Nhon-la-do-thi-loai-II-vb17226t17.aspx Quyết định 558/QĐ-TTg năm 1998 về việc công nhận thành phố Quy Nhơn là đô thị loại II do Thủ tướng Chính phủ ban hành]</ref>
+
+Ngày [[25 tháng 1]] năm [[2010]], thành phố Quy Nhơn được công nhận là [[Đô thị Việt Nam|đô thị loại I]] trực thuộc tỉnh Bình Định.<ref>[http://thuvienphapluat.vn/archive/Quyet-dinh/Quyet-dinh-159-QD-TTg-cong-nhan-thanh-pho-Quy-Nhon-la-do-thi-loai-I-truc-thuoc-tinh-Binh-Dinh-vb100698t17.aspx Quyết định 159/QĐ-TTg năm 2010 công nhận thành phố Quy Nhơn là đô thị loại I trực thuộc tỉnh Bình Định do Thủ tướng Chính phủ ban hành]</ref>
+
+Ngày [[28 tháng 11]] năm [[2011]], chuyển huyện An Nhơn thành thị xã [[An Nhơn (thị xã)|An Nhơn]].<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-101-NQ-CP-thanh-lap-thi-xa-An-Nhon-132303.aspx|title=Nghị quyết số 101/NQ-CP về việc thành lập thị xã An Nhơn và thành lập các phường thuộc thị xã An Nhơn, tỉnh Bình Định|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref>
+
+Ngày [[1 tháng 6]] năm [[2020]], chuyển huyện Hoài Nhơn thành thị xã [[Hoài Nhơn (thị xã)|Hoài Nhơn]].<ref name=NQ932>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-932-NQ-UBTVQH14-2020-thanh-lap-cac-phuong-thuoc-thi-xa-Hoai-Nhon-Binh-Dinh-441893.aspx|tựa đề=Nghị quyết số 932/NQ-UBTVQH14 năm 2020 về việc thành lập thị xã Hoài Nhơn và các phường thuộc thị xã Hoài Nhơn, tỉnh Bình Định|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref>
+
+Ngày [[2 tháng 3]] năm [[2021]], thị xã [[An Nhơn (thị xã)|An Nhơn]] được công nhận là [[Đô thị Việt Nam|đô thị loại III]].<ref>{{Chú thích báo|last=Sở Xây dựng tỉnh Bình Định|date=2021-03-05ICT16:11:48|title=Công nhận Thị xã An Nhơn là đô thị loại III trực thuộc tỉnh Bình Định|language=vi|work=Sở Xây dựng tỉnh Bình Định|url=https://sxd.binhdinh.gov.vn/vi/news/quan-ly-nha-va-phat-trien-do-thi/cong-nhan-thi-xa-an-nhon-la-do-thi-loai-iii-443.html|access-date=2025-01-09|archive-url=https://web.archive.org/web/20240719140428/https://sxd.binhdinh.gov.vn/vi/news/quan-ly-nha-va-phat-trien-do-thi/cong-nhan-thi-xa-an-nhon-la-do-thi-loai-iii-443.html|archive-date=2024-07-19|url-status=live}}</ref> Tỉnh Bình Định có 1 [[Thành phố thuộc tỉnh (Việt Nam)|thành phố]] Quy Nhơn, 2 [[Thị xã (Việt Nam)|thị xã]]: An Nhơn, Hoài Nhơn và 8 [[Huyện (Việt Nam)|huyện]]: An Lão, Hoài Ân, Phù Cát, Phù Mỹ, Tây Sơn, Tuy Phước, Vân Canh, Vĩnh Thạnh.
+
+Ngày [[12 tháng 6]] năm [[2025]], Quốc hội ban hành Nghị quyết số 202/2025/QH15<ref name="202/2025/QH15"/> về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực ngày thông qua và chính thực đi vào hoạt động từ ngày [[1 tháng 7]] năm [[2025]]). Theo đó, sáp nhập tỉnh Bình Định vào tỉnh [[Gia Lai]].
+
+==Kinh tế - xã hội==
+{{Chính|Danh sách đơn vị hành chính Việt Nam theo GRDP}}{{Chính|Danh sách đơn vị hành chính Việt Nam theo GRDP bình quân đầu người}}
+
+Bình Định có vị trí địa kinh tế đặc biệt quan trọng trong việc giao lưu với các quốc gia ở khu vực và quốc tế; nằm ở trung điểm của trục giao thông đường sắt và đường bộ Bắc - Nam Việt Nam, đồng thời là cửa ngõ ra biển Đông gần nhất và thuận lợi nhất của Tây Nguyên, Nam Lào, Đông Bắc Campuchia và Đông Bắc Thái Lan thông qua [[Quốc lộ 19]] và cảng biển quốc tế Quy Nhơn. Ngoài lợi thế này, Bình Định còn có nguồn tài nguyên tự nhiên, tài nguyên nhân văn phong phú và nguồn nhân lực khá dồi dào. Trong Quy hoạch tổng thể phát triển kinh tế - xã hội tỉnh Bình Định đến năm 2020 đã được [[Thủ tướng Chính phủ]] phê duyệt ''(theo Quyết định số 54/2009/QĐ-TTg ngày 14/4/2009)'', Bình Định được xác định sẽ phấn đấu trở thành tỉnh có nền công nghiệp hiện đại và là một trong những trung tâm phát triển về kinh tế - xã hội, đóng góp tích cực vào sự phát triển của Vùng kinh tế trọng điểm [[Trung Bộ|miền Trung]] và cả nước, đời sống nhân dân được cải thiện và nâng cao, môi trường sinh thái được bảo vệ, an ninh và quốc phòng luôn bảo đảm.<ref>{{Chú thích web|url=http://www.binhdinh.gov.vn/inetcloud/portal/main/page/intro/kinhtexahoi.ivt?intl=vi|title=Tổng quan về kinh tế - xã hội tỉnh Bình Định|last=|first=|date=|website=Cổng Thông tin điện tử tỉnh Bình Định|archive-url=https://web.archive.org/web/20191006045855/http://www.binhdinh.gov.vn/inetcloud/portal/main/page/intro/kinhtexahoi.ivt?intl=vi|archive-date = ngày 6 tháng 10 năm 2019 |url-status=dead|access-date=Ngày 15 tháng 10 năm 2019}}</ref>
+
+Các chỉ tiêu đạt được năm 2018: Về các chỉ tiêu kinh tế, [[Tổng sản phẩm trên địa bàn (GRDP)]] tăng 7,32% (kế hoạch 7-7,2%). Trong đó, giá trị tăng thêm của các ngành:
+*Nông, lâm, thủy sản tăng 4,99% (kế hoạch 3%).
+*Công nghiệp, xây dựng tăng 9,03% (kế hoạch 10-10,2%).
+*Dịch vụ tăng 7,38% (kế hoạch 7,2-7,5%).
+*Thuế trừ trợ cấp sản phẩm 8,43% (kế hoạch 6,5%).
+
+Chỉ số sản xuất công nghiệp tăng 8,71% (kế hoạch 9%), tổng kim ngạch xuất khẩu đạt 800 triệu USD (kế hoạch 800 triệu USD), tổng nguồn vốn đầu tư phát triển toàn xã hội trên địa bàn tỉnh ước tăng 9,7% so cùng kỳ (kế hoạch 9,22%). Tổng thu ngân sách trên địa bàn tỉnh đạt 8.466,4 tỷ đồng (dự toán năm 2018 là 6.775,5 tỷ đồng), vượt 25% dự toán năm và tăng 11,7% so với cùng kỳ. Trong đó, thu nội địa 7.791 tỷ đồng, tăng 25,9% dự toán năm và tăng 11,9% so với cùng kỳ. Tỷ lệ che phủ rừng đạt 54% (kế hoạch 53%).
+
+Các chỉ tiêu xã hội:
+*Mức giảm tỷ suất sinh  0,1‰ (kế hoạch giảm 0,1‰).
+*Tạo việc làm mới cho 29.917 lao động (kế hoạch 29.850 lao động). Tỷ lệ lao động qua đào tạo nghề, bồi dưỡng nghề đạt 52% (kế hoạch trên 52%).
+*Tỷ lệ hộ nghèo còn 7,05%, giảm 1,73% so với năm 2017 (kế hoạch giảm còn 7,45% theo tiêu chí mới). Tỷ lệ dân số tham gia bảo hiểm y tế đạt 89,7% (kế hoạch giao 88,5%). Tỷ lệ trạm y tế có bác sĩ đạt 100% (kế hoạch 100%). Tỷ lệ xã đạt chuẩn quốc gia về y tế 97,5% (kế hoạch 97,5%).
+*Số giường bệnh trên 1 vạn dân 30,2 giường (kế hoạch 30 giường). Tỷ lệ trẻ em dưới 5 tuổi suy dinh dưỡng 9,7% (kế hoạch dưới 10%).
+
+Các chỉ tiêu môi trường:
+*Tỷ lệ dân cư đô thị sử dụng nước sạch 79% (kế hoạch 79%). Tỷ lệ dân cư nông thôn sử dụng nước sạch và hợp vệ sinh 98% (kế hoạch 98%). Tỷ lệ chất thải rắn ở đô thị được thu gom 85% (kế hoạch 80%).<ref name=":035"/>
+
+Năm 2019, tốc độ tăng trưởng kinh tế đạt 6,81%, thấp hơn so với cùng kì năm 2018. Tổng thu ngân sách năm 2019 của tỉnh đạt kỷ lục với hơn 12.000 tỷ đồng, tăng gần 34 % so với năm 2018, vượt 20,7% dự toán;  trong đó, thu xuất nhập khẩu đạt 641,5 tỷ đồng; thu nội địa đạt hơn 11.300 tỷ đồng (thu tiền sử dụng đất 5.700 tỷ đồng, tăng 77% so với cùng kỳ). Tổng nguồn vốn đầu tư phát triển trên địa bàn tỉnh đạt 35.377 tỷ đồng, tăng 17% so với năm 2018. Riêng nguồn vốn ngân sách Nhà nước đầu tư đạt 6.286 tỷ đồng, tăng 76,4% so với cùng kỳ. Tổng sản lượng thủy sản khai thác trên địa bàn tỉnh đạt hơn 257.000 tấn, tăng 5,6% so với năm 2018; trong đó, sản lượng cá ngừ đại dương đạt 11.300 tấn, tăng 6,3%.
+
+Năm 2024, Bình Định là đơn vị hành chính đông thứ 18 về dân số ở Việt Nam, [[Danh sách đơn vị hành chính Việt Nam theo GRDP|xếp thứ 15]] về [[Tổng sản phẩm trên địa bàn (GRDP)]], [[Danh sách đơn vị hành chính Việt Nam theo GRDP bình quân đầu người|xếp thứ 20]] về [[Tổng sản phẩm trên địa bàn (GRDP)|GRDP]] bình quân đầu người, [[Danh sách đơn vị hành chính Việt Nam theo GRDP|đứng thứ 23]] về tốc độ tăng trưởng [[Tổng sản phẩm trên địa bàn (GRDP)|GRDP]]. Với dân số 1.813.101 người,<ref>{{Chú thích web|url=https://www.gso.gov.vn/default.aspx?tabid=714|title=Dân số các tỉnh Việt Nam năm 2018|last=|first=|date=|website=Tổng cục Thống kê Việt Nam|archive-url=|archive-date=|url-status=|access-date =Ngày 30 tháng 09 năm 2019}}</ref> GRDP đạt 130.800 tỉ [[Đồng (đơn vị tiền tệ)|Đồng]] (tương ứng với 5,56 tỉ USD), GRDP bình quân đầu người đạt 77,78 triệu đồng (tương ứng với 3.334 USD), tốc độ tăng trưởng GRDP đạt 7,32%.<ref name=":035">{{Chú thích web|url=http://vpub.binhdinh.gov.vn/vi/bao-cao-nam/7251-bao-cao-tinh-hinh-kinh-te-xa-hoi-nam-2018-va-nhiem-vu-trong-tam-nam-2019.html|title=Tình hình kinh tế, xã hội Bình Định năm 2018|last=|first=|date=|website=Văn phòng UBND tỉnh Bình Định|archive-url=https://web.archive.org/web/20201027142113/https://vpub.binhdinh.gov.vn/vi/bao-cao-nam/7251-bao-cao-tinh-hinh-kinh-te-xa-hoi-nam-2018-va-nhiem-vu-trong-tam-nam-2019.html|archive-date = ngày 27 tháng 10 năm 2020 |url-status=|access-date=Ngày 12 tháng 10 năm 2019}}</ref>
+
+Năm 2024, kinh tế tỉnh Bình Định đạt mức tăng trưởng GRDP 7,78%, quy mô kinh tế đạt khoảng 5,3 tỷ USD. Tỉnh đã hoàn thành 20/21 chỉ tiêu kinh tế - xã hội, với thu nhập bình quân đầu người đạt 97,3 triệu đồng (tăng 9,7%). Thu ngân sách nội địa tăng trưởng ấn tượng 30,5% so với cùng kỳ. Tỉnh đang tập trung đẩy mạnh tăng trưởng cho giai đoạn 2025-2030 với mục tiêu phát triển bền vững.<ref name="donghuongbinhdinh.vn">{{Chú thích web|url=https://donghuongbinhdinh.vn/cuc-thong-ke-tinh-binh-dinh-to-chuc-hop-bao-cong-bo-cac-so-lieu-ve-kinh-te-xa-hoi-nam-2024|tựa đề=Cục thống kê tỉnh Bình Định tổ chức họp báo công bố các số liệu về kinh tế xã hội năm 2024|url-status=dead|access-date=2026-06-29|archive-date=2026-07-17|archive-url=https://web.archive.org/web/20260717072940/https://donghuongbinhdinh.vn/cuc-thong-ke-tinh-binh-dinh-to-chuc-hop-bao-cong-bo-cac-so-lieu-ve-kinh-te-xa-hoi-nam-2024}}</ref>
+
+Trong năm 2024, tình hình kinh tế - xã hội địa phương tăng trưởng khá, với GRDP (theo giá so sánh 2010) tăng 7,78% so với cùng kỳ năm trước (Kế hoạch GRDP năm 2024 của tỉnh là từ 7,5 - 8,0%).<ref name="donghuongbinhdinh.vn"/>
+
+Chuyển dịch cơ cấu kinh tế của tỉnh cũng có xu hướng tích cực với việc tăng tỷ trọng công nghiệp – xây dựng, dịch vụ, thuế sản phẩm trừ trợ cấp sản phẩm. Trong đó, khu vực nông, lâm nghiệp và thuỷ sản tăng 3,04%; công nghiệp - xây dựng tăng 10,46%, dịch vụ tăng 8,71% và thuế sản phẩm trừ trợ cấp sản phẩm tăng 7,95%.<ref name="donghuongbinhdinh.vn"/>
+
+Tổng thu ngân sách nhà nước trên địa bàn tăng 34,8% so cùng kỳ (đạt 14.384,7 tỷ đồng), trong khi tổng chi ngân sách nhà nước trên địa bàn giảm 2,2% so cùng kỳ (đạt 26.083,7 tỷ đồng).<ref name="donghuongbinhdinh.vn"/>
+
+Riêng đối với lĩnh vực đầu tư và xây dựng: Tổng mức thực hiện vốn đầu tư phát triển trên địa bàn tỉnh Bình Định năm 2024 ước đạt 56.061,6 tỷ đồng, tăng 8,5% so cùng kỳ. Vốn Nhà nước trên địa bàn ước đạt 17.875,1 tỷ đồng, chiếm 31,9%, tăng 8,6%; vốn ngoài Nhà nước ước đạt 35.825,6 tỷ đồng, chiếm 63,9%, tăng 8,7%; vốn đầu tư trực tiếp nước ngoài ước đạt 2.360,9 tỷ đồng, chiếm 4,2%, tăng 4,7% so với cùng kỳ.<ref name="donghuongbinhdinh.vn"/>
+
+Đặc biệt, trong năm 2024, tỉnh Bình Định thu hút 04 dự án có vốn đầu tư trực tiếp nước ngoài với tổng vốn đăng ký 2.812,58 tỷ đồng (tương đương 113,17 triệu USD). Lũy kế đến nay, toàn tỉnh có 93 dự án FDI với tổng vốn đăng ký trên 1,36 tỷ USD.<ref name="donghuongbinhdinh.vn"/>
+
+Được biết, trong năm 2024, quy mô kinh tế của tỉnh Bình Định đạt 130.799,7 tỷ đồng; xếp thứ 25/63 địa phương trong cả nước, thứ 5/14 địa phương vùng Bắc Trung bộ và duyên hải Trung bộ và thứ 3/5 địa phương khu vực kinh tế trọng điểm miền Trung.<ref name="donghuongbinhdinh.vn"/>
+
+Thứ hạng tốc độ tăng trưởng GRDP năm 2024 của tỉnh bình Định là 26/63 địa phương trong cả nước, 6/14 địa phương vùng Bắc Trung bộ và duyên hải Trung bộ, 2/5 địa phương khu vực kinh tế trọng điểm miền Trung.<ref name="donghuongbinhdinh.vn"/>
+
+Theo đó, tỉnh Bình Định xác định trọng tâm là phát huy tối đa các tiềm năng và lợi thế so sánh, đồng thời huy động mọi nguồn lực để thúc đẩy đầu tư phát triển. Trong đó, mục tiêu tăng trưởng tổng sản phẩm trên địa bàn tỉnh (GRDP) được đặt ra từ 7,6% đến 8,5%, phấn đấu đạt trên 8,5%.<ref name="donghuongbinhdinh.vn"/>
+
+Các khu công nghiệp trên địa bàn: Phú Tài, Long Mỹ 1, Nhơn Hòa, Hòa Hội, Cát Trinh, Bình Nghi - Nhơn Tân, Đô thị và dịch vụ Becamex - Bình Định, Nhơn Hội A, Nhơn Hội B, Nhơn Hội C.
+
+==Dân số==
+{{Lịch sử dân số
+|title = Lịch sử phát triển dân số tỉnh Bình Định qua các năm
+|type = 
+|align = 
+|direction = 
+|cols = 2
+|width = 12em
+|state = 
+|shading = 
+|pop_name = 
+|percentages = 
+|footnote = 
+|source = Trang Thông tin điện tử Cục Thống kê - Bộ Tài chính<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương">[https://www.nso.gov.vn/px-web-2/?pxid=V0203-07&theme=D%C3%A2n%20s%E1%BB%91%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng Diện tích, dân số và mật độ dân số phân theo địa phương] {{Webarchive|url=https://web.archive.org/web/20250714103730/https://www.nso.gov.vn/px-web-2/?pxid=V0203-07&theme=D%C3%A2n%20s%E1%BB%91%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng |date=2025-07-14 }}, Trang Thông tin điện tử Cục Thống kê - Bộ Tài chính</ref>
+|[[1990]] | 1.303.100
+|[[1991]] | 1.322.500
+|[[1992]] | 1.341.800
+|[[1993]] | 1.358.900
+|[[1994]] | 1.377.000
+|[[1995]] | 1.394.400
+|[[1996]] | 1.412.700
+|[[1997]] | 1.431.300
+|[[1998]] | 1.449.600
+|[[1999]] | 1.465.200
+|[[2000]] | 1.466.100
+|[[2001]] | 1.468.400
+|[[2002]] | 1.470.700
+|[[2003]] | 1.473.100
+|[[2004]] | 1.475.500
+|[[2005]] | 1.477.800
+|[[2006]] | 1.480.100
+|[[2007]] | 1.482.300
+|[[2008]] | 1.485.600
+|[[2009]] | 1.487.400
+|[[2010]] | 1.492.000
+|[[2011]] | 1.498.200
+|[[2012]] | 1.502.400
+|[[2013]] | 1.509.300
+|[[2014]] | 1.514.500
+|[[2015]] | 1.519.700
+|[[2016]] | 1.524.600
+|[[2017]] | 1.529.700
+|[[2018]] | 1.534.800
+|[[2019]] | 1.487.800
+|[[2020]] | 1.487.903
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2020]] | 1.777.700
+|[[2021]] | 1.508.322
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2021]] | 1.796.777
+|[[2022]] | 1.504.285
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2022]] | 1.820.876
+|[[2023]] | 1.506.331
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2023]] | 1.890.462
+| [[1 tháng 4|01]]/[[Tháng tư|04]]/[[2024]] | 1.515.422
+|[[2024]] | 1.518.454
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2024]] | 1.813.101
+|[[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2024]] | 1.829.159
+}}
+
+Năm 2019, dân số trung bình tỉnh Bình Định là 1.487.900 người. Mật độ dân số trung bình 245,1 người/km2, bằng 89.4% mật độ trung bình của cả nước (274 người/km²); tỷ lệ dân số thành thị chiếm 40,3%, nông thôn chiếm 59,7%; dân số nam chiếm 49,3%, dân số nữ chiếm 50,7%.<ref name="binhdinh.gialai.gov.vn">https://binhdinh.gialai.gov.vn/trang-chu/dan-so-lao-dong</ref>
+
+Dân số trung bình tỉnh Bình Định năm 2022 ước tính 1.504,3 nghìn người; trong đó, nam có 747,9 nghìn người, chiếm 49,7%, nữ có 756,4 nghìn người, chiếm 50,3% trong tổng số dân. Quy mô dân số thành thị của tỉnh có 619,6 nghìn người, chiếm 41,2% quy mô dân số nông thôn có 884,6 nghìn người, chiếm 58,8%.<ref name="nguonluc.com.vn">https://nguonluc.com.vn/binh-dinh-ti-le-that-nghiep-giam-nhieu-ho-gia-dinh-o-nong-thon-da-thoat-khoi-ho-ngheo-a8623.html</ref>
+
+Tỉnh Bình Định tính đến 31/12/2022, có diện tích tự nhiên 6.066,40&nbsp;km² và quy mô dân số 1.820.876 người. Dân số thường trú là 1.800.914 và dân số tạm trú quy đổi là 19.962 người, trong đó dân số thành thị ước tính đạt khoảng 714.611 người chiếm ({{formatnum:{{percentage|{{formatnum:714.611|R}}|{{formatnum:1.820.876|R}}|2}} }}), dân số nông thôn ước tính đạt khoảng 1.106.265 người chiếm ({{formatnum:{{percentage|{{formatnum:1.106.265|R}}|{{formatnum:1.820.876|R}}|2}} }})với mật độ dân số là {{formatnum:{{#expr:floor({{formatnum:1.820.876|R}}/{{formatnum:6.066,40|R}})}} }} người/km².<ref name=SNVBĐ>{{Chú thích web|url=https://snv.binhdinh.gov.vn/vi/news/xay-dung-chinh-quyen-cong-tac-thanh-nien/gop-y-du-thao-de-an-thanh-lap-thi-tran-an-hoa-thuoc-huyen-an-lao-695.html?download=1&id=0|tựa đề= Dự thảo Đề án thành lập thị trấn An Hòa thuộc huyện An Lão |tác giả=|ngày= 2023 |website=|url lưu trữ=https://web.archive.org/web/20240504000000/https://snv.binhdinh.gov.vn/vi/news/xay-dung-chinh-quyen-cong-tac-thanh-nien/gop-y-du-thao-de-an-thanh-lap-thi-tran-an-hoa-thuoc-huyen-an-lao-695.html?download=1&id=0|ngày lưu trữ= 2024-05-04 |ngày truy cập= 2024-05-04 |url-status=dead}}</ref>
+
+Tỉnh Bình Định tính đến 31/12/2023, có diện tích tự nhiên 6.066,40&nbsp;km² và quy mô dân số 1.890.462 người. Dân số thường trú là 1.820.876 và dân số tạm trú quy đổi là 69.586 người, trong đó dân số thành thị ước tính đạt khoảng 727.431 người chiếm ({{formatnum:{{percentage|{{formatnum:727.431|R}}|{{formatnum:1.890.462|R}}|2}} }}), dân số nông thôn ước tính đạt khoảng 1.163.031 người chiếm ({{formatnum:{{percentage|{{formatnum:1.163.031|R}}|{{formatnum:1.890.462|R}}|2}} }})với mật độ dân số là {{formatnum:{{#expr:floor({{formatnum:1.890.462|R}}/{{formatnum:6.066,40|R}})}} }} người/km².<ref name=SNVBĐ>{{Chú thích web|url=https://snv.binhdinh.gov.vn/vi/news/xay-dung-chinh-quyen-cong-tac-thanh-nien/gop-y-du-thao-de-an-thanh-lap-thi-tran-an-hoa-thuoc-huyen-an-lao-695.html?download=1&id=0|tựa đề= Dự thảo Đề án thành lập thị trấn An Hòa thuộc huyện An Lão |tác giả=|ngày= 2023 |website=|url lưu trữ=https://web.archive.org/web/20240504000000/https://snv.binhdinh.gov.vn/vi/news/xay-dung-chinh-quyen-cong-tac-thanh-nien/gop-y-du-thao-de-an-thanh-lap-thi-tran-an-hoa-thuoc-huyen-an-lao-695.html?download=1&id=0|ngày lưu trữ= 2024-05-04 |ngày truy cập= 2024-05-04 |url-status=dead}}</ref>
+
+Theo kết quả điều tra dân số giữa kỳ năm 2024, dân số tỉnh Bình Định tính đến ngày 1 tháng 4 năm 2024 là 1.515.422 người.<ref name="0"</ref>Tính đến năm 2024, tỉnh Bình Định có diện tích tự nhiên 6.066,40&nbsp;km²,<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương">[https://www.nso.gov.vn/px-web-2/?pxid=V0203-07&theme=D%C3%A2n%20s%E1%BB%91%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng Diện tích, dân số và mật độ dân số phân theo địa phương] {{Webarchive|url=https://web.archive.org/web/20250714103730/https://www.nso.gov.vn/px-web-2/?pxid=V0203-07&theme=D%C3%A2n%20s%E1%BB%91%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng |date=2025-07-14 }}, Trang Thông tin điện tử Cục Thống kê - Bộ Tài chính</ref> dân số trung bình là 1.518.450 người,<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương"/> trong đó dân số nam giới ước tính đạt khoảng 755.040 người chiếm ({{formatnum:{{#expr: 755040/1518450*100round2}}}}%),<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương"/> dân số nữ giới ước tính đạt khoảng 763.410 người chiếm ({{formatnum:{{#expr: 763410/1518450*100round2}}}}%)<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương">[https://www.nso.gov.vn/px-web-2/?pxid=V0203-07&theme=D%C3%A2n%20s%E1%BB%91%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng Diện tích, dân số và mật độ dân số phân theo địa phương] {{Webarchive|url=https://web.archive.org/web/20250714103730/https://www.nso.gov.vn/px-web-2/?pxid=V0203-07&theme=D%C3%A2n%20s%E1%BB%91%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng |date=2025-07-14 }}, Trang Thông tin điện tử Cục Thống kê - Bộ Tài chính</ref>, dân số thành thị ước tính đạt khoảng 627.850 người chiếm ({{formatnum:{{#expr: 627850/1518450*100round2}}}}%),<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương"/> dân số nông thôn ước tính đạt khoảng 890.610 người chiếm ({{formatnum:{{#expr: 890610/1518450*100round2}}}}%),<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương"/> với mật độ dân số trung bình là {{formatnum:{{#expr:floor({{formatnum:1.518.454|R}}/{{formatnum:6.066,40|R}})}} }} người/km².<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương"/>
+
+Tỉnh Bình Định tính đến 31/12/2024, có diện tích tự nhiên 6.066,40 &nbsp;km² và quy mô dân số 1.813.101 người, mật độ dân số trung bình là {{formatnum:{{#expr:floor({{formatnum:1.813.101|R}}/{{formatnum:6.066,40|R}})}} }} người/km².<ref name=TT>{{Chú thích web|url=https://tuoitre.vn/chi-tiet-du-kien-quy-mo-dan-so-dien-tich-kinh-te-cua-34-tinh-thanh-sau-sap-nhap-20250513081155167.htm|tựa đề= Chi tiết dự kiến quy mô dân số, diện tích, kinh tế của 34 tỉnh, thành sau sáp nhập |tác giả= Thành Chung |ngày= 2025-05-13 |website= Tuổi Trẻ Online |url lưu trữ=https://web.archive.org/web/20250513080219/https://tuoitre.vn/chi-tiet-du-kien-quy-mo-dan-so-dien-tich-kinh-te-cua-34-tinh-thanh-sau-sap-nhap-20250513081155167.htm|ngày lưu trữ= 2025-05-13 |ngày truy cập= 2025-05-13 |url-status= dead }}</ref><ref name="DT">{{Chú thích web |url= https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm |tựa đề= Dự kiến chi tiết diện tích, dân số, quy mô kinh tế của 34 tỉnh, thành mới |tác giả= Lê Hoa |ngày= 2025-06-09 |website= Báo Dân Trí |url lưu trữ= https://web.archive.org/web/20250610031809/https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm |ngày lưu trữ= 2025-06-10 |ngày truy cập= 2025-06-09 |url-status= dead }}</ref>
+
+Tính đến thời điểm ngày 1 tháng 1 năm 2025, dân số toàn tỉnh ước tính đạt 1.829.159 người, trong đó dân số nam ước tính đạt khoảng 890.770 người chiếm ({{formatnum:{{#expr: 890770/1829159*100round2}}}}%), dân số nữ ước tính đạt khoảng 938.389 người chiếm ({{formatnum:{{#expr: 938389/1829159*100round2}}}}%), dân số thành thị ước tính đạt khoảng 788.530 người chiếm ({{formatnum:{{#expr: 788530/1829159*100round2}}}}%), dân số nông thôn ước tính đạt khoảng 1.040.629 người chiếm ({{formatnum:{{#expr: 1040629/1829159*100round2}}}}%), mật độ dân số là {{formatnum:{{#expr:floor({{formatnum:1.813.101|R}}/{{formatnum:6.066,43|R}})}} }} người/km²,<ref name=TT/><ref name="DT"/> và dân số trong độ tuổi lao động chiếm khoảng chiếm: 58.8% dân số toàn tỉnh. Ngoài dân tộc [[Người Việt|Kinh]], còn có các dân tộc khác nhưng chủ yếu là [[Người Chăm|Chăm]], [[Người Ba Na|Ba Na]] và [[người Hrê|Hrê]], bao gồm khoảng 2,5 vạn dân.
+
+Dân cư trên địa bàn tỉnh phân bố không đều, mật độ dân số toàn tỉnh là {{formatnum:{{#expr:floor({{formatnum:1.813.101|R}}/{{formatnum:6.066,40|R}})}} }} người/km²; dân cư tập trung đông nhất tại khu vực thành phố [[Quy Nhơn (thành phố)|Quy Nhơn]] (mật độ dân số trung bình {{formatnum:{{#expr:floor({{formatnum:322.644|R}}/{{formatnum:286,06|R}})}} }} người/km²), tiếp đến là tại thị xã [[An Nhơn (thị xã)|An Nhơn]] (mật độ trung bình {{formatnum:{{#expr:floor({{formatnum:208.932|R}}/{{formatnum:244,49|R}})}} }} người/km²), thị xã [[Hoài Nhơn (thị xã)|Hoài Nhơn]] (mật độ trung bình {{formatnum:{{#expr:floor({{formatnum:256.954|R}}/{{formatnum:420,88|R}})}} }} người/km²); thấp nhất là huyện [[Vân Canh (huyện)|Vân Canh]] với {{formatnum:{{#expr:floor({{formatnum:33.039|R}}/{{formatnum:799,14|R}})}} }} người/km².<ref>{{Chú thích web|url=http://www.binhdinh.gov.vn/inetcloud/portal/main/page/intro/dansolaodong.ivt?intl=vi|title=Cổng thông tin điện tử UBND tỉnh Bình ĐỊnh|last=|first=|date=|website=|archive-url=https://web.archive.org/web/20240514183629/http://www.binhdinh.gov.vn/inetcloud/portal/main/page/intro/dansolaodong.ivt?intl=vi|archive-date = ngày 14 tháng 5 năm 2024 |url-status=dead|access-date=}}</ref> Tỷ lệ đô thị hóa tính đến năm [[2023]] đạt 46,3%.
+
+=== Tôn giáo ===
+
+Tính đến ngày [[1 tháng 4]] năm [[2019]], toàn tỉnh có 9 [[tôn giáo]] khác nhau đạt 124.348 người, nhiều nhất là [[Công giáo tại Việt Nam|Công giáo]] có 36.299 người, tiếp theo là [[Phật giáo Việt Nam|Phật giáo]] có 23.460 người, [[đạo Cao Đài]] có 13.118 người, [[Kháng Cách|đạo Tin Lành]] có 1.321 người. Còn lại các tôn giáo khác như [[Phật giáo Hòa Hảo]] có 94 người, [[Baha'i giáo]] có 26 người, [[Hồi giáo tại Việt Nam|Hồi giáo]] có 19 người, [[Bà La Môn]] có 10 người, 1 người theo [[Minh Lý đạo]].<ref name="dstcdtvn">[http://www.gso.gov.vn/Modules/Doc_Download.aspx?DocID=12724 Kết quả toàn bộ Tổng điều tra Dân số và Nhà ở Việt Nam năm 2009], Tổng cục Thống kê Việt Nam.</ref>
+
+=== Lực lượng lao động ===
+
+Tính đến 2019, lực lượng lao động trẻ 15 tuổi trở lên là 891.238 người, trong đó làm việc trong nền kinh tế khoảng 864.557 lao động chiếm khoảng 97%. Trong đó lực lượng lao động làm việc trong ngành Nông, lâm nghiệp và thủy sản ước khoảng 308.360 lao động (chiếm 35,6%), lực lượng lao động làm việc trong ngành Công nghiệp và xây dựng ước khoảng 252.239 lao động ( chiếm 29,2%) và có khoảng 303.958 lao động làm việc trong ngành thương mại dịch vụ( chiếm 35,2%).<ref name="binhdinh.gialai.gov.vn"/>
+
+Lao động từ 15 tuổi trở lên đang làm việc trong các khu vực kinh tế năm 2022 ước đạt 832,2 nghìn người, tăng 2,2% so với năm trước. Lao động làm việc trong nhóm ngành nông, lâm nghiệp và thủy sản chiếm 30,4% trên tổng số lao động đang làm việc; lao động làm việc trong nhóm ngành công nghiệp – xây dựng chiếm 30,2%; lao động làm việc trong nhóm ngành dịch vụ chiếm 39,4%.<ref name="nguonluc.com.vn"/>
+
+== Văn hóa ==
+Bình Định là mảnh đất có bề dày lịch sử với nền [[văn hóa Sa Huỳnh|văn hoá Sa Huỳnh]], từng là cố đô của [[chăm Pa|vương quốc Chămpa]] mà di sản còn lưu giữ là thành [[Đồ Bàn]] và các [[tháp Chăm|tháp Chàm]] với nghệ thuật kiến trúc độc đáo. Đây là nơi phát danh của Đào Duy Từ (1572-1634), quân sư của Chúa Sãi Nguyễn Phúc Nguyên. Chỉ vỏn vẹn tám năm (1627-1634) phò Chúa Sãi mà Đào Duy Từ đã khắc họa hình ảnh đặc dị một người thầy của Chúa Sãi, một kiệt tướng, một chính trị gia, một chiến lược gia, một kiến trúc gia, một kỹ thuật gia, một nghệ sư tài hoa, một học giả, là người góp phần quan trọng định hình nhà nước, địa lý và bản sắc Đàng Trong.
+
+Đây cũng là nơi xuất phát phong trào nông dân khởi nghĩa vào [[thế kỷ 18]] với tên tuổi của anh hùng áo vải [[Nguyễn Huệ]]; là quê hương của các danh nhân Trần Đức Hòa, [[Trần Quang Diệu]], [[Bùi Thị Xuân]],Nguyễn Đăng Lâm, Bác sĩ [[Phạm Ngọc Thạch]], [[Ngô Mây]], [[Tăng Bạt Hổ]], [[Diệp Trường Phát]]..., và các văn thi nhân [[Đào Tấn|Nguyễn Diêu, Đào Tấn]], [[Hàn Mặc Tử]], [[Xuân Diệu]], [[Chế Lan Viên]], [[Yến Lan]],[[Quách Tấn]], Nguyễn Thành Long, [[Phạm Hổ]], [[Phạm Văn Ký]], nhạc sĩ [[Nguyễn Văn Hiên]], ca sĩ [[Quang Dũng (ca sĩ)|Quang Dũng]]... Bình Định còn được biết đến với truyền thống [[thượng võ]] và có nền văn hoá đa dạng phong phú với các loại hình nghệ thuật như [[bài chòi]], [[tuồng|hát bội]], [[nhạc võ Tây Sơn]], [[hò bá trạo]] của cư dân vùng biển... cùng với các lễ hội như: [[lễ hội Đống Đa Tây Sơn]], [[lễ hội cầu ngư]], [[lễ hội của các dân tộc miền núi]]...
+
+Thành phố [[Quy Nhơn (thành phố)|Quy Nhơn]] có trường [[Trường Đại học Quy Nhơn|Đại học Quy Nhơn]], Đại học Quang Trung (tư thục), Cao đẳng Bình Định (trước kia là Cao đẳng sư phạm Bình Định), Cao đẳng Nghề Quy Nhơn, Cao đẳng Nghề cơ điện nông lâm Trung bộ, Cao đẳng Y tế Bình Định hàng năm đào tạo hàng chục ngàn sinh viên khoa học kỹ thuật cho tỉnh và khu vực miền trung Tây Nguyên.
+
+=== Lễ hội cầu ngư ===
+Hằng năm, người dân vùng biển tổ chức lễ cầu ngư, cúng "Ông Nam Hải" hay cá voi để cầu xin cho trời yên biển lặng, tàu thuyền ra khơi vào lộng được nhiều tôm cá. Ở Bình Định, lễ hội cầu ngư có ở hầu hết các vùng ven biển các huyện Hoài Nhơn, Phù Mỹ, Phù Cát, Tuy Phước và TP. Quy Nhơn và thường được tổ chức từ tháng 2 đến tháng 6 âm lịch.
+
+=== Lễ hội Đống Đa - Tây Sơn ===
+Đây là lễ hội lớn để tưởng nhớ các thủ lĩnh của phong trào Tây Sơn, đặc biệt là người anh hùng áo vải Quang Trung – Nguyễn Huệ và kỷ niệm chiến thắng Ngọc Hồi – Đống Đa đánh đuổi 29 vạn quân Thanh ra khỏi bờ cõi (năm 1789). Lễ hội được tổ chức hoành tráng vào ngày mùng 4 và mùng 5 tháng Giêng Âm lịch hàng năm tại thị trấn Phú Phong – huyện Tây Sơn.
+
+=== Lễ hội Chợ Gò ===
+Tổ chức vào ngày mùng 1 Tết âm lịch ở thôn Phong Thạnh, thị trấn Tuy Phước, huyện Tuy Phước. Bên cạnh phiên chợ được nhóm vào ngay ngày đầu năm Âm lịch với những hoạt động mua bán không mang tính chất kinh doanh mà chỉ có ý nghĩa cầu lộc, tài may mắn đầu năm, lễ hội còn tổ chức nhiều trò chơi dân gian như: hát bài chòi, biểu diễn võ thuật thi múa lân, và các trò chơi khác. Lễ hội chợ Gò ngày nay được nâng lên bước mới: có phần lễ trang trọng và phần hội vui vẻ.
+
+=== Lễ hội Đèo Nhông ===
+Tổ chức vào mùng 5 tháng Giêng âm lịch hàng năm tại Đèo Nhông nằm trên trục đường quốc lộ 1 thuộc xã Mỹ Phong và Mỹ Trinh, huyện Phù Mỹ để kỷ niệm chiến thắng Đèo Nhông - Dương Liễu (năm 1965) vang dội của lực lượng vũ trang quân khu V và bộ đội địa phương Bình Định, đã góp phần cùng với toàn miền Nam đánh bại hoàn toàn chiến lược chiến tranh đặc biệt của địch, ghi vào lịch sử kháng chiến chống Mỹ cứu nước một trang sử vàng chối lọi.
+
+=== Lễ hội Đổ giàn ===
+Tổ chức hằng năm vào ngày 15 tháng 7 âm lịch tại chùa Bà, làng An Thái, huyện An Nhơn. Ngoài ý nghĩa lễ [[Vu Lan]] của Phật giáo, đây còn là hội đua tài của các võ sĩ ở các làng võ quanh vùng. Trong lễ hội còn có nhiều sinh họat văn hóa, đặc biệt là hát bội. Phần chính của hội là tranh tài cướp heo quay, vật cúng thần từ trên giàn cao tung xuống mang về cho làng mình. Người thắng cuộc được dân làng quý trọng.
+
+=== Hội làng Thị Tứ ===
+Làng Thị Tứ thuộc xã Đập Đá, huyện An Nhơn, là làng có truyền thống làm rèn và chạm vàng tây. Lễ hội hằng năm vào ngày 12 tháng 2 âm lịch để tưởng nhớ công ơn của ông [[Đào Giã Tượng]] - ông tổ của nghề rèn đã có công truyền nghề cho dân làng. Lễ hội diễn ra ở nhà thờ họ Đào để cúng lễ tổ sư nghề rèn, cỗ bàn rất linh đình. Sau lễ còn có tổ chức vui chơi, diễn văn nghệ.
+
+=== Hội Xuân Chợ Gò ===
+Hội Xuân chợ Gò được tổ chức vào 2 ngày: mồng một và mồng hai Tết nguyên đán tại chợ Gò, Trường Úc, thị trấn Tuy Phước, huyện Tuy Phước. Trong hội chợ có bán nhiều hàng hóa, chu yếu là trái cây các loại, đồ chơi trẻ em... tổ chức nhiều trò chơi dân gian như chọi gà, cờ người, hái lộc, dạo cảnh...
+
+=== Lễ cúng cá Ông ===
+Ở các xã ven biển Bình Định thường xuyên mở hội cúng Cá Ông vào ngày 15 tháng 3 âm lịch tại các đền thờ Cá Ông. Ngoài nghi lễ truyền thống, trong ngày lễ còn có hát bá trạo, hát bội.
+
+=== Tuồng Bình Định ===
+[[Tập tin:Bia tiểu sử và góc đền thờ Đào Duy Từ tại thôn Cự Tài, xã Hoài Phú, thị xã Hoài Nhơn, tỉnh Bình Định.jpg|nhỏ|Bia tiểu sử và góc đền thờ Đào Duy Từ tại thôn Cự Tài, xã Hoài Phú, thị xã Hoài Nhơn, tỉnh Bình Định, chụp trong dịp lễ húy kỵ lần thứ 386 Thái sư Hoằng Quốc Công Đào Duy Từ]]
+
+Bình Định là nơi có nghệ thuật tuồng rất phát triển gắn liền với tên tuổi của [[Đào Duy Từ]] (hiện nay đền thờ Đào Duy Từ ở tại thôn Cự Tài, xã Hoài Phú, thị xã [[Hoài Nhơn (thị xã)|Hoài Nhơn]]; đền thờ này do Chúa Sãi [[Nguyễn Phúc Nguyên]] cho xây từ năm 1634, ngay sau Đào Duy Từ mất; đền cách Quốc lộ 1 3&nbsp;km, tính từ ngã tư Nguyễn Chí Thanh-Trần Phú, phường Tam Quan, thị xã Hoài Nhơn) và Đào Tấn (hiện nay đền thờ Đào Tấn ở huyện [[Tuy Phước (huyện)|Tuy Phước]]; Đào Tấn là hậu duệ Đào Duy Từ). Các đoàn hát tuồng trong tỉnh được hình thành ở khắp các huyện. Với sự giao lưu của nghệ thuật tuồng và [[võ thuật Bình Định|võ Bình Định]] đã đưa tuồng Bình Định lên một tầm cao mới khác lạ hơn so với các đoàn tuồng của [[Huế]] hay [[Quảng Nam]]. Tuồng còn gọi là "[[tuồng|hát bội]]" hay hát bộ sở dĩ nó có tên gọi như thế là vì ngoài việc hát thì yếu tố quan trọng góp phần tạo nên một vở tuồng hay và đặc sắc là hành động điệu bộ của các đào kép. Việc kết hợp võ thuật vào các màng nhào lộn, đánh trận ở mỗi đoàn có khác nhau tùy theo trình độ của đào kép. Trước kia khi hát bội còn thịnh hành thì có nhiều đoàn hát nhưng những năm gần đây dưới sự biến động của [[kinh tế thị trường]] thì nhiều đoàn dần giải tán, bộ môn văn hóa nghệ thuật dân tộc này có nguy cơ thất truyền. Lúc còn thịnh hành các đoàn hát bội thường được các [[làng]], những gia chủ giàu có hay các lăng, đình ven biển mời về biểu diễn. Sau những màn diễn hay người cầm chầu ném tiền thưởng lên sân khấu. Vì thế mới có câu "''Ở đời có bốn cái ngu: Làm mai, lãnh nợ, gác cu, cầm chầu''" thường thì sau đêm hát cuối cùng các đoàn hay hát màn "tôn vương" để chúc tụng gia chủ, làng xóm gặp nhiều may mắn và cuối màn "tôn vương" thì thường hát câu: "''Rày mừng hải yến Hà Thanh - nhân dân an lạc thái bình âu ca''" hay "''ngũ sắc tường vân khai Bắc khuyết - nhất bôi thọ tửu chúc Nam san''". Năm 2014, hát Bội Bình Định được công nhận là di sản văn hóa phi vật thể cấp quốc gia.<ref>{{Chú thích web|url=https://tuoitre.vn/hat-boi-binh-dinh-la-di-san-van-hoa-phi-vat-the-quoc-gia-968010.htm|title=Hát bội Bình Định là Di sản văn hóa phi vật thể quốc gia|last=|first=|date=|website=Tuổi trẻ online|archive-url=|archive-date=|url-status=|access-date =}}</ref>
+
+=== Hội làng Rèn Tây Phương Danh ===
+Làng nghề thuộc thị trấn Đập Đá, huyện An Nhơn, là làng có truyền thống làm rèn cách đây 300 năm. Cụ tổ là Đào Giã Tượng mang nghề từ phương Bắc vào truyền cho dân địa phương. Hằng năm, để nhớ ơn người khai sinh làng Rèn, người Tây Phương Danh tổ chức Lễ hội làng rèn vào ngày 12 tháng 2 âm lịch. Lễ hội quy tụ những thợ rèn ở địa phương và các nơi khác đến.
+
+'''Phương ngữ''': Người dân Bình Định mặc dù ở chung cùng một tỉnh nhưng có giọng nói khác biệt rõ rệt ở các huyện phía bắc và phía nam, người dân tại TP. Quy Nhơn và TX. Hoài Nhơn nói giọng khá ngả về giọng nói các tỉnh phía trong nhưng vẫn còn giữ nét đặc trưng của văn hóa Bình Định. Lý do khác biệt là do sự hình thành dân cư và giao lưu văn hóa diễn ra rất thường xuyên tại 2 địa phương này của tỉnh.
+
+== Di tích – Danh lam thắng cảnh ==
+
+* Tổng số di tích đã được xếp hạng trên toàn tỉnh: 149 di tích.
+* Số di tích phân cấp cho Sở Văn hóa và Thể thao quản lý: 22 di tích (02 di tích quốc gia đặc biệt, 18 di tích quốc gia và 02 di tích cấp tỉnh).
+* Số di tích phân cấp cho UBND các huyện, thị xã, thành phố quản lý: 127 di tích (16 di tích quốc gia và 111 di tích cấp tỉnh).
+
+=== Di tích ===
+# Thành Hoàng Đế
+# Thành Thị Nại
+# Tháp Bình Lâm
+# Tháp Bánh Ít
+# Tháp Cánh Tiên
+# Tháp Đôi
+# Tháp Thủ Thiện
+# Tháp Dương Long
+# Tháp Phú Lốc
+# Chùa Long Khánh
+# Chùa Sơn Long
+# Chùa Thập Tháp
+# Chùa Nhạn Sơn
+# Chùa Linh Phong
+# Chùa Hang
+# Nhà thờ Chánh tòa Quy Nhơn
+# Đền thờ Đào Duy Từ
+# Lăng Mai Xuân Thưởng
+# Đền thờ Tăng Bạt Hổ – Hoài Ân
+# Khu di tích Chi bộ Vạn Đức – Ân Tín, Hoài Ân
+# khu di tích chiến thắng chợ cát 
+# Đền thờ Đào Duy Từ
+# Đèo Cù Mông
+# Đèo Nhông Dương Liễu
+# Điện Tây Sơn
+# Mộ Đào Tấn
+# Lăng Mai Xuân Thưởng
+# Chùa Thập Tháp Di Đà
+# Căn cứ Núi Bà
+
+=== Danh lam thắng cảnh ===
+# Gành Ráng – Tiên Sa
+# Bãi biển Quy Nhơn
+# Bãi biển Quy Hòa
+# Núi Bà
+# Bãi biển Nhơn Lý – Cát Tiến
+# Đầm Thị Nại
+# Bán đảo Phương Mai
+# Suối khoáng nóng Hội Vân
+# Hồ Núi Một
+# Cù Lao Xanh (đảo Nhơn Châu)
+# Mũi Vi Rồng
+# Cầu Thị Nại
+# Đồi Ghềnh Ráng
+# Thắng cảnh Hầm Hô
+
+== Đặc sản – Ẩm thực ==
+Các đặc sản, ẩm thực địa phương ở Bình Định như: hải sản, bánh ít lá gai, xoài tượng Bình Định, dé bò Tây Sơn, bún song thằn An Nhơn, nước mắm Đề Gi, [[rượu Bàu Đá]], bún tôm Châu Trúc, cá chẽm Thị Nại, trà Gò Loi, gỏi cá mai Quy Nhơn, rượu cần Vân Canh, cua huỳnh đế Tam Quan, bánh xèo, dừa xiêm Bình Định, xu xoa, bánh hỏi lòng heo Quy Nhơn, tré bó rơm, cá chua Đề Gi, củ mì, mắm nhum Mỹ An, bánh tráng nước dừa Tam Quan, nem chả Chợ Huyện, gỏi cá chình, gà kiến Bình Định, bí đao Mỹ Thọ, chả cá Quy Nhơn, ghẹ Đề Gi, bánh hồng Tam Quan, cá chạch tre Bàu Sấu, cá nướng cuốn rau rừng miền Tây, chình mun Châu Trúc, bún tươi Ngãi Chánh, hàu bãi Xép, gà nướng lu xôi cháy, bún chả cá Quy Nhơn, [[cá ngừ đại dương]], lá mì xào, cá niên An Lão- Vĩnh Thạnh, nếp thơm chách trạch Mỹ Thọ, nước mắm Tam Quan, thịt thưng, chim mía Phú Phong, bánh dây Bồng Sơn, bún rạm Phù Mỹ.
+
+==Du lịch==
+{{chính|Du lịch Bình Định}}
+
+=== Bán đảo Phương Mai ===
+Thuộc thành phố Quy Nhơn, cách thành phố 8km về phía Đông Bắc. [[Bán đảo Phương Mai]] rộng 300ha, có núi Phương Mai - nơi còn bảo tồn được hệ sinh thái tương đối phong phú với nhiều lọai động, thực vật quý và nhiều cảnh đẹp. Phía Tây bán đảo, cạnh núi Phương Mai là đầm [[Thị Nại]]. Đầm là môi trường nuôi trồng các lọai hải sản và cũng là điểm tham quan du lịch.
+
+=== [[Bãi tắm Hoàng Hậu]] ===
+Nằm trong khu [[Ghềnh Ráng Tiên Sa|Ghềnh Ráng]], bãi tắm Hoàng Hậu được xem là bãi tắm đẹp nhất Bình Định. Bãi tắm Hoàng Hậu là một bãi đá rộng hàng trăm mét vuông, gồm có những hòn đá xanh, nhẵn, trông giống như một bãi trứng khổng lồ. Phía trước bãi là những bức tường đá thiên nhiên đứng che chắn sóng gió tạo nên vùng nước phẳng lặng. Năm 1927, vua [[Bảo Đại]] đến đây du ngoạn và cho xây khu nhà nghỉ, và sân thể thao bên cạnh bãi tắm. Bãi tắm với những hòn trứng đá khổng lồ chỉ dành riêng cho [[Nam Phương|Nam Phương Hoàng hậu]] tắm nên gọi là Bãi tắm Hoàng Hậu.
+
+=== Suối nước nóng Hội Vân ===
+Cách thành phố Qui Nhơn 50 km về phía Tây Bắc, thuộc huyện Phù Cát. Con suối dài khoảng 2km, thực chất là sự pha trộn giữa mạch nước nóng và những làn nước lạnh xen kẽ nhau. Nước suối có độ nóng 78-84°C, gồm nhiều thành phần hóa học: bicacbonat, natri clorua thuộc nhóm nước khoáng silic, hàm lượng axít silic trong nước rất cao, khoảng 101 mg/l, chữa được các bệnh thấp khớp, thần kinh, tim mạch, các bệnh ngoài da... Nhà điều dưỡng dùng các phương pháp tắm, ngâm, tắm hương sen, phun hơi ở độ nóng 38oC giúp cho chữa bệnh, tăng cường sức khỏe.
+
+Bờ phía Bắc suối nước nóng có một ngọn đồi đất đỏ mà người địa phương gọi là núi Đất (di tích của núi lửa). Núi Đất và suối nước nóng Hội Vân kết hợp lại là di tích của một truyền thuyết cảm động: Chuyện kể về một nàng tiên đã đem lòng yêu một chàng trai nghèo ở trần gian. Ngọc Hoàng trừng phạt, ném xuống một cục lửa thiêu đốt nơi hai người chung sống. Chàng trai bị vùi dưới ngọn đồi đất đó, còn nàng tiên thì hóa thành con suối trong vắt. Hai bên bờ suối là những lùm cây dại, những sợi "tơ hồng" ... soi mình xuống dòng nước trong veo...
+
+=== Suối Tiên ở Quy Nhơn ===
+Suối Tiên là một thắng cảnh đẹp của tỉnh Bình Định, ở đây còn lưu truyền về truyện cổ tích Suối Tiên.
+
+Ngày xưa ở Bồng Sơn, một gia đình nghèo có một người con gái xinh đẹp, nết na, sống bằng nghề chằm nón. Nàng yêu một chàng trai cùng quê siêng năng lao động.
+
+Thấy cô gái sinh đẹp, quan huyện Bồng Sơn muốn cưới nàng về làm hầu. Song nàng từ chối, y bèn dùng áp lực đe dọa gia đình nàng. Nàng phải cùng chàng chạy trốn khỏi Bồng Sơn, cùng dắt nhau lên Gò Găng (Phù Cát) sinh sống. Không chiếm được cô gái, tên quan huyện bèn mượn tay quan tổng đốc Bình Định để trả thù. Y kể cho quan tổng đốc về nhan sắc và gia thế của nàng, quan tổng đốc muốn chiếm đoạt nàng bèn ra lệnh bắt chàng đi lính ở một nơi rất xa, đồng thời ra điều kiện: một là nàng thuận về làm nàng hầu cho hắn, hai là trong một tháng phải tìm được 10 cân yến sào để dâng lên vua, và nàng chọn điều kiện thứ hai.
+
+Đúng lúc đó chàng trai trốn về thăm nàng, nghe cớ sự, chàng quyết đi tìm yến sào thay nàng. Lúc tiễn đưa, nàng trao cho chàng chiếc nón lá Gò Găng làm kỷ vật và hẹn sẽ đợi chàng về. Đến hạn nộp yến sào, chàng trai vẫn biền biệt, nàng phải bỏ trốn vào Quy Nhơn. Tên quan tổng đốc cho lính đuổi theo, nàng chạy lên núi Gềnh Ráng rồi qua núi Vũng Chua. Bọn lính đuổi gấp, tưởng sẽ bắt được nàng, bỗng nhiên trời đổ mưa to, sấm sét nổi lên và núi Vũng Chua nứt ra một khe lớn, bóng nàng biến mất. Từ khe núi biến thành một dòng suối trong vắt, bọn lính bảo nhau "Nàng đã thành tiên" và tên gọi Suối Tiên cũng bắt đầu từ đó. Cùng lúc ấy, thuyền của chàng trai về đến bến thì bị sóng lớn đánh tan tành, yến sào kiếm được trôi ra biển. Chàng trai nhìn thấy từ xa xa trên Vũng Chua hình như có bóng người yêu, liền ôm chiếc nón chảy thẳng lên vùng Suối Tiên...
+
+=== Hầm Hô ===
+Là tên một dòng suối lớn (một nhánh của sông Côn), chảy qua khu rừng già, nơi có nhiều tảng đá lớn muôn hình muôn vẻ thuộc địa phận xã Tây Phú, huyện Tây Sơn, cách thành phố Qui Nhơn khoảng 55 km về hướng Tây Bắc. Thiên nhiên nơi đây yên tĩnh với nhiều thắng cảnh đẹp, là nơi tham quan, nghỉ ngơi của các tour du lịch sinh thái. Hầm hô còn là địa danh liên quan đến cuộc khởi nghĩa Tây Sơn và các nghĩa binh [[Mai Xuân Thưởng]].
+
+=== Núi Bà - Đá Vọng Phu ===
+Ở phía Nam đầm Đạm Thủy, nằm trọn trên địa phận huyện Phù Cát, choáng một diện tích rộng chừng trên bốn chục cây số vuông, sừng sững một quần thể núi non mà bao đời nay được coi là danh sơ của Bình Định. Đó là núi Bà. Núi Bà uy nghi, huyền diệu với bao điều kỳ bí mà mỗi nơi chốn, mỗi cái tên đều có một sự tích. Ở địa phận thôn Chánh Oai, trên một ngọn núi cao, có hai khối đá, một cao một thấp trông tựa như hình người. Từ phía biển nhìn vào giống như một người đàn bà tay dắt đứa con đang ngóng nhìn ra khơi xa. Dân địa phương gọi là [[Hòn Vọng Phu]]. Tác phẩm như có hồn của tạo hóa đã khiến con người phải động lòng. Khối đá xanh đứng hoài nắng mưa, thời gian cùng năm tháng đã trở thành biểu tượng cho lòng chung thủy của nghĩa vợ chồng trong tâm thức dân gian.
+
+=== Đảo yến Quy Nhơn ===
+Gọi là "đảo" nhưng thực ra xứ sở của loài chim yến nằm trên địa phận bán đảo Phương Mai. Dãy Triều Châu ăn ra biển, trải dài chừng 15km, tạo thành những ngọn núi nhấp nhô, trùng điệp với tên gọi thật ngộ nghĩnh: Hòn Mai, hòn Chóp Vung, núi Cột Cờ, núi Đen, ... và trong số đó, ngọn núi án ngữ phía Nam mang tên Hòn Yến. Cứ mỗi mùa xuân đến, tiết trời ấm áp, chim yến rủ nhau từng đàn đông nghịt về đây làm tổ. Chính vì vậy mà mũi đất tận cùng của bán đảo cũng được gọi là Mũi Yến. Bán đảo Phương Mai nhưng một con khủng long khổng lồ nằm che chắn sóng to gió lớn cho thành phố Qui Nhơn. Thiên nhiên nơi đây vừa tạo nên một bức tranh thủy mặc tuyệt đẹp, vừa ban tặng cho con người một kho báu mà không phải nơi nào cũng có, đó là yến sào (tổ chim yến). Đảo yến không chỉ có yến và phong cảnh đẹp, mà nơi đây còn có những di tích lịch sử văn hóa từ thời vương quốc Chăm Pa, qua triều Tây Sơn đến nhà Nguyễn sau này. Đến đảo yến, du khách sẽ có dịp được ghé thăm chùa Phật Lồi, nơi có pho tượng Chàm huyền bí, được chiêm ngưỡng núi Tam Tòa với những di tích liên quan đến Uy Minh vương [[Lý Nhất Quang]] thời Lý và các chiến binh Tây Sơn.
+
+=== Hồ Núi Một ===
+Là một hồ nước ngọt lớn, có diện tích mặt hồ hơn 1200 ha, ở xã Nhơn Tân, huyện An Nhơn. Xung quanh hồ là suối, thác, hang động, rừng nguyên sinh, chính giữa là mặt hồ phẳng lặng, trong xanh, tạo nên một khung cảnh sơn thủy sông-núi-suối-hồ hũu tình, gần cuối hồ là làng đồng bào dân tộc Bana.
+
+=== Động Cườm ===
+Di tích động Cườm Tích phân bố trên một cồn cát rộng khoảng 6-7 ha, thuộc thôn Tăng Long 2, xã Tam Quan Nam, huyện Hoài Nhơn. Khai quật di tích Động Cườm đã phát hiện 46 mộ chum và 4 cụm mộ nối chôn úp nhau. Dáng chum hình trụ, đáy tròn lồi, xương gốm thô, có màu nâu đỏ, pha nhiều cát. Kỹ thuật tạo dáng chum bằng dải cuộn kếp hợp với bàn dập, gòn kê và ghép nối. Những đồ tùy táng chôn theo mộ chum là nồi nhỏ, bát bồng bằng gốm mang đặc trưng văn hóa Sa Huỳnh và chủ yếu đặt trên nắp chum. Ngoài ra,còn có một số hiện vật như dao, rìu, đục, kiếm ngắn và đồ trang sức là hạt cườm thủy tinh màu sắc rực rỡ. Đặc biệt có những hạt chuỗi bằng ngọc mã não màu đỏ ánh vàng. Dựa vào những di vật thu được, phần nào khẳng định chủ nhân của những mộ táng ở Động Cườm chính là những cư dân cổ văn hóa Sa Huỳnh. Khu mộ địa Động Cườm có khả năng tồn tại từ thế kỷ I, II trước CN đến thế kỷ I CN. Những hiện vật này đã được đưa về [[Bảo tàng tổng hợp Bình Định]] phục dựng.
+
+=== [[Bãi Kỳ Co|Kỳ Co]] ===
+Bãi biển Kỳ Co cách TP. Quy Nhơn 25&nbsp;km về phía Đông Bắc (thuộc xã Nhơn Lý) trải dài uốn cong hình lưỡi liềm với ba mặt giáp núi và một mặt giáp biển. Từ xa, du khách có thể chiêm ngưỡng cảnh núi non hùng vĩ cùng những tầng cây xanh rợp mát. Càng lại gần phía biển, không khí thoáng đãng cùng những làn gió mang theo hơi mằn mặn đặc trưng của biển khơi sẽ khiến tâm hồn mỗi người trở nên thư thái.
+
+=== [[Ghềnh Ráng Tiên Sa]] ===
+Nằm ở phường Ghềnh Ráng, TP. Quy Nhơn, Ghềnh Ráng – Tiên Sa nằm cách trung tâm thành phố khoảng 3&nbsp;km về phía Đông Nam. Điểm đặc biệt của nơi đây chính là quần thể những bãi đá nằm liền kề nhau và những bãi đá tập trung theo đường cong của eo núi Xuân Vân. Nhờ vào vẻ đẹp độc đáo mà Ghềnh Ráng đã được Bộ Văn hóa – Thông tin xếp hạng là di tích quốc gia.
+
+=== [[Bảo tàng Quang Trung]] ===
+[[Tập tin:Nguyen brothers.jpg|nhỏ|phải|250px|Tượng ba anh em [[Nhà Tây Sơn]] tại Bảo tàng Quang Trung]]
+
+Nằm ở [[Tây Sơn, Gia Lai|thị trấn Phú Phong]], [[Tây Sơn (huyện Bình Định)|huyện Tây Sơn]], cách thành phố Quy Nhơn khoảng 40&nbsp;km theo đường quốc lộ 19, và cách sân bay Phù Cát khoảng 20&nbsp;km theo đường quốc lộ 19B. Đây là Bảo tàng Quốc gia và là địa điểm tham quan lịch sử đặc trưng ở Bình Định. Bảo tàng có các gian trưng bày rất lớn tập trung vào chủ đề khởi nghĩa Tây Sơn và [[Nhà Tây Sơn|triều đại Tây Sơn]] vào thế kỷ XVIII. Trong khuôn viên bảo tàng có đền thờ Tây Sơn Tam Kiệt và các danh tướng của triều đại. Đền thờ được xây trên nền cũ của gia đình anh em Nguyễn Nhạc, Nguyễn Huệ, Nguyễn Lữ, bên cạnh còn có giếng nước và cây đa cổ của gia đình.
+
+=== Bảo sơn Thiên ấn ===
+Nằm ở [[Tây Sơn (huyện Bình Định)|huyện Tây Sơn]], cách thành phố Quy Nhơn khoảng 48&nbsp;km theo đường quốc lộ 19. Đây được tương truyền là nơi 3 anh em Tây Sơn phát tích cuộc khởi nghĩa. Năm 2016, Bảo Sơn Thiên Ấn được tỉnh Bình Định đầu tư, phục dựng và trở thành điểm tham quan, du lịch nổi tiếng. Cũng như là điểm tổ chức các sự kiện tâm linh của lãnh đạo, nhân dân địa phương. Cách Bảo sơn Thiên ấn khoảng 2&nbsp;km có Đập dâng Văn Phong. Đây là một đập tràn piano lớn ở miền Trung, có công năng tích trữ nước cho canh tác nông nghiệp của vùng và cũng là nơi có phong cảnh hữu tình cho khách tham quan từ các nơi tìm về.
+
+=== [[Tháp Bánh Ít]] - [[Tháp Bạc]] ===
+Nằm thuộc địa phận xã Phước Hiệp, huyện Tuy Phước, cách thành phố Quy Nhơn 20&nbsp;km. Trên đỉnh quả đồi giữa hai nhánh của sông Côn là Tân An và cầu Gành, bên Quốc lộ 1, cách Quy Nhơn khoảng 20&nbsp;km. Tháp Bánh Ít được xây dựng vào cuối thế kỷ XI, đầu thế kỷ XII. Đây là một quần thể gồm 4 tháp, tháp chính cao 22 m, trông xa giống như chiếc bánh ít. Tháp có cửa chính quay về hướng Đông. Vòm cửa được tạo dáng mũi lao hai lớp thu nhỏ về phía trên với các hoa văn hình xoắn nối kết nhau.<br>
+Cửa chính còn được trang trí bằng một hình phù điêu tạc hình Ganesa, hình Haruman. Ba cửa giả quay các hướng còn lại đều mô phỏng cấu trúc và trang trí của cửa chính. Tháp được xếp hạng di tích Kiến trúc nghệ thuật năm 1982.
+
+=== [[Tháp Đôi]] - [[Tháp Hưng Thạnh]] ===
+Thuộc địa phận phường Đống Đa, TP. [[Quy Nhơn (thành phố)|Quy Nhơn]], cách trung tâm thành phố 3&nbsp;km. Tháp được xây dựng vào cuối thế kỷ 12, đầu thế kỷ 13. Tháp được trùng tu năm 1996. Tháp Đôi còn được gọi là tháp Hưng Thạnh, gồm 2 tháp, một tháp cao 18 m và một tháp cao 20m. Tháp đôi được gọi là "độc nhất vô nhị" của nghệ thuật kiến trúc Chămpa. Cả hai tháp không phải là tháp vuông nhiều tầng thường thấy của tháp Chăm mà là một cấu trúc gồm 2 phần chính: Khối thân vuông và phần đỉnh hình tháp mặt cong, các góc tháp hiện lên những tượng chim thần Garuda hai tay đưa cao như muốn nâng đỡ tháp. Tháp Đôi ảnh hưởng nghệ thuật kiến trúc của Ấn Độ giáo. Tháp được xếp hạng di tích Kiến trúc nghệ thuật năm 1980.
+
+==Giao thông==
+Có [[quốc lộ 1]], [[quốc lộ 1D]], [[quốc lộ 19]], [[quốc lộ 19B]], [[quốc lộ 19C]], [[đường cao tốc Bắc – Nam phía Đông]], [[Đường sắt Bắc Nam|đường sắt Bắc- Nam]] đi qua, [[sân bay Phù Cát]], [[cảng Quy Nhơn]]...
+
+=== Chi tiết các tuyến giao thông tại tỉnh Bình Định ===
+
+==== ''<u>Cao tốc</u>'' ====
+
+* '''CT.01''' (Cao tốc Bắc Nam phía Đông) 118.8&nbsp;km
+* '''CT.20''' (Cao tốc Quy Nhơn - Pleiku GL) 60
+
+==== ''<u>Quốc lộ</u>'' ====
+
+* '''QL.1''' (Đèo Bình Đê - Đèo Cù Mông) 118
+* '''QL.1D''' (QL1 Quy Nhơn - QL1 Sông Cầu PY) 35
+* '''QL.19''' (Cảng Quy Nhơn - Đèo An Khê) 69.5
+* '''QL.19B''' (Cảng Nhơn Hội - QL24 Ba Tơ QNg) 191
+* '''QL.19C''' (QL1 Diêu Trì - QL26 M'Đrắk ĐL) 206
+
+==== ''<u>Đường tỉnh</u>'' ====
+
+* '''ĐT.629''' (Bồng Sơn - An Lão) 31.2 - (Bồng Sơn - Ranh BĐ/QNg) 44.2
+* '''ĐT.630''' (Hoài Đức - Kim Sơn) 22.8 - (Hoài Đức - ĐT637 Vĩnh Sơn) 60
+* '''ĐT.631''' (Nhơn Hưng - Phước Thắng) 15.2 - (Nhơn Hưng - Đường ven biển Tây đầm Thị Nại) 16.5
+* '''ĐT.632''' (Phù Mỹ - Bình Dương) 18.7
+* '''ĐT.633''' (Chợ Gồm - Đề Gi) 20.7 - (ĐT634 - Đường ven biển ĐT639) 23
+* '''ĐT.634''' (Hòa Hội - Hội Sơn) 17.9
+* '''ĐT.636''' (Gò Bồi - Bình Nghi) 27.6 - (Đường chuyên dùng Tây KTT QH - km35+900 QL19 Bình Nghi) 32
+* '''ĐT.637''' (Vườn Xoài - Vĩnh Sơn) 57.2 - (Vườn Xoài - K'Bang GL) 73
+* '''ĐT.638''' (Chương Hòa - Long Vân) 145 - (Chương Hòa - Phú Mỡ Đồng Xuân PY) 154
+* '''ĐT.639''' (Quy Nhơn - Tam Quan) 130.9 - (Ranh QNg/BĐ - Ranh BĐ/PY) 121
+* '''ĐT.640''' (Ông Đô - Cát Tiến) 19.3
+
+'''''(quy hoạch bổ sung)'''''
+
+* '''ĐT.629B''' (Bồng Sơn - An Hòa) 26
+* '''ĐT.638B''' (ĐT638 Hoài Sơn - ĐT630 Vĩnh Kim) 70
+* '''ĐT.640B''' (ĐT640 - ĐT633) 36
+* '''ĐT.632 mới''' (ĐT638 Hoài Ân - ĐT639 Phù Mỹ) 35
+* '''ĐT.635''' (QL1 An Nhơn - ĐT639 Tuy Phước) 9.4
+* '''QL.19 mới''' (Cảng Quy Nhơn - QL1) 15.3
+* '''Đường trục KKT nối dài''' (Cát Tiến - Gò Găng) 18.5
+* '''Tuyến Quy Nhơn - Nhơn Hội''' (đoạn nút giao cầu Thị Nại - Nhơn Hội) 4.6
+* '''Đường kết nối từ đường trục KTT đến Chùa Linh Phong''' 1.7
+
+==== ''<u>Đường huyện</u>'' ====
+
+* '''ĐH.01''' (An Lão - An Vinh) 25 (12+13)
+* '''ĐH.02''' (An Hòa - An Hưng) 18.4 (10.8+7.6)
+* '''ĐH.03''' (An Hòa - An Toàn) 31.5 (6+25.5)
+* '''ĐH.04''' (Ba Ghế - An Nghĩa) 7.1
+* '''ĐH.04B''' (An Hòa - An Hảo Tây) 3.9
+* '''ĐH.05''' (An Tân - An Hòa) 3.2
+* '''ĐH.06''' (Tài Lương - Ca Công) 6.3
+* '''ĐH.06B''' (Thái Lợi - Tam Quan Nam) 5.5
+* '''ĐH.07''' (Ngã ba Hoài Tân - Ngã ba Hoài Đức) 5.1
+* '''ĐH.08''' (Bình Chương - Hoài Hải) 13
+* '''ĐH.09''' (Ngọc An - Lương Thọ) 5
+* '''ĐH.09B''' (Phụng Du - Bình Đê) 8.8
+* '''ĐH.10''' (Bồng Sơn - Hoài Hương) 11
+* '''ĐH.10B''' (Phụng Du - Tăng Long) 4.3
+* '''ĐH.11''' (Tam Quan - Mỹ Bình) 4.6
+* '''ĐH.12''' (An Thường - Tân Xuân) 21.3
+* '''ĐH.13''' (Phú Hữu - Đak Mang) 10.1
+* '''ĐH.13B''' (Kim Sơn - Bok Tới) 15
+* '''ĐH.14''' (Cầu Phong Thạnh - Ngã ba Mỹ Thành) 8.4
+* '''ĐH.15''' (Ngã ba Công An - Diêm Tường) 7
+* '''ĐH.16''' (Phù Mỹ - Truông Gia Vấn) 11.4 (5+6.4) / 6.4 đường miền núi
+* '''ĐH.17''' (Nhà Đá - An Lương) 12.2
+* '''ĐH.17B''' (Văn Trường - Mỹ Thắng) 15
+* '''ĐH.18''' (Vạn An - Phú Thứ) 10.5 (2+8.5)
+* '''ĐH.18B''' (Đèo Nhông - Mỹ Thọ) 10.7 / đường đèo núi
+* '''ĐH.19''' (Bắc Nam - Đông Tây) 6
+* '''ĐH.20''' (Ngô Mây - Cát Tường) 7.2
+* '''ĐH.21''' (Ngô Mây - Cát Hiệp) 8.2
+* '''ĐH.22''' (Ngô Mây - Cát Lâm) 10.9
+* '''ĐH.23''' (Cát Hưng - Cát Thắng) 3.5
+* '''ĐH.24''' (Phú Phong - Hầm Hô) 6.9
+* '''ĐH.25''' (Quán Á - Đồng Le) 9.4
+* '''ĐH.26''' (Phú Lạc - Hà Nhe) 15.8
+* '''ĐH.27''' (Bình Thành - Bình Thuận) 9.4
+* '''ĐH.27B''' (Tây Vinh - Bình Thuận) 10.3 (3+7.3) / 3 đang đầu tư
+* '''ĐH.28''' (Phú Phong - Tây Bình) 8.5 (3+5.5)
+* '''ĐH.28B''' (Tây Giang - Bình Tường) 9.2 / đang đầu tư
+* '''ĐH.29''' (Vĩnh Hòa - Vĩnh Hiệp) 17.5
+* '''ĐH.30''' (Vĩnh Thạnh - Vĩnh Hảo) 5.8
+* '''ĐH.31''' (Vĩnh Thịnh - Vĩnh Hiệp) 10.5
+* '''ĐH.32''' (Vĩnh Thạnh - Vĩnh Thuận) 6.1
+* '''ĐH.33''' (Vĩnh Hảo - Vĩnh Sơn) 39.5 / đang đầu tư
+* '''ĐH.34''' (Đập Đá -Tây Vinh) 7.8
+* '''ĐH.35''' (Tân Dân - Bình Thạnh) 14.5
+* '''ĐH.36''' (An Trường - Hồ Núi Một) 6.7 (3.1+3.6)
+* '''ĐH.37''' (Cầu Chữ Y - Cầu Ông Xếp) 3.3
+* '''ĐH.38''' (Tượng đài công viên - Cát Nhơn) 2.6
+* '''ĐH.39''' (Nhơn Thọ - Nhơn Khánh) 6
+* '''ĐH.40''' (Chợ Quán Mới - Cầu Ông Gành) 1.3
+* '''ĐH.41''' (Cảnh Hàng - Phú Đa) 3.2
+* '''ĐH.42''' (Tuy Phước - Văn Quang) 8.1 (5.1+3)
+* '''ĐH.44''' (Canh Thuận - Canh Liên) 25 (10+15) / 15 đường đèo núi
+
+=== Biển số xe các huyện, thị xã và thành phố của tỉnh Bình Định ===
+Biển số xe hay còn gọi là [[biển đăng ký xe]] cụ thể các huyện, thị xã và thành phố của tỉnh Bình Định như sau:
+
+'''''<nowiki>*</nowiki> Biển số xe máy cấp cho người dân trước ngày 15/08/2023:'''''
+
+* Thành phố Quy Nhơn: '''''77-L1/L2''''' '''''XXX.XX'''''
+* Thị xã An Nhơn: '''''77-F1''''' '''''XXX.XX'''''
+* Thị xã Hoài Nhơn: '''''77-C1''''' '''''XXX.XX'''''
+* Huyện An Lão: '''''77-M1''''' '''''XXX.XX'''''
+* Huyện Hoài Ân: '''''77-K1''''' '''''XXX.XX'''''
+* Huyện Phù Cát: '''''77-E1''''' '''''XXX.XX'''''
+* Huyện Phù Mỹ: '''''77-D1''''' '''''XXX.XX'''''
+* Huyện Tây Sơn: '''''77-H1''''' '''''XXX.XX'''''
+* Huyện Tuy Phước: '''''77-G1''''' '''''XXX.XX'''''
+* Huyện Vân Canh: '''''77-B1''''' '''''XXX.XX'''''
+* Huyện Vĩnh Thạnh: '''''77-N1''''' '''''XXX.XX'''''
+
+'''''<nowiki>*</nowiki> Biển số xe máy cấp cho người dân từ ngày 15/08/2023:'''''
+
+* Thành phố Quy Nhơn: '''''77-AA''''' '''''XXX.XX'''''
+* Thị xã An Nhơn: '''''77-AE''''' '''''XXX.XX'''''
+* Thị xã Hoài Nhơn: '''''77-AB''''' '''''XXX.XX'''''
+* Huyện An Lão: '''''77-AK''''' '''''XXX.XX'''''
+* Huyện Hoài Ân: '''''77-AH''''' '''''XXX.XX'''''
+* Huyện Phù Cát: '''''77-AD''''' '''''XXX.XX'''''
+* Huyện Phù Mỹ: '''''77-AC''''' '''''XXX.XX'''''
+* Huyện Tây Sơn: '''''77-AG''''' '''''XXX.XX'''''
+* Huyện Tuy Phước: '''''77-AF''''' '''''XXX.XX'''''
+* Huyện Vân Canh: '''''77-AM''''' '''''XXX.XX'''''
+* Huyện Vĩnh Thạnh: '''''77-AN''''' '''''XXX.XX'''''
+
+Biển số xe sẽ có ký hiệu là 77 kèm 2 chữ cái trong các chữ cái A, B, C, D, E, F, G, H, K, L, M, N, P, S, T, U, V, X, Y, Z. Ví dụ 77-AA, 77-AB.
+
+'''''<nowiki>*</nowiki> Biển số xe ô tô cấp cho người dân:'''''
+
+* Xe con dưới 9 chỗ: '''''77A''''' '''''XXX.XX'''''
+* Xe khách: '''''77B''''' '''''XXX.XX'''''
+* Xe tải: '''''77C''''' '''''XXX.XX'''''
+* Xe van: '''''77D''''' '''''XXX.XX'''''
+* Xe taxi: '''''77E''''' '''''XXX.XX'''''
+* Xe khách dịch vụ: '''''77F''''' '''''XXX.XX'''''
+* Xe van dịch vụ: '''''77G''''' '''''XXX.XX'''''
+* Xe tải dịch vụ: '''''77H''''' '''''XXX.XX'''''
+* Xe liên doanh: '''''77LD''''' '''''XXX.XX'''''
+* Xe rơ-moóc: '''''77R''''' '''''XXX.XX'''''
+
+==Hình ảnh==
+<center><gallery>
+Tập tin:Quy-Nhon-morning-city-view-1300px.jpg|Thành phố Quy Nhơn nhìn từ trên cao
+Tập tin:Cửa Đông-thành Bình Định,.JPG|<center>Cửa Đông<br>thành Bình Định</center>
+Tập tin:QuyNhonBeach1.jpg|<center>Bán đảo Phương Mai</center>
+Tập tin:Tháp Đôi, Quy Nhơn, Bình Định.JPG|<center>Tháp Đôi, Quy Nhơn</center>
+Tập tin:Đèo Cù Mông, phía nam Bình Định.JPG|<center>Đèo Cù Mông<br>phía nam Bình Định</center>
+Tập tin:Nha tho Quy Nhon.JPG|<center>Nhà thờ chính tòa<br>Giáo phận Quy Nhơn</center>
+Tập tin:Mộ hàn mạc Tử.JPG|<center>Mộ Hàn Mạc Tử</center>
+Tập tin:Quy Nhon Beach Promenade.jpg|Bãi biển Quy Nhơn
+Tập tin:Đường Lê Hồng Phong, Phường Bình Định, thị xã An Nhơn, tỉnh Bình Định.JPG|<center>Trung tâm thị xã<br>An Nhơn, Bình Định
+Tập tin:Quy Nhon Port.jpg|Cảng Quy Nhơn - cảng biển lớn nhất khu vực miền Trung về sản lượng
+Tập tin:Quy Nhon University, Binh Dinh, Viet Nam.JPG|Trường Đại học Quy Nhơn
+Tập tin:Tượng đài Quang Trung tại Bảo tàng Quang Trung.JPG|Bảo tàng Quang Trung - Tây Sơn, Bình Định
+Tập tin:PhuCat terminal1 fromBack.jpg|Sân bay Phù Cát
+Tập tin:VanPhong dam.jpg|Đập dâng Văn Phong
+Tập tin:QuangTrung museum landscape.jpg|Khuôn viên bảo tàng Quang Trung
+Tập tin:ThienAn TS.jpg|Quang cảnh nhìn từ Bảo sơn Thiên Ấn
+</gallery></center>
+
+== Kết nghĩa ==
+*{{Biểu tượng lá cờ|VIE}} Tỉnh [[Thanh Hóa]]
+
+==Chú thích==
+{{Tham khảo|30em}}
+{{Địa phương lân cận
+| Giữa = Bình Định
+| Bắc = [[Quảng Ngãi]]
+| Đông Bắc = [[Biển Đông]]
+| Đông = [[Biển Đông]]
+| Đông Nam = [[Biển Đông]]
+| Nam = [[Phú Yên (tỉnh)|Phú Yên]]
+| Tây Nam = [[Gia Lai]]
+| Tây = [[Gia Lai]]
+| Tây Bắc = [[Gia Lai]]
+}}
+
+==Tham khảo==
+*[https://binhdinh.gov.vn Web của Bình Định]
+*[http://www.binhdinh.gov.vn/ Trang web tỉnh Bình Định] {{Webarchive|url=https://web.archive.org/web/20100107182456/http://www.binhdinh.gov.vn/ |date = ngày 7 tháng 1 năm 2010}}
+*[http://www.dostbinhdinh.org.vn/ Sở khoa học công nghệ tỉnh Bình Định] {{Webarchive|url=https://web.archive.org/web/20070527051001/http://www.dostbinhdinh.org.vn/ |date = ngày 27 tháng 5 năm 2007}}
+*[http://www.dostbinhdinh.org.vn/DiaChiBD/default.html Bộ địa chí Bình Định] {{Webarchive|url=https://web.archive.org/web/20070929001855/http://www.dostbinhdinh.org.vn/DiaChiBD/default.html |date = ngày 29 tháng 9 năm 2007}}
+*[http://www.thuvienbinhdinh.com Thư viện tỉnh Bình Định] {{Webarchive|url=https://web.archive.org/web/20080828065814/http://www.thuvienbinhdinh.com/ |date=2008-08-28 }}
+{{Commonscat|Binh Dinh}}
+{{sơ khai Gia Lai}}
+{{Tỉnh cũ Việt Nam}}
+{{Kiểm soát tính nhất quán}}
+
+[[Thể loại:Bình Định| ]]
+[[Thể loại:Tỉnh cũ Việt Nam]]

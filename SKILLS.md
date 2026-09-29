@@ -18,3 +18,5 @@ status: active
 - [[skills/sync-wikipedia-github/SKILL|sync-wikipedia-github]] — Đồng bộ RAW_WIKIPEDIA với GitHub khi người dùng yêu cầu, kiểm tra quyền, remote, diff, gate và SHA sau push.
 
 Skill là quy trình agent; không chứng minh đã có crawler production. Agent đọc đúng SKILL.md khi nhận task phù hợp. Vị trí skills/ là nguồn dùng chung của kho; không tự cài skill vào cấu hình cá nhân.
+
+- [[skills/discover-wikipedia-websites/SKILL|discover-wikipedia-websites]] — candidate 0.1.0-draft: phân loại website có provenance; downloader web ngoài và đánh giá độc lập chưa triển khai.

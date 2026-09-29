@@ -1,0 +1,26 @@
+{
+  "request_url": "https://vi.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&inprop=url&maxlag=5&ppprop=wikibase_item%7Cdisambiguation&prop=info%7Cpageprops&redirects=1&titles=C%C3%A0+Mau%7CC%C3%A0+Mau+%28t%E1%BB%89nh%29%7CC%C3%A0+Mau+%28t%E1%BB%89nh+c%C5%A9%29%7CC%C3%A0+Mau+%28tr%C6%B0%E1%BB%9Bc+2025%29",
+  "params": {
+    "format": "json",
+    "formatversion": "2",
+    "maxlag": 5,
+    "action": "query",
+    "titles": "Cà Mau|Cà Mau (tỉnh)|Cà Mau (tỉnh cũ)|Cà Mau (trước 2025)",
+    "redirects": 1,
+    "prop": "info|pageprops",
+    "inprop": "url",
+    "ppprop": "wikibase_item|disambiguation"
+  },
+  "retrieved_at": "2026-09-29T15:27:41.004314Z",
+  "http_status": 200,
+  "headers": {
+    "date": "Tue, 29 Sep 2026 15:27:40 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1709"
+  },
+  "path": "sources/responses/6aa1da9c96bbb47474950bafef4601a61283167279026b94f07398704a6fb1ea.json",
+  "sha256": "6aa1da9c96bbb47474950bafef4601a61283167279026b94f07398704a6fb1ea",
+  "byte_length": 1709,
+  "media_type": "application/json",
+  "representation": "unmodified MediaWiki HTTP response body bytes"
+}

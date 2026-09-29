@@ -1,0 +1,26 @@
+{
+  "request_url": "https://vi.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&inprop=url&maxlag=5&ppprop=wikibase_item%7Cdisambiguation&prop=info%7Cpageprops&redirects=1&titles=Nam+%C4%90%E1%BB%8Bnh%7CNam+%C4%90%E1%BB%8Bnh+%28t%E1%BB%89nh%29%7CNam+%C4%90%E1%BB%8Bnh+%28t%E1%BB%89nh+c%C5%A9%29%7CNam+%C4%90%E1%BB%8Bnh+%28tr%C6%B0%E1%BB%9Bc+2025%29",
+  "params": {
+    "format": "json",
+    "formatversion": "2",
+    "maxlag": 5,
+    "action": "query",
+    "titles": "Nam Định|Nam Định (tỉnh)|Nam Định (tỉnh cũ)|Nam Định (trước 2025)",
+    "redirects": 1,
+    "prop": "info|pageprops",
+    "inprop": "url",
+    "ppprop": "wikibase_item|disambiguation"
+  },
+  "retrieved_at": "2026-09-29T15:25:56.649061Z",
+  "http_status": 200,
+  "headers": {
+    "date": "Tue, 29 Sep 2026 15:25:56 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2182"
+  },
+  "path": "sources/responses/4f5cf57481fc628ef8a8ab43be7e16ec15d193dc64f6f8c8965e3f5f7ea9993b.json",
+  "sha256": "4f5cf57481fc628ef8a8ab43be7e16ec15d193dc64f6f8c8965e3f5f7ea9993b",
+  "byte_length": 2182,
+  "media_type": "application/json",
+  "representation": "unmodified MediaWiki HTTP response body bytes"
+}

@@ -1,0 +1,3804 @@
+{
+  "staging_schema_version": "province-observation-0.1.0",
+  "collector_version": "0.1.0",
+  "source": {
+    "logical_path": "INF/context/bao-cao/evidence/vietnam-territory-law/province-before-after-2025.json",
+    "file": "input/province-before-after-2025.json",
+    "sha256": "b70c2ab311adcee3fca2963b21a49f00c32966f595bea57b433fe8b00e24751d",
+    "declared_version": null,
+    "version_basis": "content-addressed SHA-256; no version invented",
+    "input_document_inf_id": "inf:f08047ec-8fbe-4490-a6ae-9f956983ad71",
+    "source_pdf": "202qh.signed.pdf",
+    "source_pdf_sha256": "36e524d2e73f475800cfa1561c2bd5453ae137cde772a2045e5929a3cc0ef93c"
+  },
+  "contract_gap": "INF–RAW 0.1.0 requires canonical typed entity_ref; this input contains observations, so no entity_type coercion and no INF ID creation.",
+  "temporal_note_from_input": "12 June legal effect; 1 July new government operation; old governments continue in transition, not automatic extension of old legal territorial status",
+  "targets": [
+    {
+      "target_id": "before-3e293464-98e1-47b3-8125-cd71a01b0af5",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/0",
+      "input_observation_id": "inf:3e293464-98e1-47b3-8125-cd71a01b0af5",
+      "input_subject": {
+        "inf_id": "inf:3e293464-98e1-47b3-8125-cd71a01b0af5",
+        "label": "tỉnh Hà Giang",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:d8e20677-0f17-4059-adce-0f0e7ec9d620",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 1,
+          "pdf_page": 1,
+          "predecessor_observation_ids": [
+            "inf:3e293464-98e1-47b3-8125-cd71a01b0af5",
+            "inf:504ffb57-8afc-46ea-afd6-bd825c3d9d0b"
+          ],
+          "successor_observation_ids": [
+            "inf:54ada0d0-c554-433d-abe0-8ea0929d2f0d"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "1. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Hà Giang và tỉnh Tuyên Quang thành tỉnh mới có tên gọi là\ntỉnh Tuyên Quang\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Hà Giang",
+      "search_name": "Hà Giang",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-504ffb57-8afc-46ea-afd6-bd825c3d9d0b",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/1",
+      "input_observation_id": "inf:504ffb57-8afc-46ea-afd6-bd825c3d9d0b",
+      "input_subject": {
+        "inf_id": "inf:504ffb57-8afc-46ea-afd6-bd825c3d9d0b",
+        "label": "tỉnh Tuyên Quang",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:d8e20677-0f17-4059-adce-0f0e7ec9d620",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 1,
+          "pdf_page": 1,
+          "predecessor_observation_ids": [
+            "inf:3e293464-98e1-47b3-8125-cd71a01b0af5",
+            "inf:504ffb57-8afc-46ea-afd6-bd825c3d9d0b"
+          ],
+          "successor_observation_ids": [
+            "inf:54ada0d0-c554-433d-abe0-8ea0929d2f0d"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "1. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Hà Giang và tỉnh Tuyên Quang thành tỉnh mới có tên gọi là\ntỉnh Tuyên Quang\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Tuyên Quang",
+      "search_name": "Tuyên Quang",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-dc197b73-16aa-4db6-b728-2fd93c6e0e17",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/2",
+      "input_observation_id": "inf:dc197b73-16aa-4db6-b728-2fd93c6e0e17",
+      "input_subject": {
+        "inf_id": "inf:dc197b73-16aa-4db6-b728-2fd93c6e0e17",
+        "label": "tỉnh Yên Bái",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:4b512014-40c5-4c42-82e1-6242e6da7563",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 2,
+          "pdf_page": 1,
+          "predecessor_observation_ids": [
+            "inf:dc197b73-16aa-4db6-b728-2fd93c6e0e17",
+            "inf:2c7ffbab-578a-46fc-86a1-3df5a0c2b377"
+          ],
+          "successor_observation_ids": [
+            "inf:e8f5d888-ee8c-4036-9a83-952367d5668c"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "2. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Yên Bái và tỉnh Lào Cai thành tỉnh mới có tên gọi là\ntỉnh Lào Cai\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Yên Bái",
+      "search_name": "Yên Bái",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-2c7ffbab-578a-46fc-86a1-3df5a0c2b377",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/3",
+      "input_observation_id": "inf:2c7ffbab-578a-46fc-86a1-3df5a0c2b377",
+      "input_subject": {
+        "inf_id": "inf:2c7ffbab-578a-46fc-86a1-3df5a0c2b377",
+        "label": "tỉnh Lào Cai",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:4b512014-40c5-4c42-82e1-6242e6da7563",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 2,
+          "pdf_page": 1,
+          "predecessor_observation_ids": [
+            "inf:dc197b73-16aa-4db6-b728-2fd93c6e0e17",
+            "inf:2c7ffbab-578a-46fc-86a1-3df5a0c2b377"
+          ],
+          "successor_observation_ids": [
+            "inf:e8f5d888-ee8c-4036-9a83-952367d5668c"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "2. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Yên Bái và tỉnh Lào Cai thành tỉnh mới có tên gọi là\ntỉnh Lào Cai\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Lào Cai",
+      "search_name": "Lào Cai",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-ba1a543d-db36-4550-961c-6311b68a98af",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/4",
+      "input_observation_id": "inf:ba1a543d-db36-4550-961c-6311b68a98af",
+      "input_subject": {
+        "inf_id": "inf:ba1a543d-db36-4550-961c-6311b68a98af",
+        "label": "tỉnh Bắc Kạn",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:070cd98c-3c5a-4d7a-83b9-72652af40d6f",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 3,
+          "pdf_page": 1,
+          "predecessor_observation_ids": [
+            "inf:ba1a543d-db36-4550-961c-6311b68a98af",
+            "inf:f5be51da-1df9-4f18-8b04-5f367ce190fe"
+          ],
+          "successor_observation_ids": [
+            "inf:fdb66544-727f-43ff-877a-511e3651142b"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "3. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Bắc Kạn và tỉnh Thái Nguyên thành tỉnh mới có tên gọi là\ntỉnh Thái Nguyên\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Bắc Kạn",
+      "search_name": "Bắc Kạn",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-f5be51da-1df9-4f18-8b04-5f367ce190fe",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/5",
+      "input_observation_id": "inf:f5be51da-1df9-4f18-8b04-5f367ce190fe",
+      "input_subject": {
+        "inf_id": "inf:f5be51da-1df9-4f18-8b04-5f367ce190fe",
+        "label": "tỉnh Thái Nguyên",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:070cd98c-3c5a-4d7a-83b9-72652af40d6f",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 3,
+          "pdf_page": 1,
+          "predecessor_observation_ids": [
+            "inf:ba1a543d-db36-4550-961c-6311b68a98af",
+            "inf:f5be51da-1df9-4f18-8b04-5f367ce190fe"
+          ],
+          "successor_observation_ids": [
+            "inf:fdb66544-727f-43ff-877a-511e3651142b"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "3. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Bắc Kạn và tỉnh Thái Nguyên thành tỉnh mới có tên gọi là\ntỉnh Thái Nguyên\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Thái Nguyên",
+      "search_name": "Thái Nguyên",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-66b2e551-e8af-4c1b-aa8d-1634ff03f566",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/6",
+      "input_observation_id": "inf:66b2e551-e8af-4c1b-aa8d-1634ff03f566",
+      "input_subject": {
+        "inf_id": "inf:66b2e551-e8af-4c1b-aa8d-1634ff03f566",
+        "label": "tỉnh Vĩnh Phúc",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:5fd31d94-c3c0-4f1e-8a64-23b58eb96db1",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 4,
+          "pdf_page": 1,
+          "predecessor_observation_ids": [
+            "inf:66b2e551-e8af-4c1b-aa8d-1634ff03f566",
+            "inf:8ebca2ae-5502-4e32-839c-7bd9f50e5d83",
+            "inf:a0825807-89c5-45bb-bfc0-6059722cc206"
+          ],
+          "successor_observation_ids": [
+            "inf:1382c005-17ce-4d0a-9b74-228aafee4e73"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "4. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Vĩnh Phúc, tỉnh Hòa Bình và tỉnh Phú Thọ thành tỉnh mới có tên gọi là\ntỉnh Phú Thọ\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Vĩnh Phúc",
+      "search_name": "Vĩnh Phúc",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-8ebca2ae-5502-4e32-839c-7bd9f50e5d83",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/7",
+      "input_observation_id": "inf:8ebca2ae-5502-4e32-839c-7bd9f50e5d83",
+      "input_subject": {
+        "inf_id": "inf:8ebca2ae-5502-4e32-839c-7bd9f50e5d83",
+        "label": "tỉnh Hòa Bình",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:5fd31d94-c3c0-4f1e-8a64-23b58eb96db1",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 4,
+          "pdf_page": 1,
+          "predecessor_observation_ids": [
+            "inf:66b2e551-e8af-4c1b-aa8d-1634ff03f566",
+            "inf:8ebca2ae-5502-4e32-839c-7bd9f50e5d83",
+            "inf:a0825807-89c5-45bb-bfc0-6059722cc206"
+          ],
+          "successor_observation_ids": [
+            "inf:1382c005-17ce-4d0a-9b74-228aafee4e73"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "4. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Vĩnh Phúc, tỉnh Hòa Bình và tỉnh Phú Thọ thành tỉnh mới có tên gọi là\ntỉnh Phú Thọ\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Hòa Bình",
+      "search_name": "Hòa Bình",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-a0825807-89c5-45bb-bfc0-6059722cc206",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/8",
+      "input_observation_id": "inf:a0825807-89c5-45bb-bfc0-6059722cc206",
+      "input_subject": {
+        "inf_id": "inf:a0825807-89c5-45bb-bfc0-6059722cc206",
+        "label": "tỉnh Phú Thọ",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:5fd31d94-c3c0-4f1e-8a64-23b58eb96db1",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 4,
+          "pdf_page": 1,
+          "predecessor_observation_ids": [
+            "inf:66b2e551-e8af-4c1b-aa8d-1634ff03f566",
+            "inf:8ebca2ae-5502-4e32-839c-7bd9f50e5d83",
+            "inf:a0825807-89c5-45bb-bfc0-6059722cc206"
+          ],
+          "successor_observation_ids": [
+            "inf:1382c005-17ce-4d0a-9b74-228aafee4e73"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "4. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Vĩnh Phúc, tỉnh Hòa Bình và tỉnh Phú Thọ thành tỉnh mới có tên gọi là\ntỉnh Phú Thọ\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Phú Thọ",
+      "search_name": "Phú Thọ",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-f7449735-fedd-4c6e-94e5-f59fb2f0866a",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/9",
+      "input_observation_id": "inf:f7449735-fedd-4c6e-94e5-f59fb2f0866a",
+      "input_subject": {
+        "inf_id": "inf:f7449735-fedd-4c6e-94e5-f59fb2f0866a",
+        "label": "tỉnh Bắc Giang",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:28335a69-98b5-4699-b300-7a63c7bea8a8",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 5,
+          "pdf_page": 2,
+          "predecessor_observation_ids": [
+            "inf:f7449735-fedd-4c6e-94e5-f59fb2f0866a",
+            "inf:4180ccfc-0109-4876-a40e-6dffca08c1eb"
+          ],
+          "successor_observation_ids": [
+            "inf:140dd32d-ef0e-4309-8fc6-6c3db73e19d1"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "5. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Bắc Giang và tỉnh Bắc Ninh thành tỉnh mới có tên gọi là\nBắc Ninh\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Bắc Giang",
+      "search_name": "Bắc Giang",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-4180ccfc-0109-4876-a40e-6dffca08c1eb",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/10",
+      "input_observation_id": "inf:4180ccfc-0109-4876-a40e-6dffca08c1eb",
+      "input_subject": {
+        "inf_id": "inf:4180ccfc-0109-4876-a40e-6dffca08c1eb",
+        "label": "tỉnh Bắc Ninh",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:28335a69-98b5-4699-b300-7a63c7bea8a8",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 5,
+          "pdf_page": 2,
+          "predecessor_observation_ids": [
+            "inf:f7449735-fedd-4c6e-94e5-f59fb2f0866a",
+            "inf:4180ccfc-0109-4876-a40e-6dffca08c1eb"
+          ],
+          "successor_observation_ids": [
+            "inf:140dd32d-ef0e-4309-8fc6-6c3db73e19d1"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "5. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Bắc Giang và tỉnh Bắc Ninh thành tỉnh mới có tên gọi là\nBắc Ninh\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Bắc Ninh",
+      "search_name": "Bắc Ninh",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-f0e93617-5e31-42f8-b849-a2a65802cb5f",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/11",
+      "input_observation_id": "inf:f0e93617-5e31-42f8-b849-a2a65802cb5f",
+      "input_subject": {
+        "inf_id": "inf:f0e93617-5e31-42f8-b849-a2a65802cb5f",
+        "label": "tỉnh Thái Bình",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:e33ab127-2ea6-4265-a05c-a24b70e11987",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 6,
+          "pdf_page": 2,
+          "predecessor_observation_ids": [
+            "inf:f0e93617-5e31-42f8-b849-a2a65802cb5f",
+            "inf:210f2492-7de4-4501-9f50-b3dc57735fe4"
+          ],
+          "successor_observation_ids": [
+            "inf:69bfada8-8d5a-4494-b4a5-06d9d6a4678f"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "6. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Thái Bình và tỉnh Hưng Yên thành tỉnh mới có tên gọi là\ntỉnh Hưng Yên\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Thái Bình",
+      "search_name": "Thái Bình",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-210f2492-7de4-4501-9f50-b3dc57735fe4",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/12",
+      "input_observation_id": "inf:210f2492-7de4-4501-9f50-b3dc57735fe4",
+      "input_subject": {
+        "inf_id": "inf:210f2492-7de4-4501-9f50-b3dc57735fe4",
+        "label": "tỉnh Hưng Yên",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:e33ab127-2ea6-4265-a05c-a24b70e11987",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 6,
+          "pdf_page": 2,
+          "predecessor_observation_ids": [
+            "inf:f0e93617-5e31-42f8-b849-a2a65802cb5f",
+            "inf:210f2492-7de4-4501-9f50-b3dc57735fe4"
+          ],
+          "successor_observation_ids": [
+            "inf:69bfada8-8d5a-4494-b4a5-06d9d6a4678f"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "6. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Thái Bình và tỉnh Hưng Yên thành tỉnh mới có tên gọi là\ntỉnh Hưng Yên\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Hưng Yên",
+      "search_name": "Hưng Yên",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-99a27e9e-b6cd-42c6-a366-3940454fe014",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/13",
+      "input_observation_id": "inf:99a27e9e-b6cd-42c6-a366-3940454fe014",
+      "input_subject": {
+        "inf_id": "inf:99a27e9e-b6cd-42c6-a366-3940454fe014",
+        "label": "thành phố Hải Phòng",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:61b814e8-853e-4f48-b2e1-d5cae6052391",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 7,
+          "pdf_page": 2,
+          "predecessor_observation_ids": [
+            "inf:99a27e9e-b6cd-42c6-a366-3940454fe014",
+            "inf:92302357-30b6-4f7e-8f3e-9447c03ca4a8"
+          ],
+          "successor_observation_ids": [
+            "inf:8440de11-9955-43c0-bb4b-52a400cb49ef"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "7. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thành phố Hải Phòng và tỉnh Hải Dương thành thành phố mới có tên gọi là\nthành phố Hải Phòng\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "thành phố Hải Phòng",
+      "search_name": "Hải Phòng",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-92302357-30b6-4f7e-8f3e-9447c03ca4a8",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/14",
+      "input_observation_id": "inf:92302357-30b6-4f7e-8f3e-9447c03ca4a8",
+      "input_subject": {
+        "inf_id": "inf:92302357-30b6-4f7e-8f3e-9447c03ca4a8",
+        "label": "tỉnh Hải Dương",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:61b814e8-853e-4f48-b2e1-d5cae6052391",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 7,
+          "pdf_page": 2,
+          "predecessor_observation_ids": [
+            "inf:99a27e9e-b6cd-42c6-a366-3940454fe014",
+            "inf:92302357-30b6-4f7e-8f3e-9447c03ca4a8"
+          ],
+          "successor_observation_ids": [
+            "inf:8440de11-9955-43c0-bb4b-52a400cb49ef"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "7. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thành phố Hải Phòng và tỉnh Hải Dương thành thành phố mới có tên gọi là\nthành phố Hải Phòng\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Hải Dương",
+      "search_name": "Hải Dương",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-d23772ed-9d1e-4671-9a72-1bdd61bb7aec",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/15",
+      "input_observation_id": "inf:d23772ed-9d1e-4671-9a72-1bdd61bb7aec",
+      "input_subject": {
+        "inf_id": "inf:d23772ed-9d1e-4671-9a72-1bdd61bb7aec",
+        "label": "tỉnh Hà Nam",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:91480718-cc3e-4440-ae74-f3b4d5719cb6",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 8,
+          "pdf_page": 2,
+          "predecessor_observation_ids": [
+            "inf:d23772ed-9d1e-4671-9a72-1bdd61bb7aec",
+            "inf:c7c04e40-92fc-4729-9a51-07905ff41f71",
+            "inf:315fb257-8efa-4dd9-903c-8ab863ed267a"
+          ],
+          "successor_observation_ids": [
+            "inf:8ef013e4-5652-494a-83e0-6336809da66c"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "8. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Hà Nam, tỉnh Nam Định và tỉnh Ninh Bình thành tỉnh mới có tên gọi là\ntỉnh Ninh Bình\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Hà Nam",
+      "search_name": "Hà Nam",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-c7c04e40-92fc-4729-9a51-07905ff41f71",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/16",
+      "input_observation_id": "inf:c7c04e40-92fc-4729-9a51-07905ff41f71",
+      "input_subject": {
+        "inf_id": "inf:c7c04e40-92fc-4729-9a51-07905ff41f71",
+        "label": "tỉnh Nam Định",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:91480718-cc3e-4440-ae74-f3b4d5719cb6",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 8,
+          "pdf_page": 2,
+          "predecessor_observation_ids": [
+            "inf:d23772ed-9d1e-4671-9a72-1bdd61bb7aec",
+            "inf:c7c04e40-92fc-4729-9a51-07905ff41f71",
+            "inf:315fb257-8efa-4dd9-903c-8ab863ed267a"
+          ],
+          "successor_observation_ids": [
+            "inf:8ef013e4-5652-494a-83e0-6336809da66c"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "8. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Hà Nam, tỉnh Nam Định và tỉnh Ninh Bình thành tỉnh mới có tên gọi là\ntỉnh Ninh Bình\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Nam Định",
+      "search_name": "Nam Định",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-315fb257-8efa-4dd9-903c-8ab863ed267a",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/17",
+      "input_observation_id": "inf:315fb257-8efa-4dd9-903c-8ab863ed267a",
+      "input_subject": {
+        "inf_id": "inf:315fb257-8efa-4dd9-903c-8ab863ed267a",
+        "label": "tỉnh Ninh Bình",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:91480718-cc3e-4440-ae74-f3b4d5719cb6",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 8,
+          "pdf_page": 2,
+          "predecessor_observation_ids": [
+            "inf:d23772ed-9d1e-4671-9a72-1bdd61bb7aec",
+            "inf:c7c04e40-92fc-4729-9a51-07905ff41f71",
+            "inf:315fb257-8efa-4dd9-903c-8ab863ed267a"
+          ],
+          "successor_observation_ids": [
+            "inf:8ef013e4-5652-494a-83e0-6336809da66c"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "8. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Hà Nam, tỉnh Nam Định và tỉnh Ninh Bình thành tỉnh mới có tên gọi là\ntỉnh Ninh Bình\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Ninh Bình",
+      "search_name": "Ninh Bình",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-2400e0b3-1336-492c-9314-b130271de54e",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/18",
+      "input_observation_id": "inf:2400e0b3-1336-492c-9314-b130271de54e",
+      "input_subject": {
+        "inf_id": "inf:2400e0b3-1336-492c-9314-b130271de54e",
+        "label": "tỉnh Quảng Bình",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:fbbee4c6-7dc7-44a8-bcf3-3c5927fbc07d",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 9,
+          "pdf_page": 2,
+          "predecessor_observation_ids": [
+            "inf:2400e0b3-1336-492c-9314-b130271de54e",
+            "inf:008d4d64-6e0a-4ee9-baa0-b94aa903cf69"
+          ],
+          "successor_observation_ids": [
+            "inf:39a615da-cad1-42ce-b5e0-dede80a3524e"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "9. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Quảng Bình và tỉnh Quảng Trị thành tỉnh mới có tên gọi là\ntỉnh Quảng Trị\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Quảng Bình",
+      "search_name": "Quảng Bình",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-008d4d64-6e0a-4ee9-baa0-b94aa903cf69",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/19",
+      "input_observation_id": "inf:008d4d64-6e0a-4ee9-baa0-b94aa903cf69",
+      "input_subject": {
+        "inf_id": "inf:008d4d64-6e0a-4ee9-baa0-b94aa903cf69",
+        "label": "tỉnh Quảng Trị",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:fbbee4c6-7dc7-44a8-bcf3-3c5927fbc07d",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 9,
+          "pdf_page": 2,
+          "predecessor_observation_ids": [
+            "inf:2400e0b3-1336-492c-9314-b130271de54e",
+            "inf:008d4d64-6e0a-4ee9-baa0-b94aa903cf69"
+          ],
+          "successor_observation_ids": [
+            "inf:39a615da-cad1-42ce-b5e0-dede80a3524e"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "9. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Quảng Bình và tỉnh Quảng Trị thành tỉnh mới có tên gọi là\ntỉnh Quảng Trị\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Quảng Trị",
+      "search_name": "Quảng Trị",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-0f3c29bb-1697-4473-93bc-57cf0bd75b8f",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/20",
+      "input_observation_id": "inf:0f3c29bb-1697-4473-93bc-57cf0bd75b8f",
+      "input_subject": {
+        "inf_id": "inf:0f3c29bb-1697-4473-93bc-57cf0bd75b8f",
+        "label": "thành phố Đà Nẵng",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:86bef493-1194-43b2-8209-fd547e266edd",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 10,
+          "pdf_page": 2,
+          "predecessor_observation_ids": [
+            "inf:0f3c29bb-1697-4473-93bc-57cf0bd75b8f",
+            "inf:d1405a58-a656-4515-a3b9-7a6bf698601b"
+          ],
+          "successor_observation_ids": [
+            "inf:3fe520e0-442b-47ad-bb5c-773359b64a2f"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "10. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thành phố Đà Nẵng và tỉnh Quảng Nam thành thành phố mới có tên gọi là\nthành phố Đà Nẵng\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "thành phố Đà Nẵng",
+      "search_name": "Đà Nẵng",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-d1405a58-a656-4515-a3b9-7a6bf698601b",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/21",
+      "input_observation_id": "inf:d1405a58-a656-4515-a3b9-7a6bf698601b",
+      "input_subject": {
+        "inf_id": "inf:d1405a58-a656-4515-a3b9-7a6bf698601b",
+        "label": "tỉnh Quảng Nam",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:86bef493-1194-43b2-8209-fd547e266edd",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 10,
+          "pdf_page": 2,
+          "predecessor_observation_ids": [
+            "inf:0f3c29bb-1697-4473-93bc-57cf0bd75b8f",
+            "inf:d1405a58-a656-4515-a3b9-7a6bf698601b"
+          ],
+          "successor_observation_ids": [
+            "inf:3fe520e0-442b-47ad-bb5c-773359b64a2f"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "10. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thành phố Đà Nẵng và tỉnh Quảng Nam thành thành phố mới có tên gọi là\nthành phố Đà Nẵng\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Quảng Nam",
+      "search_name": "Quảng Nam",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-b3f479fe-ef82-49bd-b7e5-f12955f58450",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/22",
+      "input_observation_id": "inf:b3f479fe-ef82-49bd-b7e5-f12955f58450",
+      "input_subject": {
+        "inf_id": "inf:b3f479fe-ef82-49bd-b7e5-f12955f58450",
+        "label": "tỉnh Kon Tum",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:2a9b3f76-332e-47f5-ae84-29fef450fe65",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 11,
+          "pdf_page": 2,
+          "predecessor_observation_ids": [
+            "inf:b3f479fe-ef82-49bd-b7e5-f12955f58450",
+            "inf:6b88788a-d98c-4b2f-95c1-fe0db56e737e"
+          ],
+          "successor_observation_ids": [
+            "inf:ffa329b1-2301-4d14-9a51-26002353068e"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "11. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Kon Tum và tỉnh Quảng Ngãi thành tỉnh mới có tên gọi là\ntỉnh Quảng Ngãi\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Kon Tum",
+      "search_name": "Kon Tum",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-6b88788a-d98c-4b2f-95c1-fe0db56e737e",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/23",
+      "input_observation_id": "inf:6b88788a-d98c-4b2f-95c1-fe0db56e737e",
+      "input_subject": {
+        "inf_id": "inf:6b88788a-d98c-4b2f-95c1-fe0db56e737e",
+        "label": "tỉnh Quảng Ngãi",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:2a9b3f76-332e-47f5-ae84-29fef450fe65",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 11,
+          "pdf_page": 2,
+          "predecessor_observation_ids": [
+            "inf:b3f479fe-ef82-49bd-b7e5-f12955f58450",
+            "inf:6b88788a-d98c-4b2f-95c1-fe0db56e737e"
+          ],
+          "successor_observation_ids": [
+            "inf:ffa329b1-2301-4d14-9a51-26002353068e"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "11. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Kon Tum và tỉnh Quảng Ngãi thành tỉnh mới có tên gọi là\ntỉnh Quảng Ngãi\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Quảng Ngãi",
+      "search_name": "Quảng Ngãi",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-b43098d0-f25d-410f-ac08-760408dda032",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/24",
+      "input_observation_id": "inf:b43098d0-f25d-410f-ac08-760408dda032",
+      "input_subject": {
+        "inf_id": "inf:b43098d0-f25d-410f-ac08-760408dda032",
+        "label": "tỉnh Bình Định",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "linked_to_existing_authority_v4",
+        "canonical_territory_inf_id": "inf:e89805cf-fbd6-451a-ab1d-a7a890b9e7f3"
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:e41b627a-6ef1-472d-ad46-b4aef6681d9c",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 12,
+          "pdf_page": 3,
+          "predecessor_observation_ids": [
+            "inf:b43098d0-f25d-410f-ac08-760408dda032",
+            "inf:d6fba89f-0084-4883-b4dd-0c4a4012780d"
+          ],
+          "successor_observation_ids": [
+            "inf:01f21d1a-e83c-4043-ab0c-ab72d8c47f2f"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "12. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Bình Định và tỉnh Gia Lai thành tỉnh mới có tên gọi là\ntỉnh Gia Lai\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Bình Định",
+      "search_name": "Bình Định",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-d6fba89f-0084-4883-b4dd-0c4a4012780d",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/25",
+      "input_observation_id": "inf:d6fba89f-0084-4883-b4dd-0c4a4012780d",
+      "input_subject": {
+        "inf_id": "inf:d6fba89f-0084-4883-b4dd-0c4a4012780d",
+        "label": "tỉnh Gia Lai",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "linked_to_existing_authority_v4",
+        "canonical_territory_inf_id": "inf:799c601e-4229-4a7b-a380-dda8d6655139"
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:e41b627a-6ef1-472d-ad46-b4aef6681d9c",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 12,
+          "pdf_page": 3,
+          "predecessor_observation_ids": [
+            "inf:b43098d0-f25d-410f-ac08-760408dda032",
+            "inf:d6fba89f-0084-4883-b4dd-0c4a4012780d"
+          ],
+          "successor_observation_ids": [
+            "inf:01f21d1a-e83c-4043-ab0c-ab72d8c47f2f"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "12. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Bình Định và tỉnh Gia Lai thành tỉnh mới có tên gọi là\ntỉnh Gia Lai\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Gia Lai",
+      "search_name": "Gia Lai",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-db0553c5-a89f-4616-9053-cb5c725846ec",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/26",
+      "input_observation_id": "inf:db0553c5-a89f-4616-9053-cb5c725846ec",
+      "input_subject": {
+        "inf_id": "inf:db0553c5-a89f-4616-9053-cb5c725846ec",
+        "label": "tỉnh Ninh Thuận",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:b6313071-bd06-4b23-8cd2-3b5e1566968c",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 13,
+          "pdf_page": 3,
+          "predecessor_observation_ids": [
+            "inf:db0553c5-a89f-4616-9053-cb5c725846ec",
+            "inf:149a9569-bdfa-4472-9d70-98500bd61bfb"
+          ],
+          "successor_observation_ids": [
+            "inf:0561c911-7b42-478c-b230-33e6249b65e3"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "13. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Ninh Thuận và tỉnh Khánh Hòa thành tỉnh mới có tên gọi là\ntỉnh Khánh Hòa\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Ninh Thuận",
+      "search_name": "Ninh Thuận",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-149a9569-bdfa-4472-9d70-98500bd61bfb",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/27",
+      "input_observation_id": "inf:149a9569-bdfa-4472-9d70-98500bd61bfb",
+      "input_subject": {
+        "inf_id": "inf:149a9569-bdfa-4472-9d70-98500bd61bfb",
+        "label": "tỉnh Khánh Hòa",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:b6313071-bd06-4b23-8cd2-3b5e1566968c",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 13,
+          "pdf_page": 3,
+          "predecessor_observation_ids": [
+            "inf:db0553c5-a89f-4616-9053-cb5c725846ec",
+            "inf:149a9569-bdfa-4472-9d70-98500bd61bfb"
+          ],
+          "successor_observation_ids": [
+            "inf:0561c911-7b42-478c-b230-33e6249b65e3"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "13. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Ninh Thuận và tỉnh Khánh Hòa thành tỉnh mới có tên gọi là\ntỉnh Khánh Hòa\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Khánh Hòa",
+      "search_name": "Khánh Hòa",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-a75cdf18-847d-4f99-8780-77d7d02a9b8a",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/28",
+      "input_observation_id": "inf:a75cdf18-847d-4f99-8780-77d7d02a9b8a",
+      "input_subject": {
+        "inf_id": "inf:a75cdf18-847d-4f99-8780-77d7d02a9b8a",
+        "label": "tỉnh Đắk Nông",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:923ff208-c5eb-47fd-ab08-7c16c9074d59",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 14,
+          "pdf_page": 3,
+          "predecessor_observation_ids": [
+            "inf:a75cdf18-847d-4f99-8780-77d7d02a9b8a",
+            "inf:b79cd411-11c3-4c73-b7ff-1fe6fa1f318c",
+            "inf:bdd0ffed-6d5c-42f5-b7d4-48ef3bc80dee"
+          ],
+          "successor_observation_ids": [
+            "inf:d1e3973c-16fd-4e9f-acd8-4724176fbcae"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "14. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Đắk Nông, tỉnh Bình Thuận và tỉnh Lâm Đồng thành tỉnh mới có tên gọi là\ntỉnh Lâm Đồng\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Đắk Nông",
+      "search_name": "Đắk Nông",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-b79cd411-11c3-4c73-b7ff-1fe6fa1f318c",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/29",
+      "input_observation_id": "inf:b79cd411-11c3-4c73-b7ff-1fe6fa1f318c",
+      "input_subject": {
+        "inf_id": "inf:b79cd411-11c3-4c73-b7ff-1fe6fa1f318c",
+        "label": "tỉnh Bình Thuận",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:923ff208-c5eb-47fd-ab08-7c16c9074d59",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 14,
+          "pdf_page": 3,
+          "predecessor_observation_ids": [
+            "inf:a75cdf18-847d-4f99-8780-77d7d02a9b8a",
+            "inf:b79cd411-11c3-4c73-b7ff-1fe6fa1f318c",
+            "inf:bdd0ffed-6d5c-42f5-b7d4-48ef3bc80dee"
+          ],
+          "successor_observation_ids": [
+            "inf:d1e3973c-16fd-4e9f-acd8-4724176fbcae"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "14. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Đắk Nông, tỉnh Bình Thuận và tỉnh Lâm Đồng thành tỉnh mới có tên gọi là\ntỉnh Lâm Đồng\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Bình Thuận",
+      "search_name": "Bình Thuận",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-bdd0ffed-6d5c-42f5-b7d4-48ef3bc80dee",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/30",
+      "input_observation_id": "inf:bdd0ffed-6d5c-42f5-b7d4-48ef3bc80dee",
+      "input_subject": {
+        "inf_id": "inf:bdd0ffed-6d5c-42f5-b7d4-48ef3bc80dee",
+        "label": "tỉnh Lâm Đồng",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:923ff208-c5eb-47fd-ab08-7c16c9074d59",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 14,
+          "pdf_page": 3,
+          "predecessor_observation_ids": [
+            "inf:a75cdf18-847d-4f99-8780-77d7d02a9b8a",
+            "inf:b79cd411-11c3-4c73-b7ff-1fe6fa1f318c",
+            "inf:bdd0ffed-6d5c-42f5-b7d4-48ef3bc80dee"
+          ],
+          "successor_observation_ids": [
+            "inf:d1e3973c-16fd-4e9f-acd8-4724176fbcae"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "14. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Đắk Nông, tỉnh Bình Thuận và tỉnh Lâm Đồng thành tỉnh mới có tên gọi là\ntỉnh Lâm Đồng\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Lâm Đồng",
+      "search_name": "Lâm Đồng",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-b94949cd-4602-44e1-bf74-4c435939187e",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/31",
+      "input_observation_id": "inf:b94949cd-4602-44e1-bf74-4c435939187e",
+      "input_subject": {
+        "inf_id": "inf:b94949cd-4602-44e1-bf74-4c435939187e",
+        "label": "tỉnh Phú Yên",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:d59c69cc-83da-43b9-9608-91c858df22c2",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 15,
+          "pdf_page": 3,
+          "predecessor_observation_ids": [
+            "inf:b94949cd-4602-44e1-bf74-4c435939187e",
+            "inf:f63954a1-bd8a-404b-bd43-4d9a3d82c359"
+          ],
+          "successor_observation_ids": [
+            "inf:bcffd08e-12a7-4e9c-b744-317d81aeb51a"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "15. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Phú Yên và tỉnh Đắk Lắk thành tỉnh mới có tên gọi là\ntỉnh Đắk Lắk\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Phú Yên",
+      "search_name": "Phú Yên",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-f63954a1-bd8a-404b-bd43-4d9a3d82c359",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/32",
+      "input_observation_id": "inf:f63954a1-bd8a-404b-bd43-4d9a3d82c359",
+      "input_subject": {
+        "inf_id": "inf:f63954a1-bd8a-404b-bd43-4d9a3d82c359",
+        "label": "tỉnh Đắk Lắk",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:d59c69cc-83da-43b9-9608-91c858df22c2",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 15,
+          "pdf_page": 3,
+          "predecessor_observation_ids": [
+            "inf:b94949cd-4602-44e1-bf74-4c435939187e",
+            "inf:f63954a1-bd8a-404b-bd43-4d9a3d82c359"
+          ],
+          "successor_observation_ids": [
+            "inf:bcffd08e-12a7-4e9c-b744-317d81aeb51a"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "15. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Phú Yên và tỉnh Đắk Lắk thành tỉnh mới có tên gọi là\ntỉnh Đắk Lắk\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Đắk Lắk",
+      "search_name": "Đắk Lắk",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-d0eb00f7-20a7-4b13-988a-f2181a7cea65",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/33",
+      "input_observation_id": "inf:d0eb00f7-20a7-4b13-988a-f2181a7cea65",
+      "input_subject": {
+        "inf_id": "inf:d0eb00f7-20a7-4b13-988a-f2181a7cea65",
+        "label": "Thành phố Hồ Chí Minh",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:aa836a22-4c0e-4cea-8227-54aaf2008964",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 16,
+          "pdf_page": 3,
+          "predecessor_observation_ids": [
+            "inf:d0eb00f7-20a7-4b13-988a-f2181a7cea65",
+            "inf:e4824342-5c8a-4edc-88eb-c79ea20ec6b9",
+            "inf:9df78c95-439a-4880-87d7-c9a663ce4e17"
+          ],
+          "successor_observation_ids": [
+            "inf:99de8263-bc71-4bce-9d69-50364c38af02"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "16. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của Thành phố Hồ Chí Minh, tỉnh Bà Rịa - Vũng Tàu và tỉnh Bình Dương thành thành phố mới có tên gọi là\nThành phố Hồ Chí Minh\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "Thành phố Hồ Chí Minh",
+      "search_name": "Thành phố Hồ Chí Minh",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-e4824342-5c8a-4edc-88eb-c79ea20ec6b9",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/34",
+      "input_observation_id": "inf:e4824342-5c8a-4edc-88eb-c79ea20ec6b9",
+      "input_subject": {
+        "inf_id": "inf:e4824342-5c8a-4edc-88eb-c79ea20ec6b9",
+        "label": "tỉnh Bà Rịa - Vũng Tàu",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:aa836a22-4c0e-4cea-8227-54aaf2008964",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 16,
+          "pdf_page": 3,
+          "predecessor_observation_ids": [
+            "inf:d0eb00f7-20a7-4b13-988a-f2181a7cea65",
+            "inf:e4824342-5c8a-4edc-88eb-c79ea20ec6b9",
+            "inf:9df78c95-439a-4880-87d7-c9a663ce4e17"
+          ],
+          "successor_observation_ids": [
+            "inf:99de8263-bc71-4bce-9d69-50364c38af02"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "16. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của Thành phố Hồ Chí Minh, tỉnh Bà Rịa - Vũng Tàu và tỉnh Bình Dương thành thành phố mới có tên gọi là\nThành phố Hồ Chí Minh\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Bà Rịa - Vũng Tàu",
+      "search_name": "Bà Rịa - Vũng Tàu",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-9df78c95-439a-4880-87d7-c9a663ce4e17",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/35",
+      "input_observation_id": "inf:9df78c95-439a-4880-87d7-c9a663ce4e17",
+      "input_subject": {
+        "inf_id": "inf:9df78c95-439a-4880-87d7-c9a663ce4e17",
+        "label": "tỉnh Bình Dương",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:aa836a22-4c0e-4cea-8227-54aaf2008964",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 16,
+          "pdf_page": 3,
+          "predecessor_observation_ids": [
+            "inf:d0eb00f7-20a7-4b13-988a-f2181a7cea65",
+            "inf:e4824342-5c8a-4edc-88eb-c79ea20ec6b9",
+            "inf:9df78c95-439a-4880-87d7-c9a663ce4e17"
+          ],
+          "successor_observation_ids": [
+            "inf:99de8263-bc71-4bce-9d69-50364c38af02"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "16. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của Thành phố Hồ Chí Minh, tỉnh Bà Rịa - Vũng Tàu và tỉnh Bình Dương thành thành phố mới có tên gọi là\nThành phố Hồ Chí Minh\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Bình Dương",
+      "search_name": "Bình Dương",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-b961765f-124d-462d-ac0d-831c6f69e78e",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/36",
+      "input_observation_id": "inf:b961765f-124d-462d-ac0d-831c6f69e78e",
+      "input_subject": {
+        "inf_id": "inf:b961765f-124d-462d-ac0d-831c6f69e78e",
+        "label": "tỉnh Bình Phước",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:6cc80c0f-0498-4bae-a913-b5ab7bb80056",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 17,
+          "pdf_page": 3,
+          "predecessor_observation_ids": [
+            "inf:b961765f-124d-462d-ac0d-831c6f69e78e",
+            "inf:700552bc-037d-4910-adc0-1e1d89f35f97"
+          ],
+          "successor_observation_ids": [
+            "inf:26395bb3-f134-40bd-844f-fc99a1d6657c"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "17. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Bình Phước và tỉnh Đồng Nai thành tỉnh mới có tên gọi là\ntỉnh Đồng Nai\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Bình Phước",
+      "search_name": "Bình Phước",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-700552bc-037d-4910-adc0-1e1d89f35f97",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/37",
+      "input_observation_id": "inf:700552bc-037d-4910-adc0-1e1d89f35f97",
+      "input_subject": {
+        "inf_id": "inf:700552bc-037d-4910-adc0-1e1d89f35f97",
+        "label": "tỉnh Đồng Nai",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:6cc80c0f-0498-4bae-a913-b5ab7bb80056",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 17,
+          "pdf_page": 3,
+          "predecessor_observation_ids": [
+            "inf:b961765f-124d-462d-ac0d-831c6f69e78e",
+            "inf:700552bc-037d-4910-adc0-1e1d89f35f97"
+          ],
+          "successor_observation_ids": [
+            "inf:26395bb3-f134-40bd-844f-fc99a1d6657c"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "17. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Bình Phước và tỉnh Đồng Nai thành tỉnh mới có tên gọi là\ntỉnh Đồng Nai\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Đồng Nai",
+      "search_name": "Đồng Nai",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-3a09825a-7bec-427b-bb2b-fc8b2a0bcbdd",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/38",
+      "input_observation_id": "inf:3a09825a-7bec-427b-bb2b-fc8b2a0bcbdd",
+      "input_subject": {
+        "inf_id": "inf:3a09825a-7bec-427b-bb2b-fc8b2a0bcbdd",
+        "label": "tỉnh Long An",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:35ded78e-19c4-4e87-ae01-42ca94bbe7da",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 18,
+          "pdf_page": 3,
+          "predecessor_observation_ids": [
+            "inf:3a09825a-7bec-427b-bb2b-fc8b2a0bcbdd",
+            "inf:69bd5e27-42ca-4860-994f-2168f3cf00f1"
+          ],
+          "successor_observation_ids": [
+            "inf:7a2c9093-b860-419a-9849-11f4a977465a"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "18. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Long An và tỉnh Tây Ninh thành tỉnh mới có tên gọi là\ntỉnh Tây Ninh\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Long An",
+      "search_name": "Long An",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-69bd5e27-42ca-4860-994f-2168f3cf00f1",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/39",
+      "input_observation_id": "inf:69bd5e27-42ca-4860-994f-2168f3cf00f1",
+      "input_subject": {
+        "inf_id": "inf:69bd5e27-42ca-4860-994f-2168f3cf00f1",
+        "label": "tỉnh Tây Ninh",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:35ded78e-19c4-4e87-ae01-42ca94bbe7da",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 18,
+          "pdf_page": 3,
+          "predecessor_observation_ids": [
+            "inf:3a09825a-7bec-427b-bb2b-fc8b2a0bcbdd",
+            "inf:69bd5e27-42ca-4860-994f-2168f3cf00f1"
+          ],
+          "successor_observation_ids": [
+            "inf:7a2c9093-b860-419a-9849-11f4a977465a"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "18. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Long An và tỉnh Tây Ninh thành tỉnh mới có tên gọi là\ntỉnh Tây Ninh\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Tây Ninh",
+      "search_name": "Tây Ninh",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-911b3735-1a84-4c5e-8abc-ee3b8b8c8d60",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/40",
+      "input_observation_id": "inf:911b3735-1a84-4c5e-8abc-ee3b8b8c8d60",
+      "input_subject": {
+        "inf_id": "inf:911b3735-1a84-4c5e-8abc-ee3b8b8c8d60",
+        "label": "thành phố Cần Thơ",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:b7c45b5c-a280-450a-b0c3-db95cc236af8",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 19,
+          "pdf_page": 4,
+          "predecessor_observation_ids": [
+            "inf:911b3735-1a84-4c5e-8abc-ee3b8b8c8d60",
+            "inf:0833216b-21e1-4072-8e44-ea80a196bdf6",
+            "inf:8bcbdce6-2fec-4a16-b879-204d2e6d327c"
+          ],
+          "successor_observation_ids": [
+            "inf:c3369da1-333a-4886-8e1f-105aaadcbc6a"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "19. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thành phố Cần Thơ, tỉnh Sóc Trăng và tỉnh Hậu Giang thành thành phố mới có tên gọi là\nthành phố Cần Thơ\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "thành phố Cần Thơ",
+      "search_name": "Cần Thơ",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-0833216b-21e1-4072-8e44-ea80a196bdf6",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/41",
+      "input_observation_id": "inf:0833216b-21e1-4072-8e44-ea80a196bdf6",
+      "input_subject": {
+        "inf_id": "inf:0833216b-21e1-4072-8e44-ea80a196bdf6",
+        "label": "tỉnh Sóc Trăng",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:b7c45b5c-a280-450a-b0c3-db95cc236af8",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 19,
+          "pdf_page": 4,
+          "predecessor_observation_ids": [
+            "inf:911b3735-1a84-4c5e-8abc-ee3b8b8c8d60",
+            "inf:0833216b-21e1-4072-8e44-ea80a196bdf6",
+            "inf:8bcbdce6-2fec-4a16-b879-204d2e6d327c"
+          ],
+          "successor_observation_ids": [
+            "inf:c3369da1-333a-4886-8e1f-105aaadcbc6a"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "19. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thành phố Cần Thơ, tỉnh Sóc Trăng và tỉnh Hậu Giang thành thành phố mới có tên gọi là\nthành phố Cần Thơ\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Sóc Trăng",
+      "search_name": "Sóc Trăng",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-8bcbdce6-2fec-4a16-b879-204d2e6d327c",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/42",
+      "input_observation_id": "inf:8bcbdce6-2fec-4a16-b879-204d2e6d327c",
+      "input_subject": {
+        "inf_id": "inf:8bcbdce6-2fec-4a16-b879-204d2e6d327c",
+        "label": "tỉnh Hậu Giang",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:b7c45b5c-a280-450a-b0c3-db95cc236af8",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 19,
+          "pdf_page": 4,
+          "predecessor_observation_ids": [
+            "inf:911b3735-1a84-4c5e-8abc-ee3b8b8c8d60",
+            "inf:0833216b-21e1-4072-8e44-ea80a196bdf6",
+            "inf:8bcbdce6-2fec-4a16-b879-204d2e6d327c"
+          ],
+          "successor_observation_ids": [
+            "inf:c3369da1-333a-4886-8e1f-105aaadcbc6a"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "19. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thành phố Cần Thơ, tỉnh Sóc Trăng và tỉnh Hậu Giang thành thành phố mới có tên gọi là\nthành phố Cần Thơ\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Hậu Giang",
+      "search_name": "Hậu Giang",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-d5aa2846-2183-496b-b66f-f23d9f5a8f9a",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/43",
+      "input_observation_id": "inf:d5aa2846-2183-496b-b66f-f23d9f5a8f9a",
+      "input_subject": {
+        "inf_id": "inf:d5aa2846-2183-496b-b66f-f23d9f5a8f9a",
+        "label": "tỉnh Bến Tre",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:a0d426f3-a32d-4f89-b740-8e26fb1de6fd",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 20,
+          "pdf_page": 4,
+          "predecessor_observation_ids": [
+            "inf:d5aa2846-2183-496b-b66f-f23d9f5a8f9a",
+            "inf:cd3fb4df-124b-475d-be16-f67d36d767d5",
+            "inf:31f72a00-09b7-4c82-b5c1-8af4ab0a60d2"
+          ],
+          "successor_observation_ids": [
+            "inf:0e997715-f491-46d6-bbc8-bd94e5585b9d"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "20. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Bến Tre, tỉnh Trà Vinh và tỉnh Vĩnh Long thành tỉnh mới có tên gọi là\ntỉnh Vĩnh Long\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Bến Tre",
+      "search_name": "Bến Tre",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-cd3fb4df-124b-475d-be16-f67d36d767d5",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/44",
+      "input_observation_id": "inf:cd3fb4df-124b-475d-be16-f67d36d767d5",
+      "input_subject": {
+        "inf_id": "inf:cd3fb4df-124b-475d-be16-f67d36d767d5",
+        "label": "tỉnh Trà Vinh",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:a0d426f3-a32d-4f89-b740-8e26fb1de6fd",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 20,
+          "pdf_page": 4,
+          "predecessor_observation_ids": [
+            "inf:d5aa2846-2183-496b-b66f-f23d9f5a8f9a",
+            "inf:cd3fb4df-124b-475d-be16-f67d36d767d5",
+            "inf:31f72a00-09b7-4c82-b5c1-8af4ab0a60d2"
+          ],
+          "successor_observation_ids": [
+            "inf:0e997715-f491-46d6-bbc8-bd94e5585b9d"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "20. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Bến Tre, tỉnh Trà Vinh và tỉnh Vĩnh Long thành tỉnh mới có tên gọi là\ntỉnh Vĩnh Long\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Trà Vinh",
+      "search_name": "Trà Vinh",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-31f72a00-09b7-4c82-b5c1-8af4ab0a60d2",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/45",
+      "input_observation_id": "inf:31f72a00-09b7-4c82-b5c1-8af4ab0a60d2",
+      "input_subject": {
+        "inf_id": "inf:31f72a00-09b7-4c82-b5c1-8af4ab0a60d2",
+        "label": "tỉnh Vĩnh Long",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:a0d426f3-a32d-4f89-b740-8e26fb1de6fd",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 20,
+          "pdf_page": 4,
+          "predecessor_observation_ids": [
+            "inf:d5aa2846-2183-496b-b66f-f23d9f5a8f9a",
+            "inf:cd3fb4df-124b-475d-be16-f67d36d767d5",
+            "inf:31f72a00-09b7-4c82-b5c1-8af4ab0a60d2"
+          ],
+          "successor_observation_ids": [
+            "inf:0e997715-f491-46d6-bbc8-bd94e5585b9d"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "20. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Bến Tre, tỉnh Trà Vinh và tỉnh Vĩnh Long thành tỉnh mới có tên gọi là\ntỉnh Vĩnh Long\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Vĩnh Long",
+      "search_name": "Vĩnh Long",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-804585e0-701c-4f26-9c83-5a49b167e4df",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/46",
+      "input_observation_id": "inf:804585e0-701c-4f26-9c83-5a49b167e4df",
+      "input_subject": {
+        "inf_id": "inf:804585e0-701c-4f26-9c83-5a49b167e4df",
+        "label": "tỉnh Tiền Giang",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:9876abfa-c0f0-4969-83bd-79ab14321a83",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 21,
+          "pdf_page": 4,
+          "predecessor_observation_ids": [
+            "inf:804585e0-701c-4f26-9c83-5a49b167e4df",
+            "inf:b19a826b-361d-471a-b453-2af4d403cb8d"
+          ],
+          "successor_observation_ids": [
+            "inf:df5d06de-fff3-4fcd-8a3d-13e8d2d306f6"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "21. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Tiền Giang và tỉnh Đồng Tháp thành tỉnh mới có tên gọi là\ntỉnh Đồng Tháp\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Tiền Giang",
+      "search_name": "Tiền Giang",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-b19a826b-361d-471a-b453-2af4d403cb8d",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/47",
+      "input_observation_id": "inf:b19a826b-361d-471a-b453-2af4d403cb8d",
+      "input_subject": {
+        "inf_id": "inf:b19a826b-361d-471a-b453-2af4d403cb8d",
+        "label": "tỉnh Đồng Tháp",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:9876abfa-c0f0-4969-83bd-79ab14321a83",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 21,
+          "pdf_page": 4,
+          "predecessor_observation_ids": [
+            "inf:804585e0-701c-4f26-9c83-5a49b167e4df",
+            "inf:b19a826b-361d-471a-b453-2af4d403cb8d"
+          ],
+          "successor_observation_ids": [
+            "inf:df5d06de-fff3-4fcd-8a3d-13e8d2d306f6"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "21. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Tiền Giang và tỉnh Đồng Tháp thành tỉnh mới có tên gọi là\ntỉnh Đồng Tháp\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Đồng Tháp",
+      "search_name": "Đồng Tháp",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-ff4d961e-2632-4874-8b8a-8b56e6803eb8",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/48",
+      "input_observation_id": "inf:ff4d961e-2632-4874-8b8a-8b56e6803eb8",
+      "input_subject": {
+        "inf_id": "inf:ff4d961e-2632-4874-8b8a-8b56e6803eb8",
+        "label": "tỉnh Bạc Liêu",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:675be9dc-d830-42fc-ae74-9345909bfce4",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 22,
+          "pdf_page": 4,
+          "predecessor_observation_ids": [
+            "inf:ff4d961e-2632-4874-8b8a-8b56e6803eb8",
+            "inf:e5fb7371-5cf0-4c77-85bb-e337abdc08f0"
+          ],
+          "successor_observation_ids": [
+            "inf:f9f0970f-57bc-4900-9613-558ea3d2bbca"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "22. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Bạc Liêu và tỉnh Cà Mau thành tỉnh mới có tên gọi là\ntỉnh Cà Mau\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Bạc Liêu",
+      "search_name": "Bạc Liêu",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-e5fb7371-5cf0-4c77-85bb-e337abdc08f0",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/49",
+      "input_observation_id": "inf:e5fb7371-5cf0-4c77-85bb-e337abdc08f0",
+      "input_subject": {
+        "inf_id": "inf:e5fb7371-5cf0-4c77-85bb-e337abdc08f0",
+        "label": "tỉnh Cà Mau",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:675be9dc-d830-42fc-ae74-9345909bfce4",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 22,
+          "pdf_page": 4,
+          "predecessor_observation_ids": [
+            "inf:ff4d961e-2632-4874-8b8a-8b56e6803eb8",
+            "inf:e5fb7371-5cf0-4c77-85bb-e337abdc08f0"
+          ],
+          "successor_observation_ids": [
+            "inf:f9f0970f-57bc-4900-9613-558ea3d2bbca"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "22. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Bạc Liêu và tỉnh Cà Mau thành tỉnh mới có tên gọi là\ntỉnh Cà Mau\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Cà Mau",
+      "search_name": "Cà Mau",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-2831355d-4a59-452e-a5c3-f80a68d931fb",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/50",
+      "input_observation_id": "inf:2831355d-4a59-452e-a5c3-f80a68d931fb",
+      "input_subject": {
+        "inf_id": "inf:2831355d-4a59-452e-a5c3-f80a68d931fb",
+        "label": "tỉnh Kiên Giang",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:e72cca4c-e3bd-40e5-9330-81f8e786a7e9",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 23,
+          "pdf_page": 4,
+          "predecessor_observation_ids": [
+            "inf:2831355d-4a59-452e-a5c3-f80a68d931fb",
+            "inf:0daad321-c6c1-49ca-82df-d925d2fb4299"
+          ],
+          "successor_observation_ids": [
+            "inf:b8a52eac-6aec-4106-8e8d-e12e63701b03"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "23. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Kiên Giang và tỉnh An Giang thành tỉnh mới có tên gọi là\ntỉnh An Giang\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Kiên Giang",
+      "search_name": "Kiên Giang",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-0daad321-c6c1-49ca-82df-d925d2fb4299",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/51",
+      "input_observation_id": "inf:0daad321-c6c1-49ca-82df-d925d2fb4299",
+      "input_subject": {
+        "inf_id": "inf:0daad321-c6c1-49ca-82df-d925d2fb4299",
+        "label": "tỉnh An Giang",
+        "level": "province",
+        "episode": "before-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:e72cca4c-e3bd-40e5-9330-81f8e786a7e9",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 23,
+          "pdf_page": 4,
+          "predecessor_observation_ids": [
+            "inf:2831355d-4a59-452e-a5c3-f80a68d931fb",
+            "inf:0daad321-c6c1-49ca-82df-d925d2fb4299"
+          ],
+          "successor_observation_ids": [
+            "inf:b8a52eac-6aec-4106-8e8d-e12e63701b03"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "23. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Kiên Giang và tỉnh An Giang thành tỉnh mới có tên gọi là\ntỉnh An Giang\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh An Giang",
+      "search_name": "An Giang",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "before-06a054f2-be7a-4902-b601-1ff6e081136c",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/52",
+      "input_observation_id": "inf:06a054f2-be7a-4902-b601-1ff6e081136c",
+      "input_subject": {
+        "inf_id": "inf:06a054f2-be7a-4902-b601-1ff6e081136c",
+        "label": "tỉnh Cao Bằng",
+        "level": "province",
+        "episode": "continuing-across-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [],
+      "label": "tỉnh Cao Bằng",
+      "search_name": "Cao Bằng",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [],
+      "government_operational_on_from_input": []
+    },
+    {
+      "target_id": "before-886684a1-1e22-4c0b-b6d0-f45602ddae7c",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/53",
+      "input_observation_id": "inf:886684a1-1e22-4c0b-b6d0-f45602ddae7c",
+      "input_subject": {
+        "inf_id": "inf:886684a1-1e22-4c0b-b6d0-f45602ddae7c",
+        "label": "tỉnh Điện Biên",
+        "level": "province",
+        "episode": "continuing-across-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [],
+      "label": "tỉnh Điện Biên",
+      "search_name": "Điện Biên",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [],
+      "government_operational_on_from_input": []
+    },
+    {
+      "target_id": "before-f2fecb5e-11a8-4cb2-97f7-a089ac0ecf79",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/54",
+      "input_observation_id": "inf:f2fecb5e-11a8-4cb2-97f7-a089ac0ecf79",
+      "input_subject": {
+        "inf_id": "inf:f2fecb5e-11a8-4cb2-97f7-a089ac0ecf79",
+        "label": "tỉnh Hà Tĩnh",
+        "level": "province",
+        "episode": "continuing-across-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [],
+      "label": "tỉnh Hà Tĩnh",
+      "search_name": "Hà Tĩnh",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [],
+      "government_operational_on_from_input": []
+    },
+    {
+      "target_id": "before-0552144d-8f63-4d7f-ab23-262e100fa112",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/55",
+      "input_observation_id": "inf:0552144d-8f63-4d7f-ab23-262e100fa112",
+      "input_subject": {
+        "inf_id": "inf:0552144d-8f63-4d7f-ab23-262e100fa112",
+        "label": "tỉnh Lai Châu",
+        "level": "province",
+        "episode": "continuing-across-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [],
+      "label": "tỉnh Lai Châu",
+      "search_name": "Lai Châu",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [],
+      "government_operational_on_from_input": []
+    },
+    {
+      "target_id": "before-9c0ae658-883a-41b7-8de3-8e5a08bc6177",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/56",
+      "input_observation_id": "inf:9c0ae658-883a-41b7-8de3-8e5a08bc6177",
+      "input_subject": {
+        "inf_id": "inf:9c0ae658-883a-41b7-8de3-8e5a08bc6177",
+        "label": "tỉnh Lạng Sơn",
+        "level": "province",
+        "episode": "continuing-across-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [],
+      "label": "tỉnh Lạng Sơn",
+      "search_name": "Lạng Sơn",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [],
+      "government_operational_on_from_input": []
+    },
+    {
+      "target_id": "before-d6fd8782-80d8-4d91-986c-254bf2e05ec3",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/57",
+      "input_observation_id": "inf:d6fd8782-80d8-4d91-986c-254bf2e05ec3",
+      "input_subject": {
+        "inf_id": "inf:d6fd8782-80d8-4d91-986c-254bf2e05ec3",
+        "label": "tỉnh Nghệ An",
+        "level": "province",
+        "episode": "continuing-across-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [],
+      "label": "tỉnh Nghệ An",
+      "search_name": "Nghệ An",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [],
+      "government_operational_on_from_input": []
+    },
+    {
+      "target_id": "before-651dfe5c-8dd5-49b4-9bd4-a04148a79ed2",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/58",
+      "input_observation_id": "inf:651dfe5c-8dd5-49b4-9bd4-a04148a79ed2",
+      "input_subject": {
+        "inf_id": "inf:651dfe5c-8dd5-49b4-9bd4-a04148a79ed2",
+        "label": "tỉnh Quảng Ninh",
+        "level": "province",
+        "episode": "continuing-across-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [],
+      "label": "tỉnh Quảng Ninh",
+      "search_name": "Quảng Ninh",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [],
+      "government_operational_on_from_input": []
+    },
+    {
+      "target_id": "before-fbc7cbac-5f23-48a5-a8a4-ab4d2902c2ba",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/59",
+      "input_observation_id": "inf:fbc7cbac-5f23-48a5-a8a4-ab4d2902c2ba",
+      "input_subject": {
+        "inf_id": "inf:fbc7cbac-5f23-48a5-a8a4-ab4d2902c2ba",
+        "label": "tỉnh Thanh Hóa",
+        "level": "province",
+        "episode": "continuing-across-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [],
+      "label": "tỉnh Thanh Hóa",
+      "search_name": "Thanh Hóa",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [],
+      "government_operational_on_from_input": []
+    },
+    {
+      "target_id": "before-3013985e-02d9-45ff-8e7d-c22c53fd39ed",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/60",
+      "input_observation_id": "inf:3013985e-02d9-45ff-8e7d-c22c53fd39ed",
+      "input_subject": {
+        "inf_id": "inf:3013985e-02d9-45ff-8e7d-c22c53fd39ed",
+        "label": "tỉnh Sơn La",
+        "level": "province",
+        "episode": "continuing-across-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [],
+      "label": "tỉnh Sơn La",
+      "search_name": "Sơn La",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [],
+      "government_operational_on_from_input": []
+    },
+    {
+      "target_id": "before-9d6837cd-1196-4073-bb43-85a7ee0cc8e5",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/61",
+      "input_observation_id": "inf:9d6837cd-1196-4073-bb43-85a7ee0cc8e5",
+      "input_subject": {
+        "inf_id": "inf:9d6837cd-1196-4073-bb43-85a7ee0cc8e5",
+        "label": "thành phố Hà Nội",
+        "level": "province",
+        "episode": "continuing-across-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [],
+      "label": "thành phố Hà Nội",
+      "search_name": "Hà Nội",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [],
+      "government_operational_on_from_input": []
+    },
+    {
+      "target_id": "before-c19ff93f-bc7c-4941-908b-1d7dadd26c84",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "before",
+      "input_pointer": "/historical_before_reorganization/62",
+      "input_observation_id": "inf:c19ff93f-bc7c-4941-908b-1d7dadd26c84",
+      "input_subject": {
+        "inf_id": "inf:c19ff93f-bc7c-4941-908b-1d7dadd26c84",
+        "label": "thành phố Huế",
+        "level": "province",
+        "episode": "continuing-across-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [],
+      "label": "thành phố Huế",
+      "search_name": "Huế",
+      "temporal_scope": "immediately_before_nq202_legal_effect",
+      "legal_effective_on_from_input": [],
+      "government_operational_on_from_input": []
+    },
+    {
+      "target_id": "after-54ada0d0-c554-433d-abe0-8ea0929d2f0d",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "after",
+      "input_pointer": "/post_reorganization_baseline/0",
+      "input_observation_id": "inf:54ada0d0-c554-433d-abe0-8ea0929d2f0d",
+      "input_subject": {
+        "inf_id": "inf:54ada0d0-c554-433d-abe0-8ea0929d2f0d",
+        "label": "tỉnh Tuyên Quang",
+        "level": "province",
+        "episode": "formed-by-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:d8e20677-0f17-4059-adce-0f0e7ec9d620",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 1,
+          "pdf_page": 1,
+          "predecessor_observation_ids": [
+            "inf:3e293464-98e1-47b3-8125-cd71a01b0af5",
+            "inf:504ffb57-8afc-46ea-afd6-bd825c3d9d0b"
+          ],
+          "successor_observation_ids": [
+            "inf:54ada0d0-c554-433d-abe0-8ea0929d2f0d"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "1. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Hà Giang và tỉnh Tuyên Quang thành tỉnh mới có tên gọi là\ntỉnh Tuyên Quang\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Tuyên Quang",
+      "search_name": "Tuyên Quang",
+      "temporal_scope": "nq202_post_reorganization_baseline_not_crawl_date_current",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "after-e8f5d888-ee8c-4036-9a83-952367d5668c",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "after",
+      "input_pointer": "/post_reorganization_baseline/1",
+      "input_observation_id": "inf:e8f5d888-ee8c-4036-9a83-952367d5668c",
+      "input_subject": {
+        "inf_id": "inf:e8f5d888-ee8c-4036-9a83-952367d5668c",
+        "label": "tỉnh Lào Cai",
+        "level": "province",
+        "episode": "formed-by-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:4b512014-40c5-4c42-82e1-6242e6da7563",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 2,
+          "pdf_page": 1,
+          "predecessor_observation_ids": [
+            "inf:dc197b73-16aa-4db6-b728-2fd93c6e0e17",
+            "inf:2c7ffbab-578a-46fc-86a1-3df5a0c2b377"
+          ],
+          "successor_observation_ids": [
+            "inf:e8f5d888-ee8c-4036-9a83-952367d5668c"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "2. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Yên Bái và tỉnh Lào Cai thành tỉnh mới có tên gọi là\ntỉnh Lào Cai\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Lào Cai",
+      "search_name": "Lào Cai",
+      "temporal_scope": "nq202_post_reorganization_baseline_not_crawl_date_current",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "after-fdb66544-727f-43ff-877a-511e3651142b",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "after",
+      "input_pointer": "/post_reorganization_baseline/2",
+      "input_observation_id": "inf:fdb66544-727f-43ff-877a-511e3651142b",
+      "input_subject": {
+        "inf_id": "inf:fdb66544-727f-43ff-877a-511e3651142b",
+        "label": "tỉnh Thái Nguyên",
+        "level": "province",
+        "episode": "formed-by-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:070cd98c-3c5a-4d7a-83b9-72652af40d6f",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 3,
+          "pdf_page": 1,
+          "predecessor_observation_ids": [
+            "inf:ba1a543d-db36-4550-961c-6311b68a98af",
+            "inf:f5be51da-1df9-4f18-8b04-5f367ce190fe"
+          ],
+          "successor_observation_ids": [
+            "inf:fdb66544-727f-43ff-877a-511e3651142b"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "3. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Bắc Kạn và tỉnh Thái Nguyên thành tỉnh mới có tên gọi là\ntỉnh Thái Nguyên\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Thái Nguyên",
+      "search_name": "Thái Nguyên",
+      "temporal_scope": "nq202_post_reorganization_baseline_not_crawl_date_current",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "after-1382c005-17ce-4d0a-9b74-228aafee4e73",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "after",
+      "input_pointer": "/post_reorganization_baseline/3",
+      "input_observation_id": "inf:1382c005-17ce-4d0a-9b74-228aafee4e73",
+      "input_subject": {
+        "inf_id": "inf:1382c005-17ce-4d0a-9b74-228aafee4e73",
+        "label": "tỉnh Phú Thọ",
+        "level": "province",
+        "episode": "formed-by-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:5fd31d94-c3c0-4f1e-8a64-23b58eb96db1",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 4,
+          "pdf_page": 1,
+          "predecessor_observation_ids": [
+            "inf:66b2e551-e8af-4c1b-aa8d-1634ff03f566",
+            "inf:8ebca2ae-5502-4e32-839c-7bd9f50e5d83",
+            "inf:a0825807-89c5-45bb-bfc0-6059722cc206"
+          ],
+          "successor_observation_ids": [
+            "inf:1382c005-17ce-4d0a-9b74-228aafee4e73"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "4. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Vĩnh Phúc, tỉnh Hòa Bình và tỉnh Phú Thọ thành tỉnh mới có tên gọi là\ntỉnh Phú Thọ\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Phú Thọ",
+      "search_name": "Phú Thọ",
+      "temporal_scope": "nq202_post_reorganization_baseline_not_crawl_date_current",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "after-140dd32d-ef0e-4309-8fc6-6c3db73e19d1",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "after",
+      "input_pointer": "/post_reorganization_baseline/4",
+      "input_observation_id": "inf:140dd32d-ef0e-4309-8fc6-6c3db73e19d1",
+      "input_subject": {
+        "inf_id": "inf:140dd32d-ef0e-4309-8fc6-6c3db73e19d1",
+        "label": "tỉnh Bắc Ninh",
+        "level": "province",
+        "episode": "formed-by-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:28335a69-98b5-4699-b300-7a63c7bea8a8",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 5,
+          "pdf_page": 2,
+          "predecessor_observation_ids": [
+            "inf:f7449735-fedd-4c6e-94e5-f59fb2f0866a",
+            "inf:4180ccfc-0109-4876-a40e-6dffca08c1eb"
+          ],
+          "successor_observation_ids": [
+            "inf:140dd32d-ef0e-4309-8fc6-6c3db73e19d1"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "5. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Bắc Giang và tỉnh Bắc Ninh thành tỉnh mới có tên gọi là\nBắc Ninh\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Bắc Ninh",
+      "search_name": "Bắc Ninh",
+      "temporal_scope": "nq202_post_reorganization_baseline_not_crawl_date_current",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "after-69bfada8-8d5a-4494-b4a5-06d9d6a4678f",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "after",
+      "input_pointer": "/post_reorganization_baseline/5",
+      "input_observation_id": "inf:69bfada8-8d5a-4494-b4a5-06d9d6a4678f",
+      "input_subject": {
+        "inf_id": "inf:69bfada8-8d5a-4494-b4a5-06d9d6a4678f",
+        "label": "tỉnh Hưng Yên",
+        "level": "province",
+        "episode": "formed-by-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:e33ab127-2ea6-4265-a05c-a24b70e11987",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 6,
+          "pdf_page": 2,
+          "predecessor_observation_ids": [
+            "inf:f0e93617-5e31-42f8-b849-a2a65802cb5f",
+            "inf:210f2492-7de4-4501-9f50-b3dc57735fe4"
+          ],
+          "successor_observation_ids": [
+            "inf:69bfada8-8d5a-4494-b4a5-06d9d6a4678f"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "6. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Thái Bình và tỉnh Hưng Yên thành tỉnh mới có tên gọi là\ntỉnh Hưng Yên\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Hưng Yên",
+      "search_name": "Hưng Yên",
+      "temporal_scope": "nq202_post_reorganization_baseline_not_crawl_date_current",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "after-8440de11-9955-43c0-bb4b-52a400cb49ef",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "after",
+      "input_pointer": "/post_reorganization_baseline/6",
+      "input_observation_id": "inf:8440de11-9955-43c0-bb4b-52a400cb49ef",
+      "input_subject": {
+        "inf_id": "inf:8440de11-9955-43c0-bb4b-52a400cb49ef",
+        "label": "thành phố Hải Phòng",
+        "level": "province",
+        "episode": "formed-by-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:61b814e8-853e-4f48-b2e1-d5cae6052391",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 7,
+          "pdf_page": 2,
+          "predecessor_observation_ids": [
+            "inf:99a27e9e-b6cd-42c6-a366-3940454fe014",
+            "inf:92302357-30b6-4f7e-8f3e-9447c03ca4a8"
+          ],
+          "successor_observation_ids": [
+            "inf:8440de11-9955-43c0-bb4b-52a400cb49ef"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "7. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thành phố Hải Phòng và tỉnh Hải Dương thành thành phố mới có tên gọi là\nthành phố Hải Phòng\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "thành phố Hải Phòng",
+      "search_name": "Hải Phòng",
+      "temporal_scope": "nq202_post_reorganization_baseline_not_crawl_date_current",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "after-8ef013e4-5652-494a-83e0-6336809da66c",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "after",
+      "input_pointer": "/post_reorganization_baseline/7",
+      "input_observation_id": "inf:8ef013e4-5652-494a-83e0-6336809da66c",
+      "input_subject": {
+        "inf_id": "inf:8ef013e4-5652-494a-83e0-6336809da66c",
+        "label": "tỉnh Ninh Bình",
+        "level": "province",
+        "episode": "formed-by-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:91480718-cc3e-4440-ae74-f3b4d5719cb6",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 8,
+          "pdf_page": 2,
+          "predecessor_observation_ids": [
+            "inf:d23772ed-9d1e-4671-9a72-1bdd61bb7aec",
+            "inf:c7c04e40-92fc-4729-9a51-07905ff41f71",
+            "inf:315fb257-8efa-4dd9-903c-8ab863ed267a"
+          ],
+          "successor_observation_ids": [
+            "inf:8ef013e4-5652-494a-83e0-6336809da66c"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "8. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Hà Nam, tỉnh Nam Định và tỉnh Ninh Bình thành tỉnh mới có tên gọi là\ntỉnh Ninh Bình\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Ninh Bình",
+      "search_name": "Ninh Bình",
+      "temporal_scope": "nq202_post_reorganization_baseline_not_crawl_date_current",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "after-39a615da-cad1-42ce-b5e0-dede80a3524e",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "after",
+      "input_pointer": "/post_reorganization_baseline/8",
+      "input_observation_id": "inf:39a615da-cad1-42ce-b5e0-dede80a3524e",
+      "input_subject": {
+        "inf_id": "inf:39a615da-cad1-42ce-b5e0-dede80a3524e",
+        "label": "tỉnh Quảng Trị",
+        "level": "province",
+        "episode": "formed-by-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:fbbee4c6-7dc7-44a8-bcf3-3c5927fbc07d",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 9,
+          "pdf_page": 2,
+          "predecessor_observation_ids": [
+            "inf:2400e0b3-1336-492c-9314-b130271de54e",
+            "inf:008d4d64-6e0a-4ee9-baa0-b94aa903cf69"
+          ],
+          "successor_observation_ids": [
+            "inf:39a615da-cad1-42ce-b5e0-dede80a3524e"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "9. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Quảng Bình và tỉnh Quảng Trị thành tỉnh mới có tên gọi là\ntỉnh Quảng Trị\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Quảng Trị",
+      "search_name": "Quảng Trị",
+      "temporal_scope": "nq202_post_reorganization_baseline_not_crawl_date_current",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "after-3fe520e0-442b-47ad-bb5c-773359b64a2f",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "after",
+      "input_pointer": "/post_reorganization_baseline/9",
+      "input_observation_id": "inf:3fe520e0-442b-47ad-bb5c-773359b64a2f",
+      "input_subject": {
+        "inf_id": "inf:3fe520e0-442b-47ad-bb5c-773359b64a2f",
+        "label": "thành phố Đà Nẵng",
+        "level": "province",
+        "episode": "formed-by-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:86bef493-1194-43b2-8209-fd547e266edd",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 10,
+          "pdf_page": 2,
+          "predecessor_observation_ids": [
+            "inf:0f3c29bb-1697-4473-93bc-57cf0bd75b8f",
+            "inf:d1405a58-a656-4515-a3b9-7a6bf698601b"
+          ],
+          "successor_observation_ids": [
+            "inf:3fe520e0-442b-47ad-bb5c-773359b64a2f"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "10. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thành phố Đà Nẵng và tỉnh Quảng Nam thành thành phố mới có tên gọi là\nthành phố Đà Nẵng\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "thành phố Đà Nẵng",
+      "search_name": "Đà Nẵng",
+      "temporal_scope": "nq202_post_reorganization_baseline_not_crawl_date_current",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "after-ffa329b1-2301-4d14-9a51-26002353068e",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "after",
+      "input_pointer": "/post_reorganization_baseline/10",
+      "input_observation_id": "inf:ffa329b1-2301-4d14-9a51-26002353068e",
+      "input_subject": {
+        "inf_id": "inf:ffa329b1-2301-4d14-9a51-26002353068e",
+        "label": "tỉnh Quảng Ngãi",
+        "level": "province",
+        "episode": "formed-by-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:2a9b3f76-332e-47f5-ae84-29fef450fe65",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 11,
+          "pdf_page": 2,
+          "predecessor_observation_ids": [
+            "inf:b3f479fe-ef82-49bd-b7e5-f12955f58450",
+            "inf:6b88788a-d98c-4b2f-95c1-fe0db56e737e"
+          ],
+          "successor_observation_ids": [
+            "inf:ffa329b1-2301-4d14-9a51-26002353068e"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "11. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Kon Tum và tỉnh Quảng Ngãi thành tỉnh mới có tên gọi là\ntỉnh Quảng Ngãi\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Quảng Ngãi",
+      "search_name": "Quảng Ngãi",
+      "temporal_scope": "nq202_post_reorganization_baseline_not_crawl_date_current",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "after-01f21d1a-e83c-4043-ab0c-ab72d8c47f2f",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "after",
+      "input_pointer": "/post_reorganization_baseline/11",
+      "input_observation_id": "inf:01f21d1a-e83c-4043-ab0c-ab72d8c47f2f",
+      "input_subject": {
+        "inf_id": "inf:01f21d1a-e83c-4043-ab0c-ab72d8c47f2f",
+        "label": "tỉnh Gia Lai",
+        "level": "province",
+        "episode": "formed-by-nq202",
+        "canonical_identity_status": "linked_to_existing_authority_v4",
+        "canonical_territory_inf_id": "inf:0778f289-8d50-418d-bb79-535b7b015085"
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:e41b627a-6ef1-472d-ad46-b4aef6681d9c",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 12,
+          "pdf_page": 3,
+          "predecessor_observation_ids": [
+            "inf:b43098d0-f25d-410f-ac08-760408dda032",
+            "inf:d6fba89f-0084-4883-b4dd-0c4a4012780d"
+          ],
+          "successor_observation_ids": [
+            "inf:01f21d1a-e83c-4043-ab0c-ab72d8c47f2f"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "12. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Bình Định và tỉnh Gia Lai thành tỉnh mới có tên gọi là\ntỉnh Gia Lai\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Gia Lai",
+      "search_name": "Gia Lai",
+      "temporal_scope": "nq202_post_reorganization_baseline_not_crawl_date_current",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "after-0561c911-7b42-478c-b230-33e6249b65e3",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "after",
+      "input_pointer": "/post_reorganization_baseline/12",
+      "input_observation_id": "inf:0561c911-7b42-478c-b230-33e6249b65e3",
+      "input_subject": {
+        "inf_id": "inf:0561c911-7b42-478c-b230-33e6249b65e3",
+        "label": "tỉnh Khánh Hòa",
+        "level": "province",
+        "episode": "formed-by-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:b6313071-bd06-4b23-8cd2-3b5e1566968c",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 13,
+          "pdf_page": 3,
+          "predecessor_observation_ids": [
+            "inf:db0553c5-a89f-4616-9053-cb5c725846ec",
+            "inf:149a9569-bdfa-4472-9d70-98500bd61bfb"
+          ],
+          "successor_observation_ids": [
+            "inf:0561c911-7b42-478c-b230-33e6249b65e3"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "13. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Ninh Thuận và tỉnh Khánh Hòa thành tỉnh mới có tên gọi là\ntỉnh Khánh Hòa\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Khánh Hòa",
+      "search_name": "Khánh Hòa",
+      "temporal_scope": "nq202_post_reorganization_baseline_not_crawl_date_current",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "after-d1e3973c-16fd-4e9f-acd8-4724176fbcae",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "after",
+      "input_pointer": "/post_reorganization_baseline/13",
+      "input_observation_id": "inf:d1e3973c-16fd-4e9f-acd8-4724176fbcae",
+      "input_subject": {
+        "inf_id": "inf:d1e3973c-16fd-4e9f-acd8-4724176fbcae",
+        "label": "tỉnh Lâm Đồng",
+        "level": "province",
+        "episode": "formed-by-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:923ff208-c5eb-47fd-ab08-7c16c9074d59",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 14,
+          "pdf_page": 3,
+          "predecessor_observation_ids": [
+            "inf:a75cdf18-847d-4f99-8780-77d7d02a9b8a",
+            "inf:b79cd411-11c3-4c73-b7ff-1fe6fa1f318c",
+            "inf:bdd0ffed-6d5c-42f5-b7d4-48ef3bc80dee"
+          ],
+          "successor_observation_ids": [
+            "inf:d1e3973c-16fd-4e9f-acd8-4724176fbcae"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "14. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Đắk Nông, tỉnh Bình Thuận và tỉnh Lâm Đồng thành tỉnh mới có tên gọi là\ntỉnh Lâm Đồng\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Lâm Đồng",
+      "search_name": "Lâm Đồng",
+      "temporal_scope": "nq202_post_reorganization_baseline_not_crawl_date_current",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "after-bcffd08e-12a7-4e9c-b744-317d81aeb51a",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "after",
+      "input_pointer": "/post_reorganization_baseline/14",
+      "input_observation_id": "inf:bcffd08e-12a7-4e9c-b744-317d81aeb51a",
+      "input_subject": {
+        "inf_id": "inf:bcffd08e-12a7-4e9c-b744-317d81aeb51a",
+        "label": "tỉnh Đắk Lắk",
+        "level": "province",
+        "episode": "formed-by-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:d59c69cc-83da-43b9-9608-91c858df22c2",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 15,
+          "pdf_page": 3,
+          "predecessor_observation_ids": [
+            "inf:b94949cd-4602-44e1-bf74-4c435939187e",
+            "inf:f63954a1-bd8a-404b-bd43-4d9a3d82c359"
+          ],
+          "successor_observation_ids": [
+            "inf:bcffd08e-12a7-4e9c-b744-317d81aeb51a"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "15. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Phú Yên và tỉnh Đắk Lắk thành tỉnh mới có tên gọi là\ntỉnh Đắk Lắk\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Đắk Lắk",
+      "search_name": "Đắk Lắk",
+      "temporal_scope": "nq202_post_reorganization_baseline_not_crawl_date_current",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "after-99de8263-bc71-4bce-9d69-50364c38af02",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "after",
+      "input_pointer": "/post_reorganization_baseline/15",
+      "input_observation_id": "inf:99de8263-bc71-4bce-9d69-50364c38af02",
+      "input_subject": {
+        "inf_id": "inf:99de8263-bc71-4bce-9d69-50364c38af02",
+        "label": "Thành phố Hồ Chí Minh",
+        "level": "province",
+        "episode": "formed-by-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:aa836a22-4c0e-4cea-8227-54aaf2008964",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 16,
+          "pdf_page": 3,
+          "predecessor_observation_ids": [
+            "inf:d0eb00f7-20a7-4b13-988a-f2181a7cea65",
+            "inf:e4824342-5c8a-4edc-88eb-c79ea20ec6b9",
+            "inf:9df78c95-439a-4880-87d7-c9a663ce4e17"
+          ],
+          "successor_observation_ids": [
+            "inf:99de8263-bc71-4bce-9d69-50364c38af02"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "16. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của Thành phố Hồ Chí Minh, tỉnh Bà Rịa - Vũng Tàu và tỉnh Bình Dương thành thành phố mới có tên gọi là\nThành phố Hồ Chí Minh\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "Thành phố Hồ Chí Minh",
+      "search_name": "Thành phố Hồ Chí Minh",
+      "temporal_scope": "nq202_post_reorganization_baseline_not_crawl_date_current",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "after-26395bb3-f134-40bd-844f-fc99a1d6657c",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "after",
+      "input_pointer": "/post_reorganization_baseline/16",
+      "input_observation_id": "inf:26395bb3-f134-40bd-844f-fc99a1d6657c",
+      "input_subject": {
+        "inf_id": "inf:26395bb3-f134-40bd-844f-fc99a1d6657c",
+        "label": "tỉnh Đồng Nai",
+        "level": "province",
+        "episode": "formed-by-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:6cc80c0f-0498-4bae-a913-b5ab7bb80056",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 17,
+          "pdf_page": 3,
+          "predecessor_observation_ids": [
+            "inf:b961765f-124d-462d-ac0d-831c6f69e78e",
+            "inf:700552bc-037d-4910-adc0-1e1d89f35f97"
+          ],
+          "successor_observation_ids": [
+            "inf:26395bb3-f134-40bd-844f-fc99a1d6657c"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "17. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Bình Phước và tỉnh Đồng Nai thành tỉnh mới có tên gọi là\ntỉnh Đồng Nai\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Đồng Nai",
+      "search_name": "Đồng Nai",
+      "temporal_scope": "nq202_post_reorganization_baseline_not_crawl_date_current",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "after-7a2c9093-b860-419a-9849-11f4a977465a",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "after",
+      "input_pointer": "/post_reorganization_baseline/17",
+      "input_observation_id": "inf:7a2c9093-b860-419a-9849-11f4a977465a",
+      "input_subject": {
+        "inf_id": "inf:7a2c9093-b860-419a-9849-11f4a977465a",
+        "label": "tỉnh Tây Ninh",
+        "level": "province",
+        "episode": "formed-by-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:35ded78e-19c4-4e87-ae01-42ca94bbe7da",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 18,
+          "pdf_page": 3,
+          "predecessor_observation_ids": [
+            "inf:3a09825a-7bec-427b-bb2b-fc8b2a0bcbdd",
+            "inf:69bd5e27-42ca-4860-994f-2168f3cf00f1"
+          ],
+          "successor_observation_ids": [
+            "inf:7a2c9093-b860-419a-9849-11f4a977465a"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "18. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Long An và tỉnh Tây Ninh thành tỉnh mới có tên gọi là\ntỉnh Tây Ninh\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Tây Ninh",
+      "search_name": "Tây Ninh",
+      "temporal_scope": "nq202_post_reorganization_baseline_not_crawl_date_current",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "after-c3369da1-333a-4886-8e1f-105aaadcbc6a",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "after",
+      "input_pointer": "/post_reorganization_baseline/18",
+      "input_observation_id": "inf:c3369da1-333a-4886-8e1f-105aaadcbc6a",
+      "input_subject": {
+        "inf_id": "inf:c3369da1-333a-4886-8e1f-105aaadcbc6a",
+        "label": "thành phố Cần Thơ",
+        "level": "province",
+        "episode": "formed-by-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:b7c45b5c-a280-450a-b0c3-db95cc236af8",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 19,
+          "pdf_page": 4,
+          "predecessor_observation_ids": [
+            "inf:911b3735-1a84-4c5e-8abc-ee3b8b8c8d60",
+            "inf:0833216b-21e1-4072-8e44-ea80a196bdf6",
+            "inf:8bcbdce6-2fec-4a16-b879-204d2e6d327c"
+          ],
+          "successor_observation_ids": [
+            "inf:c3369da1-333a-4886-8e1f-105aaadcbc6a"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "19. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thành phố Cần Thơ, tỉnh Sóc Trăng và tỉnh Hậu Giang thành thành phố mới có tên gọi là\nthành phố Cần Thơ\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "thành phố Cần Thơ",
+      "search_name": "Cần Thơ",
+      "temporal_scope": "nq202_post_reorganization_baseline_not_crawl_date_current",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "after-0e997715-f491-46d6-bbc8-bd94e5585b9d",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "after",
+      "input_pointer": "/post_reorganization_baseline/19",
+      "input_observation_id": "inf:0e997715-f491-46d6-bbc8-bd94e5585b9d",
+      "input_subject": {
+        "inf_id": "inf:0e997715-f491-46d6-bbc8-bd94e5585b9d",
+        "label": "tỉnh Vĩnh Long",
+        "level": "province",
+        "episode": "formed-by-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:a0d426f3-a32d-4f89-b740-8e26fb1de6fd",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 20,
+          "pdf_page": 4,
+          "predecessor_observation_ids": [
+            "inf:d5aa2846-2183-496b-b66f-f23d9f5a8f9a",
+            "inf:cd3fb4df-124b-475d-be16-f67d36d767d5",
+            "inf:31f72a00-09b7-4c82-b5c1-8af4ab0a60d2"
+          ],
+          "successor_observation_ids": [
+            "inf:0e997715-f491-46d6-bbc8-bd94e5585b9d"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "20. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Bến Tre, tỉnh Trà Vinh và tỉnh Vĩnh Long thành tỉnh mới có tên gọi là\ntỉnh Vĩnh Long\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Vĩnh Long",
+      "search_name": "Vĩnh Long",
+      "temporal_scope": "nq202_post_reorganization_baseline_not_crawl_date_current",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "after-df5d06de-fff3-4fcd-8a3d-13e8d2d306f6",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "after",
+      "input_pointer": "/post_reorganization_baseline/20",
+      "input_observation_id": "inf:df5d06de-fff3-4fcd-8a3d-13e8d2d306f6",
+      "input_subject": {
+        "inf_id": "inf:df5d06de-fff3-4fcd-8a3d-13e8d2d306f6",
+        "label": "tỉnh Đồng Tháp",
+        "level": "province",
+        "episode": "formed-by-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:9876abfa-c0f0-4969-83bd-79ab14321a83",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 21,
+          "pdf_page": 4,
+          "predecessor_observation_ids": [
+            "inf:804585e0-701c-4f26-9c83-5a49b167e4df",
+            "inf:b19a826b-361d-471a-b453-2af4d403cb8d"
+          ],
+          "successor_observation_ids": [
+            "inf:df5d06de-fff3-4fcd-8a3d-13e8d2d306f6"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "21. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Tiền Giang và tỉnh Đồng Tháp thành tỉnh mới có tên gọi là\ntỉnh Đồng Tháp\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Đồng Tháp",
+      "search_name": "Đồng Tháp",
+      "temporal_scope": "nq202_post_reorganization_baseline_not_crawl_date_current",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "after-f9f0970f-57bc-4900-9613-558ea3d2bbca",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "after",
+      "input_pointer": "/post_reorganization_baseline/21",
+      "input_observation_id": "inf:f9f0970f-57bc-4900-9613-558ea3d2bbca",
+      "input_subject": {
+        "inf_id": "inf:f9f0970f-57bc-4900-9613-558ea3d2bbca",
+        "label": "tỉnh Cà Mau",
+        "level": "province",
+        "episode": "formed-by-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:675be9dc-d830-42fc-ae74-9345909bfce4",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 22,
+          "pdf_page": 4,
+          "predecessor_observation_ids": [
+            "inf:ff4d961e-2632-4874-8b8a-8b56e6803eb8",
+            "inf:e5fb7371-5cf0-4c77-85bb-e337abdc08f0"
+          ],
+          "successor_observation_ids": [
+            "inf:f9f0970f-57bc-4900-9613-558ea3d2bbca"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "22. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Bạc Liêu và tỉnh Cà Mau thành tỉnh mới có tên gọi là\ntỉnh Cà Mau\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh Cà Mau",
+      "search_name": "Cà Mau",
+      "temporal_scope": "nq202_post_reorganization_baseline_not_crawl_date_current",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "after-b8a52eac-6aec-4106-8e8d-e12e63701b03",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "after",
+      "input_pointer": "/post_reorganization_baseline/22",
+      "input_observation_id": "inf:b8a52eac-6aec-4106-8e8d-e12e63701b03",
+      "input_subject": {
+        "inf_id": "inf:b8a52eac-6aec-4106-8e8d-e12e63701b03",
+        "label": "tỉnh An Giang",
+        "level": "province",
+        "episode": "formed-by-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [
+        {
+          "inf_id": "inf:e72cca4c-e3bd-40e5-9330-81f8e786a7e9",
+          "event_type": "whole_units_merge",
+          "article": 1,
+          "clause": 23,
+          "pdf_page": 4,
+          "predecessor_observation_ids": [
+            "inf:2831355d-4a59-452e-a5c3-f80a68d931fb",
+            "inf:0daad321-c6c1-49ca-82df-d925d2fb4299"
+          ],
+          "successor_observation_ids": [
+            "inf:b8a52eac-6aec-4106-8e8d-e12e63701b03"
+          ],
+          "legal_effective_on": "2025-06-12",
+          "operational_on": "2025-07-01",
+          "evidence_excerpt": "23. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Kiên Giang và tỉnh An Giang thành tỉnh mới có tên gọi là\ntỉnh An Giang\n",
+          "status": "source_supported_observation_not_runtime_authority"
+        }
+      ],
+      "label": "tỉnh An Giang",
+      "search_name": "An Giang",
+      "temporal_scope": "nq202_post_reorganization_baseline_not_crawl_date_current",
+      "legal_effective_on_from_input": [
+        "2025-06-12"
+      ],
+      "government_operational_on_from_input": [
+        "2025-07-01"
+      ]
+    },
+    {
+      "target_id": "after-06a054f2-be7a-4902-b601-1ff6e081136c",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "after",
+      "input_pointer": "/post_reorganization_baseline/23",
+      "input_observation_id": "inf:06a054f2-be7a-4902-b601-1ff6e081136c",
+      "input_subject": {
+        "inf_id": "inf:06a054f2-be7a-4902-b601-1ff6e081136c",
+        "label": "tỉnh Cao Bằng",
+        "level": "province",
+        "episode": "continuing-across-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [],
+      "label": "tỉnh Cao Bằng",
+      "search_name": "Cao Bằng",
+      "temporal_scope": "nq202_post_reorganization_baseline_not_crawl_date_current",
+      "legal_effective_on_from_input": [],
+      "government_operational_on_from_input": []
+    },
+    {
+      "target_id": "after-886684a1-1e22-4c0b-b6d0-f45602ddae7c",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "after",
+      "input_pointer": "/post_reorganization_baseline/24",
+      "input_observation_id": "inf:886684a1-1e22-4c0b-b6d0-f45602ddae7c",
+      "input_subject": {
+        "inf_id": "inf:886684a1-1e22-4c0b-b6d0-f45602ddae7c",
+        "label": "tỉnh Điện Biên",
+        "level": "province",
+        "episode": "continuing-across-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [],
+      "label": "tỉnh Điện Biên",
+      "search_name": "Điện Biên",
+      "temporal_scope": "nq202_post_reorganization_baseline_not_crawl_date_current",
+      "legal_effective_on_from_input": [],
+      "government_operational_on_from_input": []
+    },
+    {
+      "target_id": "after-f2fecb5e-11a8-4cb2-97f7-a089ac0ecf79",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "after",
+      "input_pointer": "/post_reorganization_baseline/25",
+      "input_observation_id": "inf:f2fecb5e-11a8-4cb2-97f7-a089ac0ecf79",
+      "input_subject": {
+        "inf_id": "inf:f2fecb5e-11a8-4cb2-97f7-a089ac0ecf79",
+        "label": "tỉnh Hà Tĩnh",
+        "level": "province",
+        "episode": "continuing-across-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [],
+      "label": "tỉnh Hà Tĩnh",
+      "search_name": "Hà Tĩnh",
+      "temporal_scope": "nq202_post_reorganization_baseline_not_crawl_date_current",
+      "legal_effective_on_from_input": [],
+      "government_operational_on_from_input": []
+    },
+    {
+      "target_id": "after-0552144d-8f63-4d7f-ab23-262e100fa112",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "after",
+      "input_pointer": "/post_reorganization_baseline/26",
+      "input_observation_id": "inf:0552144d-8f63-4d7f-ab23-262e100fa112",
+      "input_subject": {
+        "inf_id": "inf:0552144d-8f63-4d7f-ab23-262e100fa112",
+        "label": "tỉnh Lai Châu",
+        "level": "province",
+        "episode": "continuing-across-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [],
+      "label": "tỉnh Lai Châu",
+      "search_name": "Lai Châu",
+      "temporal_scope": "nq202_post_reorganization_baseline_not_crawl_date_current",
+      "legal_effective_on_from_input": [],
+      "government_operational_on_from_input": []
+    },
+    {
+      "target_id": "after-9c0ae658-883a-41b7-8de3-8e5a08bc6177",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "after",
+      "input_pointer": "/post_reorganization_baseline/27",
+      "input_observation_id": "inf:9c0ae658-883a-41b7-8de3-8e5a08bc6177",
+      "input_subject": {
+        "inf_id": "inf:9c0ae658-883a-41b7-8de3-8e5a08bc6177",
+        "label": "tỉnh Lạng Sơn",
+        "level": "province",
+        "episode": "continuing-across-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [],
+      "label": "tỉnh Lạng Sơn",
+      "search_name": "Lạng Sơn",
+      "temporal_scope": "nq202_post_reorganization_baseline_not_crawl_date_current",
+      "legal_effective_on_from_input": [],
+      "government_operational_on_from_input": []
+    },
+    {
+      "target_id": "after-d6fd8782-80d8-4d91-986c-254bf2e05ec3",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "after",
+      "input_pointer": "/post_reorganization_baseline/28",
+      "input_observation_id": "inf:d6fd8782-80d8-4d91-986c-254bf2e05ec3",
+      "input_subject": {
+        "inf_id": "inf:d6fd8782-80d8-4d91-986c-254bf2e05ec3",
+        "label": "tỉnh Nghệ An",
+        "level": "province",
+        "episode": "continuing-across-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [],
+      "label": "tỉnh Nghệ An",
+      "search_name": "Nghệ An",
+      "temporal_scope": "nq202_post_reorganization_baseline_not_crawl_date_current",
+      "legal_effective_on_from_input": [],
+      "government_operational_on_from_input": []
+    },
+    {
+      "target_id": "after-651dfe5c-8dd5-49b4-9bd4-a04148a79ed2",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "after",
+      "input_pointer": "/post_reorganization_baseline/29",
+      "input_observation_id": "inf:651dfe5c-8dd5-49b4-9bd4-a04148a79ed2",
+      "input_subject": {
+        "inf_id": "inf:651dfe5c-8dd5-49b4-9bd4-a04148a79ed2",
+        "label": "tỉnh Quảng Ninh",
+        "level": "province",
+        "episode": "continuing-across-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [],
+      "label": "tỉnh Quảng Ninh",
+      "search_name": "Quảng Ninh",
+      "temporal_scope": "nq202_post_reorganization_baseline_not_crawl_date_current",
+      "legal_effective_on_from_input": [],
+      "government_operational_on_from_input": []
+    },
+    {
+      "target_id": "after-fbc7cbac-5f23-48a5-a8a4-ab4d2902c2ba",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "after",
+      "input_pointer": "/post_reorganization_baseline/30",
+      "input_observation_id": "inf:fbc7cbac-5f23-48a5-a8a4-ab4d2902c2ba",
+      "input_subject": {
+        "inf_id": "inf:fbc7cbac-5f23-48a5-a8a4-ab4d2902c2ba",
+        "label": "tỉnh Thanh Hóa",
+        "level": "province",
+        "episode": "continuing-across-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [],
+      "label": "tỉnh Thanh Hóa",
+      "search_name": "Thanh Hóa",
+      "temporal_scope": "nq202_post_reorganization_baseline_not_crawl_date_current",
+      "legal_effective_on_from_input": [],
+      "government_operational_on_from_input": []
+    },
+    {
+      "target_id": "after-3013985e-02d9-45ff-8e7d-c22c53fd39ed",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "after",
+      "input_pointer": "/post_reorganization_baseline/31",
+      "input_observation_id": "inf:3013985e-02d9-45ff-8e7d-c22c53fd39ed",
+      "input_subject": {
+        "inf_id": "inf:3013985e-02d9-45ff-8e7d-c22c53fd39ed",
+        "label": "tỉnh Sơn La",
+        "level": "province",
+        "episode": "continuing-across-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [],
+      "label": "tỉnh Sơn La",
+      "search_name": "Sơn La",
+      "temporal_scope": "nq202_post_reorganization_baseline_not_crawl_date_current",
+      "legal_effective_on_from_input": [],
+      "government_operational_on_from_input": []
+    },
+    {
+      "target_id": "after-9d6837cd-1196-4073-bb43-85a7ee0cc8e5",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "after",
+      "input_pointer": "/post_reorganization_baseline/32",
+      "input_observation_id": "inf:9d6837cd-1196-4073-bb43-85a7ee0cc8e5",
+      "input_subject": {
+        "inf_id": "inf:9d6837cd-1196-4073-bb43-85a7ee0cc8e5",
+        "label": "thành phố Hà Nội",
+        "level": "province",
+        "episode": "continuing-across-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [],
+      "label": "thành phố Hà Nội",
+      "search_name": "Hà Nội",
+      "temporal_scope": "nq202_post_reorganization_baseline_not_crawl_date_current",
+      "legal_effective_on_from_input": [],
+      "government_operational_on_from_input": []
+    },
+    {
+      "target_id": "after-c19ff93f-bc7c-4941-908b-1d7dadd26c84",
+      "target_id_namespace": "RAW staging only; not an INF identity",
+      "phase": "after",
+      "input_pointer": "/post_reorganization_baseline/33",
+      "input_observation_id": "inf:c19ff93f-bc7c-4941-908b-1d7dadd26c84",
+      "input_subject": {
+        "inf_id": "inf:c19ff93f-bc7c-4941-908b-1d7dadd26c84",
+        "label": "thành phố Huế",
+        "level": "province",
+        "episode": "continuing-across-nq202",
+        "canonical_identity_status": "pending_resolution",
+        "canonical_territory_inf_id": null
+      },
+      "input_events": [],
+      "label": "thành phố Huế",
+      "search_name": "Huế",
+      "temporal_scope": "nq202_post_reorganization_baseline_not_crawl_date_current",
+      "legal_effective_on_from_input": [],
+      "government_operational_on_from_input": []
+    }
+  ]
+}

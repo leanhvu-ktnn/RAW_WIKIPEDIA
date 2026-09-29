@@ -1,0 +1,26 @@
+{
+  "request_url": "https://vi.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&inprop=url&maxlag=5&ppprop=wikibase_item%7Cdisambiguation&prop=info%7Cpageprops&redirects=1&titles=B%C3%A0+R%E1%BB%8Ba+-+V%C5%A9ng+T%C3%A0u%7CB%C3%A0+R%E1%BB%8Ba+-+V%C5%A9ng+T%C3%A0u+%28t%E1%BB%89nh%29%7CB%C3%A0+R%E1%BB%8Ba+-+V%C5%A9ng+T%C3%A0u+%28t%E1%BB%89nh+c%C5%A9%29%7CB%C3%A0+R%E1%BB%8Ba+-+V%C5%A9ng+T%C3%A0u+%28tr%C6%B0%E1%BB%9Bc+2025%29",
+  "params": {
+    "format": "json",
+    "formatversion": "2",
+    "maxlag": 5,
+    "action": "query",
+    "titles": "Bà Rịa - Vũng Tàu|Bà Rịa - Vũng Tàu (tỉnh)|Bà Rịa - Vũng Tàu (tỉnh cũ)|Bà Rịa - Vũng Tàu (trước 2025)",
+    "redirects": 1,
+    "prop": "info|pageprops",
+    "inprop": "url",
+    "ppprop": "wikibase_item|disambiguation"
+  },
+  "retrieved_at": "2026-09-29T15:26:50.325665Z",
+  "http_status": 200,
+  "headers": {
+    "date": "Tue, 29 Sep 2026 15:26:50 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2221"
+  },
+  "path": "sources/responses/f8e35b239fd01de6f5c56da745b89eec00b7b67ed8013e19161f7f84ef8d3eec.json",
+  "sha256": "f8e35b239fd01de6f5c56da745b89eec00b7b67ed8013e19161f7f84ef8d3eec",
+  "byte_length": 2221,
+  "media_type": "application/json",
+  "representation": "unmodified MediaWiki HTTP response body bytes"
+}

@@ -1,0 +1,26 @@
+{
+  "request_url": "https://vi.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&inprop=url&maxlag=5&ppprop=wikibase_item%7Cdisambiguation&prop=info%7Cpageprops&redirects=1&titles=Cao+B%E1%BA%B1ng%7CCao+B%E1%BA%B1ng+%28t%E1%BB%89nh%29%7CCao+B%E1%BA%B1ng+%28t%E1%BB%89nh+c%C5%A9%29%7CCao+B%E1%BA%B1ng+%28tr%C6%B0%E1%BB%9Bc+2025%29",
+  "params": {
+    "format": "json",
+    "formatversion": "2",
+    "maxlag": 5,
+    "action": "query",
+    "titles": "Cao Bằng|Cao Bằng (tỉnh)|Cao Bằng (tỉnh cũ)|Cao Bằng (trước 2025)",
+    "redirects": 1,
+    "prop": "info|pageprops",
+    "inprop": "url",
+    "ppprop": "wikibase_item|disambiguation"
+  },
+  "retrieved_at": "2026-09-29T15:27:51.512146Z",
+  "http_status": 200,
+  "headers": {
+    "date": "Tue, 29 Sep 2026 15:27:51 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1777"
+  },
+  "path": "sources/responses/42a37606f76acb4561c7d69161f65bcfe6ed04c240711e827acb115f49d4fb31.json",
+  "sha256": "42a37606f76acb4561c7d69161f65bcfe6ed04c240711e827acb115f49d4fb31",
+  "byte_length": 1777,
+  "media_type": "application/json",
+  "representation": "unmodified MediaWiki HTTP response body bytes"
+}

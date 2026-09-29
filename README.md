@@ -2,7 +2,7 @@
 
 Corpus Wikipedia tiếng Việt để **đối chiếu** địa bàn và cơ quan Việt Nam; không thay thế danh mục tên/mã hành chính chính thức.
 
-**Trạng thái 29/09/2026:** có dữ liệu legacy và công cụ kiểm kê offline; chưa có crawler độc lập, chưa đủ điều kiện crawl mở rộng. Có lỗi ghép thực thể và thiếu provenance cần xử lý. Skill là hướng dẫn cho agent, không phải crawler đã triển khai.
+**Trạng thái 29/09/2026:** đã triển khai downloader tối thiểu và thu thập 97 target tỉnh trước/sau NQ202/2025, có revision, trích đoạn và kiểm định checksum. [Gói bàn giao](packages/province-before-after-2025/report.md) độc lập với corpus legacy còn lỗi. Công cụ này có phạm vi tỉnh năm 2025; chưa phải crawler production tổng quát.
 
 - [Báo cáo nghiên cứu và đánh giá](context/nghien-cuu-2026-09-29.md)
 - [Mục tiêu, quy chuẩn và tiêu chí nghiệm thu](context/quy-chuan-crawl.md)
@@ -47,3 +47,7 @@ python3 -m venv .venv
 ## Trao đổi với INF
 
 **Địa bàn trước, cơ quan sau.** INF khai báo nhu cầu; RAW tìm, lưu bản nguồn và báo cáo, không ghi INF. [Hợp đồng đề xuất 0.1.0](context/trao-doi-inf-raw.md) có JSON Schema, fixture và kiểm định offline; chưa có tích hợp/crawl production.
+
+## Ranh giới nhận dữ liệu
+
+INF chủ động chuyển request và payload vào inbox RAW; RAW không đọc, tìm kiếm hoặc tải dữ liệu từ IN/INF. Chỉ dùng dữ liệu đã nhận hoặc input RAW đã đóng băng. [Quy chuẩn push-only](context/trao-doi-inf-raw.md) và [đề xuất website địa bàn/cơ quan](context/de-xuat-doi-soat-dia-ban-co-quan-website.md).

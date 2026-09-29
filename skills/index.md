@@ -16,3 +16,5 @@ status: active
 - [[skills/wiki-maintainer/SKILL|wiki-maintainer]] — Đúc kết trace thực thi RAW_WIKIPEDIA thành pattern có bằng chứng, cập nhật wiki và nhật ký tích lũy mà không tự nhận skill đã cải thiện.
 - [[skills/wisdom-skill-proposer/SKILL|wisdom-skill-proposer]] — Đề xuất và đánh giá một thay đổi skill Wikipedia dựa trên pattern; ghi baseline, validation và quyết định giữ hoặc rollback có bằng chứng.
 - [[skills/sync-wikipedia-github/SKILL|sync-wikipedia-github]] — Đồng bộ RAW_WIKIPEDIA với GitHub khi người dùng yêu cầu, kiểm tra quyền, remote, diff, gate và SHA sau push.
+
+- [[skills/discover-wikipedia-websites/SKILL|discover-wikipedia-websites]] — candidate 0.1.0-draft: phân loại website có provenance; downloader web ngoài và đánh giá độc lập chưa triển khai.

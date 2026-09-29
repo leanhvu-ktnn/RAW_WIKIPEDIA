@@ -1,0 +1,26 @@
+{
+  "request_url": "https://vi.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&inprop=url&maxlag=5&ppprop=wikibase_item%7Cdisambiguation&prop=info%7Cpageprops&redirects=1&titles=Tuy%C3%AAn+Quang%7CTuy%C3%AAn+Quang+%28t%E1%BB%89nh%29%7CTuy%C3%AAn+Quang+%28t%E1%BB%89nh+c%C5%A9%29%7CTuy%C3%AAn+Quang+%28tr%C6%B0%E1%BB%9Bc+2025%29",
+  "params": {
+    "format": "json",
+    "formatversion": "2",
+    "maxlag": 5,
+    "action": "query",
+    "titles": "Tuyên Quang|Tuyên Quang (tỉnh)|Tuyên Quang (tỉnh cũ)|Tuyên Quang (trước 2025)",
+    "redirects": 1,
+    "prop": "info|pageprops",
+    "inprop": "url",
+    "ppprop": "wikibase_item|disambiguation"
+  },
+  "retrieved_at": "2026-09-29T15:25:04.929204Z",
+  "http_status": 200,
+  "headers": {
+    "date": "Tue, 29 Sep 2026 15:25:04 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1788"
+  },
+  "path": "sources/responses/13dcf074a8eecd1944a4c2375efb736c33aa426640cb295482412d570bacb321.json",
+  "sha256": "13dcf074a8eecd1944a4c2375efb736c33aa426640cb295482412d570bacb321",
+  "byte_length": 1788,
+  "media_type": "application/json",
+  "representation": "unmodified MediaWiki HTTP response body bytes"
+}

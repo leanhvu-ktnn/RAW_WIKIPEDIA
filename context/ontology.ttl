@@ -6,7 +6,7 @@
 @prefix dct: <http://purl.org/dc/terms/> .
 
 <https://github.com/leanhvu-ktnn/RAW_WIKIPEDIA/ontology> a owl:Ontology ;
-    owl:versionInfo "0.1.0" ;
+    owl:versionInfo "0.2.0" ;
     dct:title "RAW_WIKIPEDIA territory, agency and provenance profile"@en .
 legal:DiaBan a owl:Class .
 legal:CoQuan a owl:Class ; owl:disjointWith legal:DiaBan .
@@ -37,3 +37,15 @@ wiki:revisionTimestamp a owl:DatatypeProperty ; rdfs:domain wiki:Revision ; rdfs
 wiki:extractedAt a owl:DatatypeProperty ; rdfs:range xsd:dateTime .
 wiki:validFrom a owl:DatatypeProperty ; rdfs:range xsd:date .
 wiki:validTo a owl:DatatypeProperty ; rdfs:range xsd:date .
+
+# RAW staging nodes describe a request observation, not a canonical administrative entity.
+wiki:ObservationTarget a owl:Class .
+wiki:EvidenceExcerpt a owl:Class .
+wiki:inputObservationId a owl:DatatypeProperty ; rdfs:domain wiki:ObservationTarget ; rdfs:range xsd:string .
+wiki:inputSha256 a owl:DatatypeProperty ; rdfs:range xsd:string .
+wiki:phase a owl:DatatypeProperty ; rdfs:domain wiki:ObservationTarget ; rdfs:range xsd:string .
+wiki:supportedBy a owl:ObjectProperty ; rdfs:domain wiki:ObservationTarget ; rdfs:range wiki:EvidenceExcerpt .
+wiki:excerptRevision a owl:ObjectProperty ; rdfs:domain wiki:EvidenceExcerpt ; rdfs:range wiki:Revision .
+wiki:lineStart a owl:DatatypeProperty ; rdfs:domain wiki:EvidenceExcerpt ; rdfs:range xsd:positiveInteger .
+wiki:lineEnd a owl:DatatypeProperty ; rdfs:domain wiki:EvidenceExcerpt ; rdfs:range xsd:positiveInteger .
+wiki:excerptText a owl:DatatypeProperty ; rdfs:domain wiki:EvidenceExcerpt ; rdfs:range xsd:string .

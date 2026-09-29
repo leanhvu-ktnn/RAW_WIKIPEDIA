@@ -1,0 +1,26 @@
+{
+  "request_url": "https://vi.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&inprop=url&maxlag=5&ppprop=wikibase_item%7Cdisambiguation&prop=info%7Cpageprops&redirects=1&titles=Ngh%E1%BB%87+An%7CNgh%E1%BB%87+An+%28t%E1%BB%89nh%29%7CNgh%E1%BB%87+An+%28t%E1%BB%89nh+c%C5%A9%29%7CNgh%E1%BB%87+An+%28tr%C6%B0%E1%BB%9Bc+2025%29",
+  "params": {
+    "format": "json",
+    "formatversion": "2",
+    "maxlag": 5,
+    "action": "query",
+    "titles": "Nghệ An|Nghệ An (tỉnh)|Nghệ An (tỉnh cũ)|Nghệ An (trước 2025)",
+    "redirects": 1,
+    "prop": "info|pageprops",
+    "inprop": "url",
+    "ppprop": "wikibase_item|disambiguation"
+  },
+  "retrieved_at": "2026-09-29T15:28:07.769742Z",
+  "http_status": 200,
+  "headers": {
+    "date": "Tue, 29 Sep 2026 15:28:07 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1764"
+  },
+  "path": "sources/responses/ebb20c7ac462f8f82e32dc98b0676a03b3407cdaa21b0835b855912115b383a0.json",
+  "sha256": "ebb20c7ac462f8f82e32dc98b0676a03b3407cdaa21b0835b855912115b383a0",
+  "byte_length": 1764,
+  "media_type": "application/json",
+  "representation": "unmodified MediaWiki HTTP response body bytes"
+}

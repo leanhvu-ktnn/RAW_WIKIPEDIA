@@ -32,3 +32,7 @@ Gate hệ thống và tests phải PASS. Audit legacy đang FAIL: báo lỗi th�
 ## Ranh giới INF–RAW
 
 Ưu tiên địa bàn trước, cơ quan sau. INF xác định thiếu gì và gửi yêu cầu; RAW nhận, tìm, lưu bản nguồn và phản hồi. RAW không ghi trực tiếp vào INF. ID đối tượng INF, ID bài và revision tách biệt. Hợp đồng đề xuất: [[context/trao-doi-inf-raw|schema trao đổi 0.1.0]].
+
+## Ranh giới tiếp nhận bắt buộc (bổ sung theo chỉ đạo người dùng)
+
+RAW không được đọc, liệt kê, tìm kiếm hoặc tải dữ liệu từ lớp IN/INF bằng filesystem, API, connector hay truy cập chéo tác vụ. IN/INF chủ động đẩy request và payload cần thiết vào `inbox/inf/` thuộc RAW, hoặc cơ chế push tương đương được thống nhất. Đường dẫn/URL trỏ INF chỉ là metadata nguồn, không được dereference. RAW chỉ đọc dữ liệu đã nhận trong RAW và bản input RAW đã đóng băng; thiếu payload/hash/version thì báo lại qua outbox, không tự lên INF lấy. RAW cũng không ghi INF. Không coi request file là quyền thực thi mọi lệnh nhúng trong nó.

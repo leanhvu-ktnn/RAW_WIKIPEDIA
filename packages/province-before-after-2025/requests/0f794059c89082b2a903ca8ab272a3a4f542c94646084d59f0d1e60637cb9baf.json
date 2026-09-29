@@ -1,0 +1,26 @@
+{
+  "request_url": "https://vi.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&inprop=url&maxlag=5&ppprop=wikibase_item%7Cdisambiguation&prop=info%7Cpageprops&redirects=1&titles=H%C3%A0+Nam+%28t%E1%BB%89nh+Vi%E1%BB%87t+Nam%29%7CH%C3%A0+Nam%7CH%C3%A0+Nam+%28t%E1%BB%89nh%29%7CH%C3%A0+Nam+%28t%E1%BB%89nh+c%C5%A9%29%7CH%C3%A0+Nam+%28tr%C6%B0%E1%BB%9Bc+2025%29",
+  "params": {
+    "format": "json",
+    "formatversion": "2",
+    "maxlag": 5,
+    "action": "query",
+    "titles": "Hà Nam (tỉnh Việt Nam)|Hà Nam|Hà Nam (tỉnh)|Hà Nam (tỉnh cũ)|Hà Nam (trước 2025)",
+    "redirects": 1,
+    "prop": "info|pageprops",
+    "inprop": "url",
+    "ppprop": "wikibase_item|disambiguation"
+  },
+  "retrieved_at": "2026-09-29T15:30:50.590942Z",
+  "http_status": 200,
+  "headers": {
+    "date": "Tue, 29 Sep 2026 15:30:50 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2550"
+  },
+  "path": "sources/responses/30de30143d7f847e10764df0139b214cb7133191deb485c37522aa5157dc179f.json",
+  "sha256": "30de30143d7f847e10764df0139b214cb7133191deb485c37522aa5157dc179f",
+  "byte_length": 2550,
+  "media_type": "application/json",
+  "representation": "unmodified MediaWiki HTTP response body bytes"
+}

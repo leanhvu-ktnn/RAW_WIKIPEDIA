@@ -1,0 +1,24 @@
+{
+  "request_url": "https://vi.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&maxlag=5&prop=info%7Cpageprops&redirects=1&titles=S%C3%A1p+nh%E1%BA%ADp+t%E1%BB%89nh%2C+th%C3%A0nh+Vi%E1%BB%87t+Nam+2025",
+  "params": {
+    "format": "json",
+    "formatversion": "2",
+    "maxlag": 5,
+    "action": "query",
+    "titles": "Sáp nhập tỉnh, thành Việt Nam 2025",
+    "redirects": 1,
+    "prop": "info|pageprops"
+  },
+  "retrieved_at": "2026-09-29T15:20:48.820108Z",
+  "http_status": 200,
+  "headers": {
+    "date": "Tue, 29 Sep 2026 15:20:48 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "332"
+  },
+  "path": "sources/responses/109e7047cb16b1d5ec8460360a8e860c0d6a3bf1c0da9a91e306fbf9d6eaf456.json",
+  "sha256": "109e7047cb16b1d5ec8460360a8e860c0d6a3bf1c0da9a91e306fbf9d6eaf456",
+  "byte_length": 332,
+  "media_type": "application/json",
+  "representation": "unmodified MediaWiki HTTP response body bytes"
+}

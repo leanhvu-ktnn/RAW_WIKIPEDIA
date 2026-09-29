@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "scope": "pilot",
+  "input_sha256": "b70c2ab311adcee3fca2963b21a49f00c32966f595bea57b433fe8b00e24751d",
+  "targets": 5,
+  "statuses": {
+    "found": 5
+  },
+  "unique_retrieved_pages": 5,
+  "unique_retrieved_revisions": 11,
+  "accepted_evidence_count": 11,
+  "raw_integrity": "verified against original API bytes",
+  "identity_scope": "observation staging; no canonical INF identity assertion",
+  "validated_at": "2026-09-29T15:24:35.187576Z"
+}

@@ -1,0 +1,26 @@
+{
+  "request_url": "https://vi.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&inprop=url&maxlag=5&ppprop=wikibase_item%7Cdisambiguation&prop=info%7Cpageprops&redirects=1&titles=Long+An%7CLong+An+%28t%E1%BB%89nh%29%7CLong+An+%28t%E1%BB%89nh+c%C5%A9%29%7CLong+An+%28tr%C6%B0%E1%BB%9Bc+2025%29",
+  "params": {
+    "format": "json",
+    "formatversion": "2",
+    "maxlag": 5,
+    "action": "query",
+    "titles": "Long An|Long An (tỉnh)|Long An (tỉnh cũ)|Long An (trước 2025)",
+    "redirects": 1,
+    "prop": "info|pageprops",
+    "inprop": "url",
+    "ppprop": "wikibase_item|disambiguation"
+  },
+  "retrieved_at": "2026-09-29T15:27:03.273475Z",
+  "http_status": 200,
+  "headers": {
+    "date": "Tue, 29 Sep 2026 15:27:03 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1993"
+  },
+  "path": "sources/responses/7f45f971762ee0650142d900baf027794b8eeba39d5aaa21feb9d9e6d93a6ef6.json",
+  "sha256": "7f45f971762ee0650142d900baf027794b8eeba39d5aaa21feb9d9e6d93a6ef6",
+  "byte_length": 1993,
+  "media_type": "application/json",
+  "representation": "unmodified MediaWiki HTTP response body bytes"
+}

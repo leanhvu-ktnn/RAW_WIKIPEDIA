@@ -1,0 +1,26 @@
+{
+  "request_url": "https://vi.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&inprop=url&maxlag=5&ppprop=wikibase_item%7Cdisambiguation&prop=info%7Cpageprops&redirects=1&titles=H%E1%BA%A3i+D%C6%B0%C6%A1ng%7CH%E1%BA%A3i+D%C6%B0%C6%A1ng+%28t%E1%BB%89nh%29%7CH%E1%BA%A3i+D%C6%B0%C6%A1ng+%28t%E1%BB%89nh+c%C5%A9%29%7CH%E1%BA%A3i+D%C6%B0%C6%A1ng+%28tr%C6%B0%E1%BB%9Bc+2025%29",
+  "params": {
+    "format": "json",
+    "formatversion": "2",
+    "maxlag": 5,
+    "action": "query",
+    "titles": "Hải Dương|Hải Dương (tỉnh)|Hải Dương (tỉnh cũ)|Hải Dương (trước 2025)",
+    "redirects": 1,
+    "prop": "info|pageprops",
+    "inprop": "url",
+    "ppprop": "wikibase_item|disambiguation"
+  },
+  "retrieved_at": "2026-09-29T15:25:49.757604Z",
+  "http_status": 200,
+  "headers": {
+    "date": "Tue, 29 Sep 2026 15:25:49 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2267"
+  },
+  "path": "sources/responses/ab1d8535358885dd52d846e7cec60d8a26550d5e414d5bd9e63e8c1e8e3fb43f.json",
+  "sha256": "ab1d8535358885dd52d846e7cec60d8a26550d5e414d5bd9e63e8c1e8e3fb43f",
+  "byte_length": 2267,
+  "media_type": "application/json",
+  "representation": "unmodified MediaWiki HTTP response body bytes"
+}

@@ -1,0 +1,26 @@
+{
+  "request_url": "https://vi.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&inprop=url&maxlag=5&ppprop=wikibase_item%7Cdisambiguation&prop=info%7Cpageprops&redirects=1&titles=Qu%E1%BA%A3ng+Ng%C3%A3i%7CQu%E1%BA%A3ng+Ng%C3%A3i+%28t%E1%BB%89nh%29%7CQu%E1%BA%A3ng+Ng%C3%A3i+%28t%E1%BB%89nh+c%C5%A9%29%7CQu%E1%BA%A3ng+Ng%C3%A3i+%28tr%C6%B0%E1%BB%9Bc+2025%29",
+  "params": {
+    "format": "json",
+    "formatversion": "2",
+    "maxlag": 5,
+    "action": "query",
+    "titles": "Quảng Ngãi|Quảng Ngãi (tỉnh)|Quảng Ngãi (tỉnh cũ)|Quảng Ngãi (trước 2025)",
+    "redirects": 1,
+    "prop": "info|pageprops",
+    "inprop": "url",
+    "ppprop": "wikibase_item|disambiguation"
+  },
+  "retrieved_at": "2026-09-29T15:26:20.242878Z",
+  "http_status": 200,
+  "headers": {
+    "date": "Tue, 29 Sep 2026 15:26:19 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1876"
+  },
+  "path": "sources/responses/eb8155bc7dd4d7a8698d8411515d6903eebe486a999bca3a030c11e8b34b6680.json",
+  "sha256": "eb8155bc7dd4d7a8698d8411515d6903eebe486a999bca3a030c11e8b34b6680",
+  "byte_length": 1876,
+  "media_type": "application/json",
+  "representation": "unmodified MediaWiki HTTP response body bytes"
+}

@@ -1,0 +1,26 @@
+{
+  "request_url": "https://vi.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&inprop=url&maxlag=5&ppprop=wikibase_item%7Cdisambiguation&prop=info%7Cpageprops&redirects=1&titles=Th%C3%A1i+Nguy%C3%AAn%7CTh%C3%A1i+Nguy%C3%AAn+%28t%E1%BB%89nh%29%7CTh%C3%A1i+Nguy%C3%AAn+%28t%E1%BB%89nh+c%C5%A9%29%7CTh%C3%A1i+Nguy%C3%AAn+%28tr%C6%B0%E1%BB%9Bc+2025%29",
+  "params": {
+    "format": "json",
+    "formatversion": "2",
+    "maxlag": 5,
+    "action": "query",
+    "titles": "Thái Nguyên|Thái Nguyên (tỉnh)|Thái Nguyên (tỉnh cũ)|Thái Nguyên (trước 2025)",
+    "redirects": 1,
+    "prop": "info|pageprops",
+    "inprop": "url",
+    "ppprop": "wikibase_item|disambiguation"
+  },
+  "retrieved_at": "2026-09-29T15:25:18.020476Z",
+  "http_status": 200,
+  "headers": {
+    "date": "Tue, 29 Sep 2026 15:25:17 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1853"
+  },
+  "path": "sources/responses/95a6791c459c12b4222dd5eea84bc86bcb5936b42b4409c353446a5ab4bf9fbc.json",
+  "sha256": "95a6791c459c12b4222dd5eea84bc86bcb5936b42b4409c353446a5ab4bf9fbc",
+  "byte_length": 1853,
+  "media_type": "application/json",
+  "representation": "unmodified MediaWiki HTTP response body bytes"
+}

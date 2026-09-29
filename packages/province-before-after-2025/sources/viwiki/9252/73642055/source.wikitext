@@ -1,0 +1,548 @@
+{{Thông tin đơn vị hành chính Việt Nam|tỉnh
+| tên = Sơn La
+| logo = Biểu trưng tỉnh Sơn La.svg
+| ghi chú logo = Biểu trưng 
+| ghi chú hình = Từ trên xuống dưới, từ trái sang phải:
+[[Sống lưng khủng long Tà Xùa]] ([[Bắc Yên]]), [[Thác Dải Yếm]] ([[Mộc Châu]]), [[Nhà tù Sơn La]] ([[Sơn La (thành phố)|TP. Sơn La]]), Đập thủy điện Sơn La ([[Mường La]]), Đồi [[chè]] Mộc Châu, Ruộng bậc thang ở Sơn La
+| vĩ độ = 21.328716
+| kinh độ = 103.914528
+| bản đồ 1 = {{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=2|stroke-color=#000000}}
+| diện tích = 14.109,83 km²<ref name="area_2020">{{cite act|index=387/QĐ-BTNMT|title=Phê duyệt và công bố kết quả thống kê diện tích đất đai năm 2020|url=https://luatvietnam.vn/tai-nguyen/quyet-dinh-387-qd-btnmt-217769-d1.html|legislature=[[Bộ Tài nguyên và Môi trường (Việt Nam)]]|date= 2022| type = Quyết định}}</ref><ref>{{Chú thích sách | author = [[Tổng cục Thống kê (Việt Nam)|Tổng cục Thống kê]] | year = 2022  | url = https://www.gso.gov.vn/wp-content/uploads/2022/08/Sach-Nien-giam-TK-2021.pdf | title = Niên giám Thống kê Việt Nam năm 2021  | publisher = Nhà Xuất bản Thống kê  | access-date = 2022-08-01 | archive-date = 2022-08-01 | archive-url = https://web.archive.org/web/20220801122014/https://www.gso.gov.vn/wp-content/uploads/2022/08/Sach-Nien-giam-TK-2021.pdf|url-status=live| p=89 }}</ref>
+| dân số = 1.300.100 người<ref name="dan_so_2021">{{Chú thích sách | author = [[Tổng cục Thống kê (Việt Nam)|Tổng cục Thống kê]] | year = 2022   | url = https://www.gso.gov.vn/wp-content/uploads/2022/08/Sach-Nien-giam-TK-2021.pdf | title = Niên giám Thống kê Việt Nam năm 2021  | publisher = Nhà Xuất bản Thống kê  | access-date = 2022-08-01 | archive-date = 2022-08-01 | archive-url = https://web.archive.org/web/20220801122014/https://www.gso.gov.vn/wp-content/uploads/2022/08/Sach-Nien-giam-TK-2021.pdf|url-status=live | p=92 }}</ref>      
+| thời điểm dân số = 2022
+| dân số thành thị = 200.500 người ({{formatnum:{{#expr:200500/1300100*100round1}}}}%)<ref>{{Chú thích sách | author = [[Tổng cục Thống kê (Việt Nam)|Tổng cục Thống kê]] | year = 2022   | url = https://www.gso.gov.vn/wp-content/uploads/2022/08/Sach-Nien-giam-TK-2021.pdf | title = Niên giám Thống kê Việt Nam năm 2021  | publisher = Nhà Xuất bản Thống kê  | access-date = 2022-08-01 | archive-date = 2022-08-01 | archive-url = https://web.archive.org/web/20220801122014/https://www.gso.gov.vn/wp-content/uploads/2022/08/Sach-Nien-giam-TK-2021.pdf|url-status=live| p=98 }}</ref>
+| dân số nông thôn = 1.099.600 người ({{formatnum:{{#expr:1099600/1300100*100round1}}}}%)<ref>{{Chú thích sách | author = [[Tổng cục Thống kê (Việt Nam)|Tổng cục Thống kê]] | year = 2022   | url = https://www.gso.gov.vn/wp-content/uploads/2022/08/Sach-Nien-giam-TK-2021.pdf | title = Niên giám Thống kê Việt Nam năm 2021  | publisher = Nhà Xuất bản Thống kê  | access-date = 2022-08-01 | archive-date = 2022-08-01 | archive-url = https://web.archive.org/web/20220801122014/https://www.gso.gov.vn/wp-content/uploads/2022/08/Sach-Nien-giam-TK-2021.pdf|url-status=live| p=100 }}</ref>
+| mật độ dân số = 91 người/km²<ref>{{Chú thích sách | author = [[Tổng cục Thống kê (Việt Nam)|Tổng cục Thống kê]] | year = 2022   | url = https://www.gso.gov.vn/wp-content/uploads/2022/08/Sach-Nien-giam-TK-2021.pdf | title = Niên giám Thống kê Việt Nam năm 2021  | publisher = Nhà Xuất bản Thống kê  | access-date = 2022-08-01 | archive-date = 2022-08-01 | archive-url = https://web.archive.org/web/20220801122014/https://www.gso.gov.vn/wp-content/uploads/2022/08/Sach-Nien-giam-TK-2021.pdf|url-status=live| p=89 }}</ref>
+| vùng = [[Tây Bắc Bộ]] 
+| dân tộc = [[Người Thái|Thái]], [[Người Việt|Kinh]], [[H'Mông]], [[Người Mường|Mường]], [[Người Dao|Dao]], [[Người Khơ Mú|Khơ Mú]]
+| tỉnh lỵ = Phường [[Chiềng Cơi]]
+| thành lập = 23/8/1904
+| chủ tịch UBND = [[Nguyễn Đình Việt]]
+| hội đồng nhân dân = 65 đại biểu
+| chủ tịch HĐND = [[Nguyễn Thái Hưng]]
+| chủ tịch UBMTTQ = Vi Đức Thọ
+| chánh án TAND = [[Nguyễn Hồng Nam]]
+| viện trưởng VKSND = [[Nguyễn Đình Đức (kiểm sát viên)|Nguyễn Đình Đức]]
+|bí thư =  [[Hoàng Quốc Khánh]] 
+| trụ sở UBND = 
+| đại biểu quốc hội = 
+| phân chia hành chính = 8 phường, 67 xã
+| mã địa lý = [[ISO 3166-2:VN|VN-05]]
+| mã hành chính = 14<ref>[https://danhmuchanhchinh.gso.gov.vn/ Tổng cục Thống kê]</ref>
+| mã bưu chính = [[Mã bưu chính Việt Nam|34xxx]]
+| mã điện thoại = [[Mã điện thoại Việt Nam|212]]
+| biển số xe = [[Biển xe cơ giới Việt Nam|26]]
+| web = {{url|sonla.gov.vn}}
+|thời điểm kinh tế=2020|GRDP=55.720 tỉ đồng (2,42 tỉ USD)|GRDP bình quân đầu người=39,8 triệu đồng (1.722 USD)|nhiều hình={{multiple image
+| border = infobox
+| total_width = 300
+| image_style = border:1;
+| perrow = 1/2/3
+| image1 = Sống lưng khủng long Tà Xùa.jpg
+| image2 = Thacdaiyem.jpg
+| image3 = Nhà tù Sơn La - panoramio.jpg
+| image4 = Sơn La Dam.JPG
+| image5 = Moc-chau-tea-doi-2094890 960 720.jpg
+| image6 = Terraced paddy fields, Sonla, Vietnam.jpg
+}}
+|biệt danh=Xứ [[Người Thái (Việt Nam)|Thái]]<br>Thủ phủ [[táo mèo]]<br>Kinh đô hoa vùng Tây Bắc}}
+'''Sơn La''' là một tỉnh miền núi, vùng cao, nằm ở [[Tây Bắc Bộ|vùng Tây Bắc]] [[Việt Nam]].<ref name=Ms@124 >[https://thukyluat.vn/vb/quyet-dinh-124-2004-qd-ttg-bang-danh-muc-ma-so-don-vi-hanh-chinh-viet-nam-cc68.html Quyết định số 124/2004/QĐ-TTg của Chính phủ ngày 08/07/2004] ban hành Danh mục và mã số các đơn vị hành chính Việt Nam có đến 30/6/2004. Thuky Luat Online, 2016. Truy cập 11/04/2019.</ref><ref name =BandoHc >Tập bản đồ hành chính Việt Nam. Nhà xuất bản Tài nguyên – Môi trường và Bản đồ Việt Nam. Hà Nội, 2013.</ref><ref name =SonLa-tt45 >[https://thukyluat.vn/vb/thong-tu-45-2013-tt-btnmt-danh-muc-dia-danh-dan-cu-lap-ban-do-son-la-3555b.html Thông tư 45/2013/TT-BTNMT ngày 26/12/2013] của Bộ Tài nguyên và Môi trường ban hành Danh mục địa danh dân cư... phục vụ lập bản đồ tỉnh Sơn La. Thuky Luat Online, 2016. Truy cập 11/05/2019.</ref>
+
+Theo dữ liệu [[Sáp nhập tỉnh, thành Việt Nam 2025]], 	Sơn La	có diện tích: 	14.109	km²,	xếp thứ	6; dân số:	1.404.587	người,	xếp thứ	30; GRDP 2024: 	76.626.373	triệu VNĐ, xếp thứ	30; thu ngân sách 2024:	4.138.845	triệu VNĐ, xếp thứ	31; thu nhập bình quân:	32,50	triệu VNĐ/năm, 	xếp thứ	31.<ref>{{Chú thích web |tiêu đề=Danh sách dự kiến tên gọi của 34 tỉnh, thành phố và trung tâm chính trị - hành chính |url=https://vtv.vn/chinh-tri/danh-sach-du-kien-ten-goi-cua-34-tinh-thanh-pho-va-trung-tam-chinh-tri-hanh-chinh-20250413230809506.htm |ngày truy cập=14 tháng 4 năm 2025 |website=vtv.vn |ngôn ngữ=vi}}</ref>
+
+== Lịch sử ==
+{{main|Lịch sử hành chính Sơn La}}
+Vào thời [[nhà Lý]], thế kỷ 11-12, vùng trung tâm tỉnh Sơn La ngày nay (gồm [[thành phố Sơn La]], các huyện [[Mường La]], [[Thuận Châu]] (Mường Muổi), [[Mai Sơn]],...) là khu vực lãnh thổ định cư của một vương quốc được ghi nhận trong [[Đại Việt sử ký toàn thư|Đại Việt sủ ký toàn thư]] tên là [[Ngưu Hống (nước)|Ngưu Hống]]<ref>{{Chú thích web|url=https://xemtailieu.com/tai-lieu/nguoi-thai-xay-dung-mien-tay-bac-trong-thoi-gian-cuoi-the-ky-xiii-qua-xiv-sang-dau-the-ky-xv-1128876.html|tựa đề=Người Thái xây dựng miền Tây Bắc, Cầm Trọng.|archive-url=https://web.archive.org/web/20190413050328/https://xemtailieu.com/tai-lieu/nguoi-thai-xay-dung-mien-tay-bac-trong-thoi-gian-cuoi-the-ky-xiii-qua-xiv-sang-dau-the-ky-xv-1128876.html|archive-date=2019-04-13|url-status=dead|ngày truy cập=2019-04-13}}</ref>.
+
+[[Tập tin:Province de Son-La (1909).jpg|250px|trái|nhỏ|Bản đồ tỉnh Sơn La năm 1909 (bấy giờ địa bàn bao gồm cả hai tỉnh Điện Biên và Lai Châu ngày nay)]]
+Ngày 24 tháng 5 năm 1886, thành lập châu Sơn La (thuộc phủ Gia Hưng, tỉnh Hưng Hoá), tách từ [[Hưng Hóa (tỉnh)|tỉnh Hưng Hóa]] thành cấp tương đương với tỉnh. Thiếu tá De Chateaurochet làm Phó công sứ Sơn La. Kế nhiệm là Moulié (11/1886). Ngày 9 tháng 9 năm 1891, thuộc Đạo Quan binh 4.
+
+Ngày 27 tháng 2 năm 1892, thành lập tiểu quân khu Vạn Bú gồm 2 phủ và 8 châu, do thiếu tá Pennequin làm chỉ huy trưởng. Kế nhiệm ông là Đại uý Diguet&nbsp;(1893 - 1895) và thiếu tá Norminot (1895). Ngày 10 tháng 10 năm 1895, thành lập tỉnh Vạn Bú, tỉnh lỵ ở Vạn Bú (tức Tạ Bú). Lúc này M.Caillat lên thay thiếu tá Norminot làm Công sứ Pháp ở tỉnh Vạn Bú.
+
+Ngày 23 tháng 8 năm 1904, đổi tên thành tỉnh Sơn La, tỉnh lỵ chuyển về nơi ngày nay là thành phố Sơn La. Công sứ Pháp đầu tiên là [[Jean G. Monpeyrat]], lên cầm quyền thay công sứ Sévénier từ năm 1902 đến năm 1909. Kế nhiệm ông là các công sứ Pháp như Hernandez (1909 - 1911), Fillion, Bonnermain, Louis Rene, Pierre Grossin, Nempont, Romanetti, Saint Poulof (1928 - 1933), Cousseau, Gabon, Robert<ref>[https://nghiencuulichsu.com/2016/06/24/to-chuc-xa-hoi-co-truyen-va-bo-may-quan-li-nha-nuoc-tai-tinh-son-la-duoi-cac-che-do-cu/ Tổ chức xã hội cổ truyền và bộ máy quản lí nhà nước tại tỉnh Sơn La dưới các chế độ cũ]. Nghiên cứu Lịch sư, 24/06/2016.</ref>. Năm 1907, công sứ Monpeyrat cho xây dựng [[nhà tù Sơn La]]. Năm 1917, công sứ Pháp Laumet mở trường dạy chữ quốc ngữ và chữ Pháp. Năm 1933, công sứ [[Gabriel M. de Saint-Poulof]] (cầm quyền thay Romanetti từ năm 1928) bị đầu độc chết trong cuộc chiến đấu đòi vượt ngục của tù nhân ở Sơn La. Năm 1939, công sứ [[Cousseau]] lên thay. Năm 1944, Robert thay ông ta làm công sứ Sơn La và cai trị đến tận năm 1945.
+
+Sau năm 1946, tỉnh Sơn La cùng với hai tỉnh Lai Châu và Phong Thổ (do Pháp lập ra) lập thành "Xứ Thái tự trị"nằm dưới sự chỉ đạo của Pháp. Bạc Cầm Quý làm tỉnh trưởng Sơn La. Từ nằm 1948 đến 1953, thuộc [[Liên khu Việt Bắc]]. Lúc này tỉnh Sơn La có 6 huyện: [[Mường La]], [[Thuận Châu]], [[Phù Yên]], [[Mai Sơn]], [[Yên Châu]], [[Mộc Châu]].
+
+Từ năn 1953 đến 1955, Sơn La thuộc Khu Tây Bắc. Từ năm 1955 đến 1962, bỏ cấp tỉnh, thuộc [[Khu tự trị Tây Bắc|Khu tự trị Thái Mèo]]. Từ năm 1962 đến 1975, tái lập tỉnh, thuộc [[Khu tự trị Tây Bắc]] (đổi tên từ Khu tự trị Thái Mèo), có 7 huyện: thêm huyện [[Quỳnh Nhai]] và [[Sông Mã (huyện)|Sông Mã]], còn huyện Phù Yên chuyển sang tỉnh [[Nghĩa Lộ]] mới thành lập.
+
+Đến cuối năm 1975, tỉnh Sơn La có tỉnh lị là [[Sơn La (thành phố)|thị xã Sơn La]] và 7 huyện: [[Mai Sơn]], [[Mộc Châu]], [[Mường La]], [[Quỳnh Nhai]], [[Sông Mã (huyện)|Sông Mã]], [[Thuận Châu]], [[Yên Châu]]. Sau khi giải thể Khu tự trị Tây Bắc, tỉnh Sơn La nhập thêm 2 huyện của tỉnh [[Nghĩa Lộ]] vừa giải thể là [[Phù Yên]] và [[Bắc Yên]]. Từ đó, tỉnh Sơn La có tỉnh lị là thị xã Sơn La và 9 huyện: Bắc Yên, Mai Sơn, Mộc Châu, Mường La, Phù Yên, Quỳnh Nhai, Sông Mã, Thuận Châu, Yên Châu. Ngày 2 tháng 12 năm 2003, chia huyện Sông Mã thành 2 huyện: [[Sông Mã (huyện)|Sông Mã]] và [[Sốp Cộp]].<ref>[http://thuvienphapluat.vn/archive/Nghi-dinh/Nghi-dinh-148-2003-ND-CP-thanh-lap-huyen-Sop-Cop-dieu-chinh-dia-gioi-hanh-chinh-huyen-Thuan-Chau-Quynh-Nhai-tinh-Son-La-vb6270t11.aspx Nghị định 148/2003/NĐ-CP về việc thành lập huyện Sốp Cộp và điều chỉnh địa giới hành chính các huyện Thuận Châu, Quỳnh Nhai, tỉnh Sơn La]</ref>
+
+Ngày 3 tháng 9 năm 2008, chuyển thị xã Sơn La thành [[Sơn La (thành phố)|thành phố Sơn La]].<ref>[http://thuvienphapluat.vn/archive/Nghi-dinh/Nghi-dinh-98-2008-ND-CP-thanh-lap-thanh-pho-Son-La-vb70651t11.aspx Nghị định 98/2008/NĐ-CP về việc thành lập thành phố Sơn La thuộc tỉnh Sơn La]</ref>
+
+Ngày 10 tháng 6 năm 2013, chia huyện Mộc Châu thành 2 huyện: [[Mộc Châu]] và [[Vân Hồ]].<ref name="NQ72">{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-72-NQ-CP-nam-2013-dieu-chinh-dia-gioi-hanh-chinh-huyen-Moc-Chau-193037.aspx|title=Nghị quyết số 72/NQ-CP năm 2013 về việc điều chỉnh địa giới hành chính huyện Mộc Châu để thành lập huyện Vân Hồ, tỉnh Sơn La|last=|first=|date=|website=|archive-url=|archive-date=|url-status=|access-date=}}</ref>
+
+Ngày 1 tháng 2 năm 2025, chuyển huyện Mộc Châu thành thị xã [[Mộc Châu]].
+
+Tỉnh Sơn La có 1 thành phố, 1 thị xã và 10 huyện như hiện nay.
+
+== Địa lý ==
+
+=== Vị trí  đia lí ===
+Tỉnh Sơn La có toạ độ địa lý: 20<sup>o</sup>37' - 22<sup>o</sup>02' vĩ độ Bắc và 103<sup>o</sup>11' - 105<sup>o</sup>02' kinh độ Đông. Trung tâm hành chính của tỉnh là thành phố Sơn La, nằm cách trung tâm thủ đô [[Hà Nội]] khoảng 302&nbsp;km, có vị trí địa lý:
+*Phía đông giáp tỉnh [[Phú Thọ]]
+*Phía tây giáp tỉnh [[Điện Biên]] 
+*Phía nam giáp với tỉnh [[Thanh Hóa]] và các tỉnh [[Huaphanh]], [[Luangprabang (tỉnh)|Luangprabang]], [[Lào]]
+*Phía bắc giáp tỉnh [[Lai Châu]] và tỉnh [[Lào Cai]].
+
+Sơn La có đường biên giới quốc gia dài 274&nbsp;km, chiều dài giáp ranh với các tỉnh khác là 628&nbsp;km.
+
+==== Các điểm cực của tỉnh Sơn La: ====
+* Điểm cực bắc tại: xã Cà Nàng, huyện [[Quỳnh Nhai]].
+* Điểm cực đông tại: xã Chiềng Yên, huyện [[Vân Hồ]].
+* Điểm cực tây tại: xã Mường Lèo, huyện [[Sốp Cộp]].
+* Điểm cực nam tại: xã Tân Xuân, huyện [[Vân Hồ]].
+
+=== Địa hình ===
+Sơn La nằm cách Hà Nội 302&nbsp;km trên trục [[Quốc lộ 6]] Hà Nội - Sơn La - Điện Biên, Sơn La là một tỉnh nằm sâu trong nội địa. Tỉnh này có 3 [[cửa khẩu]] với [[Lào]] là [[cửa khẩu Chiềng Khương|cửa khẩu quốc tế Chiềng Khương]], [[Cửa khẩu Lóng Sập]] và [[cửa khẩu Nà Cài|Nà Cài]].
+
+Sơn La có độ cao trung bình 600 - 700m so với mặt biển, địa hình chia cắt sâu và mạnh, 97% diện tích tự nhiên thuộc lưu vực [[sông Đà]], [[sông Mã]], có 2 [[cao nguyên]] là [[Cao nguyên Mộc Châu]] và [[Cao nguyên Sơn La]], địa hình tương đối bằng phẳng. Cùng với các tỉnh [[Hòa Bình]], [[Điện Biên]], [[Lai Châu]], Sơn La là mái nhà của khu vực Bắc Bộ. Địa hình phần lớn là đồi núi, trong đó các đồi núi cao tập trung ở các huyện Sốp Cộp, Thuận Châu, Bắc Yên,... Sơn La có dòng sông Mã, sông Đà đi qua, phù sa từ hai con sông này đã bồi nên những thung lũng, 2 dòng sông này còn gây ra tình trạng xâm thực, sức nước mạnh khoét sâu vào các ngọn đồi, làm sụp những phần đất cao và mở rộng thung lũng ra. Phía Đông là các cao nguyên rộng lớn như cao nguyên Mộc Châu, đây là nơi có đồng cỏ lớn, là nơi chăn nuôi gia súc phù hợp. 
+Địa hình bị chia cắt mạnh, sông suối nhiều, lắm thác ghềnh, nên đây là nơi có nguồn thủy điện dồi dào, nhà máy thủy điện Sơn La được xây dựng ở đây là nhà máy lớn nhất Đông Nam Á hiện tại.
+Phía Bắc và Đông là những dãy núi cao vắt ngang chắn lại các lối giao thông, vì thế đã tạo ra các đèo như đèo Pha Đin, đèo Tà Xùa, đèo Chiềng Đông, đèo Cón, đèo Lũng Lô...
+
+=== Khí hậu ===
+Sơn La có [[khí hậu cận nhiệt đới ẩm]] vùng núi, mùa đông phi nhiệt đới lạnh khô, mùa hè nóng ẩm, mưa nhiều. Do địa hình bị chia cắt sâu và mạnh nên hình thành nhiều tiểu vùng khí hậu, cho phép phát triển một nền sản xuất nông - lâm nghiệp phong phú. Vùng [[cao nguyên Mộc Châu]] phù hợp với cây trồng và vật nuôi vùng ôn đới. Vùng dọc sông Đà phù hợp với cây rừng nhiệt đới xanh quanh năm.
+
+Thống kê nhiệt độ trung bình năm của Sơn La có xu hướng tăng trong 20 năm lại đây với mức tăng 0,5&nbsp;°C - 0,6&nbsp;°C, nhiệt độ trung bình năm của Thành phố Sơn La hiện ở mức 21,1&nbsp;°C, Yên Châu 23&nbsp;°C; lượng mưa trung bình năm có xu hướng giảm (thành phố hiện ở mức 1.402&nbsp;mm, Mộc Châu 1.563&nbsp;mm); độ ẩm không khí trung bình năm cũng giảm. Mùa mưa kết thúc khá sớm vào khoảng đầu tháng 9 và bắt đầu một mùa khô kéo dài khốc liệt đến tận cuối tháng 4 năm sau gây ra tình trạng khô hạn và thiếu nước, gió tây khô nóng vào những tháng cuối mùa khô đầu mùa mưa (tháng 4-6) là yếu tố gây ảnh hưởng tới sản xuất nông nghiệp của tỉnh. Sương muối, mưa đá, lũ quét là yếu tố bất lợi.<ref>{{Chú thích web|url=http://baosonla.org.vn:8080/bai-viet/34/thong%20tin%20chung|tựa đề=Giới thiệu khái quát về tỉnh Sơn La|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=https://web.archive.org/web/20200615111229/http://baosonla.org.vn:8080/bai-viet/34/thong%20tin%20chung|ngày lưu trữ=2020-06-15|ngày truy cập=|url-status=dead}}</ref>
+
+== Dân số ==
+Theo kết quả điều tra dân số ngày 1/4/2019, tỉnh Sơn La có 1.248.415 người<ref name=":0">[[Tổng điều tra dân số và nhà ở năm 2019 (Việt Nam)|Tổng điều tra dân số và nhà ở năm 2019]] ''Tổng cục Thống kê''</ref>, tổng số hộ là 289,516 hộ<ref name=":0" />, nam có 632,598 người, nữ có 615,917 người<ref name=":0" />. Sơn La là tỉnh đông dân nhất vùng [[Tây Bắc Bộ]]. 16.6% dân số sống ở thành thị và 83,4% dân số sống ở nông thôn.<ref name=":0" />
+
+Sơn La có tổng cộng 39 dân tộc anh em, trong đó [[Người Thái (Việt Nam)|người Thái]] là nhiều nhất với 669,265 người, [[Người Việt|người Kinh]] 203,008 người, [[H'Mông|người Mông]] 200,480 người.<ref name=":0" />
+
+==Hành chính==
+{| cellpadding="10" align="center" style="border-spacing:0px; text-align:center; background-color:#f9f9f9; border:2px solid #cccccc"
+|-
+| style="border:solid 0px #cccccc" |
+{{Image label begin|image=Son La Province administrative map.svg|width={{{width|500}}}|float={{{float|none}}}}} 
+{{Image label small|x=0.38|y=0.40|scale={{{width|500}}}|text=[[Sơn La (thành phố)|TP. Sơn La]]}}
+{{Image label small|x=0.62|y=0.45|scale={{{width|500}}}|text=[[Bắc Yên]]}}
+{{Image label small|x=0.42|y=0.50|scale={{{width|500}}}|text=[[Mai Sơn]]}}
+{{Image label small|x=0.75|y=0.65|scale={{{width|500}}}|text=[[Mộc Châu|TX. Mộc Châu]]}}
+{{Image label small|x=0.42|y=0.25|scale={{{width|500}}}|text=[[Mường La]]}}
+{{Image label small|x=0.78|y=0.45|scale={{{width|500}}}|text=[[Phù Yên]]}}
+{{Image label small|x=0.22|y=0.15|scale={{{width|500}}}|text=[[Quỳnh Nhai]]}}
+{{Image label small|x=0.20|y=0.55|scale={{{width|500}}}|text=[[Sông Mã (huyện)|Sông Mã]]}}
+{{Image label small|x=0.18|y=0.68|scale={{{width|500}}}|text=[[Sốp Cộp]]}}
+{{Image label small|x=0.22|y=0.35|scale={{{width|500}}}|text=[[Thuận Châu]]}}
+{{Image label small|x=0.85|y=0.73|scale={{{width|500}}}|text=[[Vân Hồ]]}}
+{{Image label small|x=0.55|y=0.60|scale={{{width|500}}}|text=[[Yên Châu]]}}
+|}
+Tỉnh Sơn La có 75 đơn vị hành chính cấp xã, gồm 8 phường và 67 xã.
+{| class="wikitable sortable" cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các đơn vị hành chính trực thuộc tỉnh Sơn La<ref>Căn cứ theo đề án số 346/ĐA-CP ngày 09 tháng 05 năm 2025 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh Sơn La năm 2025</ref>
+|-
+| valign="top" width="25%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Diện tích<br>(km²)
+! style="border-bottom: 2px solid #CCCCFF;" |Dân số<br>(người)
+|-
+| colspan="3" align="left" style="background: #F5F5DC; padding-left: 30px;" |'''Phường (08)'''
+|-
+| align="left" |[[Chiềng An]]
+|149,08
+|20.322
+|-
+| align="left" |[[Chiềng Cơi]]
+|93,56
+|22.694
+|-
+| align="left" |[[Chiềng Sinh]]
+|68,40
+|27.099
+|-
+| align="left" |Mộc Châu
+|167,62
+|21.087
+|-
+| align="left" |[[Mộc Sơn]]
+|37,88
+|15.025
+|-
+| align="left" |[[Thảo Nguyên]]
+|53,09
+|22.479
+|-
+| align="left" |[[Tô Hiệu (phường)|Tô Hiệu]]
+|11,92
+|51.293
+|-
+| align="left" |[[Vân Sơn]]
+|39,61
+|15.917
+|-
+| colspan="3" align="left" style="background: #F5F5DC; padding-left: 30px;" |'''Xã (67)'''
+|-
+| align="left" |Bắc Yên
+|195,23
+|21.825
+|-
+| align="left" |Bình Thuận
+|121,78
+|17.128
+|-
+| align="left" |[[Bó Sinh]]
+|153,83
+|16.461
+|-
+| align="left" |[[Chiềng Hặc]]
+|239,91
+|18.721
+|-
+| align="left" |[[Chiềng Hoa]]
+|296,48
+|17.644
+|-
+| align="left" |[[Chiềng Khoong]]
+|253,87
+|23.222
+|-
+| align="left" |[[Chiềng Khương]]
+|149,82
+|18.712
+|-
+| align="left" |[[Chiềng La]]
+|126,13
+|20.373
+|-
+| align="left" |[[Chiềng Lao]]
+|358,55
+|21.010
+|-
+| align="left" |[[Chiềng Mai]]
+|151,85
+|23.786
+|}
+| valign="top" width="25%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Diện tích<br>(km²)
+! style="border-bottom: 2px solid #CCCCFF;" |Dân số<br>(người)
+|-
+| align="left" |[[Chiềng Mung]]
+|142,14
+|27.797
+|-
+| align="left" |[[Chiềng Sại]]
+|124,55
+|6.720
+|-
+| align="left" |[[Chiềng Sơ]]
+|140,31
+|17.145
+|-
+| align="left" |[[Chiềng Sơn]]
+|204,90
+|14.155
+|-
+| align="left" |[[Chiềng Sung]]
+|109,28
+|14.171
+|-
+| align="left" |[[Co Mạ]]
+|214,28
+|14.560
+|-
+| align="left" |[[Đoàn Kết, Sơn La|Đoàn Kết]]
+|240,66
+|17.938
+|-
+| align="left" |[[Gia Phù]]
+|111,32
+|21.929
+|-
+| align="left" |[[Huổi Một]]
+|240,66
+|12.349
+|-
+| align="left" |[[Kim Bon]]
+|104,51
+|9.873
+|-
+| align="left" |[[Long Hẹ]]
+|158,40
+|8.473
+|-
+| align="left" |[[Lóng Phiêng]]
+|147,81
+|11.152
+|-
+| align="left" |[[Lóng Sập]]
+|211,30
+|9.629
+|-
+| align="left" |Mai Sơn
+|164,40
+|52.361
+|-
+| align="left" |[[Muổi Nọi]]
+|128,70
+|15.633
+|-
+| align="left" |[[Mường Bám]]
+|76,16
+|10.731
+|-
+| align="left" |[[Mường Bang]]
+|270,15
+|12.831
+|-
+| align="left" |[[Mường Bú]]
+|213,65
+|25.284
+|-
+| align="left" |[[Mường Chanh]]
+|101,47
+|11.275
+|-
+| align="left" |[[Mường Chiên]]
+|382,20
+|14.028
+|}
+| valign="top" width="25%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Diện tích<br>(km²)
+! style="border-bottom: 2px solid #CCCCFF;" |Dân số<br>(người)
+|-
+| align="left" |[[Mường Cơi]]
+|194,98
+|19.557
+|-
+| align="left" |[[Mường É]]
+|139,91
+|14.858
+|-
+| align="left" |[[Mường Giôn]]
+|290,54
+|16.145
+|-
+| align="left" |[[Mường Hung]]
+|226,09
+|24.613
+|-
+| align="left" |[[Mường Khiêng]]
+|204,20
+|24.570
+|-
+| align="left" |Mường La
+|341,86
+|32.712
+|-
+| align="left" |[[Mường Lầm]]
+|167,10
+|15.647
+|-
+| align="left" |[[Mường Lạn]]
+|264,89
+|10.901
+|-
+| align="left" |[[Mường Lèo]]
+|375,76
+|4.277
+|-
+| align="left" |[[Mường Sại]]
+|122,94
+|9.557
+|-
+| align="left" |[[Nậm Lầu]]
+|247,63
+|18.095
+|-
+| align="left" |[[Nậm Ty]]
+|201,89
+|16.679
+|-
+| align="left" |[[Ngọc Chiến]]
+|212,19
+|12.021
+|-
+| align="left" |[[Pắc Ngà]]
+|122,59
+|13.274
+|-
+| align="left" |[[Phiêng Cằm]]
+|280,33
+|14.459
+|-
+| align="left" |[[Phiêng Khoài]]
+|103,77
+|12.424
+|-
+| align="left" |[[Phiêng Pằn]]
+|320,65
+|24.685
+|-
+| align="left" |Phù Yên
+|117,98
+|47.299
+|-
+| align="left" |[[Púng Bánh]]
+|364,64
+|17.264
+|-
+| align="left" |Quỳnh Nhai
+|244,31
+|30.554
+|}
+| valign="top" width="25%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Diện tích<br>(km²)
+! style="border-bottom: 2px solid #CCCCFF;" |Dân số<br>(người)
+|-
+| align="left" |[[Song Khủa]]
+|192,45
+|15.845
+|-
+| align="left" |Sông Mã
+|105,99
+|26.179
+|-
+| align="left" |[[Sốp Cộp (xã)|Sốp Cộp]]
+|466,95
+|24.086
+|-
+| align="left" |[[Suối Tọ]]
+|177,49
+|6.343
+|-
+| align="left" |[[Tà Hộc]]
+|149,56
+|13.692
+|-
+| align="left" |[[Tạ Khoa]]
+|191,88
+|15.522
+|-
+| align="left" |[[Tà Xùa]]
+|233,67
+|11.199
+|-
+| align="left" |[[Tân Phong, Phù Yên|Tân Phong]]
+|135,45
+|6.787
+|-
+| align="left" |[[Tân Yên, Mộc Châu|Tân Yên]]
+|192,79
+|18.380
+|-
+| align="left" |Thuận Châu
+|132,83
+|46.958
+|-
+| align="left" |[[Tô Múa]]
+|181,98
+|14.701
+|-
+| align="left" |[[Tường Hạ]]
+|120,85
+|14.076
+|-
+| align="left" |[[Vân Hồ (xã)|Vân Hồ]]
+|268,40
+|24.998
+|-
+| align="left" |[[Xím Vàng]]
+|232,35
+|7.596
+|-
+| align="left" |[[Xuân Nha]]
+|263,37
+|10.127
+|-
+| align="left" |Yên Châu
+|246,55
+|33.061
+|-
+| align="left" |[[Yên Sơn, Yên Châu|Yên Sơn]]
+|116,62
+|12.614
+|}
+|}
+
+== Văn hóa, du lịch ==
+[[Tập tin:nhatusonla.jpg|250px|nhỏ|Một góc nhà tù Sơn La]]Sơn La là tỉnh có nhiều dân tộc cư trú nên có sự đa dạng về văn hoá truyền thống, đời sống, tập tục.
+
+Sơn La có nhiều lễ hội của các dân tộc, mỗi lễ hội đều có nét đặc sắc riêng như [[Tết cơm mới]] của người Khơ Mú, [[Lễ hội hoa ban]], Lễ hội Pang Cẩu Nỏ của dân tộc [[Khơ Mú]], [[Xinh Mun]]; Lễ hội dâng hoa măng của người La Ha; Lễ cầu phúc của người [[Mường]]; Lễ hội xên bản, cầu mưa của người [[Người Thái|Thái]], Lễ mừng măng mọc của nhiều dân tộc vùng [[Tây Bắc]]...
+
+Sơn La còn có các di tích như Nhà tù Sơn La, bảo tàng Sơn La ở thành phố [[Sơn La (thành phố)|Sơn La]], chùa Chiền Viện ở [[Mộc Châu]]...
+
+Bên cạnh đó thiên nhiên còn tạo hóa cho Sơn La nhiều khu du lịch, khu danh thắng đẹp rất thích hợp với loại hình du lịch nghỉ dưỡng, dã ngoại và khám phá như: Suối nước nóng Bản Mòng ([[Hua La]]), danh thắng [[Yên Châu]], các hang Thẩm Tát, Thẩm Ké... ở [[Chiềng An]], Bản Hìn, cao nguyên [[Mộc Châu]], khám phá chinh phục các đỉnh núi ở [[Bắc Yên]]...
+
+== Ẩm thực ==
+Các đặc sản, ẩm thực địa phương trong tỉnh: táo mèo Bắc Yên, bánh dày Mông, rượu chuối Yên Châu, nộm da trâu, pa tỉnh tộp, măng trúc muối ớt Háng Đồng, nhót xanh chấm chéo, mận Phiêng Khoài, canh mọ, rượu thóc men lá Hang Chú, thảo quả Bắc Yên, mẳm cá, long nhãn Chiềng Khoong, cà rừng, cá ngần sông Đà, cam Phù Yên, hoa gừng, rượu hoẵng Mộc Châu, tỏi Chiềng Đông, thịt thối, trám, pa giảng, khoai sọ Cụ Cang, bọ xít rang, chè Mộc Châu, mắc ten, nậm pịa, quýt Chiềng Cọ, canh bon, tỏi tía Phù Yên, thịt trâu gác bếp, gỏi cá Thái, na dai Mai Sơn, ốc đá suối Bàng, nộm hoa ban, gà đen Mông, vịt Chiềng Mai, ớt ngâm Na Viên, mơ Mộc Châu, rau thối, thịt chua người Dao, dưa mèo, gân bò xé Mường Tấc, hạt dổi, mắc khén, thịt dơi Chiềng Khoi, nhãn Sông Mã, xôi sắn, cháo mắc nhung, nếp tan Mường Và, đào Mộc Châu, mẳm hén, bánh gai Hát Lót, măng, xôi ngũ sắc, cá tép dầu Quỳnh Nhai, xoài tròn Yên Châu, đọt song mây, rượu cần Thái, núc nác, xôi trám, mận hậu Mộc Châu, hoa đu đủ đực, bê chao Mộc Châu, chẳm chéo, cốm Mường Tấc, rêu đá, khoai sọ Thuận Châu, chè Tà Xùa.
+
+'''Chè Tà Xùa'''
+
+Chè Tà Xùa là loại búp trắng cánh vàng xuất xứ từ xã vùng cao Tà Xùa (Bắc Yên). Chè được bà con dân tộc Mèo sao tẩm trực tiếp. Nước chè vị đắng chát khi mới nhấp nhưng lại ngọt dần. Chè Tà Xùa kén nước, tốt nhất là pha bằng nước suối vùng này, nếu dưới xuôi phải là nước khoáng đun sôi mới ngon.
+
+'''Thịt dơi Chiềng Khoi'''
+
+Tại bản người Thái, bản Hiêm, Chiềng Khoi (Yên Châu) có một hang đá là hang Dơi. Đây là hang rộng, nhiều ngách rất nhiều Dơi. Từ xưa, người Thái nơi đây đã bắt Dơi về chế biến các món ăn như: Hăm pịch kia, Lám kia... Đây là món được coi là quý hiếm để biếu cha mẹ. Theo dân gian người Thái trẻ em ăn thịt Dơi thì chóng lớn, nhanh nhẹn, người già ăn thì khỏe mạnh, kéo dài tuổi thọ.
+
+'''Sơn tra'''
+
+Sơn tra ở đây có vị đậm đà hương thơm đặc trưng. Càng lên cao, khí hậu lạnh táo mèo sơn tra càng vàng tươi, thơm hơn và có vị chua ngọt. Sơn tra tiếng dân tộc Mông gọi là Tu Di. Mùa sơn tra ra hoa, màu trắng thấp thoáng giữa khu rừng trên những dãy núi cao càng làm vẻ đẹp nơi đây thêm thi vị.
+
+'''Rêu Sông Mã'''
+
+Người Thái ở đây chế biến rêu từ những tảng đá ngầm ở thượng nguồn sông Mã (thuộc huyện Sông Mã) thành món nướng, món xào ăn vừa thơm, vừa ngọt mát. Tháng giêng, sông Mã chỉ như một con suối hiền hòa, nước mát rượi, tinh khiết, xanh trong đó cũng là bắt đầu mùa rêu, một loại đặc sản của người Thái.
+
+== Kinh tế ==
+{{Chính|Danh sách đơn vị hành chính Việt Nam theo GRDP}}{{Chính|Danh sách đơn vị hành chính Việt Nam theo GRDP bình quân đầu người}}
+
+Sơn La là một tỉnh thuộc [[Trung du và miền núi phía Bắc]], rất khó khăn về mặt kinh tế.
+
+[[Tổng sản phẩm trên địa bàn (GRDP)]] năm 2018 ước tính tăng 5,59% so với năm 2017, trong đó 6 tháng đầu năm tăng 5,62%, mức tăng trưởng năm nay tuy không đạt mục tiêu tăng trưởng 8,5% đề ra nhưng trong bối cảnh kinh tế địa phương gặp nhiều khó khăn do thời tiết và biến đổi khí hậu thì đạt được mức tăng trưởng trên cũng đã khẳng định tính đúng đắn, kịp thời, hiệu quả của các biện pháp, giải pháp được Tỉnh ủy, [[Hội đồng nhân dân]], [[Ủy ban nhân dân]] tỉnh chỉ đạo quyết liệt các cấp, các ngành, các địa phương cùng thực hiện.
+
+Trong mức tăng trưởng chung của toàn nền kinh tế, khu vực nông, lâm nghiệp, thủy sản tăng 6,18%, đóng góp 1,40 điểm phần trăm vào tăng trưởng chung; khu vực công nghiệp, xây dựng tăng 4,33%, đóng góp 1,44 điểm phần trăm; khu vực dịch vụ tăng 6,33%, đóng góp 2,40 điểm phần trăm; thuế sản phẩm tăng 5,67%, đóng góp 0,35 điểm phần trăm.
+
+Trong khu vực công nghiệp và xây dựng, ngành công nghiệp tăng 3,67% so với cùng kỳ năm trước, đóng góp 0,97 điểm phần trăm vào mức tăng chung, trong đó sản xuất và phân phối điện đạt mức tăng 2,53%, đóng góp 0,57 điểm phần trăm; ngành công nghiệp chế biến chế tạo tăng 9,87%, đóng góp 0,32 điểm phần trăm; ngành cung cấp nước và hoạt động xử lý rác thải, nước thải giảm 1,69%, làm giảm 0,005 điểm phần trăm; ngành khai khoáng tăng 34,66%, làm tăng 0,08 điểm phần trăm mức tăng trưởng chung. Ngành xây dựng tăng trưởng khá với tốc độ 6,95%, đóng góp 0,46 điểm phần trăm vào mức tăng chung.
+
+Trong khu vực dịch vụ, các ngành vẫn giữ mức tăng ổn định so với cùng kỳ năm trước đóng góp tích cực vào tăng trưởng chung của nền kinh tế, trong đó đóng góp của một số ngành có tỷ trọng lớn vào mức tăng trưởng chung như sau: Ngành giáo dục và đào tạo chiếm tỷ trọng lớn nhất, đạt mức tăng 5,52% so với năm 2017, đóng góp 0,44 điểm phần trăm vào mức tăng trưởng chung; ngành bán buôn và bán lẻ, sửa chữa ô tô, mô tô, xe máy năm nay có mức tăng trưởng khá cao 7,62%, đóng góp 0,43 điểm phần trăm; hoạt động của Đảng cộng sản, tổ chức chính trị xã hội tăng 6,02%, đóng góp 0,33 điểm phần trăm; hoạt động kinh doanh bất động sản tăng 4,27%, đóng góp 0,19 điểm phần trăm...
+
+Về cơ cấu kinh tế năm nay, khu vực nông, lâm nghiệp và thủy sản chiếm tỷ trọng 22,28%; khu vực công nghiệp và xây dựng chiếm 33,44%; khu vực dịch vụ chiếm 38,11%; thuế sản phẩm trừ trợ cấp sản phẩm chiếm 6,17% (cơ cấu tương ứng của năm 2017 là 21,88%; 34,59%; 37,36%; 6,17%). Cơ cấu kinh tế chuyển dịch theo hướng tích cực, giảm tỷ trọng khu vực nông, lâm nghiệp thủy sản, tăng tỷ trọng công nghiệp - xây dựng và dịch vụ.<ref name=":023" />
+
+==Giao thông==
+Sơn La là một trong những tỉnh có hệ  thống giao thông chưa đồng bộ, thiếu sót: đường bộ, đường thủy và đường hàng không.
+
+Trên toàn tỉnh có 4 tuyến đường bộ của Việt Nam: [[Quốc lộ 6]] (AH13) mở rộng, [[Quốc lộ 37]], [[Quốc lộ 43]], [[Quốc lộ 279]], [[Quốc lộ 32B]] và đường tỉnh lộ, huyện lộ.
+
+Đường thủy của Sơn La còn hạn chế chủ yếu dọc sông Đà bởi [[cảng Tà Hộc]] tại [[huyện Mai Sơn]].
+
+Đường hàng không của tỉnh Sơn La hiện tại đã ngừng hoạt động từ năm 2004 với [[sân bay Nà Sản]] đặt tại huyện [[Mai Sơn]], cách [[thành phố Sơn La]] khoảng 20&nbsp;km. [[Sân bay Nà Sản]] hiện đang trong quá trình trùng tu và nâng cấp, dự kiến sẽ hoàn thành trước năm 2020. Mục tiêu quy hoạch đến năm 2020 là sân bay nội địa cấp 4C theo quy định [[Tổ chức Hàng không dân dụng quốc tế]] (ICAO) với mức khai thác ban đầu đạt 0,9 triệu hành khách/năm.
+
+Vận tải công cộng, đến năm 2019, Sơn La đã phát triển mạng lưới xe buýt tư nhân gồm 6 tuyến kết nối [[Thành phố Sơn La]] đi các huyện lân cận.
+* Tuyến số 1: [[Mai Sơn]] - [[Thành phố Sơn La]] với tần suất 30 phút/1 chuyến:
+[[Ngã ba Cò Nòi]] - [[Thống Nhất]] - [[19/5]] - [[thị trấn Hát Lót]] - [[sân bay Nà Sản]] - [[Chiềng Mung]] - [[Bệnh viện Đa khoa Sơn La khu vực Tây Bắc]] - ngã tư [[Quốc lộ 4G]] - [[Đại học Tây Bắc]] - [[Vincom Center Plaza Sơn La]] - [[Bệnh viện Đa khoa Sơn La]] - [[Bản Cá]]
+* Tuyến số 2: [[Thuận Châu]] - [[Thành phố Sơn La]]
+* Tuyến số 3: [[Mường La]] - [[Thành phố Sơn La]]
+* Tuyến số 4: [[Sông Mã]] - [[Thành phố Sơn La]]
+* Tuyến số 5: [[Quỳnh Nhai]] - [[Thành phố Sơn La]]
+* Tuyến số 6: [[Bắc Yên]] - [[Thành phố Sơn La]]
+
+==Tham khảo==
+{{Tham khảo|24em}}
+== Liên kết ngoài ==
+{{thể loại Commons|Son La Province}}
+{{Wiktionary|Sơn La}}
+*{{official|http://www.sonla.gov.vn}}
+
+{{Địa phương lân cận
+|Giữa = Sơn La
+|Bắc = [[Lai Châu]]
+|Đông Bắc = [[Yên Bái]]
+|Đông = [[Phú Thọ]]
+|Đông Nam = [[Hòa Bình]]<br>[[Thanh Hóa]]
+|Nam = [[Huaphanh]]
+|Tây Nam = [[Luangprabang (tỉnh)|Luangprabang]]
+|Tây = [[Điện Biên]]
+|Tây Bắc = [[Điện Biên]]
+}}
+{{Đơn vị hành chính cấp tỉnh Việt Nam}}
+{{Đơn vị hành chính thuộc tỉnh Sơn La}}
+
+[[Thể loại:Sơn La| ]]
+[[Thể loại:Khởi đầu năm 1895]]
+[[Thể loại:Tây Bắc Bộ]]

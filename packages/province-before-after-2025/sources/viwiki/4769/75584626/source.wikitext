@@ -1,0 +1,1290 @@
+{{Nhiều vấn đề|
+{{Chú thích trong bài|date=tháng 7/2026}}
+}}
+{{other|Ninh Bình (định hướng)}}
+{{Thông tin đơn vị hành chính Việt Nam | Tỉnh
+| tên = Ninh Bình
+| tên cũ = [[Hà Nam Ninh]], [[Sơn Nam]], [[Hà Nam (tỉnh Việt Nam)|Hà Nam]], [[Nam Định (tỉnh)|Nam Định]]
+| biệt danh = 
+*Vùng đất [[Cố đô Hoa Lư]]
+*Đất Tổ của sân khấu Chèo
+*Đất học [[Hà Nam Ninh]]
+*Nơi phát tích 4 triều đại (Đinh, Lê, Lý, Trần)
+| logo = Logo tỉnh Ninh Bình.svg
+| ghi chú logo = Biểu trưng
+| nhiều hình = {{multiple image
+| border = infobox
+| total_width = 280
+| image_style = border:1;
+| perrow = 2/2/2/3
+| image1 = Co do Hoa Lu 112.JPG
+| caption1 = [[Cố đô Hoa Lư]]
+| image2 = Village_by_the_River_-_panoramio.jpg
+| caption2 = [[Sông Đáy]]
+| image3 = Trang An Festival 2011.jpg
+| caption3 = [[Lễ hội Tràng An]]
+| image4 = Động_Vái_Giời.jpg
+| caption4 = [[Thung Nham]]
+| image5 = Cột_cờ_Nam_Định_(Flag_Tower_of_Nam_Dinh)_(05).jpg
+| caption5 = Cột cờ [[Nam Định (phường)|Nam Định]]
+| image6 = Tháp Phổ Minh.jpg
+| caption6 = Tháp Phổ Minh
+| image7 = Tam Coc by Tuan Mai "007" (8888350545).jpg
+| caption7 = [[Tam Cốc]] mùa lúa chín
+| image8 = Nhà hát Phạm Thị Trân.jpg
+| caption8 = [[nhà hát Phạm Thị Trân]]
+| image9 = Trung tâm TP.Phủ Lý, Hà Nam.JPG
+| caption9 = Phường [[Phủ Lý (phường)|Phủ Lý]] 
+}}
+| vĩ độ = 20.250924
+| kinh độ = 105.974808
+| bản đồ 1 = {{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=2|stroke-color=#000000}}
+| diện tích = 3.942,62 km²<ref name="202/2025/QH15"/><ref name=TT/><ref name="DT">{{Chú thích web |url= https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm |tựa đề= Dự kiến chi tiết diện tích, dân số, quy mô kinh tế của 34 tỉnh, thành mới |tác giả= Lê Hoa |ngày= 2025-06-09 |website= Báo Dân Trí |url lưu trữ= https://web.archive.org/web/20250610031809/https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm |ngày lưu trữ= 2025-06-10 |ngày truy cập= 2025-06-09 |url-status= dead }}</ref>
+| dân số = 4.412.264 người<ref name="202/2025/QH15"/><ref name=TT/><ref name="DT"/>
+| thời điểm dân số = 31/12/2024 
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:4.412.264|R}}/{{formatnum:3.942,62|R}})}} }} người/km²<ref name="202/2025/QH15"/><ref name=TT/><ref name="DT"/>
+| dân tộc = [[Người Việt|Kinh]], [[Người Mường|Mường]]
+| vùng = [[Đồng bằng sông Hồng]] 
+| tỉnh lỵ = Phường [[Hoa Lư (phường)|Hoa Lư]]
+| phân chia hành chính = 32 phường, 97 xã
+| thành lập = 1831
+| trụ sở UBND = Số 3, phố Lê Hồng Phong, phường [[Hoa Lư (phường)|Hoa Lư]]
+| chủ tịch UBND = Nguyễn Thanh Bình
+| hội đồng nhân dân = 85 đại biểu
+| chủ tịch HĐND =[[Lê Quốc Chỉnh]] 
+| chủ tịch UBMTTQ = Đinh Thị Lụa
+| chánh án TAND = Nguyễn Xuân Sơn
+| viện trưởng VKSND = Nguyễn Văn Viện
+| bí thư = [[Trần Huy Tuấn]]
+| đại biểu quốc hội =[[Danh sách Đại biểu Quốc hội Việt Nam khóa XVI#Ninh Bình|19 đại biểu]] 
+| thời điểm kinh tế = 2025<ref name="qdnd.vn">{{Chú thích web|url=https://www.qdnd.vn/kinh-te/cac-van-de/ninh-binh-khat-vong-vuon-tam-1011433 | |tựa đề = Thông cáo báo chí Tình hình kinh tế tỉnh Ninh Bình| website= Báo Quân Đội |ngày truy cập= 2026-04-01 }}</ref>
+| GRDP = 352.164 tỉ đồng (13.2 tỉ USD)<ref name=TT/><ref name="DT"/><ref name="qdnd.vn"/> 
+| GRDP bình quân đầu người = 77,69 triệu đồng ( 2.953 USD)<ref name=TT>{{Chú thích web|url=https://tuoitre.vn/chi-tiet-du-kien-quy-mo-dan-so-dien-tich-kinh-te-cua-34-tinh-thanh-sau-sap-nhap-20250513081155167.htm|tựa đề= Chi tiết dự kiến quy mô dân số, diện tích, kinh tế của 34 tỉnh, thành sau sáp nhập |tác giả= Thành Chung |ngày= 2025-05-13 |website= Tuổi Trẻ Online |url lưu trữ=https://web.archive.org/web/20250513080219/https://tuoitre.vn/chi-tiet-du-kien-quy-mo-dan-so-dien-tich-kinh-te-cua-34-tinh-thanh-sau-sap-nhap-20250513081155167.htm|ngày lưu trữ= 2025-05-13 |ngày truy cập= 2025-05-13 |url-status= dead }}</ref><ref name="DT"/><ref name="qdnd.vn"/> 
+| mã địa lý = [[ISO 3166-2:VN|VN-18]]
+| mã hành chính = 37<ref>{{Chú thích web|url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf|tựa đề= Quyết định số 19/2025/QĐ-TTg về việc ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |ngày= 2025-06-30 |website= Cổng Thông tin điện tử Chính phủ |url lưu trữ=https://web.archive.org/web/20251224142347/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf|ngày lưu trữ= 2025-12-24 |ngày truy cập= 2025-12-24 |url-status= dead }}</ref>
+| mã bưu chính = [[Mã bưu chính Việt Nam|43xxxx]]
+| mã điện thoại = [[Mã điện thoại Việt Nam|229]]
+| biển số xe = [[Biển xe cơ giới Việt Nam|18]], [[Biển xe cơ giới Việt Nam|35]], [[Biển xe cơ giới Việt Nam|90]]
+| web = {{url|ninhbinh.gov.vn}}
+}}
+
+'''Ninh Bình''' là một [[Tỉnh (Việt Nam)|tỉnh]] thuộc vùng [[Đồng bằng sông Hồng]], [[Bắc Bộ|miền Bắc]] [[Việt Nam]], nằm ở cửa ngõ phía nam của thủ đô [[Hà Nội]]. Đây là mảnh đất giàu tiềm năng phát triển với lịch sử văn hóa lâu đời, hạ tầng giao thông kết nối liên vùng thuận lợi.
+
+Vùng đất Ninh Bình từng là [[kinh đô Hoa Lư]] của Việt Nam trong giai đoạn 968–1010, và là nơi phát tích của bốn triều đại liên tiếp: [[Nhà Đinh|Đinh]], [[Tiền Lê|Lê]], [[nhà Lý|Lý]], [[nhà Trần|Trần]] với kỷ nguyên độc lập và thịnh trị lâu dài nhất trong lịch sử phong kiến Việt Nam. Đây là địa bàn có vị trí quan trọng về quân sự, giao thông và văn hóa ở khu vực Bắc Bộ.
+
+Ninh Bình sở hữu [[Quần thể di sản thế giới Tràng An]] cùng nhiều giá trị văn hóa phi vật thể và danh hiệu quốc tế khác như [[Khu dự trữ sinh quyển châu thổ sông Hồng]], tín ngưỡng thờ Mẫu, ca trù và nghệ thuật chèo. Với lợi thế về vị trí địa lý, điều kiện tự nhiên và giá trị lịch sử – văn hóa, Ninh Bình là một trong những trung tâm du lịch và kinh tế của vùng Đồng bằng sông Hồng.<ref>{{Chú thích web |url=https://ktocovuvietnam.vn/du-lich-ninh-binh |ngày truy cập=2021-06-07 |tựa đề=Du lịch Ninh Bình |archive-date=2021-06-07 |archive-url=https://web.archive.org/web/20210607145007/https://ktocovuvietnam.vn/du-lich-ninh-binh |url-status=dead }}</ref> Tỉnh đặt mục tiêu đến năm 2028 trở thành thành phố trực thuộc trung ương.<ref>[https://dantri.com.vn/thoi-su/lo-trinh-dua-ninh-binh-len-do-thi-loai-i-tro-thanh-thanh-pho-trung-uong-20260626165025968.htm Lộ trình đưa Ninh Bình lên đô thị loại I, trở thành thành phố Trung ương]</ref>
+
+== Địa lý ==
+
+=== Vị trí địa lý ===
+Ninh Bình nằm ở vị trí ranh giới 3 khu vực địa lý: Tây Bắc, [[đồng bằng sông Hồng|châu thổ sông Hồng]] và Bắc Trung Bộ. Tỉnh này ở vị trí trọng tâm của nửa phía Bắc Việt Nam, khu vực các tỉnh thành từ Huế trở ra, có vị trí địa lý:
+*Phía Bắc giáp thủ đô [[Hà Nội]] và tỉnh [[Hưng Yên]] qua sông Hồng,
+*Phía Nam giáp tỉnh [[Thanh Hóa]] với ranh giới là [[Dãy núi Tam Điệp]] và [[sông Càn]],
+*Phía Tây giáp tỉnh [[Phú Thọ]],
+*Phía Đông giáp [[Biển Đông]] ([[Vịnh Bắc Bộ]]) với đường bờ biển dài 92&nbsp;km, có 5 cửa sông đổ ra biển là: [[sông Hồng]], sông Sò, [[sông Ninh Cơ]], sông Đáy và [[sông Càn]].
+
+==== Các điểm cực của tỉnh Ninh Bình ====
+*Điểm cực Đông 106°57'Đ tại [[Vườn quốc gia Xuân Thủy]], xã [[Giao Minh]];
+*Điểm cực Tây 105°32'Đ tại [[vườn quốc gia Cúc Phương]], xã [[Cúc Phương]];
+*Điểm cực Nam 19°47'B tại rừng ngập mặn [[Kim Sơn (huyện)|Kim Sơn]] - [[Cồn Nổi]], xã [[Kim Đông]];
+*Điểm cực Bắc 20°70'B tại Hoàn Dương, phường [[Duy Tân (phường)|Duy Tân]].
+*Điểm đặt tại trung tâm nhất tại xã [[Vạn Thắng, Ninh Bình|Vạn Thắng]].
+
+Tỉnh lỵ của tỉnh Ninh Bình đặt tại phường [[Hoa Lư (phường)|Hoa Lư]] cách thủ đô [[Hà Nội]] 93&nbsp;km về phía Nam.
+
+=== Điều kiện tự nhiên ===
+;Địa hình
+Ninh Bình bao gồm cả 3 loại địa hình. Vùng đồi núi và bán sơn địa ở phía Tây mà điển hình là các khu vực bên hữu ngạn sông Đáy từ [[khu du lịch Tam Chúc|Tam Chúc]] tới [[Khu bảo tồn thiên nhiên Vân Long|Vân Long]], khu vực [[Vườn quốc gia Cúc Phương|Cúc Phương]], [[Tràng An]] và Tam Điệp đến [[Đồng Thái]]. Đỉnh Mây Bạc thuộc [[rừng Cúc Phương]] với độ cao 648 m là đỉnh núi cao nhất Ninh Bình. Vùng đồng bằng và ven biển chiếm 3/4 diện tích toàn tỉnh. Tiếp giáp giữa miền núi và đồng bằng là vùng chiêm trũng chuyển tiếp. Rừng ở Ninh Bình có đủ cả rừng sản xuất và rừng đặc dụng các loại. Các khu rừng đặc dụng gồm [[vườn quốc gia Cúc Phương]], [[Khu bảo tồn thiên nhiên đất ngập nước Vân Long]], rừng đặc dụng [[Hoa Lư]], Khu bảo tồn loài Voọc mông trắng Kim Bảng, [[Vườn quốc gia Xuân Thủy]] và rừng ngập mặn Kim Sơn. Khu rừng đặc dụng [[Hoa Lư]] - [[Tràng An]] đã được UNESCO công nhận là di sản thế giới thuộc [[quần thể danh thắng Tràng An]].
+
+Ninh Bình có đường bờ biển dài 90&nbsp;km, thuận lợi khai thác kinh tế, du lịch và phát triển thủy hải sản. Vùng cảnh quan sinh thái cửa sông Đáy và cửa sông Hồng thuộc biển Ninh Bình đã được [[UNESCO]] công nhận là [[khu dự trữ sinh quyển châu thổ sông Hồng]]. Các đảo thuộc vùng biển Ninh Bình nằm rất gần các cửa sông và đều được gọi là cồn gồm: Cồn Lu, Cồn Ngạn, Cồn Xanh, [[Cồn Nổi]] và Cồn Mờ.
+
+;Khí hậu 
+Ninh Bình nằm trong vùng [[khí hậu cận nhiệt đới ẩm]]: mùa hè nóng ẩm, mùa mưa từ tháng 6 đến tháng 10; mùa đông khô lạnh từ tháng 11 năm trước đến tháng 3 năm sau; tháng 4, tháng 10 là mùa xuân và mùa thu, tuy không rõ rệt như các vùng nằm phía trên [[nhiệt đới|vành đai cận nhiệt đới]]. Lượng mưa trung bình hàng năm: 1.700 - 1.900&nbsp;mm; [[nhiệt độ]] trung bình 23,5&nbsp;°C; số giờ [[bức xạ Mặt Trời|nắng]] trong năm: 1.600 - 1.700 giờ; [[độ ẩm]] tương đối trung bình: 80 - 85%.
+
+{{Weather box
+| metric first = y
+| single line = y 
+| location = Trạm Nam Định
+| Jan high C = 19.6
+| Feb high C = 19.7
+| Mar high C = 22.3
+| Apr high C = 26.6
+| May high C = 31.0
+| Jun high C = 32.6
+| Jul high C = 32.9
+| Aug high C = 31.8
+| Sep high C = 30.5
+| Oct high C = 28.2
+| Nov high C = 25.0
+| Dec high C = 21.8
+| year high C = 26.8
+| Jan mean C = 16.4
+| Feb mean C = 17.0
+| Mar mean C = 19.6
+| Apr mean C = 23.5
+| May mean C = 27.2
+| Jun mean C = 28.8
+| Jul mean C = 29.3
+| Aug mean C = 28.6
+| Sep mean C = 27.3
+| Oct mean C = 24.7
+| Nov mean C = 21.4
+| Dec mean C = 18.1
+| year mean C = 23.5
+| Jan low C = 14.4
+| Feb low C = 15.3
+| Mar low C = 17.9
+| Apr low C = 21.5
+| May low C = 24.6
+| Jun low C = 26.2
+| Jul low C = 26.7
+| Aug low C = 26.1
+| Sep low C = 25.0
+| Oct low C = 22.2
+| Nov low C = 18.8
+| Dec low C = 15.6
+| year low C = 21.2
+| Jan record high C = 32.3 
+| Jan record low C = 3.0
+| Feb record high C = 35.2 
+| Feb record low C = 5.3
+| Mar record high C = 36.7 
+| Mar record low C = 6.4
+| Apr record high C = 38.3 
+| Apr record low C = 12.1
+| May record high C = 39.5 
+| May record low C = 17.2
+| Jun record high C = 40.2 
+| Jun record low C = 19.2
+| Jul record high C = 39.4 
+| Jul record low C = 21.3
+| Aug record high C = 37.6 
+| Aug record low C = 22.3
+| Sep record high C = 35.8 
+| Sep record low C = 16.7
+| Oct record high C = 36.4 
+| Oct record low C = 13.3
+| Nov record high C = 34.4 
+| Nov record low C = 6.7
+| Dec record high C = 31.3 
+| Dec record low C = 5.1
+| year record high C = 40.2 
+| year record low C = 3.0 
+| precipitation colour = green
+| Jan precipitation mm = 24
+| Feb precipitation mm = 29
+| Mar precipitation mm = 49
+| Apr precipitation mm = 93
+| May precipitation mm = 177
+| Jun precipitation mm = 206
+| Jul precipitation mm = 230
+| Aug precipitation mm = 296
+| Sep precipitation mm = 323
+| Oct precipitation mm = 226
+| Nov precipitation mm = 62
+| Dec precipitation mm = 28
+| year precipitation mm = 1743
+| Jan precipitation days = 9.3
+| Feb precipitation days = 13.1
+| Mar precipitation days = 16.3
+| Apr precipitation days = 13.4
+| May precipitation days = 12.1
+| Jun precipitation days = 12.9
+| Jul precipitation days = 12.4
+| Aug precipitation days = 15.4
+| Sep precipitation days = 14.5
+| Oct precipitation days = 11.9
+| Nov precipitation days = 7.1
+| Dec precipitation days = 5.6
+| year precipitation days = 143.9
+| Jan humidity = 85.2
+| Feb humidity = 88.1
+| Mar humidity = 90.3
+| Apr humidity = 89.4
+| May humidity = 85.1
+| Jun humidity = 83.2
+| Jul humidity = 81.9
+| Aug humidity = 85.4
+| Sep humidity = 85.6
+| Oct humidity = 83.8
+| Nov humidity = 82.3
+| Dec humidity = 82.5
+| year humidity = 85.2
+| Jan sun = 74
+| Feb sun = 42
+| Mar sun = 44
+| Apr sun = 94
+| May sun = 191
+| Jun sun = 183
+| Jul sun = 209
+| Aug sun = 175
+| Sep sun = 175
+| Oct sun = 169
+| Nov sun = 139
+| Dec sun = 124
+| year sun = 1619
+| source 1 = Vietnam Institute for Building Science and Technology<ref name=IBST>{{chú thích web
+| archive-url = https://web.archive.org/web/20180722172120/http://ibst.vn/DATA/nhyen/QCVN%2002-2009%20BXD%20So%20lieu%20tu%20nhien.pdf
+| archive-date =2018-07-22| url = http://ibst.vn/DATA/nhyen/QCVN%2002-2009%20BXD%20So%20lieu%20tu%20nhien.pdf
+| title = Vietnam Building Code Natural Physical & Climatic Data for Construction
+| publisher = Vietnam Institute for Building Science and Technology
+| access-date = ngày 31 tháng 7 năm 2018}}</ref>
+}}
+
+{{Weather box
+| metric first = y
+| single line = y
+| location = Trạm Hoa Lư 
+| Jan high C = 19.6
+| Feb high C = 19.8
+| Mar high C = 22.4
+| Apr high C = 26.7
+| May high C = 30.9
+| Jun high C = 32.5
+| Jul high C = 32.8
+| Aug high C = 31.8
+| Sep high C = 30.4
+| Oct high C = 28.1
+| Nov high C = 25.0
+| Dec high C = 21.7
+| year high C = 26.8
+| Jan mean C = 16.6
+| Feb mean C = 17.1
+| Mar mean C = 19.7
+| Apr mean C = 23.6
+| May mean C = 27.2
+| Jun mean C = 28.8
+| Jul mean C = 29.3
+| Aug mean C = 28.5
+| Sep mean C = 27.3
+| Oct mean C = 24.8
+| Nov mean C = 21.6
+| Dec mean C = 18.3
+| year mean C = 23.5
+| Jan low C = 14.6
+| Feb low C = 15.4
+| Mar low C = 18.0
+| Apr low C = 21.5
+| May low C = 24.5
+| Jun low C = 26.1
+| Jul low C = 26.5
+| Aug low C = 26.0
+| Sep low C = 24.9
+| Oct low C = 22.5
+| Nov low C = 19.2
+| Dec low C = 15.9
+| year low C = 21.3
+| Jan record high C = 32.4
+| Jan record low C = 5.7
+| Feb record high C = 33.3
+| Feb record low C = 5.7
+| Mar record high C = 36.6
+| Mar record low C = 7.5
+| Apr record high C = 38.8
+| Apr record low C = 12.6
+| May record high C = 40.4
+| May record low C = 17.7
+| Jun record high C = 40.1
+| Jun record low C = 19.1
+| Jul record high C = 39.3
+| Jul record low C = 21.6
+| Aug record high C = 38.2
+| Aug record low C = 21.9
+| Sep record high C = 36.6
+| Sep record low C = 16.8
+| Oct record high C = 34.1
+| Oct record low C = 13.4
+| Nov record high C = 33.4
+| Nov record low C = 10.6
+| Dec record high C = 33.0
+| Dec record low C = 5.8
+| year record high C = 40.4
+| year record low C = 5.7
+| precipitation colour = green
+| Jan precipitation mm = 24
+| Feb precipitation mm = 29
+| Mar precipitation mm = 48
+| Apr precipitation mm = 78
+| May precipitation mm = 165
+| Jun precipitation mm = 232
+| Jul precipitation mm = 224
+| Aug precipitation mm = 317
+| Sep precipitation mm = 369
+| Oct precipitation mm = 244
+| Nov precipitation mm = 68
+| Dec precipitation mm = 32
+| year precipitation mm = 1829
+| Jan precipitation days = 9.1
+| Feb precipitation days = 13.2
+| Mar precipitation days = 16.1
+| Apr precipitation days = 12.9
+| May precipitation days = 12.6
+| Jun precipitation days = 13.8
+| Jul precipitation days = 12.9
+| Aug precipitation days = 15.6
+| Sep precipitation days = 15.1
+| Oct precipitation days = 12.1
+| Nov precipitation days = 7.9
+| Dec precipitation days = 6.1
+| year precipitation days = 147.5
+| Jan humidity = 85.1
+| Feb humidity = 88.1
+| Mar humidity = 90.4
+| Apr humidity = 89.4
+| May humidity = 85.1
+| Jun humidity = 82.7
+| Jul humidity = 81.6
+| Aug humidity = 85.3
+| Sep humidity = 85.2
+| Oct humidity = 82.7
+| Nov humidity = 80.8
+| Dec humidity = 81.3
+| year humidity = 84.8
+| Jan sun = 76
+| Feb sun = 46
+| Mar sun = 46
+| Apr sun = 93
+| May sun = 192
+| Jun sun = 181
+| Jul sun = 208
+| Aug sun = 173
+| Sep sun = 170
+| Oct sun = 167
+| Nov sun = 135
+| Dec sun = 124
+| year sun = 1611
+| source 1 = Vietnam Institute for Building Science and Technology<ref name=IBST>{{chú thích web
+| archiveurl = https://web.archive.org/web/20180722172120/http://ibst.vn/DATA/nhyen/QCVN%2002-2009%20BXD%20So%20lieu%20tu%20nhien.pdf
+| archive-date = ngày 22 tháng 7 năm 2018
+| url = http://ibst.vn/DATA/nhyen/QCVN%2002-2009%20BXD%20So%20lieu%20tu%20nhien.pdf
+| title = Vietnam Building Code Natural Physical & Climatic Data for Construction
+| publisher = Vietnam Institute for Building Science and Technology
+| access-date = ngày 31 tháng 7 năm 2018}}</ref>}}
+
+;Sông hồ
+Ninh Bình có hệ thống sông ngòi dày đặc và phân bố trên khắp tỉnh. [[Sông Đáy]] là sông dài nhất, được xem là dòng sông biểu tượng của tỉnh Ninh Bình vì nó đi qua 34 xã, phường trong tỉnh với chiều dài 2 bên đê lên tới gần 300&nbsp;km và nối thông với hầu hết các sông nội tỉnh khác, tiếp theo là [[sông Hồng]] ở phía đông, là ranh giới với tỉnh Hưng Yên có chiều dài đê gần 100&nbsp;km, qua 18 xã, phường. Các sông khác ở Ninh Bình có [[sông Hoàng Long]], [[Sông Nam Định|sông Đào]], [[sông Ninh Cơ]], [[sông Vạc]], [[Kênh Nhà Lê|kênh Yên Mô]], [[Châu Giang (sông Việt Nam)|sông Châu Giang]], [[Sông Càn]], [[sông Vân]], [[sông Bôi]], [[sông Lạng]], [[sông Can Bầu]] [[sông Bến Đang]], [[sông Nông Giang]], [[sông Nhuệ]], [[sông Sắt]], [[sông Chanh]], sông Mỹ Đô, sông Châu Thành, sông Sò, sông Ninh Mỹ, sông Múc và sông Vọp...
+
+Hệ thống hồ thiên nhiên và hồ nhân tạo ở Ninh Bình rất đa dạng và phong phú. Các hồ lớn như [[hồ Đồng Thái]], [[hồ Yên Quang]], [[hồ Yên Thắng]], hồ Tam Chúc, hồ Cá Voi, hồ Vị Xuyên, hồ Đầm Vực, hồ Thường Xung đem lại nguồn lợi đáng kể về tưới tiêu, giao thông, cảnh quan và khai thác thủy sản.
+
+;Khoáng sản
+*Tài nguyên đá vôi: Đá vôi là nguồn tài nguyên khoáng sản lớn nhất của Ninh Bình. Với những dãy núi đá vôi khá lớn, hướng Tây Bắc – Đông Nam như: [[Khu du lịch Tam Chúc|Tam Chúc]] - [[Khu bảo tồn thiên nhiên đất ngập nước Vân Long|Vân Long]], [[Vườn quốc gia Cúc Phương|Cúc Phương]] - Tam Điệp - [[Đồng Thái]], diện tích trên 230 km2, trữ lượng 65 tỷ m3 khối đá vôi và 20 triệu tấn [[Dolomit|đôlômít]]. Đây là nguồn nguyên liệu lớn để sản xuất xi măng và vật liệu xây dựng và một số hóa chất khác.
+*Tài nguyên đất sét: Phân bố rải rác ở các vùng đồi núi thấp dùng để sản xuất gạch ngói, xi măng và nguyên liệu ngành đúc.
+*Tài nguyên cát sông Hồng: Cát làm vật liệu xây dựng với 14 điểm mỏ cát sông trên các tuyến sông lớn và 2 khu vực mỏ cát ven biển với tổng trữ lượng khoáng sản cát khoảng 206.346.684 m³.<ref>[https://baonamdinh.vn/channel/5085/202205/quan-ly-hieu-qua-nguon-tai-nguyen-khoang-san-2550827/ Quản lý hiệu quả nguồn tài nguyên khoáng sản]</ref>
+*Tài nguyên nước khoáng: Nước khoáng Ninh Bình chất lượng tốt, tập trung chủ yếu ở [[Vườn quốc gia Cúc Phương|Cúc Phương]] và [[Kênh Gà]] có thể khai thác phục vụ sinh hoạt và du lịch với trữ lượng lớn. Đặc biệt nước khoáng Kênh Gà có độ mặn, thường xuyên ở độ nóng 53 - 54&nbsp;°C. Nước khoáng [[Cúc Phương]] có thành phần Magiêbicarbonat cao, sử dụng chế phẩm nước giải khát và chữa bệnh.
+*Tài nguyên than bùn: Trữ lượng khoảng trên 2 triệu tấn, phân bố ở các xã phường như Gia Lâm, Thanh Sơn, Tam Điệp, có thể sử dụng để sản xuất phân vi sinh, phục vụ sản xuất nông nghiệp.
+
+== Lịch sử ==
+{{chính|Lịch sử hành chính Ninh Bình}}
+
+Ninh Bình là vùng đất phù sa cổ ven chân núi có con người cư trú từ rất sớm. Các nhà khảo cổ học đã phát hiện trầm tích có xương răng đười ươi và các động vật trên cạn ở núi Ba ([[Tam Điệp (thành phố)|Tam Điệp]]) và một số hang động khác của kỳ đồ đá cũ thuộc nền [[văn hóa Tràng An]]; ở [[động Người Xưa]], Cúc Phương di chỉ cư trú của con người thời văn hoá Hoà Bình. Di chỉ hang Chuông, hang Gióng Lở mang dấu tích văn hóa Bắc Sơn. Cư dân cổ di chỉ Đồng Vườn đã phát triển lên cư dân cổ di chỉ Mán Bạc ở giai đoạn văn hoá đồ đồng từ cuối Phùng Nguyên đến đầu Đồng Đậu. Trống đồng Ngọc Lũ là hiện vật tiêu biểu của nền văn hóa Đông Sơn, nổi tiếng khu vực Đông Nam Á, phản ánh nhiều nét đặc trưng văn hóa của cư dân Lạc Việt và giữ một vị trí quan trọng trong sinh hoạt đa dạng của cư dân xã hội Đông Sơn.<ref>[https://dsvh.gov.vn/trong-dong-ngoc-lu-3014 Trống đồng Ngọc Lũ]</ref> Ninh Bình là địa bàn có nhiều di tích khảo cổ học thuộc các thời kỳ [[văn hóa Tràng An]], Hòa Bình, Bắc Sơn, Đa Bút và Đông Sơn. Thời Hùng Vương và thời Bắc Thuộc vùng đất này là huyện Câu Lậu thuộc quận Giao Chỉ ( Vùng [[Bờ biển|duyên hải]] từ tỉnh [[Thái Bình (tỉnh)|Thái Bình]] đến huyện [[Kim Sơn (huyện)|Kim Sơn]] tỉnh Ninh Bình khi đó chưa được bồi đắp thành đất liền ,vẫn là [[biển]]).
+
+Năm 968, vua [[Đinh Tiên Hoàng]] dẹp xong [[loạn 12 sứ quân]], lên ngôi hoàng đế, lập ra nhà nước [[Đại Cồ Việt]] nơi đây đã được chọn là để đặt [[kinh đô Hoa Lư]]. Thời nhà Lý, Trần vùng đất này thuộc 3 lộ, phủ: Hoàng Giang, Trường Yên và Thiên Trường. Thời Hậu Lê được sáp nhập thành trấn Sơn Nam với các phủ: Lý Nhân, Thiên Quan, Trường Yên, Nghĩa Hưng và Thiên Trường, trụ sở tỉnh lỵ tại Vân Sàng (Ninh Bình)
+
+Năm 1822, vua Minh Mạng cho đổi Trấn Thanh Hoa Ngoại thành Trấn Thanh Bình rồi lại đổi tên thành trấn Ninh Bình, danh xưng Ninh Bình với hàm ý là vùng đất khang ninh, yên bình và phát triển xuất hiện từ đó.<ref>[https://ninhbinh.gov.vn/ky-niem-30-nam-tai-lap-tinh/to-chuc-trong-the-le-ky-niem-200-nam-danh-xung-ninh-binh-va-30-nam-tai-lap-tinh-293302#:~:text=T%E1%BB%9Bi%20n%C4%83m%20Minh%20M%E1%BA%A1ng%20th%E1%BB%A9,b%C3%ACnh%20y%C3%AAn%20c%C3%B3%20t%E1%BB%AB%20%C4%91%C3%B3. Tổ chức trọng thể Lễ kỷ niệm 200 năm Danh xưng Ninh Bình và 30 năm tái lập tỉnh]</ref> Đến năm 1831 khi thành lập 13 tỉnh Bắc Kỳ, vùng đất này thuộc 3 tỉnh [[Hà Nội (tỉnh)|Hà Nội]], Ninh Bình, [[Nam Định (tỉnh)|Nam Định]]. Tới năm 1890 tỉnh [[Hà Nam (tỉnh Việt Nam)|Hà Nam]] được thành lập khi tách 1 phần phía Nam của tỉnh Hà Nội [[Tập tin:Carte_de_la_province_de_Ninh-Binh_-_btv1b530586051.jpg|nhỏ|Ninh Bình năm 1891]] Năm 1965, tỉnh Nam Định được hợp nhất với tỉnh Hà Nam thành tỉnh [[Nam Hà (tỉnh)|Nam Hà]]. Năm 1975, tỉnh Nam Hà hợp nhất với tỉnh Ninh Bình thành tỉnh [[Hà Nam Ninh]].<ref>{{Chú thích web|url=https://photo.znews.vn/w660/Uploaded/dqmblcvo/2025_03_13/1.jpg|tựa đề= Nghị quyết số 245-NQ/TW về việc bỏ khu, hợp tỉnh |ngày= 1975-09-20 |website=|url lưu trữ=https://web.archive.org/web/20250407082825/https://photo.znews.vn/w660/Uploaded/dqmblcvo/2025_03_13/1.jpg|ngày lưu trữ= 2025-04-07 |ngày truy cập= 2025-04-07 |url-status= dead }}</ref><ref>{{Chú thích web|url=https://hethongphapluat.com/nghi-quyet-ve-viec-hop-nhat-mot-so-tinh-do-quoc-hoi-ban-hanh.html|tựa đề= Nghị quyết về việc hợp nhất một số tỉnh |ngày= 1975-12-27 |website= Hệ thống pháp luật |url lưu trữ=|ngày lưu trữ=|ngày truy cập=|url-status=live}}</ref> Năm 1991 tỉnh Ninh Bình cũ tái lập,<ref>{{Chú thích web|url=https://hethongphapluat.com/nghi-quyet-ve-viec-phan-vach-lai-dia-gioi-hanh-chinh-mot-so-tinh-do-quoc-hoi-ban-hanh.html|tựa đề= Nghị quyết về việc phân vạch lại địa giới hành chính một số tỉnh |tác giả=|ngày= 1991-12-26 |website= Hệ thống pháp luật |url lưu trữ=|ngày lưu trữ=|ngày truy cập=|url-status=live}}</ref> và đến năm 1996 [[Hà Nam (tỉnh Việt Nam)|Hà Nam]], [[Nam Định (tỉnh)|Nam Định]] cũng tái lập cho đến năm 2025 cả 3 tỉnh lại hợp nhất thành tỉnh Ninh Bình.<ref>{{Chú thích web|url=https://hethongphapluat.com/nghi-quyet-ve-viec-chia-va-dieu-chinh-dia-gioi-hanh-chinh-mot-so-tinh-do-quoc-hoi-ban-hanh.html|tựa đề= Nghị quyết về việc chia và điều chỉnh địa giới hành chính một số tỉnh |tác giả=|ngày= 1996-11-06 |website= Hệ thống pháp luật |url lưu trữ=|ngày lưu trữ=|ngày truy cập=|url-status=live}}</ref>
+
+Ngày 12 tháng 6 năm 2025, Quốc hội ban hành Nghị quyết số 202/2025/QH15<ref name="202/2025/QH15">{{Chú thích web|url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94532|tựa đề= Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh |ngày= 2025-06-12 |website= Cổng thông tin điện tử Quốc hội Việt Nam |url lưu trữ=https://web.archive.org/web/20250612150244/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94532|ngày lưu trữ= 2025-06-12 |ngày truy cập= 2025-06-12 |url-status=live}}</ref> về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày 12 tháng 6 năm 2025). Theo đó, sáp nhập tỉnh [[Hà Nam (tỉnh Việt Nam)|Hà Nam]] và tỉnh [[Nam Định (tỉnh)|Nam Định]] vào tỉnh Ninh Bình.
+
+Sau khi sáp nhập, tỉnh Ninh Bình có 3.942,62&nbsp;km² diện tích tự nhiên và quy mô dân số là 4.412.264 người.
+
+Ngày 16 tháng 6 năm 2025, theo nghị quyết sửa đổi Hiến pháp năm 2013, toàn bộ các đơn vị hành chính cấp huyện tại tỉnh Ninh Bình được giải thể. Cùng ngày, theo nghị quyết sắp xếp đơn vị hành chính cấp xã, tỉnh Ninh Bình có 129 đơn vị hành chính cấp xã, gồm 32 phường và 97 xã.<ref>{{Chú thích web|url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94585|tựa đề= Nghị quyết số 203/2025/QH15 về việc Sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |ngày= 2025-06-16 |website= Cổng thông tin điện tử Quốc hội Việt Nam |url lưu trữ=https://web.archive.org/web/20250616150846/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94585|ngày lưu trữ= 2025-06-16 |ngày truy cập= 2025-06-16 |url-status= dead }}</ref><ref name="1674/NQ-UBTVQH15">{{Chú thích web|url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94614|tựa đề= Nghị quyết số 1674/NQ-UBTVQH15 về việc sắp xếp các đơn vị hành chính cấp xã của tỉnh Ninh Bình năm 2025 |ngày= 2025-06-16 |website= Cổng thông tin điện tử Quốc hội Việt Nam |url lưu trữ=https://web.archive.org/web/20250616150846/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94614|ngày lưu trữ= 2025-06-16 |ngày truy cập= 2025-06-16 |url-status= dead }}</ref>
+
+Ninh Bình là vùng đất được bồi đắp bởi phù sa của [[sông Hồng]], [[sông Đáy]], [[sông Hoàng Long]], sông Đào và thu nhận đất đai bị bào mòn từ vùng núi cao trôi xuống. Chính những điều kiện tự nhiên đã tạo cho vùng đất này các đặc trưng về văn hóa lịch sử của một khu vực giao thoa hay vùng đệm kết nối văn hóa từ Đông sang Tây, từ Bắc xuống Nam và chính những đặc điểm này đã hình thành nên tính cách của người Ninh Bình trong suốt chiều dài lịch sử dựng nước và giữ nước của dân tộc.
+
+Về mặt quân sự, Ninh Bình cũng giữ một vị trí then chốt vì [[đèo Tam Điệp|đèo Ba Dội]] nằm trong dãy Tam Điệp là một cửa giao thông hiểm yếu giữa Ninh Bình và Thanh Hóa, dùng đường bộ từ [[Thăng Long]] vào [[Thanh Hóa]] hay từ [[Đàng Trong]] ra [[Đàng Ngoài]], đều phải vượt đèo này. Hiện tại, nơi đây là đại bản doanh của [[Quân đoàn 12, Quân đội nhân dân Việt Nam|Quân đoàn 12]], là một trong 2 quân đoàn chủ lực của quân đội nhân dân Việt Nam. Các đơn vị quân đội khác đóng quân trên địa bàn Ninh Bình gồm có: Lữ đoàn 279; Lữ đoàn 241; Lữ đoàn 202; Kho J102; Sư đoàn 350; [[Bệnh viện Quân y 5|Viện Quân y 5]]; Các Đồn Biên phòng: Kim Sơn, Cửa khẩu cảng Ninh Phúc, Văn Lý, Quất Lâm, Hải Thịnh, Ngọc Lâm và Ba Lạt.
+Ninh Bình là vùng đất được bồi đắp bởi phù sa của sông Hồng, sông Đáy, sông Hoàng Long, sông Đào và thu nhận đất đai bị bào mòn từ vùng núi cao trôi xuống. Chính những điều kiện tự nhiên đã tạo cho vùng đất này các đặc trưng về văn hóa lịch sử của một khu vực giao thoa hay vùng đệm kết nối văn hóa từ Đông sang Tây, từ Bắc xuống Nam và chính những đặc điểm này đã hình thành nên tính cách của người Ninh Bình trong suốt chiều dài lịch sử dựng nước và giữ nước của dân tộc.
+
+== Hành chính ==
+{{Main|Danh sách đơn vị hành chính thuộc tỉnh Ninh Bình}}
+
+Tỉnh Ninh Bình có 129 đơn vị hành chính cấp cơ sở gồm 32 phường, 97 xã như sau:<ref>[https://vov.vn/chinh-tri/toan-van-nghi-quyet-ve-sap-xep-cac-don-vi-hanh-chinh-cap-xa-cua-tinh-ninh-binh-post1207691.vov Nghị quyết của Quốc hội về sắp xếp các đơn vị hành chính cấp xã của tỉnh Ninh Bình năm 2025]</ref>
+
+{| class="wikitable sortable" cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+|+
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các đơn vị hành chính trực thuộc tỉnh Ninh Bình<ref>Căn cứ vào Đề án số 339/ĐA-CP của Chính phủ ngày 09 tháng 5 năm 2025 về việc sắp xếp các đơn vị hành chính cấp xã của tỉnh Ninh Bình (mới) năm 2025</ref>
+|-
+| valign="top" width="25%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" style="background: #f9f9f9; font-size: 90%; text-align: right;" width="100%"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF"|Diện tích<br>(km²)
+! style="border-bottom: 2px solid #CCCCFF"|Dân số<br>(người)
+|-
+| colspan="3" align="left" style="background: #F5F5DC; padding-left: 30px;" |'''Phường (32)'''
+|-
+| align="left" |[[Châu Sơn (phường)|Châu Sơn]]
+|17,45
+|33.348
+|-
+| align="left" |[[Duy Hà]]
+|15,46
+|24.310
+|-
+| align="left" |[[Duy Tân (phường)|Duy Tân]]
+|28,86
+|28.299
+|-
+| align="left" |[[Duy Tiên (phường)|Duy Tiên]]
+|28,93
+|39.957
+|-
+| align="left" |[[Đông A]]
+|22,07
+|31.802
+|-
+| align="left" |[[Đông Hoa Lư]]
+|25,62
+|34.414
+|-
+| align="left" |[[Đồng Văn (phường)|Đồng Văn]]
+|18,88
+|34.484
+|-
+| align="left" |[[Hà Nam (phường)|Hà Nam]]
+|29,98
+|33.343
+|-
+| align="left" |[[Hoa Lư (phường)|Hoa Lư]]
+|53,72
+|148.406
+|-
+| align="left" |[[Hồng Quang (phường)|Hồng Quang]]
+|27,53
+|35.784
+|-
+| align="left" |[[Kim Bảng (phường)|Kim Bảng]]
+|15,22
+|23.232
+|-
+| align="left" |[[Kim Thanh (phường)|Kim Thanh]]
+|13,49
+|26.050
+|-
+| align="left" |[[Lê Hồ (phường)|Lê Hồ]]
+|22,27
+|32.373
+|-
+| align="left" |[[Liêm Tuyền]]
+|21,44
+|27.781
+|-
+| align="left" |[[Lý Thường Kiệt, Ninh Bình|Lý Thường Kiệt]]
+|53,66
+|22.958
+|-
+| align="left" |[[Mỹ Lộc (phường)|Mỹ Lộc]]
+|35,54
+|38.068
+|-
+| align="left" |[[Nam Định (phường)|Nam Định]]
+|19,91
+|188.751
+|-
+| align="left" |[[Nam Hoa Lư]]
+|54,30
+|53.514
+|-
+| align="left" |[[Nguyễn Úy (phường)|Nguyễn Úy]]
+|24,21
+|27.676
+|-
+| align="left" |[[Phủ Lý (phường)|Phủ Lý]]
+|11,84
+|62.893
+|-
+| align="left" |[[Phù Vân]]
+|19,34
+|40.927
+|-
+| align="left" |[[Tam Chúc]]
+|46,56
+|18.114
+|-
+| align="left" |[[Tam Điệp (phường)|Tam Điệp]]
+|41,20
+|26.845
+|-
+| align="left" |[[Tây Hoa Lư]]
+|84,96
+|46.648
+|-
+| align="left" |[[Thành Nam]]
+|16,03
+|30.830
+|-
+| align="left" |[[Thiên Trường (phường)|Thiên Trường]]
+|20,53
+|31.031
+|-
+| align="left" |[[Tiên Sơn (phường)|Tiên Sơn]]
+|23,96
+|27.062
+|-
+| align="left" |[[Trung Sơn (phường)|Trung Sơn]]
+|38,15
+|31.539
+|-
+| align="left" |[[Trường Thi]]
+|31,50
+|69.988
+|-
+| align="left" |[[Vị Khê]]
+|25,27
+|36.210
+|-
+| align="left" |[[Yên Sơn (phường)|Yên Sơn]]
+|35,86
+|21.196
+|-
+| align="left" |[[Yên Thắng (phường)|Yên Thắng]]
+|29,95
+|28.405
+|-
+|}
+| valign="top" width="25%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" style="background: #f9f9f9; font-size: 90%; text-align: right;" width="100%"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF"|Diện tích<br>(km²)
+! style="border-bottom: 2px solid #CCCCFF"|Dân số<br>(người)
+|-
+
+| colspan="3" align="left" style="background: #F5F5DC; padding-left: 30px;" |'''Xã (97)'''
+|-
+| align="left" |[[Bắc Lý, Ninh Bình|Bắc Lý]]
+|31,17
+|30.984
+|-
+| align="left" |[[Bình An, Ninh Bình|Bình An]]
+|37,76
+|38.881
+|-
+| align="left" |[[Bình Giang, Ninh Bình|Bình Giang]]
+|24,15
+|24.343
+|-
+| align="left" |[[Bình Lục, Ninh Bình|Bình Lục]]
+|23,97
+|35.225
+|-
+| align="left" |[[Bình Minh, Ninh Bình|Bình Minh]]
+|34,44
+|31.090
+|-
+| align="left" |[[Bình Mỹ, Ninh Bình|Bình Mỹ]]
+|30,28
+|33.253
+|-
+| align="left" |[[Bình Sơn, Ninh Bình|Bình Sơn]]
+|28,06
+|32.475
+|-
+| align="left" |[[Cát Thành]]
+|23,07
+|39.035
+|-
+| align="left" |[[Chất Bình]]
+|18,60
+|17.237
+|-
+| align="left" |[[Cổ Lễ]]
+|18,33
+|40.163
+|-
+| align="left" |[[Cúc Phương]]
+|132,68
+|8.650
+|-
+| align="left" |[[Đại Hoàng]]
+|23,75
+|23.848
+|-
+| align="left" |[[Định Hóa, Ninh Bình|Định Hóa]]
+|21,44
+|24.438
+|-
+| align="left" |[[Đồng Thái]]
+|47,60
+|24.049
+|-
+| align="left" |[[Đồng Thịnh]]
+|30,45
+|30.888
+|-
+| align="left" |[[Gia Hưng (xã)|Gia Hưng]]
+|28,37
+|21.669
+|-
+| align="left" |[[Gia Lâm, Ninh Bình|Gia Lâm]]
+|37,61
+|20.189
+|-
+| align="left" |[[Gia Phong]]
+|18,53
+|13.034
+|-
+| align="left" |[[Gia Trấn]]
+|18,76
+|20.619
+|-
+| align="left" |[[Gia Tường]]
+|27,09
+|19.489
+|-
+| align="left" |[[Gia Vân]]
+|26,94
+|25.920
+|-
+| align="left" |[[Gia Viễn, Ninh Bình|Gia Viễn]]
+|39,80
+|28.921
+|-
+| align="left" |[[Giao Bình]]
+|21,75
+|26.708
+|-
+| align="left" |[[Giao Hòa]]
+|29,62
+|41.717
+|-
+| align="left" |[[Giao Hưng]]
+|21,74
+|27.985
+|-
+| align="left" |[[Giao Minh]]
+|27,74
+|29.261
+|-
+| align="left" |[[Giao Ninh]]
+|25,81
+|33.777
+|-
+| align="left" |[[Giao Phúc]]
+|19,47
+|29.758
+|-
+| align="left" |[[Giao Thủy, Ninh Bình|Giao Thủy]]
+|23,52
+|46.557
+|-
+| align="left" |[[Hải An, Ninh Bình|Hải An]]
+|25,19
+|26.920
+|-
+| align="left" |[[Hải Anh]]
+|26,13
+|51.246
+|-
+| align="left" |[[Hải Hậu, Ninh Bình|Hải Hậu]]
+|23,87
+|45.227
+|-
+|}
+| valign="top" width="25%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" style="background: #f9f9f9; font-size: 90%; text-align: right;" width="100%"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF"|Diện tích<br>(km²)
+! style="border-bottom: 2px solid #CCCCFF"|Dân số<br>(người)
+|-
+| align="left" |[[Hải Hưng, Ninh Bình|Hải Hưng]]
+|39,89
+|64.918
+|-
+| align="left" |[[Hải Quang]]
+|24,68
+|25.798
+|-
+| align="left" |[[Hải Thịnh]]
+|32,92
+|33.521
+|-
+| align="left" |[[Hải Tiến]]
+|24,19
+|44.728
+|-
+| align="left" |[[Hải Xuân]]
+|31,27
+|44.001
+|-
+| align="left" |[[Hiển Khánh]]
+|30,24
+|29.965
+|-
+| align="left" |[[Hồng Phong, Ninh Bình|Hồng Phong]]
+|29,21
+|28.215
+|-
+| align="left" |[[Khánh Hội (xã)|Khánh Hội]]
+|22,89
+|23.641
+|-
+| align="left" |[[Khánh Nhạc]]
+|19,58
+|25.612
+|-
+| align="left" |[[Khánh Thiện]]
+|24,51
+|25.693
+|-
+| align="left" |[[Khánh Trung]]
+|26,42
+|26.453
+|-
+| align="left" |[[Kim Đông]]
+|81,82
+|9.409
+|-
+| align="left" |[[Kim Sơn, Ninh Bình|Kim Sơn]]
+|17,60
+|20.161
+|-
+| align="left" |[[Lai Thành]]
+|22,07
+|28.718
+|-
+| align="left" |[[Liêm Hà]]
+|20,95
+|27.732
+|-
+| align="left" |[[Liên Minh, Ninh Bình|Liên Minh]]
+|31,05
+|29.825
+|-
+| align="left" |[[Lý Nhân, Ninh Bình|Lý Nhân]]
+|18,38
+|32.183
+|-
+| align="left" |[[Minh Tân, Ninh Bình|Minh Tân]]
+|33,09
+|29.965
+|-
+| align="left" |[[Minh Thái]]
+|23,44
+|33.330
+|-
+| align="left" |[[Nam Đồng (xã)|Nam Đồng]]
+|23,42
+|28.348
+|-
+| align="left" |[[Nam Hồng]]
+|28,81
+|31.823
+|-
+| align="left" |[[Nam Lý]]
+|28,69
+|37.887
+|-
+| align="left" |[[Nam Minh (xã)|Nam Minh]]
+|24,79
+|38.121
+|-
+| align="left" |[[Nam Ninh (xã)|Nam Ninh]]
+|25,80
+|37.668
+|-
+| align="left" |[[Nam Trực (xã)|Nam Trực]]
+|20,47
+|39.822
+|-
+| align="left" |[[Nam Xang]]
+|22,70
+|34.150
+|-
+| align="left" |[[Nghĩa Hưng, Ninh Bình|Nghĩa Hưng]]
+|26,31
+|38.631
+|-
+| align="left" |[[Nghĩa Lâm, Ninh Bình|Nghĩa Lâm]]
+|28,10
+|30.959
+|-
+| align="left" |[[Nghĩa Sơn]]
+|26,83
+|28.669
+|-
+| align="left" |[[Nhân Hà]]
+|23,98
+|24.535
+|-
+| align="left" |[[Nho Quan (xã)|Nho Quan]]
+|32,62
+|33.204
+|-
+| align="left" |[[Ninh Cường]]
+|22,28
+|32.887
+|-
+| align="left" |[[Ninh Giang, Ninh Bình|Ninh Giang]]
+|23,69
+|38.745
+|-
+|}
+| valign="top" width="25%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" style="background: #f9f9f9; font-size: 90%; text-align: right;" width="100%"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF"|Diện tích<br>(km²)
+! style="border-bottom: 2px solid #CCCCFF"|Dân số<br>(người)
+|-
+| align="left" |[[Phát Diệm]]
+|23,10
+|37.617
+|-
+| align="left" |[[Phong Doanh]]
+|34,98
+|37.231
+|-
+| align="left" |[[Phú Long]]
+|74,79
+|13.685
+|-
+| align="left" |[[Phú Sơn]]
+|41,12
+|22.712
+|-
+| align="left" |[[Quang Hưng, Ninh Bình|Quang Hưng]]
+|15,89
+|20.701
+|-
+| align="left" |[[Quang Thiện]]
+|20,73
+|26.860
+|-
+| align="left" |[[Quỹ Nhất]]
+|32,70
+|32.984
+|-
+| align="left" |[[Quỳnh Lưu, Ninh Bình|Quỳnh Lưu]]
+|26,49
+|18.035
+|-
+| align="left" |[[Rạng Đông, Ninh Bình|Rạng Đông]]
+|32,39
+|30.956
+|-
+| align="left" |[[Tân Minh, Ninh Bình|Tân Minh]]
+|44,65
+|34.937
+|-
+| align="left" |[[Tân Thanh, Ninh Bình|Tân Thanh]]
+|36,35
+|26.315
+|-
+| align="left" |[[Thanh Bình, Ninh Bình|Thanh Bình]]
+|23,85
+|21.685
+|-
+| align="left" |[[Thanh Lâm (xã)|Thanh Lâm]]
+|52,91
+|29.550
+|-
+| align="left" |[[Thanh Liêm (xã)|Thanh Liêm]]
+|23,27
+|23.609
+|-
+| align="left" |[[Thanh Sơn, Ninh Bình|Thanh Sơn]]
+|35,69
+|23.758
+|-
+| align="left" |[[Trần Thương (xã)|Trần Thương]]
+|26,32
+|21.933
+|-
+| align="left" |[[Trực Ninh (xã)|Trực Ninh]]
+|17,26
+|18.453
+|-
+| align="left" |[[Vạn Thắng, Ninh Bình|Vạn Thắng]]
+|26,22
+|35.807
+|-
+| align="left" |[[Vĩnh Trụ]]
+|17,59
+|36.158
+|-
+| align="left" |[[Vụ Bản (xã)|Vụ Bản]]
+|21,56
+|26.675
+|-
+| align="left" |[[Vũ Dương (xã)|Vũ Dương]]
+|30,59
+|39.429
+|-
+| align="left" |[[Xuân Giang, Ninh Bình|Xuân Giang]]
+|32,04
+|46.053
+|-
+| align="left" |[[Xuân Hồng, Ninh Bình|Xuân Hồng]]
+|27,61
+|40.698
+|-
+| align="left" |[[Xuân Hưng]]
+|23,17
+|53.539
+|-
+| align="left" |[[Xuân Trường, Ninh Bình|Xuân Trường]]
+|33,29
+|71.656
+|-
+| align="left" |[[Ý Yên (xã)|Ý Yên]]
+|46,73
+|53.419
+|-
+| align="left" |[[Yên Cường, Ninh Bình|Yên Cường]]
+|32,44
+|42.810
+|-
+| align="left" |[[Yên Đồng, Ninh Bình|Yên Đồng]]
+|30,53
+|35.898
+|-
+| align="left" |[[Yên Khánh (xã)|Yên Khánh]]
+|29,88
+|40.134
+|-
+| align="left" |[[Yên Mạc]]
+|20,60
+|22.524
+|-
+| align="left" |[[Yên Mô (xã)|Yên Mô]]
+|28,60
+|35.415
+|-
+| align="left" |[[Yên Từ]]
+|23,98
+|31.917
+|-
+|}
+|}
+
+Số liệu trên cho thấy:
+* 10 đơn vị có diện tích lớn nhất là: xã [[Cúc Phương]], phường [[Tây Hoa Lư]], xã [[Kim Đông]], xã [[Phú Long]], phường [[Nam Hoa Lư]], phường [[Hoa Lư (phường)|Hoa Lư]], phường [[Lý Thường Kiệt (phường)|Lý Thường Kiệt]], xã [[Thanh Lâm (xã)|Thanh Lâm]], xã [[Đồng Thái]], xã [[Ý Yên (xã)|Ý Yên]]. 10 đơn vị có diện tích nhỏ nhất là: phường [[Phủ Lý (phường)|Phủ Lý]], phường [[Kim Thanh (phường)|Kim Thanh]], phường [[Kim Bảng (phường)|Kim Bảng]], phường [[Duy Hà]], xã [[Quang Hưng, Ninh Bình|Quang Hưng]], phường [[Thành Nam]], xã [[Trực Ninh (xã)|Trực Ninh]], phường [[Châu Sơn (phường)|Châu Sơn]], xã [[Vĩnh Trụ]], xã [[Kim Sơn, Ninh Bình|Kim Sơn]]. 
+* 10 đơn vị có dân số lớn nhất là: phường [[Nam Định (phường)|Nam Định]], phường [[Hoa Lư (phường)|Hoa Lư]], xã [[Xuân Trường, Ninh Bình|Xuân Trường]], phường [[Trường Thi]], xã [[Hải Hưng, Ninh Bình|Hải Hưng]], phường [[Phủ Lý (phường)|Phủ Lý]], xã [[Xuân Hưng]], phường [[Nam Hoa Lư]], xã [[Ý Yên (xã)|Ý Yên]], xã [[Hải Anh]]. 10 đơn vị có dân số nhỏ nhất là: xã [[Cúc Phương]], xã [[Kim Đông]], xã [[Gia Phong]], xã [[Phú Long]], xã [[Chất Bình]], xã [[Quỳnh Lưu, Ninh Bình|Quỳnh Lưu]], phường [[Tam Chúc]], xã [[Trực Ninh (xã)|Trực Ninh]], xã [[Gia Tường]], xã [[Kim Sơn, Ninh Bình|Kim Sơn]].
+
+==Kinh tế==
+[[Tập tin:Damninhbinh3.JPG|nhỏ|phải|300px|Công trình [[nhà máy đạm Ninh Bình]]]]{{Chính|Danh sách đơn vị hành chính Việt Nam theo GRDP}}{{Chính|Danh sách đơn vị hành chính Việt Nam theo GRDP bình quân đầu người}}
+
+Theo dữ liệu [[Sáp nhập tỉnh, thành Việt Nam 2025]], Ninh Bình có diện tích là 3.943&nbsp;km² (xếp thứ 31); dân số là 4.412.264 người (xếp thứ 6); [[Tổng sản phẩm trên địa bàn|GRDP]] năm 2024 đạt 310.282.050 triệu [[Đồng (đơn vị tiền tệ)|VNĐ]] (xếp thứ 11); thu ngân sách năm 2024 đạt 55.018.945 triệu VNĐ (xếp thứ 6); thu nhập bình quân đạt 69,91 triệu VNĐ/năm (xếp thứ 7).<ref>{{Chú thích web |tiêu đề=Danh sách dự kiến tên gọi của 34 tỉnh, thành phố và trung tâm chính trị - hành chính |url=https://vtv.vn/chinh-tri/danh-sach-du-kien-ten-goi-cua-34-tinh-thanh-pho-va-trung-tam-chinh-tri-hanh-chinh-20250413230809506.htm |ngày truy cập=14 tháng 4 năm 2025 |website=vtv.vn |ngôn ngữ=vi}}</ref>
+
+[[Tập tin:Khu công nghiệp Đồng Văn, Hà Nam.JPG|nhỏ|phải|300px|Cổng vào khu công nghiệp Đồng Văn I]]
+Ninh Bình có vị trí quan trọng của vùng cửa ngõ miền Bắc và thủ đô Hà Nội. Đây là nơi tiếp nối giao lưu kinh tế và văn hoá giữa khu vực châu thổ [[sông Hồng]] với Bắc Trung Bộ, giữa vùng [[đồng bằng sông Hồng|đồng bằng Bắc Bộ]] với vùng rừng núi Tây Bắc. Thế mạnh kinh tế nổi bật của Ninh Bình là du lịch, thương mại và các ngành công nghiệp ô tô, dày da, cơ khí, vật liệu xây dựng, dệt may và công nghệ cao.
+
+Ninh Bình là địa phương có nhiều doanh nghiệp tư nhân lớn như: Công ty Cổ phần Ô tô Hyundai Thành Công, Công ty cổ phần dược phẩm Nam Hà, Công ty cổ phần may sông Hồng, Công ty cổ phần nhựa châu Âu, Tập đoàn The Vissai, Doanh nghiệp Xuân Trường, Tập đoàn Xuân Thành,...
+
+Năm 2024, tốc độ tăng trưởng GRDP ước đạt 8,52%; Quy mô kinh tế ước đạt 98,9 nghìn tỷ đồng; GRDP bình quân đầu người đạt 96 triệu đồng, xếp thứ 11. Cơ cấu kinh tế chuyển dịch theo hướng tăng tỷ trọng khu vực dịch vụ, đến hết năm 2024 tỷ trọng ngành dịch vụ là 48,2%; công nghiệp - xây dựng là 41,7%; nông, lâm, thủy sản là 10,1%. Tổng thu ngân sách trên địa bàn ước đạt 20.150 tỷ đồng, tăng 24,8% so với năm 2023.<ref>[https://www.congluan.vn/buc-tranh-kinh-te--xa-hoi-co-nhieu-diem-sang-ninh-binh-vung-tin-buoc-vao-nam-moi-2025-post331507.html Bức tranh kinh tế - xã hội có nhiều điểm sáng, Ninh Bình vững tin bước vào năm mới 2025]</ref>
+
+Trước khi hợp nhất, Hà Nam nổi lên với công nghiệp chế biến, chế tạo; Ninh Bình phát triển mạnh về du lịch – dịch vụ; còn Nam Định có thế mạnh về công nghiệp nhẹ và đào tạo nhân lực.<ref>[https://kinhtemoitruong.vn/hop-nhat-ha-nam-ninh-binh-nam-dinh-co-hoi-but-pha-toan-dien-97913.html Hợp nhất Hà Nam, Ninh Bình, Nam Định – Cơ hội bứt phá toàn diện]</ref>
+
+9 tháng đầu năm 2025, Tốc độ tăng trưởng GRDP của tỉnh Ninh Bình đạt 10,45%, đứng thứ 3/34 tỉnh, thành phố. Quy mô kinh tế theo giá hiện hành đạt 248.056 tỷ đồng; cơ cấu kinh tế công nghiệp -xây dựng chiếm 46,52%, dịch vụ 34,47%, nông-lâm-thủy sản 11,08%.<ref>[https://baoninhbinh.org.vn/ubnd-tinh-hop-phien-thuong-ky-thang-9-rd233f-251007182004224.html UBND tỉnh họp phiên thường kỳ tháng 9: Tốc độ tăng trưởng GRDP của tỉnh đứng thứ 3/34 tỉnh, thành phố]</ref>
+
+=== Công nghiệp ===
+[[Tập tin:Ninh Phuc Port.jpg|nhỏ|phải|300px|[[Cảng Ninh Phúc]] ở khu CN Khánh Phú]]
+Tổng giá trị sản xuất công nghiệp năm 2023 đạt hơn 103 nghìn tỷ đồng, giá trị GRDP ngành công nghiệp của Ninh Bình năm 2023 đạt 14.4 nghìn tỷ đồng.<ref>[https://baoninhbinh.org.vn/hieu-qua-tu-cac-giai-phap-thuc-day-phat-trien-san-xuat-cong/d20240116083317907.htm Hiệu quả từ các giải pháp thúc đẩy phát triển sản xuất công nghiệp]</ref>
+
+Ninh Bình là một trung tâm công nghiệp sản xuất ô tô, sản xuất linh kiện điện tử. Dự án nhà máy sản xuất và lắp ráp ô tô Hyundai Thành Công Việt Nam số 1 có công suất 80.000 xe/năm; Nhà máy ô tô số 2 của Hyundai Thành Công được khởi công xây dựng vào tháng 9/2020, trên tổng diện tích hơn 50 ha, diện tích nhà xưởng 87.000 m², có tổng công suất thiết kế đạt 100.000 xe/năm làm tăng đột biến giá trị sản xuất công nghiệp và thu ngân sách của Ninh Bình.<ref>[https://baodautu.vn/khanh-thanh-nha-may-2-cua-hyundai-thanh-cong-ninh-binh-ky-vong-thu-them-ngan-sach-d177958.html#:~:text=Nh%C3%A0%20m%C3%A1y%20%C3%B4%20t%C3%B4%20s%E1%BB%91,k%E1%BA%BF%20%C4%91%E1%BA%A1t%20100.000%20xe%2Fn%C4%83m. Khánh thành Nhà máy 2 của Hyundai Thành Công, Ninh Bình kỳ vọng thu thêm ngân sách]</ref>
+
+Ninh Bình cũng phát triển công nghiệp vật liệu xây dựng với số lượng nhà máy sản xuất xi măng nhiều<ref>[http://www.dangcongsan.vn/cpv/Modules/News/NewsDetail.aspx?co_id=30065&cn_id=369523 Ninh Bình: Các nhà máy xi măng hoạt động sẽ tăng nguồn thu ngân sách] {{Webarchive|url=https://web.archive.org/web/20150402102942/http://www.dangcongsan.vn/cpv/Modules/News/NewsDetail.aspx?co_id=30065&cn_id=369523 |date=2015-04-02 }}, Báo điện tử Đảng Cộng sản Việt Nam, TĐ (theo UBND tỉnh NB), 04/11/2009</ref> trong đó nổi bật là các doanh nghiệp xi măng The Vissai, xi măng Hệ Dưỡng (công suất 3,6 triệu tấn/năm), xi măng Tam Điệp, xi măng Phú Sơn, xi măng Duyên Hà, xi măng Hướng Dương... Sản phẩm chủ lực của địa phương là xi măng, đá, thép, vôi, gạch...
+
+Ở khu vực Ninh Bình cũ hiện có 11 khu công nghiệp sau:
+#Khu công nghiệp Gián Khẩu: nằm bên Quốc lộ 1.
+#Khu công nghiệp Khánh Phú: nằm bên sông Đáy, gần quốc lộ 10.
+#Khu công nghiệp Tam Điệp 1: 64 ha ở bên Quốc lộ 1 và đường sắt Bắc Nam.
+#Khu công nghiệp Tam Điệp 2: 400 ha, bên đường cao tốc Bắc Nam và gần đường sắt Bắc Nam.
+#Khu công nghiệp Phúc Sơn: nằm bên tuyến [[đường nối cảng Ninh Phúc]] (quốc lộ 35).
+#Khu công nghiệp Khánh Cư: nằm bên quốc lộ 10
+#Khu công nghiệp Kim Sơn nằm trong khu kinh tế tổng hợp ven biển có diện tích 500 ha, gần đường quốc lộ ven biển Việt Nam.
+#Khu công nghiệp Gián Khẩu 2: diện tích quy hoạch 495 ha
+#Khu công nghiệp Phú Long: diện tích 485 ha;
+#Khu công nghiệp Xích Thổ: diện tích 150 ha;
+#Khu công nghiệp Yên Bình: diện tích 250 ha.
+
+Ngoài ra, Ninh Bình còn có 22 cụm công nghiệp với diện tích 880 ha. Các làng nghề thủ công truyền thống địa phương có: thêu Văn Lâm, đá mỹ nghệ Ninh Vân ở [[Nam Hoa Lư]], dệt chiếu và làm hàng [[cói]] mỹ nghệ ở Kim Sơn, Yên Khánh..., đan lát [[mây (thực vật)|mây]] [[tre]] ở Gia Viễn, Nho Quan, làng nghề mộc Phúc Lọc ở [[Ninh Phong|Nam Hoa Lư]], làng nghề trồng đào phai Tam Điệp, làng nghề gốm Bồ Bát và Gia Thủy.
+Ngày 12 tháng 6 năm 2025, Quốc hội ban hành Nghị quyết số 202/2025/QH15[1] về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày 12 tháng 6 năm 2025). Theo đó, sáp nhập tỉnh Hà Nam và tỉnh Nam Định vào tỉnh Ninh Bình.
+
+Theo Quy hoạch phát triển Khu kinh tế và các Khu công nghiệp được Thủ tướng Chính phủ phê duyệt giai đoạn 2021-2030, tầm nhìn đến năm 2050, toàn tỉnh Ninh Bình có 53 KCN, với tổng diện tích 12.929ha và 1 Khu kinh tế ven biển có diện tích 13.950ha đang đề nghị mở rộng lên 80.318 ha.<ref>[https://danviet.vn/tinh-ninh-binh-moi-co-bao-nhieu-khu-cong-nghiep-khu-kinh-te-nao-la-hat-nhan-sau-sap-nhap-nam-dinh-ha-nam-d1368699.html Tỉnh Ninh Bình (mới) có bao nhiêu khu công nghiệp, khu kinh tế nào là hạt nhân sau sáp nhập Nam Định, Hà Nam?]</ref> Đến tháng 9/2025, Ninh Bình có 32 Khu công nghiệp và [[khu kinh tế Ninh Cơ]] đã được thành lập, tiêu biểu như các khu công nghiệp: Hòa Mạc, Đồng Văn I, Đồng Văn II, Đồng Văn III, Đồng Văn IV, Thái Hà, Thanh Liêm, Châu Sơn, Mỹ Thuận, Bảo Minh, Hòa Xá, Mỹ Trung, Dệt may Rạng Đông, Xuân Kiên, Gián Khẩu I, Gián Khẩu II, Khánh Phú, Tam Điệp I, Tam Điệp II, Phúc Sơn, Khánh Cư, Kim Sơn, Phú Long, Xích Thổ, Yên Bình.
+
+=== Nông nghiệp ===
+[[Tập tin:Châu thổ sông Hồng 2.jpg|nhỏ|phải|300px|[[Khu dự trữ sinh quyển châu thổ sông Hồng|Khu dự trữ sinh quyển thế giới châu thổ sông Hồng]]]]
+Ninh Bình có lợi thế phát triển ngành nông nghiệp đa dạng nhiều thành phần. Các vùng chuyên canh nông nghiệp chính của tỉnh: vùng nông trường Đồng Giao chuyên trồng cây công nghiệp như cây dứa thơm, Vùng trồng bưởi tại phường Duy Tân, xã Bình Lục; cây vải lai U trứng tại phường Nguyễn Úy; cây ổi Đài Loan tại xã Thanh Bình. Vùng Bình Minh, [[Kim Đông]] trồng cây cói làm chiếu, hàng mỹ nghệ, nuôi tôm sú, hải sản, khu vực làng hoa Ninh Phúc, Ninh Sơn trồng hoa và rau sạch; gạo sạch, ngao sạch, muối sạch, nấm, cá bống bớp, mật ong vườn quốc gia Xuân Thủy, các sản phẩm chế biến từ thủy sản của các vùng Hải Hậụ, Giao Thủy, Nghĩa Hưng.
+
+Khu vực nuôi trồng, đánh bắt và chế biến thủy sản sẽ khai thác tối đa 92&nbsp;km bờ biển và 5 cửa sông lớn ra biển gồm: Cửa Ba Lạt, cửa Hà Lạn, cửa Lạch Giang, cửa Đáy và cửa Càn. Theo đó tỉnh xác định phân vùng cho nuôi trồng thủy sản ở tất cả các xã thuộc vùng bờ có biển; phân vùng khai thác và đánh bắt hải sản ở tất cả các xã thuộc vùng bờ, ngoại trừ khu vực Vườn quốc gia Xuân Thủy; xây dựng cảng thủy sản tại khu vực Thịnh Long; cảng cá Ninh Cơ, cảng Kim Sơn.
+
+=== Thương mại - Dịch vụ ===
+[[Tập tin:Benhviendakhoaninhbinh.jpg|nhỏ|phải|300px|Bệnh viện đa khoa 700 giường Ninh Bình]]
+Ninh Bình có vị trí hội tụ giao thông liên vùng rất thuận lợi cho phát triển lưu thông hàng hóa với các địa phương khác trong cả nước, có tiềm năng mạnh phát triển thương mại - dịch vụ, trọng tâm là du lịch và logistics.
+
+==Dân cư==
+{{Historical populations
+|title = '''Dân số tỉnh Ninh Bình qua các năm'''
+|type =Vie 
+|1990 | 792.100
+|1991 | 787.877
+|1992 | 819.600
+|1993 | 835.400
+|1994 | 844.100
+|1995 | 855.500
+|1996 | 866.000
+|1997 | 874.200
+|1998 | 881.100
+|1999 | 885.000
+|2000 | 886.800
+|2001 | 888.700
+|2002 | 889.900
+|2003 | 890.900
+|2004 | 892.200
+|2005 | 893.500
+|2006 | 894.600
+|2007 | 896.100
+|2008 | 898.100
+|2009 | 899.600
+|2010 | 903.700
+|2011 | 907.700
+|2012 | 919.100
+|2013 | 927.200
+|2014 | 935.800
+|2015 | 944.400
+|2016 | 953.100
+|2017 | 961.900
+|2018 | 973.300
+|2019 | 984.500
+|2020 | 993.900
+|31/12/2020 | 1.093.900
+|2021 | 1.007.600
+|31/12/2021 | 1.107.700
+|2022 | 1.010.700
+|31/12/2022 | 1.106.913
+|2023 | 1.017.100
+|31/12/2023 | 1.117.000
+|2024 | 1.030.300
+|31/12/2024 | 1.135.668
+|31/12/2024 | 4.412.264
+|2025 | 3.843.770
+}}
+
+Tính đến ngày 31 tháng 12 năm 2020, dân số toàn tỉnh Ninh Bình đạt 993.920 người. Trong đó, dân số nam là 495.995 người và dân số nữ là 497.925 người.<ref name=NINHBINH2020/>
+
+Tính đến ngày 1 tháng 4 năm 2019, toàn tỉnh có 5 [[tôn giáo]] khác nhau đạt 71.031 người, nhiều nhất là [[Công giáo tại Việt Nam|Công giáo]] có 36.161 người, tiếp theo là [[Phật giáo Việt Nam|Phật giáo]] có 35.968 người. Còn lại các tôn giáo khác như [[Kháng Cách|đạo Tin Lành]] có năm người, [[Hồi giáo tại Việt Nam|Hồi giáo]] có ba người và 2 người theo [[đạo Cao Đài]].
+
+Tính đến ngày 31 tháng 12 năm 2022 tỉnh Ninh Bình có diện tích tự nhiên 1.411,86&nbsp;km² và quy mô dân số 1.106.913 người.<ref>{{Chú thích web|url=https://storage-vnportal.vnpt.vn/nbh-ubnd/2645/soketcongtacdang/Phuong_an_tinh_02_20240202044911698690_20240223044200838830__20240306082717511523.pdf|tựa đề= Phương án số 01/PA-UBND về việc tổng thể sắp xếp đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Ninh Bình, giai đoạn 2023 – 2025 |tác giả=|ngày= 2024-02-01 |website=|url lưu trữ=https://web.archive.org/web/20240501000000/https://storage-vnportal.vnpt.vn/nbh-ubnd/2645/soketcongtacdang/Phuong_an_tinh_02_20240202044911698690_20240223044200838830__20240306082717511523.pdf|ngày lưu trữ= 2024-05-01 |ngày truy cập= 2024-05-01 |url-status=dead}}</ref>
+
+Tính đến năm 2024, tỉnh Ninh Bình có diện tích tự nhiên 1.411,86&nbsp;km²,<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương">[https://www.nso.gov.vn/px-web-2/?pxid=V0203-07&theme=D%C3%A2n%20s%E1%BB%91%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng Diện tích, dân số và mật độ dân số phân theo địa phương], Trang Thông tin điện tử Cục Thống kê - Bộ Tài chính</ref> dân số trung bình là 1.030.340 người,<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương"/> trong đó dân số nam ước tính đạt khoảng 514.680 người chiếm ({{formatnum:{{#expr:514680/1030340*100round1}}}}%),<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương"/> dân số ước tính đạt khoảng 515.660 người chiếm ({{formatnum:{{#expr:515660/1030340*100round1}}}}%),<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương"/> dân số thành thị ước tính đạt khoảng 224.660 người chiếm ({{formatnum:{{#expr:224660/1030340*100round1}}}}%),<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương"/> dân số nông thôn ước tính đạt khoảng 805.680 người chiếm ({{formatnum:{{#expr:805680/1030340*100round1}}}}%),<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương"/> mật độ dân số là {{formatnum:{{#expr:floor({{formatnum:1.030.340|R}}/{{formatnum:1.411,86|R}})}} }} người/km².<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương"/>
+
+Tính đến ngày 31 tháng 12 năm 2024, tỉnh Ninh Bình có diện tích 3.942,39&nbsp;km², dân số là 4.412.264 người, mật độ dân số đạt {{formatnum:{{#expr:floor({{formatnum:4.412.264|R}}/{{formatnum:3.942,39|R}})}} }} người/km².<ref name=TT/><ref name="DT"/>
+
+Tính đến năm 2025, tỉnh Ninh Bình có dân số trung bình là 3.843.770 người trong đó dân số thành thị ước tính đạt khoảng 1.235.966 người chiếm ({{formatnum:{{percentage|{{formatnum:1.235.966|R}}|{{formatnum:3.843.770|R}}|2}} }}) dân số nông thôn ước tính đạt khoảng 2.607.804 người chiếm ({{formatnum:{{percentage|{{formatnum:2.607.804|R}}|{{formatnum:3.843.770|R}}|2}} }}), với mật độ dân số {{formatnum:{{#expr:floor({{formatnum:3.843.770|R}}/{{formatnum:3.942,62|R}})}} }} người/km². Tỷ lệ đô thị hóa tính đến năm 2026 đạt 36,3%.
+
+==Giáo dục và Đào tạo==
+Vùng đất Ninh Bình nổi tiếng là vùng đất học, từ khi có các kết quả thống kê đến nay, các tỉnh hợp nhất thành Ninh Bình liên tục nằm trong top 5 địa phương dẫn đầu về kết quả thi THPT quốc gia.<ref>
+*[http://dantri.com.vn/giao-duc-khuyen-hoc/5-tinh-co-diem-thi-trung-binh-thpt-quoc-gia-cao-nhat-nuoc-20160726094441923.htm Năm 2016]: Nam Định, Hải Dương, Bắc Ninh, Ninh Bình và Hà Nam. [http://vietnamnet.vn/vn/giao-duc/tuyen-sinh/diem-thi-thpt-quoc-gia-2017-nam-dinh-dung-dau-ca-nuoc-382713.html Năm 2017]: Nam Định, An Giang, Ninh Bình, Hà Nam và TP HCM. [http://baoninhbinh.org.vn/ninh-binh-xep-thu-3-toan-quoc-ve-so-diem-trung-binh-thpt-cao-nhat-2018071203563653p4c31.htm Năm 2018]: Hà Nam, Nam Định, Ninh Bình, Vĩnh Phúc và An Giang. [https://thanhnien.vn/giao-duc/diem-thi-thpt-quoc-gia-2019-nam-dinh-cao-nhat-hoa-binh-ha-giang-son-la-xep-cuoi-1103203.html Năm 2019]: Nam Định, Hà Nam, Ninh Bình, Bình Dương, Tp HCM. [https://doisongvietnam.vn/nam-dinh-tiep-tuc-dan-dau-ca-nuoc-ve-diem-thi-tot-nghiep-thpt-2020-104923-3.html Năm 2020]: Nam Định, Bình Dương, Ninh Bình, An Giang, Vĩnh Phúc. [https://vietnamnet.vn/xep-hang-63-tinh-thanh-ve-diem-cac-mon-thi-va-to-hop-xet-tuyen-dai-hoc-2022-2042844.html Năm 2022]: Nam Định, Vĩnh Phúc, Bình Dương, Ninh Bình. [https://vnexpress.net/vinh-phuc-dung-dau-ca-nuoc-ve-diem-thi-tot-nghiep-2023-4630167.html Năm 2023]: Vĩnh Phúc, Bình Dương, Nam Định, Ninh Bình. [https://vietnamnet.vn/xep-hang-diem-trung-binh-thi-tot-nghiep-thpt-cua-63-tinh-nam-2024-2302607.html#:~:text=Theo%20%C4%91%C3%B3%2C%20%C4%91%E1%BB%A9ng%20s%E1%BB%91%201,th%E1%BB%A9%205%20v%E1%BB%9Bi%207%2C21. Năm 2024]: Vĩnh Phúc, Ninh Bình, Nam Định; Bình Dương, Bắc Ninh.
+</ref>
+
+Tỉnh Ninh Bình hiện có khoảng 108 trường trung học phổ thông các loại hình, bao gồm 3 trường THPT chuyên cấp tỉnh (xem [[Danh sách trường trung học phổ thông tại Ninh Bình]]).
+
+Khu Đại học Nam Cao có diện tích khoảng 9,12&nbsp;km², là khu đào tạo đại học lớn thứ 2 ở Việt Nam với quy mô đào tạo từ 50.000 - 80.000 sinh viên gồm tổ hợp các cơ sở giáo dục đại học đa ngành, đa lĩnh vực, cơ sở giáo dục, nghiên cứu khoa học và phát triển công nghệ, là một bộ phận của mạng lưới trường đại học, cao đẳng, là trung tâm đào tạo nguồn nhân lực chất lượng cao của vùng [[đồng bằng sông Hồng]].<ref>[https://cafef.vn/khu-dai-hoc-rong-thu-2-viet-nam-dang-xay-dung-tong-muc-dau-tu-19000-ty-du-cho-cho-80000-sinh-vien-188240222101137976.chn Khu đại học rộng thứ 2 Việt Nam đang xây dựng, tổng mức đầu tư 19.000 tỷ, đủ chỗ cho 80.000 sinh viên]</ref> Khu Đại học Nam Cao góp phần điều chỉnh mạng lưới trường đại học cho vùng Thủ đô Hà Nội và việc di dời một số trường đại học như: [[Trường Đại học Xây dựng Hà Nội]], [[Đại học Kinh tế Quốc dân]], [[Học viện Ngân hàng (Việt Nam)]], [[Trường Đại học Giao thông Vận tải]],... ra khỏi trung tâm thành phố.
+
+[[Tập tin:Trường Đại học Sư phạm Hà Nội - cơ sở Hà Nam.jpeg|nhỏ|trái|280px|Đại học Sư phạm Hà Nội - cơ sở Ninh Bình]]
+Đào tạo đại học trên địa bàn có: [[Trường Đại học Hoa Lư]], [[Trường Đại học Điều dưỡng Nam Định]], [[Trường Đại học Lương Thế Vinh]], [[Trường Đại học Sư phạm Kỹ thuật Nam Định]], [[Trường Đại học Hà Hoa Tiên]]; Cơ sở của các trường: [[Trường Đại học Công nghiệp Hà Nội]], [[Trường Đại học Thương mại (Việt Nam)|Trường Đại học Thương mại]], [[Trường Đại học Sư phạm Hà Nội]] và 13 trường cao đẳng: [[Trường Cao đẳng nghề Cơ giới Ninh Bình]]; [[Trường Cao đẳng nghề LILAMA-1]]; [[Trường Cao đẳng Y tế Ninh Bình]]; Trường Cao đẳng Nghề số 13 và [[Trường Cao đẳng nghề Cơ điện Xây dựng Tam Điệp]], [[Trường Cao đẳng Công nghiệp Nam Định]], [[Trường Cao đẳng Phát thanh - Truyền hình I]], Trường Cao đẳng Văn hóa Nghệ thuật và Du lịch Nam Định, Trường Cao đẳng Thủy lợi Bắc Bộ, Trường Cao đẳng Xây dựng Nam Định, Trường Cao đẳng Kỹ thuật Công nghệ Nam Định, Trường Cao đẳng Công nghiệp Dệt – May Nam Định, Trường Cao đẳng nghề Hà Nam.
+
+==Văn hóa==
+Ninh Bình nằm ở vùng giao thoa giữa các khu vực: [[Hướng Tây Bắc|Tây Bắc]], [[đồng bằng sông Hồng]] và [[Bắc Trung Bộ (Việt Nam)|Bắc Trung Bộ]]. Đặc điểm đó đã tạo ra một nền văn hóa Ninh Bình tương đối năng động, phát triển trên nền tảng văn minh [[đồng bằng sông Hồng|châu thổ sông Hồng]]. Đây là vùng đất phù sa cổ ven chân núi có con người cư trú từ rất sớm, họ là chủ nhân của các nền [[Văn hóa Tràng An]], Hòa Bình, Đồng Đậu, Bắc Sơn, Đa Bút và Đông Sơn.
+
+Vùng đất Ninh Bình là [[kinh đô]] của [[Việt Nam]] thế kỷ X, mảnh đất gắn với sự nghiệp của 6 vị vua thuộc ba triều đại Đinh - Lê – Lý với các dấu ấn [[lịch sử]]: Thống nhất giang sơn, đánh Tống - dẹp Chiêm và phát tích quá trình định đô [[Hà Nội]]. Đây cũng là quê hương phát tích 4 triều đại [[Nhà Đinh|Đinh]] - [[Tiền Lê|Lê]] - [[Nhà Lý|Lý]] - [[nhà Trần|Trần]] hưng thịnh bậc nhất trong lịch sử phong kiến Việt Nam với kỷ nguyên độc lập lâu dài.
+
+Do ở vào vị trí chiến lược ra Bắc vào Nam, vùng đất này đã chứng kiến nhiều sự kiện lịch sử oai hùng của dân tộc mà dấu tích lịch sử còn để lại trong các đình, chùa, đền, miếu, từng ngọn núi, con sông. Đây còn là vùng đất chiến lược để bảo vệ [[Thăng Long]] của các triều đại nhà Trần với [[hành cung Vũ Lâm]], [[hành cung Thiên Trường]], làm lên chiến thắng giặc Nguyên - Mông, kinh đô Mô Độ nhà Hậu Trần và [[phòng tuyến Tam Điệp]] làm bàn đạp tiến ra giải phóng Thăng Long của [[Nhà Tây Sơn|Tây Sơn]], các căn cứ quân sự khác như thành nhà Mạc, thành nhà Hồ hiện vẫn còn dấu tích ở Yên Mô...
+[[Tập tin:Codoj6.JPG|nhỏ|trái|326x326px|[[Cố đô Hoa Lư]], kinh đô 3 triều đại 6 vị vua]]
+Thế kỷ 16 - 17, đạo Công giáo được truyền vào Việt Nam với địa điểm dừng chân đầu tiên tại Ninh Bình, dần dần hình thành trung tâm Công giáo [[Giáo phận Bùi Chu|Bùi Chu]] - [[giáo phận Phát Diệm|Phát Diệm]], vì thế mà nơi đây dày đặc các nhà thờ công giáo nổi tiếng như: [[Nhà thờ chính tòa Phát Diệm]], [[Nhà thờ chính tòa Bùi Chu]], [[Vương cung thánh đường Sở Kiện]], [[Đan viện Thánh Mẫu Châu Sơn]],...
+
+Bên cạnh văn hoá của cư dân Việt cổ, Ninh Bình còn có "văn hoá mới" của cư dân ven biển. Dấu ấn về biển tiến còn in đậm trên đất Ninh Bình. Những địa danh cửa biển như: Phúc Thành, Đại An, Con Mèo, cửa Càn, [[cửa biển Thần Phù]] cùng với các con đê lịch sử như [[đê Hồng Đức]], đê Hồng Lĩnh, đê Đường Quan, đê Hồng Ân, đê Hoành Trực, đê Văn Hải, đê Bình Minh, đê Cồn Tròn... Cho đến nay vùng cửa Đáy ở Ninh Bình vẫn tiến ra biển mỗi năm gần 100 m. Ninh Bình là một tỉnh mở rộng không gian văn hoá Việt xuống biển Đông, đón nhận các luồng dân cư, các yếu tố văn hoá từ Bắc vào Nam, từ biển vào. Kinh tế biển đóng vai trò quan trọng nổi bật như nghề đánh bắt cá biển, nuôi tôm sú, tôm rảo, nuôi cua... Nếp sống của cư dân lấn biển mang tính chất động trong vùng văn hoá môi trường đất mở.
+
+Dãy núi đá vôi ngập nước tạo ra nhiều hang động kỳ thú như: [[Tam Cốc - Bích Động]], [[động Vân Trình]], động Tiên, [[động Thiên Hà]], [[Tràng An]], động Mã Tiên, Ngũ Động Thi sơn... [[Tam Cốc - Bích Động|Bích Động]] được mệnh danh là "Nam thiên đệ nhị động", Địch Lộng là "Nam thiên đệ tam động", Động Vái Giời ([[Khu du lịch sinh thái Thung Nham]]). Ở phường Hoa Lư có một núi giống hình một người thiếu nữ nằm ngửa nhìn trời gọi là [[núi Ngọc Mỹ Nhân]]. Một yếu tố khác vô cùng quan trọng, góp phần không nhỏ làm nên diện mạo đa dạng, phong phú của văn hoá Ninh Bình, đó là sự lưu lại dấu ấn văn hoá của các tao nhân mặc khách khi qua vùng sơn thanh thủy tú này. Các đế vương, công hầu, khanh tướng, danh nhân văn hoá lớn như [[Trương Hán Siêu]], [[Trần Thái Tông]], [[Lê Thánh Tông]], [[Nguyễn Trãi]], [[Hồ Xuân Hương]], [[Tản Đà]], [[Xuân Quỳnh]] về đây, xếp gương, đề bút, sông núi hoá thành thi ca. Nhân cách bác học và phẩm cách văn hoá lớn của các danh nhân đó đã thấm đẫm vào tầng văn hoá địa phương, được nhân dân tiếp thụ, sáng tạo, làm giàu thêm sắc thái văn hoá Ninh Bình.
+
+Hệ thống các di tích lịch sử - văn hóa ở Ninh Bình gắn liền với tín ngưỡng của vùng đất sinh Vua, sinh Thánh, sinh Thần thông qua rất nhiều các di tích thờ Vua (đặc biệt là các Vua [[Đinh Tiên Hoàng]], [[Lê Đại Hành]], [[Trần Thái Tông]], Quang Trung và Triệu Quang Phục; thờ Thánh ([[Trần Hưng Đạo]], [[Lý Quốc Sư|Nguyễn Minh Không]] và các tổ nghề, đặc biệt nơi đây là trung tâm của tín ngưỡng thờ mẫu Việt Nam, nơi phát tích các nhân vật huyền thoại như [[Liễu Hạnh Công chúa]], [[Cô Đôi Thượng Ngàn]]; thờ Thần (phổ biến là các vị thần Thiên Tôn, thần Cao Sơn và thần Quý Minh trong không gian văn hóa [[Hoa Lư tứ trấn]]).
+
+Ninh Bình là vùng đất phong phú các lễ hội văn hóa đặc sắc như [[Lễ hội Hoa Lư]], [[lễ hội Tịch điền Đọi Sơn]], lễ hội đền Trần, lễ hội Phủ Giày, lễ hội chùa Bái Đính, chùa Tam Chúc, [[đền Thái Vi#Lễ hội đền Thái Vi|lễ hội đền Thái Vi]], [[lễ hội Tràng An]], lễ hội [[động Hoa Lư]], lễ hội [[đền Thánh Nguyễn]], [[lễ hội đền Nguyễn Công Trứ]]... Ninh Bình là đất tổ của nghệ thuật hát Chèo, là quê hương các làn điệu hát xẩm, hát văn, ca trù, dân ca Hà Nam. Ninh Bình nhiều làng nghề truyền thống tiêu biểu như nghề điêu khắc đá Ninh Vân, đúc đồng Tống Xá, nghề thêu ren Văn Lâm, cây cảnh Vị Khê, làng trống Đọi Tam, chạm khắc gỗ La Xuyên, dệt lụa Nha Xá, cơ khí Xuân Tiến, sơn mài Cát Đằng, nghề nấu rượu và chiếu cói ở [[Kim Sơn, Ninh Bình|Kim Sơn]]...
+
+=== Đặc sản ẩm thực ===
+{{chính|Ẩm thực Ninh Bình}}
+Các đặc sản, ẩm thực tiêu biểu của Ninh Bình như: đặc sản thịt [[dê núi Ninh Bình]], [[phở bò Nam Định|phở bò Giao Cù]], [[dứa Đồng Giao]], chuối ngự Đại Hoàng, bánh xíu páo, cá kho quả gáo, cá kho Vũ Đại, bánh đa nướng Phong An, chè Ba Trại, kẹo Sìu Châu, mắm tép Gia Viễn, bún mọc Kim Sơn, rượu cần Nho Quan, [[rượu Kim Sơn]], khoai lang Hoàng Long, trám Kỳ Phú, bánh gai Bà Thi, bánh đa Kiện Khê, bún tươi Yên Thịnh, nếp hương gạo tám Hải Hậu, nem Yên Mạc, nem nắm Giao Thủy, gà ri đồi Nho Quan, gỏi nhệch Kim Sơn, mứt khoai mật mía làng Phượng, giò trứng Nộn Khê, miến lươn Ninh Bình, mía Kỳ Phú, chạo chân giò Kim Sơn, cá chuối đầm Vân Long, ốc núi, xôi trứng kiến Nho Quan, [[cơm cháy Ninh Bình]], bánh dày bản Mường Kỳ Phú, cá lác đen Kim Sơn, mì bún khô Yên Ninh, [[cá rô Tổng Trường]], cá cửng - [[cá tràu tiến vua]], cá đối Tam Chúc, mắm cáy Kim Sơn,
+
+===Danh nhân===
+Vùng đất Ninh Bình là quê hương phát tích của 4 triều đại Đinh - Lê - Lý - Trần, nơi có những vị hoàng đế tiêu biểu như: [[Đinh Tiên Hoàng|Đinh Bộ Lĩnh]], [[Lê Hoàn]], [[Trần Nhân Tông]]; các vị tướng tài như: [[Trần Hưng Đạo]], [[Nguyễn Bặc]], [[Đinh Điền]], [[Lưu Cơ (nhà Đinh)|Lưu Cơ]], [[Trịnh Tú]], [[Bạch Đa]], [[Cao Các]], [[Đinh Nga]], [[Nguyễn Tấn (tướng nhà Đinh)|Nguyễn Tấn]], [[Trần Bình Trọng]],...
+
+Nơi đây được xem là vùng đất học với nhiều trạng nguyên và danh nhân văn hóa nổi tiếng như: [[Trương Hán Siêu]], [[Lương Thế Vinh]], [[Vũ Duy Thanh]], [[Đào Sư Tích]], [[Nguyễn Hiền]], [[Ninh Tốn]], [[Văn Cao]], [[Nam Cao]], [[Nguyễn Khuyến]], [[Trương Công Giai]], [[Đào Văn Tập]], [[Trần Quốc Vượng]], [[Đinh Gia Khánh]], [[Nguyễn Tử Mẫn]], [[Phạm Thận Duật]], [[Vũ Phạm Khải]], [[Lê Tung]],...
+
+Vùng đất này còn gắn bó với những nhân vật huyền thoại trong văn hóa Việt Nam như: [[Liễu Hạnh Công chúa]], [[Cô Đôi Thượng Ngàn]], [[Thần Thiên Tôn]], [[Thần Cao Sơn]], [[Lý Quốc Sư]], [[Dương Không Lộ]],...
+
+Ninh Bình là quê hương Tổng bí thư [[Trường Chinh]], Chủ tịch nước [[Trần Đại Quang]], Chủ tịch quốc hội [[Nguyễn Văn An]], Bí thư xứ ủy Bắc Kỳ [[Lương Khánh Thiện]], Bí thư xứ ủy Nam Kỳ [[Tạ Uyên]]... của những chính trị gia tiêu biểu khác như: [[Ngô Xuân Lịch]], [[Đinh Tiến Dũng]], [[Đinh Thế Huynh]], [[Phạm Bình Minh]], [[Nguyễn Cơ Thạch]], [[Bùi Thị Minh Hoài]], [[Lê Đức Thọ]], [[Mai Chí Thọ]], [[Phan Văn Giang]]...
+
+==Thể thao==
+[[Tập tin:SVĐ Thiên Trường ngày 17 tháng 8.jpg|nhỏ|phải|327x327px|Sân vận động Thiên Trường ngày 17 tháng 8 năm 2019]]
+Ninh Bình hiện có [[Câu lạc bộ bóng đá Thép Xanh Nam Định]] là đương kim vô địch thi đấu tại giải vô địch quốc gia với sân nhà là [[Sân vận động Thiên Trường]], [[Câu lạc bộ bóng đá Phù Đổng Ninh Bình]] vừa vô địch giải hạng nhất sẽ thăng hạng thi đấu tại [[Sân vận động Ninh Bình]]. [[Câu lạc bộ bóng đá nữ Phong Phú Hà Nam]] thi đấu tại sân vận động Hà Nam, có 3 lần giành ngôi Á quân giải vô địch Quốc gia và 3 lần giành chức vô địch giải U19 Quốc gia.<ref>{{chú thích web |url=http://bongda24h.vn/doi-bong/phong-phu-ha-nam-niem-tu-hao-ve-nguoi-con-gai-405-134174.html |title=Phong Phú Hà Nam: Niềm tự hào về người con gái |access-date=ngày 17 tháng 5 năm 2016 |publisher=doisong.vn |archive-date=2017-12-27 |archive-url=https://web.archive.org/web/20171227235612/http://bongda24h.vn/doi-bong/phong-phu-ha-nam-niem-tu-hao-ve-nguoi-con-gai-405-134174.html |url-status=dead }}</ref>
+
+Từ năm 2005 tỉnh có một đội [[bóng chuyền]] hạng mạnh là [[Câu lạc bộ bóng chuyền Tràng An Ninh Bình|Tràng An Ninh Bình]], hiện là Ninh Bình LP Bank, một đội bóng mạnh trong hệ thống thi đấu bóng chuyền Việt Nam, đoạt danh hiệu vô địch quốc gia các năm 2006, 2010, 2012 và đang là đương kim vô địch năm 2021. Cũng năm 2021, Ninh Bình có thêm [[Câu lạc bộ bóng chuyền nữ Ninh Bình LP Bank]] là đội bóng chuyền nữ thi đấu ở [[Giải vô địch bóng chuyền quốc gia Việt Nam]] có 2 năm liền 2021 và 2022 đều xếp hạng 4, năm 2023 giành chức vô địch và năm 2024 xếp hạng 3.
+
+Các môn thể thao thế mạnh khác của Ninh Bình là vật, võ, bơi lặn, cầu lông, Jujitsu, điền kinh, quần vợt và bóng bàn. Một số vận động viên thể thao Ninh Bình tiêu biểu như Giang Việt Anh, Lê Hồng Phúc, Phạm Minh Đức, Hà Văn Hiếu, Bích Tuyền, Nguyễn Huỳnh Anh Phi, Nguyễn Thị Huyền, Bùi Thị Ngân, Nguyễn Thị Thu Hà, Nguyễn Thị Thảo, Trần Ánh Tuyết, Nguyễn Hữu Toàn, Nguyễn Thị Tuyết Dung, Vũ Thị Ngọc Hà,...
+
+==Du lịch==
+[[Tập tin:Phatdiemk-6.jpg|nhỏ|341x341px|phải|Kiến trúc đá đặc trưng ở [[nhà thờ chính tòa Phát Diệm|nhà thờ Phát Diệm]]]]
+Quy hoạch du lịch Việt Nam xác định Ninh Bình là một trung tâm du lịch với 3 khu du lịch quốc gia là [[quần thể di sản thế giới Tràng An]], [[Khu du lịch Kênh Gà – Vân Trình]], [[Khu du lịch Tam Chúc]] và 2 trọng điểm du lịch [[vườn quốc gia Cúc Phương]] và [[khu bảo tồn thiên nhiên Vân Long]].
+
+{{Chính|Du lịch Ninh Bình}}
+
+Ninh Bình có tiềm năng du lịch rất lớn, là nơi có tới 4 danh hiệu UNESCO trao cho [[quần thể di sản thế giới Tràng An]], các di sản ca trù, tín ngưỡng thờ Mẫu Tam Phủ và [[Khu dự trữ sinh quyển châu thổ sông Hồng]]. Tỉnh có 10 di tích quốc gia đặc biệt gồm: [[Quần thể di tích Cố đô Hoa Lư|Cố đô Hoa Lư]], [[Đền Trần (Nam Định)|Đền Trần]] – [[Chùa Phổ Minh (Nam Định)|Chùa Phổ Minh]], Quần thể [[Khu du lịch sinh thái Tràng An|Tràng An]] – [[Tam Cốc – Bích Động]], [[Chùa Đọi Sơn|Chùa Long Đọi Sơn]], [[Chùa Keo Hành Thiện]], [[Đền Trần Thương]], [[Đền Xám]], [[Khu du lịch Tam Chúc|Tam Chúc]], [[chùa Cổ Lễ]] và [[Núi Non Nước]].
+
+Nơi đây sở hữu nhiều danh lam, thắng cảnh và di tích lịch sử văn hoá nổi tiếng như: [[Cố đô Hoa Lư]], [[Đền Trần (Nam Định)|Đền Trần]], [[Chùa Tam Chúc]], [[chùa Bái Đính]], [[Phủ Dầy]], [[đền Lăng|Quần thể di tích đền Lăng]], [[Nhà thờ chính tòa Phát Diệm|Nhà thờ Phát Diệm]], [[Tam Cốc - Bích Động]], [[Khu du lịch sinh thái Thung Nham]], [[Vườn quốc gia Cúc Phương]], [[Vườn quốc gia Xuân Thủy]], [[Khu bảo tồn thiên nhiên đất ngập nước Vân Long]], [[Khu du lịch Kênh Gà – Vân Trình]] có [[suối nước nóng Kênh Gà]], [[động Vân Trình]], [[Công viên động vật hoang dã quốc gia Việt Nam]], Tứ đại danh sơn gồm ([[núi Non Nước]], [[núi Kỳ Lân]], [[núi Cá Voi]], [[Núi Ngọc Mỹ Nhân]]), [[động Thiên Hà]], [[Đền Trúc]]-[[Ngũ Động Sơn]], [[chiến khu Quỳnh Lưu]], [[Phòng tuyến Tam Điệp]], [[Phố cổ Thành Nam]], [[hồ Đồng Thái]], [[hồ Đồng Chương]], [[hồ Yên Quang]], [[hồ Yên Thắng]] - [[sân golf Hoàng Gia]], [[Kẽm Trống]], các bãi biển Quất Lâm, Đông Hà, Xương Điền, Hải Thịnh, Rạng Đông, [[Cồn Nổi]],...
+
+<gallery>
+Tập tin:Vườn chim Thung Nham một buổi hoàng hôn.jpg|Vườn chim Thung Nham - Thung Nham Bird Garden
+Tập tin:Tam Cốc01.jpg|[[Tam Cốc - Bích Động|Tam Cốc]]
+Tập tin:Thanquangtu Cole.JPG|[[Chùa Cổ Lễ]]
+Tập tin:Cuc Phuong 02.jpg|Rừng đại ngàn [[Vườn quốc gia Cúc Phương|Cúc Phương]]
+Tập tin:Trangan1k.jpg|[[Tràng An|Hang động Tràng An]]
+Tập tin:GacchuongChuaKeoHT.jpg|[[Chùa Keo Hành Thiện]]
+Tập tin:Dongvantrinh12.JPG|[[động Vân Trình]]
+Tập tin:Đền Trần Thương.jpg|[[Đền Trần Thương]]
+Tập tin:1000tay1000mat.jpg|[[Chùa Bái Đính]] 
+</gallery>
+
+==Giao thông ==
+===Đường bộ===
+[[Tập tin:Cầu Bông Lau.jpg|nhỏ|phải|300px|Cầu Bông Lau qua [[sông Vân]] ở trung tâm tỉnh Ninh Bình]]
+*[[Quốc lộ 1]] xuyên Việt từ [[Đồng Văn (phường)|Đồng Văn]] qua trung tâm tỉnh tới Dốc Xây dài 70&nbsp;km;
+*[[Quốc lộ 10]] nối từ Quảng Ninh qua các tỉnh duyên hải Bắc bộ tới Thanh Hóa đoạn qua Ninh Bình dài 74&nbsp;km.
+*[[Quốc lộ 12B]] nối từ vùng biển Kim Sơn, qua [[Yên Mô (xã)|Yên Mô]] gặp Quốc lộ 1 tại thành phố [[Tam Điệp (thành phố)|Tam Điệp]] qua [[Nho Quan (huyện)|Nho Quan]] tới các tỉnh vùng Tây Bắc dài 78&nbsp;km;
+*[[Quốc lộ 21A]] từ [[Phủ Lý (phường)|Phủ Lý]] đi qua khu vực thuộc thành phố [[Nam Định (thành phố)|Nam Định]] cũ, rồi qua xã [[Hải Thịnh]] với chiều dài 117&nbsp;km;
+*[[Quốc lộ 21B]] nối khu vực [[Hà Đông (quận)|Hà Đông]] cũ - [[Phủ Lý (phường)|Phủ Lý]] - [[Nam Định (phường)|Nam Định]] - [[Hải Thịnh]] - [[Phát Diệm]] - [[Tam Điệp (phường)|Tam Điệp]] 155&nbsp;km.
+*[[Quốc lộ 21C]] nối đường vành đai 3 Hà Nội tại Hoàng Mai đến nút giao cao tốc Bắc Nam, Mai Sơn, [[Nam Hoa Lư]], (Mỹ Đình - Ba Sao - Bái Đính) dài 40&nbsp;km;
+*[[Quốc lộ 35]] là tuyến [[đường nối cảng Ninh Phúc]] tới Quốc lộ 1 dài 6&nbsp;km và là tuyến quốc lộ ngắn nhất Việt Nam.
+*[[Quốc lộ 37B]] Ngô Đồng - Yên Định - Liễu Đề - Gôi dài 56&nbsp;km;
+*[[Quốc lộ 37C]] nối từ đường Hồ Chí Minh tại xã Hưng Thi ([[Lạc Thủy (huyện)|Lạc Thủy]] cũ) qua 2 khu vực cũ [[Nho Quan (huyện)|Nho Quan]], [[Gia Viễn (huyện)|Gia Viễn]] vượt sông Đáy tại Gián Khẩu kết nối với quốc lộ 37B tại Ninh Cường, [[Ý Yên (huyện)|Ý Yên]] cũ dài 53&nbsp;km;
+*[[Quốc lộ 38]]: hướng từ [[cầu Yên Lệnh]] - [[Duy Tiên (phường)|Duy Tiên]] - [[Đồng Văn (phường)|Đồng Văn]] đi [[Chùa Hương]] với chiều dài 25&nbsp;km;
+*[[Quốc lộ 38B]] nối [[Hoa Lư (phường)|Hoa Lư]] tới [[Nam Định (phường)|Nam Định]], rồi trùng với [[quốc lộ 38]] qua [[cầu Yên Lệnh]] tới [[Hải Phòng]] dài 104&nbsp;km;
+*[[Quốc lộ 45]] nối khu vực [[Nho Quan (huyện)|Nho Quan]] cũ với [[Thanh Hóa]] dài 19&nbsp;km.
+*[[Đường ven biển Việt Nam]] đi qua dài 75&nbsp;km.
+*[[Đường Đông Tây Ninh Bình|Đường Đông - Tây Ninh Bình]] dài 65&nbsp;km nối từ miền núi [[rừng Cúc Phương]] tới vùng biển [[Cồn Nổi]] Kim Sơn.
+*Đường nối [[Đường cao tốc Cầu Giẽ – Ninh Bình|cao tốc Cầu Giẽ – Ninh Bình]] với [[Đường cao tốc Hà Nội – Hải Phòng|cao tốc Hà Nội – Hải Phòng]] từ nút giao [[Liêm Tuyền]] đến [[Đường cao tốc Hà Nội – Hải Phòng|đường 5B mới]].
+
+[[Cầu tại Ninh Bình|Ninh Bình có nhiều cầu với quy mô lớn]] qua sông như: [[cầu Ninh Bình]], [[cầu Non Nước]], [[cầu Gián Khẩu]], cầu Bến Mới, [[cầu Nam Bình]], cầu Trường Yên, cầu Thiên Trường, cầu vượt biển ra [[Cồn Nổi]], [[Cầu Đò Quan]], [[Cầu Tân Đệ]], [[Cầu Tân Phong]], [[Cầu Thịnh Long]], [[Cầu Châu Giang]], [[Cầu Đoan Vĩ]], [[Cầu Hưng Hà]], [[Cầu Thái Hà]], [[Cầu Yên Lệnh]].
+
+===Đường cao tốc===
+Ninh Bình cũng là địa bàn có 5 đường cao tốc là:
+*[[Đường cao tốc Cầu Giẽ – Ninh Bình]], 
+*[[Đường cao tốc Mai Sơn – Quốc lộ 45]], 
+*[[đường cao tốc Ninh Bình – Hải Phòng]],
+*[[Đường vành đai 5 (Hà Nội)]],
+*Đường cao tốc Phủ Lý - Nam Định.
+
+===Đường sắt===
+Về giao thông đường sắt Ninh Bình có trục đô thị Phủ Lý - Nam Định - Hoa Lư - Tam Điệp nằm trên tuyến [[đường sắt Bắc Nam|đường sắt Bắc-Nam]] với tổng số chiều dài hơn 90&nbsp;km. Trên địa bàn tỉnh có 13 ga gồm: [[Ga Đồng Văn|Đồng Văn]], [[Ga Phủ Lý|Phủ Lý]], [[Ga Bình Lục|Bình Lục]], [[Ga Cầu Họ|Cầu Họ]], [[Ga Đặng Xá|Đặng Xá]], [[Ga Nam Định|Nam Định]], [[Ga Trình Xuyên|Trình Xuyên]], [[Ga Núi Gôi|Núi Gôi]], [[Ga Cát Đằng|Cát Đằng]], [[Ga Ninh Bình|Ninh Bình]], [[Ga Cầu Yên|Cầu Yên]], [[Ga Ghềnh|Ghềnh]], [[Ga Đồng Giao|Đồng Giao]].
+
+===Đường thủy, đường biển===
+Theo Thông tư 15/2016/TT-BGTVT về quy định quản lý đường thủy thì trên địa bàn tỉnh có những tuyến đường thủy cấp quốc gia sau đây:
+
+* [[sông Đáy]] là sông dài nhất chảy xuyên qua tỉnh với chiều dài 140&nbsp;km
+* [[sông Hồng]] chảy giữa ranh giới với tỉnh Hưng Yên, đoạn qua tỉnh dài 100&nbsp;km
+* [[sông Hoàng Long]] đoạn từ Cầu Nho Quan - Ngã ba Gián Khẩu dài 28&nbsp;km
+* [[Sông Nam Định|sông Đào]] chảy từ Ngã ba Hưng Long tới Ngã ba Độc Bộ dài 33,5&nbsp;km
+* [[sông Ninh Cơ]] từ Ngã ba Mom Rô tới Chân cầu Châu Thịnh dài 47&nbsp;km
+* [[sông Vạc]] nối Ngã ba sông Vân - Ngã ba Kim Đài dài 28,5&nbsp;km
+* [[Kênh Nhà Lê|kênh Yên Mô]] nối Ngã ba Đức Hậu - Ngã ba Chính Đại dài 14&nbsp;km
+* [[Châu Giang (sông Việt Nam)|sông Châu Giang]] nối từ Âu thuyền Phủ Lý - Âu thuyền Tắc Giang dài 27&nbsp;km
+* kênh Quần Liêu nối sông Đáy - sông Ninh Cơ dài 3,5&nbsp;km.
+
+Ninh Bình có [[cảng Ninh Phúc]] là [[Cửa khẩu quốc tế Việt Nam|cửa Khẩu quốc tế đường biển]], là cảng sông đầu mối quốc gia. Các cảng khác như cảng Ninh Bình, [[cảng Ninh Phúc]], cảng Cầu Yên, cảng Nam Định, cảng Nghĩa An, cảng Nam Trực, cảng Nghĩa Hưng, cảng Hoàng Vinh, cảng Thái Hà, cảng Gián Khẩu. Cảng K3 ([[nhà máy nhiệt điện Ninh Bình]]) cũng đã được nâng cấp là cảng chuyên dụng. Cảng sông Ninh Bình có thể đạt công suất 30 triệu tấn/năm, là khu vực giàu tiềm năng ở miền Bắc. Cảng Ninh Bình - Ninh Phúc, Cảng xăng dầu dầu khí Ninh Bình, cảng Long Sơn, Cảng đạm Ninh Bình, Cảng Vissai, cảng Phúc Lộc, cảng tổng hợp [[Kim Sơn (huyện)|Kim Sơn]] là những cảng tiếp nhận tàu biển và phương tiện thủy quốc tế<ref>{{Chú thích web |url=http://vinamarine.gov.vn/Index.aspx?page=port&tab=dsct |ngày truy cập=2018-10-01 |tựa đề=DANH SÁCH CẢNG THỦY NỘI ĐỊA TIẾP NHẬN TẦU BIỂN VIỆT NAM VÀ PHƯƠNG TIỆN THỦY NƯỚC NGOÀI |archive-date = ngày 1 tháng 10 năm 2018 |archive-url=https://web.archive.org/web/20181001142357/http://vinamarine.gov.vn/Index.aspx?page=port&tab=dsct |url-status=dead }}</ref>... Hệ thống đường thủy với tổng [[chiều dài]] gần 950&nbsp;km.
+
+Hệ thống [[Cảng biển Ninh Bình]] đã được xây dựng phục vụ phát triển kinh tế của tỉnh và khu vực. Cảng Hải Thịnh là cảng tổng hợp loại II, gồm khu bến Hải Thịnh và bến cảng chuyên dụng cho nhà máy nhiệt điện Nam Định với năng lực hàng hóa thông qua năm 2030 đạt khoảng 6,25 triệu tấn/năm. Ngoài ra Cảng Đua Fat Kim Sơn, cảng Cồn Nổi cũng được triển khai xây dựng.
+
+17 cảng cạn trên cả nước Việt Nam thì Ninh Bình có 2 cảng là: Cảng cạn Tân cảng Hà Nam và Cảng cạn (ICD) Phúc Lộc - Ninh Bình.<ref>[https://vneconomy.vn/cong-bo-danh-muc-17-cang-can-tren-ca-nuoc.htm Công bố danh mục 17 cảng cạn trên cả nước]</ref>
+
+==Đường hàng không==
+[[Sân bay Ninh Bình]] đã được quy hoạch là cảng hàng không quốc tế giai đoạn 2021 - 2030.<ref>[https://vov.gov.vn/ninh-binh-chinh-thuc-co-ten-trong-quy-hoach-cang-hang-khong-quoc-te-dtnew-1153199?keyDevice=true Ninh Bình chính thức có tên trong quy hoạch cảng hàng không quốc tế]</ref>
+
+== Hình ảnh==
+<center><gallery widths="180" heights="160">
+Tập tin:DenTran1.jpg|[[Đền Trần (Nam Định)|Đền Trần]]
+Tập tin:Thap Pho Minh.jpg|Tháp [[Chùa Phổ Minh (Nam Định)|Phổ Minh]]
+Tập tin:Tường thành Nam Định cuối thời Nguyễn.jpg|Ảnh chụp một góc tường [[thành Nam Định]], nay đã bị phá hủy gần như toàn bộ
+Tập tin:Cột cờ Nam Định (Flag Tower of Nam Dinh) (05).jpg|Cột cờ [[Nam Định (phường)|Nam Định]]
+Tập tin:PhuGiay.jpg|[[Phủ Dầy]]
+Tập tin:Phủ Giầy, Nam Định.jpg|[[Phủ Dầy|Phủ Giầy]]
+Tập tin:Son Nam Hotel & Khoai Dong Church, Nam Dinh City, Vietnam.jpg|Công viên Vị Xuyên
+Tập tin:Nhà thờ Lớn thành phố Nam Định (1).jpg|[[Nhà thờ Lớn Nam Định]]
+Tập tin:Immaculate Conception church, Nhai Phú.jpg|[[Vương cung thánh đường Phú Nhai|Vương cung Thánh đường Phú Nhai]]
+Tập tin:Dinhlaxuyen.jpg|Đình La Xuyên
+Tập tin:Hoiquan chuaTrinh Cole (3).JPG|Hội quán chùa Trình trong [[chùa Cổ Lễ]]
+Tập tin:Thap Cuuphamlienhoa Cole.JPG|Toà tháp Cửu Phẩm Liên Hoa trong [[chùa Cổ Lễ]]
+Tập tin:140 Hàng Tiện, thành phố Nam Định, tỉnh Nam Định.jpg|Kiến trúc Pháp ở trong [[phố cổ Thành Nam]] ngày nay. Ảnh chụp phố Hàng Tiện.
+Tập tin:Thanquangtu Cole.JPG|Phật điện Thần Quang tự trong [[chùa Cổ Lễ]]
+Tập tin:Chuongdong 9000kg Cole.JPG|Chuông đồng 9000&nbsp;kg ở [[chùa Cổ Lễ]]
+Tập tin:Cay-gao.jpg|Hai cây gạo 300 tuổi, Đống Cao, [[Yên Cường, Ninh Bình|Yên Cường]], Ninh Bình
+Tập tin:Denvuadinhnamdinh3.jpg|[[Quần thể di tích thờ Vua Đinh ở Nam Định|Đền Vua Đinh]], [[Vạn Thắng, Ninh Bình|Vạn Thắng]], Ninh Bình
+Tập tin:Trung tâm Văn hóa - Thể thao Thanh thiếu niên tỉnh Nam Định (Nam Dinh Cultural and Sports Center for Youth) (1).jpg|Trung tâm Văn hóa - Thể thao Thanh thiếu niên tỉnh [[Nam Định (tỉnh)|Nam Định]] cũ
+Tập tin:Shophouse trong Khu đô thị Dệt may Nam Định.jpg|Nhà phố thương mại nằm trong Khu đô thị Dệt may Nam Định
+Tập tin:Khách sạn Nam Cường Nam Định (Nam Cuong Nam Dinh Hotel, Vietnam) (01).jpg|Khách sạn Nam Cường ở phường [[Nam Định (phường)|Nam Định]]
+Tập tin:Quốc lộ 21B, đoạn Phủ Lý đi Nam Định.JPG|[[Quốc lộ 21]] đoạn qua phường [[Phủ Lý (phường)|Phủ Lý]]
+Tập tin:Cổng chào Nam Định (Nam Dinh City Gate, Vietnam).jpg|Cổng chào dẫn vào thành phố [[Nam Định (thành phố)|Nam Định]] cũ
+Tập tin:Ga Phủ Lý, Hà Nam.JPG|<center>Nhà ga đường sắt<br>tại Tp Phủ Lý
+Tập tin:Khu công nghiệp Đồng Văn, Hà Nam.JPG|<center>KCN Đồng Văn 
+Tập tin:Một góc TP.Phủ Lý bên sông Đáy.JPG|<center>Thành phố Phủ Lý<br>bên sông Đáy
+Tập tin:Nhà thờ Sở Kiện, Hà Nam.jpg|<center>Nhà thờ Sở Kiện<br>Thanh Liêm, Hà Nam 
+Tập tin:Nhà thờ Lạc Nộn, Thanh Liêm, Hà Nam.JPG|<center>Nhà thờ Lác Nội<br>Thanh Liêm, Hà Nam
+Tập tin:Thpt chuyen ha nam.jpg|<center>THPT Chuyên Biên Hòa<br>Ở Tp Phủ Lý
+Tập tin:Hà Hoa Tiên University.JPG|<center>Trường Đại học ở<br>Thị xã Duy Tiên
+Tập tin:Sông Đáy, đoạn qua Thanh Hải, Thanh Liêm, Hà Nam.JPG|<center>Sông Đáy, đoạn qua<br>Thanh Hải, Thanh Liêm
+Tập tin:Cầu Hòa Mạc.JPG|<center>Phường Hòa Mạc<br>Thị xã Duy Tiên
+Tập tin:Cầu Yên Lệnh.JPG|<center>Cầu Yên Lệnh<br>bắc qua sông Hồng
+Tập tin:Cầu Đoan Vỹ bắc qua sông Đáy, Ninh Bình-Hà Nam.JPG|<center>Cầu Đoan Vỹ<br>bắc qua sông Đáy
+</gallery></center>
+
+== Tỉnh kết nghĩa ==
+:* {{flagicon|VIE}} Tỉnh [[Cà Mau]], [[Việt Nam]]<ref>[http://nbtv.vn/tin-tuc-su-kien/ninh-binh-24h/thoi-su-chinh-tri/201612/ninh-binh-va-ca-mau-ky-ket-ban-ghi-nho-hop-tac-716633/ Ninh Bình và Cà Mau ký kết Bản ghi nhớ hợp tác]</ref> 
+Ở Ninh Bình có các công trình phục vụ phát triển kinh tế xã hội mang tên các địa danh của tỉnh [[Cà Mau]] như: rạp Kim Mau, cống Tân Hưng, cống Biện Nhị, đường Cà Mau, sông Cà Mau, cầu Cà Mau, trạm bơm Rạch Ráng, cầu Chà Là, đê Năm Căn, trường cấp II Ninh Bình - [[Bạc Liêu (tỉnh)|Bạc Liêu]], sông Vĩnh Lợi, cống Vĩnh Lợi, cống Bạc Liêu ở xã [[Yên Mạc]], cống Bạc Liêu ở xã [[Khánh Thiện]], trạm bơm Bạc Liêu, trục kênh [[Bạc Liêu (tỉnh)|Bạc Liêu]].
+
+Ở [[Cà Mau]] có khoảng 100.000 người quê gốc ở Ninh Bình đang sinh sống. Ban Liên lạc đồng hương Ninh Bình tại Cà Mau họp mặt mỗi năm 1 lần. Trường Nội trú Cà Mau - Ninh Bình được Chủ tịch nước phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân vì "Đã có thành tích đặc biệt xuất sắc trong cuộc kháng chiến chống Mỹ cứu nước".<ref>{{Chú thích web|url=http://www.baoanhdatmui.vn/details.php?id=3483|tựa đề= Nhớ mãi một mái trường |tác giả= Nhà giáo Ưu tú Nguyễn Thành Đa |ngày= 2016-04-25 |website= Đất Mũi Online |url lưu trữ=https://web.archive.org/web/20170407054009/http://www.baoanhdatmui.vn/details.php?id=3483|ngày lưu trữ= 2017-04-07 |ngày truy cập= 2017-04-07 |url-status= dead }}</ref>
+:* {{flagicon|EGY}} Cố đô [[Luxor]], [[Ai Cập]]
+:* {{flagicon|Lào}} Tỉnh [[Oudomxay]], [[Lào]]
+:* {{flagicon|Hàn Quốc}} Tỉnh [[Chungcheong Bắc]], [[Hàn Quốc]].
+
+==Danh nhân==
+{{Multicol}}
+*[[Lê Đại Hành|Lê Hoàn]]<br>(Người sáng lập [[nhà Tiền Lê]])
+*[[Đinh Nga]] ([[Tướng nhà Đinh]],<br>có công dẹp [[loạn 12 sứ quân]])
+*[[Hoàng hậu nhà Đinh#Dương Thị Nguyệt|Dương Thị Nguyệt]]<br>([[Hoàng hậu nhà Đinh]])
+*[[Nam Cao]]
+*[[Nguyễn Khuyến]]<br>(Tam nguyên Yên Đỗ)
+*[[Nguyễn Hữu Tiến]]<br>(Tác giả quốc kỳ [[Việt Nam]])
+*[[Nguyễn Văn Kha]] <br>(Nguyên chánh văn phòng Trung Ương Đảng, Nguyên Bộ Trưởng Cơ khí & Luyện kim, nguyên Bộ trưởng phó chủ nhiệm UBKH nhà nước, nay là Bộ KHĐT, nguyên Phó ban Kinh tế TW Đảng)
+*[[Trần Tử Bình]]
+*[[Bùi Kỷ]]
+{{Multicol-break}}
+*[[Phạm Tất Đắc]]
+*[[Trần Quốc Hương]]
+*[[Băng Sơn]]
+*[[Đinh Công Tráng]]
+*[[Ngô Xuân Lịch]]<br>(Nguyên Bộ trưởng Bộ Quốc phòng) 
+*[[Nguyễn Thị Doan]]<br>(Nguyên Phó Chủ tịch nước)
+*[[Đào Ngọc Dung]]<br>(Bộ trưởng Bộ Lao động, Thương binh và Xã hội)
+*[[Mai Tiến Dũng (chính trị gia)|Mai Tiến Dũng]]<br>(Nguyên Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ)
+*[[Nguyễn Tân Cương]]<br>(Thứ trưởng Bộ Quốc phòng)
+*[[Lương Khánh Thiện]]. <br>(Nhà hoạt động Cách Mạng nổi tiếng)
+*[[Trần Bình Trọng]].<br> (Danh tướng thời Trần)
+{{Multicol-end}}
+
+==Xem thêm==
+* [[Du lịch Ninh Bình]]
+* [[Cố đô Hoa Lư]]
+* [[Quần thể di sản thế giới Tràng An]]
+* [[Di tích ở Ninh Bình]]
+
+== Chú thích ==
+{{tham khảo|24em}}
+
+== Liên kết ngoài ==
+{{Commonscat|Ninh Binh Province}}
+* [http://ninhbinh.gov.vn/ Cổng thông tin điện tử Ninh Bình] {{Webarchive|url=https://web.archive.org/web/20230427134044/http://ninhbinh.gov.vn/ |date=2023-04-27 }}
+* [http://congthuongninhbinh.gov.vn Cổng thông tin điện tử Sở công thương Ninh Bình] {{Webarchive|url=https://web.archive.org/web/20171209213023/http://congthuongninhbinh.gov.vn/ |date = ngày 9 tháng 12 năm 2017}}
+* [http://www.ninhbinhtourism.com.vn/ Cổng thông tin điện tử Sở Du lịch Ninh Bình] {{Webarchive|url=https://web.archive.org/web/20070529174659/http://www.ninhbinhtourism.com.vn/ |date=2007-05-29 }}
+* [http://www.ninhbinh.edu.vn/ Sở GD&ĐT Ninh Bình] {{Webarchive|url=https://web.archive.org/web/20070710171021/http://www.ninhbinh.edu.vn/ |date=2007-07-10 }}
+* [https://ninhbinh.org/ Báo điện tử Ninh Bình Online] {{Webarchive|url=https://web.archive.org/web/20190328111732/https://ninhbinh.org/ |date=2019-03-28 }}
+
+{{Đơn vị hành chính cấp tỉnh Việt Nam}}
+
+[[Thể loại:Vùng duyên hải Bắc Bộ]]
+[[Thể loại:Ninh Bình| ]]
+[[Thể loại:Tỉnh ven biển Việt Nam]]

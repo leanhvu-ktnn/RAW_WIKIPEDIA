@@ -1,0 +1,26 @@
+{
+  "request_url": "https://vi.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&inprop=url&maxlag=5&ppprop=wikibase_item%7Cdisambiguation&prop=info%7Cpageprops&redirects=1&titles=H%E1%BA%ADu+Giang%7CH%E1%BA%ADu+Giang+%28t%E1%BB%89nh%29%7CH%E1%BA%ADu+Giang+%28t%E1%BB%89nh+c%C5%A9%29%7CH%E1%BA%ADu+Giang+%28tr%C6%B0%E1%BB%9Bc+2025%29",
+  "params": {
+    "format": "json",
+    "formatversion": "2",
+    "maxlag": 5,
+    "action": "query",
+    "titles": "Hậu Giang|Hậu Giang (tỉnh)|Hậu Giang (tỉnh cũ)|Hậu Giang (trước 2025)",
+    "redirects": 1,
+    "prop": "info|pageprops",
+    "inprop": "url",
+    "ppprop": "wikibase_item|disambiguation"
+  },
+  "retrieved_at": "2026-09-29T15:27:18.941178Z",
+  "http_status": 200,
+  "headers": {
+    "date": "Tue, 29 Sep 2026 15:27:18 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1796"
+  },
+  "path": "sources/responses/46ad659278d47665f6b2e27224b93e3023c8a6d864719ddf0f2f7f5f1477fc11.json",
+  "sha256": "46ad659278d47665f6b2e27224b93e3023c8a6d864719ddf0f2f7f5f1477fc11",
+  "byte_length": 1796,
+  "media_type": "application/json",
+  "representation": "unmodified MediaWiki HTTP response body bytes"
+}

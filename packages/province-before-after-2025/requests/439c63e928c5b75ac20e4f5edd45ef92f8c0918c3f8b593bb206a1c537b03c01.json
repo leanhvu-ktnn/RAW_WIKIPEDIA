@@ -1,0 +1,26 @@
+{
+  "request_url": "https://vi.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&inprop=url&maxlag=5&ppprop=wikibase_item%7Cdisambiguation&prop=info%7Cpageprops&redirects=1&titles=Qu%E1%BA%A3ng+Nam%7CQu%E1%BA%A3ng+Nam+%28t%E1%BB%89nh%29%7CQu%E1%BA%A3ng+Nam+%28t%E1%BB%89nh+c%C5%A9%29%7CQu%E1%BA%A3ng+Nam+%28tr%C6%B0%E1%BB%9Bc+2025%29",
+  "params": {
+    "format": "json",
+    "formatversion": "2",
+    "maxlag": 5,
+    "action": "query",
+    "titles": "Quảng Nam|Quảng Nam (tỉnh)|Quảng Nam (tỉnh cũ)|Quảng Nam (trước 2025)",
+    "redirects": 1,
+    "prop": "info|pageprops",
+    "inprop": "url",
+    "ppprop": "wikibase_item|disambiguation"
+  },
+  "retrieved_at": "2026-09-29T15:26:13.908323Z",
+  "http_status": 200,
+  "headers": {
+    "date": "Tue, 29 Sep 2026 15:26:13 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1452"
+  },
+  "path": "sources/responses/4573bf327ad5538bde38c9ecdfff9c9b3aa67cffc50beab2716fb891e9cb3119.json",
+  "sha256": "4573bf327ad5538bde38c9ecdfff9c9b3aa67cffc50beab2716fb891e9cb3119",
+  "byte_length": 1452,
+  "media_type": "application/json",
+  "representation": "unmodified MediaWiki HTTP response body bytes"
+}

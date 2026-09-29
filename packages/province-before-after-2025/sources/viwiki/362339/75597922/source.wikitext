@@ -1,0 +1,1355 @@
+{{Chú thích trong bài|date=tháng 7/2026}}
+
+{{other|Hải Phòng (định hướng)}}
+{{Thông tin đơn vị hành chính Việt Nam | Thành phố trực thuộc trung ương 
+| tên = Hải Phòng
+| tên cũ = [[Hồng châu]], [[Xứ Đông|Hải Đông]], [[Nam Sách (huyện)|Nam Sách]], [[Nam Sách Hạ]], [[Nam Sách Thượng]], [[Kiến An (tỉnh)|Kiến An]], [[Hải Hưng (tỉnh)|Hải Hưng]], [[Hải Dương (tỉnh)|Hải Dương]]
+| logo = Logo thành phố Hải Phòng.png
+| ghi chú logo = Biểu trưng
+| nhiều hình = {{multiple image
+| border = infobox
+| total_width = 300
+| caption_align = center
+| image_style = border:1;
+| perrow = 1/2/2/2
+| image1 = Sông Cấm Hải Phòng Về Đêm năm 2025.jpg
+| caption1 = Quang cảnh thành phố nhìn từ [[Sông Cấm]]
+| image2 = Statue of Madam Lê-Chân in Haiphong City (1).jpg
+| caption2 = Tượng đài [[Lê Chân]]
+| image3 = CANG HOANG DIEU CHUA VE.jpg
+| caption3 = [[Cảng Hải Phòng]]
+| image4 = Haiphong Opera House.jpg
+| caption4 = [[Nhà hát Lớn Hải Phòng|Nhà hát Lớn]]
+| image5 = Hai Phong Cathedral (2007).jpg
+| caption5 = [[Nhà thờ chính tòa Hải Phòng|Nhà thờ chính tòa]]
+| image6 = Do Son - Plage du Pagodon en 2007.jpg
+| caption6 = Bãi biển [[Đồ Sơn (quận)|Đồ Sơn]]
+| image7 = Cát Bà Island.jpg
+| caption7 = [[Đảo Cát Bà]]
+}}
+| vĩ độ = 20.866389
+| kinh độ = 106.6825
+| bản đồ 1 = {{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=2|stroke-color=#000000}}
+| biệt danh = 
+*Thành phố Cảng
+*Thành phố Hoa phượng đỏ
+*Đất Cảng
+*Xứ Đông
+*Xứ sở [[bánh đậu xanh]]
+| diện tích = 3.194,72 km²<ref name=TT>{{Chú thích web|url=https://tuoitre.vn/chi-tiet-du-kien-quy-mo-dan-so-dien-tich-kinh-te-cua-34-tinh-thanh-sau-sap-nhap-20250513081155167.htm|tựa đề= Chi tiết dự kiến quy mô dân số, diện tích, kinh tế của 34 tỉnh, thành sau sáp nhập |tác giả= Thành Chung |ngày= 2025-05-13 |website= Tuổi Trẻ Online |url lưu trữ=https://web.archive.org/web/20250513080219/https://tuoitre.vn/chi-tiet-du-kien-quy-mo-dan-so-dien-tich-kinh-te-cua-34-tinh-thanh-sau-sap-nhap-20250513081155167.htm|ngày lưu trữ= 2025-05-13 |ngày truy cập= 2025-05-13 |url-status= dead }}</ref><ref name="DT">{{Chú thích web|url=https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm|tựa đề= Dự kiến chi tiết diện tích, dân số, quy mô kinh tế của 34 tỉnh, thành mới |tác giả= Lê Hoa |ngày= 2025-06-09 |website= Báo Dân Trí |url lưu trữ=https://web.archive.org/web/20250609217756/https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm|ngày lưu trữ= 2025-06-09 |ngày truy cập= 2025-06-09 |url-status= dead }}</ref>
+| dân số = 4.664.124 người<ref name=TT>{{Chú thích web|url=https://tuoitre.vn/chi-tiet-du-kien-quy-mo-dan-so-dien-tich-kinh-te-cua-34-tinh-thanh-sau-sap-nhap-20250513081155167.htm|tựa đề= Chi tiết dự kiến quy mô dân số, diện tích, kinh tế của 34 tỉnh, thành sau sáp nhập |tác giả= Thành Chung |ngày= 2025-05-13 |website= Tuổi Trẻ Online |url lưu trữ=https://web.archive.org/web/20250513080219/https://tuoitre.vn/chi-tiet-du-kien-quy-mo-dan-so-dien-tich-kinh-te-cua-34-tinh-thanh-sau-sap-nhap-20250513081155167.htm|ngày lưu trữ= 2025-05-13 |ngày truy cập= 2025-05-13 |url-status= dead }}</ref><ref name="DT">{{Chú thích web|url=https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm|tựa đề= Dự kiến chi tiết diện tích, dân số, quy mô kinh tế của 34 tỉnh, thành mới |tác giả= Lê Hoa |ngày= 2025-06-09 |website= Báo Dân Trí |url lưu trữ=https://web.archive.org/web/20250609217756/https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm|ngày lưu trữ= 2025-06-09 |ngày truy cập= 2025-06-09 |url-status= dead }}</ref>
+| thời điểm dân số = 31/12/2024 
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:4.664.124|R}}/{{formatnum:3.194,72|R}})}} }} người/km²<ref name=TT>{{Chú thích web|url=https://tuoitre.vn/chi-tiet-du-kien-quy-mo-dan-so-dien-tich-kinh-te-cua-34-tinh-thanh-sau-sap-nhap-20250513081155167.htm|tựa đề= Chi tiết dự kiến quy mô dân số, diện tích, kinh tế của 34 tỉnh, thành sau sáp nhập |tác giả= Thành Chung |ngày= 2025-05-13 |website= Tuổi Trẻ Online |url lưu trữ=https://web.archive.org/web/20250513080219/https://tuoitre.vn/chi-tiet-du-kien-quy-mo-dan-so-dien-tich-kinh-te-cua-34-tinh-thanh-sau-sap-nhap-20250513081155167.htm|ngày lưu trữ= 2025-05-13 |ngày truy cập= 2025-05-13 |url-status= dead }}</ref><ref name="DT">{{Chú thích web|url=https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm|tựa đề= Dự kiến chi tiết diện tích, dân số, quy mô kinh tế của 34 tỉnh, thành mới |tác giả= Lê Hoa |ngày= 2025-06-09 |website= Báo Dân Trí |url lưu trữ=https://web.archive.org/web/20250609217756/https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm|ngày lưu trữ= 2025-06-09 |ngày truy cập= 2025-06-09 |url-status= dead }}</ref>
+| vùng = [[Đồng bằng sông Hồng]] 
+| dân tộc = [[Người Việt|Kinh]]
+| thành lập = {{start date and age|1888|7|19}}
+| loại đô thị = [[Đô thị Việt Nam#Đô thị loại I|Loại I]]
+| năm công nhận = 2003
+| chủ tịch UBND = [[Đỗ Thành Trung (chính khách)|Đỗ Thành Trung]]
+| hội đồng nhân dân = 85
+| chủ tịch HĐND = [[Lê Văn Hiệu]]
+| chánh án TAND = Lưu Tuấn Dũng
+| viện trưởng VKSND = Đoàn Anh Phương
+|bí thư = [[Lê Ngọc Châu]]
+| chủ tịch UBMTTQ = [[Phạm Văn Lập]]
+| trụ sở UBND = Tòa nhà B, Trung tâm Chính trị - Hành chính Thành phố, phường [[Thủy Nguyên (phường)|Thủy Nguyên]]
+| đại biểu quốc hội = 19 
+| phân chia hành chính = 45 phường, 67 xã, 2 đặc khu
+| quận trung tâm = Phường [[Thủy Nguyên (phường)|Thủy Nguyên]]
+| thời điểm kinh tế = 2025 <ref name=TT>{{Chú thích web|url=https://tuoitre.vn/chi-tiet-du-kien-quy-mo-dan-so-dien-tich-kinh-te-cua-34-tinh-thanh-sau-sap-nhap-20250513081155167.htm|tựa đề= Chi tiết dự kiến quy mô dân số, diện tích, kinh tế của 34 tỉnh, thành sau sáp nhập |tác giả= Thành Chung |ngày= 2025-05-13 |website= Tuổi Trẻ Online |url lưu trữ=https://web.archive.org/web/20250513080219/https://tuoitre.vn/chi-tiet-du-kien-quy-mo-dan-so-dien-tich-kinh-te-cua-34-tinh-thanh-sau-sap-nhap-20250513081155167.htm|ngày lưu trữ= 2025-05-13 |ngày truy cập= 2025-05-13 |url-status= dead }}</ref><ref name="DT">{{Chú thích web|url=https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm|tựa đề= Dự kiến chi tiết diện tích, dân số, quy mô kinh tế của 34 tỉnh, thành mới |tác giả= Lê Hoa |ngày= 2025-06-09 |website= Báo Dân Trí |url lưu trữ=https://web.archive.org/web/20250609217756/https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm|ngày lưu trữ= 2025-06-09 |ngày truy cập= 2025-06-09 |url-status= dead }}</ref><ref name="haiphong.gov.vn">{{Chú thích web|url=https://haiphong.gov.vn/tin-so-nganh/hai-phong-khang-dinh-vi-the-dan-dau-voi-toc-do-tang-truong-grdp-nam-2025-dat-11-81-841154|tựa đề = Thông cáo báo chí Tình hình kinh tế - xã hội năm 2025 thành phố Hải Phòng| website= Thống kê thành phố Hải Phòng|ngày truy cập= 2026-02-28 }}</ref>
+| GRDP = 734.420 tỉ đồng (29,4 tỉ USD) <ref name=TT>{{Chú thích web|url=https://tuoitre.vn/chi-tiet-du-kien-quy-mo-dan-so-dien-tich-kinh-te-cua-34-tinh-thanh-sau-sap-nhap-20250513081155167.htm|tựa đề= Chi tiết dự kiến quy mô dân số, diện tích, kinh tế của 34 tỉnh, thành sau sáp nhập |tác giả= Thành Chung |ngày= 2025-05-13 |website= Tuổi Trẻ Online |url lưu trữ=https://web.archive.org/web/20250513080219/https://tuoitre.vn/chi-tiet-du-kien-quy-mo-dan-so-dien-tich-kinh-te-cua-34-tinh-thanh-sau-sap-nhap-20250513081155167.htm|ngày lưu trữ= 2025-05-13 |ngày truy cập= 2025-05-13 |url-status= dead }}</ref><ref name="DT">{{Chú thích web|url=https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm|tựa đề= Dự kiến chi tiết diện tích, dân số, quy mô kinh tế của 34 tỉnh, thành mới |tác giả= Lê Hoa |ngày= 2025-06-09 |website= Báo Dân Trí |url lưu trữ=https://web.archive.org/web/20250609217756/https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm|ngày lưu trữ= 2025-06-09 |ngày truy cập= 2025-06-09 |url-status= dead }}</ref><ref name="haiphong.gov.vn">{{Chú thích web|url=https://haiphong.gov.vn/tin-so-nganh/hai-phong-khang-dinh-vi-the-dan-dau-voi-toc-do-tang-truong-grdp-nam-2025-dat-11-81-841154|tựa đề = Thông cáo báo chí Tình hình kinh tế - xã hội năm 2025 thành phố Hải Phòng| website= Thống kê thành phố Hải Phòng|ngày truy cập= 2026-02-28 }}</ref>
+| GRDP bình quân đầu người = 194,5 triệu đồng (7.742 USD) <ref name=TT>{{Chú thích web|url=https://tuoitre.vn/chi-tiet-du-kien-quy-mo-dan-so-dien-tich-kinh-te-cua-34-tinh-thanh-sau-sap-nhap-20250513081155167.htm|tựa đề= Chi tiết dự kiến quy mô dân số, diện tích, kinh tế của 34 tỉnh, thành sau sáp nhập |tác giả= Thành Chung |ngày= 2025-05-13 |website= Tuổi Trẻ Online |url lưu trữ=https://web.archive.org/web/20250513080219/https://tuoitre.vn/chi-tiet-du-kien-quy-mo-dan-so-dien-tich-kinh-te-cua-34-tinh-thanh-sau-sap-nhap-20250513081155167.htm|ngày lưu trữ= 2025-05-13 |ngày truy cập= 2025-05-13 |url-status= dead }}</ref><ref name="DT">{{Chú thích web|url=https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm|tựa đề= Dự kiến chi tiết diện tích, dân số, quy mô kinh tế của 34 tỉnh, thành mới |tác giả= Lê Hoa |ngày= 2025-06-09 |website= Báo Dân Trí |url lưu trữ=https://web.archive.org/web/20250609217756/https://dantri.com.vn/noi-vu/du-kien-chi-tiet-dien-tich-dan-so-quy-mo-kinh-te-cua-34-tinh-thanh-moi-20250609213449364.htm|ngày lưu trữ= 2025-06-09 |ngày truy cập= 2025-06-09 |url-status= dead }}</ref><ref name="haiphong.gov.vn">{{Chú thích web|url=https://haiphong.gov.vn/tin-so-nganh/hai-phong-khang-dinh-vi-the-dan-dau-voi-toc-do-tang-truong-grdp-nam-2025-dat-11-81-841154|tựa đề = Thông cáo báo chí Tình hình kinh tế - xã hội năm 2025 thành phố Hải Phòng| website= Thống kê thành phố Hải Phòng|ngày truy cập= 2026-02-28 }}</ref>
+| mã địa lý = [[ISO 3166-2:VN|VN-HP]]
+| mã hành chính = 31<ref>{{Chú thích web|url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf|tựa đề= Quyết định số 19/2025/QĐ-TTg về việc ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |ngày= 2025-06-30 |website= Cổng Thông tin điện tử Chính phủ |url lưu trữ=https://web.archive.org/web/20251224142347/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf|ngày lưu trữ= 2025-12-24 |ngày truy cập= 2025-12-24 |url-status= dead }}</ref>
+| mã bưu chính = [[Mã bưu chính Việt Nam|17xxxx, 18xxxx]]
+| mã điện thoại = [[Mã điện thoại Việt Nam|220, 225]]
+| biển số xe = [[Biển xe cơ giới Việt Nam|15]], [[Biển xe cơ giới Việt Nam|16]], [[Biển xe cơ giới Việt Nam|34]]
+| web = {{url|haiphong.gov.vn}}
+}}
+'''Hải Phòng''' là một trong chín [[Thành phố trực thuộc trung ương (Việt Nam)|thành phố trực thuộc trung ương]] của [[Việt Nam]], nằm tại [[Đồng bằng sông Hồng]]. Đây là một trong những trung tâm kinh tế, công nghiệp, cảng biển và logistics quan trọng của khu vực phía Bắc Việt Nam. Trong quá khứ, Hải Phòng là nơi đầu tiên có điện ở Đông Dương.
+
+Năm 2025, toàn bộ diện tích tự nhiên và quy mô dân số của thành phố Hải Phòng và tỉnh [[Hải Dương (tỉnh)|Hải Dương]] được sắp xếp thành thành phố Hải Phòng mới. Sau sắp xếp, Hải Phòng có diện tích tự nhiên 3.194,72&nbsp;km² và quy mô dân số 4.664.124 người. Thành phố có 114 đơn vị hành chính cấp xã, gồm 45 phường, 67 xã và 2 đặc khu; các đơn vị hành chính hình thành sau sắp xếp chính thức hoạt động từ ngày 1 tháng 7 năm 2025.<ref name=":1">{{Chú thích web |url=https://haiphong.gov.vn/thong-tin-chi-dao-dieu-hanh/toan-van-nghi-quyet-so-1669-nq-ubtvqh15-cua-uy-ban-thuong-vu-quoc-hoi-ve-viec-sap-xep-cac-don-vi-758011 |title=Toàn văn Nghị quyết số 1669/NQ-UBTVQH15 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hải Phòng năm 2025 |website=Cổng thông tin điện tử thành phố Hải Phòng |date=17 tháng 6 năm 2025}}</ref>
+
+Hải Phòng có hệ thống cảng biển giữ vai trò quan trọng đối với hoạt động xuất nhập khẩu và vận tải hàng hóa của khu vực phía Bắc, đồng thời là một trong những trung tâm công nghiệp lớn của Việt Nam. Năm 2025, tổng sản phẩm trên địa bàn (GRDP) của Hải Phòng theo giá hiện hành ước đạt 734.420 tỷ đồng và tốc độ tăng trưởng GRDP đạt 11,81%.<ref name=":1" />
+
+Hải Phòng còn được gọi là '''Đất Cảng''' hay '''Thành phố Cảng'''. Thành phố cũng được biết đến với tên gọi '''Thành phố Hoa Phượng Đỏ''', gắn với hình ảnh [[phượng vĩ|hoa phượng đỏ]] được trồng phổ biến trên nhiều tuyến phố.<ref>{{Chú thích web |url=https://haiphong.gov.vn/tin-tuc-su-kien/le-hoi-hoa-phuong-do-hai-phong-2025-khai-mac-toi-13-5-tai-quang-truong-trung-tam-chinh-tri-hanh-chinh-moi-747569 |title=Lễ hội Hoa Phượng Đỏ - Hải Phòng 2025 khai mạc tối 13/5 tại Quảng trường Trung tâm Chính trị - Hành chính mới |website=Cổng thông tin điện tử thành phố Hải Phòng |access-date=5 tháng 8 năm 2026}}</ref>
+
+Hải Phòng có tài nguyên du lịch đa dạng, bao gồm các công trình kiến trúc, di tích lịch sử – văn hóa, du lịch biển đảo và các lễ hội truyền thống. [[Quần đảo Cát Bà]] cùng [[Vịnh Hạ Long]] được UNESCO ghi danh là [[Di sản thế giới]] vào năm 2023.<ref name="whc.unesco.org">{{Chú thích web |url=https://whc.unesco.org/en/list/672/ |title=Ha Long Bay - Cat Ba Archipelago |website=UNESCO World Heritage Centre |language=en |access-date=5 tháng 8 năm 2026}}</ref> Quần đảo Cát Bà đồng thời là một [[khu dự trữ sinh quyển thế giới]] được UNESCO công nhận.<ref name="unesco.org">{{Chú thích web |url=https://www.unesco.org/en/mab/cat-ba |title=Cat Ba |website=UNESCO |language=en |access-date=5 tháng 8 năm 2026}}</ref> [[Đồ Sơn]] là một trong những khu du lịch biển của thành phố. Hải Phòng cũng có những đặc trưng về văn hóa, [[ẩm thực Hải Phòng|ẩm thực]] và các [[Lễ hội Việt Nam|lễ hội truyền thống]].
+
+Sau đợt sắp xếp đơn vị hành chính năm 2025, thành phố Hải Phòng có diện tích tự nhiên 3.194,72&nbsp;km² và quy mô dân số 4.664.124 người.<ref>{{Chú thích web |url=https://haiphong.gov.vn/thong-tin-chi-dao-dieu-hanh/toan-van-nghi-quyet-so-1669-nq-ubtvqh15-cua-uy-ban-thuong-vu-quoc-hoi-ve-viec-sap-xep-cac-don-vi-758011 |title=Toàn văn Nghị quyết số 1669/NQ-UBTVQH15 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hải Phòng năm 2025 |website=Cổng thông tin điện tử thành phố Hải Phòng |access-date=5 tháng 8 năm 2026}}</ref>
+
+== Tên gọi ==
+
+Có một số cách giải thích về nguồn gốc tên gọi '''Hải Phòng'''. Theo các tài liệu và truyền thuyết địa phương, tên gọi này có liên hệ với cụm từ '''“Hải Tần phòng thủ”''', gắn với [[Lê Chân]], nữ tướng tham gia cuộc khởi nghĩa [[Hai Bà Trưng]]. Lê Chân được cho là người có công khai phá vùng An Biên và xây dựng lực lượng phòng thủ tại khu vực duyên hải, được xem là một trong những tiền đề lịch sử của vùng đô thị Hải Phòng sau này.<ref name="lechan.haiphong.gov.vn">{{Chú thích web |url=https://lechan.haiphong.gov.vn/thong-tin-tuyen-truyen/nu-tuong-le-chan-tu-an-bien-khai-mo-den-hai-tan-phong-thu-khac-tac-khi-phach-hai-phong-874372 |title=Nữ tướng Lê Chân – Từ An Biên khai mở đến Hải Tần phòng thủ, khắc tạc khí phách Hải Phòng |website=Cổng thông tin điện tử thành phố Hải Phòng |date=18 tháng 3 năm 2026 |access-date=5 tháng 8 năm 2026}}</ref>
+
+Tên gọi Hải Phòng với tư cách một địa danh hành chính xuất hiện vào cuối thế kỷ XIX, trong quá trình hình thành đô thị và cảng biển tại khu vực cửa [[sông Cấm]]. Trước đó, khu vực bến cảng này từng được biết đến với tên '''Ninh Hải'''. Trong thời kỳ [[Pháp thuộc]], khu vực ven sông Cấm được đầu tư xây dựng cảng và từng bước phát triển thành một đô thị cảng.<ref>{{Chú thích web |url=https://www.thuvienhaiphong.org.vn/node/1100 |title=Đô thị cảng biển Hải Phòng 120 năm hình thành và phát triển (19/7/1888–19/7/2008) |website=Thư viện thành phố Hải Phòng |date=20 tháng 3 năm 2012 |access-date=5 tháng 8 năm 2026}}</ref>
+
+Ngày 19 tháng 7 năm 1888, chính quyền Pháp ban hành nghị định thành lập thành phố Hải Phòng, đánh dấu sự hình thành chính thức của Hải Phòng với tư cách một đô thị. Đến ngày 31 tháng 8 năm 1889, thành phố Hải Phòng được tách khỏi tỉnh Hải Phòng; tỉnh lỵ sau đó chuyển về Phủ Liễn và tỉnh này về sau mang tên [[Kiến An (tỉnh)|Kiến An]].<ref name="quansu.haiphong.gov.vn">{{Chú thích web |url=https://quansu.haiphong.gov.vn/Lich-su-truyen-thong/Lich-su-Dang-bo-Quan-su-thanh-pho/Hai-Phong---Dia-ban-chien-luoc--truyen-thong-yeu-nuoc-va-dau-tranh-cach-mang---Phan-1-121502.html |title=Hải Phòng - Địa bàn chiến lược, truyền thống yêu nước và đấu tranh cách mạng - Phần 1 |website=Cổng thông tin điện tử thành phố Hải Phòng |access-date=5 tháng 8 năm 2026}}</ref>
+
+== Địa lý ==
+[[Tập tin:Ảnh chụp vệ tinh khu vực trung tâm Hải Phòng.jpg|nhỏ|Ảnh chụp vệ tinh khu vực trung tâm Hải Phòng]]
+[[Tập tin:Hai Phong city (after the 2025 merger) location map.svg|nhỏ|Bản đồ vị trí thành phố Hải Phòng]]
+=== Vị trí địa lý ===
+Thành phố Hải Phòng nằm ở phía đông vùng [[Đồng bằng sông Hồng]], có vị trí địa lý:
+
+* Phía bắc giáp thành phố [[Quảng Ninh]] và thành phố [[Bắc Ninh]]
+* Phía tây giáp thành phố [[Bắc Ninh]] và tỉnh [[Hưng Yên]]
+* Phía nam giáp tỉnh [[Hưng Yên]]
+* Phía đông giáp [[Vịnh Bắc Bộ]] thuộc [[Biển Đông]].
+
+Sau khi sắp xếp đơn vị hành chính cấp tỉnh năm 2025, thành phố Hải Phòng có diện tích tự nhiên 3.194,72&nbsp;km².<ref>{{Chú thích web |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-so-202-2025-qh15-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174645103.htm |title=Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh |website=Xây dựng chính sách, pháp luật - Cổng Thông tin điện tử Chính phủ |access-date=5 tháng 8 năm 2026}}</ref> Thành phố có vùng đất liền và vùng biển, trong đó [[Cát Hải]] và [[Bạch Long Vĩ]] là hai đặc khu trực thuộc thành phố.<ref>{{Chú thích web |url=https://haiphong.gov.vn/thong-tin-chi-dao-dieu-hanh/toan-van-nghi-quyet-so-1669-nq-ubtvqh15-cua-uy-ban-thuong-vu-quoc-hoi-ve-viec-sap-xep-cac-don-vi-758011 |title=Toàn văn Nghị quyết số 1669/NQ-UBTVQH15 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hải Phòng năm 2025 |website=Cổng thông tin điện tử thành phố Hải Phòng |access-date=5 tháng 8 năm 2026}}</ref>
+
+==== Các điểm cực của thành phố Hải Phòng ====
+*Điểm cực Bắc tại: phường [[Nguyễn Trãi (phường)|Nguyễn Trãi]].
+*Điểm cực Tây tại: xã [[Cẩm Giàng, Hải Phòng|Cẩm Giàng]].
+*Điểm cực Nam trên đất liền tại: thôn Hoàng Hoa Thám, xã [[Vĩnh Hải, Hải Phòng|Vĩnh Hải]].
+*Điểm cực Đông trên đất liền tại: mũi Đồ Sơn, phường [[Đồ Sơn (phường)|Đồ Sơn]].
+*Điểm cực Đông vùng hải đảo đều nằm trên đảo Bạch Long Vĩ (đặc khu [[Bạch Long Vĩ]]).
+*Điểm đặt tại trung tâm nhất tại xã [[Chí Minh, Hải Phòng|Chí Minh]].
+
+=== Đặc điểm địa hình, sông ngòi và biển ===
+
+;Địa hình
+
+Sau khi hợp nhất với tỉnh [[Hải Dương (tỉnh)|Hải Dương]] năm 2025, Hải Phòng có địa hình đa dạng, chuyển tiếp từ khu vực đồi núi và trung du ở phía bắc, tây bắc sang đồng bằng ở khu vực trung tâm, phía nam và đông nam, sau đó tiếp giáp vùng ven biển và hải đảo. Phần lớn diện tích thành phố thuộc vùng đồng bằng của hệ thống [[sông Hồng]] – [[sông Thái Bình]]. Khu vực phía bắc và đông bắc có các dải đồi núi, trong đó địa hình đá vôi tập trung tại khu vực [[Thủy Nguyên]] và [[Quần đảo Cát Bà|Cát Bà]].<ref name="ReferenceA">{{Chú thích web |url=https://haiphong.gov.vn/dieu-kien-tu-nhien-xa-hoi/dieu-kien-tu-nhien-van-hoa-xa-hoi-24123 |title=Điều kiện tự nhiên, văn hóa, xã hội |website=Cổng thông tin điện tử thành phố Hải Phòng |access-date=5 tháng 8 năm 2026}}</ref>
+
+Khu vực phía tây của thành phố, tương ứng phần lớn địa bàn [[Hải Dương (tỉnh)|Hải Dương]] trước khi hợp nhất, chủ yếu là đồng bằng; riêng khu vực phía bắc và đông bắc có địa hình đồi núi, nổi bật là vùng [[Chí Linh]] và [[Kinh Môn]]. Địa hình thành phố nhìn chung thấp dần từ tây bắc xuống đông nam và hướng ra [[Vịnh Bắc Bộ]].<ref name="ReferenceA"/>
+
+;Sông ngòi
+
+Hải Phòng nằm ở hạ lưu hệ thống [[sông Thái Bình]], có mạng lưới sông ngòi tương đối dày đặc. Các sông lớn chảy qua địa bàn gồm [[sông Thái Bình]], [[sông Kinh Thầy]], [[sông Kinh Môn]], [[sông Luộc]], [[sông Văn Úc]], [[sông Lạch Tray]], [[Sông Cấm (Hải Phòng)|sông Cấm]], [[sông Đá Bạc]] và [[sông Bạch Đằng]]. Hệ thống sông vừa cung cấp nguồn nước cho sản xuất và sinh hoạt, vừa tạo thành mạng lưới giao thông đường thủy kết nối khu vực nội địa với vùng cửa biển.<ref name="ReferenceA"/>
+
+;Bờ biển và hải đảo
+
+Phía đông Hải Phòng tiếp giáp [[Vịnh Bắc Bộ]], có vùng cửa sông, bờ biển và hệ thống đảo, quần đảo. Hai đặc khu [[Cát Hải]] và [[Bạch Long Vĩ]] nằm trong vùng biển của thành phố. [[Quần đảo Cát Bà]] có địa hình karst đá vôi đặc trưng và là nơi có [[Khu dự trữ sinh quyển Cát Bà|Khu dự trữ sinh quyển thế giới Cát Bà]] được UNESCO công nhận năm 2004.<ref name="unesco.org"/> Năm 2023, [[Vịnh Hạ Long]] – [[Quần đảo Cát Bà]] được UNESCO ghi danh là [[Di sản thế giới]], trở thành di sản thế giới liên tỉnh, thành phố đầu tiên của Việt Nam.<ref name="whc.unesco.org"/>
+
+[[Tập tin:Haiphongcity2020.jpg|nhỏ|Thành phố Hải Phòng bên bờ sông Cấm]]
+
+=== Tài nguyên ===
+
+Hải Phòng có nguồn tài nguyên tự nhiên đa dạng, bao gồm tài nguyên đất, nước, rừng, biển và khoáng sản. Sau khi hợp nhất với tỉnh [[Hải Dương (tỉnh)|Hải Dương]] năm 2025, thành phố có tổng diện tích tự nhiên 3.194,72&nbsp;km².<ref>{{Chú thích web |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-so-202-2025-qh15-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174645103.htm |title=Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh |website=Xây dựng chính sách, pháp luật - Cổng Thông tin điện tử Chính phủ |access-date=5 tháng 8 năm 2026}}</ref>
+
+* '''Tài nguyên đất:''' Đất đai của Hải Phòng gồm các nhóm đất đồng bằng, đất phù sa, đất mặn ven biển và đất vùng đồi núi. Khu vực đồng bằng chiếm phần lớn diện tích, được hình thành và bồi đắp bởi hệ thống [[sông Thái Bình]] cùng các phụ lưu. Các khu vực đồi núi tập trung chủ yếu ở phía bắc và đông bắc thành phố.
+* '''Tài nguyên rừng và đa dạng sinh học:''' Hải Phòng có tài nguyên rừng tập trung tại một số khu vực đồi núi và hải đảo. [[Vườn quốc gia Cát Bà]] có hệ sinh thái rừng trên núi đá vôi, rừng ngập mặn và hệ sinh thái biển với mức độ đa dạng sinh học cao. [[Quần đảo Cát Bà]] được UNESCO công nhận là khu dự trữ sinh quyển thế giới vào năm 2004.<ref name="unesco.org"/> Khu vực phía tây và tây bắc thành phố còn có các vùng rừng thuộc [[Chí Linh]], trong đó có những khu vực gắn với hệ sinh thái rừng và cảnh quan của dãy núi Đông Triều.
+* '''Tài nguyên nước:''' Thành phố nằm ở hạ lưu hệ thống [[sông Thái Bình]], với mạng lưới sông ngòi gồm [[sông Thái Bình]], [[sông Kinh Thầy]], [[sông Kinh Môn]], [[sông Luộc]], [[sông Văn Úc]], [[sông Lạch Tray]], [[Sông Cấm (Hải Phòng)|sông Cấm]] và nhiều sông, kênh khác. Nguồn nước mặt từ hệ thống sông có vai trò đối với sản xuất nông nghiệp, công nghiệp và sinh hoạt.
+* '''Tài nguyên biển:''' Hải Phòng có vùng biển và hệ thống đảo, quần đảo trên [[Vịnh Bắc Bộ]], nổi bật là [[Quần đảo Cát Bà]] và [[Bạch Long Vĩ]]. Tài nguyên biển tạo điều kiện phát triển kinh tế hàng hải, cảng biển, nuôi trồng và khai thác thủy sản và du lịch biển đảo. Quần thể [[Vịnh Hạ Long]] – [[Quần đảo Cát Bà]] được UNESCO ghi danh là [[Di sản thế giới]] vào năm 2023.<ref name="whc.unesco.org"/>
+* '''Tài nguyên khoáng sản:''' Khoáng sản trên địa bàn Hải Phòng chủ yếu là các loại khoáng sản làm vật liệu xây dựng, trong đó có đá vôi, đất sét và một số loại khoáng sản khác. Đá vôi phân bố tại các khu vực núi đá vôi ở [[Thủy Nguyên]], [[Kinh Môn]] và một số khu vực phía bắc, đông bắc thành phố.
+
+=== Khí hậu ===
+Hải Phòng nằm trong vùng [[khí hậu nhiệt đới gió mùa]] ẩm, chịu ảnh hưởng của gió mùa và có sự phân hóa theo mùa. Mùa hè nóng, ẩm và mưa nhiều; mùa đông chịu ảnh hưởng của gió mùa Đông Bắc, thời tiết lạnh và ít mưa hơn. Mùa mưa chủ yếu kéo dài từ tháng 5 đến tháng 10, trong khi mùa khô thường từ tháng 11 đến tháng 4 năm sau.<ref>{{Chú thích web |url=https://cdn.haiphong.gov.vn/gov-hpg/1/tintuc/2026/5/1.-hprdp-esia_final_vn-clean-639143667491722657.pdf |title=Báo cáo đánh giá tác động môi trường và xã hội |website=Cổng thông tin điện tử thành phố Hải Phòng |access-date=5 tháng 8 năm 2026}}</ref>
+
+Nhiệt độ trung bình năm tại khu vực Hải Phòng khoảng 24,2–24,7&nbsp;°C; nhiệt độ trung bình tháng dao động từ khoảng 17,2&nbsp;°C vào mùa đông đến khoảng 30&nbsp;°C vào mùa hè. Lượng mưa trung bình năm dài hạn khoảng 1.546,6&nbsp;mm, tập trung chủ yếu trong mùa mưa; độ ẩm tương đối trung bình tháng phổ biến ở mức trên 80%. Tổng số giờ nắng trung bình năm khoảng 1.525–1.560 giờ.<ref>{{Chú thích web |url=https://cdn.haiphong.gov.vn/gov-hpg/1/tintuc/2026/5/1.-hprdp-esia_final_vn-clean-639143667491722657.pdf |title=Báo cáo đánh giá tác động môi trường và xã hội |website=Cổng thông tin điện tử thành phố Hải Phòng |access-date=5 tháng 8 năm 2026}}</ref>
+
+Do nằm ven [[Vịnh Bắc Bộ]], Hải Phòng chịu ảnh hưởng của [[bão nhiệt đới|bão]] và áp thấp nhiệt đới, chủ yếu trong mùa mưa. Năm 2025, thành phố ghi nhận 6 đợt nắng nóng diện rộng và 6 cơn bão hoặc áp thấp nhiệt đới ảnh hưởng trực tiếp đến địa bàn.<ref>{{Chú thích web |url=https://pbgdpl.haiphong.gov.vn/Tin-tuc---Su-kien/Hai-Phong-chu-dong-khac-phuc-hau-qua-thien-tai-nam-2025--tang-cuong-nang-luc-phong-chong-thien-tai-nam-2026-181347.html |title=Hải Phòng chủ động khắc phục hậu quả thiên tai năm 2025, tăng cường năng lực phòng, chống thiên tai năm 2026 |website=Cổng thông tin điện tử thành phố Hải Phòng |access-date=5 tháng 8 năm 2026}}</ref>
+
+{{Khí hậu Hải Phòng}}
+
+== Lịch sử ==
+{{main|Lịch sử hành chính Hải Phòng}}
+=== Thời kỳ tiền sử đến thế kỷ XVI ===
+
+Các di chỉ khảo cổ trên địa bàn Hải Phòng cho thấy khu vực này đã có cư dân sinh sống từ thời tiền sử. Tiêu biểu là di chỉ [[Cái Bèo]] trên [[Quần đảo Cát Bà|Cát Bà]], một trong những địa điểm khảo cổ quan trọng thuộc khu vực ven biển Đông Bắc Việt Nam, với dấu tích cư trú của cư dân cổ có niên đại hàng nghìn năm.<ref>{{Chú thích web |url=https://bvhttdl.gov.vn/hai-phong-khai-quat-khao-co-di-chi-cai-beo-20221212154537173.htm |title=Hải Phòng: Khai quật khảo cổ di chỉ Cái Bèo |website=Bộ Văn hóa, Thể thao và Du lịch |access-date=5 tháng 8 năm 2026}}</ref> Các di chỉ tại Tràng Kênh, Núi Voi và nhiều địa điểm thuộc khu vực Hải Dương trước đây cũng phản ánh quá trình cư trú và phát triển lâu dài của cộng đồng cư dân trên vùng đất thuộc Hải Phòng ngày nay.
+
+Trong thời kỳ [[Bắc thuộc]], khu vực Hải Phòng ngày nay nằm trong vùng đồng bằng và duyên hải phía đông Bắc Bộ. Theo truyền thống lịch sử địa phương, [[Lê Chân]] đã đến vùng An Biên khai phá đất đai, lập khu dân cư và xây dựng lực lượng tham gia cuộc khởi nghĩa [[Hai Bà Trưng]]. Bà về sau được người dân Hải Phòng tôn vinh là một trong những nhân vật có vai trò quan trọng trong lịch sử hình thành vùng đất Hải Phòng.<ref name="lechan.haiphong.gov.vn"/>
+
+Khu vực cửa [[sông Bạch Đằng]] giữ vị trí quan trọng trong lịch sử quân sự Việt Nam. Tại đây diễn ra các trận đánh lớn chống quân xâm lược phương Bắc, gồm [[Trận Bạch Đằng (938)|trận Bạch Đằng năm 938]] do [[Ngô Quyền]] chỉ huy, cuộc chiến chống quân Tống năm 981 dưới thời [[Lê Đại Hành]] và [[Trận Bạch Đằng (1288)|trận Bạch Đằng năm 1288]] dưới thời nhà Trần.<ref>{{Chú thích web |url=https://baotanglichsu.vn/vi/Articles/3097/19062/chien-thang-bach-djang-1288-qua-nhung-hien-vat-lich-su.html |title=Chiến thắng Bạch Đằng 1288 qua những hiện vật lịch sử |website=Bảo tàng Lịch sử Quốc gia |access-date=5 tháng 8 năm 2026}}</ref>
+
+Trong thời kỳ phong kiến, phần lớn vùng đất thuộc Hải Phòng và Hải Dương ngày nay có mối liên hệ lịch sử chặt chẽ với vùng [[Hải Dương (tỉnh)|Hải Dương]] cổ, thường được gọi là [[xứ Đông]]. Đến thời [[Nhà Lê sơ|Lê sơ]], Hải Dương trở thành một trong những khu vực hành chính quan trọng ở phía đông kinh thành [[Thăng Long]], bao gồm một vùng rộng lớn từ khu vực đồng bằng phía đông đến vùng duyên hải.<ref name="ReferenceA"/>
+
+=== Đầu thế kỷ XVI – cuối thế kỷ XVIII ===
+
+Năm 1527, [[Mạc Đăng Dung]] lên ngôi, lập ra [[Nhà Mạc]]. Quê hương của Mạc Đăng Dung là làng Cổ Trai, huyện Nghi Dương, phủ Kinh Môn, trấn Hải Dương, thuộc khu vực [[Kiến Thụy]] của Hải Phòng ngày nay. Sau khi nhường ngôi cho con là [[Mạc Thái Tông|Mạc Đăng Doanh]], Mạc Đăng Dung trở về Cổ Trai và xây dựng [[Dương Kinh]] thành kinh đô thứ hai của nhà Mạc. Phạm vi Dương Kinh khi đó bao gồm một vùng rộng lớn thuộc Hải Dương, Hải Phòng và một phần Bắc Ninh, Thái Bình ngày nay.<ref name="ReferenceB">{{Chú thích web |url=https://haiphong.gov.vn/di-tich-danh-thang/cum-di-tich-lien-quan-den-nha-mac-o-duong-kinh-huyen-kien-thuy-di-tich-lich-su-quoc-gia-dac-biet-742806 |title=Cụm Di tích liên quan đến nhà Mạc ở Dương Kinh (huyện Kiến Thụy) - Di tích lịch sử Quốc gia đặc biệt |website=Cổng thông tin điện tử thành phố Hải Phòng |date=15 tháng 3 năm 2025 |access-date=5 tháng 8 năm 2026}}</ref>
+
+Dưới thời nhà Mạc, Dương Kinh được xây dựng với nhiều công trình cung điện, đền chùa và cơ sở phục vụ hoạt động của triều đình. Nhà Mạc cũng phát triển hoạt động giao thương tại khu vực này với các địa điểm như Lỗ Minh Thị, An Quý và Do Nha. Sau khi nhà Mạc mất [[Thăng Long]] năm 1592, trung tâm Dương Kinh dần mất vai trò chính trị trước đây.<ref>{{Chú thích web |url=https://haiphong.gov.vn/di-tich-danh-thang/khu-tuong-niem-vuong-trieu-mac-626648 |title=Khu tưởng niệm Vương triều Mạc |website=Cổng thông tin điện tử thành phố Hải Phòng |access-date=5 tháng 8 năm 2026}}</ref> Các di tích liên quan đến nhà Mạc tại khu vực Dương Kinh về sau trở thành những di tích lịch sử quan trọng; năm 2025, Cụm di tích liên quan đến nhà Mạc ở Dương Kinh được xếp hạng [[Di tích quốc gia đặc biệt (Việt Nam)|di tích quốc gia đặc biệt]].<ref name="ReferenceB"/>
+
+Trong các thế kỷ XVII – XVIII, dưới thời [[Lê Trung Hưng]], vùng đất thuộc Hải Phòng ngày nay nằm trong không gian kinh tế của [[Đàng Ngoài]]. Với hệ thống sông nối vùng duyên hải với [[Phố Hiến]] và [[Thăng Long]], khu vực cửa sông Thái Bình trở thành một trong những tuyến giao thương với thương nhân nước ngoài.
+
+Các tài liệu của thương nhân và nhà hàng hải châu Âu thế kỷ XVII – XVIII ghi nhận một địa điểm mang tên '''Domea''' trên tuyến đường thủy từ biển vào Phố Hiến và Thăng Long. Nhà hàng hải người Anh [[William Dampier]], trong chuyến đi đến Đàng Ngoài năm 1688, đã ghi chép về Domea và tuyến đường thủy từ vùng cửa biển vào nội địa. Các nghiên cứu sau này xác định địa điểm của thương cảng Domea thuộc khu vực làng An Dụ, vùng [[Tiên Lãng]] của Hải Phòng ngày nay.<ref>{{Chú thích web |url=https://cdn.haiphong.gov.vn/gov-hpg/upload/phuongxa/hongbang/haly/product/2023/05-2023/000118370/Lich-su-Hai-Phong-Tap-1-Chuong-19694.pdf |title=Lịch sử Hải Phòng – Vùng đất Hải Phòng |website=Cổng thông tin điện tử thành phố Hải Phòng |access-date=5 tháng 8 năm 2026}}</ref>
+
+Domea từng đóng vai trò là điểm trung chuyển trên tuyến thương mại từ vùng biển vào [[Phố Hiến]] và [[Thăng Long]]. Các tư liệu bản đồ và ghi chép của người châu Âu trong thế kỷ XVII – XVIII cho thấy địa danh này từng được biết đến trong hoạt động hàng hải và thương mại của Đàng Ngoài. Đến cuối thế kỷ XVIII, cùng với những biến động về chính trị và sự thay đổi của hoạt động ngoại thương, vai trò của các thương cảng trong khu vực dần suy giảm.<ref>{{Chú thích web |url=https://vnexpress.net/di-tim-do-thi-co-domea-bi-chon-vui-duoi-long-dat-bac-ha-phan-i-2055215.html |title=Đi tìm đô thị cổ “Domea” bị chôn vùi dưới lòng đất Bắc Hà (phần I) |website=VnExpress |access-date=5 tháng 8 năm 2026}}</ref>
+
+=== Thế kỷ XIX – năm 1945 ===
+[[Tập tin:Coat of arms of Haïphong, Tonkin, French Indo-China.svg|150px|nhỏ|giữa|Biểu trưng Hải Phòng thời Pháp thuộc]]
+[[Tập tin:Redsvn-Hai-Phong-xua-03.jpg|nhỏ|Toàn cảnh Hải Phòng năm 1931]]
+[[Tập tin:Redsvn-Hai-Phong-xua-07.jpg|nhỏ|Sông Tam Bạc thời Pháp thuộc]]
+[[Tập tin:Haiphong Province.jpg|trái|nhỏ|Bản đồ tỉnh [[Hải Phòng (tỉnh)|Hải Phòng]] năm 1887]]
+
+Năm 1802, [[Gia Long]] thành lập [[nhà Nguyễn]]. Đến năm 1831, dưới thời vua [[Minh Mạng]], trấn Hải Dương được đổi thành tỉnh [[Hải Dương (tỉnh)|Hải Dương]]. Phần lớn khu vực Hải Phòng và Hải Dương ngày nay khi đó thuộc phạm vi tỉnh Hải Dương.
+
+Trong nửa sau thế kỷ XIX, khu vực cửa [[sông Cấm (Hải Phòng)|sông Cấm]] ngày càng có vai trò quan trọng về thương mại và phòng thủ. Từ năm 1871 đến năm 1873, [[Bùi Viện]] tổ chức xây dựng và củng cố lực lượng phòng thủ ven biển tại khu vực này. Sau [[Biến cố Bắc Kỳ (1873)|cuộc đánh chiếm Bắc Kỳ lần thứ nhất]] của Pháp, triều Nguyễn ký [[Hòa ước Giáp Tuất (1874)]] với Pháp. Theo hòa ước, cửa biển Ninh Hải thuộc tỉnh Hải Dương được mở cho hoạt động thương mại. Sau đó, hoạt động thương chính và cảng biển tại khu vực Ninh Hải từng bước phát triển, tạo tiền đề cho sự hình thành đô thị Hải Phòng.<ref>{{Chú thích web |url=https://thanhphohaiphong.gov.vn/lich-su-hinh-thanh-va-phat-trien-thanh-pho-hai-phong.html |title=Lịch sử hình thành và phát triển thành phố Hải Phòng |website=Cổng tin tức thành phố Hải Phòng |access-date=5 tháng 8 năm 2026}}</ref>
+
+Năm 1887, chính quyền Pháp thành lập tỉnh Hải Phòng trên cơ sở một số đơn vị hành chính được tách từ tỉnh Hải Dương. Ngày 19 tháng 7 năm 1888, Tổng thống Pháp ban hành sắc lệnh thành lập thành phố Hải Phòng; đây được xem là dấu mốc Hải Phòng chính thức trở thành một đô thị dưới thời Pháp thuộc.<ref name="ReferenceC">{{Chú thích web |url=https://haiphong.gov.vn/tin-tuc-su-kien/hai-phong-70-nam-ngay-giai-phong-va-hanh-trinh-vuon-minh-cua-thanh-pho-cang-750594 |title=Hải Phòng: 70 năm Ngày Giải phóng và hành trình vươn mình của thành phố Cảng |website=Cổng thông tin điện tử thành phố Hải Phòng |access-date=5 tháng 8 năm 2026}}</ref> Năm 1889, thành phố Hải Phòng được tách khỏi tỉnh Hải Phòng. Phần còn lại của tỉnh về sau được đổi thành tỉnh Phù Liễn và đến năm 1906 đổi tên thành [[Kiến An (tỉnh)|tỉnh Kiến An]].<ref name="quansu.haiphong.gov.vn"/>
+
+Trong thời kỳ [[Pháp thuộc]], Hải Phòng được quy hoạch và xây dựng thành một đô thị cảng quan trọng của [[Bắc Kỳ]]. Hệ thống cảng, đường sắt, đường bộ cùng nhiều cơ sở công nghiệp và thương mại được hình thành, thúc đẩy quá trình đô thị hóa. Kiến trúc đô thị thời kỳ này để lại nhiều công trình mang phong cách châu Âu tại khu vực trung tâm Hải Phòng.
+
+Sự phát triển của cảng biển và công nghiệp kéo theo sự hình thành đội ngũ công nhân tại Hải Phòng. Trong nửa đầu thế kỷ XX, thành phố trở thành một trong những địa bàn của phong trào công nhân và phong trào cách mạng ở Bắc Kỳ. Các hoạt động cách mạng tại Hải Phòng diễn ra trong những giai đoạn 1930–1931, 1936–1939 và những năm tiến tới [[Cách mạng Tháng Tám]] năm 1945.<ref name="ReferenceC"/>
+
+=== Từ năm 1945 đến nay ===
+
+Trong [[Cách mạng Tháng Tám]] năm 1945, chính quyền cách mạng được thiết lập tại Hải Phòng và Kiến An. Ngày 20 tháng 11 năm 1946, chiến sự giữa lực lượng Việt Nam và quân đội Pháp bùng nổ tại Hải Phòng. Sau [[Hiệp định Genève, 1954|Hiệp định Genève năm 1954]], quân đội Pháp rút khỏi Hải Phòng và ngày 13 tháng 5 năm 1955, chính quyền Việt Nam Dân chủ Cộng hòa tiếp quản thành phố. Ngày 13 tháng 5 sau đó được lấy làm ngày kỷ niệm giải phóng Hải Phòng.<ref name="ReferenceC"/>
+
+Trong những năm sau đó, địa giới hành chính Hải Phòng nhiều lần được điều chỉnh. Năm 1955, huyện Hải An của tỉnh [[Kiến An (tỉnh)|Kiến An]] được nhập vào Hải Phòng; năm 1956, khu vực Cát Hải và Cát Bà được chuyển về thành phố. Ngày 27 tháng 10 năm 1962, Quốc hội quyết định hợp nhất thành phố Hải Phòng và tỉnh Kiến An thành thành phố Hải Phòng trực thuộc trung ương.<ref>{{Chú thích web|url=https://www.hethongphapluat.com/nghi-quyet-ve-viec-hop-nhat-thanh-pho-hai-phong-va-tinh-kien-an-hop-nhat-tinh-bac-ninh-va-tinh-bac-giang-do-quoc-hoi-ban-hanh.html|tựa đề= Nghị quyết về việc hợp nhất thành phố Hải Phòng và tỉnh Kiến An, hợp nhất tỉnh Bắc Ninh và tỉnh Bắc Giang |ngày= 1962-10-27 |website= Hệ thống pháp luật |url lưu trữ=|ngày lưu trữ=|ngày truy cập=|url-status=live}}</ref>
+
+Trong giai đoạn [[Chiến tranh Việt Nam]], Hải Phòng là một đầu mối cảng biển và giao thông quan trọng của miền Bắc, đồng thời là một trong những địa bàn bị không quân và hải quân Hoa Kỳ đánh phá. Năm 1972, Hoa Kỳ tiến hành phong tỏa cảng Hải Phòng bằng thủy lôi trong chiến dịch nhằm hạn chế nguồn tiếp tế vào miền Bắc Việt Nam.
+
+Sau năm 1975, Hải Phòng tiếp tục là thành phố trực thuộc trung ương. Địa giới và các đơn vị hành chính của thành phố trải qua nhiều lần điều chỉnh trong các thập niên tiếp theo. Ngày 9 tháng 5 năm 2003, Thủ tướng Chính phủ ban hành Quyết định số 92/2003/QĐ-TTg công nhận Hải Phòng là [[đô thị loại I (Việt Nam)|đô thị loại I]] trực thuộc trung ương.<ref>{{Chú thích web |url=https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=11549 |title=Quyết định số 92/2003/QĐ-TTg về việc công nhận thành phố Hải Phòng là đô thị loại I trực thuộc Trung ương |website=Cổng Thông tin điện tử Chính phủ |access-date=5 tháng 8 năm 2026}}</ref>
+
+Ngày 24 tháng 10 năm 2024, [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 1232/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp huyện, cấp xã của Hải Phòng giai đoạn 2023–2025. Theo đó, quận [[An Dương (quận)|An Dương]] và thành phố [[Thủy Nguyên (thành phố)|Thủy Nguyên]] được thành lập, các đơn vị hành chính mới chính thức hoạt động từ ngày 1 tháng 1 năm 2025.<ref>{{Chú thích web |url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=90603 |title=Nghị quyết số 1232/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp huyện, cấp xã của thành phố Hải Phòng giai đoạn 2023–2025 |website=Cổng thông tin điện tử Quốc hội Việt Nam |date=24 tháng 10 năm 2024 |access-date=5 tháng 8 năm 2026}}</ref>
+
+Ngày 28 tháng 4 năm 2025, Hải Phòng được Chủ tịch nước phong tặng danh hiệu '''Thành phố Anh hùng''' nhân dịp kỷ niệm 70 năm ngày giải phóng thành phố.<ref>{{Chú thích web |url=https://haiphong.gov.vn/tin-tuc-su-kien/hai-phong-don-nhan-danh-hieu-thanh-pho-anh-hung-746273 |title=Hải Phòng đón nhận danh hiệu Thành phố Anh hùng |website=Cổng thông tin điện tử thành phố Hải Phòng |access-date=5 tháng 8 năm 2026}}</ref>
+
+Ngày 12 tháng 6 năm 2025, Quốc hội thông qua Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh. Theo đó, toàn bộ diện tích tự nhiên và quy mô dân số của tỉnh [[Hải Dương (tỉnh)|Hải Dương]] và thành phố Hải Phòng được sắp xếp thành thành phố Hải Phòng mới. Sau sắp xếp, thành phố có diện tích tự nhiên 3.194,72&nbsp;km² và quy mô dân số 4.664.124 người.<ref>{{Chú thích web |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-so-202-2025-qh15-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174645103.htm |title=Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh |website=Xây dựng chính sách, pháp luật - Cổng Thông tin điện tử Chính phủ |date=12 tháng 6 năm 2025 |access-date=5 tháng 8 năm 2026}}</ref>
+
+Cùng với việc tổ chức mô hình chính quyền địa phương hai cấp, các đơn vị hành chính cấp huyện chấm dứt hoạt động từ ngày 1 tháng 7 năm 2025. Theo Nghị quyết số 1669/NQ-UBTVQH15 của Ủy ban Thường vụ Quốc hội, Hải Phòng sau sắp xếp có '''114 đơn vị hành chính cấp xã''', gồm '''45 phường, 67 xã và 2 đặc khu'''; các đơn vị hành chính mới chính thức hoạt động từ ngày 1 tháng 7 năm 2025.<ref>{{Chú thích web|url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94585|tựa đề= Nghị quyết số 203/2025/QH15 về việc Sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |ngày= 2025-06-16 |website= Cổng thông tin điện tử Quốc hội Việt Nam |url lưu trữ=https://web.archive.org/web/20250616150846/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94585|ngày lưu trữ= 2025-06-16 |ngày truy cập= 2025-06-16 |url-status= dead }}</ref><ref name="1669/NQ-UBTVQH15">{{Chú thích web|url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94597|tựa đề= Nghị quyết số 1669/NQ-UBTVQH15 về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hải Phòng năm 2025 |ngày= 2025-06-16 |website= Cổng thông tin điện tử Quốc hội Việt Nam |url lưu trữ=https://web.archive.org/web/20250616150846/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94597|ngày lưu trữ= 2025-06-16 |ngày truy cập= 2025-06-16 |url-status= dead }}</ref><ref>{{Chú thích web |url=https://haiphong.gov.vn/thong-tin-chi-dao-dieu-hanh/toan-van-nghi-quyet-so-1669-nq-ubtvqh15-cua-uy-ban-thuong-vu-quoc-hoi-ve-viec-sap-xep-cac-don-vi-758011 |title=Toàn văn Nghị quyết số 1669/NQ-UBTVQH15 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hải Phòng năm 2025 |website=Cổng thông tin điện tử thành phố Hải Phòng |access-date=5 tháng 8 năm 2026}}</ref>
+
+== Hành chính ==
+{{Xem thêm|Lịch sử hành chính Hải Phòng|Danh sách đơn vị hành chính thuộc thành phố Hải Phòng|Đô thị tại Hải Phòng}}
+
+Hải Phòng là [[thành phố trực thuộc trung ương (Việt Nam)|thành phố trực thuộc trung ương]] của Việt Nam. Sau đợt [[Sáp nhập tỉnh, thành Việt Nam 2025|sắp xếp đơn vị hành chính năm 2025]], thành phố Hải Phòng có 114 đơn vị hành chính cấp xã, gồm 45 phường, 67 xã và 2 đặc khu.<ref>{{Chú thích web |url=https://haiphong.gov.vn/thong-tin-chi-dao-dieu-hanh/toan-van-nghi-quyet-so-1669-nq-ubtvqh15-cua-uy-ban-thuong-vu-quoc-hoi-ve-viec-sap-xep-cac-don-vi-758011 |title=Toàn văn Nghị quyết số 1669/NQ-UBTVQH15 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hải Phòng năm 2025 |website=Cổng thông tin điện tử thành phố Hải Phòng |access-date=5 tháng 8 năm 2026}}</ref> Các đơn vị hành chính mới chính thức hoạt động từ ngày 1 tháng 7 năm 2025.
+
+Hai đặc khu trực thuộc thành phố là [[Cát Hải]] và [[Bạch Long Vĩ]].<ref>{{Chú thích web |url=https://haiphong.gov.vn/thong-tin-chi-dao-dieu-hanh/toan-van-nghi-quyet-so-1669-nq-ubtvqh15-cua-uy-ban-thuong-vu-quoc-hoi-ve-viec-sap-xep-cac-don-vi-758011 |title=Toàn văn Nghị quyết số 1669/NQ-UBTVQH15 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hải Phòng năm 2025 |website=Cổng thông tin điện tử thành phố Hải Phòng |access-date=5 tháng 8 năm 2026}}</ref>
+
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các đơn vị hành chính trực thuộc Thành phố Hải Phòng<ref>{{Chú thích web |title=Quy mô 50 đơn vị hành chính cấp xã ở Hải Phòng sau sáp nhập |url=https://laodong.vn/thoi-su/quy-mo-50-don-vi-hanh-chinh-cap-xa-o-hai-phong-sau-sap-nhap-1501801.ldo}}</ref><ref>{{Chú thích web |title=Tóm tắt Đề án Sắp xếp đơn vị hành chính cấp xã tỉnh Hải Dương năm 2025 |url=https://sonoivu.haiduong.gov.vn/vi-vn/2025/Trang/tom-tat-de-an-sap-xep-don-vi-hanh-chinh-cap-xa-tinh-hai-duong-nam-2025.aspx }}{{Liên kết hỏng|date=2026-05-06 |bot=InternetArchiveBot }}</ref>
+|-
+| valign="top" width="25%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Diện tích<br>(km²)
+! style="border-bottom: 2px solid #CCCCFF;" |Dân số<br>(người)
+|-
+| colspan="3" align="left" style="background: #F5F5DC; padding-left: 30px;" |'''Phường (45)'''
+|-
+| align="left" |[[Ái Quốc (phường)|Ái Quốc]]
+|17,83
+|24.736
+|-
+| align="left" |[[An Biên (phường)|An Biên]]
+|6,56
+|116.091
+|-
+| align="left" |[[An Dương (phường)|An Dương]]
+|31,23
+| 76.879
+|-
+| align="left" |[[An Hải, Hải Phòng|An Hải]]
+|19,96
+|77.086
+|-
+| align="left" |[[An Phong, Hải Phòng|An Phong]]
+|27,92
+|44.660
+|-
+| align="left" |[[Bạch Đằng (phường)|Bạch Đằng]]
+|53,49
+|51.633
+|-
+| align="left" |[[Bắc An Phụ]]
+|26,04
+|22.780
+|-
+| align="left" |[[Chí Linh (phường)|Chí Linh]]
+|26,79
+|31.983
+|-
+| align="left" |[[Chu Văn An (phường)|Chu Văn An]]
+|40,90
+|56.171
+|-
+| align="left" |[[Dương Kinh (phường)|Dương Kinh]]
+|27,96
+|27.339
+|-
+| align="left" |[[Đồ Sơn (phường)|Đồ Sơn]]
+|25,54
+|36.494
+|-
+| align="left" |[[Đông Hải, Hải Phòng|Đông Hải]]
+|57,65
+|50.748
+|-
+| align="left" |[[Gia Viên]]
+|5,01
+|102.246
+|-
+| align="left" |[[Hải An (phường)|Hải An]]
+|39,99
+|102.648
+|-
+| align="left" |[[Hải Dương (phường)|Hải Dương]]
+|6,51
+|51.522
+|-
+| align="left" |[[Hòa Bình, Hải Phòng|Hòa Bình]]
+|19,47
+|47.168
+|-
+| align="left" |[[Hồng An]]
+|27,64
+|64.771
+|-
+| align="left" |[[Hồng Bàng (phường)|Hồng Bàng]]
+|12,11
+|113.200
+|-
+| align="left" |[[Hưng Đạo (phường)|Hưng Đạo]]
+|18,64
+|37.859
+|-
+| align="left" |[[Kiến An (phường)|Kiến An]]
+|11,18
+|67.236
+|-
+| align="left" |[[Kinh Môn (phường)|Kinh Môn]]
+|11,47
+|24.948
+|-
+| align="left" |[[Lê Chân (phường)|Lê Chân]]
+|5,65
+|161.051
+|-
+| align="left" |[[Lê Đại Hành, Hải Phòng|Lê Đại Hành]]
+|31,62
+|24.638
+|-
+| align="left" |[[Lê Ích Mộc, Hải Phòng|Lê Ích Mộc]]
+|27,04
+|51.853
+|-
+| align="left" |[[Lê Thanh Nghị (phường)|Lê Thanh Nghị]]
+|8,04
+|81.500
+|-
+| align="left" |[[Lưu Kiếm]]
+|42,17
+|49.376
+|-
+| align="left" |[[Nam Đồ Sơn]]
+|21,00
+|30.372
+|-
+| align="left" |[[Nam Đồng, Hải Phòng|Nam Đồng]]
+|19,67
+|24.900
+|-
+| align="left" |[[Nam Triệu]]
+|29,51
+|40.224
+|}
+| valign="top" width="25%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Diện tích<br>(km²)
+! style="border-bottom: 2px solid #CCCCFF;" |Dân số<br>(người)
+|-
+| align="left" |[[Ngô Quyền, Hải Phòng|Ngô Quyền]]
+|5,81
+|88.595
+|-
+| align="left" |[[Nguyễn Đại Năng, Hải Phòng|Nguyễn Đại Năng]]
+|17,40
+|29.083
+|-
+| align="left" |[[Nguyễn Trãi, Hải Phòng|Nguyễn Trãi]]
+|76,28
+|16.098
+|-
+| align="left" |[[Nhị Chiểu]]
+|39,28
+|43.799
+|-
+| align="left" |[[Phạm Sư Mạnh (phường)|Phạm Sư Mạnh]]
+|22,34
+|24.919
+|-
+| align="left" |[[Phù Liễn]]
+|18,46
+|60.733
+|-
+| align="left" |[[Tân Hưng, Hải Phòng|Tân Hưng]]
+|14,18
+|38.794
+|-
+| align="left" |[[Thạch Khôi]]
+|19,94
+|34.432
+|-
+| align="left" |[[Thành Đông]]
+|12,22
+|50.307
+|-
+| align="left" |[[Thiên Hương]]
+|21,10
+|45.140
+|-
+| align="left" |[[Thủy Nguyên, Hải Phòng|Thủy Nguyên]]
+|45,34
+|71.731
+|-
+| align="left" |[[Trần Hưng Đạo, Hải Phòng|Trần Hưng Đạo]]
+|66,88
+|36.012
+|-
+| align="left" |[[Trần Liễu (phường)|Trần Liễu]]
+|23,87
+|26.696
+|-
+| align="left" |[[Trần Nhân Tông (phường)|Trần Nhân Tông]]
+|40,10
+|27.053
+|-
+| align="left" |[[Tứ Minh]]
+|14,77
+|30.416
+|-
+| align="left" |[[Việt Hòa]]
+|17,02
+|31.001
+|-
+| colspan="3" align="left" style="background: #F5F5DC; padding-left: 30px;" |'''Xã (67)'''
+|-
+| align="left" |[[An Hưng, Hải Phòng|An Hưng]]
+|20,23
+|25.535
+|-
+| align="left" |[[An Khánh, Hải Phòng|An Khánh]]
+|24,16
+|33.936
+|-
+| align="left" |[[An Lão, Hải Phòng|An Lão]]
+|26,39
+|47.189
+|-
+| align="left" |[[An Phú, Hải Phòng|An Phú]]
+|27,25
+|35.121
+|-
+| align="left" |[[An Quang, Hải Phòng|An Quang]]
+|21,40
+|29.091
+|-
+| align="left" |[[An Thành, Hải Phòng|An Thành]]
+|23,66
+|28.785
+|-
+| align="left" |[[An Trường, Hải Phòng|An Trường]]
+|25,54
+|30.256
+|-
+| align="left" |[[Bắc Thanh Miện]]
+|25,27
+|27.227
+|-
+| align="left" |[[Bình Giang, Hải Phòng|Bình Giang]]
+|21,33
+|26.563
+|-
+| align="left" |[[Cẩm Giang, Hải Phòng|Cẩm Giang]]
+|26,64
+|34.523
+|-
+| align="left" |[[Cẩm Giàng, Hải Phòng|Cẩm Giàng]]
+|23,43
+|34.025
+|-
+| align="left" |[[Chấn Hưng]]
+|32,11
+|26.092
+|-
+| align="left" |[[Chí Minh, Hải Phòng|Chí Minh]]
+|34,12
+|32.636
+|}
+| valign="top" width="25%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Diện tích<br>(km²)
+! style="border-bottom: 2px solid #CCCCFF;" |Dân số<br>(người)
+|-
+| align="left" |[[Đại Sơn, Hải Phòng|Đại Sơn]]
+|22,99
+|30.616
+|-
+| align="left" |[[Đường An, Hải Phòng|Đường An]]
+|25,53
+|34.341
+|-
+| align="left" |[[Gia Lộc, Hải Phòng|Gia Lộc]]
+|21,78
+|46.735
+|-
+| align="left" |[[Gia Phúc]]
+|30,99
+|40.682
+|-
+| align="left" |[[Hà Bắc (xã)|Hà Bắc]]
+|26,06
+|36.429
+|-
+| align="left" |[[Hà Đông (xã)|Hà Đông]]
+|31,33
+|33.499
+|-
+| align="left" |[[Hà Nam, Hải Phòng|Hà Nam]]
+|27,78
+|27.800
+|-
+| align="left" |[[Hà Tây, Hải Phòng|Hà Tây]]
+|24,41
+|34.187
+|-
+| align="left" |[[Hải Hưng, Hải Phòng|Hải Hưng]]
+|24,85
+|27.314
+|-
+| align="left" |[[Hồng Châu, Hải Phòng|Hồng Châu]]
+|29,59
+|32.742
+|-
+| align="left" |[[Hợp Tiến, Hải Phòng|Hợp Tiến]]
+|17,50
+|20.740
+|-
+| align="left" |[[Hùng Thắng]]
+|43,59
+|26.877
+|-
+| align="left" |[[Kẻ Sặt, Hải Phòng|Kẻ Sặt]]
+|24,66
+|39.554
+|-
+| align="left" |[[Khúc Thừa Dụ (xã)|Khúc Thừa Dụ]]
+|28,79
+|33.784
+|-
+| align="left" |[[Kiến Hải]]
+|31,86
+|44.862
+|-
+| align="left" |[[Kiến Hưng, Hải Phòng|Kiến Hưng]]
+|21,02
+|28.044
+|-
+| align="left" |[[Kiến Minh]]
+|16,32
+|26.181
+|-
+| align="left" |[[Kiến Thụy, Hải Phòng|Kiến Thụy]]
+|20,18
+|38.020
+|-
+| align="left" |[[Kim Thành, Hải Phòng|Kim Thành]]
+|33,79
+|42.915
+|-
+| align="left" |[[Lạc Phượng]]
+|24,71
+|28.613
+|-
+| align="left" |[[Lai Khê]]
+|30,07
+|42.875
+|-
+| align="left" |[[Mao Điền, Hải Phòng|Mao Điền]]
+|24,37
+|43.333
+|-
+| align="left" |[[Nam An Phụ]]
+|25,90
+|27.841
+|-
+| align="left" |[[Nam Sách, Hải Phòng|Nam Sách]]
+|19,75
+|36.758
+|-
+| align="left" |[[Nam Thanh Miện]]
+|23,99
+|33.230
+|-
+| align="left" |[[Nghi Dương, Hải Phòng|Nghi Dương]]
+|19,48
+|25.660
+|-
+| align="left" |[[Nguyên Giáp]]
+|27,42
+|28.197
+|-
+| align="left" |[[Nguyễn Bỉnh Khiêm (xã)|Nguyễn Bỉnh Khiêm]]
+|26,37
+|24.575
+|-
+| align="left" |[[Nguyễn Lương Bằng, Hải Phòng|Nguyễn Lương Bằng]]
+|26,46
+|40.200
+|-
+| align="left" |[[Ninh Giang, Hải Phòng|Ninh Giang]]
+|27,41
+|39.535
+|}
+| valign="top" width="25%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Diện tích<br>(km²)
+! style="border-bottom: 2px solid #CCCCFF;" |Dân số<br>(người)
+|-
+| align="left" |[[Phú Thái, Hải Phòng|Phú Thái]]
+|28.89
+|46.234
+|-
+| align="left" |[[Quyết Thắng, Hải Phòng|Quyết Thắng]]
+|22,15
+|22.560
+|-
+| align="left" |[[Tân An, Hải Phòng|Tân An]]
+|25,70
+|27.563
+|-
+| align="left" |[[Tân Kỳ, Hải Phòng|Tân Kỳ]]
+|27,76
+|38.172
+|-
+| align="left" |[[Tân Minh, Hải Phòng|Tân Minh]]
+|33,00
+|36.598
+|-
+| align="left" |[[Thái Tân]]
+|20,73
+|20.334
+|-
+| align="left" |[[Thanh Hà, Hải Phòng|Thanh Hà]]
+|26,11
+|36.173
+|-
+| align="left" |[[Thanh Miện, Hải Phòng|Thanh Miện]]
+|33,47
+|45.388
+|-
+| align="left" |[[Thượng Hồng, Hải Phòng|Thượng Hồng]]
+|24,01
+|24.584
+|-
+| align="left" |[[Tiên Minh]]
+|36,48
+|36.236
+|-
+| align="left" |[[Tiên Lãng, Hải Phòng|Tiên Lãng]]
+|27,89
+|40.446
+|-
+| align="left" |[[Trần Phú, Hải Phòng|Trần Phú]]
+|24,99
+|35.937
+|-
+| align="left" |[[Trường Tân, Hải Phòng|Trường Tân]]
+|24,56
+|31.736
+|-
+| align="left" |[[Tuệ Tĩnh, Hải Phòng|Tuệ Tĩnh]]
+|17,78
+|27.202
+|-
+| align="left" |[[Tứ Kỳ, Hải Phòng|Tứ Kỳ]]
+|30,65
+|37.722
+|-
+| align="left" |[[Việt Khê, Hải Phòng|Việt Khê]]
+|30,98
+|37.936
+|-
+| align="left" |[[Vĩnh Am]]
+|27,34
+|34.562
+|-
+| align="left" |[[Vĩnh Bảo, Hải Phòng|Vĩnh Bảo]]
+|30,60
+|45.332
+|-
+| align="left" |[[Vĩnh Hải, Hải Phòng|Vĩnh Hải]]
+|32,21
+|37.574
+|-
+| align="left" |[[Vĩnh Hòa, Hải Phòng|Vĩnh Hòa]]
+|21,66
+|28.176
+|-
+| align="left" |[[Vĩnh Lại, Hải Phòng|Vĩnh Lại]]
+|26,15
+|38.963
+|-
+| align="left" |[[Vĩnh Thịnh, Hải Phòng|Vĩnh Thịnh]]
+|21,50
+|26.382
+|-
+| align="left" |[[Vĩnh Thuận, Hải Phòng|Vĩnh Thuận]]
+|23,50
+|28.879
+|-
+| align="left" |[[Yết Kiêu, Hải Phòng|Yết Kiêu]]
+|21,53
+|33.499
+|-
+| colspan="3" align="left" style="background: #F5F5DC; padding-left: 30px;" |'''Đặc khu (2)'''
+|-
+| align="left" |[[Bạch Long Vĩ]]
+|3,07
+|686
+|-
+| align="left" |[[Cát Hải]]
+|286,98
+|71.211
+|}
+|}
+
+== Chính trị ==
+Cơ quan lãnh đạo chính trị của Đảng bộ Đảng Cộng sản Việt Nam Thành phố Hải Phòng giữa hai kỳ đại hội đại biểu Đảng bộ Thành phố là '''Thành ủy Hải Phòng''' hay còn được gọi '''Ban chấp hành Đảng bộ Thành phố Hải Phòng'''. Đứng đầu Thành ủy là Bí thư Thành ủy và là ủy viên Ban chấp hành Trung ương Đảng Cộng sản Việt Nam.
+
+=== Lịch sử ===
+Tiền thân của Thành ủy Hải Phòng là ''Đảng bộ Đông Dương Cộng sản đảng Hải Phòng'' được thành lập tháng 8 năm 1929. Sau khi các đảng Cộng sản tại Việt Nam hợp nhất, Đảng bộ Hải Phòng được thành lập tháng 4 năm 1930 do [[Nguyễn Đức Cảnh]] làm Bí thư. Tháng 10 năm 1939, [[Xứ uỷ Bắc Kỳ]] thành lập các khu Hải Phòng, Kiến An, Hải Dương và vùng mỏ thuộc khu B (sau đó gọi là liên tỉnh B). Trong thời gian này Thành ủy không được lập, Bí thư Khu ủy [[Tô Hiệu]] trực tiếp lãnh đạo phong trào.
+
+Ngày 26 tháng 11 năm 1940, tại làng Đồng Tải (huyện An Lão cũ), Thành ủy Hải Phòng và Tỉnh ủy Kiến An họp bàn thực hiện chủ trương hợp nhất thành [[Liên tỉnh Hải Kiến]]. Trong thời gian từ 1940–1954 Đảng bộ bị khủng bố liên tục và phải hoạt động bí mật, có thời gian Xứ ủy Bắc Kỳ phải kiêm nhiệm trực tiếp hoạt động. Sau [[hiệp định Geneve]], chính phủ [[Việt Nam Dân chủ Cộng hòa]] tiếp quản Hải Phòng. Đảng bộ Đảng Cộng sản Việt Nam thành phố Hải Phòng được tái lập và hoạt động cho tới nay.
+
+=== Các đời Bí thư Thành ủy ===
+
+Danh sách Bí thư Thành ủy Hải Phòng và các chức danh tương đương qua các thời kỳ được Thành ủy Hải Phòng công bố từ năm 1929 đến nay.<ref>{{Chú thích web |url=https://haiphong.dcs.vn/bi-thu-thanh-uy-qua-cac-thoi-ky |title=Danh sách các đồng chí Bí thư Thành uỷ Hải Phòng và tương đương (từ năm 1929 đến nay) |website=Thành ủy Hải Phòng |access-date=5 tháng 8 năm 2026}}</ref>
+
+Một số Bí thư Thành ủy Hải Phòng trong các thời kỳ gần đây gồm:
+
+* [[Trần Đông (chính khách)|Trần Đông]] (5/1976 – 7/1979);
+* [[Bùi Quang Tạo]] (7/1979 – 1/1983);
+* [[Đoàn Duy Thành]] (1/1983 – 7/1986);
+* Nguyễn Dần (7/1986 – 10/1986);
+* Lê Danh Xương (10/1986 – 1/2000);
+* [[Tô Huy Rứa]] (1/2000 – 6/2003);
+* [[Nguyễn Văn Thuận (chính khách)|Nguyễn Văn Thuận]] (6/2003 – 12/2010);
+* [[Nguyễn Văn Thành (chính khách Hải Phòng)|Nguyễn Văn Thành]] (12/2010 – 12/2014);
+* [[Dương Anh Điền]] (12/2014 – 10/2015);
+* [[Lê Văn Thành (chính khách)|Lê Văn Thành]] (10/2015 – 4/2021);
+* [[Trần Lưu Quang]] (5/2021 – 1/2023);
+* [[Lê Tiến Châu]] (1/2023 – 3/2026);
+* [[Lê Ngọc Châu]] (từ 4/2026).<ref>{{Chú thích web |url=https://haiphong.dcs.vn/bi-thu-thanh-uy-qua-cac-thoi-ky |title=Danh sách các đồng chí Bí thư Thành uỷ Hải Phòng và tương đương (từ năm 1929 đến nay) |website=Thành ủy Hải Phòng |access-date=5 tháng 8 năm 2026}}</ref>
+
+{| class="wikitable" cellspacing="2" style="width:100%;"
+|-
+! style="width:5%;"|STT
+! style="width:15%;"|Đại hội Đảng bộ 
+! style="width:30%;"|Bí thư
+! style="width:20%;"|Nhiệm kỳ
+! style="width:30%;"|Ghi chú
+|- style="text-align:center;"
+|1||I||[[Hoàng Hữu Nhân]]||7/1963 – 4/1968||
+|- style="text-align:center;"
+|rowspan=4|2||II||rowspan=4|[[Trần Kiên]]||4/1968 – 8/1971||
+|- style="text-align:center;"
+|III||8/1971 – 3/1974||
+|- style="text-align:center;"
+|IV||3/1974 – 5/1976||
+|- style="text-align:center;"
+|V||5 – 11/1976||
+|- style="text-align:center;"
+|3||VI||[[Trần Đông (Việt Nam)|Trần Đông]]||11/1976 – 7/1979||
+|- style="text-align:center;"
+|4||VII||[[Bùi Quang Tạo]]||7/1979 – 2/1982||
+|- style="text-align:center;"
+|5||VIII||[[Đoàn Duy Thành]]||2/1982 – 10/1986||
+|- style="text-align:center;"
+|rowspan=3|6||IX||rowspan=3|[[Lê Danh Xương]]||10/1986 – 10/1991||
+|- style="text-align:center;"
+|X||10/1991 – 5/1996||
+|- style="text-align:center;"
+|rowspan=2|XI||5/1996 – 1/2000||
+|- style="text-align:center;"
+|rowspan=2|7||rowspan=2|[[Tô Huy Rứa]]||1/2000||
+|- style="text-align:center;"
+|rowspan=2|XII||1/2000 – 2003||
+|- style="text-align:center;"
+|rowspan=2|8||rowspan=2|[[Nguyễn Văn Thuận]]||2003 – 12/2005||
+|- style="text-align:center;"
+|XIII||12/2005 – 12/2010||
+|- style="text-align:center;"
+|9||rowspan=2|XIV||[[Nguyễn Văn Thành (chính khách)|Nguyễn Văn Thành]]||12/2010 – 12/2014||
+|- style="text-align:center;"
+|10||[[Dương Anh Điền]]||12/2014 – 10/2015||
+|- style="text-align:center;"
+|rowspan=2|11||XV||rowspan=2|[[Lê Văn Thành (Hải Phòng)|Lê Văn Thành]]||10/2015 – 10/2020||
+|- style="text-align:center;"
+|rowspan=3|XVI||10/2020 – 5/2021||
+|- style="text-align:center;"
+|12||[[Trần Lưu Quang]]||5/2021 – 1/2023||
+|- style="text-align:center;"
+|13||[[Lê Tiến Châu]]||1/2023 – nay||
+|}
+
+== Dân cư ==
+=== Dân số ===
+{{Historical populations
+|title = '''Dân số Hải Phòng qua các năm'''
+|type =Vie 
+| [[1990]] | 1.508.200
+| [[1991]] | 1.528.200
+| [[1992]] | 1.548.200
+| [[1993]] | 1.568.200
+| [[1994]] | 1.588.200
+| [[1995]] | 1.608.200
+| [[1996]] | 1.625.000
+| [[1997]] | 1.641.900
+| [[1998]] | 1.659.500
+| [[1999]] | 1.676.700
+| [[2000]] | 1.691.500
+| [[2001]] | 1.708.600
+| [[2002]] | 1.725.300
+| [[2003]] | 1.741.000
+| [[2004]] | 1.757.800
+| [[2005]] | 1.773.400
+| [[2006]] | 1.789.100
+| [[2007]] | 1.806.500
+| [[2008]] | 1.824.100
+| [[2009]] | 1.840.400
+| [[2010]] | 1.859.600
+| [[2011]] | 1.879.800
+| [[2012]] | 1.904.100
+| [[2013]] | 1.925.200
+| [[2014]] | 1.946.000
+| [[2015]] | 1.963.300
+| [[2016]] | 1.980.800
+| [[2017]] | 1.997.700
+| [[2018]] | 2.013.800
+| [[2019]] | 2.033.300
+| [[2020]] | 2.053.500
+| [[2021]] | 2.072.400
+| [[2022]] | 2.088.000
+| [[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2022]] | 2.310.280
+| [[2023]] | 2.105.000
+| [[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2023]] | 2.526.752
+| [[2024]] | 2.124.500
+| [[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2024]] | 2.468.029
+| [[31 tháng 12|31]]/[[Tháng mười hai|12]]/[[2024]] | 4.664.124
+| [[2025]] | 4.149.900
+}}
+
+Sau đợt sắp xếp đơn vị hành chính cấp tỉnh năm 2025, thành phố Hải Phòng được hình thành trên cơ sở hợp nhất toàn bộ diện tích tự nhiên và quy mô dân số của thành phố Hải Phòng và tỉnh [[Hải Dương (tỉnh)|Hải Dương]]. Thành phố có diện tích tự nhiên 3.194,72&nbsp;km² (bao gồm diện tích thành phố Hải Phòng cũ là 1.526,44&nbsp;km² và diện tích tỉnh Hải Dương cũ là 1.668,28&nbsp;km²) và quy mô dân số 4.664.124 người (bao gồm dân số thành phố Hải Phòng cũ là 2.468.029 người và dân số tỉnh Hải Dương cũ là 2.196.095 người), tương ứng mật độ dân số khoảng 1.460 người/km².<ref>{{Chú thích web |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-so-202-2025-qh15-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174645103.htm |title=Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh |website=Xây dựng chính sách, pháp luật - Cổng Thông tin điện tử Chính phủ |date=12 tháng 6 năm 2025 |access-date=5 tháng 8 năm 2026}}</ref>
+
+Năm 2025, dân số trung bình của Hải Phòng ước đạt 4,149 triệu người. Trong đó, nam giới chiếm 49,88% và nữ giới chiếm 50,12%. Dân số khu vực thành thị đạt khoảng 2,102 triệu người, chiếm 50,67%; dân số khu vực nông thôn đạt khoảng 2,047 triệu người, chiếm 49,33%.<ref>{{Chú thích web |url=https://haiphong.gov.vn/tin-tuc-su-kien/hai-phong-khang-dinh-vi-the-dan-dau-voi-toc-do-tang-truong-grdp-nam-2025-dat-11-81-841154 |title=Hải Phòng khẳng định vị thế dẫn đầu với tốc độ tăng trưởng GRDP năm 2025 đạt 11,81% |website=Cổng thông tin điện tử thành phố Hải Phòng |access-date=5 tháng 8 năm 2026}}</ref>
+
+=== Đặc trưng ===
+[[Tập tin:Ao ngu than on postcard dated 1904.JPG|nhỏ|375x375px|Phụ nữ Hải Phòng năm 1904]]
+
+Quá trình hình thành và phát triển của Hải Phòng gắn với lịch sử lâu đời của vùng [[xứ Đông]], đồng thời chịu ảnh hưởng mạnh của quá trình hình thành đô thị cảng từ cuối thế kỷ XIX. Năm 1897, dân số Hải Phòng được ghi nhận ở mức 18.480 người.<ref>Hydrographic Office of the Admiralty. ''The China Sea Directory'', Vol. II. London: Eyre and Spottiswoode, 1906, tr. 475.</ref>
+
+Từ cuối thế kỷ XIX đến đầu thế kỷ XX, sự phát triển của cảng biển, công nghiệp và thương mại đã thu hút dân cư từ nhiều địa phương đến Hải Phòng sinh sống và làm việc. Trong thời kỳ [[Pháp thuộc]], bên cạnh người Việt, thành phố còn có các cộng đồng người Pháp và [[Người Hoa (Việt Nam)|người Hoa]]. Sự giao thoa giữa các cộng đồng dân cư đã để lại dấu ấn trong kiến trúc, thương mại, văn hóa và [[ẩm thực Hải Phòng|ẩm thực]] của khu vực đô thị Hải Phòng.
+
+Hải Phòng cũng gắn với hoạt động và sự nghiệp của nhiều nhân vật trong lịch sử, văn hóa và kinh tế Việt Nam như [[Nguyễn Đức Cảnh]], [[Tô Hiệu]], [[Nguyễn Văn Linh]], [[Lê Quang Đạo]], [[Đỗ Nhuận]], [[Thế Lữ]], [[Nguyên Hồng]], [[Nguyễn Sơn Hà]] và [[Bạch Thái Bưởi]]. Một số nhân vật quốc tế sinh tại Hải Phòng trong thời kỳ thuộc địa gồm nhà dân tộc học người Pháp [[Georges Condominas]] và triết gia [[Michel Henry]].
+
+Sau khi tỉnh [[Hải Dương (tỉnh)|Hải Dương]] và thành phố Hải Phòng được hợp nhất năm 2025, phạm vi dân cư của Hải Phòng được mở rộng, bao gồm cả các cộng đồng dân cư thuộc vùng Hải Dương cũ. Thành phố mới có quy mô dân số 4.664.124 người.<ref>{{Chú thích web |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-so-202-2025-qh15-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174645103.htm |title=Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh |website=Xây dựng chính sách, pháp luật - Cổng Thông tin điện tử Chính phủ |date=12 tháng 6 năm 2025 |access-date=5 tháng 8 năm 2026}}</ref> Sự mở rộng địa giới khiến đặc trưng dân cư và văn hóa của Hải Phòng hiện nay không chỉ bao gồm không gian đô thị cảng và vùng duyên hải mà còn bao gồm các khu vực đồng bằng, trung du thuộc Hải Dương trước đây.
+
+=== Những nhân vật tiêu biểu ===
+{{chính|Danh sách nhân vật liên quan với Hải Phòng}}
+{{chính 3|Bài theo thể loại: [[:Thể loại:Người Hải Phòng|Người Hải Phòng]]}}
+
+Hải Phòng là quê hương hoặc nơi gắn bó với cuộc đời và sự nghiệp của nhiều nhân vật trong lịch sử, chính trị, văn hóa, nghệ thuật, khoa học và kinh tế Việt Nam. Một số nhân vật tiêu biểu có liên hệ với vùng đất Hải Phòng gồm nữ tướng [[Lê Chân]], người gắn với quá trình khai phá vùng An Biên; [[Mạc Đăng Dung]], người sáng lập [[Nhà Mạc]] và có quê tại Cổ Trai; các nhà hoạt động cách mạng [[Nguyễn Đức Cảnh]], [[Tô Hiệu]]; các nhà văn, nhà thơ, nhạc sĩ như [[Nguyên Hồng]], [[Thế Lữ]], [[Văn Cao]], [[Đỗ Nhuận]], [[Đoàn Chuẩn]] và [[Hoàng Quý (nhạc sĩ)|Hoàng Quý]].
+
+Trong lĩnh vực kinh tế, một số doanh nhân có hoạt động hoặc cuộc đời gắn với Hải Phòng gồm [[Bạch Thái Bưởi]] và [[Nguyễn Sơn Hà]]. Thành phố cũng là nơi sinh của một số nhân vật quốc tế như nhà dân tộc học người Pháp [[Georges Condominas]] và triết gia người Pháp [[Michel Henry]].
+
+Sau khi thành phố Hải Phòng và tỉnh [[Hải Dương (tỉnh)|Hải Dương]] được hợp nhất năm 2025, phạm vi địa lý của Hải Phòng hiện nay bao gồm cả quê hương của nhiều nhân vật lịch sử và văn hóa trước đây được xếp là người Hải Dương. Danh sách đầy đủ hơn về các nhân vật sinh ra, có quê quán hoặc có sự nghiệp gắn với thành phố được trình bày tại bài [[Danh sách nhân vật liên quan với Hải Phòng]].
+
+== Kiến trúc và quy hoạch đô thị ==
+{{chính|Kiến trúc đô thị Hải Phòng}}
+[[Tập tin:Hai Phong City 2017.png|nhỏ|Phố Lê Hồng Phong nhìn từ trên cao.]]
+[[Tập tin:Old Street Hai Phong.jpg|nhỏ|Phố cổ bên sông Tam Bạc]]
+
+Không gian kiến trúc đô thị Hải Phòng hình thành và phát triển qua nhiều thời kỳ. Tại khu vực đô thị Hải Phòng cũ, đặc biệt ở khu vực trung tâm ven [[sông Cấm]] và [[sông Tam Bạc]], vẫn còn nhiều công trình được xây dựng từ thời [[Pháp thuộc]], với các loại hình như trụ sở hành chính, biệt thự, nhà ở và công trình công cộng. Các công trình này cùng với kiến trúc truyền thống Việt Nam tạo nên diện mạo kiến trúc đặc trưng của khu vực trung tâm thành phố.<ref>{{Chú thích web |url=https://haiphong.gov.vn/di-tich-danh-thang |title=Di tích - Danh thắng |website=Cổng thông tin điện tử thành phố Hải Phòng |access-date=5 tháng 8 năm 2026}}</ref>
+
+Sau khi hợp nhất với tỉnh [[Hải Dương (tỉnh)|Hải Dương]] năm 2025, không gian đô thị của Hải Phòng được mở rộng đáng kể, bao gồm khu vực đô thị Hải Phòng cũ ở phía đông và các đô thị thuộc Hải Dương trước đây ở phía tây. Thành phố có diện tích tự nhiên 3.194,72&nbsp;km² và 114 đơn vị hành chính cấp xã, gồm 45 phường, 67 xã và 2 đặc khu.<ref>{{Chú thích web |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-so-202-2025-qh15-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174645103.htm |title=Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh |website=Xây dựng chính sách, pháp luật - Cổng Thông tin điện tử Chính phủ |date=12 tháng 6 năm 2025 |access-date=5 tháng 8 năm 2026}}</ref><ref>{{Chú thích web |url=https://haiphong.gov.vn/thong-tin-chi-dao-dieu-hanh/toan-van-nghi-quyet-so-1669-nq-ubtvqh15-cua-uy-ban-thuong-vu-quoc-hoi-ve-viec-sap-xep-cac-don-vi-758011 |title=Toàn văn Nghị quyết số 1669/NQ-UBTVQH15 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hải Phòng năm 2025 |website=Cổng thông tin điện tử thành phố Hải Phòng |access-date=5 tháng 8 năm 2026}}</ref>
+
+Theo Quy hoạch thành phố Hải Phòng thời kỳ 2021–2030, tầm nhìn đến năm 2050, định hướng phát triển đô thị gắn với hệ thống giao thông, cảng biển, công nghiệp và dịch vụ; mở rộng không gian đô thị về phía nam và đông nam, đồng thời phát triển các khu vực đô thị gắn với các hành lang kinh tế và hệ thống hạ tầng giao thông.<ref>{{Chú thích web |url=https://xaydungchinhsach.chinhphu.vn/quy-hoach-thanh-pho-hai-phong-thoi-ky-2021-2030-tam-nhin-den-nam-2050-119231204153345813.htm |title=Quy hoạch thành phố Hải Phòng thời kỳ 2021-2030, tầm nhìn đến năm 2050 |website=Xây dựng chính sách, pháp luật - Cổng Thông tin điện tử Chính phủ |access-date=5 tháng 8 năm 2026}}</ref>
+
+Sau việc hợp nhất Hải Phòng và Hải Dương, thành phố tiếp tục thực hiện việc rà soát, điều chỉnh và tích hợp các định hướng quy hoạch nhằm phù hợp với phạm vi không gian phát triển mới.
+
+=== Kiến trúc Pháp ===
+
+Khu vực trung tâm Hải Phòng cũ còn lưu giữ nhiều công trình kiến trúc được xây dựng trong thời kỳ [[Pháp thuộc]], tập trung tại các khu phố thuộc địa bàn [[Hồng Bàng (phường)|Hồng Bàng]], [[Ngô Quyền (phường)|Ngô Quyền]] và [[Lê Chân (phường)|Lê Chân]] ngày nay. Các công trình gồm trụ sở hành chính, nhà hát, biệt thự, trường học, ngân hàng và nhà ở, tạo nên một phần đặc trưng của cảnh quan kiến trúc đô thị Hải Phòng.
+
+Khu vực phố Tam Bạc và Lý Thường Kiệt là một trong những nơi còn dấu ấn của kiến trúc đô thị hình thành từ cuối thế kỷ XIX và đầu thế kỷ XX. Phố Tam Bạc nằm dọc [[sông Tam Bạc]], từng là khu vực giao thương của đô thị Hải Phòng. Khu vực này có các dạng nhà phố với kiến trúc chịu ảnh hưởng của cả kiến trúc Việt Nam, Hoa và Pháp, phản ánh quá trình phát triển của một đô thị cảng có nhiều cộng đồng dân cư trong thời kỳ thuộc địa.
+
+=== Một số công trình kiến trúc tiêu biểu ===
+
+[[Tập tin:03-OPERA HOUSE.jpg|nhỏ|Nhà hát thành phố Hải Phòng]]
+
+[[Nhà hát lớn Hải Phòng|Nhà hát thành phố Hải Phòng]] là một trong những công trình kiến trúc tiêu biểu tại khu vực trung tâm thành phố. Công trình được người Pháp xây dựng vào đầu thế kỷ XX, mang đặc trưng kiến trúc nhà hát châu Âu và hiện là một di tích kiến trúc, nghệ thuật của Hải Phòng.<ref>{{Chú thích web |url=https://haiphong.gov.vn/di-tich-danh-thang/nha-hat-thanh-pho-hai-phong-626657 |title=Nhà hát thành phố Hải Phòng |website=Cổng thông tin điện tử thành phố Hải Phòng |access-date=5 tháng 8 năm 2026}}</ref>
+
+Gần Nhà hát thành phố là [[Quán Hoa (Hải Phòng)|Quán Hoa]], gồm năm quán hoa nhỏ được xây dựng năm 1944. Công trình mang hình thức kiến trúc gợi nhắc đình làng truyền thống Việt Nam và trở thành một trong những công trình đặc trưng của khu vực dải trung tâm Hải Phòng.<ref>{{Chú thích web |url=https://haiphong.gov.vn/di-tich-danh-thang/quan-hoa-hai-phong-626655 |title=Quán Hoa Hải Phòng |website=Cổng thông tin điện tử thành phố Hải Phòng |access-date=5 tháng 8 năm 2026}}</ref>
+
+[[Bảo tàng Hải Phòng]] nằm trong một công trình được xây dựng năm 1919, trước đây là trụ sở của Ngân hàng Pháp – Hoa. Bảo tàng lưu giữ và trưng bày các tài liệu, hiện vật về lịch sử, văn hóa và quá trình phát triển của vùng đất Hải Phòng.<ref>{{Chú thích web |url=https://haiphong.gov.vn/di-tich-danh-thang/bao-tang-hai-phong-626660 |title=Bảo tàng Hải Phòng |website=Cổng thông tin điện tử thành phố Hải Phòng |access-date=5 tháng 8 năm 2026}}</ref>
+
+Ngoài ra, khu vực đô thị Hải Phòng cũ còn có nhiều công trình mang dấu ấn kiến trúc thời Pháp thuộc như Bưu điện thành phố, các trụ sở ngân hàng, trường học và biệt thự tại khu vực trung tâm. Bên cạnh các công trình kiến trúc thuộc địa, Hải Phòng hiện nay còn có hệ thống di tích và công trình kiến trúc thuộc nhiều thời kỳ lịch sử khác nhau, tiêu biểu như đền thờ [[Nguyễn Bỉnh Khiêm]], Khu tưởng niệm [[Nhà Mạc|Vương triều Mạc]], quần thể di tích [[Khu di tích Côn Sơn – Kiếp Bạc|Côn Sơn – Kiếp Bạc]] và các di tích thuộc khu vực [[Hải Dương (tỉnh)|Hải Dương]] trước khi hợp nhất với Hải Phòng năm 2025.
+
+== Kinh tế ==
+{{chính|Kinh tế Hải Phòng}}
+{{Chính|Danh sách đơn vị hành chính Việt Nam theo GRDP}}
+{{Chính|Danh sách đơn vị hành chính Việt Nam theo GRDP bình quân đầu người}}
+
+Hải Phòng là một trong những trung tâm kinh tế lớn của [[Việt Nam]] và [[Vùng đồng bằng sông Hồng]]. Kinh tế thành phố có thế mạnh về công nghiệp chế biến, chế tạo, logistics, cảng biển, thương mại và dịch vụ. Sau khi hợp nhất với tỉnh [[Hải Dương (tỉnh)|Hải Dương]] năm 2025, không gian kinh tế Hải Phòng được mở rộng, kết nối khu vực cảng biển và công nghiệp phía đông với các vùng công nghiệp, nông nghiệp và dịch vụ của Hải Dương trước đây.
+
+Năm 2025, tổng sản phẩm trên địa bàn (GRDP) của Hải Phòng theo giá so sánh 2010 tăng 11,81% so với năm trước. Trong đó, khu vực nông, lâm nghiệp và thủy sản tăng 3,72%; khu vực công nghiệp và xây dựng tăng 13,61%; khu vực dịch vụ tăng 10,52%; thuế sản phẩm trừ trợ cấp sản phẩm tăng 9,09%.<ref>{{Chú thích web |url=https://haiphong.gov.vn/tin-tuc-su-kien/hai-phong-khang-dinh-vi-the-dan-dau-voi-toc-do-tang-truong-grdp-nam-2025-dat-11-81-841154 |title=Hải Phòng khẳng định vị thế dẫn đầu với tốc độ tăng trưởng GRDP năm 2025 đạt 11,81% |website=Cổng thông tin điện tử thành phố Hải Phòng |access-date=5 tháng 8 năm 2026}}</ref>
+
+Cơ cấu kinh tế năm 2025 tiếp tục theo hướng công nghiệp và dịch vụ. Khu vực nông, lâm nghiệp và thủy sản chiếm 5,89% GRDP; công nghiệp và xây dựng chiếm 52,04%; dịch vụ chiếm 36,78%; thuế sản phẩm trừ trợ cấp sản phẩm chiếm 5,29%. GRDP bình quân đầu người theo giá hiện hành ước đạt 187,7 triệu đồng/người.<ref>{{Chú thích web |url=https://haiphong.gov.vn/tin-tuc-su-kien/hai-phong-khang-dinh-vi-the-dan-dau-voi-toc-do-tang-truong-grdp-nam-2025-dat-11-81-841154 |title=Hải Phòng khẳng định vị thế dẫn đầu với tốc độ tăng trưởng GRDP năm 2025 đạt 11,81% |website=Cổng thông tin điện tử thành phố Hải Phòng |access-date=5 tháng 8 năm 2026}}</ref>
+
+=== Công nghiệp ===
+
+Công nghiệp là khu vực đóng góp lớn nhất trong cơ cấu kinh tế Hải Phòng. Thành phố phát triển các ngành công nghiệp chế biến, chế tạo như điện tử, thiết bị điện, cơ khí, sản xuất ô tô và phụ tùng, dệt may, sản xuất vật liệu và chế biến thực phẩm. Các khu công nghiệp tập trung chủ yếu dọc các hành lang giao thông kết nối cảng biển Hải Phòng với [[Hà Nội]], [[Quảng Ninh]], [[Bắc Ninh]] và các tỉnh thuộc vùng kinh tế phía Bắc.
+
+Khu vực Hải Phòng cũ có các khu kinh tế, khu công nghiệp như [[Khu kinh tế Đình Vũ – Cát Hải]], Tràng Duệ, Nam Đình Vũ, VSIP Hải Phòng và DEEP C. Khu vực Hải Dương cũ cũng hình thành nhiều khu công nghiệp và cụm công nghiệp, tạo thành không gian sản xuất công nghiệp liên tục từ phía tây thành phố đến khu vực cảng biển phía đông.
+
+Một số tập đoàn và doanh nghiệp có cơ sở sản xuất quy mô lớn tại Hải Phòng hoạt động trong các lĩnh vực điện tử, ô tô, công nghiệp hỗ trợ và chế biến, chế tạo. Trong đó, tổ hợp sản xuất của [[VinFast]] đặt tại khu vực Cát Hải và các cơ sở của LG tại Hải Phòng là những dự án công nghiệp có quy mô đầu tư lớn trên địa bàn thành phố.
+
+=== Cảng biển và logistics ===
+
+Hệ thống [[Cảng Hải Phòng|cảng biển Hải Phòng]] giữ vai trò quan trọng trong hoạt động vận tải và xuất nhập khẩu của khu vực phía Bắc. Hệ thống cảng gồm nhiều khu bến nằm dọc sông Cấm, khu vực Đình Vũ và [[Cảng Lạch Huyện|Lạch Huyện]]. Trong đó, khu bến cảng Lạch Huyện được định hướng phát triển thành khu bến cảng cửa ngõ quốc tế, có khả năng tiếp nhận tàu container trọng tải lớn.<ref>{{Chú thích web |url=https://vimawa.gov.vn/vi/noi-dung/quy-hoach-chi-tiet-phat-trien-vung-dat-vung-nuoc-cang-bien-hai-phong-thoi-ky-2021-2030-tam |title=Quy hoạch chi tiết phát triển vùng đất, vùng nước cảng biển Hải Phòng thời kỳ 2021–2030, tầm nhìn đến năm 2050 |website=Cục Hàng hải và Đường thủy Việt Nam |access-date=5 tháng 8 năm 2026}}</ref>
+
+Hoạt động cảng biển gắn với hệ thống đường bộ cao tốc, đường sắt, đường thủy nội địa và [[Sân bay quốc tế Cát Bi|Cảng hàng không quốc tế Cát Bi]], tạo điều kiện phát triển dịch vụ logistics và vận tải đa phương thức. [[Đường cao tốc Hà Nội – Hải Phòng]] là một trong những tuyến giao thông chính kết nối thành phố với Hà Nội và mạng lưới giao thông của vùng kinh tế trọng điểm Bắc Bộ.
+
+=== Đầu tư và thương mại ===
+
+Hải Phòng là một trong những địa phương thu hút nhiều dự án đầu tư trực tiếp nước ngoài (FDI), đặc biệt trong lĩnh vực công nghiệp chế biến, chế tạo và công nghiệp công nghệ cao. Hoạt động đầu tư tập trung tại các khu kinh tế, khu công nghiệp và các khu vực có kết nối thuận lợi với hệ thống cảng biển.
+
+Sau khi hợp nhất với Hải Dương, thành phố có thêm các vùng sản xuất công nghiệp và mạng lưới doanh nghiệp thuộc khu vực Hải Dương trước đây, qua đó mở rộng chuỗi cung ứng giữa các khu công nghiệp nội địa và hệ thống cảng biển Hải Phòng.
+
+Thương mại và dịch vụ phát triển tại các khu vực đô thị, với hệ thống trung tâm thương mại, chợ, siêu thị và các cơ sở dịch vụ. Hoạt động xuất nhập khẩu có mối liên hệ chặt chẽ với hệ thống cảng biển và các khu công nghiệp trên địa bàn thành phố.
+
+[[Tập tin:Tòa nhà 45 tầng Hải Phòng Vin Imperia.jpg|nhỏ|300x300px|Khu đô thị Vinhomes Imperia tại Hải Phòng]]
+
+=== Làng nghề ===
+Hải Phòng có nhiều làng nghề và nghề truyền thống gắn với sản xuất nông nghiệp, thủ công nghiệp, chế biến thực phẩm và khai thác thủy sản. Tại khu vực Hải Phòng trước khi hợp nhất có các nghề và làng nghề như tạc tượng Bảo Hà, chiếu cói Lật Dương, đúc kim loại Mỹ Đồng, mây tre đan Chính Mỹ, bánh đa Kinh Giao và một số nghề nuôi trồng, khai thác thủy sản tại vùng ven biển.
+
+Sau khi hợp nhất với tỉnh [[Hải Dương (tỉnh)|Hải Dương]] năm 2025, Hải Phòng có thêm nhiều làng nghề truyền thống của vùng [[xứ Đông]], trong đó có các nghề gốm, chạm khắc gỗ, thêu, làm bánh và chế biến nông sản. Một số làng nghề tiêu biểu gồm [[gốm Chu Đậu]], chạm khắc gỗ Đông Giao và nghề làm bánh đậu xanh tại khu vực Hải Dương. Các làng nghề góp phần duy trì các kỹ thuật sản xuất truyền thống và tạo ra các sản phẩm đặc trưng của từng khu vực.
+
+=== Sản vật ===
+Sản vật của Hải Phòng phản ánh đặc điểm của cả vùng duyên hải và vùng đồng bằng thuộc Hải Dương trước đây. Khu vực ven biển có các sản phẩm như [[mật ong Cát Bà]], hải sản [[Đồ Sơn]], [[thuốc lào Hải Phòng|thuốc lào Vĩnh Bảo – Tiên Lãng]], táo Bàng La và một số sản phẩm thủy sản.
+
+Khu vực Hải Dương trước đây có nhiều sản phẩm nông nghiệp và thực phẩm đặc trưng như [[vải thiều Thanh Hà]], [[bánh đậu xanh Hải Dương|bánh đậu xanh]], [[bánh gai Ninh Giang]], hành và tỏi Kinh Môn, [[rươi]] và [[cáy]] vùng Tứ Kỳ. Sau khi hợp nhất năm 2025, các sản phẩm này thuộc phạm vi sản vật của thành phố Hải Phòng.
+
+== Giao thông ==
+{{Chính|Giao thông Hải Phòng}}
+
+Hải Phòng là một đầu mối giao thông quan trọng của khu vực phía Bắc Việt Nam, có hệ thống giao thông gồm đường bộ, đường sắt, đường thủy nội địa, đường biển và đường hàng không. Thành phố nằm trên các hành lang giao thông kết nối [[Hà Nội]] và các tỉnh phía Bắc với hệ thống [[Cảng Hải Phòng|cảng biển Hải Phòng]] và [[Vịnh Bắc Bộ]].
+
+Sau khi hợp nhất với tỉnh [[Hải Dương (tỉnh)|Hải Dương]] năm 2025, mạng lưới giao thông của thành phố được mở rộng về phía tây, tạo thành không gian kết nối từ khu vực giáp [[Bắc Ninh]], [[Hưng Yên]] đến các khu công nghiệp, đô thị và hệ thống cảng biển ở phía đông. Các trục giao thông quan trọng đi qua địa bàn gồm [[Quốc lộ 5]], [[Quốc lộ 10]], [[Quốc lộ 18]], [[Đường cao tốc Hà Nội – Hải Phòng]], tuyến đường sắt Hà Nội – Hải Phòng cùng hệ thống đường tỉnh và đường đô thị.
+
+Hệ thống giao thông đối ngoại của Hải Phòng còn bao gồm [[Cảng Hải Phòng]], khu bến [[Cảng Lạch Huyện|Lạch Huyện]] và [[Sân bay quốc tế Cát Bi|Cảng hàng không quốc tế Cát Bi]], tạo kết nối giữa đường bộ, đường sắt, đường thủy, hàng hải và hàng không.
+
+=== Hệ thống cảng biển ===
+
+Hải Phòng là một trong những đầu mối hàng hải quan trọng của khu vực phía Bắc Việt Nam. Hệ thống cảng biển của thành phố được hình thành từ cuối thế kỷ XIX và phát triển cùng với quá trình hình thành đô thị cảng Hải Phòng. Hiện nay, cảng biển Hải Phòng đảm nhiệm chức năng phục vụ vận tải hàng hóa, xuất nhập khẩu và kết nối vùng kinh tế phía Bắc với các tuyến vận tải biển trong nước và quốc tế.
+
+Theo quy hoạch hệ thống cảng biển Việt Nam, [[Cảng Hải Phòng|cảng biển Hải Phòng]] được xác định là '''cảng biển đặc biệt''', cùng nhóm với cảng biển Bà Rịa – Vũng Tàu. Hệ thống cảng gồm các khu bến chính như khu bến [[Cảng Lạch Huyện|Lạch Huyện]], Đình Vũ, sông Cấm – Phà Rừng và các bến cảng chuyên dùng trên địa bàn.<ref>{{Chú thích web |url=https://xaydungchinhsach.chinhphu.vn/quy-hoach-tong-the-phat-trien-he-thong-cang-bien-viet-nam-thoi-ky-2021-2030-tam-nhin-den-nam-2050-119240523165702312.htm |title=Quy hoạch tổng thể phát triển hệ thống cảng biển Việt Nam thời kỳ 2021–2030, tầm nhìn đến năm 2050 |website=Xây dựng chính sách, pháp luật - Cổng Thông tin điện tử Chính phủ |access-date=5 tháng 8 năm 2026}}</ref>
+
+Trong đó, khu bến Lạch Huyện tại [[Cát Hải]] được định hướng là khu bến cảng cửa ngõ quốc tế, tiếp nhận tàu container và tàu tổng hợp có trọng tải lớn. Việc phát triển các bến cảng nước sâu tại Lạch Huyện giúp tàu biển trên các tuyến quốc tế có thể cập cảng Hải Phòng mà không phải trung chuyển qua một số cảng trong khu vực.<ref>{{Chú thích web |url=https://vimawa.gov.vn/vi/noi-dung/quy-hoach-chi-tiet-phat-trien-vung-dat-vung-nuoc-cang-bien-hai-phong-thoi-ky-2021-2030-tam |title=Quy hoạch chi tiết phát triển vùng đất, vùng nước cảng biển Hải Phòng thời kỳ 2021–2030, tầm nhìn đến năm 2050 |website=Cục Hàng hải và Đường thủy Việt Nam |access-date=5 tháng 8 năm 2026}}</ref>
+
+Ngoài Lạch Huyện, khu vực Đình Vũ và hệ thống bến dọc [[sông Cấm]] tiếp tục đảm nhiệm các chức năng vận chuyển container, hàng tổng hợp, hàng rời và hàng chuyên dùng. Hệ thống cảng được kết nối với [[Đường cao tốc Hà Nội – Hải Phòng]], mạng lưới quốc lộ, đường thủy nội địa và các khu công nghiệp, khu kinh tế trên địa bàn thành phố.
+
+Theo quy hoạch chi tiết phát triển vùng đất, vùng nước cảng biển Hải Phòng thời kỳ 2021–2030, tầm nhìn đến năm 2050, đến năm 2030 hệ thống cảng biển Hải Phòng được định hướng đáp ứng lượng hàng hóa thông qua khoảng 175,4–215,5 triệu tấn, trong đó hàng container khoảng 12,15–14,4 triệu TEU. Hệ thống cảng tiếp tục được phát triển theo hướng tăng năng lực tại các khu bến nước sâu, đồng thời từng bước chuyển đổi công năng, di dời một số bến cảng không còn phù hợp với quy hoạch đô thị.<ref>{{Chú thích web |url=https://vimawa.gov.vn/vi/noi-dung/quy-hoach-chi-tiet-phat-trien-vung-dat-vung-nuoc-cang-bien-hai-phong-thoi-ky-2021-2030-tam |title=Quy hoạch chi tiết phát triển vùng đất, vùng nước cảng biển Hải Phòng thời kỳ 2021–2030, tầm nhìn đến năm 2050 |website=Cục Hàng hải và Đường thủy Việt Nam |access-date=5 tháng 8 năm 2026}}</ref>
+
+=== Đường sắt ===
+
+Hải Phòng hiện có tuyến [[đường sắt Hà Nội – Hải Phòng]], kết nối thành phố với [[Hưng Yên]] và [[Hà Nội]]. Tuyến đường sắt được xây dựng trong thời kỳ [[Pháp thuộc]], hoàn thành và đưa vào khai thác từ đầu thế kỷ XX, hiện phục vụ vận tải hành khách và hàng hóa.
+
+Sau khi Hải Phòng hợp nhất với tỉnh [[Hải Dương (tỉnh)|Hải Dương]] năm 2025, phần tuyến đường sắt đi qua địa bàn Hải Dương cũ cũng thuộc thành phố Hải Phòng. Trên tuyến có nhiều ga phục vụ hành khách và hàng hóa, trong đó [[ga Hải Phòng]] là ga đầu cuối tại khu vực trung tâm thành phố. Nhà ga được xây dựng từ thời Pháp thuộc và vẫn còn lưu giữ các đặc điểm kiến trúc của thời kỳ này.
+
+Bên cạnh tuyến đường sắt hiện hữu, Hải Phòng là điểm cuối của dự án [[đường sắt Lào Cai – Hà Nội – Hải Phòng]]. Quốc hội đã thông qua chủ trương đầu tư dự án tại Nghị quyết số 187/2025/QH15 ngày 19 tháng 2 năm 2025. Tuyến đường sắt mới được định hướng kết nối từ khu vực biên giới tại Lào Cai qua Hà Nội đến Hải Phòng, đồng thời kết nối với các khu vực cảng biển của thành phố.<ref>{{Chú thích web |url=https://baochinhphu.vn/duong-sat-lao-cai-ha-noi-hai-phong.html |title=Đường sắt Lào Cai – Hà Nội – Hải Phòng |website=Báo Điện tử Chính phủ |access-date=5 tháng 8 năm 2026}}</ref>
+
+Đến năm 2026, dự án đường sắt Lào Cai – Hà Nội – Hải Phòng đang trong quá trình hoàn thiện và điều chỉnh các thủ tục đầu tư. Ngày 26 tháng 6 năm 2026, Thủ tướng Chính phủ thành lập Hội đồng thẩm định nhà nước để thẩm định Báo cáo nghiên cứu tiền khả thi điều chỉnh của dự án.<ref>{{Chú thích web |url=https://baochinhphu.vn/lap-hoi-dong-tham-dinh-bao-cao-nghien-cuu-tien-kha-thi-dieu-chinh-du-an-duong-sat-lao-cai-ha-noi-hai-phong-102260626172035079.htm |title=Lập Hội đồng thẩm định Báo cáo nghiên cứu tiền khả thi điều chỉnh Dự án đường sắt Lào Cai - Hà Nội - Hải Phòng |website=Báo Điện tử Chính phủ |date=26 tháng 6 năm 2026 |access-date=5 tháng 8 năm 2026}}</ref>
+
+=== Đường hàng không ===
+
+[[Sân bay quốc tế Cát Bi|Cảng hàng không quốc tế Cát Bi]] là sân bay dân dụng chính của Hải Phòng, nằm tại khu vực phía đông thành phố. Sân bay có nguồn gốc từ một sân bay quân sự được xây dựng trong thời kỳ [[Pháp thuộc]], sau đó được cải tạo và đưa vào khai thác hàng không dân dụng.
+
+Cảng hàng không quốc tế Cát Bi được nâng cấp và đưa nhà ga hành khách mới vào khai thác năm 2016. Sân bay đạt cấp 4E theo tiêu chuẩn của [[Tổ chức Hàng không Dân dụng Quốc tế|ICAO]], có đường cất hạ cánh dài 3.050 m, rộng 45 m và có khả năng tiếp nhận các loại máy bay thân hẹp và một số loại máy bay thân rộng.<ref>{{Chú thích web |url=https://www.vietnamairport.vn/catbiairport/ |title=Cảng hàng không quốc tế Cát Bi |website=Tổng công ty Cảng hàng không Việt Nam |access-date=5 tháng 8 năm 2026}}</ref>
+
+Cát Bi phục vụ các đường bay nội địa kết nối Hải Phòng với một số thành phố của Việt Nam và các đường bay quốc tế. Sân bay đồng thời phục vụ nhu cầu vận chuyển hành khách và hàng hóa của Hải Phòng cũng như một phần khu vực duyên hải Bắc Bộ.
+
+Theo Quy hoạch tổng thể phát triển hệ thống cảng hàng không, sân bay toàn quốc thời kỳ 2021–2030, tầm nhìn đến năm 2050, Cát Bi tiếp tục được xác định là cảng hàng không quốc tế. Đến năm 2030, sân bay được quy hoạch với công suất khoảng 13 triệu hành khách và 250.000 tấn hàng hóa mỗi năm; tầm nhìn đến năm 2050 đạt khoảng 18 triệu hành khách và 500.000 tấn hàng hóa mỗi năm.<ref>{{Chú thích web |url=https://xaydungchinhsach.chinhphu.vn/quy-hoach-tong-the-phat-trien-he-thong-cang-hang-khong-san-bay-toan-quoc-thoi-ky-2021-2030-tam-nhin-den-nam-2050-119230609155537667.htm |title=Quy hoạch tổng thể phát triển hệ thống cảng hàng không, sân bay toàn quốc thời kỳ 2021–2030, tầm nhìn đến năm 2050 |website=Xây dựng chính sách, pháp luật - Cổng Thông tin điện tử Chính phủ |access-date=5 tháng 8 năm 2026}}</ref>
+
+Ngoài Cát Bi, quy hoạch hệ thống cảng hàng không quốc gia xác định '''Cảng hàng không quốc tế Hải Phòng''' là sân bay tiềm năng, dự kiến nghiên cứu tại khu vực [[Tiên Lãng]]. Việc đầu tư sân bay này được xem xét trong trường hợp Cảng hàng không quốc tế Cát Bi không còn khả năng mở rộng để đáp ứng nhu cầu vận tải hàng không trong tương lai.<ref>{{Chú thích web |url=https://xaydungchinhsach.chinhphu.vn/quy-hoach-tong-the-phat-trien-he-thong-cang-hang-khong-san-bay-toan-quoc-thoi-ky-2021-2030-tam-nhin-den-nam-2050-119230609155537667.htm |title=Quy hoạch tổng thể phát triển hệ thống cảng hàng không, sân bay toàn quốc thời kỳ 2021–2030, tầm nhìn đến năm 2050 |website=Xây dựng chính sách, pháp luật - Cổng Thông tin điện tử Chính phủ |access-date=5 tháng 8 năm 2026}}</ref>
+
+=== Đường bộ ===
+
+Hải Phòng có mạng lưới đường bộ kết nối với [[Hà Nội]], [[Quảng Ninh]], [[Bắc Ninh]], [[Hưng Yên]] và các địa phương khác trong khu vực phía Bắc. Sau khi hợp nhất với tỉnh [[Hải Dương (tỉnh)|Hải Dương]] năm 2025, mạng lưới đường bộ của thành phố được mở rộng, bao gồm nhiều tuyến quốc lộ và đường cao tốc đi qua địa bàn.
+
+Các tuyến giao thông đường bộ chính gồm [[Quốc lộ 5]], [[Quốc lộ 10]], [[Quốc lộ 17B]], [[Quốc lộ 18]], [[Quốc lộ 37]], [[Quốc lộ 38]], [[Quốc lộ 38B]] và [[Đường cao tốc Hà Nội – Hải Phòng]]. Tuyến cao tốc Hà Nội – Hải Phòng là trục giao thông quan trọng kết nối khu vực cảng biển Hải Phòng với Hà Nội và mạng lưới đường cao tốc quốc gia.
+
+Thành phố còn nằm trên hướng tuyến của [[Đường cao tốc Ninh Bình – Hải Phòng]], một phần của hệ thống cao tốc ven biển phía Bắc. Tuyến đường này được quy hoạch nhằm tăng khả năng kết nối Hải Phòng với các tỉnh thuộc khu vực đồng bằng sông Hồng và mạng lưới cao tốc quốc gia.<ref>{{Chú thích web |url=https://xaydungchinhsach.chinhphu.vn/quy-hoach-mang-luoi-duong-bo-thoi-ky-2021-2030-tam-nhin-den-nam-2050-119240105154533176.htm |title=Quy hoạch mạng lưới đường bộ thời kỳ 2021–2030, tầm nhìn đến năm 2050 |website=Xây dựng chính sách, pháp luật - Cổng Thông tin điện tử Chính phủ |access-date=5 tháng 8 năm 2026}}</ref>
+
+Do địa bàn có mạng lưới sông ngòi dày đặc, hệ thống cầu giữ vai trò quan trọng trong kết nối giao thông của thành phố. Một số công trình tiêu biểu gồm [[cầu Bính]] bắc qua [[sông Cấm (Hải Phòng)|sông Cấm]], [[Cầu Hoàng Văn Thụ (Hải Phòng)|cầu Hoàng Văn Thụ]], [[Cầu Quay (Hải Phòng)|cầu Quay]] bắc qua [[sông Tam Bạc]], [[cầu Bạch Đằng]] trên tuyến cao tốc kết nối Hải Phòng với Quảng Ninh và [[cầu Tân Vũ – Lạch Huyện]] kết nối khu vực Đình Vũ với đảo [[Cát Hải]].<ref>{{Chú thích web |url=https://mt.gov.vn/vn/tin-tuc/49735/khanh-thanh-cau-vuot-bien-dai-nhat-viet-nam-tan-vu---lach-huyen.aspx |title=Khánh thành cầu vượt biển dài nhất Việt Nam Tân Vũ - Lạch Huyện |website=Bộ Giao thông vận tải |access-date=5 tháng 8 năm 2026}}</ref>
+
+Sau khi mở rộng địa giới năm 2025, hệ thống cầu của Hải Phòng còn bao gồm nhiều công trình trên địa bàn Hải Dương trước đây, phục vụ kết nối hai bờ các sông [[sông Thái Bình|Thái Bình]], [[sông Kinh Thầy|Kinh Thầy]], [[sông Kinh Môn|Kinh Môn]] và [[sông Luộc|Luộc]]. Việc phát triển hệ thống đường bộ và cầu được định hướng gắn với các khu công nghiệp, trung tâm logistics, khu đô thị và hệ thống [[Cảng Hải Phòng|cảng biển Hải Phòng]].
+
+=== Giao thông đô thị ===
+
+Mạng lưới giao thông đô thị Hải Phòng tập trung tại các khu vực đô thị trung tâm và được kết nối với hệ thống quốc lộ, đường cao tốc, cảng biển, đường sắt và [[Sân bay quốc tế Cát Bi|Cảng hàng không quốc tế Cát Bi]]. Các trục đường chính tại khu vực đô thị Hải Phòng cũ gồm đường Lê Hồng Phong, Nguyễn Bỉnh Khiêm, Phạm Văn Đồng, Võ Nguyên Giáp, Hồ Sen – Cầu Rào 2 và trục đường World Bank.
+
+Dự án Phát triển giao thông đô thị thành phố Hải Phòng được triển khai với sự hỗ trợ của [[Ngân hàng Thế giới]], bao gồm xây dựng tuyến đường trục đô thị Bắc Sơn – Nam Hải, cải tạo hạ tầng giao thông và tăng cường năng lực quản lý giao thông đô thị. Tuyến đường Bắc Sơn – Nam Hải, còn được gọi là đường World Bank, có chiều dài khoảng 20&nbsp;km và kết nối nhiều khu vực của đô thị Hải Phòng.<ref>{{Chú thích web |url=https://projects.worldbank.org/en/projects-operations/project-detail/P111548 |title=Haiphong Urban Transport Project |website=World Bank |language=en |access-date=5 tháng 8 năm 2026}}</ref>
+
+Giao thông công cộng của thành phố chủ yếu dựa vào mạng lưới [[xe buýt]] và các loại hình vận tải hành khách đường bộ. Theo định hướng quy hoạch, hệ thống giao thông công cộng tiếp tục được phát triển nhằm tăng khả năng kết nối giữa khu vực trung tâm, các khu đô thị, khu công nghiệp, đầu mối giao thông và các khu vực ngoại thành.
+
+Sau khi hợp nhất với tỉnh [[Hải Dương (tỉnh)|Hải Dương]] năm 2025, phạm vi giao thông đô thị Hải Phòng được mở rộng, bao gồm cả hệ thống đường đô thị tại các khu vực [[Hải Dương (thành phố)|Hải Dương]], [[Chí Linh]], [[Kinh Môn]] và các khu vực đô thị khác thuộc Hải Dương trước đây. Việc tổ chức và phát triển mạng lưới giao thông được định hướng tăng cường kết nối giữa khu vực đô thị phía tây với trung tâm Hải Phòng, các khu công nghiệp và hệ thống cảng biển phía đông.
+
+== Văn hóa ==
+{{chính|Văn hóa Hải Phòng}}
+
+=== Văn học ===
+Hải Phòng là vùng đất gắn với cuộc đời và sự nghiệp của nhiều nhà văn, nhà thơ Việt Nam. Trong đó, [[Nguyên Hồng]] có mối liên hệ đặc biệt với thành phố. Ông không sinh tại Hải Phòng nhưng từng có nhiều năm sinh sống và sáng tác tại đây. Cuộc sống của những người lao động nghèo tại các khu phố, bến tàu và xóm thợ Hải Phòng đã trở thành nguồn chất liệu quan trọng trong nhiều tác phẩm của ông, tiêu biểu là tiểu thuyết ''[[Bỉ vỏ]]''.<ref>{{Chú thích web |url=https://baotangvanhoc.vn/nha-van-nguyen-hong-1918-1982/ |title=Nhà văn Nguyên Hồng (1918–1982) |website=Bảo tàng Văn học Việt Nam |access-date=5 tháng 8 năm 2026}}</ref>
+
+Hải Phòng cũng gắn với nhiều tác giả có đóng góp cho văn học Việt Nam hiện đại như [[Thế Lữ]], [[Thanh Tùng (nhà thơ)|Thanh Tùng]] và một số thành viên của nhóm văn nghệ sĩ Hải Phòng trong thế kỷ XX. Đời sống đô thị cảng, biển, người lao động và những biến đổi của thành phố là những đề tài xuất hiện trong nhiều tác phẩm văn học viết về Hải Phòng.
+
+Sau khi hợp nhất với tỉnh [[Hải Dương (tỉnh)|Hải Dương]] năm 2025, không gian văn hóa – văn học của Hải Phòng hiện nay còn bao gồm vùng đất [[xứ Đông]], nơi gắn với nhiều tác giả và danh nhân văn hóa trong lịch sử. Tiêu biểu là [[Nguyễn Trãi]], danh nhân văn hóa thế giới có cuộc đời và sự nghiệp gắn với [[Khu di tích Côn Sơn – Kiếp Bạc|Côn Sơn – Kiếp Bạc]], và [[Nguyễn Bỉnh Khiêm]], danh nhân văn hóa có quê tại khu vực Hải Phòng cũ. Không gian văn hóa của thành phố vì vậy bao gồm cả truyền thống văn hóa vùng duyên hải và di sản văn hóa lâu đời của vùng xứ Đông.
+
+=== Nghệ thuật ===
+
+Hải Phòng có đời sống nghệ thuật gắn với các loại hình nghệ thuật dân gian truyền thống và nghệ thuật hiện đại. Một số loại hình tiêu biểu gồm múa rối, chèo, hát đúm, mỹ thuật, sân khấu và âm nhạc.
+
+;Múa rối
+
+Nghệ thuật múa rối là một trong những loại hình nghệ thuật dân gian được lưu truyền tại Hải Phòng. Tiêu biểu có phường rối Bảo Hà tại khu vực [[Vĩnh Bảo (huyện)|Vĩnh Bảo]] cũ, nổi tiếng với nghệ thuật múa rối cạn gắn với nghề tạc tượng truyền thống. Các con rối được tạo tác bằng gỗ và điều khiển để thể hiện những tích trò dân gian, sinh hoạt đời sống và các nhân vật truyền thống.
+
+Bên cạnh rối cạn, nghệ thuật [[múa rối nước]] cũng được lưu truyền tại một số địa phương, trong đó có phường rối nước Nhân Hòa. Sân khấu truyền thống của loại hình này sử dụng mặt nước làm không gian biểu diễn, kết hợp điều khiển con rối với âm nhạc, lời thoại và các yếu tố trình diễn dân gian.
+
+Sau khi hợp nhất với tỉnh [[Hải Dương (tỉnh)|Hải Dương]] năm 2025, không gian nghệ thuật múa rối của Hải Phòng còn bao gồm các phường rối truyền thống thuộc vùng Hải Dương trước đây, nơi nghệ thuật rối nước đã được lưu truyền tại nhiều làng thuộc vùng [[đồng bằng sông Hồng]].
+
+;Mỹ thuật
+
+Mỹ thuật Hải Phòng phát triển gắn với đời sống văn hóa của đô thị cảng và vùng duyên hải. Các hoạt động hội họa, điêu khắc, nhiếp ảnh và triển lãm nghệ thuật được tổ chức thông qua các thiết chế văn hóa, hội nghề nghiệp và hoạt động sáng tác của các nghệ sĩ trên địa bàn.
+
+Sau khi mở rộng địa giới năm 2025, không gian mỹ thuật của thành phố còn bao gồm các di sản nghệ thuật và mỹ thuật truyền thống của vùng [[xứ Đông]], thể hiện qua hệ thống đình, chùa, đền, di tích lịch sử, nghệ thuật điêu khắc và trang trí kiến trúc tại khu vực Hải Dương trước đây.
+
+;Sân khấu
+
+Hải Phòng có hoạt động sân khấu với các loại hình như kịch nói, [[chèo]] và nghệ thuật biểu diễn dân gian. [[Đoàn Chèo Hải Phòng]] là một trong những đơn vị nghệ thuật chuyên nghiệp của thành phố, kế thừa truyền thống của [[chiếng chèo Đông]], một trong những vùng chèo truyền thống của đồng bằng Bắc Bộ.
+
+Hải Phòng cũng là bối cảnh của một số tác phẩm điện ảnh và truyền hình Việt Nam, trong đó hình ảnh đô thị cảng, các khu phố, bến tàu và đời sống của cư dân thành phố được sử dụng làm không gian cho các tác phẩm.
+
+;Âm nhạc
+
+Hải Phòng có truyền thống âm nhạc dân gian với các hình thức như [[hát đúm]] ở khu vực Thủy Nguyên, hát chèo, âm nhạc trong múa rối tại Vĩnh Bảo – Tiên Lãng và các hình thức diễn xướng dân gian của cư dân vùng ven biển.
+
+Trong quá trình hình thành [[tân nhạc Việt Nam]] vào nửa đầu thế kỷ XX, Hải Phòng là nơi hoạt động của nhiều nhạc sĩ như [[Văn Cao]], [[Hoàng Quý]], [[Đoàn Chuẩn]], [[Đỗ Nhuận]] và [[Lê Thương]]. Nhóm nhạc Đồng Vọng được hình thành tại Hải Phòng trong thập niên 1940 với sự tham gia của một số nhạc sĩ thuộc thế hệ đầu của nền tân nhạc Việt Nam.
+
+Hải Phòng và đời sống của thành phố cảng cũng trở thành đề tài của nhiều tác phẩm âm nhạc. Một số ca khúc viết về thành phố gồm ''Thành phố Hoa phượng đỏ'', ''Bến cảng quê hương tôi'', ''Chiều Cát Bà'', ''Thành phố của em'' và ''Chiều trên bến cảng''. Trong đó, ''Thành phố Hoa phượng đỏ'', phổ nhạc từ thơ Hải Như, nhạc Lương Vĩnh, là một ca khúc gắn liền với hình ảnh Hải Phòng.
+
+Sau khi hợp nhất với Hải Dương năm 2025, đời sống âm nhạc của thành phố còn bao gồm các hình thức diễn xướng dân gian của vùng xứ Đông. Đáng chú ý là [[ca trù]], [[hát chèo]] và các sinh hoạt âm nhạc dân gian gắn với hệ thống lễ hội, đình, đền và các cộng đồng làng xã tại khu vực Hải Dương trước đây.
+
+=== Lễ hội ===
+
+Hải Phòng có nhiều lễ hội truyền thống gắn với lịch sử, tín ngưỡng dân gian, đời sống của cư dân vùng duyên hải và văn hóa [[xứ Đông]]. Sau khi hợp nhất với tỉnh [[Hải Dương (tỉnh)|Hải Dương]] năm 2025, không gian lễ hội của thành phố được mở rộng với nhiều lễ hội và di tích tiêu biểu của cả hai khu vực.
+
+* '''[[Lễ hội chọi trâu Đồ Sơn]]''': được tổ chức tại khu vực [[Đồ Sơn]], với hội chính diễn ra vào ngày 9 tháng 8 âm lịch. Đây là lễ hội truyền thống lâu đời của cư dân vùng biển Đồ Sơn, kết hợp giữa tín ngưỡng dân gian và tục chọi trâu.
+* '''[[Lễ hội Côn Sơn – Kiếp Bạc]]''': được tổ chức tại [[Khu di tích Côn Sơn – Kiếp Bạc|Côn Sơn – Kiếp Bạc]], thuộc khu vực [[Chí Linh]] của Hải Dương trước đây. Lễ hội gồm lễ hội mùa xuân tại Côn Sơn và lễ hội mùa thu tại Kiếp Bạc, gắn với các nhân vật lịch sử và văn hóa như [[Trần Hưng Đạo]], [[Nguyễn Trãi]] và [[Huyền Quang]]. Từ năm 2025, sau khi Hải Dương và Hải Phòng hợp nhất, lễ hội trở thành một trong những sự kiện văn hóa truyền thống của thành phố Hải Phòng.<ref>{{Chú thích web |url=https://haiphong.gov.vn/du-lich-76022/nhieu-diem-nhan-moi-trong-cong-tac-to-chuc-le-hoi-mua-xuan-con-son-kiep-bac-nam-2026-862439 |title=Nhiều điểm nhấn mới trong công tác tổ chức Lễ hội mùa Xuân Côn Sơn – Kiếp Bạc năm 2026 |website=Cổng thông tin điện tử thành phố Hải Phòng |date=25 tháng 2 năm 2026 |access-date=5 tháng 8 năm 2026}}</ref>
+* '''[[Lễ hội Minh Thề]]''': được tổ chức tại khu vực đền – chùa Hòa Liễu, thuộc [[Kiến Thụy (huyện)|Kiến Thụy]] cũ. Lễ hội nổi bật với nghi lễ Minh Thề, thể hiện quan niệm dân gian về sự liêm chính và trách nhiệm của người thực thi công việc chung.
+* '''[[Hội vật cầu làng Kim]]''': được tổ chức tại làng Kim Sơn, khu vực Kiến Thụy cũ vào dịp đầu xuân. Hội vật cầu là một hình thức sinh hoạt văn hóa dân gian kết hợp giữa nghi lễ và trò chơi cộng đồng.
+* '''Lễ hội làng cá Cát Bà''': được tổ chức tại [[Cát Bà]], gắn với truyền thống khai thác thủy sản và đời sống của cộng đồng ngư dân trên đảo.
+* '''Lễ hội đua thuyền rồng trên biển Đồ Sơn''': là hoạt động văn hóa, thể thao gắn với đời sống của cư dân vùng biển Đồ Sơn.
+* '''Lễ hội Núi Voi''': được tổ chức tại khu vực [[Núi Voi]], An Lão, gắn với di tích lịch sử, văn hóa và các sinh hoạt tín ngưỡng dân gian của địa phương.
+* '''Lễ hội khu tưởng niệm Vương triều Mạc''': được tổ chức tại khu tưởng niệm các vua nhà [[Nhà Mạc|Mạc]] ở khu vực Kiến Thụy cũ, gắn với việc tưởng niệm [[Mạc Đăng Dung]] và lịch sử [[Dương Kinh (quận)|Dương Kinh]] thời Mạc.
+* '''Lễ hội đền Cao An Phụ''': được tổ chức tại khu di tích [[An Phụ – Kính Chủ – Nhẫm Dương]] thuộc khu vực [[Kinh Môn]] của Hải Dương trước đây, gắn với việc tưởng niệm [[Trần Liễu|An Sinh Vương Trần Liễu]].
+* '''Lễ hội đền Tranh''': được tổ chức tại khu vực [[Ninh Giang]] của Hải Dương trước đây, là một lễ hội tín ngưỡng dân gian gắn với đền Tranh và tín ngưỡng thờ Quan Lớn Tuần Tranh.
+
+Bên cạnh các lễ hội truyền thống, thành phố còn tổ chức '''[[Lễ hội Hoa Phượng Đỏ]]''', sự kiện văn hóa – du lịch được tổ chức từ năm 2012, với các chương trình văn hóa, nghệ thuật và hoạt động quảng bá hình ảnh Hải Phòng.
+
+=== Ẩm thực ===
+:{{chính|Ẩm thực Hải Phòng}}
+
+Ẩm thực Hải Phòng có sự đa dạng giữa các món ăn của vùng đô thị cảng, vùng ven biển và vùng đồng bằng. Khu vực Hải Phòng trước khi hợp nhất nổi bật với các món ăn sử dụng thủy sản, hải sản và những món ăn đường phố đặc trưng.
+
+Một trong những món ăn tiêu biểu của Hải Phòng là [[bánh đa cua]], thường được chế biến từ bánh đa đỏ, cua đồng và các nguyên liệu ăn kèm. Một số món ăn khác gắn với Hải Phòng gồm [[nem cua bể]], [[bánh mì que|bánh mì cay]], bún cá, bánh bèo Hải Phòng, giá bể, sủi dìn và các món chế biến từ hải sản. Các khu vực ven biển và hải đảo như [[Đồ Sơn]] và [[Cát Bà]] có nguồn nguyên liệu thủy sản phong phú với các loại cá, tôm, cua, mực, bề bề và một số loại hải sản khác.
+
+Hải Phòng còn có văn hóa quà vặt và ẩm thực đường phố phát triển. Năm 2022, thành phố triển khai bản đồ số ''Hải Phòng lòng vòng ẩm thực'', giới thiệu các địa điểm và món ăn đặc trưng nhằm phục vụ hoạt động quảng bá du lịch và ẩm thực địa phương.<ref>{{Chú thích web |url=https://haiphong.gov.vn/du-lich-76022/ra-mat-ban-do-so-hai-phong-long-vong-am-thuc-563494 |title=Ra mắt bản đồ số “Hải Phòng lòng vòng ẩm thực” |website=Cổng thông tin điện tử thành phố Hải Phòng |access-date=5 tháng 8 năm 2026}}</ref>
+
+Sau khi Hải Phòng hợp nhất với tỉnh [[Hải Dương (tỉnh)|Hải Dương]] năm 2025, không gian ẩm thực của thành phố được mở rộng với các món ăn và đặc sản của vùng [[xứ Đông]]. Tiêu biểu có [[bánh đậu xanh Hải Dương|bánh đậu xanh]], [[bánh gai Ninh Giang]], bánh đa gấc Kẻ Sặt, bánh lòng Kinh Môn, [[rươi]] Tứ Kỳ và các món chế biến từ rươi.
+
+Trong đó, [[bánh đậu xanh Hải Dương|bánh đậu xanh]] là một trong những sản phẩm ẩm thực đặc trưng lâu đời của khu vực Hải Dương cũ, được chế biến chủ yếu từ đậu xanh, đường, mỡ và tinh dầu hoa bưởi. [[Bánh gai Ninh Giang]] là đặc sản gắn với khu vực Ninh Giang, với phần vỏ làm từ bột nếp và lá gai, nhân thường gồm đậu xanh cùng một số nguyên liệu khác. Khu vực Tứ Kỳ nổi tiếng với các món từ [[rươi]], trong đó có chả rươi và một số sản phẩm chế biến từ rươi.
+
+Sự hợp nhất về địa giới hành chính năm 2025 khiến văn hóa ẩm thực Hải Phòng hiện nay bao gồm cả đặc trưng ẩm thực vùng biển của khu vực Hải Phòng cũ và văn hóa ẩm thực vùng đồng bằng của Hải Dương cũ.
+
+=== Biểu tượng ===
+
+[[Phượng vĩ|Hoa phượng đỏ]] từ lâu gắn liền với hình ảnh Hải Phòng và là nguồn gốc của tên gọi phổ biến '''“Thành phố Hoa Phượng Đỏ”'''. Phượng vĩ được trồng tại nhiều tuyến đường và khu vực công cộng của thành phố, thường nở vào mùa hè. Hình ảnh hoa phượng cũng xuất hiện trong nhiều hoạt động văn hóa và quảng bá hình ảnh của Hải Phòng.
+
+Tên gọi “Thành phố Hoa Phượng Đỏ” còn gắn với ca khúc ''Thành phố Hoa phượng đỏ'', do nhạc sĩ Lương Vĩnh phổ nhạc từ bài thơ cùng tên của nhà thơ Hải Như. Ca khúc được sử dụng làm nhạc hiệu của [[Đài Phát thanh – Truyền hình Hải Phòng]] và trở thành một trong những tác phẩm âm nhạc tiêu biểu viết về thành phố.
+
+Hình ảnh hoa phượng tiếp tục được sử dụng trong [[Lễ hội Hoa Phượng Đỏ]], sự kiện văn hóa – du lịch được Hải Phòng tổ chức từ năm 2012. Lễ hội được tổ chức với các chương trình văn hóa, nghệ thuật và hoạt động giới thiệu hình ảnh, lịch sử và đời sống của thành phố.<ref>{{Chú thích web |url=https://haiphong.gov.vn/le-hoi-hoa-phuong-do |title=Lễ hội Hoa Phượng Đỏ |website=Cổng thông tin điện tử thành phố Hải Phòng |access-date=5 tháng 8 năm 2026}}</ref>
+
+Đường Phạm Văn Đồng, tuyến đường nối khu vực trung tâm với [[Đồ Sơn]], từng được xác lập kỷ lục Việt Nam là tuyến đường trồng nhiều cây phượng nhất với 3.068 cây phượng.<ref>{{Chú thích web|url=https://cand.com.vn/van-hoa/Xac-lap-ky-luc-con-duong-trong-nhieu-hoa-phuong-nhat-Viet-Nam-114227/|tiêu đề=Xác lập kỷ lục "con đường trồng nhiều hoa phượng nhất Việt Nam"|ngày=28 tháng 10 năm 2011|ngày truy cập=5 tháng 8 năm 2026|website=Báo Công an nhân dân|tác giả=Đặng Hùng}}</ref>
+
+Bên cạnh hoa phượng, [[Nhà hát lớn Hải Phòng|Nhà hát thành phố Hải Phòng]] là một công trình kiến trúc tiêu biểu gắn với hình ảnh khu vực trung tâm đô thị Hải Phòng. Công trình được xây dựng trong thời kỳ [[Pháp thuộc]] vào đầu thế kỷ XX, mang đặc trưng kiến trúc châu Âu và hiện là một trong những công trình kiến trúc lịch sử của thành phố.
+
+Sau khi Hải Phòng hợp nhất với tỉnh [[Hải Dương (tỉnh)|Hải Dương]] năm 2025, thành phố có thêm nhiều di sản văn hóa và hình ảnh đặc trưng của vùng [[xứ Đông]], nổi bật là quần thể [[Khu di tích Côn Sơn – Kiếp Bạc|Côn Sơn – Kiếp Bạc]]. Năm 2025, quần thể Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc, trong đó có các di tích thuộc Hải Phòng, được [[UNESCO]] ghi danh là [[Di sản thế giới]].<ref>{{Chú thích web |url=https://whc.unesco.org/en/list/1732/ |title=Yen Tu-Vinh Nghiem-Con Son, Kiep Bac Complex of Monuments and Landscapes |website=UNESCO World Heritage Centre |language=en |access-date=5 tháng 8 năm 2026}}</ref>
+
+=== Di sản ===
+
+Hải Phòng có hệ thống di sản văn hóa đa dạng, bao gồm di sản thế giới, di sản văn hóa phi vật thể quốc gia, di tích lịch sử – văn hóa và các loại hình nghệ thuật dân gian. Sau khi hợp nhất với tỉnh [[Hải Dương (tỉnh)|Hải Dương]] năm 2025, số lượng và loại hình di sản trên địa bàn thành phố được mở rộng đáng kể.
+
+;Di sản thế giới
+
+* '''[[Vịnh Hạ Long – quần đảo Cát Bà]]''': là [[Di sản thế giới]] liên tỉnh giữa Hải Phòng và [[Quảng Ninh]]. Trong đó, [[Quần đảo Cát Bà]] thuộc Hải Phòng, có hệ sinh thái biển – đảo, rừng trên núi đá vôi và cảnh quan karst đặc trưng.
+* '''[[Quần thể di tích và danh thắng Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc]]''': được [[UNESCO]] ghi danh vào Danh sách Di sản thế giới năm 2025. Trong đó, [[Khu di tích Côn Sơn – Kiếp Bạc|cụm di tích Côn Sơn – Kiếp Bạc]] và một số điểm di sản liên quan nằm trên địa bàn Hải Phòng sau khi thành phố hợp nhất với Hải Dương. Đây là di sản thế giới thứ hai có địa điểm thuộc địa bàn Hải Phòng, sau Vịnh Hạ Long – quần đảo Cát Bà.<ref>{{Chú thích web |url=https://haian.haiphong.gov.vn/tin-tuc-su-kien/con-son-kiep-bac-hai-phong-duoc-cong-nhan-di-san-van-hoa-the-gioi-762780 |title=Côn Sơn Kiếp Bạc - Hải Phòng được công nhận Di sản văn hóa Thế giới |website=Cổng thông tin điện tử thành phố Hải Phòng |date=14 tháng 7 năm 2025 |access-date=5 tháng 8 năm 2026}}</ref>
+
+;Di sản văn hóa phi vật thể
+
+Một số di sản văn hóa phi vật thể tiêu biểu trên địa bàn thành phố gồm:
+
+* '''[[Lễ hội chọi trâu Đồ Sơn]]''', lễ hội truyền thống của cư dân vùng biển Đồ Sơn, được đưa vào Danh mục di sản văn hóa phi vật thể quốc gia.
+* '''[[Lễ hội Minh Thề]]''' tại Hòa Liễu, khu vực Kiến Thụy, được công nhận là di sản văn hóa phi vật thể quốc gia.<ref name="DSHP">{{Chú thích web |url=https://haiphong.gov.vn/p-UBNDTP/d-9372/113591/hai-phong-co-2-di-san-van-hoa-phi-vat-the-quoc-gia |title=Hải Phòng có 2 Di sản Văn hóa phi vật thể quốc gia vừa được công nhận |website=Cổng thông tin điện tử thành phố Hải Phòng |access-date=5 tháng 8 năm 2026}}</ref>
+* '''Lễ hội Xa Mã – Rước kiệu đình Hoàng Châu''' tại [[Cát Hải]], được công nhận là di sản văn hóa phi vật thể quốc gia.<ref name="DSHP"/>
+* '''Lễ hội Côn Sơn – Kiếp Bạc''', thuộc khu vực Hải Dương trước đây, được đưa vào Danh mục di sản văn hóa phi vật thể quốc gia năm 2012. Sau khi hợp nhất năm 2025, lễ hội trở thành một trong những lễ hội truyền thống tiêu biểu trên địa bàn thành phố Hải Phòng.<ref>{{Chú thích web |url=https://haiphong.gov.vn/le-hoi-mua-thu-con-son-kiep-bac-nam-2025/nang-tam-quy-mo-le-hoi-mua-thu-con-son-kiep-bac-2025-782384 |title=Nâng tầm quy mô Lễ hội mùa Thu Côn Sơn - Kiếp Bạc 2025 |website=Cổng thông tin điện tử thành phố Hải Phòng |date=16 tháng 9 năm 2025 |access-date=5 tháng 8 năm 2026}}</ref>
+* '''Múa rối nước''': sau khi hợp nhất, Hải Phòng có các phường múa rối nước tại Vĩnh Bảo, Khúc Thừa Dụ, Gia Lộc và Hà Tây được công nhận là di sản văn hóa phi vật thể quốc gia.<ref>{{Chú thích web |url=https://haiphong.gov.vn/thong-tin-gioi-thieu/hai-phong-bao-ton-va-phat-trien-di-san-phi-vat-the-mua-roi-nuoc-852220 |title=Hải Phòng bảo tồn và phát triển di sản phi vật thể múa rối nước |website=Cổng thông tin điện tử thành phố Hải Phòng |date=28 tháng 9 năm 2025 |access-date=5 tháng 8 năm 2026}}</ref>
+
+Bên cạnh đó, Hải Phòng còn có hệ thống di tích lịch sử, kiến trúc, khảo cổ và danh lam thắng cảnh phân bố trên cả khu vực Hải Phòng và Hải Dương trước khi hợp nhất. Các khu vực tiêu biểu gồm [[Khu di tích Côn Sơn – Kiếp Bạc|Côn Sơn – Kiếp Bạc]], [[An Phụ – Kính Chủ – Nhẫm Dương]], khu di tích [[Bạch Đằng Giang]], khu tưởng niệm Vương triều Mạc, [[Trạng Trình Nguyễn Bỉnh Khiêm|khu di tích Nguyễn Bỉnh Khiêm]], [[Núi Voi]] và hệ thống đình, đền, chùa tại các địa phương.
+
+== Xã hội ==
+
+=== Giáo dục ===
+{{chính|Giáo dục Hải Phòng}}
+[[Tập tin:US Navy 070621-N-0696M-217 Chief of Naval Operations (CNO) Adm. Mike Mullen receives a tour of a ship simulator from Vietnamese Maritime University Vice President Dinh Xuan Mahn.jpg|nhỏ|phải|250px|Tham mưu trưởng Hải quân Hoa Kỳ thăm Trường Đại học Hàng hải Việt Nam]]
+[[Tập tin:Đại học hàng hải Việt Nam.JPG|nhỏ|309x309px|Trường Đại học Hàng hải Việt Nam]]
+
+Hải Phòng là một trong những trung tâm giáo dục và đào tạo của khu vực phía Bắc. Hệ thống giáo dục trên địa bàn gồm các cơ sở giáo dục mầm non, phổ thông, giáo dục nghề nghiệp, cao đẳng và đại học. Sau khi hợp nhất với tỉnh [[Hải Dương (tỉnh)|Hải Dương]] năm 2025, mạng lưới giáo dục của thành phố được mở rộng, bao gồm các cơ sở giáo dục thuộc cả Hải Phòng và Hải Dương trước đây.
+
+==== Giáo dục đại học và nghề nghiệp ====
+
+Một số cơ sở giáo dục đại học trên địa bàn thành phố gồm:
+
+* [[Trường Đại học Hàng hải Việt Nam]] – cơ sở giáo dục đại học đào tạo và nghiên cứu trong các lĩnh vực hàng hải, giao thông vận tải, logistics, kỹ thuật và một số ngành liên quan.
+* [[Trường Đại học Hải Phòng]] – trường đại học công lập đa ngành của thành phố.
+* [[Trường Đại học Y Dược Hải Phòng]] – cơ sở đào tạo và nghiên cứu trong lĩnh vực y, dược và khoa học sức khỏe.
+* [[Trường Đại học Quản lý và Công nghệ Hải Phòng]] – trường đại học tư thục đào tạo đa ngành.
+* [[Trường Đại học Hải Dương]] – trường đại học công lập thuộc khu vực Hải Dương trước khi hợp nhất với Hải Phòng.
+* [[Trường Đại học Sao Đỏ]] – cơ sở giáo dục đại học công lập tại khu vực [[Chí Linh]], đào tạo các lĩnh vực kỹ thuật, công nghệ, kinh tế và một số ngành khác.
+* [[Trường Đại học Thành Đông]] – trường đại học tư thục được thành lập tại khu vực Hải Dương trước đây.
+
+Ngoài các trường đại học, thành phố còn có hệ thống trường cao đẳng, trung cấp và cơ sở giáo dục nghề nghiệp đào tạo nhân lực trong các lĩnh vực hàng hải, công nghiệp, giao thông vận tải, y tế, kỹ thuật, dịch vụ và các ngành nghề khác.
+
+==== Giáo dục phổ thông ====
+
+Hệ thống giáo dục phổ thông Hải Phòng gồm các trường công lập và ngoài công lập ở các cấp tiểu học, trung học cơ sở và trung học phổ thông.
+
+[[Trường Trung học phổ thông chuyên Trần Phú, Hải Phòng|Trường Trung học phổ thông chuyên Trần Phú]] là trường trung học phổ thông chuyên của khu vực Hải Phòng trước khi hợp nhất, có học sinh tham gia và đạt giải tại các kỳ thi học sinh giỏi quốc gia và quốc tế.
+
+[[Trường Trung học phổ thông chuyên Nguyễn Trãi]] là trường trung học phổ thông chuyên của tỉnh Hải Dương trước khi hợp nhất. Sau khi Hải Phòng và Hải Dương hợp nhất năm 2025, thành phố có hai trường trung học phổ thông chuyên kế thừa hệ thống trường chuyên của hai địa phương trước đây.
+
+Một số trường trung học phổ thông có lịch sử lâu đời trên địa bàn gồm [[Trường Trung học phổ thông Ngô Quyền, Hải Phòng|Trường Trung học phổ thông Ngô Quyền]], Trường Trung học phổ thông Thái Phiên, Trường Trung học phổ thông Kiến An, Trường Trung học phổ thông Vĩnh Bảo và một số trường thuộc khu vực Hải Dương trước đây.
+
+Trong đó, [[Trường Trung học phổ thông Ngô Quyền, Hải Phòng|Trường Trung học phổ thông Ngô Quyền]] có tiền thân là trường Bonnal được thành lập trong thời kỳ [[Pháp thuộc]], là một trong những cơ sở giáo dục phổ thông có lịch sử lâu đời tại Hải Phòng.
+
+Sau khi tổ chức lại đơn vị hành chính năm 2025, ngành giáo dục thành phố thực hiện việc sắp xếp và quản lý hệ thống trường học trên phạm vi địa giới mới, đồng thời tiếp tục duy trì hoạt động của các cơ sở giáo dục thuộc Hải Phòng và Hải Dương trước khi hợp nhất.
+
+== Tôn giáo, tín ngưỡng ==
+
+Hải Phòng có đời sống tôn giáo, tín ngưỡng đa dạng, với sự hiện diện của [[Phật giáo tại Việt Nam|Phật giáo]], [[Công giáo tại Việt Nam|Công giáo]], [[Kháng Cách|Tin Lành]] và các hình thức [[tín ngưỡng dân gian Việt Nam|tín ngưỡng dân gian]]. Sau khi hợp nhất với tỉnh [[Hải Dương (tỉnh)|Hải Dương]] năm 2025, không gian tôn giáo, tín ngưỡng của thành phố bao gồm các cơ sở và truyền thống tín ngưỡng của cả khu vực Hải Phòng và Hải Dương trước đây.
+
+Phật giáo có lịch sử lâu đời tại địa phương, với hệ thống chùa và cơ sở thờ tự phân bố trên nhiều khu vực. Một số trung tâm Phật giáo và di tích gắn với Phật giáo tiêu biểu có [[Côn Sơn – Kiếp Bạc|chùa Côn Sơn]], chùa Dư Hàng, chùa Đỏ và các cơ sở thờ tự thuộc khu vực Hải Dương trước đây. Quần thể Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc, trong đó có các địa điểm thuộc Hải Phòng, được [[UNESCO]] ghi danh là [[Di sản thế giới]] năm 2025.
+
+Tín ngưỡng thờ các nhân vật lịch sử và người có công với cộng đồng cũng phổ biến. Tại khu vực Hải Phòng cũ có nhiều cơ sở thờ [[Trần Hưng Đạo]], nữ tướng [[Lê Chân]], [[Ngô Quyền]], [[Nguyễn Bỉnh Khiêm]] và các nhân vật được thờ phụng trong tín ngưỡng dân gian. [[Tín ngưỡng thờ Mẫu Việt Nam|Tín ngưỡng thờ Mẫu Tam phủ của người Việt]] cũng hiện diện tại nhiều đền, phủ trên địa bàn.
+
+Khu vực Hải Dương trước đây có nhiều cơ sở tín ngưỡng gắn với các nhân vật lịch sử và văn hóa như [[Trần Hưng Đạo]] tại [[Kiếp Bạc]], [[Nguyễn Trãi]] và [[Huyền Quang]] tại [[Côn Sơn]], [[Chu Văn An]] tại khu vực Chí Linh và [[Trần Liễu|An Sinh Vương Trần Liễu]] tại đền Cao An Phụ. Hệ thống đình, đền, chùa tại khu vực này là một bộ phận của không gian văn hóa [[xứ Đông]].
+
+[[Công giáo tại Việt Nam|Công giáo]] có lịch sử hiện diện lâu đời tại Hải Phòng. [[Giáo phận Hải Phòng]] là một giáo phận thuộc [[Giáo hội Công giáo tại Việt Nam]], với nhà thờ chính tòa đặt tại thành phố Hải Phòng. Bên cạnh Công giáo, trên địa bàn còn có các cộng đồng theo đạo Tin Lành và một số tôn giáo khác.
+
+Các hoạt động tín ngưỡng dân gian còn gắn với hệ thống lễ hội truyền thống như [[Lễ hội chọi trâu Đồ Sơn]], [[Lễ hội Minh Thề]], lễ hội Côn Sơn – Kiếp Bạc và nhiều lễ hội đình, đền tại các địa phương.
+
+== Hạ tầng công nghệ thông tin ==
+
+Hải Phòng xác định phát triển hạ tầng số, chuyển đổi số và ứng dụng công nghệ thông tin là một trong những nội dung quan trọng trong quá trình phát triển kinh tế – xã hội của thành phố. Hạ tầng viễn thông và công nghệ thông tin được đầu tư nhằm phục vụ hoạt động của cơ quan nhà nước, doanh nghiệp và người dân.
+
+Thành phố triển khai các hệ thống thông tin phục vụ hoạt động quản lý nhà nước, cung cấp [[dịch vụ công trực tuyến]] và từng bước số hóa hoạt động của các cơ quan chính quyền. Cổng thông tin điện tử và các nền tảng số được sử dụng để cung cấp thông tin, tiếp nhận và giải quyết một số thủ tục hành chính cho người dân và doanh nghiệp.
+
+Trong lĩnh vực công nghiệp công nghệ, Hải Phòng thu hút nhiều dự án đầu tư trong lĩnh vực điện tử, thiết bị công nghệ và công nghiệp công nghệ cao. Các khu công nghiệp trên địa bàn là nơi tập trung nhiều doanh nghiệp sản xuất điện tử và linh kiện phục vụ thị trường trong nước và xuất khẩu.
+
+Sau khi Hải Phòng và [[Hải Dương (tỉnh)|Hải Dương]] hợp nhất năm 2025, thành phố tiếp tục định hướng phát triển hạ tầng số và hệ thống thông tin trên phạm vi địa giới hành chính mới, gắn với phát triển chính quyền số, kinh tế số và xã hội số.
+
+== Thể dục, thể thao ==
+[[Tập tin:Flag of Hải Phòng, Vietnam.jpg|thumb|250px|Lá cờ thường được các cổ động viên bóng đá Hải Phòng sử dụng.<ref>{{chú thích web | url = https://vtv.vn/bong-da/an-tuong-cdv-hai-phong-chay-het-minh-tren-san-hang-day-20160509102539596.htm | tiêu đề = Ấn tượng: CĐV Hải Phòng "cháy" hết mình trên sân Hàng Đẫy | ngày = 9 tháng 5 năm 2016 | ngày truy cập = 10 tháng 7 năm 2023 | nơi xuất bản = Báo điện tử của Đài Truyền hình Việt Nam}}</ref><ref>{{chú thích web | url = https://danviet.vn/hai-phong-chao-lua-lach-tray-se-chao-don-khan-gia-tro-lai-vao-chieu-nay-20200605113723964.htm | tiêu đề = Hải Phòng: "Chảo lửa" Lạch Tray sẽ chào đón khán giả trở lại vào chiều ngày 5/6 | ngày truy cập = 10 tháng 7 năm 2023 | nơi xuất bản = Báo điện tử Dân Việt}}</ref>]]
+
+Hải Phòng có phong trào thể dục, thể thao phát triển với nhiều môn như [[bóng đá]], [[thể dục dụng cụ]], [[điền kinh]], [[bơi|bơi lội]], [[bắn cung]], [[cử tạ]] và một số môn thể thao khác. Thành phố cũng là nơi đào tạo và đóng góp nhiều vận động viên cho thể thao Việt Nam.
+
+Trong môn [[thể dục dụng cụ]], Hải Phòng từng có Nguyễn Thị Nga giành huy chương vàng tại [[Đại hội Thể thao Đông Nam Á|SEA Games]] năm 1997. Sau đó, [[Phan Thị Hà Thanh]] trở thành một trong những vận động viên thể dục dụng cụ tiêu biểu của Việt Nam. Cô giành huy chương tại các giải đấu quốc tế, trong đó có huy chương đồng tại [[Giải vô địch thể dục dụng cụ thế giới]] năm 2011.
+
+Trong môn [[điền kinh]], vận động viên [[Bùi Thị Nhung]] giành huy chương vàng nội dung nhảy cao nữ tại Giải vô địch điền kinh châu Á năm 2003. Trong môn bơi, [[Nguyễn Hữu Việt]] từng giành nhiều huy chương vàng tại [[Đại hội Thể thao Đông Nam Á|SEA Games]].
+
+[[Bóng đá]] là một trong những môn thể thao có phong trào và lượng người hâm mộ lớn tại Hải Phòng. Bóng đá xuất hiện tại thành phố từ thời Pháp thuộc và trải qua nhiều giai đoạn phát triển với nhiều đội bóng khác nhau. [[Câu lạc bộ bóng đá Hải Phòng]] là câu lạc bộ bóng đá chuyên nghiệp của thành phố, thi đấu trong hệ thống các giải bóng đá chuyên nghiệp quốc gia. [[Sân vận động Lạch Tray]] là sân nhà truyền thống của câu lạc bộ và là một trong những địa điểm thể thao gắn liền với phong trào cổ vũ bóng đá tại Hải Phòng.
+
+== Y tế ==
+
+Hải Phòng có hệ thống cơ sở y tế gồm các bệnh viện đa khoa, bệnh viện chuyên khoa, bệnh viện thuộc các trường đại học, cơ sở y tế quân đội và bệnh viện ngoài công lập. Sau khi hợp nhất với tỉnh [[Hải Dương (tỉnh)|Hải Dương]] năm 2025, hệ thống y tế của thành phố bao gồm các cơ sở y tế thuộc cả Hải Phòng và Hải Dương trước đây.
+
+=== Một số bệnh viện và cơ sở y tế ===
+
+'''Khu vực Hải Phòng cũ'''
+
+* [[Bệnh viện Hữu nghị Việt Tiệp Hải Phòng]]
+* [[Bệnh viện đa khoa Kiến An|Bệnh viện Đa khoa Kiến An]]
+* [[Bệnh viện Phụ sản Hải Phòng]]
+* [[Bệnh viện Nhi Hải Phòng]]
+* [[Bệnh viện Y học cổ truyền Hải Phòng]]
+* [[Bệnh viện Phổi Hải Phòng]]
+* [[Bệnh viện Tâm thần Hải Phòng]]
+* [[Bệnh viện Da liễu Hải Phòng]]
+* [[Viện Mắt Hải Phòng]]
+* [[Bệnh viện Đại học Y Dược Hải Phòng]]
+* [[Viện Y học biển Việt Nam]]
+* [[Viện Y học Hải quân]]
+* [[Bệnh viện đa khoa quốc tế Hải Phòng|Bệnh viện Đa khoa Quốc tế Hải Phòng]]
+* [[Bệnh viện Quốc tế Sản Nhi Hải Phòng]]
+* [[Bệnh viện Đa khoa Vinmec]]
+
+'''Khu vực Hải Dương cũ'''
+
+* [[Bệnh viện Đa khoa Hải Dương]]
+* [[Bệnh viện Phụ sản Hải Dương]]
+* [[Bệnh viện Nhi Hải Dương]]
+* [[Bệnh viện Nhiệt đới Hải Dương]]
+* [[Bệnh viện Phổi Hải Dương]]
+* [[Bệnh viện Y học cổ truyền Hải Dương]]
+* [[Bệnh viện Mắt và Da liễu Hải Dương]]
+* [[Bệnh viện Phục hồi chức năng Hải Dương]]
+* [[Bệnh viện Đại học Kỹ thuật Y tế Hải Dương]]
+* [[Bệnh viện Quân y 7]]
+* [[Bệnh viện Sức khỏe Tâm thần Hải Dương]]
+* [[Bệnh viện Phong Chí Linh]]
+
+Bên cạnh các bệnh viện tuyến thành phố và bệnh viện chuyên khoa, hệ thống y tế Hải Phòng còn bao gồm các trung tâm y tế, cơ sở khám chữa bệnh tuyến cơ sở và các bệnh viện, phòng khám ngoài công lập phục vụ nhu cầu chăm sóc sức khỏe của người dân.
+
+== Du lịch ==
+{{wikivoyage}}
+{{Chính|Du lịch Hải Phòng}}
+
+Hải Phòng có tài nguyên du lịch đa dạng, bao gồm du lịch biển đảo, du lịch sinh thái, du lịch văn hóa – lịch sử và du lịch đô thị. Các khu vực du lịch biển nổi bật của thành phố gồm [[Quần đảo Cát Bà|Cát Bà]] và [[Đồ Sơn (phường)|Đồ Sơn]].
+
+[[Quần đảo Cát Bà]] nằm ở phía đông thành phố, gồm hàng trăm đảo lớn nhỏ với cảnh quan núi đá vôi, rừng và biển. [[Khu dự trữ sinh quyển quần đảo Cát Bà]] được UNESCO công nhận là khu dự trữ sinh quyển thế giới năm 2004. Tháng 9 năm 2023, [[Vịnh Hạ Long – quần đảo Cát Bà|Vịnh Hạ Long – Quần đảo Cát Bà]] được [[UNESCO]] ghi danh là [[Di sản thế giới]], trở thành di sản thế giới liên tỉnh đầu tiên của Việt Nam.<ref>{{Chú thích web|url=https://whc.unesco.org/en/list/672/|tiêu đề=Ha Long Bay - Cat Ba Archipelago|website=UNESCO World Heritage Centre|ngôn ngữ=en|ngày truy cập=5 tháng 8 năm 2026}}</ref>
+
+[[Đồ Sơn (phường)|Đồ Sơn]] là khu du lịch biển lâu đời của Hải Phòng, có các bãi biển, khu nghỉ dưỡng và nhiều di tích, lễ hội. [[Lễ hội chọi trâu Đồ Sơn]] là một trong những lễ hội truyền thống tiêu biểu của địa phương và đã được đưa vào Danh mục di sản văn hóa phi vật thể quốc gia.
+
+Bên cạnh du lịch biển đảo, Hải Phòng có hệ thống di tích lịch sử, kiến trúc và văn hóa tại khu vực đô thị trung tâm như [[Nhà hát lớn Hải Phòng]], [[Bảo tàng Hải Phòng]], đền Nghè, chùa Dư Hàng và các công trình kiến trúc hình thành từ thời Pháp thuộc.
+
+Sau khi Hải Phòng và [[Hải Dương (tỉnh)|Hải Dương]] hợp nhất năm 2025, không gian du lịch của thành phố được mở rộng với nhiều điểm du lịch văn hóa, lịch sử và sinh thái thuộc khu vực Hải Dương trước đây. Tiêu biểu là [[Khu di tích Côn Sơn – Kiếp Bạc|Côn Sơn – Kiếp Bạc]], đền thờ [[Chu Văn An]], khu di tích An Phụ – Kính Chủ – Nhẫm Dương và các di tích gắn với lịch sử, văn hóa của vùng [[xứ Đông]].
+
+Năm 2025, quần thể [[Quần thể di tích và danh thắng Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc|Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc]] được [[UNESCO]] ghi danh vào Danh sách [[Di sản thế giới]]. Trong đó, các di tích thuộc khu vực Côn Sơn – Kiếp Bạc nằm trên địa bàn thành phố Hải Phòng hiện nay, bổ sung thêm một không gian di sản thế giới quan trọng cho hoạt động du lịch văn hóa của thành phố.
+
+Hải Phòng cũng tổ chức nhiều sự kiện văn hóa và du lịch, trong đó [[Lễ hội Hoa Phượng Đỏ]] được tổ chức từ năm 2012 và trở thành một trong những sự kiện thường niên của thành phố.
+
+=== Danh lam thắng cảnh ===
+
+* '''[[Đồ Sơn (phường)|Đồ Sơn]]''': Đồ Sơn là khu vực du lịch biển lâu đời của Hải Phòng, nằm trên một bán đảo hướng ra [[Vịnh Bắc Bộ]]. Khu vực này có các bãi biển, đồi núi ven biển cùng nhiều công trình, di tích lịch sử và văn hóa. Một số địa điểm tiêu biểu tại Đồ Sơn gồm [[Hòn Dáu]], hải đăng Hòn Dáu, đền thờ Nam Hải Thần Vương và biệt thự Bảo Đại. Đồ Sơn cũng là nơi tổ chức [[Lễ hội chọi trâu Đồ Sơn]], một lễ hội truyền thống đã được đưa vào Danh mục di sản văn hóa phi vật thể quốc gia.
+* '''[[Quần đảo Cát Bà]]''': Quần đảo Cát Bà gồm 366 đảo đá vôi lớn nhỏ, nổi bật với địa hình karst, các hệ sinh thái rừng, đất ngập nước, rừng ngập mặn và rạn san hô.<ref name="ReferenceD">{{Chú thích web|url=https://www.unesco.org/en/mab/cat-ba|tiêu đề=Cat Ba|website=UNESCO Man and the Biosphere Programme|ngôn ngữ=en|ngày truy cập=5 tháng 8 năm 2026}}</ref> Các địa điểm tham quan tiêu biểu gồm [[Vườn quốc gia Cát Bà]], [[vịnh Lan Hạ]], hang Trung Trang và các bãi biển trên đảo Cát Bà. Quần đảo cũng là môi trường sống của [[Voọc Cát Bà]], loài linh trưởng đặc hữu đang ở tình trạng cực kỳ nguy cấp.
+
+:Quần đảo Cát Bà được UNESCO công nhận là [[Khu dự trữ sinh quyển thế giới]] năm 2004.<ref name="ReferenceD"/> Năm 2023, UNESCO phê duyệt việc mở rộng Di sản thế giới Vịnh Hạ Long để bao gồm Quần đảo Cát Bà, hình thành Di sản thiên nhiên thế giới '''[[Vịnh Hạ Long – quần đảo Cát Bà|Vịnh Hạ Long – Quần đảo Cát Bà]]'''. Di sản nằm trên địa bàn thành phố [[Quảng Ninh]] và thành phố Hải Phòng, có diện tích 65.650 ha với 1.133 đảo và đảo nhỏ.<ref>{{Chú thích web|url=https://whc.unesco.org/en/list/672|tiêu đề=Ha Long Bay - Cat Ba Archipelago|website=UNESCO World Heritage Centre|ngôn ngữ=en|ngày truy cập=5 tháng 8 năm 2026}}</ref>
+
+* '''[[Hòn Dáu]]''': Hòn Dáu là một đảo nhỏ nằm ngoài khơi [[Đồ Sơn (phường)|Đồ Sơn]], nổi bật với hệ thực vật tự nhiên, đền thờ Nam Hải Thần Vương và hải đăng Hòn Dáu. Đây là một trong những địa điểm tham quan gắn với lịch sử hàng hải và không gian văn hóa tín ngưỡng của khu vực Đồ Sơn.
+* '''[[Quần thể di tích Tràng Kênh|Tràng Kênh]]''': Khu vực Tràng Kênh nằm bên hệ thống [[sông Bạch Đằng]], có cảnh quan núi đá vôi và gắn với lịch sử các trận chiến trên sông Bạch Đằng.
+* '''[[Núi Voi (Hải Phòng)|Núi Voi]]''': Núi Voi là quần thể núi đá nằm tại khu vực [[An Lão, Hải Phòng|An Lão]], gồm các hang động, cảnh quan tự nhiên và nhiều dấu tích khảo cổ, lịch sử.
+* '''[[Khu di tích Côn Sơn – Kiếp Bạc|Côn Sơn – Kiếp Bạc]]''': Sau khi Hải Phòng và [[Hải Dương (tỉnh)|Hải Dương]] hợp nhất năm 2025, Côn Sơn – Kiếp Bạc trở thành một trong những khu danh thắng, di tích lịch sử – văn hóa tiêu biểu trên địa bàn thành phố. Khu vực này gắn với các nhân vật lịch sử như [[Trần Hưng Đạo]], [[Nguyễn Trãi]] và Thiền sư [[Huyền Quang]]. Năm 2025, Côn Sơn – Kiếp Bạc trở thành một bộ phận của Di sản thế giới '''[[Quần thể di tích và danh thắng Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc|Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc]]''' được UNESCO ghi danh.<ref>{{Chú thích web|url=https://whc.unesco.org/en/statesparties/vn|tiêu đề=Viet Nam|website=UNESCO World Heritage Centre|ngôn ngữ=en|ngày truy cập=5 tháng 8 năm 2026}}</ref>
+
+=== Các đền, chùa và cơ sở tín ngưỡng tiêu biểu ===
+
+Hải Phòng có hệ thống đền, đình, chùa và các cơ sở tín ngưỡng gắn với lịch sử, văn hóa của vùng duyên hải Bắc Bộ và [[xứ Đông]]. Một số địa điểm tiêu biểu gồm:
+
+* '''Đền Nghè''': Di tích thờ nữ tướng [[Lê Chân]], người có công khai phá vùng đất An Biên, tiền thân của khu vực đô thị Hải Phòng.
+* '''Từ Lương Xâm''': Di tích thờ [[Ngô Quyền]], gắn với [[Trận Bạch Đằng (938)|chiến thắng Bạch Đằng năm 938]].
+* '''[[Đình Hàng Kênh]]''': Công trình kiến trúc cổ thờ [[Ngô Quyền]], nổi bật với hệ thống chạm khắc gỗ truyền thống.
+* '''Chùa Dư Hàng (Chùa Hàng)''': Một trong những ngôi chùa cổ tiêu biểu tại khu vực trung tâm Hải Phòng.
+* '''Chùa Đỏ''': Cơ sở Phật giáo tại Hải Phòng có kiến trúc đặc trưng.
+* '''Chùa Cao Linh''': Một trong những cơ sở Phật giáo trên địa bàn thành phố.
+* '''Đền Phú Xá''': Di tích tín ngưỡng gắn với việc thờ [[Trần Hưng Đạo]].
+* '''Phủ Thượng Đoạn''': Cơ sở tín ngưỡng thờ [[Liễu Hạnh Công chúa|Thánh Mẫu Liễu Hạnh]], gắn với [[Tín ngưỡng thờ Mẫu Việt Nam|tín ngưỡng thờ Mẫu]].
+* '''Đền Bà Đế''': Cơ sở tín ngưỡng dân gian tại khu vực [[Đồ Sơn (phường)|Đồ Sơn]].
+* '''Đền Long Sơn''' và '''đền Vạn Ngang''': Các cơ sở tín ngưỡng tại khu vực Đồ Sơn.
+* '''[[Cây đa Mười Ba Gốc]]''': Địa điểm tín ngưỡng dân gian gắn với việc thờ Chúa Bà Năm Phương.
+* '''Khu tưởng niệm Vương triều Mạc''': Quần thể di tích tại xã [[Kiến Hưng (xã)|Kiến Hưng]], gắn với [[Nhà Mạc]] và quê hương của [[Mạc Đăng Dung]].
+
+Sau khi Hải Phòng và [[Hải Dương (tỉnh)|Hải Dương]] hợp nhất năm 2025, địa bàn thành phố còn bao gồm nhiều cơ sở tôn giáo, tín ngưỡng và di tích quan trọng của vùng Hải Dương trước đây, trong đó có:
+
+* '''[[Côn Sơn – Kiếp Bạc|Chùa Côn Sơn]]''': Ngôi chùa gắn với Thiền phái [[Trúc Lâm]] và các nhân vật lịch sử, văn hóa như [[Nguyễn Trãi]] và Thiền sư [[Huyền Quang]].
+* '''[[Côn Sơn – Kiếp Bạc|Đền Kiếp Bạc]]''': Di tích thờ [[Trần Hưng Đạo]], nằm trong quần thể di tích Côn Sơn – Kiếp Bạc.
+* '''Đền thờ [[Chu Văn An]]''': Nằm tại khu vực núi Phượng Hoàng, gắn với cuộc đời và sự nghiệp của danh nhân Chu Văn An.
+* '''Đền Cao An Phụ''': Di tích thờ [[Trần Liễu|An Sinh Vương Trần Liễu]], nằm trong quần thể di tích An Phụ – Kính Chủ – Nhẫm Dương.
+* '''Chùa Thanh Mai''': Ngôi chùa cổ thuộc khu vực Chí Linh, gắn với lịch sử [[Phật giáo Trúc Lâm]].
+
+Trong đó, một số di tích thuộc khu vực Côn Sơn – Kiếp Bạc là thành phần của quần thể '''[[Quần thể di tích và danh thắng Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc|Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc]]''', được [[UNESCO]] ghi danh là [[Di sản thế giới]] năm 2025.
+
+== Quan hệ kết nghĩa và hợp tác quốc tế ==
+Hải Phòng thiết lập quan hệ hữu nghị, kết nghĩa và hợp tác với một số địa phương trong và ngoài nước.
+
+{{Div col|colwidth=20em}}
+
+* {{Flagicon|VIE}} [[Đà Nẵng]], Việt Nam<ref>{{Chú thích web|tiêu đề=Đà Nẵng và Hải Phòng 60 năm tình nghĩa|url=https://haiphong.gov.vn/Hai-Phong-Thanh-Pho-Toi-Yeu/Da-Nang-va-Hai-Phong-60-nam-tinh-nghia-49458.html|website=haiphong.gov.vn|nhà xuất bản=Ủy ban nhân dân thành phố Hải Phòng|ngôn ngữ=vi|ngày=5 tháng 8 năm 2020|ngày truy cập=8 tháng 1 năm 2021|archive-date=2021-04-16|archive-url=https://web.archive.org/web/20210416163708/https://haiphong.gov.vn/Hai-Phong-Thanh-Pho-Toi-Yeu/Da-Nang-va-Hai-Phong-60-nam-tinh-nghia-49458.html|url-status=dead}}</ref>
+* {{Flagicon|CHN}} [[Thiên Tân]], Trung Quốc<ref>{{Chú thích web|tiêu đề=天津友好城市一览表|url=http://fao.tj.gov.cn/XXFB2187/GJYC9244/YHCSTJ4276/202008/t20200824_3525190.html|website=tj.gov.cn|nhà xuất bản=Ủy ban thành phố Thiên Tân|ngôn ngữ=zh|ngày truy cập=7 tháng 1 năm 2021|archive-date=2021-01-23|archive-url=https://web.archive.org/web/20210123040650/http://fao.tj.gov.cn/XXFB2187/GJYC9244/YHCSTJ4276/202008/t20200824_3525190.html|url-status=dead}}</ref>
+* {{Flagicon|CHN}} [[Nam Ninh]], [[Quảng Tây]], Trung Quốc<ref>{{Chú thích web|tiêu đề=南宁市国际友城名单及分布图|url=http://wqb.nanning.gov.cn/xxgk/sjfb/t1454179.html|website=nanning.gov.cn|nhà xuất bản=Ủy ban thành phố Nam Ninh|ngôn ngữ=zh|ngày truy cập=11 tháng 7 năm 2020|ngày lưu trữ=11 tháng 7 năm 2020|archive-url=https://web.archive.org/web/20200711235905/http://wqb.nanning.gov.cn/xxgk/sjfb/t1454179.html|url-status=dead}}</ref>
+* {{flagicon|KOR}} [[Incheon]], Hàn Quốc<ref>{{Chú thích web|tiêu đề=자매결연도시 현황|url=https://www.incheon.go.kr/IC040543|website=incheon.go.kr|nhà xuất bản=Tòa thị chính Incheon|ngôn ngữ=ko|ngày truy cập=8 tháng 1 năm 2021}}</ref>
+* {{flagicon|JPN}} [[Kitakyushu]], Nhật Bản<ref>{{Chú thích web|tiêu đề=べトナム・ハイフォン市との交流について|url=https://www.city.kitakyushu.lg.jp/soumu/file_0006.html|nhà xuất bản=Tòa thị chính Kitakyushu|ngôn ngữ=ja|ngày=10 tháng 3 năm 2020|ngày truy cập=22 tháng 10 năm 2023|archive-date=2023-10-01|archive-url=https://web.archive.org/web/20231001220346/https://www.city.kitakyushu.lg.jp/soumu/file_0006.html|url-status=dead}}</ref>
+* {{flagicon|ITA}} [[Livorno]], [[Toscana]], Ý<ref>{{Chú thích web|tiêu đề=Il canale dei Navicelli, la via d'acqua tra Pisa e Livorno ponte per un gemellaggio?|url=https://www.pressmare.it/it/comunicazione/livorno-non-stop/2016-02-24/canale-navicelli-tra-pisa-e-livorno-ponte-per-gemellaggio-1727|website=pressmare.it|nhà xuất bản=Press Mare|ngôn ngữ=it|ngày=24 tháng 2 năm 2016|ngày truy cập=7 tháng 1 năm 2021}}</ref>
+* {{flagicon|RUS}} [[Saint Petersburg]], Nga<ref>{{Chú thích web|tiêu đề=Международные и межрегиональные связи|url=https://www.gov.spb.ru/helper/new_stat/inter/|website=gov.spb.ru|nhà xuất bản=Chính quyền Saint Petersburg|ngôn ngữ=ru|ngày truy cập=12 tháng 11 năm 2020}}</ref>
+* {{flagicon|USA}} [[Seattle]], [[Washington (tiểu bang)|Washington]], Hoa Kỳ<ref>{{Chú thích web|tiêu đề=Seattle's Sister Cities|url=https://www.seattle.gov/oir/sister-cities/seattles-sister-cities|nhà xuất bản=City of Seattle|ngày truy cập=16 tháng 9 năm 2021|archive-date=2022-02-25|archive-url=https://web.archive.org/web/20220225145636/https://seattle.gov/oir/sister-cities/seattles-sister-cities|url-status=dead}}</ref>
+ {{Div col end}}
+
+== Hình ảnh ==
+<gallery mode="packed-hover" widths="200" heights="200">
+Tập tin:03-OPERA HOUSE.jpg|Nhà hát lớn Hải Phòng
+Tập tin:Lê Chân monument in Hải Phòng city.JPG|Tượng đài Lê Chân
+Tập tin:Nhà thờ Hải Phòng.jpg|Nhà thờ Hải Phòng
+Tập tin:Khu-pho-Phap-cu-Hai-Phong-ben-canh-cau-Hoang-Van-Thu.jpg|Khu phố Pháp cũ Hải Phòng bên cạnh cầu Hoàng Văn Thụ
+Tập tin:Cau-hoang-van-thu.jpg|Toàn cảnh đường chân trời phía Nam sông Cấm
+Tập tin:Đường chân trời Hải Phòng nhìn từ Bắc sông Cấm.jpg | Đường chân trời Hải Phòng nhìn từ Bắc sông Cấm
+Tập tin:Nguyen Trai.jpg|[[Nguyễn Trãi]] (1380 – 19 tháng 9 năm 1442)
+Tập tin:Haiduong Marches.JPG|Một khu chợ tại Hải Dương khoảng cuối thế kỷ 19 – đầu thế kỷ 20 thời kỳ Pháp thuộc
+Tập tin:Tomg doc Ha noi Hai duong Thai binh.JPG|Các Tổng đốc Hà Nội, Hải Dương, Thái Bình khoảng cuối thế kỷ 19 - đầu thế kỷ 20
+Tập tin:NhaHatTpHaiduong.jpg|Hội trường Trung tâm Văn hóa tỉnh Hải Dương
+Tập tin:Denquat.jpg|Đền Quát "Yết Kiêu thần từ" nơi thờ tướng Yết Kiêu thôn Hạ Bì, xã Yết Kiêu, thành phố Hải Phòng
+Tập tin:Đài Phát thanh - Truyền hình Hải Dương.jpeg|Đài Phát thanh – Truyền hình Hải Dương
+Tập tin:DendinhSuotTpHaiduong.jpg|Đền Sượt, phường Lê Thanh Nghị, thành phố Hải Phòng
+Tập tin:ChuaSuotTpHaiduong.jpg|Cổng vào Đền Sượt, phường Lê Thanh Nghị, thành phố Hải Phòng
+Tập tin:NhaThoLonHaiduong.jpg|Nhà thờ lớn Hải Dương, phường Hải Dương, thành phố Hải Phòng.
+Tập tin:Nhà trưng bày bảo tàng Hải Dương, thành phố Hải Dương, tỉnh Hải Dương.jpg|Nhà trưng bày bảo tàng Hải Dương, phường Thành Đông, thành phố Hải Phòng
+Tập tin:Phục dựng ngôi nhà cổ của quan nghè Nguyễn Quý Tân trưng bày tại bảo tàng Hải Dương, thành phố Hải Dương, tỉnh Hải Dương.jpg|Phục dựng ngôi nhà cổ của quan nghè Nguyễn Quý Tân trưng bày tại bảo tàng Hải Dương
+Tập tin:Đứng ngoài sân nhìn vào đình Đồng Niên, phường Việt Hòa, thành phố Hải Dương, tỉnh Hải Dương.jpg|Đình Đồng Niên, phường Việt Hòa, thành phố Hải Phòng
+Tập tin:Cổng tam quan cụm di tích đền - chùa Bảo Sài, phường Phạm Ngũ Lão, thành phố Hải Dương, tỉnh Hải Dương.jpg|Cổng tam quan cụm di tích đền – chùa Bảo Sài, phường Lê Thanh Nghị, thành phố Hải Phòng
+Tập tin:Thủy đình thờ Phật Di Lặc trong cụm di tích đền - chùa Bảo Sài, nhìn vào từ phía đền Bảo Sài, phường Phạm Ngũ Lão, thành phố Hải Dương, tỉnh Hải Dương.jpg|Thủy đình thờ Phật Di Lặc trong cụm di tích đền – chùa Bảo Sài, phường Lê Thanh Nghị, thành phố Hải Phòng
+Tập tin:Bên ngoài chùa Bảo Sài trong cụm di tích đền - chùa Bảo Sài, phường Phạm Ngũ Lão, thành phố Hải Dương, tỉnh Hải Dương.jpg|Chùa Bảo Sài trong cụm di tích đền – chùa Bảo Sài, phường Lê Thanh Nghị, thành phố Hải Phòng
+Tập tin:Tổng quan đình Bảo Sài, phường Phạm Ngũ Lão, thành phố Hải Dương, tỉnh Hải Dương.jpg|Đình Bảo Sài, phường Lê Thanh Nghị, thành phố Hải Phòng
+</gallery>
+
+== Xem thêm ==
+* [[Cảng Hải Phòng]]
+* [[Đường Hải Phòng, Hồng Kông]]
+
+== Chú thích ==
+{{Tham khảo|30em}}
+
+== Liên kết ngoài ==
+{{Liên kết tới các dự án khác 
+ |1= Hải Phòng|collapsible= yes|author= |commonscat=yes
+
+<!-- (Đặt giá trị của tham số bằng "no" để ẩn liên kết đến dự án tương ứng:) -->
+ |b= no|c= Haiphong|d= no|m= no|mw= no|n= no|q= no|s=no
+ |species= no|species_author= no|v= no|voy= Hải Phòng|wikt=Hải Phòng
+}}
+<!-- KHÔNG CHÈN QUẢNG CÁO VÀO PHẦN NÀY -->
+* {{TĐBKVN}}
+* {{Britannica}}
+* [http://www.haiphong.gov.vn/ Cổng thông tin điện tử thành phố Hải Phòng] {{Webarchive|url=https://web.archive.org/web/20210415185116/http://www.haiphong.gov.vn/ |date = ngày 15 tháng 4 năm 2021}}
+{{Địa phương lân cận
+| Giữa = Hải Phòng
+| Bắc = [[Quảng Ninh]]
+| Đông = [[Biển Đông]]
+| Nam = [[Hưng Yên]]
+| Tây = [[Bắc Ninh]]
+}}
+
+{{Hải Phòng}}
+{{Đơn vị hành chính cấp tỉnh Việt Nam}}
+{{Thành phố Việt Nam}}
+{{Kiểm soát tính nhất quán}}
+
+[[Thể loại:Hải Phòng| ]]
+[[Thể loại:Vùng duyên hải Bắc Bộ]]
+[[Thể loại:Đô thị Việt Nam loại I]]
+[[Thể loại:Thành phố ven biển Việt Nam]]
+[[Thể loại:Thành phố cảng Việt Nam]]
+[[Thể loại:Vịnh Bắc Bộ]]
+[[Thể loại:Đồng bằng sông Hồng]]

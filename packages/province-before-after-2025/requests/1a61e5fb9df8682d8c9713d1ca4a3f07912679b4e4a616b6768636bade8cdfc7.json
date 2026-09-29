@@ -1,0 +1,26 @@
+{
+  "request_url": "https://vi.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&inprop=url&maxlag=5&ppprop=wikibase_item%7Cdisambiguation&prop=info%7Cpageprops&redirects=1&titles=B%E1%BA%BFn+Tre%7CB%E1%BA%BFn+Tre+%28t%E1%BB%89nh%29%7CB%E1%BA%BFn+Tre+%28t%E1%BB%89nh+c%C5%A9%29%7CB%E1%BA%BFn+Tre+%28tr%C6%B0%E1%BB%9Bc+2025%29",
+  "params": {
+    "format": "json",
+    "formatversion": "2",
+    "maxlag": 5,
+    "action": "query",
+    "titles": "Bến Tre|Bến Tre (tỉnh)|Bến Tre (tỉnh cũ)|Bến Tre (trước 2025)",
+    "redirects": 1,
+    "prop": "info|pageprops",
+    "inprop": "url",
+    "ppprop": "wikibase_item|disambiguation"
+  },
+  "retrieved_at": "2026-09-29T15:27:22.029775Z",
+  "http_status": 200,
+  "headers": {
+    "date": "Tue, 29 Sep 2026 15:27:21 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2101"
+  },
+  "path": "sources/responses/143d9687c77b7ec00a255b95ec49cc9cd7707100c26a52172a4b0aad69b7b9a7.json",
+  "sha256": "143d9687c77b7ec00a255b95ec49cc9cd7707100c26a52172a4b0aad69b7b9a7",
+  "byte_length": 2101,
+  "media_type": "application/json",
+  "representation": "unmodified MediaWiki HTTP response body bytes"
+}

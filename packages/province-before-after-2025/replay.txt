@@ -1,0 +1,98 @@
+1/97 cached before tỉnh Hà Giang
+2/97 cached before tỉnh Tuyên Quang
+3/97 cached before tỉnh Yên Bái
+4/97 cached before tỉnh Lào Cai
+5/97 cached before tỉnh Bắc Kạn
+6/97 cached before tỉnh Thái Nguyên
+7/97 cached before tỉnh Vĩnh Phúc
+8/97 cached before tỉnh Hòa Bình
+9/97 cached before tỉnh Phú Thọ
+10/97 cached before tỉnh Bắc Giang
+11/97 cached before tỉnh Bắc Ninh
+12/97 cached before tỉnh Thái Bình
+13/97 cached before tỉnh Hưng Yên
+14/97 cached before thành phố Hải Phòng
+15/97 cached before tỉnh Hải Dương
+16/97 cached before tỉnh Hà Nam
+17/97 cached before tỉnh Nam Định
+18/97 cached before tỉnh Ninh Bình
+19/97 cached before tỉnh Quảng Bình
+20/97 cached before tỉnh Quảng Trị
+21/97 cached before thành phố Đà Nẵng
+22/97 cached before tỉnh Quảng Nam
+23/97 cached before tỉnh Kon Tum
+24/97 cached before tỉnh Quảng Ngãi
+25/97 cached before tỉnh Bình Định
+26/97 cached before tỉnh Gia Lai
+27/97 cached before tỉnh Ninh Thuận
+28/97 cached before tỉnh Khánh Hòa
+29/97 cached before tỉnh Đắk Nông
+30/97 cached before tỉnh Bình Thuận
+31/97 cached before tỉnh Lâm Đồng
+32/97 cached before tỉnh Phú Yên
+33/97 cached before tỉnh Đắk Lắk
+34/97 cached before Thành phố Hồ Chí Minh
+35/97 cached before tỉnh Bà Rịa - Vũng Tàu
+36/97 cached before tỉnh Bình Dương
+37/97 cached before tỉnh Bình Phước
+38/97 cached before tỉnh Đồng Nai
+39/97 cached before tỉnh Long An
+40/97 cached before tỉnh Tây Ninh
+41/97 cached before thành phố Cần Thơ
+42/97 cached before tỉnh Sóc Trăng
+43/97 cached before tỉnh Hậu Giang
+44/97 cached before tỉnh Bến Tre
+45/97 cached before tỉnh Trà Vinh
+46/97 cached before tỉnh Vĩnh Long
+47/97 cached before tỉnh Tiền Giang
+48/97 cached before tỉnh Đồng Tháp
+49/97 cached before tỉnh Bạc Liêu
+50/97 cached before tỉnh Cà Mau
+51/97 cached before tỉnh Kiên Giang
+52/97 cached before tỉnh An Giang
+53/97 cached before tỉnh Cao Bằng
+54/97 cached before tỉnh Điện Biên
+55/97 cached before tỉnh Hà Tĩnh
+56/97 cached before tỉnh Lai Châu
+57/97 cached before tỉnh Lạng Sơn
+58/97 cached before tỉnh Nghệ An
+59/97 cached before tỉnh Quảng Ninh
+60/97 cached before tỉnh Thanh Hóa
+61/97 cached before tỉnh Sơn La
+62/97 cached before thành phố Hà Nội
+63/97 cached before thành phố Huế
+64/97 cached after tỉnh Tuyên Quang
+65/97 cached after tỉnh Lào Cai
+66/97 cached after tỉnh Thái Nguyên
+67/97 cached after tỉnh Phú Thọ
+68/97 cached after tỉnh Bắc Ninh
+69/97 cached after tỉnh Hưng Yên
+70/97 cached after thành phố Hải Phòng
+71/97 cached after tỉnh Ninh Bình
+72/97 cached after tỉnh Quảng Trị
+73/97 cached after thành phố Đà Nẵng
+74/97 cached after tỉnh Quảng Ngãi
+75/97 cached after tỉnh Gia Lai
+76/97 cached after tỉnh Khánh Hòa
+77/97 cached after tỉnh Lâm Đồng
+78/97 cached after tỉnh Đắk Lắk
+79/97 cached after Thành phố Hồ Chí Minh
+80/97 cached after tỉnh Đồng Nai
+81/97 cached after tỉnh Tây Ninh
+82/97 cached after thành phố Cần Thơ
+83/97 cached after tỉnh Vĩnh Long
+84/97 cached after tỉnh Đồng Tháp
+85/97 cached after tỉnh Cà Mau
+86/97 cached after tỉnh An Giang
+87/97 cached after tỉnh Cao Bằng
+88/97 cached after tỉnh Điện Biên
+89/97 cached after tỉnh Hà Tĩnh
+90/97 cached after tỉnh Lai Châu
+91/97 cached after tỉnh Lạng Sơn
+92/97 cached after tỉnh Nghệ An
+93/97 cached after tỉnh Quảng Ninh
+94/97 cached after tỉnh Thanh Hóa
+95/97 cached after tỉnh Sơn La
+96/97 cached after thành phố Hà Nội
+97/97 cached after thành phố Huế
+Collected 97 targets; semantic review and package validation still required.

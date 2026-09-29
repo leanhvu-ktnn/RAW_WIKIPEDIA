@@ -1,0 +1,147 @@
+{{bài cùng tên}}
+{{Thông tin đơn vị hành chính Việt Nam| tỉnh 
+| tên = Yên Bái
+| biệt danh = Xứ sở ruộng bậc thang
+| logo = Logo tỉnh Yên Bái.svg
+| ghi chú logo = Biểu trưng
+| nhiều hình = {{multiple image
+| border = infobox
+| total_width = 300
+| image_style = border:1;
+| perrow = 1/2/1
+| image1 = Rice terrace.png
+| image2 = 500px photo (243894551).jpeg
+| image3 = Nhảy dù lượn từ đèo Khau Phạ ngắm bản Lìm mông.jpg
+| image4 = Thác Bà lake - panorama.jpg
+}}
+| ghi chú hình = Trên xuống dưới, trái sang phải:
+[[Ruộng bậc thang Mù Cang Chải]], [[Núi Phu Luông]], [[Đèo Khau Phạ]], [[Hồ Thác Bà]]
+| vĩ độ = 21.693161
+| kinh độ = 104.872742 
+| bản đồ 1 = {{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=2|stroke-color=#000000}}
+| diện tích = 6.892,67 km²<ref name="area_2020">{{cite act|index=387/QĐ-BTNMT|title=Phê duyệt và công bố kết quả thống kê diện tích đất đai năm 2020|url=https://luatvietnam.vn/tai-nguyen/quyet-dinh-387-qd-btnmt-217769-d1.html|legislature=[[Bộ Tài nguyên và Môi trường (Việt Nam)]]|date= 2022| type = Quyết định}}</ref><ref>{{Chú thích sách | author = [[Tổng cục Thống kê (Việt Nam)|Tổng cục Thống kê]] | year = 2022  | url = https://www.gso.gov.vn/wp-content/uploads/2022/08/Sach-Nien-giam-TK-2021.pdf | title = Niên giám Thống kê Việt Nam năm 2021  | publisher = Nhà Xuất bản Thống kê  | access-date = 2022-08-01 | archive-date = 2022-08-01 | archive-url = https://web.archive.org/web/20220801122014/https://www.gso.gov.vn/wp-content/uploads/2022/08/Sach-Nien-giam-TK-2021.pdf|url-status=live| p=89 }}</ref>
+| dân số = 847.200 người<ref name="dan_so_2021">{{Chú thích sách | author = [[Tổng cục Thống kê (Việt Nam)|Tổng cục Thống kê]] | year = 2022   | url = https://www.gso.gov.vn/wp-content/uploads/2022/08/Sach-Nien-giam-TK-2021.pdf | title = Niên giám Thống kê Việt Nam năm 2021  | publisher = Nhà Xuất bản Thống kê  | access-date = 2022-08-01 | archive-date = 2022-08-01 | archive-url = https://web.archive.org/web/20220801122014/https://www.gso.gov.vn/wp-content/uploads/2022/08/Sach-Nien-giam-TK-2021.pdf|url-status=live | p=92 }}</ref>      
+| thời điểm dân số = 2022
+| dân số thành thị = 177.300 người ({{formatnum:{{#expr:174700/842700*100round1}}}}%)<ref>{{Chú thích sách | author = [[Tổng cục Thống kê (Việt Nam)|Tổng cục Thống kê]] | year = 2022   | url = https://www.gso.gov.vn/wp-content/uploads/2022/08/Sach-Nien-giam-TK-2021.pdf | title = Niên giám Thống kê Việt Nam năm 2021  | publisher = Nhà Xuất bản Thống kê  | access-date = 2022-08-01 | archive-date = 2022-08-01 | archive-url = https://web.archive.org/web/20220801122014/https://www.gso.gov.vn/wp-content/uploads/2022/08/Sach-Nien-giam-TK-2021.pdf|url-status=live| p=98 }}</ref>
+| dân số nông thôn = 669.900 người ({{formatnum:{{#expr:667900/842700*100round1}}}}%)<ref>{{Chú thích sách | author = [[Tổng cục Thống kê (Việt Nam)|Tổng cục Thống kê]] | year = 2022   | url = https://www.gso.gov.vn/wp-content/uploads/2022/08/Sach-Nien-giam-TK-2021.pdf | title = Niên giám Thống kê Việt Nam năm 2021  | publisher = Nhà Xuất bản Thống kê  | access-date = 2022-08-01 | archive-date = 2022-08-01 | archive-url = https://web.archive.org/web/20220801122014/https://www.gso.gov.vn/wp-content/uploads/2022/08/Sach-Nien-giam-TK-2021.pdf|url-status=live| p=100 }}</ref>
+| mật độ dân số = 122 người/km²<ref>{{Chú thích sách | author = [[Tổng cục Thống kê (Việt Nam)|Tổng cục Thống kê]] | year = 2022   | url = https://www.gso.gov.vn/wp-content/uploads/2022/08/Sach-Nien-giam-TK-2021.pdf | title = Niên giám Thống kê Việt Nam năm 2021  | publisher = Nhà Xuất bản Thống kê  | access-date = 2022-08-01 | archive-date = 2022-08-01 | archive-url = https://web.archive.org/web/20220801122014/https://www.gso.gov.vn/wp-content/uploads/2022/08/Sach-Nien-giam-TK-2021.pdf|url-status=live| p=89 }}</ref>
+| vùng = [[Tây Bắc Bộ]] 
+| dân tộc = [[Người Việt|Kinh]], [[Người Tày|Tày]], [[Người Dao|Dao]], [[Người H'Mông|H'Mông]] và một số dân tộc khác
+| tỉnh lỵ = Thành phố [[Yên Bái (thành phố)|Yên Bái]]
+| thành lập = 
+* 11/4/1900
+* 12/8/1991: tái lập
+| phân chia hành chính = 1 thành phố, 1 thị xã, 7 huyện
+| trụ sở UBND = Số 08, đường Trần Phú, phường [[Đồng Tâm, thành phố Yên Bái|Đồng Tâm]], thành phố [[Yên Bái (thành phố)|Yên Bái]]
+| đại biểu quốc hội = [[Danh sách Đại biểu Quốc hội Việt Nam khóa XV#Yên Bái|6 đại biểu]]
+| chủ tịch UBND = [[Nguyễn Tuấn Anh]]
+| hội đồng nhân dân = 56 đại biểu
+| chủ tịch HĐND = [[Tạ Văn Long]]
+| chủ tịch UBMTTQ = Giàng A Tông
+| chánh án TAND = [[Phan Văn Tiến]]
+| viện trưởng VKSND = [[Lương Văn Thức]]
+| bí thư = [[Trần Huy Tuấn]]
+| biển số xe = [[Biển xe cơ giới Việt Nam|21]]
+| mã điện thoại = [[Mã điện thoại Việt Nam|216]]
+| mã địa lý = [[ISO 3166-2:VN|VN-06]]
+| mã hành chính = 15<ref>[https://danhmuchanhchinh.gso.gov.vn/ Tổng cục Thống kê]</ref>
+| mã bưu chính = [[Mã bưu chính Việt Nam|33xxx]]
+| thời điểm kinh tế = 2018
+| GRDP = 27.404 tỉ đồng (1.18 tỉ USD)
+| GRDP bình quân đầu người = 33,6 triệu đồng (1.459 USD)
+| web = {{url|yenbai.gov.vn}}
+}}
+'''Yên Bái'''<ref>{{Chú thích web | url = https://books.google.com.vn/books?id=kANrBQAAQBAJ&pg=PP78&lpg=PP78&dq=danh+s%C3%A1ch+c%C3%B4ng+s%E1%BB%A9+Ph%C3%A1p&source=bl&ots=0tcJabIBrC&sig=0jc5tSXfRNnaATBIQr_S4_4Jp_s&hl=vi&sa=X&ei=F0_IVP_7EcGyogSs_YLQCA&ved=0CE4Q6AEwCA#v=onepage&q=danh%20s%C3%A1ch%20c%C3%B4ng%20s%E1%BB%A9%20Ph%C3%A1p&f=false | tiêu đề = Đại Nam thực lục | tác giả =  | ngày =  | ngày truy cập = 8 tháng 2 năm 2015 | nơi xuất bản = Google Books | ngôn ngữ =  | archive-date = 2015-05-03 | archive-url = https://web.archive.org/web/20150503032904/https://books.google.com.vn/books?id=kANrBQAAQBAJ&pg=PP78&lpg=PP78&dq=danh+s%C3%A1ch+c%C3%B4ng+s%E1%BB%A9+Ph%C3%A1p&source=bl&ots=0tcJabIBrC&sig=0jc5tSXfRNnaATBIQr_S4_4Jp_s&hl=vi&sa=X&ei=F0_IVP_7EcGyogSs_YLQCA&ved=0CE4Q6AEwCA#v=onepage&q=danh%20s%C3%A1ch%20c%C3%B4ng%20s%E1%BB%A9%20Ph%C3%A1p&f=false | url-status = dead }}</ref> là một [[tỉnh]] thuộc [[vùng trung du và miền núi phía Bắc]], [[Việt Nam]].<ref name=Ms@124 >[https://thukyluat.vn/vb/quyet-dinh-124-2004-qd-ttg-bang-danh-muc-ma-so-don-vi-hanh-chinh-viet-nam-cc68.html Quyết định số 124/2004/QĐ-TTg của Chính phủ ngày 08/07/2004] ban hành Danh mục và mã số các đơn vị hành chính Việt Nam có đến 30/6/2004. Thuky Luat Online, 2016. Truy cập 11/04/2019.</ref><ref name =BandoHc >Tập bản đồ hành chính Việt Nam. Nhà xuất bản Tài nguyên – Môi trường và Bản đồ Việt Nam. Hà Nội, 2013.</ref>
+
+==Địa lý==
+Tỉnh Yên Bái nằm ở [[vùng Tây Bắc]] tiếp giáp với [[vùng Đông Bắc|Đông Bắc]], có vị trí địa lý:
+*Phía đông giáp tỉnh [[Tuyên Quang]] và tỉnh [[Phú Thọ]]
+*Phía tây giáp tỉnh [[Lai Châu]]
+*Phía nam giáp tỉnh [[Sơn La]]
+*Phía bắc giáp tỉnh [[Hà Giang]] và tỉnh [[Lào Cai]].<ref>[https://www.yenbai.gov.vn/Pages/Vi-Tri-dia-Ly.aspx?ItemID=7&l=vitridialy#:~:text=Y%C3%AAn%20B%C3%A1i%20n%E1%BA%B1m%20%E1%BB%9F%20v%C3%B9ng%20T%C3%A2y%20B%E1%BA%AFc%20c%E1%BB%A7a%20t%E1%BB%95%20qu%E1%BB%91c,t%E1%BB%89nh%20l%C3%A0%206.887%2C67%20km2. Vị trí địa lý - Địa hình - Địa giới hành chính của tỉnh Yên Bái, Cổng thông tin điện tử tỉnh Yên Bái]</ref>
+
+==Hành chính==
+Tỉnh Yên Bái có 8 đơn vị hành chính cấp huyện trực thuộc, bao gồm thành phố [[Yên Bái (thành phố)|Yên Bái]], thị xã [[Nghĩa Lộ]] và 7 huyện: [[Mù Cang Chải]], [[Lục Yên]], [[Trạm Tấu]], [[Trấn Yên]], [[Văn Chấn]], [[Văn Yên]], [[Yên Bình]] với 168 đơn vị hành chính cấp xã, bao gồm 12 phường, 10 thị trấn và 146 xã.<ref name=1239/NQ-UBTVQH15>{{Chú thích web|url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=90614|tựa đề= Nghị quyết số 1239/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh Yên Bái giai đoạn 2023 – 2025 |tác giả=|ngày= 2024-10-24 |website= Cổng thông tin điện tử Quốc hội Việt Nam |url lưu trữ=https://web.archive.org/web/20241102122247/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=90614|ngày lưu trữ= 2024-11-02 |ngày truy cập= 2024-11-02 |url-status= live }}</ref>
+
+{| cellpadding="0"cellspacing="6"width="100%"align="center"style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="3"style="background: #E6E6FA; font-size: 95%;"| Danh sách các đơn vị hành chính trực thuộc tỉnh Yên Bái
+|-
+| width="50%"valign="top"style="background: #f9f9f9;"|
+{| cellpadding="1"cellspacing="1"style="background: #f9f9f9; font-size: 90%; text-align: right;"width="100%"
+|-
+! align="left"style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap"| Tên!! style="border-bottom: 2px solid #CCCCFF;"|Dân số (người)<sup>2019</sup>!! style="border-bottom: 2px solid #CCCCFF;"| Hành chính
+|-
+| align="left"colspan="3"style="background: #F5F5DC; padding-left: 30px;"| '''Thành phố (1)'''
+|-bgcolor="#f5f5f5"
+| align="left"style="padding-left: 6px; white-space:nowrap"| [[Yên Bái (thành phố)|Yên Bái]] || 100.631 ||''8 phường, 6 xã''
+|-
+| align="left"colspan="3"style="background: #F5F5DC; padding-left: 30px;"| '''Thị xã (1)'''
+|-
+| align="left"style="padding-left: 6px; white-space:nowrap"| [[Nghĩa Lộ]] || 68.206 ||''4 phường, 10 xã''
+|-
+| align="left"colspan="3"style="background: #F5F5DC; padding-left: 30px;"| '''Huyện (7)'''
+|-bgcolor="#F5F5F5"
+| align="left"style="padding-left: 6px; white-space:nowrap"| [[Lục Yên]] || 108.817 ||''1 thị trấn, 23 xã''
+|}
+| width="50%"valign="top"style="background: #f9f9f9;"|
+{| cellpadding="1"cellspacing="1"style="background: #f9f9f9; font-size: 90%; text-align: right;"width="100%"
+|-
+! align="left"style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap"| Tên!! style="border-bottom: 2px solid #CCCCFF;"| Dân số (người)<sup>2019</sup>!! style="border-bottom: 2px solid #CCCCFF;"| Hành chính
+|-
+| align="left"style="padding-left: 6px; white-space:nowrap"| [[Mù Cang Chải]] || 63.961 ||''1 thị trấn, 13 xã''
+|-bgcolor="#F5F5F5"
+| align="left"style="padding-left: 6px; white-space:nowrap"| [[Trạm Tấu]] || 33.962 ||''1 thị trấn, 11 xã''
+|-
+| align="left"style="padding-left: 6px; white-space:nowrap"| [[Trấn Yên]] || 84.675 ||''1 thị trấn, 17 xã''
+|-bgcolor="#F5F5F5"
+| align="left"style="padding-left: 6px; white-space:nowrap"| [[Văn Chấn]]|| 116.804||''3 thị trấn, 21 xã''
+|-
+| align="left"style="padding-left: 6px; white-space:nowrap"| [[Văn Yên]]|| 129.679 ||''1 thị trấn, 24 xã''
+|-bgcolor="#F5F5F5"
+| align="left"style="padding-left: 6px; white-space:nowrap"| [[Yên Bình]]|| 112.046 ||''2 thị trấn, 21 xã''
+|}
+| valign="top"style="background: #f9f9f9; font-size: 90%"|
+|-
+|colspan="14" style="text-align: center; font-size:90%;"|''Nguồn: Kết quả điều tra dân số trên địa bàn tỉnh Yên Bái năm 2019<ref name=YENBAI2019>{{Chú thích web|url = http://yenbai.gov.vn/PublishingImages/Tran-Hung/2020/Thang-9/y%C3%AAn%20b%C3%A1i%20-%20bieu%201-%20dtts_huyen_xa.xls|title = Dân số đến 01 tháng 4 năm 2019 - tỉnh Yên Bái|access-date = ngày 16 tháng 7 năm 2020|author = Ban chỉ đạo Tổng điều tra dân số và nhà ở trung ương|archive-date = 2022-08-05|archive-url = https://web.archive.org/web/20220805192518/https://yenbai.gov.vn/PublishingImages/Tran-Hung/2020/Thang-9/y%C3%AAn%20b%C3%A1i%20-%20bieu%201-%20dtts_huyen_xa.xls|url-status = dead}}</ref>
+|}
+
+==Lịch sử==
+{{main|Lịch sử hành chính Yên Bái}}
+[[Tập tin:Province de Yen-Bay (1909).jpg|220px|phải|nhỏ|Bản đồ tỉnh Yên Bái năm 1909]]
+
+Ngày [[29 tháng 4]] năm [[1955]], thành lập [[Khu tự trị Tây Bắc|Khu tự trị Thái - Mèo]], địa bàn 2 huyện [[Than Uyên]] và [[Văn Chấn]] thuộc khu tự trị<ref>[https://m.thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Sac-lenh-230-SL-quy-dinh-thanh-lap-Khu-tu-tri-Thai-Meo-36755.aspx Sắc lệnh số 230/SL về việc ban hành quy định thành lập Khu tự trị Thái Mèo do Chủ tịch nước ban hành]</ref> và sau là tỉnh [[Nghĩa Lộ (tỉnh)|Nghĩa Lộ]].
+
+Ngày [[13 tháng 5]] năm [[1955]], 2 huyện Than Uyên và Văn Chấn chính thức tách khỏi tỉnh Yên Bái để sáp nhập vào khu tự trị Thái - Mèo.<ref>[https://m.thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Sac-lenh-231-SL-dieu-chinh-dia-gioi-Lao-cai-Yen-bai-36760.aspx Sắc lệnh số 231/SL năm 1955]</ref>
+
+Ngày [[7 tháng 4]] năm [[1956]], thành lập lại [[Yên Bái (thành phố)|thị xã Yên Bái]].
+
+Ngày [[1 tháng 7]] năm [[1956]], chuyển huyện [[Yên Bình]] của tỉnh [[Tuyên Quang]] về tỉnh Yên Bái quản lý.
+
+Ngày [[16 tháng 12]] năm [[1964]], thành lập 2 huyện [[Bảo Yên]] (tách ra từ 2 huyện Lục Yên và Văn Bàn) và [[Văn Yên]] (tách ra từ 2 huyện Trấn Yên và Văn Bàn)<ref>[http://thuvienphapluat.vn/archive/Quyet-dinh/Quyet-dinh-177-CP-dieu-chinh-dia-gioi-mot-so-huyen-thuoc-cac-tinh-Lang-Son-Yen-bai-va-Thanh-hoa-vb20011t17.aspx Quyết định 177-CP năm 1964 về việc điều chỉnh địa giới của một số huyện thuộc các tỉnh Lạng Sơn, Yên Bái và Thanh Hóa do Hội đồng Chính phủ ban hành]</ref>.
+
+Ngày [[27 tháng 12]] năm [[1975]], tỉnh Yên Bái hợp nhất với 2 tỉnh [[Lào Cai]] và [[Nghĩa Lộ (tỉnh)|Nghĩa Lộ]] thành [[Hoàng Liên Sơn (tỉnh)|tỉnh Hoàng Liên Sơn]].<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-hop-nhat-mot-so-tinh-42732.aspx|tựa đề=Nghị quyết về việc hợp nhất một số tỉnh do Quốc hội ban hành|url-status=live}}</ref>
+
+Ngày [[12 tháng 8]] năm [[1991]], tỉnh Hoàng Liên Sơn chia lại thành 2 tỉnh Lào Cai và Yên Bái. Tỉnh Yên Bái bị tái lập, gồm [[Yên Bái (thành phố)|thị xã Yên Bái]] và 7 huyện: [[Lục Yên]], [[Mù Cang Chải]], [[Trạm Tấu]], [[Trấn Yên]], [[Văn Chấn]], [[Văn Yên]], [[Yên Bình]]<ref>[http://thuvienphapluat.vn/archive/Nghi-quyet/Nghi-quyet-dieu-chinh-dia-gioi-hanh-chinh-mot-so-tinh-thanh-pho-truc-thuoc-Trung-uong-vb42808t13.aspx Nghị quyết về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương do Quốc hội ban hành]</ref> (riêng hai huyện [[Bảo Yên]] và [[Văn Bàn]] lúc này thuộc tỉnh Lào Cai).
+
+Ngày [[15 tháng 5]] năm [[1995]], tái lập thị xã [[Nghĩa Lộ]] trên cơ sở điều chỉnh 1 phần diện tích tự nhiên và dân số của huyện [[Văn Chấn]].<ref>[http://thuvienphapluat.vn/archive/Nghi-dinh/Nghi-dinh-31-CP-thanh-lap-thi-xa-nghia-lo-va-dieu-chinh-dia-gioi-hanh-chinh-giua-thi-xa-nghia-lo-va-huyen-van-chan-thuoc-tinh-Yen-Bai-vb39482t11.aspx Nghị định 31-CP năm 1995 về việc thành lập thị xã Nghĩa Lộ và điều chỉnh địa giới hành chính giữa thị xã Nghĩa Lộ và huyện Văn Chấn thuộc tỉnh Yên Bái]</ref>
+
+Ngày [[11 tháng 1]] năm [[2002]], chuyển thị xã Yên Bái thành [[Yên Bái (thành phố)|thành phố Yên Bái]].<ref>[http://thuvienphapluat.vn/archive/Nghi-dinh/Nghi-dinh-05-2002-ND-CP-thanh-lap-thanh-pho-Yen-Bai-thuoc-tinh-Yen-Bai-vb7298t11.aspx Nghị định 05/2002/NĐ-CP về việc thành lập thành phố Yên Bái thuộc tỉnh Yên Bái]</ref>
+
+==Kinh tế==
+Năm 2018, Yên Bái là đơn vị hành chính [[Việt Nam]] đông thứ 50 về số dân, [[Danh sách đơn vị hành chính Việt Nam theo GRDP|xếp thứ 56]] về [[Tổng sản phẩm trên địa bàn (GRDP)]], [[Danh sách đơn vị hành chính Việt Nam theo GRDP bình quân đầu người|xếp thứ 57]] về [[Tổng sản phẩm trên địa bàn (GRDP)|GRDP]] bình quân đầu người, [[Danh sách đơn vị hành chính Việt Nam theo GRDP|đứng thứ 60]] về tốc độ tăng trưởng [[Tổng sản phẩm trên địa bàn (GRDP)|GRDP]]. Với 815.600 người dân,<ref>{{Chú thích web|url=https://www.gso.gov.vn/default.aspx?tabid=714|title=Dân số các tỉnh Việt Nam năm 2018|last=|first=|date=|website=Tổng cục Thống kê Việt Nam|archive-url=|archive-date=|url-status=|access-date =Ngày 30 tháng 9 năm 2019}}</ref> GRDP đạt 27.404 tỉ [[Đồng (đơn vị tiền tệ)|Đồng]] (tương ứng với 1,18 tỉ USD), GRDP bình quân đầu người đạt 33,6 triệu đồng (tương ứng với 1.459 USD), tốc độ tăng trưởng GRDP đạt 6,31%.<ref name=":016">{{Chú thích web|url=http://www.yenbai.gov.vn/noidung/tintuc/Pages/chi-tiet-tin-tuc.aspx?ItemID=14&l=Solieuthongke|title=Tình hình kinh tế, xã hội Yên Bái năm 2018|last=|first=|date=|website=Cục Thống kê tỉnh Yên Bái|archive-url=https://web.archive.org/web/20210301164707/https://www.yenbai.gov.vn/noidung/tintuc/Pages/chi-tiet-tin-tuc.aspx?ItemID=14&l=Solieuthongke|archive-date=2021-03-01|url-status=dead|access-date=Ngày 12 tháng 10 năm 2019}}</ref>
+
+==Văn hóa==
+[[Tập tin:Muong Lo, Nghia Lo market.jpg|nhỏ|[[Thổ cẩm]] bán trong chợ Mường Lò, [[Nghĩa Lộ]]]]
+
+Tính đến ngày [[1 tháng 4]] năm [[2019]], tỉnh có 7 [[tôn giáo]] khác nhau đạt 61.973 người, nhiều nhất là [[Công giáo tại Việt Nam|Công giáo]] có 58.145 người, tiếp theo là [[Phật giáo Việt Nam|Phật giáo]] đạt 2.996 người, [[Kháng Cách|đạo Tin Lành]] có 826 người. Còn lại các tôn giáo khác như [[đạo Cao Đài]] có 3 người, [[Phật giáo Hòa Hảo]] và [[Tịnh độ cư sĩ Phật hội Việt Nam]] mỗi tôn giáo có 1 người.<ref name="dstcdtvn">[http://www.gso.gov.vn/Modules/Doc_Download.aspx?DocID=12724 Kết quả toàn bộ Tổng điều tra Dân số và Nhà ở Việt Nam năm 2009], Tổng cục Thống kê Việt Nam.</ref>
+
+==Chú thích==
+{{tham khảo|30em}}
+
+==Tham khảo==
+{{Thể loại Commons|Yen Bai}}
+{{Sơ khai Yên Bái}}
+{{Đơn vị hành chính cấp tỉnh Việt Nam}}
+[[Thể loại:Yên Bái]]
+[[Thể loại:Tỉnh của Việt Nam]]
+[[Thể loại:Tây Bắc Bộ]]

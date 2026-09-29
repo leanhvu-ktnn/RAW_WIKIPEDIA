@@ -1,0 +1,25 @@
+{
+  "request_url": "https://vi.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&inprop=url&maxlag=5&ppprop=wikibase_item%7Cdisambiguation&prop=info%7Cpageprops&redirects=1&titles=Kh%C3%A1nh+H%C3%B2a%7CKh%C3%A1nh+H%C3%B2a+%28t%E1%BB%89nh%29%7CKh%C3%A1nh+H%C3%B2a+%28t%E1%BB%89nh+c%C5%A9%29%7CKh%C3%A1nh+H%C3%B2a+%28tr%C6%B0%E1%BB%9Bc+2025%29",
+  "params": {
+    "format": "json",
+    "formatversion": "2",
+    "maxlag": 5,
+    "action": "query",
+    "titles": "Khánh Hòa|Khánh Hòa (tỉnh)|Khánh Hòa (tỉnh cũ)|Khánh Hòa (trước 2025)",
+    "redirects": 1,
+    "prop": "info|pageprops",
+    "inprop": "url",
+    "ppprop": "wikibase_item|disambiguation"
+  },
+  "retrieved_at": "2026-09-29T15:26:26.694529Z",
+  "http_status": 200,
+  "headers": {
+    "date": "Tue, 29 Sep 2026 15:26:26 GMT",
+    "content-type": "application/json; charset=utf-8"
+  },
+  "path": "sources/responses/7767c699689d886c1af7f16af7beef2ff110acc67cf7f7f9a45ff7221b110c9b.json",
+  "sha256": "7767c699689d886c1af7f16af7beef2ff110acc67cf7f7f9a45ff7221b110c9b",
+  "byte_length": 1471,
+  "media_type": "application/json",
+  "representation": "unmodified MediaWiki HTTP response body bytes"
+}

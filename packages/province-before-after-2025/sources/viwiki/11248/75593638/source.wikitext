@@ -1,0 +1,719 @@
+{{Nhiều vấn đề|
+{{Chú thích trong bài|date=tháng 4/2024}}
+{{Toàn URL|date=tháng 4/2024}}
+}}
+{{Other|Sóc Trăng (định hướng)}}
+{{Thông tin đơn vị hành chính Việt Nam | Tỉnh
+| tên = Sóc Trăng
+| tên cũ = [[Ba Xuyên]], Nguyệt Giang, [[Hậu Giang]]
+| tên khác = Đất Sóc
+| biệt danh = *Xứ kho bạc
+*Quê hương của bánh Pía
+*Con rồng thứ 9 của sông Cửu Long
+*Xứ sở chùa vàng của Việt Nam
+*Vùng đất đa văn hóa
+*Vùng đất tâm linh
+| logo = Logo tỉnh Sóc Trăng.svg
+| ghi chú logo = Biểu trưng
+| nhiều hình = {{multiple image
+| border = infobox
+| total_width = 280
+| image_style = border:1;
+| perrow = 1/2
+| image1 = Chùa Khléang.jpg
+| image2 = }}
+| ghi chú hình = Một ngôi chùa tại thành phố Sóc Trăng
+| kinh độ = 105.9
+| vĩ độ = 9.6
+<!-- Bản đồ Việt Nam thiếu hai quần đảo Hoàng Sa và Trường Sa-->
+| diện tích = 3.298,20 km²<ref name=TT/>
+| dân số = 1.703.286 người<ref name=TT/>
+| thời điểm dân số = 31/12/2024
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:1.703.286|R}}/{{formatnum:3.298,20|R}})}} }} người/km²
+| dân tộc = [[Người Việt|Kinh]], [[Người Hoa (Việt Nam)|Hoa]], [[Người Khmer (Việt Nam)|Khmer]],...
+| vùng = [[Đồng bằng sông Cửu Long]]
+| tỉnh lỵ = Thành phố [[Sóc Trăng (thành phố)|Sóc Trăng]]
+| thành lập = 1/1/1900
+| giải thể = 12/6/2025<ref name="202/2025/QH15"/>
+| phân chia hành chính = 1 thành phố, 2 thị xã, 8 huyện
+| trụ sở UBND = Số 1, Châu Văn Tiếp, [[Phú Lợi, Cần Thơ|phường 2]], thành phố [[Sóc Trăng (thành phố)|Sóc Trăng]]
+| đại biểu quốc hội = 
+*[[Nguyễn Xuân Dắt]]
+*[[Triệu Thị Ngọc Diễm]]
+*[[Thượng tọa Lý Minh Đức]]
+*[[Phạm Thị Minh Huệ]]
+*[[Lâm Văn Mẫn]]
+*[[Hoàng Thanh Tùng (chính khách)|Hoàng Thanh Tùng]]
+*[[Tô Ái Vang]]
+| chủ tịch UBND = [[Trần Văn Lâu]]
+| hội đồng nhân dân = 52 đại biểu
+| chủ tịch HĐND = [[Hồ Thị Cẩm Đào]]
+| chủ tịch UBMTTQ = Dương Sà Kha
+| chánh án TAND = [[Thái Rết]]
+| viện trưởng VKSND = [[Đinh Gia Hưng]]
+| bí thư = [[Lâm Văn Mẫn]]
+| thời điểm kinh tế = 2024
+| GRDP = 80.147.270 triệu đồng<ref name=TT/>
+| GRDP đầu người = 51,6 triệu đồng<ref name=TT/>
+| mã địa lý = [[ISO 3166-2:VN|VN-52]]
+| mã hành chính = 94<ref name=DVHC>{{Chú thích web |url=https://danhmuchanhchinh.gso.gov.vn/ |title=Tổng cục Thống kê |access-date=2022-04-10 |archive-date=2021-01-10 |archive-url=https://web.archive.org/web/20210110034519/https://www.gso.gov.vn/phuong-phap-thong-ke/danh-muc/don-vi-hanh-chinh/ |url-status=dead }}</ref>
+| mã bưu chính = [[Mã bưu chính Việt Nam|95xxxx]]
+| mã điện thoại = [[Mã điện thoại Việt Nam|299]]
+| biển số xe = [[Biển xe cơ giới Việt Nam|83]]
+| web = 
+}}
+'''Sóc Trăng''' là một [[Tỉnh (Việt Nam)|tỉnh]] [[ven biển]] cũ thuộc vùng [[Đồng bằng sông Cửu Long]], [[Việt Nam]] (nay là một phần của thành phố [[Cần Thơ]]).
+
+==Nguồn gốc tên gọi==
+Tên gọi Sóc Trăng do từ ''Srok Khleang'' (ស្រុកឃ្លាំង [srok kʰlĕəŋ]) của [[tiếng Khmer]] mà ra. ''Srok'' (ស្រុក [srok]) tức là "xứ", "cõi", ''Khleang'' (ឃ្លាំង [kʰlĕəŋ]) là "kho", "vựa", "chỗ chứa bạc". ''Srok Khleang'' mang ý nghĩa là xứ có kho chứa bạc của nhà vua. [[Tiếng Việt]] phiên âm ra là "Sóc-Kha-Leng" rồi sau đó thành Sóc Trăng. Dưới triều [[Minh Mạng]], Sóc Trăng đổi thành ''Sông Trăng'', dịch theo [[Chữ Hán|Hán tự]] là ''Nguyệt Giang'' (月江), nên Sóc Trăng gọi là ''Nguyệt Giang tỉnh''.<ref>Nguồn: [http://tintuchatinh.com/doanhnghiep/?detail=2731/uy-ban-nhan-dan-tinh-soc-trang]{{Liên kết hỏng|date=ngày 3 tháng 7 năm 2021|bot=InternetArchiveBot}}.</ref><ref>{{Chú thích web|url=https://sovhttdl.soctrang.gov.vn/mDefault.aspx?sname=svhttdl&sid=1294&pageid=2660&catid=65022&catname=Tong-quan-Soc-Trang#:~:text=Theo%20c%C3%A1c%20nh%C3%A0%20nghi%C3%AAn%20c%E1%BB%A9u,%C4%91%C3%B3%20%C4%91%E1%BB%8Dc%20th%C3%A0nh%20S%C3%B3c%20Tr%C4%83ng.|website=sovhttdl.soctrang.gov.vn|ngày truy cập=2022-01-27|tiêu đề=TỔNG QUAN SÓC TRĂNG 01/06/2010|archive-date=2022-01-27|archive-url=https://web.archive.org/web/20220127073719/https://sovhttdl.soctrang.gov.vn/mDefault.aspx?sname=svhttdl&sid=1294&pageid=2660&catid=65022&catname=Tong-quan-Soc-Trang#:~:text=Theo%20c%C3%A1c%20nh%C3%A0%20nghi%C3%AAn%20c%E1%BB%A9u,%C4%91%C3%B3%20%C4%91%E1%BB%8Dc%20th%C3%A0nh%20S%C3%B3c%20Tr%C4%83ng.|url-status=dead}}</ref>
+
+Đại Nam nhất thống chí viết về sông Ba Xuyên thuộc địa bàn tỉnh [[An Giang]] [[nhà Nguyễn]] như sau: {{quote|''"... Sông Ba Xuyên ở phía Nam hạ lưu [[sông Hậu|sông Hậu Giang]], cách huyện Vĩnh Định 8 dặm về phía Bắc, trước là sông Ba Thắc, rộng 15 trượng sâu 8 thước, đi về phía Nam 15 dặm, đổ ra cửa biển Ba Xuyên, đi về phía Tây 60 dặm đến trường Tàu, tức là chỗ tàu biển đỗ. Ở đây [[người Hoa|người Trung Quốc]] và [[người Khmer|người Cao Miên]] ở lẫn lộn, chợ phố liên tiếp, lại 65 dặm đến ngã ba sông Nguyệt, tục gọi là Sóc Trăng,... Năm [[Kỷ Dậu]] (1789) hồi đầu thời trung hưng đặt bảo Trấn Di ở phía Bắc sông Ba Thắc, tức sông này."''<ref>Đại Nam nhất thống chí, quyển 30, tỉnh An Giang, trang</ref>}}
+
+Theo vài ý kiến khác:
+ 
+- Theo Lê Hương tên gọi Sóc Trăng đọc trại từ ''Srok Tréang'' trong tiếng Khmer, có nghĩa là "vùng đất lau sậy" hay "Bãi Sậy". Lí do là vì xưa kia lau sậy hoang mọc nhiều ở vùng này.<ref>{{Chú thích web|url=https://baosoctrang.org.vn/van-hoa-the-thao/dia-danh-soc-trang-23053.html|tựa đề=Địa danh Sóc Trăng|website=Báo Sóc Trăng|ngày truy cập=2022-01-24|ngày lưu trữ=2022-01-24|archive-url=https://web.archive.org/web/20220124125133/https://www.baosoctrang.org.vn/van-hoa-the-thao/dia-danh-soc-trang-23053.html|url-status=dead}}</ref>
+
+- Theo Triều Dương (một học giả ở địa phương) thì đó là cách gọi dựa trên sự kết hợp tự nguyện và đồng thuận giữa người khmer và người kinh, giữa cái cũ và cái mới. Bởi nơi đây tên cũ là Sóc-Kh-Leng từ lúc Minh Mạng tiếp quản vùng này có thêm tên mới là Sông Trăng. Người ta gọi tên cũ lẫn tên mới thành Sóc-kh-leng_Sông-Trăng... sau đó vì thấy dài, người ta gọi ngắn gọn lại thành Sóc Trăng.
+
+== Địa lý ==
+=== Vị trí địa lý ===
+Tỉnh Sóc Trăng nằm ở cửa Nam [[sông Hậu]], cách [[Thành phố Hồ Chí Minh]] khoảng 231&nbsp;km, cách [[Cần Thơ]] 62&nbsp;km, nằm trên tuyến [[Quốc lộ 1]] nối liền thành phố [[Cần Thơ]] và các tỉnh [[Hậu Giang]], [[Bạc Liêu (tỉnh)|Bạc Liêu]], [[Cà Mau]]. Tỉnh Sóc Trăng có vị trí tọa độ 9<sup>0</sup>12' - 9<sup>0</sup>56' vĩ Bắc và 105<sup>0</sup>33' - 106<sup>0</sup>23' kinh Đông. Đường bờ biển dài 72&nbsp;km và 3 cửa sông lớn là [[Định An]], [[Trần Đề]], [[sông Mỹ Thanh|Mỹ Thanh]] đổ ra [[Biển Đông]]. Tỉnh Sóc Trăng có vị trí địa lý:
+*Phía đông và đông nam giáp [[Biển Đông]]
+*Phía đông bắc giáp các tỉnh [[Trà Vinh (tỉnh)|Trà Vinh]] và [[Vĩnh Long]]
+*Phía tây nam giáp tỉnh [[Bạc Liêu (tỉnh)|Bạc Liêu]]
+*Phía bắc và tây bắc giáp tỉnh [[Hậu Giang]].
+
+'''Các điểm cực của tỉnh Sóc Trăng''':
+* Điểm cực Bắc tại: xã [[An Lạc Thôn|Xuân Hòa]], huyện [[Kế Sách (huyện)|Kế Sách]]
+* Điểm cực Nam tại: xã [[Lai Hòa]], thị xã [[Vĩnh Châu (thị xã)|Vĩnh Châu]]
+* Điểm cực Tây tại: xã [[Vĩnh Quới]], thị xã [[Ngã Năm (thị xã)|Ngã Năm]]
+* Điểm cực Đông tại: xã [[Cù Lao Dung (xã)|An Thạnh 3]], huyện [[Cù Lao Dung (huyện)|Cù Lao Dung]].<ref>{{Chú thích web|url=http://sachbaovn.vn:80/doc-truc-tuyen/sach/dia-li-dia-phuong-soc-trang-(tai-lieu-day-hoc-tai-cac-truong-thcs-va-thpt-thuoc-tinh-soc-trang)-MUMwOTQ0Mjg|tựa đề= Địa lí địa phương Sóc Trăng (Tài liệu dạy – học tại các trường THCS và THPT thuộc tỉnh Sóc Trăng |tác giả=|ngày= 2025-00-00 |website= Sách báo VN |url lưu trữ=https://web.archive.org/web/20230407113315/http://sachbaovn.vn/doc-truc-tuyen/sach/dia-li-dia-phuong-soc-trang-(tai-lieu-day-hoc-tai-cac-truong-thcs-va-thpt-thuoc-tinh-soc-trang)-MUMwOTQ0Mjg|ngày lưu trữ= 2023-04-07 |ngày truy cập= 2023-04-07 |url-status= dead }}</ref>
+
+===Địa hình===
+Địa hình trong tỉnh Sóc Trăng thấp và tương đối bằng phẳng, có dạng lòng chảo, cao ở phía [[sông Hậu]] và [[biển Đông]] thấp dần vào trong, vùng thấp nhất là [[hướng Tây|phía Tây]] và [[Hướng Tây Bắc|Tây Bắc]], với Độ cao cốt đất tuyệt đối từ 0,4 - 1,5m, độ dốc thay đổi khoảng 45&nbsp;cm/km [[chiều dài]]. Tiểu địa hình có dạng gợn sóng không đều, xen kẽ là những giồng cát địa hình tương đối cao và những vùng thấp trũng nhiễm mặn, phèn. Sóc Trăng có hệ thống kinh rạch chịu ảnh hưởng của chế độ thủy triều ngày lên xuống 2 lần, mực triều dao động trung bình từ 0,4 m đến 1 m. Thủy triều vùng biển gắn liền với các hoạt động [[sản xuất]], sinh hoạt của cư dân địa phương, đồng thời còn mang lại nhiều điều kỳ thú cho du khách khi đến tham quan, [[du lịch]] và tìm hiểu [[hệ sinh thái]] rừng tự nhiên.<ref name=SOCTRANG2018/>
+
+===Khí hậu===
+Sóc Trăng nằm trong vùng khí hậu nhiệt đới gió mùa chịu ảnh hưởng gió mùa, chia thành mùa là mùa khô và mùa mưa, trong đó:
+*Mùa mưa bắt đầu từ tháng 5 đến tháng 10
+*Mùa khô kéo dài từ tháng 11 đến tháng 4 năm sau
+*Nhiệt độ trung bình hàng năm khoảng 27,0&nbsp;°C, ít khi bị bão lũ
+*Lượng mưa trung bình trong năm là 1.864&nbsp;mm, tập trung chủ yếu vào các tháng 8, 9, 10
+*Độ ẩm trung bình là 83%.
+
+Các điều kiện khí hậu như trên thuận lợi phát triển trồng cây lúa và các loại hoa màu khác.<ref name=SOCTRANG2018/>
+
+===Sông ngòi===
+[[Tập tin:Sông Masepo, TP.Sóc Trăng.jpg|phải|nhỏ|250x250px|Sông Nguyệt (sông Maspero) thành phố Sóc Trăng]]
+
+Sóc Trăng có hệ thống kênh rạch chịu ảnh hường của chế độ thủy triều ngày lên xuống 2 lần, mực triều dao động trung bình từ 0,4 m đến 1 m. Thủy triều vùng biển không những gắn liền với các hoạt động sản xuất, sinh hoạt của cư dân địa phương, mà còn mang lại nhiều điều kỳ thú cho du khách khi đến tham quan, du lịch và tìm hiểu hệ sinh thái rừng tự nhiên.
+
+Nhờ vào địa thế đặc biệt, nơi dòng sông Hậu đổ ra biển Đông, vùng có nhiều trữ lượng tôm cá, Sóc Trăng có đủ điều kiện thuận lợi để cũng như phát triển kinh tế biển tổng hợp.<ref name=SOCTRANG2018/>
+
+===Tài nguyên đất===
+Đất đai của Sóc Trăng có độ màu mỡ cao, thích hợp cho việc phát triển cây lúa nước, cây công nghiệp ngắn ngày như: mía, đậu nành, bắp,... các loại rau màu như: hành, tỏi,... các loại cây ăn trái như: bưởi, xoài, sầu riêng,...
+
+Hiện đất nông nghiệp chiếm 82,89%, trong đó:
+*Đất sản xuất nông nghiệp chiếm 62,13%
+*Đất lâm nghiệp có rừng 11.356 ha chiếm 3,43%
+*Đất nuôi trồng thủy sản 54.373 ha chiếm 16,42%
+*Đất làm muối và đất nông nghiệp khác chiếm 0,97%.
+
+Đất nông nghiệp trong địa bàn tỉnh chủ yếu sử dụng cho canh tác lúa, cây hàng năm khác và diện tích đất còn lại dùng trồng cây lâu năm và cây ăn trái, ngoài ra cũng có nhiều diện tích đất tự nhiên chưa được sử dụng. Đất đai tại Sóc Trăng có thể chia thành 4 nhóm chính: nhóm đất cát, nhóm đất phù sa, nhóm đất mặn, nhóm đất nhân tác.
+
+Điều kiện tự nhiên trong địa bàn tỉnh nhìn chung cũng đang gặp phải khó khăn như thiếu nước ngọt và bị xâm nhập mặn trong [[Mùa khô]], một số khu vực bị nhiễm phèn, nhưng việc sử dụng đất ở Sóc Trăng lại có nhiều thuận lợi cơ bản để phát triển nông, [[ngư nghiệp]] đa dạng và trên cơ sở đó hình thành những khu [[du lịch sinh thái]] phong phú. Đặc biệt, Sóc Trăng còn có dải [[cù lao]] thuộc huyện [[Kế Sách (huyện)|Kế Sách]], [[Long Phú (huyện)|Long Phú]] và [[Cù Lao Dung (huyện)|Cù Lao Dung]] chạy dài ra tận cửa biển với nhiều cây trái [[nhiệt đới]], không khí trong lành như cồn Mỹ Phước, Khu du lịch Song Phụng, [[Cù Lao Dung (huyện)|Cù Lao Dung]],... là địa điểm lý tưởng để phát triển loại hình du lịch sinh thái.<ref name=SOCTRANG2018/>
+
+===Tài nguyên rừng===
+Sóc Trăng còn có nguồn [[tài nguyên]] rừng với các loại cây chính như [[Chi Tràm|Tràm]], [[Chi Bần|bần]], [[giá]], [[bộ Vẹt|vẹt]], đước, [[dừa nước]]. Rừng của Sóc Trăng thuộc hệ rừng ngập mặn ven biển và rừng tràm ở khu vực đất nhiễm phèn.
+
+===Tài nguyên biển===
+Sóc Trăng còn có 72&nbsp;km bờ biển với 2 cửa sông lớn là [[sông Hậu]] và sông Mỹ Thanh, có nguồn hải sản đáng kể bao gồm cá đáy, cá nổi và tôm. Sóc Trăng có nhiều thuận lợi trong phát triển [[kinh tế]] biển tổng hợp, thủy hải sản, nông - lâm nghiệp biển, [[công nghiệp]] hướng biển, thương cảng, cảng cá, [[dịch vụ]] [[cảng|cảng biển]], xuất nhập khẩu, [[du lịch]] và [[vận tải]] biển.<ref name=SOCTRANG2018>{{Chú thích web|url=https://soctrang.gov.vn/mDefault.aspx?sname=ubnd-stg&sid=4&pageid=5&catid=54255&id=266214&catname=%u0110i%u1ec1u+ki%u1ec7n+t%u1ef1+nhi%u00ean&title=dieu-kien-tu-nhien|tựa đề=Điều kiện tự nhiên tỉnh Sóc Trăng|ngày=28 tháng 6 năm 2018|website=Cổng thông tin điện tử tỉnh Sóc Trăng|url-status=live}}</ref>
+
+==Hành chính==
+Tỉnh Sóc Trăng có 11 đơn vị hành chính cấp huyện, bao gồm 1 [[Thành phố trực thuộc tỉnh|thành phố]], 2 [[thị xã]] và 8 [[huyện]] với 108 đơn vị hành chính cấp xã, bao gồm 16 [[Phường (Việt Nam)|phường]], 12 [[Thị trấn (Việt Nam)|thị trấn]] và 80 [[Xã (Việt Nam)|xã]].<ref name="1105/NQ-UBTVQH15">{{Chú thích web|url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=88337|tựa đề= Nghị quyết số 1105/NQ-UBTVQH15 năm 2024 về việc sắp xếp đơn vị hành chính cấp xã giai đoạn 2023 – 2025 của tỉnh Sóc Trăng |tác giả=|ngày= 2024-07-23 |website= Cổng thông tin điện tử Quốc hội Việt Nam |url lưu trữ=https://web.archive.org/web/20240731105606/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=88337|ngày lưu trữ= 2024-07-31 |ngày truy cập= 2024-07-31 |url-status=dead}}</ref>
+<center>
+{{Location mark+
+ | width = 450
+ | image = soctrang_prov_admin_map.jpg
+ | caption = Bản đồ hành chính tỉnh Sóc Trăng
+ | type = 
+ | float = none
+ | marks =
+ {{Location mark~
+ | label = '''[[Sóc Trăng (thành phố)|TP.Sóc Trăng]]'''
+ | position = top
+ | width = 450
+ | mark = Blanksvg.svg
+ | x = 542 | y = 461 }}
+ {{Location mark~
+ | label = '''''[[Ngã Năm (thị xã)|TX.Ngã Năm]]'''''
+ | position = top
+ | width = 450
+ | mark = Blanksvg.svg
+ | x = 103 | y = 547 }}
+ {{Location mark~
+ | label = '''''[[Vĩnh Châu (thị xã)|TX.Vĩnh Châu]]'''''
+ | position = top
+ | width = 450
+ | mark = Blanksvg.svg
+ | x = 569 | y = 784 }}
+ {{Location mark~
+ | label = ''[[Thạnh Trị (huyện)|H.Thạnh Trị]]''
+ | position = top
+ | width = 450
+ | mark = Blanksvg.svg
+ | x = 216 | y = 649 }}
+ {{Location mark~
+ | label = ''[[Mỹ Xuyên (huyện)|H.Mỹ Xuyên]]''
+ | position = top
+ | width = 450
+ | mark = Blanksvg.svg
+ | x = 440 | y = 645 }}
+ {{Location mark~
+ | label = ''[[Trần Đề (huyện)|H.Trần Đề]]''
+ | position = top
+ | width = 450
+ | mark = Blanksvg.svg
+ | x = 709 | y = 618 }}
+ {{Location mark~
+ | label = ''[[Cù Lao Dung (huyện)|H.Cù Lao Dung]]''
+ | position = top
+ | width = 450
+ | mark = Blanksvg.svg
+ | x = 804 | y = 462 }}
+ {{Location mark~
+ | label = ''[[Long Phú (huyện)|H.Long Phú]]''
+ | position = top
+ | width = 450
+ | mark = Blanksvg.svg
+ | x = 651 | y = 383 }}
+ {{Location mark~
+ | label = ''[[Kế Sách (huyện)|H.Kế Sách]]''
+ | position = top
+ | width = 450
+ | mark = Blanksvg.svg
+ | x = 485 | y = 212 }}
+ {{Location mark~
+ | label = ''[[Châu Thành (huyện Sóc Trăng)|H.Châu Thành]]''
+ | position = top
+ | width = 450
+ | mark = Blanksvg.svg
+ | x = 460 | y = 376 }}
+ {{Location mark~
+ | label = ''[[Mỹ Tú (huyện)|H.Mỹ Tú]]''
+ | position = top
+ | width = 450
+ | mark = Blanksvg.svg
+ | x = 310 | y = 458 }}
+{{Location mark~
+ | label = [[Bạc Liêu (tỉnh)|T. Bạc Liêu]]
+ | position = top
+ | width = 450
+ | mark = Blanksvg.svg
+ | x = 134 | y = 827 }}
+{{Location mark~
+ | label = [[Hậu Giang|T. Hậu Giang]]
+ | position = top
+ | width = 450
+ | mark = Blanksvg.svg
+ | x = 212 | y = 264 }}
+{{Location mark~
+ | label = [[Vĩnh Long|T. Vĩnh Long]]
+ | position = top
+ | width = 450
+ | mark = Blanksvg.svg
+ | x = 510 | y = 64 }}
+{{Location mark~
+ | label = [[Trà Vinh (tỉnh)|T. Trà Vinh]]
+ | position = top
+ | width = 450
+ | mark = Blanksvg.svg
+ | x = 873 | y = 242 }}
+}}
+'''''Bản đồ hành chính tỉnh Sóc Trăng'''''
+</center>
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! style="background: #E6E6FA; font-size: 95%;" | Danh sách các đơn vị hành chính trực thuộc tỉnh Sóc Trăng
+|-
+| valign="top" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Diện tích năm 2024 (km²)
+! style="border-bottom: 2px solid #CCCCFF;" |Dân số năm 2024 (người) 
+! style="border-bottom: 2px solid #CCCCFF;" |Mật độ dân số (người/km²)
+! style="border-bottom: 2px solid #CCCCFF;" |Hành chính
+! style="border-bottom: 2px solid #CCCCFF;" |Năm thành lập
+! style="border-bottom: 2px solid #CCCCFF;" |Loại đô thị
+! style="border-bottom: 2px solid #CCCCFF;" |Năm công nhận
+|-
+| colspan="9" align="left" style="background: #F5F5DC; padding-left: 30px;" |'''[[Thành phố thuộc tỉnh (Việt Nam)|Thành phố]] (1)'''
+|-
+| align="left" style="padding-left: 6px; white-space:nowrap" |[[Sóc Trăng (thành phố)|Sóc Trăng]]
+| style="text-align: center;" |76,00
+| style="text-align: center;" |163.735
+| style="text-align: center;" |{{formatnum:{{#expr:floor({{formatnum:163.735|R}}/{{formatnum:76,00|R}})}} }}
+| style="text-align: center;" |9 phường
+| style="text-align: center;" |2007
+| style="text-align: center;" |[[Đô thị loại II (Việt Nam)|Loại II]]
+| style="text-align: center;" |2022
+|-
+| colspan="9" align="left" style="background: #F5F5DC; padding-left: 30px;" |'''[[Thị xã (Việt Nam)|Thị xã]] (2)'''
+|-
+| align="left" style="padding-left: 6px; white-space:nowrap" |[[Ngã Năm (thị xã)|Ngã Năm]]
+| style="text-align: center;" |241,94
+| style="text-align: center;" |109.747
+| style="text-align: center;" |{{formatnum:{{#expr:floor({{formatnum:109.747|R}}/{{formatnum:241,94|R}})}} }}
+| style="text-align: center;" |3 phường, 5 xã
+| style="text-align: center;" |2013
+| style="text-align: center;" |[[Đô thị loại IV (Việt Nam)|Loại IV]]
+| style="text-align: center;" |2010
+|-
+| align="left" style="padding-left: 6px; white-space:nowrap" |[[Vĩnh Châu (thị xã)|Vĩnh Châu]]
+| style="text-align: center;" |471,01
+| style="text-align: center;" |215.214
+| style="text-align: center;" |{{formatnum:{{#expr:floor({{formatnum:215.214|R}}/{{formatnum:471,01|R}})}} }}
+| style="text-align: center;" |4 phường, 6 xã
+| style="text-align: center;" |2011
+| style="text-align: center;" |[[Đô thị loại IV (Việt Nam)|Loại IV]]
+| style="text-align: center;" |2010
+|-
+| colspan="8" align="left" style="background: #F5F5DC; padding-left: 30px;" |'''[[Huyện]] (8)'''
+|-
+| align="left" style="padding-left: 6px; white-space:nowrap" |[[Châu Thành (huyện Sóc Trăng)|Châu Thành]]
+| style="text-align: center;" |236,16
+| style="text-align: center;" |134.667
+| style="text-align: center;" |{{formatnum:{{#expr:floor({{formatnum:134.667|R}}/{{formatnum:236,16|R}})}} }}
+| style="text-align: center;" |1 thị trấn, 7 xã
+| style="text-align: center;" |2008
+| style="text-align: center;" |
+| style="text-align: center;" |
+|- bgcolor="#f5f5f5"
+| align="left" style="padding-left: 6px; white-space:nowrap" |[[Cù Lao Dung (huyện)|Cù Lao Dung]]
+| style="text-align: center;" |245,05
+| style="text-align: center;" |82.684
+| style="text-align: center;" |{{formatnum:{{#expr:floor({{formatnum:82.684|R}}/{{formatnum:245,05|R}})}} }}
+| style="text-align: center;" |1 thị trấn, 7 xã
+| style="text-align: center;" |2002
+| 
+| 
+|-
+| align="left" style="padding-left: 6px; white-space:nowrap" |[[Kế Sách (huyện)|Kế Sách]]
+| style="text-align: center;" |353,26
+| style="text-align: center;" |214.298
+| style="text-align: center;" |{{formatnum:{{#expr:floor({{formatnum:214.298|R}}/{{formatnum:353,26|R}})}} }}
+| style="text-align: center;" |2 thị trấn, 11 xã
+| style="text-align: center;" |1906
+| style="text-align: center;" |
+| style="text-align: center;" |
+|- bgcolor="#f5f5f5"
+| align="left" style="padding-left: 6px; white-space:nowrap" |[[Long Phú (huyện)|Long Phú]]
+| style="text-align: center;" |250,83
+| style="text-align: center;" |143.938
+| style="text-align: center;" |{{formatnum:{{#expr:floor({{formatnum:143.938|R}}/{{formatnum:250,83|R}})}} }}
+| style="text-align: center;" |2 thị trấn, 9 xã
+| style="text-align: center;" |1926
+| style="text-align: center;" |
+| style="text-align: center;" |
+|-
+| align="left" style="padding-left: 6px; white-space:nowrap" |[[Mỹ Tú (huyện)|Mỹ Tú]]
+| style="text-align: center;" |341,87
+| style="text-align: center;" |146.579
+| style="text-align: center;" |{{formatnum:{{#expr:floor({{formatnum:146.579|R}}/{{formatnum:341,87|R}})}} }}
+| style="text-align: center;" |1 thị trấn, 8 xã
+| style="text-align: center;" |1976
+| style="text-align: center;" |
+| style="text-align: center;" |
+|-
+| align="left" style="padding-left: 6px; white-space:nowrap" |[[Mỹ Xuyên (huyện)|Mỹ Xuyên]]
+| style="text-align: center;" |309,85
+| style="text-align: center;" |195.034
+| style="text-align: center;" |{{formatnum:{{#expr:floor({{formatnum:195.034|R}}/{{formatnum:309,85|R}})}} }}
+| style="text-align: center;" |1 thị trấn, 10 xã
+| style="text-align: center;" |1976
+| style="text-align: center;" |
+| style="text-align: center;" |
+|-
+| align="left" style="padding-left: 6px; white-space:nowrap" |[[Thạnh Trị (huyện)|Thạnh Trị]]
+| style="text-align: center;" |247,80
+| style="text-align: center;" |121.827
+| style="text-align: center;" |{{formatnum:{{#expr:floor({{formatnum:121.827|R}}/{{formatnum:247,80|R}})}} }}
+| style="text-align: center;" |2 thị trấn, 8 xã
+| style="text-align: center;" |1976
+| style="text-align: center;" |
+| style="text-align: center;" |
+|-
+| align="left" style="padding-left: 6px; white-space:nowrap" |[[Trần Đề (huyện)|Trần Đề]]
+| style="text-align: center;" |334,97
+| style="text-align: center;" |175.563
+| style="text-align: center;" |{{formatnum:{{#expr:floor({{formatnum:175.563|R}}/{{formatnum:334,97|R}})}} }}
+| style="text-align: center;" |2 thị trấn, 9 xã
+| style="text-align: center;" |2009
+| style="text-align: center;" |
+| style="text-align: center;" |
+|}
+|-
+| colspan="8" |{{center|<small>''Nguồn: Phương án sắp xếp đơn vị hành chính cấp xã tỉnh Sóc Trăng năm 2025<ref name=PA/><ref name=TST2022>{{Chú thích web|url=https://storage-vnportal.vnpt.vn/sme-g1/sitefolders/cucthongke/nam-2023/ng-soc-trang-2022-16x24-_okin.signed.pdf|tựa đề= Niên giám thống kê tỉnh Sóc Trăng năm 2022 |tác giả= Cục Thống kê tỉnh Sóc Trăng |ngày= 2023-07-03 |website= Cục Thống kê tỉnh Sóc Trăng |url lưu trữ=https://web.archive.org/web/20230910202224/https://storage-vnportal.vnpt.vn/sme-g1/sitefolders/cucthongke/nam-2023/ng-soc-trang-2022-16x24-_okin.signed.pdf|ngày lưu trữ= 2023-09-10 |ngày truy cập= 2023-09-10}}</ref><ref name=SOCTRANG62019>{{Chú thích web|url=http://tailieuso.thuviensoctrang.org.vn:82/html/php/view.php|tựa đề=Niên giám thống kê tỉnh Sóc Trăng năm 2019 (Dân số trang 94)|ngày=30 tháng 6 năm 2020|ngày truy cập=19 tháng 2 năm 2020|website=Thư viện tỉnh Sóc Trăng|url-status=dead|archive-date=2025-06-27|archive-url=https://web.archive.org/web/20250627051858/http://tailieuso.thuviensoctrang.org.vn:82/html/php/view.php}}</ref></small>}}
+|}
+
+== Lịch sử ==
+{{main|Lịch sử hành chính Sóc Trăng}}
+===Thời phong kiến===
+Vùng Sóc Trăng tiền thân vốn là đất [[Ba Thắc]], nửa cuối thế kỷ 18 đã bắt đầu được sáp nhập vào lãnh thổ xứ [[Đàng Trong]] của Việt Nam. Ban đầu vùng Sóc Trăng (Ba Thắc) thuộc [[long Hồ (dinh)|dinh Vĩnh Trấn]], (sau đổi thành trấn Vĩnh Thanh), phủ Gia Định của Đàng Trong.<ref name=bt>{{Chú thích web|url=http://www.soctrang.gov.vn/wps/portal/!ut/p/c5/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gLR1dvZ09LYwN3Jx9DA0_HIM9AZ59gI28fA_1wkA6zeGd3Rw8Tcx8DA3-jMAMDIz_T4ECD0GBjA09jiLwBDuBooO_nkZ-bql-QnZ3m6KioCACPmzzh/dl3/d3/L3dDb0EvUU5RTGtBISEvWUZSdndBISEvNl84QUVLQ0k5MzA4U1NCMEk0QThMTlQxMk4zNg!!|tựa đề= Địa lý hành chính của Sóc Trăng nhiều lần thay đổi theo sự biến thiên của lịch sử |tác giả= BBT |ngày=|website= Cổng thông tin điện tử tỉnh Sóc Trăng |url lưu trữ=https://web.archive.org/web/20130111075737/http://www.soctrang.gov.vn/wps/portal/!ut/p/c5/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gLR1dvZ09LYwN3Jx9DA0_HIM9AZ59gI28fA_1wkA6zeGd3Rw8Tcx8DA3-jMAMDIz_T4ECD0GBjA09jiLwBDuBooO_nkZ-bql-QnZ3m6KioCACPmzzh/dl3/d3/L3dDb0EvUU5RTGtBISEvWUZSdndBISEvNl84QUVLQ0k5MzA4U1NCMEk0QThMTlQxMk4zNg!!|ngày lưu trữ= 2013-01-11 |ngày truy cập= 2013-01-11 |url-status= dead }}</ref>
+
+[[Đại Nam nhất thống chí]] viết rằng: Đất Ba Thắc (sau là phủ Ba Xuyên tỉnh An Giang) nguyên là đất [[Campuchia|Cao Miên]], đến đầu thời trung hưng cơ nghiệp [[chúa Nguyễn]] của [[Gia Long|Nguyễn Phúc Ánh]] (khoảng sau năm 1789), sau khi đánh bại thái bảo [[Phạm Văn Tham]] của Tây Sơn và ốc nha Ốc của Cao Miên ở Ba Thắc, Nguyễn Phúc Ánh lập đất đó thành phủ An Biên và cho người Man (người Cao Miên) lập đồn điền ở đây. Đến năm [[Nhâm Tý]] (1792) Nặc Ấn ([[Ang Eng]] tức [[Narayanaraja III]] (1779–1796)) từ [[Xiêm|Xiêm La]] trở về Cao Miên. Nguyễn Phúc Ánh cắt đất Ba Thắc trả về cho Nặc Ấn theo yêu cầu của vua Xiêm. Năm Gia Long thứ 11 (1812), nhân tình hình Cao Miên bất ổn, vua Gia Long lại đem quân trấn giữ đất Ba Thắc.<ref>{{Chú thích sách |last=Quốc sử quán triều Nguyễn, Viện Sử Học – Viện Khoa Học Xã Hội Việt Nam phiên dịch(2006). |title=Đại Nam Thực Lục Chính Biên: Tập 1 (Quyển XLIV). |publisher=NXB Giáo Dục |publication-date=2002}}</ref>
+
+Năm [[Minh Mạng]] thứ 16 (1835), quan phiên (người [[Campuchia|Cao Miên]]) là Trà Long xin đặt quan cai trị [đất ấy], Minh Mạng liền đổi tên phủ là Ba Xuyên và cho đặt chức an phủ sứ để quản phủ này.<ref>{{chú thích sách|url=|tựa đề= Đại Nam nhất thống chí: Tập 5 (Quyển 30: Tỉnh An Giang) |tác giả= Quốc sử quán triều Nguyễn, Viện Sử Học – Viện Khoa Học Xã Hội Việt Nam phiên dịch và chú giải |nhà xuất bản= NXB. Thuận Hóa |year= 2006 |trang= 156 |doi=|id=|isbn=}}</ref><ref>{{chú thích sách|url=|tựa đề= Đại Nam nhất thống chí: Tập 5 (Quyển 30: Tỉnh An Giang) |tác giả= Quốc sử quán triều Nguyễn, Viện Sử Học – Viện Khoa Học Xã Hội Việt Nam phiên dịch và chú giải, bản dịch của Tu Trai Nguyễn Tạo |nhà xuất bản= NXB. Thuận Hóa |year= 2006 |trang= 41 |doi=|id=|isbn=}}</ref> Phủ An Biên thuộc [[long Hồ (dinh)|dinh Vĩnh Trấn (Long Hồ)]] này là khác với phủ An Biên của tỉnh [[Hà Tiên (tỉnh)|Hà Tiên]] nhà Nguyễn chỉ mới đặt ra vào năm Minh Mạng thứ 7 (1826).<ref>{{chú thích sách|url=|tựa đề= Đại Nam nhất thống chí: Tập 5 (Quyển 26: Tỉnh Hà Tiên) |tác giả= Quốc sử quán triều Nguyễn, Viện Sử Học – Viện Khoa Học Xã Hội Việt Nam phiên dịch và chú giải |nhà xuất bản= NXB. Thuận Hóa |year= 2006 |trang= 7 |doi=|id=|isbn=}}</ref>
+
+Đại Việt địa dư toàn biên của [[Nguyễn Văn Siêu]] viết: {{quote|"''....Con [[Outey Reachea II|Tôn]] là [[Narayanaraja III|Ấn]] thay lên làm vua, nước Trà Và đến xâm lược, Ấn chạy sang nước Xiêm ở bên ấy. Sai Chiêu Trùy Biện giữ nước. Đến lúc Ấn về lập tức sai sứ đem phương vật sang cống ta. [[Gia Long|Vua]] cho đất Ba Thắc (năm Minh Mạng thứ 16 lại đặt chỗ này làm phủ Ba Xuyên)...''"<ref>{{chú thích sách|url=|tựa đề= Đại Việt địa dư toàn biên |tác giả=|nhà xuất bản= NXB. Văn hóa Hà Nội |year=|trang= 319 |doi=|id=|isbn=}}</ref>}}
+
+Như vậy, đất Ba Thắc của Cao Miên, do Nguyễn Phúc Ánh chiếm giữ năm 1789, rồi lại trả về Cao Miên giai đoạn 1792–1812 (cuối thế kỷ 18 đầu thế kỷ 19); từ năm 1812 là lãnh thổ Cao Miên dưới sự chiếm đóng của Việt Nam; và từ sau năm 1835 vùng đất Ba Thắc (Trung tâm là Bãi Xàu cũ nay thuộc huyện Mỹ Xuyên hiện còn Đình thờ) tức tỉnh Sóc Trăng mới chính thức được sáp nhập vào lãnh thổ Việt Nam. Giai đoạn 1835–1867 đất Ba Thắc trở thành phủ Ba Xuyên thuộc tỉnh [[An Giang]] [[nhà Nguyễn]]). Năm 1840, [[minh Mạng|vua Minh Mạng]] đổi chức An phủ sứ thành Tri phủ, cử người Kinh đảm trách. Phủ Ba Xuyên lúc này tục gọi là Sóc Trăng, có 3 huyện: Phong Nhiêu, Phong Thạnh, Vĩnh Định.
+
+Trong Lịch sử khẩn hoang miền Nam, [[Sơn Nam (nhà văn)|Sơn Nam]] viết: {{quote|"''Vùng Ba Thắc (Bãi Xàu, Sóc Trăng, Kế Sách). Vua Gia Long khi còn ở đất Gia Định thì cho người Miên (người Khmer) ở địa phương lập đồn điền mỗi năm nạp lúa sưu thuế. Năm 1792, Nặc Ấn ở Xiêm về, vua đem đất ấy cho lại; năm 1835, các quan lại người Miên ở địa phương yêu cầu ta giúp đỡ, vua Minh Mạng cho người Miên hưởng chế độ tự trị rộng rãi với quan phủ coi việc nội an, mãi đến khi người Pháp đánh nước ta, quan phủ vẫn là người Miên.''"}}
+
+===Thời Pháp thuộc===
+[[Tập tin:Soc Trang 1888.jpg|250px|phải|nhỏ|Bản đồ hạt Sóc Trăng năm 1888]]
+[[Tập tin:Soc Trang 1930.jpg|250px|phải|nhỏ|Bản đồ tỉnh Sóc Trăng năm 1930]]
+Đầu [[pháp thuộc|thời Pháp thuộc]], phủ Ba Xuyên đổi thành hạt thanh tra Ba Xuyên.
+
+Ngày 15 tháng 7 năm 1867, Pháp đổi hạt thanh tra Ba Xuyên thành hạt thanh tra Sóc Trăng, gồm 11 tổng.
+
+Ngày 5 tháng 6 năm 1871, hạt Sóc Trăng nhận thêm hạt Long Xuyên tách ra từ hạt [[Rạch Giá (tỉnh)|Rạch Giá]].
+
+Ngày 18 tháng 12 năm 1871, hạt Long Xuyên được trả về cho hạt [[Rạch Giá (tỉnh)|Rạch Giá]].
+
+Ngày 5 tháng 1 năm 1876, các hạt thanh tra được đổi thành hạt tham biện, các thôn được gọi là làng.
+
+Ngày 20 tháng 12 năm 1899, [[Toàn quyền Đông Dương]] ban hành Nghị định<ref name=NĐ-NV>Nghị định về việc đổi tên gọi tiểu khu (arrondissement) hay hạt tham biện là đơn vị hành chính ở Nam Kỳ thành tỉnh (province), đổi tên đại lý thành quận quy định kể từ ngày 1 tháng 1 năm 1900 và phân chia thành 3 miền: miền Đông, miền Trung, miền Tây với 20 tỉnh.</ref> về việc đổi tên gọi tiểu khu (arrondissement) hay hạt tham biện là đơn vị hành chính ở Nam Kỳ thành tỉnh (province), đổi tên đại lý thành quận quy định kể từ ngày 1 tháng 1 năm 1900 và phân chia thành 3 miền: miền Đông, miền Trung, miền Tây với 20 tỉnh. Theo đó:
+*Thành lập tỉnh Sóc Trăng trên cơ sở đổi tên tiểu khu Sóc Trăng.
+* Tỉnh lỵ Sóc Trăng đặt tại làng Khánh Hưng thuộc tổng Nhiêu Khánh, quận Châu Thành.
+
+Ngày 10 tháng 9 năm 1906, tỉnh Sóc Trăng có 3 quận: Phú Lộc, Kế Sách, Bàng Long.<ref>{{chú thích sách |url= https://soctrang.dcs.vn/SiteFolders/Root/diachi/chuong8.pdf |tựa đề= Địa chí tỉnh Sóc Trăng |tác giả= |nhà xuất bản= NXB. Chính trị Quốc gia (Sự Thật) |year= 2012-07 |trang= |doi= |id= |isbn= |url lưu trữ= https://web.archive.org/web/20250615171105/https://soctrang.dcs.vn/SiteFolders/Root/diachi/chuong8.pdf |ngày lưu trữ= 2025-06-15 |ngày truy cập= 2025-06-15 |url-status= dead |title= Bản sao đã lưu trữ |access-date= 2025-06-15 |archive-date= 2025-06-15 |archive-url= https://web.archive.org/web/20250615172243/https://soctrang.dcs.vn/SiteFolders/Root/diachi/chuong8.pdf }}</ref>
+
+Ngày 30 tháng 8 năm 1916, thành lập quận [[Châu Thành (huyện Sóc Trăng)|Châu Thành]] thuộc tỉnh Sóc Trăng.
+
+Ngày 1 tháng 3 năm 1926, tỉnh Sóc Trăng đổi tên quận Bàng Long thành quận [[Long Phú (huyện)|Long Phú]].
+
+Ngày 10 tháng 12 năm 1926, tỉnh Sóc Trăng đổi tên quận Phú Lộc thành quận [[Thạnh Trị (huyện)|Thạnh Trị]].
+
+Ngày 19 tháng 11 năm 1929, Pháp hủy bỏ tất cả các Nghị định thành lập quận trước đó, giao cho một ban nghiên cứu chia lại các quận.
+
+Ngày 1 tháng 1 năm 1930, tỉnh Sóc Trăng được chia thành 3 quận: [[Châu Thành (huyện Sóc Trăng)|Châu Thành]], [[Kế Sách (huyện)|Kế Sách]], [[Long Phú (huyện)|Long Phú]].
+
+Năm 1941, [[Thống đốc Nam Kỳ]] quyết định thành lập lại quận [[Thạnh Trị (huyện)|Thạnh Trị]] thuộc tỉnh Sóc Trăng.
+
+Sau [[Cách mạng tháng Tám]] năm 1945, Ủy ban Kháng chiến Hành chánh Nam bộ chủ trương bỏ cấp tổng, bỏ đơn vị làng, thống nhất gọi là xã, đồng thời bỏ danh xưng quận, gọi thay thế bằng huyện.
+
+Năm 1948, tỉnh Sóc Trăng nhận thêm huyện [[Vĩnh Châu (thị xã)|Vĩnh Châu]] do tỉnh [[Bạc Liêu (tỉnh)|Bạc Liêu]] giao cho. Chính quyền [[Việt Minh]] nhập huyện [[Vĩnh Châu (thị xã)|Vĩnh Châu]] vào địa bàn huyện [[Thạnh Trị (huyện)|Thạnh Trị]].
+
+Trong kháng chiến chống Pháp, tỉnh Sóc Trăng còn nhận các xã: Mỹ Quới, Hương Quới, Vĩnh Quới, Lộc Hòa, Long Trị, Long Tân, Tân Long, Long Phú, Phương Bình, Phương Phú của tỉnh [[Rạch Giá (tỉnh)|Rạch Giá]] và Tân Phước Hưng của tỉnh [[Cần Thơ (tỉnh)|Cần Thơ]].
+
+Năm 1954, tỉnh Sóc Trăng lại trao trả huyện [[Vĩnh Châu (thị xã)|Vĩnh Châu]] về cho tỉnh [[Bạc Liêu (tỉnh)|Bạc Liêu]] quản lý trở lại như trước.
+
+===Giai đoạn 1954–1975===
+====Việt Nam Cộng hòa====
+Ban đầu, chính quyền [[Quốc gia Việt Nam]] và sau đó là [[Việt Nam Cộng hòa]] vẫn duy trì tên gọi tỉnh Sóc Trăng và tỉnh lỵ Sóc Trăng như thời Pháp thuộc. Năm [[1955]], chính quyền Việt Nam Cộng hòa chia tỉnh Sóc Trăng thành 8 quận: Châu Thành, Kế Sách, Long Phú, Thạnh Trị, Long Mỹ, Bãi Xàu, Bố Thảo và Lịch Hội Thượng. Trong đó, quận [[Long Mỹ (huyện)|Long Mỹ]] được tỉnh Sóc Trăng nhận từ tỉnh [[Rạch Giá (tỉnh)|Rạch Giá]]. Tuy nhiên, không lâu sau quận Long Mỹ lại được giao cho tỉnh [[Cần Thơ (tỉnh)|Cần Thơ]] quản lý.
+
+{{Chính|Ba Xuyên}}
+Ngày 22 tháng 10 năm 1956, Tổng thống [[Việt Nam Cộng hòa]] [[Ngô Đình Diệm]] ban hành Sắc lệnh số 143-NV<ref>Sắc lệnh số 143-NV để "thay đổi địa giới và tên Đô thành Sài Gòn – Chợ Lớn cùng các tỉnh và tỉnh lỵ tại Việt Nam". Địa giới và địa danh các tỉnh ở miền Nam thay đổi nhiều, một số tỉnh mới được thành lập.</ref> về việc:
+*Thành lập tỉnh [[Ba Xuyên]] trên cơ sở tỉnh Sóc Trăng và tỉnh [[Bạc Liêu (tỉnh)|Bạc Liêu]] trước đó.
+*Tỉnh lỵ đặt tại [[Sóc Trăng (thành phố)|Sóc Trăng]] nhưng lúc này lại đổi tên là Khánh Hưng. Tỉnh lỵ Khánh Hưng lấy theo tên xã Khánh Hưng thuộc quận Châu Thành (sau năm 1958 là quận Mỹ Xuyên) vốn là nơi đặt tỉnh lỵ tỉnh Ba Xuyên.
+
+Năm 1957, tỉnh Ba Xuyên có 8 quận: [[Châu Thành (huyện Sóc Trăng)|Châu Thành]], [[Thạnh Trị (huyện)|Thạnh Trị]], [[Long Phú (huyện)|Long Phú]], Lịch Hội Thượng, Bố Thảo (cùng thuộc tỉnh Sóc Trăng cũ), [[Vĩnh Lợi (huyện)|Vĩnh Lợi]], [[Vĩnh Châu (thị xã)|Vĩnh Châu]], [[Giá Rai (thị xã)|Giá Rai]], [[Phước Long (huyện Bạc Liêu)|Phước Long]] (cùng thuộc tỉnh [[Bạc Liêu (tỉnh)|Bạc Liêu]] cũ).
+
+Ngày 23 tháng 2 năm 1957, tỉnh Ba Xuyên giao quận [[Kế Sách (huyện)|Kế Sách]] cho tỉnh [[Phong Dinh (tỉnh)|Phong Dinh]] (tức tỉnh [[Cần Thơ (tỉnh)|Cần Thơ]] trước đó) quản lý.
+
+Ngày 13 tháng 1 năm 1958, Bộ Nội vụ Việt Nam Cộng hòa ban hành Nghị định số 9-BNV/NC/NĐ<ref>Nghị định số 9-BNV/NC/NĐ về việc ấn định các đơn vị hành chánh của tỉnh Ba Xuyên.</ref> về việc:
+*Đổi tên quận Châu Thành thành quận [[Mỹ Xuyên (huyện)|Mỹ Xuyên]].
+*Đổi tên quận Bố Thảo thành quận [[Mỹ Tú (huyện)|Thuận Hòa]].
+*Giải thể quận Lịch Hội Thượng và quận [[Vĩnh Châu (thị xã)|Vĩnh Châu]].
+*Các tổng và xã của các quận cũng có sự điều chỉnh quận Thạnh Trị còn 2 tổng: Thạnh An, Thạnh Lộc, quận [[Long Phú (huyện)|Long Phú]] có thêm tổng Định Phước.
+
+Tỉnh Ba Xuyên có 7 quận: Giá Rai, Long Phú, Mỹ Xuyên (tỉnh lỵ), Phước Long, Thạnh Trị, Thuận Hòa, Vĩnh Lợi; 14 tổng và 68 xã.
+
+Ngày 16 tháng 9 năm 1958, tỉnh [[Ba Xuyên]] nhận lại quận [[Kế Sách (huyện)|Kế Sách]] từ tỉnh [[Phong Dinh (tỉnh)|Phong Dinh]].
+
+Ngày 5 tháng 12 năm 1960, tái lập quận [[Vĩnh Châu (thị xã)|Vĩnh Châu]].
+
+Ngày 21 tháng 12 năm 1961, chính quyền Việt Nam Cộng hòa giao quận [[Phước Long (huyện Bạc Liêu)|Phước Long]] cho tỉnh [[Chương Thiện]]. Lúc này, quận Phước Long cũng bị chia ra thành hai quận có tên là quận Phước Long và quận Kiến Thiện cùng thuộc tỉnh Chương Thiện.
+
+Ngày 8 tháng 9 năm 1964, Thủ tướng chính quyền mới của [[Việt Nam Cộng hòa]] ban hành Sắc lệnh số 254-NV<ref>Sắc lệnh số 254/NV tái lập tỉnh Bạc Liêu gồm các quận: Giá Rai, Vĩnh Lợi, Vĩnh Châu của tỉnh Ba Xuyên và quận Phước Long của tỉnh Rạch Giá.</ref> (quy định kể từ ngày 1 tháng 10 năm 1964) về việc:
+*Tái lập tỉnh [[Bạc Liêu (tỉnh)|Bạc Liêu]] trên cơ sở các quận [[Vĩnh Lợi (huyện)|Vĩnh Lợi]], [[Giá Rai (thị xã)|Giá Rai]], [[Vĩnh Châu (thị xã)|Vĩnh Châu]] của tỉnh [[Ba Xuyên]] và quận [[Phước Long (huyện Bạc Liêu)|Phước Long]] của tỉnh [[Chương Thiện]].
+*Phần đất còn lại tương ứng với tỉnh Sóc Trăng trước năm 1956, tuy nhiên Việt Nam Cộng hòa vẫn giữ tên tỉnh Ba Xuyên cho vùng đất này đến năm 1975.
+
+Ngày 11 tháng 12 năm 1965, tái lập quận Lịch Hội Thượng.
+
+Ngày 11 tháng 7 năm 1968, thành lập quận Hòa Tú.
+
+Ngày 16 tháng 6 năm 1969, lập quận [[Ngã Năm (thị xã)|Ngã Năm]].
+
+Năm 1973, tỉnh Ba Xuyên có 8 quận: Mỹ Xuyên, Thuận Hòa, Long Phú, Thạnh Trị, Kế Sách, Ngã Năm, Lịch Hội Thượng, Hòa Tú. Tỉnh lỵ tỉnh Ba Xuyên vẫn giữ nguyên tên là "Khánh Hưng" cho đến năm 1975.
+
+====Chính phủ Cách mạng lâm thời Cộng hòa Miền Nam Việt Nam====
+Tuy nhiên, chính quyền [[Mặt trận Dân tộc Giải phóng Miền Nam Việt Nam]] và sau này là Chính phủ Cách mạng lâm thời [[Cộng hòa Miền Nam Việt Nam]] cùng với [[Việt Nam Dân chủ Cộng hòa]] không công nhận tên gọi tỉnh [[Ba Xuyên]] mà vẫn gọi theo tên cũ là tỉnh Sóc Trăng.
+
+Năm 1957, Liên Tỉnh uỷ miền Tây ban hành Quyết định về việc giải thể tỉnh [[Bạc Liêu (tỉnh)|Bạc Liêu]]; đồng thời đưa các huyện [[Giá Rai (thị xã)|Giá Rai]], [[Vĩnh Lợi (huyện)|Vĩnh Lợi]], [[Vĩnh Châu (thị xã)|Vĩnh Châu]], [[Hồng Dân (huyện)|Hồng Dân]] và thị xã [[Bạc Liêu (thành phố)|Bạc Liêu]] về tỉnh Sóc Trăng quản lý. Tỉnh uỷ Sóc Trăng ban hành Quyết định về việc hợp nhất huyện [[Vĩnh Lợi (huyện)|Vĩnh Lợi]] và huyện [[Vĩnh Châu (thị xã)|Vĩnh Châu]], lấy tên là huyện [[Vĩnh Lợi (huyện)|Vĩnh Lợi]] – [[Vĩnh Châu (thị xã)|Vĩnh Châu]].
+
+Năm 1958, huyện [[Kế Sách (huyện)|Kế Sách]] của tỉnh Sóc Trăng được giao về cho tỉnh [[Cần Thơ (tỉnh)|Cần Thơ]] quản lý đến năm 1976.
+
+Đầu năm 1961, chính quyền Cách mạng thành lập thêm huyện [[Mỹ Xuyên (huyện)|Mỹ Xuyên]] trên cơ sở tách một số xã của huyện Thạnh Trị và huyện Châu Thành.
+
+Năm 1962, huyện [[Giá Rai (thị xã)|Giá Rai]] được giao cho tỉnh [[Cà Mau]].
+
+Năm 1963, Tỉnh uỷ Sóc Trăng ban hành Quyết định về việc giải thể huyện [[Vĩnh Lợi (huyện)|Vĩnh Lợi]] – [[Vĩnh Châu (thị xã)|Vĩnh Châu]], tái lập huyện [[Vĩnh Châu (thị xã)|Vĩnh Châu]] và huyện [[Vĩnh Lợi (huyện)|Vĩnh Lợi]].
+
+Tháng 8 năm 1966, huyện [[Long Phú (huyện)|Long Phú]] được chia thành huyện Long Phú và huyện Lịch Hội Thượng.
+
+Trong giai đoạn 1964–1973, địa bàn tỉnh [[Bạc Liêu (tỉnh)|Bạc Liêu]] của chính quyền [[Việt Nam Cộng hòa]] vẫn do tỉnh Sóc Trăng của chính quyền cách mạng quản lý.
+
+Tháng 11 năm 1973, Khu uỷ Tây Nam Bộ ban hành Quyết định về việc tái lập tỉnh [[Bạc Liêu (tỉnh)|Bạc Liêu]] trên cơ 4 huyện: [[Vĩnh Lợi (huyện)|Vĩnh Lợi]], [[Giá Rai (thị xã)|Giá Rai]], [[Hồng Dân (huyện)|Hồng Dân]] và thị xã [[Bạc Liêu (thành phố)|Bạc Liêu]] của tỉnh Sóc Trăng. Tuy nhiên, chính quyền Cách mạng vẫn đặt huyện [[Vĩnh Châu (thị xã)|Vĩnh Châu]] thuộc tỉnh Sóc Trăng cho đến năm 1976.
+
+Sau ngày 30 tháng 4 năm 1975, chính quyền quân quản [[Cộng hòa miền Nam Việt Nam]] ban đầu vẫn duy trì tỉnh Sóc Trăng cho đến đầu năm 1976. Lúc này, chính quyền Cách mạng cũng bỏ danh xưng "quận" có từ thời Pháp thuộc và lấy danh xưng "huyện" (quận và phường dành cho các đơn vị hành chánh tương đương khi đã đô thị hóa).
+
+Ngày 20 tháng 9 năm 1975, Bộ Chính trị ban hành Nghị quyết số 245-NQ/TW<ref>{{Chú thích web|url=https://photo.znews.vn/w660/Uploaded/dqmblcvo/2025_03_13/1.jpg|tựa đề= Nghị quyết số 245-NQ/TW về việc bỏ khu, hợp tỉnh |tác giả=|ngày= 1975-09-20 |website=|url lưu trữ=https://web.archive.org/web/20250407082825/https://photo.znews.vn/w660/Uploaded/dqmblcvo/2025_03_13/1.jpg|ngày lưu trữ= 2025-04-07 |ngày truy cập= 2025-04-07 |url-status=live}}</ref> về việc hợp nhất tỉnh [[Vĩnh Long]], tỉnh [[Trà Vinh (tỉnh)|Trà Vinh]], tỉnh [[Cần Thơ (tỉnh)|Cần Thơ]], tỉnh Sóc Trăng và thành phố [[Cần Thơ (thành phố thuộc tỉnh)|Cần Thơ]] thành một tỉnh, tên gọi tỉnh mới cùng với nơi đặt tỉnh lỵ sẽ do địa phương đề nghị lên.
+
+Ngày 20 tháng 12 năm 1975, Bộ Chính trị ban hành Nghị quyết số 19/NQ<ref>{{Chú thích web|url=http://luutruquocgia1.org.vn/wp-content/uploads/2017/05/anh1.png|tựa đề= Nghị quyết số 19/NQ về việc điều chỉnh việc hợp nhất một số tỉnh ở miền Nam |tác giả=|ngày= 1975-12-20 |website= Trung tâm Lưu trữ quốc gia I |url lưu trữ=https://web.archive.org/web/20250507064804/http://luutruquocgia1.org.vn/wp-content/uploads/2017/05/anh1.png|ngày lưu trữ= 2025-05-07 |ngày truy cập= 2025-05-07 |url-status= dead }}</ref> về việc hợp nhất tỉnh [[Cần Thơ (tỉnh)|Cần Thơ]], tỉnh Sóc Trăng và thành phố [[Cần Thơ (thành phố thuộc tỉnh)|Cần Thơ]] thành một tỉnh, tên gọi tỉnh mới cùng với nơi đặt tỉnh lỵ sẽ do địa phương đề nghị lên.
+
+===Từ năm 1976 đến 2025===
+{{Chính|Hậu Giang}}
+Ngày 24 tháng 2 năm 1976, Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam ban hành Nghị định số 3/NQ/1976<ref>{{Chú thích web|url=http://luutruquocgia1.org.vn/wp-content/uploads/2017/05/anh2.png|tựa đề= Nghị định số 3/NQ/1976 về việc giải thể khu, hợp nhất tỉnh ở miền Nam Việt Nam |tác giả=|ngày= 1976-02-24 |website= Trung tâm Lưu trữ quốc gia I |url lưu trữ=https://web.archive.org/web/20250507064804/http://luutruquocgia1.org.vn/wp-content/uploads/2017/05/anh2.png|ngày lưu trữ= 2025-05-07 |ngày truy cập= 2025-05-07 |url-status= dead }}</ref> về việc hợp nhất tỉnh Sóc Trăng, tỉnh [[Cần Thơ (tỉnh)|Cần Thơ]] và thành phố [[Cần Thơ (thành phố thuộc tỉnh)|Cần Thơ]] thành một tỉnh mới, lấy tên là [[Hậu Giang]].
+
+Ngày 24 tháng 3 năm 1976, Chính phủ ban hành Quyết định số 17/QĐ-76<ref name="17/QĐ-76">Quyết định số 17/QĐ-76 về việc hợp nhất tỉnh Cần Thơ, tỉnh Sóc Trăng và thành phố Cần Thơ thành lập một tỉnh mới, lấy tên là tỉnh Hậu Giang.</ref> về việc:
+*Hợp nhất tỉnh Sóc Trăng, tỉnh [[Cần Thơ (tỉnh)|Cần Thơ]] và thành phố [[Cần Thơ (thành phố thuộc tỉnh)|Cần Thơ]] thành một tỉnh mới, lấy tên là [[Hậu Giang]].
+*Chuyển thành phố Cần Thơ trực thuộc Trung ương thành thành phố Cần Thơ thuộc tỉnh Hậu Giang.
+*Đổi tên huyện Châu Thành thuộc tỉnh Sóc Trăng cũ thành huyện [[Mỹ Tú (huyện)|Mỹ Tú]] (do tỉnh Hậu Giang lúc này đã có huyện [[Châu Thành (huyện Hậu Giang)|Châu Thành]] vốn trước đó thuộc tỉnh [[Cần Thơ (tỉnh)|Cần Thơ]]).
+
+Tỉnh Hậu Giang có thành phố [[Cần Thơ (thành phố thuộc tỉnh)|Cần Thơ]] (tỉnh lỵ), 2 thị xã: [[Sóc Trăng (thành phố)|Sóc Trăng]], [[Vị Thanh (thành phố)|Vị Thanh]] và 11 huyện: [[Châu Thành (huyện Hậu Giang)|Châu Thành]], [[Kế Sách (huyện)|Kế Sách]], [[Long Mỹ (huyện)|Long Mỹ]], [[Long Phú (huyện)|Long Phú]], [[Mỹ Tú (huyện)|Mỹ Tú]], [[Mỹ Xuyên (huyện)|Mỹ Xuyên]], [[Ô Môn (quận)|Ô Môn]], [[Phụng Hiệp (huyện)|Phụng Hiệp]], [[Thạnh Trị (huyện)|Thạnh Trị]], [[Thốt Nốt (quận)|Thốt Nốt]], [[Vĩnh Châu (thị xã)|Vĩnh Châu]].
+
+{{Chính|Cần Thơ (tỉnh)}}
+Ngày 26 tháng 12 năm 1991, Quốc hội ban hành Nghị quyết<ref name="1991/NQ-QH8">{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-phan-vach-lai-dia-gioi-hanh-chinh-tinh-42812.aspx|title= Nghị quyết về việc phân vạch lại địa giới hành chính một số tỉnh |date= 1991-12-26 |website= Thư viện pháp luật |archive-url=|archive-date=|access-date=|url-status=live}}</ref> về việc phân vạch lại địa giới hành chính một số tỉnh (nghị quyết có hiệu lực từ ngày 1 tháng 4 năm 1992). Theo đó, chia tỉnh Hậu Giang thành tỉnh [[Cần Thơ (tỉnh)|Cần Thơ]] và tỉnh Sóc Trăng.<ref>{{Chú thích web|url=https://hethongphapluat.com/nghi-quyet-ve-viec-phan-vach-lai-dia-gioi-hanh-chinh-mot-so-tinh-do-quoc-hoi-ban-hanh.html|tựa đề= Nghị quyết về việc phân vạch lại địa giới hành chính một số tỉnh |tác giả=|ngày= 1991-12-26 |website= Hệ thống pháp luật |url lưu trữ=|ngày lưu trữ=|ngày truy cập=|url-status=live}}</ref>
+
+Tỉnh Sóc Trăng có 7 đơn vị hành chính trực thuộc, bao gồm thị xã [[Sóc Trăng (thành phố)|Sóc Trăng]] (tỉnh lỵ) và 6 huyện: [[Kế Sách (huyện)|Kế Sách]], [[Long Phú (huyện)|Long Phú]], [[Mỹ Tú (huyện)|Mỹ Tú]], [[Mỹ Xuyên (huyện)|Mỹ Xuyên]], [[Thạnh Trị (huyện)|Thạnh Trị]], [[Vĩnh Châu (thị xã)|Vĩnh Châu]].
+
+Ngày 11 tháng 1 năm 2002, Chính phủ ban hành Nghị định số 04/2002/NĐ-CP<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bat-dong-san/Nghi-dinh-04-2002-ND-CP-dieu-chinh-dia-gioi-hanh-chinh-huyen-Long-Phu-lap-Cu-Lao-Dung-thanh-lap-xa-thi-tran-thuoc-huyen-Cu-Lao-Dung-tinh-Soc-Trang-7318.aspx|tựa đề= Nghị định số 04/2002/NĐ-CP về việc điều chỉnh địa giới hành chính huyện Long Phú để thành lập huyện Cù Lao Dung; thành lập xã, thị trấn thuộc huyện Cù Lao Dung, tỉnh Sóc Trăng |tác giả=|ngày= 2002-01-11 |website= Thư viện pháp luật |url lưu trữ=|ngày lưu trữ=|ngày truy cập=|url-status=live}}</ref> về việc thành lập huyện [[Cù Lao Dung (huyện)|Cù Lao Dung]] thuộc tỉnh Sóc Trăng trên cơ điều chỉnh địa giới hành chính huyện [[Long Phú (huyện)|Long Phú]].
+
+Ngày 31 tháng 10 năm 2003, Chính phủ ban hành Nghị định số 127/2003/NĐ-CP<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-dinh-127-2003-ND-CP-thanh-lap-huyen-Nga-Nam-thuoc-tinh-Soc-Trang-51512.aspx|tựa đề= Nghị định số 127/2003/NĐ-CP về việc thành lập huyện Ngã Năm thuộc tỉnh Sóc Trăng |tác giả=|ngày= 2003-10-31 |website= Thư viện pháp luật |url lưu trữ=|ngày lưu trữ=|ngày truy cập=|url-status=live}}</ref> về việc thành lập huyện [[Ngã Năm (thị xã)|Ngã Năm]] thuộc tỉnh Sóc Trăng trên cơ sở một phần diện tích và dân số của huyện [[Thạnh Trị (huyện)|Thạnh Trị]].
+
+Ngày 8 tháng 2 năm 2007, Chính phủ ban hành Nghị định số 22/2007/NĐ-CP<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-22-2007-nd-cp-thanh-lap-thanh-pho-soc-trang-thuoc-tinh-soc-trang-16767.aspx|tựa đề= Nghị định số 22/2007/NĐ-CP về việc thành lập thành phố Sóc Trăng thuộc tỉnh Sóc Trăng |tác giả=|ngày= 2007-02-08 |website= Thư viện pháp luật |url lưu trữ=|ngày lưu trữ=|ngày truy cập=|url-status=live}}</ref> về việc thành lập thành phố [[Sóc Trăng (thành phố)|Sóc Trăng]] thuộc tỉnh Sóc Trăng trên cơ sở toàn bộ diện tích và dân số của thị xã Sóc Trăng.
+
+Ngày 24 tháng 9 năm 2008, Chính phủ ban hành Nghị định số 02/NĐ-CP<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-dinh-02-ND-CP-dieu-chinh-dia-gioi-hanh-chinh-xa-de-thanh-lap-thi-tran-thuoc-huyen-My-Tu-thanh-lap-huyen-Chau-Thanh-tinh-Soc-Trang-71159.aspx|tựa đề= Nghị định số 02/NĐ-CP về việc điều chỉnh địa giới hành chính xã để thành lập thị trấn thuộc huyện Mỹ Tú; điều chỉnh địa giới hành chính huyện Mỹ Tú để thành lập huyện Châu Thành, tỉnh Sóc Trăng |tác giả=|ngày= 2008-09-24 |website= Thư viện pháp luật |url lưu trữ=|ngày lưu trữ=|ngày truy cập=|url-status=live}}</ref> về việc thành lập huyện [[Châu Thành (huyện Sóc Trăng)|Châu Thành]] thuộc tỉnh Sóc Trăng trên cơ sở một phần diện tích và dân số của huyện [[Mỹ Tú (huyện)|Mỹ Tú]].
+
+Ngày 23 tháng 12 năm 2009, Chính phủ ban hành Nghị quyết số 64/NQ-CP<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-64-NQ-CP-dieu-chinh-dia-gioi-hanh-chinh-cac-xa-tinh-Soc-Trang-99337.aspx|tựa đề= Nghị quyết số 64/NQ-CP về việc điều chỉnh địa giới hành chính các xã để thành lập thị trấn thuộc các huyện: Thạnh Trị, Long Phú; điều chỉnh địa giới hành chính huyện Long Phú và huyện Mỹ Xuyên để thành lập huyện Trần Đề, tỉnh Sóc Trăng |tác giả=|ngày= 2009-12-23 |website= Thư viện pháp luật |url lưu trữ=|ngày lưu trữ=|ngày truy cập=|url-status=live}}</ref> về việc thành lập huyện [[Trần Đề (huyện)|Trần Đề]] thuộc tỉnh Sóc Trăng trên cơ sở tách một phần diện tích và dân số của hai huyện [[Long Phú (huyện)|Long Phú]] và [[Mỹ Xuyên (huyện)|Mỹ Xuyên]].
+
+Ngày 25 tháng 8 năm 2011, Chính phủ ban hành Nghị quyết số 90/NQ-CP<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-90-NQ-CP-thanh-lap-thi-xa-Vinh-Chau-phuong-thuoc-thi-xa-128361.aspx|tựa đề=N ghị quyết số 90/NQ-CP năm 2011 về việc thành lập thị xã Vĩnh Châu, thành lập các phường thuộc thị xã Vĩnh Châu và thành lập thị trấn Đại Ngãi thuộc huyện Long Phú, tỉnh Sóc Trăng |tác giả=|ngày= 2011-08-25 |website= Thư viện pháp luật |url lưu trữ=|ngày lưu trữ=|ngày truy cập=|url-status=live}}</ref> về việc thành lập thị xã [[Vĩnh Châu (thị xã)|Vĩnh Châu]] thuộc tỉnh Sóc Trăng trên cơ sở toàn bộ diện tích và dân số của huyện Vĩnh Châu.
+
+Ngày 29 tháng 12 năm 2013, Chính phủ ban hành Nghị quyết số 133/NQ-CP<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-133-NQ-CP-nam-2013-thanh-lap-thi-xa-Nga-Nam-Soc-Trang-217911.aspx|tựa đề= Nghị quyết số 133/NQ-CP năm 2013 về việc thành lập thị xã Ngã Năm và 3 phường thuộc thị xã Ngã Năm, tỉnh Sóc Trăng |tác giả=|ngày= 2013-12-29 |website= Thư viện pháp luật |url lưu trữ=|ngày lưu trữ=|ngày truy cập=|url-status=live}}</ref> về việc thành lập thị xã [[Ngã Năm (thị xã)|Ngã Năm]] thuộc tỉnh Sóc Trăng trên cơ sở toàn bộ diện tích và dân số của huyện Ngã Năm.
+
+Ngày 20 tháng 4 năm 2022, Thủ tướng Chính phủ ban hành Quyết định số 496/QĐ-TTg<ref>{{Chú thích web|url=https://vanban.chinhphu.vn/?pageid=27160&docid=205648|tựa đề= Quyết định số 496/QĐ-TTg về việc công nhận thành phố Sóc Trăng là đô thị loại II trực thuộc tỉnh Sóc Trăng |tác giả=|ngày= 2022-04-20 |website=|url lưu trữ=https://web.archive.org/web/20220516183954/https://vanban.chinhphu.vn/?pageid=27160&docid=205648|ngày lưu trữ= 2022-05-16 |ngày truy cập= 2022-04-21 |url-status=dead}}</ref> về việc công nhận thành phố [[Sóc Trăng (thành phố)|Sóc Trăng]] là [[Đô thị Việt Nam#Đô thị loại II|đô thị loại II]] trực thuộc tỉnh Sóc Trăng.
+
+Từ đó, tỉnh Sóc Trăng có 1 thành phố Sóc Trăng (tỉnh lị); 2 thị xã: Ngã Năm, Vĩnh Châu và 8 huyện: Châu Thành, Cù Lao Dung, Kế Sách, Long Phú, Mỹ Tú, Mỹ Xuyên, Thạnh Trị, Trần Đề.<ref name=DVHC/>
+
+Ngày 12 tháng 6 năm 2025, Quốc hội ban hành Nghị quyết số 202/2025/QH15<ref name="202/2025/QH15">{{Chú thích web|url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94532|tựa đề= Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh |ngày= 2025-06-12 |website= Cổng thông tin điện tử Quốc hội Việt Nam |url lưu trữ=https://web.archive.org/web/20250612150244/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94532|ngày lưu trữ= 2025-06-12 |ngày truy cập= 2025-06-12 |url-status=live}}</ref> về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày 12 tháng 6 năm 2025).
+
+Ngày 16 tháng 6 năm 2025, Quốc hội ban hành Nghị quyết số 203/2025/QH15<ref>{{Chú thích web|url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94585|tựa đề= Nghị quyết số 203/2025/QH15 về việc Sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |ngày= 2025-06-16 |website= Cổng thông tin điện tử Quốc hội Việt Nam |url lưu trữ=https://web.archive.org/web/20250616150846/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94585|ngày lưu trữ= 2025-06-16 |ngày truy cập= 2025-06-16 |url-status= dead }}</ref> về việc Sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam. Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+
+==Kinh tế==
+{{Chính|Danh sách đơn vị hành chính Việt Nam theo GRDP}}{{Chính|Danh sách đơn vị hành chính Việt Nam theo GRDP bình quân đầu người}}
+
+Năm 2018, Sóc Trăng là đơn vị hành chính [[Việt Nam]] đông thứ 22 về số dân, [[Danh sách đơn vị hành chính Việt Nam theo GRDP|xếp thứ 38]] về [[Tổng sản phẩm trên địa bàn (GRDP)]], [[Danh sách đơn vị hành chính Việt Nam theo GRDP bình quân đầu người|xếp thứ 51]] về [[Tổng sản phẩm trên địa bàn (GRDP)|GRDP]] bình quân đầu người, [[Danh sách đơn vị hành chính Việt Nam theo GRDP|đứng thứ 47]] về tốc độ tăng trưởng [[Tổng sản phẩm trên địa bàn (GRDP)|GRDP]]. Với 1.315.900 người dân,<ref>{{Chú thích web|url=https://www.gso.gov.vn/default.aspx?tabid=714|title=Dân số các tỉnh Việt Nam năm 2018|last=|first=|date=|website=Tổng cục Thống kê Việt Nam|archive-url=|archive-date=|url-status=|access-date=Ngày 30 tháng 9 năm 2019}}</ref> GRDP đạt 49.346 tỉ [[Đồng (đơn vị tiền tệ)|đồng]] (tương ứng với 2,1432 tỉ USD), GRDP bình quân đầu người đạt 37,5 triệu đồng (tương ứng với 1.628 USD), tốc độ tăng trưởng GRDP đạt 7,20%.<ref name=":060">{{Chú thích web|url=http://baosoctrang.org.vn/trong-tinh/nam-2018-kinh-te-xa-hoi-cua-tinh-phat-trien-toan-dien-tang-truong-kinh-te-dat-7-2-22551.html|title=Tình hình kinh tế, xã hội Sóc Trăng năm 2018|last=|first=|date=|website=Báo Sóc Trăng, Đảng bộ tỉnh|archive-url=https://web.archive.org/web/20211019015804/https://www.baosoctrang.org.vn/trong-tinh/nam-2018-kinh-te-xa-hoi-cua-tinh-phat-trien-toan-dien-tang-truong-kinh-te-dat-7-2-22551.html|archive-date=2021-10-19|url-status=dead|access-date=Ngày 12 tháng 10 năm 2019}}</ref>
+
+Năm 2018, tình hình kinh tế - xã hội của tỉnh chuyển biến tích cực; tăng trưởng kinh tế đạt 7,2%; có 16/20 chỉ tiêu kinh tế - xã hội đạt và vượt chỉ tiêu nghị quyết và 3/20 chỉ tiêu đạt 99% chỉ tiêu nghị quyết năm. Sản xuất nông nghiệp tương đối ổn định, trong đó diện tích lúa đặc sản chiếm 50% tổng diện tích, tổng sản lượng lúa cả năm là 2,13 triệu tấn; chăn nuôi từng bước phát triển theo hướng tập trung, ứng dụng công nghệ cao, quy mô đàn giảm nhưng tập trung phát triển và chất lượng; sản lượng thủy, hải sản đều tăng so với cùng kỳ.
+
+Giá trị sản xuất công nghiệp, giá trị xuất khẩu, tổng mức bán lẻ hàng hóa và doanh thu dịch vụ tiêu dùng xã hội đều tăng so cùng kỳ; hoạt động thu hút đầu tư có nhiều khởi sắc, năm 2018 tỉnh đã tiếp xúc và làm việc với 141 lượt nhà đầu tư đến tìm hiểu, đăng ký thực hiện 141 dự án; thu ngân sách nhà nước trên địa bàn tỉnh vượt dự toán.
+
+Các lĩnh vực văn hóa - xã hội có nhiều tiến bộ; các hoạt động văn hóa được tổ chức sôi nổi, thiết thực chào mừng các ngày lễ, kỷ niệm và sự kiện chính trị quan trọng của tỉnh và cả nước; chất lượng dạy và học từng bước được nâng lên; giáo dục mầm non, giáo dục dân tộc tiếp tục được quan tâm đầu tư và đẩy mạnh; công tác phòng, chống dịch, khám chữa bệnh được chủ động triển khai thực hiện, tình hình dịch bệnh ở người cơ bản được kiểm soát.
+
+Các chính sách an sinh xã hội, chính sách đối với người có công, người nghèo, người dân tộc thiểu số được quan tâm thực hiện; giải quyết việc làm, giảm nghèo vượt chỉ tiêu kế hoạch; trong năm 2018 toàn tỉnh có 11.281 hộ thoát nghèo, hiện nay còn 27.267 hộ nghèo, chiếm tỉ lệ 8,43%. An ninh - quốc phòng, trật tự an toàn xã hội tiếp tục được giữ vững; công tác thanh tra, tư pháp, cải cách hành chính được các ngành, các cấp quan tâm thực hiện.<ref>{{Chú thích web|url=http://baosoctrang.org.vn/trong-tinh/nam-2018-tang-truong-kinh-te-cua-tinh-dat-7-2-22638.html|title=Kinh tế - xã hội Sóc Trăng 2018 với tốc độ 7,2%|last=|first=|date=|website=Báo Sóc Trăng, Đảng bộ tỉnh|archive-url=https://web.archive.org/web/20191016174748/http://baosoctrang.org.vn/trong-tinh/nam-2018-tang-truong-kinh-te-cua-tinh-dat-7-2-22638.html|archive-date=2019-10-16|url-status=dead|access-date=Ngày 15 tháng 10 năm 2019}}</ref>
+
+Năm 2019, tỉnh đạt và vượt 20 chỉ tiêu kinh tế - xã hội, trong đó có 12 chỉ tiêu vượt Nghị Quyết, tốc độ tăng trưởng kinh tế đạt 7,3%. Cơ cấu kinh tế khu vực I - II - III tương ứng là 37,77% - 17,82% - 44,41%; trong đó, khu vực I tăng 4,8%, khu vực II tăng 10,82%, khu vực III tăng 8,14%. Các địa phương gieo trồng 61.004 ha hoa màu và cây công nghiệp ngắn ngày, tăng 2,62% so cùng kỳ; diện tích sản xuất theo tiêu chuẩn VietGAP tăng 11,6 ha. Diện tích cây ăn trái 31.370 ha, tăng 6,37%; trong đó có 265,8 ha áp dụng mô hình sản xuất VietGAP, với 5 ha vú sữa và 10 ha bưởi áp dụng mô hình liên kết tiêu thụ. Trên địa bàn tỉnh có 302 trang trại chăn nuôi; trong đó có 2 trang trại nuôi gà và 1 trang trại nuôi heo ứng dụng công nghệ cao. Toàn tỉnh có trên 687 ha diện tích nuôi tôm ứng dụng công nghệ cao với mật độ khoảng 200-500 con/m2. Tổng sản lượng thủy sản 281.352 tấn, tăng 7,81%, trong đó sản lượng tôm nước lợ là 150.350 tấn, tăng 12,4%. Trong năm, tỉnh tập trung đẩy nhanh tiến độ thực hiện Chương trình mục tiêu quốc gia xây dựng nông thôn mới; tính đến nay, toàn tỉnh có 42 xã đạt 19/19 tiêu chí nông thôn mới, có 26 xã đạt từ 15 tiêu chí trở lên; 12 xã còn lại đạt từ 12 đến 14 tiêu chí. Tính bình quân trên toàn tỉnh, mỗi xã đạt 16,85 tiêu chí.
+
+==Xã hội==
+===Giáo dục – đào tạo===
+Hệ thống giáo dục - đào tạo tại Sóc Trăng có cơ sở hạ tầng khá đầy đủ, đáp ứng giảng dạy cho nhiều đối tượng khác nhau.
+
+Tính đến ngày 30 tháng 9 năm 2008, toàn tỉnh Sóc Trăng có 422 trường học ở các cấp phổ thông, đứng thứ 4 ở khu vực Đồng bằng sông Cửu Long. Đến thời điểm ngày 31 tháng 12 năm 2008:<ref>Theo thông tin từ Tổng cục Thống kê.</ref>
+*Tổng số học sinh phổ thông đạt 206.550 học sinh, trong đó:
+**Cấp TH là 114.639 học sinh
+**Cấp THCS là 64.216 học sinh
+**Cấp THPT là 27.695 học sinh
+*Tổng số giáo viên phổ thông trực tiếp giảng dạy đạt 12.286 người, trong đó:
+**Giáo viên TH là 6.373 người
+**Giáo viên THCS là 4.091 người
+**Giáo viên THPT là 1.822 người.
+
+Các trường Cao đẳng ở Sóc Trăng gồm:
+*Trường Cao đẳng Nghề Sóc Trăng.
+*[[Trường Cao đẳng Cộng đồng Sóc Trăng]].
+
+===Y tế===
+Ngành y tế tại tỉnh Sóc Trăng tương đối đồng nhất. Ở các đơn vị hành chính cấp huyện đều có các trung tâm y tế, trạm y tế. Các bệnh viện lớn và Trung tâm y tế huyện như:<ref>{{Chú thích tạp chí|last=Morley|first=Neville|date=2006-10-01|title=Markets and Marketing in Roman Palestine(SJSJ 99) Translated from Hebrew by C. Cassel|url=http://dx.doi.org/10.18647/2683/jjs-2006|journal=Journal of Jewish Studies|volume=57|issue=2|pages=346–348|doi=10.18647/2683/jjs-2006|issn=0022-2097}}</ref>
+*Các bệnh viện Đa khoa Sóc Trăng, Chuyên khoa Sản - Nhi Sóc Trăng, [[Bệnh viện Chuyên Khoa 27 tháng 2]], bệnh viện 30 tháng 4 Sóc Trăng, Quân Dân Y Sóc Trăng.
+*Các Trung tâm y tế các huyện, thị xã, thành phố: Kế Sách, Châu Thành, Mỹ Tú, Mỹ Xuyên, Thạnh Trị, Trần Đề, Long Phú, Cù Lao Dung, thị xã Vĩnh Châu, thị xã Ngã Năm và thành phố Sóc Trăng.
+
+Trên địa bàn toàn tỉnh có 125 cơ sở khám chữa bệnh trực thuộc Sở Y tế. Trong đó có 05 bệnh viện, 11 trung tâm y tế và 109 trạm y tế phường xã, tổng số giường bệnh là 2.231 giường, trong đó các bệnh viện có 1.460 giường, phòng khám phòng khám đa khoa khu vực có 190 giường, trạm y tế có 581 giường.<ref>Theo thông tin từ Tổng cục Thống kê năm 2008.</ref>
+
+==Dân số==
+{{Lịch sử dân số
+| title = Lịch sử phát triển dân số tỉnh Sóc Trăng qua các năm
+| type = 
+| align = right
+| cols = 2
+| direction = 
+| width = 15
+| state = 
+| shading = 
+| pop_name = 
+| percentages = 
+| footnote = 
+| source = Trang Thông tin điện tử Cục Thống kê - Bộ Tài chính<ref name="Diện tích, dân số và mật độ dân số phân theo địa phương">[https://www.nso.gov.vn/px-web-2/?pxid=V0203-07&theme=D%C3%A2n%20s%E1%BB%91%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng Diện tích, dân số và mật độ dân số phân theo địa phương], Trang Thông tin điện tử Cục Thống kê - Bộ Tài chính</ref>
+| 1990 | 1.050.000
+| 1991 | 1.067.167
+| 1992 | 1.085.700
+| 1993 | 1.107.000
+| 1994 | 1.128.500
+| 1995 | 1.150.100
+| 1996 | 1.155.687
+| 1997 | 1.162.300
+| 1998 | 1.168.372
+| 1999 | 1.177.900
+| 2000 | 1.193.389
+| 2001 | 1.210.300
+| 2002 | 1.224.600
+| 2003 | 1.237.400
+| 2004 | 1.249.800
+| 2005 | 1.258.600
+| 2006 | 1.265.600
+| 2007 | 1.276.300
+| 2008 | 1.285.100
+| 2009 | 1.293.200
+| 2010 | 1.297.500
+| 2011 | 1.298.400
+| 2012 | 1.301.500
+| 2013 | 1.304.700
+| 2014 | 1.307.700
+| 2015 | 1.310.700
+| 2016 | 1.312.500
+| 2017 | 1.314.300
+| 2018 | 1.315.900
+| 2019 | 1.199.500
+| 2020 | 1.195.700
+| 2021 | 1.206.800
+| 2022 | 1.197.800
+| 2023 | 1.198.800
+| 31/12/2024 | 1.703.286
+}}
+
+Sóc Trăng là địa bàn cư trú của ba dân tộc chính là [[người Việt|dân tộc Kinh]] (774.807 người), [[Người Hoa (Việt Nam)|Hoa]], [[Người Khmer (Việt Nam)|Khmer]] cùng với nhiều dân tộc khác.
+
+Tính đến ngày 1 tháng 4 năm 2019, toàn tỉnh có 10 [[tôn giáo]] khác nhau đạt 688.461 người, nhiều nhất là [[Phật giáo Việt Nam|Phật giáo]] có 662.990 người, tiếp theo là [[Công giáo tại Việt Nam|Công giáo]] đạt 13.607 người, [[đạo Cao Đài]] có 7.260 người, [[Kháng Cách|đạo Tin Lành]] có 3.770 người, [[Tịnh độ cư sĩ Phật hội Việt Nam]] chiếm 468 người, [[Phật giáo Hòa Hảo]] đạt 255 người. Còn lại là các tôn giáo khác như [[Hồi giáo tại Việt Nam|Hồi giáo]] có 99 người, [[Minh Lý Đạo]] có tám người, [[Minh Sư Đạo]] và [[Bửu Sơn Kỳ Hương]] mỗi đạo chỉ có hai người.<ref name="dstcdtvn">[http://www.gso.gov.vn/Modules/Doc_Download.aspx?DocID=12724 Kết quả toàn bộ Tổng điều tra Dân số và Nhà ở Việt Nam năm 2009], Tổng cục Thống kê Việt Nam.</ref>
+
+Tỉnh Sóc Trăng có diện tích tự nhiên là 3.298,20&nbsp;km² và quy mô dân số tính đến ngày 31/12/2022 là 1.686.681 người.<ref>{{Chú thích web|url=https://soctrang.gov.vn/SiteFolders/vpubnd/5081/1720%20VP-TH%20(%C4%90%C4%83ng%20c%E1%BB%95ng).pdf|tựa đề= Văn phòng UBND tỉnh Sóc Trăng số 1720/VP-TH về việc lấy ý kiến đối với dự thảo Tờ trình và dự thảo Nghị quyết của HĐND tỉnh về việc thông qua chủ trương sắp xếp đơn vị hành chính cấp huyện, cấp xã giai đoạn 2023 – 2025 của tỉnh Sóc Trăng |tác giả=|ngày= 2024-03-28 |website= |url lưu trữ=https://web.archive.org/web/20240609010715/https://soctrang.gov.vn/SiteFolders/vpubnd/5081/1720%20VP-TH%20(%C4%90%C4%83ng%20c%E1%BB%95ng).pdf|ngày lưu trữ= 2024-06-09 |ngày truy cập= 2024-06-09 |url-status= dead }}</ref><ref>{{Chú thích web|url=https://drive.google.com/file/d/1uAc4g5EnmAvPzHBbanldwWu6FEpZL4gW/view?usp=drivesdk|tựa đề= Tờ trình số 21/TTr-UBND.về việc thông qua chủ trương sắp xếp đơn vị hành chính cấp huyện, cấp xã giai đoạn 2023 – 2025 của tỉnh Sóc Trăng |tác giả=|ngày= 2024-04-03 |website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=|url-status= dead }}</ref>
+
+Tính đến ngày 31/12/2024, tỉnh Sóc Trăng có diện tích 3.298,20&nbsp;km² và quy mô dân số là 1.703.286 người.<ref name=TT>{{Chú thích web|url=https://tuoitre.vn/chi-tiet-du-kien-quy-mo-dan-so-dien-tich-kinh-te-cua-34-tinh-thanh-sau-sap-nhap-20250513081155167.htm|tựa đề= Chi tiết dự kiến quy mô dân số, diện tích, kinh tế của 34 tỉnh, thành sau sáp nhập |tác giả= Thành Chung |ngày= 2025-05-13 |website= Tuổi Trẻ Online |url lưu trữ=https://web.archive.org/web/20250513080219/https://tuoitre.vn/chi-tiet-du-kien-quy-mo-dan-so-dien-tich-kinh-te-cua-34-tinh-thanh-sau-sap-nhap-20250513081155167.htm|ngày lưu trữ= 2025-05-13 |ngày truy cập= 2025-05-13 |url-status= dead }}</ref><ref name=PA>{{Chú thích web|url=https://soctrang.gov.vn/SiteFolders/htrande/thong-tin-huong-dan/N%C4%83m%202025/PH%C6%AF%C6%A0NG%20%C3%81N%20S%E1%BA%AEP%20X%E1%BA%BEP%20%C4%90VHC%20C%E1%BB%A6A%20T%E1%BB%88NH%20SOC%20TRANG.pdf|tựa đề= Phương án sắp xếp đơn vị hành chính cấp xã của tỉnh Sóc Trăng |tác giả=|ngày= 2025-04 |website=|url lưu trữ=https://web.archive.org/web/20250428104546/https://soctrang.gov.vn/SiteFolders/htrande/thong-tin-huong-dan/N%C4%83m%202025/PH%C6%AF%C6%A0NG%20%C3%81N%20S%E1%BA%AEP%20X%E1%BA%BEP%20%C4%90VHC%20C%E1%BB%A6A%20T%E1%BB%88NH%20SOC%20TRANG.pdf|ngày lưu trữ= 2025-04-28 |ngày truy cập= 2025-04-28 |url-status= dead }}</ref>
+
+==Văn hóa==
+[[Tập tin:Chùa Dơi, tranh tường.JPG|thumb|right|Tranh tường [[Chùa Dơi|Chùa Mã Tộc]]]]
+Với một nền văn hóa đặc sắc và khá riêng biệt mà có thể gọi là: ''"văn hoá xứ giồng"'', thể hiện qua các mặt trong đời sống hằng ngày của người Sóc Trăng, từ ngôn ngữ, mối quan hệ [[xã hội]], tên đất, tên làng đến tín ngưỡng tôn giáo, [[ẩm thực]] và lễ hội của người Kinh, Hoa, Khmer và số ít người Chăm.
+
+===Lễ hội===
+[[Tập tin:Tu viện Phật giáo tiểu thừa, Sóc Trăng.jpg|nhỏ|Tu viện Phật giáo tiểu thừa, Sóc Trăng]]
+
+Năm 2013, tỉnh Sóc Trăng tổ chức Festival Đua Ghe Ngo Đồng bằng sông Cửu Long được tổ chức 2 năm một lần.
+*Lễ hội Ooc Om Boc – Đua Ghe Ngo (Cúng trăng), được tổ chức đua ghe vào rằm tháng 10 âm lịch hàng năm, cùng với lễ hội Loi-Pro-tip là lễ hội thả đèn nước trên sông Maspero tại trung tâm [[Sóc Trăng (thành phố)|thành phố Sóc Trăng]]
+*Lễ Sen Đôlta (thờ cúng tổ tiên của người Khmer)
+*Lễ [[Lễ hội Chol Chnam Thmay|Chol Chnăm Thmây]] (Vào năm mới),...
+*Lễ Nghinh Ong (ở Trần Đề)
+*[[Thanh minh]] (của người Kinh và Hoa).
+*Lễ hội thí vàng (tháng 7), chủ yếu là tại các khu vực có nhiều người Hoa sinh sống.
+
+Lễ kỳ yên ở các đình chùa. Mỗi làng xã người Việt, người Hoa thường có đình chùa và được tổ chức vào khoảng 3 ngày liên tiếp trong năm tùy đình chùa đó. Lễ hội chính là cúng thần và trình diễn cải lương.
+
+=== Di tích ===
+[[Tập tin:Chùa La Hán - Sóc Trăng.jpg|nhỏ|Chùa La Hán]]
+Sóc Trăng là tỉnh có hơn 200 ngôi chùa của cả ba dân tộc Kinh, Hoa, Khmer. Nổi tiếng thì phải kể đến [[Chùa Dơi]] (chùa Mã Tộc, Mahatup), [[Chùa Đất Sét|Chùa Đất Sét (Bửu Sơn tự)]], [[Chùa Khléang]], chùa Chén Kiểu (chùa Salon), chùa La Hán, chùa Bốn Mặt (chùa Barai), chùa Quan Âm linh ứng, Chùa Khánh Sơn, chùa Hương Sơn, chùa Đại Giác,... Ngoài ra còn còn có đền thờ, đình, miếu, nhà thờ, thánh thất,...
+
+[[Tập tin:Chùa Đất Sét Sóc Trăng.jpg|trái|nhỏ|Bửu Sơn Tự, chùa Đất Sét]]
+*Bửu Sơn tự (hay [[chùa Đất Sét]]): Đây là một am thờ đã qua nhiều đời của dòng tộc họ Ngô, có tất cả tượng [[Phật]] đến linh thú, bảo tháp, đỉnh trầm đều được làm từ đất sét. Phần lớn do ông Ngô Kim Tòng sáng tạo trong suốt 42 năm (1928–1970). Ngoài ra, trong chùa còn có 6 cây nến lớn hai cây nặng 200&nbsp;kg hai cây nến nhỏ nặng 100&nbsp;kg và ba cái đỉnh bằng đất mỗi cái cao 2m. Hai cây nến nhỏ đã đốt liên tục trong 40 năm kể từ năm 1970 khi ông Ngô Kim Tòng qua đời. Sáu cây nến lớn chưa đốt, mỗi cây sẽ có thời gian cháy liên tục khoảng 70 năm.
+*[[Chùa Dơi|Chùa Mã Tộc]] (hay chùa Dơi): Chùa được xây dựng cách đây hơn 400 năm.<ref>{{Chú thích web |url=http://soctrang.edu.vn/ |ngày truy cập=2012-04-30 |tựa đề=/chitiettin.asp?IDT=901221104407 |archive-date=2012-06-07 |archive-url=https://web.archive.org/web/20120607061718/http://www.soctrang.edu.vn/ |url-status=dead }}</ref> Chùa còn có tên là chùa Dơi vì ngôi chùa này từ lâu đã là nơi trú ẩn của khoảng 1 triệu con [[bộ Dơi|dơi]]{{cần dẫn chứng}}, phần lớn có sải cánh 1-1h, 2m, những con lớn nhất có sải cánh lên tới 1,5m. chúng treo mình trên những cành cây chung quanh chùa để ngủ suốt ngày,đến chiều tối mới bắt đầu lần lượt bay đi kiếm ăn ở những nơi có nhiều vườn trái cây cách xa.
+*Hòa An Hội Quán (miếu Ông Bổn): Được xây dựng vào năm 1875, miếu thờ Trịnh Ân tức Cảm Thiên Đại Đế. Chùa được xây dựng với kiến trúc độc đáo của người Hoa chất liệu toàn bằng đá, gỗ quý từ Trung Quốc chở qua. Di tích này được trải qua 7 đợt trùng tu nhưng vẫn giữ được những giá trị nghệ thuật kiến trúc. Rằm tháng giêng hàng năm nhân tết nguyên tiêu chùa đều có tổ chức lễ hội đấu đèn lồng.
+[[Tập tin:Chùa Phật học 2 - Sóc Trăng.jpg|nhỏ|Chùa Phật học 2, phường 8, TP. Sóc Trăng|thế=]]
+[[Tập tin:Chua soc trang.jpg|nhỏ|Chùa Khleang|thế=]]
+*Khu căn cứ tỉnh ủy Sóc Trăng: xã [[Mỹ Phước]], huyện [[Mỹ Tú (huyện)|Mỹ Tú]].
+*Đền thờ Bác Hồ: xã [[An Thạnh Đông]], huyện [[Cù Lao Dung (huyện)|Cù Lao Dung]].
+
+=== Đặc sản ===
+[[Tập tin:Cửa hàng trà bánh.jpg|nhỏ|Một cửa hàng bán trà bánh (nhiều nhất là bánh pía) ở TP. Sóc Trăng|thế=]]Sóc Trăng có nền văn hóa ẩm thực hết sức phong phú và đa dạng, trong đó có thể kể đến như:
+
+* Các loại quà - bánh: [[Bánh pía]] Vũng Thơm, bánh bầu, bánh in, bánh ống, bánh dứa, cốm dẹp, mè láo, bánh in Cổ Cò, [[bánh cống]] [[Đại Tâm]], bánh gừng, [[xá bấu]] (củ cải muối [[Vĩnh Châu (thị xã)|Vĩnh Châu]], có ba loại là xá bấu mặn, xá bấu ngọt, xá bấu chua ngọt), [[lạp xưởng]]
+* Bún: Bún nước lèo, bún xào, bún gỏi dà (bún gỏi già), [[bò nướng ngói]] [[Mỹ Xuyên (huyện)|Mỹ Xuyên]].
+* Khô: Khô trâu [[Thạnh Trị (huyện)|Thạnh Trị]], khô heo [[Lịch Hội Thượng]], khô cá [[Trần Đề (xã)|Trần Đề]]
+*Mắm: Mắm chiên [[Ngã Năm (thị xã)|Ngã Năm]], mắm cá rô không xương
+*Nông thủy sản: hành tím [[Vĩnh Châu (thị xã)|Vĩnh Châu]], nhãn tím [[Kế Sách (huyện)|Kế Sách]], cá bống sao [[Cù Lao Dung (huyện)|Cù Lao Dung]]
+
+=== Âm nhạc ===
+Bài hát "Sóc sờ bai Sóc Trăng" (Chào buổi sáng Sóc Trăng) được sáng tác bởi nhạc sĩ [[Thanh Sơn (nhạc sĩ)|Thanh Sơn]].
+
+==Du lịch==
+[[Tập tin:Hồ Nước Ngọt - TP Sóc Trăng.jpg|giữa|999x999px|Xung quanh Hồ Tịnh Tâm (hồ nhỏ trong khu công viên Hồ Nước Ngọt)]]
+
+Ngoài chùa chiền và các lễ hội đặc sắc. Sóc Trăng còn có những địa điểm tham quan như:
+
+[[Tập tin:Khu Văn hóa Hồ Nước Ngọt - Sóc Trăng.jpg|nhỏ|280x280px|Hồ Nước Ngọt về đêm]]
+Hồ Nước Ngọt: khu công viên văn hóa này rộng khoảng 20ha, tọa lạc trên đường Hùng Vương, thành phố Sóc Trăng.<ref>{{Chú thích web|url=https://vietintravel.com/cong-vien-ho-nuoc-ngot-soc-trang-du-lich-den-voi-thanh-pho-soc-trang/|tựa đề= Công Viên Hồ Nước Ngọt Sóc Trăng – du lịch đến với thành phố Sóc Trăng |tác giả=|ngày= 2020-06-02 |website= Vietravel |url lưu trữ=https://web.archive.org/web/20211106214455/https://vietintravel.com/cong-vien-ho-nuoc-ngot-soc-trang-du-lich-den-voi-thanh-pho-soc-trang/|ngày lưu trữ= 2021-11-06 |ngày truy cập= 2021-11-06 |url-status= dead }}</ref>
+
+Chợ nổi Ngã Năm: nằm tại trung tâm thị xã Ngã Năm.
+
+Vườn cò Tân Long: nằm tại xã Long Bình, thị xã Ngã Năm, tỉnh Sóc Trăng, vườn cò này do gia đình ông Huỳnh Văn Mười quản lý. Với diện tích rộng khoảng 1,5ha, được che phủ bởi những bụi tre, hàng dừa đã tạo nên một môi trường tự nhiên lí tưởng cho loài cò. Cùng với sự chăm nom của ông Mười, nơi này hình thành một sân chim với hàng vạn con cò, vạc sinh sống hòa thuận. Đại gia đình chim gồm: cò gà, cò trắng tinh, cò đầu đỏ, cò trâu, cồng cộc, vạc,...
+
+Cồn Mỹ Phước: nằm gần cuối hạ lưu sông Hậu, thuộc địa phận xã Nhơn Mỹ, huyện Kế Sách. Với khí hậu, thổ nhưỡng, sông nước đặc thù khu vực đồng bằng sông Cửu Long nên cồn Mỹ Phước là môi trường thích hợp để các loại cây ăn trái phát triển. Thời điểm cồn Mỹ Phước đón nhiều du khách nhất là dịp diễn ra Lễ hội Sông nước Miệt vườn (trong 2 ngày mồng 4 và mồng 5 tháng 5 (âm lịch) hàng năm), với các hoạt động như: nghi thức, nghi lễ cúng Tết Đoan Ngọ, hội thi làm bánh xèo, hội chợ đưa hàng Việt về nông thôn, hội thảo về cây ăn trái, hội thảo sông nước miệt vườn, đua thuyền rồng, đua ca nô, đua vỏ lãi, nhảy bao, đập nồi,...
+
+Hồ Bể: nằm ở xã [[Vĩnh Hải, Cần Thơ|Vĩnh Hải]], thị xã [[Vĩnh Châu (thị xã)|Vĩnh Châu]], Hồ Bể là một bãi biển vừa được khai phá giữa vùng trồng rừng phòng hộ ven biển. Bãi biển dài 5 cây số, vẫn còn mộc mạc, hoang sơ, thích hợp cho những chuyến thư giãn cuối tuần. Khu vực Hồ Bể còn là nơi trú ngụ và sinh sản của nhiều giống loài thủy sản có giá trị. Từ lâu, khu vực này đã hình thành nên những bãi cua biển, nghêu, sò huyết giống,... đem lại nguồn thu nhập đáng kể cho người dân địa phương. Sự phong phú về nguồn lợi thủy sản nơi đây luôn được gắn liền với công tác trồng và bảo vệ rừng phòng hộ ven biển.
+
+Điểm du lịch sinh thái Mỏ Ó: cách trung tâm tỉnh lỵ Sóc Trăng khoảng 30&nbsp;km về phía Đông Nam, nằm gần cửa sông Mỹ Thanh và Trần Đề thuộc khu vực biển Đông, thuộc xã [[Trung Bình]], huyện [[Trần Đề (huyện)|Trần Đề]], nơi đây có diện tích rừng tự nhiên trên 260 ha, là nơi trú ngụ của nhiều loài chim chóc,  bò sát và hải sản quý hiếm (rắn, rùa, cua, cò, cá...).<ref>{{Chú thích web|url=https://www.soctrang.gov.vn/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gLR1dvZ09LYwOL4GAnA08TRwsfvxBDR2NzI_2CbEdFAGrTAp4!/?WCM_GLOBAL_CONTEXT=/wps/wcm/connect/web+content/soctrangsite/dulich/khamphasoctrang/danhlamthangcanh/mootrande|tựa đề= Danh lam thắng cảnh: Mỏ Ó (Trần Đề) – điểm du lịch hấp dẫn |tác giả=|ngày= 2012-10-10 |website= Cổng thông tin điện tử tỉnh Sóc Trăn |url lưu trữ=https://web.archive.org/web/20160820045119/https://www.soctrang.gov.vn/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gLR1dvZ09LYwOL4GAnA08TRwsfvxBDR2NzI_2CbEdFAGrTAp4!/?WCM_GLOBAL_CONTEXT=%2Fwps%2Fwcm%2Fconnect%2Fweb+content%2Fsoctrangsite%2Fdulich%2Fkhamphasoctrang%2Fdanhlamthangcanh%2Fmootrande|ngày lưu trữ= 2016-08-20 |ngày truy cập= 2021-07-03 |url-status= dead }}</ref>
+
+==Giao thông==
+[[Tập tin:Bưu điện Sóc Trăng.jpg|nhỏ|280x280px|Vòng xoay tại Bưu điện Sóc Trăng trên đường Trần Hưng Đạo|trái]]
+
+Sóc Trăng là tỉnh có vị trị địa lý khá thuận lợi cho việc giao thương và phát triển [[kinh tế]], [[xã hội]].
+
+Trên địa bàn có 7 tuyến [[Quốc lộ]]: [[Quốc lộ 1]], [[Quốc lộ 60]], [[Đường Nam Sông Hậu]], [[Quốc lộ Quản Lộ - Phụng Hiệp]], [[Quốc lộ 61B]], [[đường cao tốc Châu Đốc – Cần Thơ – Sóc Trăng]] và 14 tuyến tỉnh lộ với tổng [[chiều dài]] hơn 600&nbsp;km, hệ thống đường huyện, đường giao thông nông thôn có hơn 3.700&nbsp;km. Mạng lưới đường ô tô khá dài chiếm khoảng 129&nbsp;km.
+
+Toàn tỉnh hiện có 8 tuyến [[xe buýt]], trong đó các tuyến gồm:
+#Tuyến 1: TP. Sóc Trăng - Thạnh Trị - TX. Ngã Năm
+#Tuyến 2: TP. Sóc Trăng - Châu Thành - TP. Ngã Bảy (Hậu Giang)
+#Tuyến 3: TP. Sóc Trăng - Long Phú - Đại Ngãi
+#Tuyến 4: TP. Sóc Trăng - Mỹ Xuyên - Kinh Ba (Trần Đề)
+#Tuyến 5: TP. Sóc Trăng - Kế Sách
+#Tuyến 6: TP. Sóc Trăng - Mỹ Tú
+#Tuyến 7: TP. Sóc Trăng - TX. Vĩnh Châu
+#Tuyến 8: TP. Sóc Trăng - Đại Ngãi - Nhơn Mỹ (Kế Sách) - An Lạc Thôn - TP. Cần Thơ.
+
+Toàn tỉnh có 72&nbsp;km bờ biển,<ref name="dbtst">[http://www.chinhphu.vn/portal/page/portal/chinhphu/cactinhvathanhpho/tinhsoctrang/thongtintinhthanh?view=introduction&provinceId=1378 Tỉnh sóc Trăng có đường bờ biển dài 72 km] {{Webarchive|url=https://web.archive.org/web/20140123002316/http://chinhphu.vn/portal/page/portal/chinhphu/cactinhvathanhpho/tinhsoctrang/thongtintinhthanh?view=introduction&provinceId=1378 |date=2014-01-23 }}, Cổng thông tin Chính phủ.</ref> có 3 cửa sông lớn là [[Định An]], [[Trần Đề (huyện)|Trần Đề]] của [[Sông Hậu]] và Mỹ Thanh của [[sông Mỹ Thanh]] đổ ra [[biển Đông]] rất thuận lợi cho giao thông [[đường thủy]], [[đường giao thông|đường bộ]] và phát triển kinh tế [[du lịch]].
+
+==Hình ảnh==
+<gallery>
+Tập tin:Chua soc trang.jpg|Chùa Khleang ở phường 6, TP. Sóc Trăng
+Tập tin:Chùa Đất Sét Sóc Trăng.jpg|Bửu Sơn tự (tục gọi chùa Đất Sét) ở TP. Sóc Trăng
+Tập tin:Chùa La Hán - TP Sóc Trăng.jpg|Chùa La Hán, phường 8, TP Sóc Trăng
+Tập tin:Chánh điện chùa Dơi - Sóc Trăng.jpg|Chánh điện chùa Dơi (Mahatup), phường 3, TP Sóc Trăng
+Tập tin:Đền thờ Bác.jpg|Đền thờ Bác Hồ - An Thạnh Đông, huyện Cù Lao Dung
+Tập tin:Một góc TP.Sóc Trăng.jpg|Một góc TP.Sóc Trăng
+Tập tin:Đường phố ở TP.Sóc Trăng.jpg|Đường phố ở TP.Sóc Trăng
+Tập tin:Sông Masepo, TP.Sóc Trăng.jpg|Sông Maspero, TP.Sóc Trăng
+Tập tin:Soctrang02.JPG|[[Chùa Dơi|Chùa Mã Tộc]]
+Tập tin:Tu viện Phật giáo tiểu thừa, Sóc Trăng.jpg|Tu viện Phật giáo tiểu thừa, Sóc Trăng
+Tập tin:Cù Lao Dung, Sóc Trăng.jpg|Cù Lao Dung, Sóc Trăng
+Tập tin:Trẻ em chơi bóng ở Long Phú, Sóc Trăng.jpg|Trẻ em chơi bóng ở Long Phú, Sóc Trăng
+Tập tin: Bảo tháp chùa Som Rong.jpg| Bảo tháp ở chùa Som Rong, Sóc Trăng
+</gallery>
+
+==Chú thích==
+{{Tham khảo|30em}}
+
+==Tham khảo==
+{{Commonscat|Soc Trang Province}}
+
+{{Tỉnh cũ Việt Nam}}
+
+[[Thể loại:Sóc Trăng| ]]
+[[Thể loại:Từ gốc Khmer]]
+[[Thể loại:Tỉnh cũ Việt Nam]]
+[[Thể loại:Cần Thơ]]

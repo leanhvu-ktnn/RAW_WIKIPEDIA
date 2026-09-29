@@ -1,0 +1,27 @@
+test_detects_stale_manifest_duplicates_and_bad_ids (test_audit_corpus.AuditTests.test_detects_stale_manifest_duplicates_and_bad_ids) ... ok
+test_paths_are_confined (test_audit_corpus.AuditTests.test_paths_are_confined) ... ok
+test_preserves_leading_zero_and_unicode (test_audit_corpus.AuditTests.test_preserves_leading_zero_and_unicode) ... ok
+test_rejects_unsupported_and_duplicate_fields (test_audit_corpus.AuditTests.test_rejects_unsupported_and_duplicate_fields) ... ok
+test_duplicate_and_incomplete_final_report_rejected (test_exchange.ExchangeTests.test_duplicate_and_incomplete_final_report_rejected) ... ok
+test_fixtures (test_exchange.ExchangeTests.test_fixtures) ... ok
+test_found_requires_snapshot_and_error_is_not_missing (test_exchange.ExchangeTests.test_found_requires_snapshot_and_error_is_not_missing) ... ok
+test_reference_and_request_hash_mismatch_rejected (test_exchange.ExchangeTests.test_reference_and_request_hash_mismatch_rejected) ... ok
+test_snapshot_integrity_and_separate_identifiers (test_exchange.ExchangeTests.test_snapshot_integrity_and_separate_identifiers) ... ok
+test_unknown_version_and_inf_write_field_rejected (test_exchange.ExchangeTests.test_unknown_version_and_inf_write_field_rejected) ... ok
+test_429_retry_after_and_403_no_retry (test_province_crawl.CrawlTests.test_429_retry_after_and_403_no_retry) ... ok
+test_evidence_exact_lines_and_no_date_inference (test_province_crawl.CrawlTests.test_evidence_exact_lines_and_no_date_inference) ... ok
+test_http_date (test_province_crawl.CrawlTests.test_http_date) ... ok
+test_input_preserves_observations_and_epochs (test_province_crawl.CrawlTests.test_input_preserves_observations_and_epochs) ... ok
+test_maxlag_and_cache_preserve_original_bytes (test_province_crawl.CrawlTests.test_maxlag_and_cache_preserve_original_bytes) ... ok
+test_network_error_not_missing (test_province_crawl.CrawlTests.test_network_error_not_missing) ... ok
+test_country_mismatch_cannot_become_found_and_city_name_preserved (test_province_package.PackageTests.test_country_mismatch_cannot_become_found_and_city_name_preserved) ... ok
+test_reference_and_evidence_must_match_original (test_province_package.PackageTests.test_reference_and_evidence_must_match_original) ... ok
+test_shared_page_does_not_collapse_97_targets_and_tampering_fails (test_province_package.PackageTests.test_shared_page_does_not_collapse_97_targets_and_tampering_fails) ... ok
+test_evidence_is_preserved_and_overwrite_rejected (test_record_trace.TraceTests.test_evidence_is_preserved_and_overwrite_rejected) ... ok
+test_rejects_escape_and_invalid_input_before_writing (test_record_trace.TraceTests.test_rejects_escape_and_invalid_input_before_writing) ... ok
+test_broken_reference_and_corrupt_trace_fail (test_validate_project.ProjectValidationTests.test_broken_reference_and_corrupt_trace_fail) ... ok
+
+----------------------------------------------------------------------
+Ran 22 tests in 3.322s
+
+OK

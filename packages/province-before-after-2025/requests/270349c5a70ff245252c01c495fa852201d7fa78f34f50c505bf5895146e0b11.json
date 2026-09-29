@@ -1,0 +1,26 @@
+{
+  "request_url": "https://vi.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&inprop=url&maxlag=5&ppprop=wikibase_item%7Cdisambiguation&prop=info%7Cpageprops&redirects=1&titles=Ki%C3%AAn+Giang%7CKi%C3%AAn+Giang+%28t%E1%BB%89nh%29%7CKi%C3%AAn+Giang+%28t%E1%BB%89nh+c%C5%A9%29%7CKi%C3%AAn+Giang+%28tr%C6%B0%E1%BB%9Bc+2025%29",
+  "params": {
+    "format": "json",
+    "formatversion": "2",
+    "maxlag": 5,
+    "action": "query",
+    "titles": "Kiên Giang|Kiên Giang (tỉnh)|Kiên Giang (tỉnh cũ)|Kiên Giang (trước 2025)",
+    "redirects": 1,
+    "prop": "info|pageprops",
+    "inprop": "url",
+    "ppprop": "wikibase_item|disambiguation"
+  },
+  "retrieved_at": "2026-09-29T15:27:44.866095Z",
+  "http_status": 200,
+  "headers": {
+    "date": "Tue, 29 Sep 2026 15:27:44 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1772"
+  },
+  "path": "sources/responses/61ddd1ae5c6113347d351fe3e88b2ccf219ad1c944ceb7b61da0df3da1d2e9fb.json",
+  "sha256": "61ddd1ae5c6113347d351fe3e88b2ccf219ad1c944ceb7b61da0df3da1d2e9fb",
+  "byte_length": 1772,
+  "media_type": "application/json",
+  "representation": "unmodified MediaWiki HTTP response body bytes"
+}
