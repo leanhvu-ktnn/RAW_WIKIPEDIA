@@ -6,3 +6,12 @@ __pycache__/
 .env.*
 !.env.example
 .cache/
+
+.runtime/
+*.sqlite*
+*.pdf
+*.doc
+*.docx
+*.rtf
+*.rar
+*.zip
